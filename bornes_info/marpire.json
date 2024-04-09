@@ -1,0 +1,128 @@
+[
+  {
+    "title": "OuestCharge - Châteaubourg - Square Jean XXIII",
+    "address": "Square Jean XXIII - Châteaubourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé Carwash",
+    "address": "30 Lieu Dit Le Bourgneuf - Val-d'Izé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Rue du Château - Val-d'Izé",
+    "address": "Rue du Château - Val-d'Izé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Last Mile Solutions - Châteaubourg - Super U",
+    "address": "Avenue de la Bretonnière - Châteaubourg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "ChargePoint network - 17 Rue Monseigneur Millaux - Châteaubourg",
+    "address": "17 Rue Monseigneur Millaux - Châteaubourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bt blue - Rue Blaise Pascal",
+    "address": "30 Rue Blaise Pascal - Châteaubourg",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue Goulgatière - Châteaubourg",
+    "address": "Rue Goulgatière - Châteaubourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Aldi - Châteaubourg",
+    "address": "Rue de Rennes - Châteaubourg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Super U - Châteaubourg",
+    "address": "13 Rue Fabien Burel - Châteaubourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Le Ronsseloux - Vitré",
+    "address": "0 Le Ronsseloux - Vitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

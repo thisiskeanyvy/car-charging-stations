@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Hotel de ville - Quai Eustache Chappuis - Annecy",
+    "address": "Quai Eustache Chappuis - Annecy",
+    "connectors": [
+      "x8",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Parking Trésum - Annecy",
+    "address": "Parging Trésum - Annecy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Bonlieu - Annecy",
+    "address": "8 Avenue d'Albigny - Annecy",
+    "connectors": [
+      "x11",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYANE - Bonlieu AUTOMOBILE CLUB - Annecy",
+    "address": "1 Rue Guillaume Fichet - Annecy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Le Pré Carré",
+    "address": "27 Rue Sommeiller - Annecy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Schneider - Hotel le Pelican - Annecy",
+    "address": "20 Rue des Marquisats - Annecy",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue de la Gare - Annecy",
+    "address": "18 Rue de la Gare - Annecy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Poste - Annecy",
+    "address": "8 Rue des Glières - Annecy",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Carnot - Annecy",
+    "address": "49 Rue Carnot - Annecy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE (e-born) - Faubourg des Balmettes, 14 - Annecy",
+    "address": "14 Faubourg des Balmettes - Annecy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

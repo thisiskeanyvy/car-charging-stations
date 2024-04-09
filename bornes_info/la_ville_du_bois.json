@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Paris-Saclay - la-Ville-du-Bois - Mairie",
+    "address": "8 Rue des Écoles - La ville-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay - la-Ville-du-Bois - place Beaulieu",
+    "address": "1 allée Victor Hugo - La ville-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay-Mobielectrique - 74 Rue du Grand Noyer - La Ville-du-Bois",
+    "address": "74 Rue du Grand Noyer - La Ville-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - 54 boulevard de la Division Leclerc - Ballainvilliers",
+    "address": "54 boulevard de la Division Leclerc - Ballainvilliers",
+    "connectors": [
+      "x1",
+      "x5",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Bernier Ballainvilliers",
+    "address": "2 Route de la Grange aux Cercles - Ballainvilliers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - La ville-du-Bois - 115 Avenue de la Division Leclerc",
+    "address": "115 Avenue de la Division Leclerc - La ville-du-Bois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rue des Hauts Fresnais - Ballainvilliers",
+    "address": "101 Rue des Hauts Fresnais - Ballainvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allée Érik Satie - Longpont-sur-Orge",
+    "address": "1 Allée Erik Satie - Longpont-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Longpont",
+    "address": "ZAC des Echassons - Longpont-sur-Orge",
+    "connectors": [
+      "x8",
+      "x8",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Ville du Bois",
+    "address": "5 rue des la Croix Saint-Jacques - La Ville-du-Bois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

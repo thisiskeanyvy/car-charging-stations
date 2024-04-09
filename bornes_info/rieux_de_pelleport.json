@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Shell Recharge - Route du Moulin",
+    "address": "Route du Moulin - Rieux-de-Pelleport",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Pôle médico-social - Varilhes",
+    "address": "16-18 Avenue des Pyrénées - Varilhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mac Donald - Verniolle (PRIVÉE)",
+    "address": "parc commercial Graussette - Verniolle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Super U - Verniolle",
+    "address": "265 Rue Clément Ader - Verniolle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DELTA SUD - Verniolle",
+    "address": "703 Parc Technologique Delta Sud - Verniolle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking mairie - Saint-Jean-du-Falga",
+    "address": "Rue de la République - Saint-Jean-du-Falga",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Saint-Jean-du-Falga - 52b Avenue Des Pyrénées",
+    "address": "52b Avenue Des Pyrénées - Saint-Jean-du-Falga",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Jardin botanique - Loubières",
+    "address": "Chemin des Fournasses - Loubières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Pamiers",
+    "address": "1070 Avenue de la Bouriette - Pamiers",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché Hyper - Pamiers",
+    "address": "1070 Avenue de la Bouriette - Pamiers",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

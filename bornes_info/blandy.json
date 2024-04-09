@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDESM - Route de Mormant Saint-Méry",
+    "address": "1 Rue de Mormant - Saint-Méry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sivry Courtry",
+    "address": "9 Domaine de la Belle Allée - Sivry-Courtry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Grande Saint-Germain-Laxis",
+    "address": "36 Rue Grande - Saint-Germain-Laxis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Châtillon-la-Borde",
+    "address": "2 Rue de la Justice - Châtillon-la-Borde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place du souvenir - Maincy",
+    "address": "2 Place du Souvenir - Maincy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vallées et Chateaux",
+    "address": "1 Rue des Petits Champs - Le Châtelet-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Mairie - Le Châtelet-en-Brie",
+    "address": "1 Ruelle Montagne - Le Châtelet-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*CAR - Guignes - Rue Saint-Abdon ZA de l'Orée de Guignes",
+    "address": "Rue Saint-Abdon ZA de l'Orée de Guignes - Guignes",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Rue du Tertre Cherisy - Vaux-le-Pénil",
+    "address": "Rue du Tertre Cherisy - Vaux-le-Pénil",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "7–9 Rue de la Plaine de la Croix Besnard",
+    "address": "4 Rue de la Plaine de la Croix Besnard - Vaux-le-Pénil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ZEborne - 1 Avenue Jacques Parisot - Saint-Loup-sur-Semouse",
+    "address": "1 Avenue Jacques Parisot - Saint-Loup-sur-Semouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking mairie - Saint-Loup-sur-Semouse",
+    "address": "7 Rue Henri Guy - Saint-Loup-sur-Semouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Territoire d'énergie",
+    "address": "7 Rue Henri Guy - Saint-Loup-sur-Semouse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Corbenay",
+    "address": "12 Avenue Albert Thomas - Corbenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - Rue de Luxeuil Fougerolles SUPPRIMÉ PAR OPÉRATEUR",
+    "address": "33 Rue de Luxeuil - Fougerolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Labienus - Luxeuil-les-Bains",
+    "address": "7 Avenue Labienus - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Moulin Cotant",
+    "address": "39 Rue de la Chenale - Fontenoy-le-Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Luxeuil-les-Bains",
+    "address": "59 Rue des Martyrs de la Résistance - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Bricomarché - Luxeuil les bains",
+    "address": "Av. du Maréchal Turenne - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auchan - Luxeuil-les-Bains",
+    "address": "33 Rue des Martyrs de la Résistance - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

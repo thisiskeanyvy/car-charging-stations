@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDEF - Edern (Rue de la Libération)",
+    "address": "4 Rue de la Libération - Edern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Briec (Rue Michel de Cornouaille)",
+    "address": "4 Rue Michel-Armand de Cornouaille - Briec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Landrévarzec (Place de la Fontaine)",
+    "address": "Rue de Kerroc'h - Landrévarzec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Trégourez (Rue Yves Allain)",
+    "address": "1P Rue Yves Allain - Trégourez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint-Thois (Place de la Mairie)",
+    "address": "Rue du Stade - Saint-Thois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Ergué-Gabéric - Avenue de Lestonan",
+    "address": "Avenue de Lestonan - Ergué-Gabéric",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Quéménéven (Rue Saint Laurent)",
+    "address": "9 Route de Kerampape - Quéménéven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Laz (Place de l'Eglise)",
+    "address": "Place de l'Église - Laz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Ergué Gabéric (Croas Spern)",
+    "address": "Route de Croas-Spern - Ergué-Gabéric",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Quimper (Park Poullic)",
+    "address": "Aire de covoituage CD29 - Quimper",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

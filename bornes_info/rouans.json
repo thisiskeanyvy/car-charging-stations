@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEGO - Route de Pazanne, 1 - Rouans",
+    "address": "2 Route de Pazanne - Rouans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Domaine de Port Sinan",
+    "address": "Port Sinan - Rouans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking de la Gare Chemeré",
+    "address": "Rue de Rouans - Chéméré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO - 19 Rue du Clos Grille - Le Pellerin",
+    "address": "19 Rue du Clos Grille - Le Pellerin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Station Frossay \"Mairie\"",
+    "address": "2 Rue du Cap Robert Martin - Frossay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Station St Hilaire de Chaléons",
+    "address": "Rue Eloi Guitteny - Saint-Hilaire-de-Chaléons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de l'Hôtel de ville, 10 - Sainte-Pazanne",
+    "address": "10 Rue de l'Hôtel de ville - Sainte-Pazanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "4 Allée du Marchas",
+    "address": "Rue de Nantes - Arthon-en-Retz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Impasse des Lavoirs - Sainte-Pazanne",
+    "address": "Impasse des Lavoirs - Sainte-Pazanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sydego - Station Port St Père",
+    "address": "Rue de Pornic - Port-Saint-Père",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

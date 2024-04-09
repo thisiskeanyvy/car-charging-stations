@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Révéo - Villefranche-de-Panat",
+    "address": "Rue du Centre - Villefranche-de-Panat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Saint-Victor-et-Melvieu - Saint-Victor",
+    "address": "Saint-Victor - Saint-Victor-et-Melvieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA - Place de la mairie - Lestrade-et-Thouels",
+    "address": "Lestrade - Lestrade-et-Thouels",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA - Mairie Alrance",
+    "address": "1926 Alrance - Alrance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Place du Terrail",
+    "address": "Place de Terrail - Saint-Rome-de-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - village - Brousse-le-Château",
+    "address": "village - Brousse-le-Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thibal - Saint-Affrique",
+    "address": "377 Route de Bournac - Saint-Affrique",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Square Emilien Coste - Durenque",
+    "address": "Square Emilien Coste - Durenque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "THIBAL DISTRIBUTION - Borne de recharge gratuite",
+    "address": "377 Route de Bournac - Saint-Affrique",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Sud Aveyron Automobiles - St-Affrique",
+    "address": "Le vern - St affrique",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

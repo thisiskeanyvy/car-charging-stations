@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Q-Park Chalon-sur-Saône Hôtel de Ville",
+    "address": "Passage du Milon - Chalon sur saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du 19 mars 1962 - Chalon-sur-Saône",
+    "address": "Place du 19 Mars 1962 - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Promenade Sainte-Marie - Chalon-sur-Saône",
+    "address": "Promenade Sainte-Marie - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Parking SNCF Avenue Jean Jaurès - Chalon-sur-Saône",
+    "address": "36 Avenue Jean Jaurès - Chalon-sur-Saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Castorama - Chalon-sur-Saône",
+    "address": "11 Rue Rene Cassin - Chalon-sur-Saône",
+    "connectors": [
+      "x19",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - Chalon-sur-Saône",
+    "address": "6 Rue René Cassin - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - 1 Rue Louis Alphonse Poitevin ZI Sud, - Chalon-sur-Saône",
+    "address": "1 Rue Louis Alphonse Poitevin ZI Sud, - Chalon-sur-Saône",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CH William Morey - Chalon-sur-Saône (Privé)",
+    "address": "Prés Devant - Chalon-sur-Saône",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Marcel",
+    "address": "15 Rue René Cassin - Saint-Marcel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW Mini - Chalon-sur-Saône",
+    "address": "2 Rue Louis Alphonse Poitevin - Chalon-sur-Saône",
+    "connectors": [
+      "x3",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

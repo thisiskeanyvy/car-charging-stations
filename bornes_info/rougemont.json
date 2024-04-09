@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Mairie de Morainvilliers",
+    "address": "6 Allée des Tilleuls - Morainvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Rue Saint-Pierre - Les Alluets-le-Roi",
+    "address": "Rue Saint-Pierre - Les Alluets-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Parking de l'Eglise - Orgeval",
+    "address": "Chemin du Ru - Orgeval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue De Normandie - Orgeval",
+    "address": "2 Rue De Normandie - Orgeval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Golf plus",
+    "address": "8 rue de Normandie - orgeval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Sud (vers Paris)",
+    "address": "315\r\n Route De Vernouillet\r\n - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Nord (direction Rouen)",
+    "address": "0 autoroute A13 - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aramis auto - Orgeval",
+    "address": "1319 Route de Quarante Sous - Orgeval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ecquevilly - Rue Des Alluets",
+    "address": "Rue Des Alluets - Ecquevilly",
+    "connectors": [
+      "x4",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "White Parc Villennes-sur-Seine",
+    "address": "3 Chemin aux Bœufs - Villennes-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

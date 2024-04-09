@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE24 - Mairie - Monbazillac",
+    "address": "D14E3 - Monbazillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 (MobiVE) - D17, 3 - Pomport",
+    "address": "3 D17 - Pomport",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - POMPORT - Route du lac 1736",
+    "address": "Route du lac 1736 - POMPORT",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hyundai/Mercedes - Bergerac",
+    "address": "2 Lieu-dit Valade - Bergerac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Route de Perthus Sigoulès",
+    "address": "25 Route de Perthus - Sigoulès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Singleyrac - Route du Cabernet Franc, Peyrichoux",
+    "address": "Route du Cabernet Franc, Peyrichoux - Singleyrac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Bergerac",
+    "address": "103 Avenue Paul Doumer - Bergerac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Bergerac",
+    "address": "D933 Av Paul Doumer - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route de Bordeaux null - Saint Laurent des Vignes INEXISTANT",
+    "address": "Route de Bordeaux null - Saint Laurent des Vignes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bergerac - Léopol",
+    "address": "131 Rte de Bordeaux - Bergerac",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

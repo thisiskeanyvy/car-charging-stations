@@ -1,0 +1,134 @@
+[
+  {
+    "title": "NW IECharge - D21 Route De La Scierie",
+    "address": "7 Route De La Scierie - Auriac-L'Eglise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue de la Gare - Massiac",
+    "address": "2 place faura - Massiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grand Hotel de la Poste",
+    "address": "26 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Agent Renault Tuffery - Massiac",
+    "address": "103 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bio Attitudes - Roffiac",
+    "address": "7 Zac De Montplain Les Allauziers - Roffiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Cantal - Le departement",
+    "address": "48 Rue du Dr Mallet - Saint flour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - D23 - Anzat-le-Luguet",
+    "address": "- Anzat-le-Luguet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte La K-Bane au fond du jardin - Impasse des Jardins (Tesla and others)",
+    "address": "3 Impasse des Jardins - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Hospitalier de Saint-Flour",
+    "address": "3 Rue Marcellin Boudet - Saint-Flour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking des Allées - St Flour",
+    "address": "8 Cours Spy Des Ternes - St.-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

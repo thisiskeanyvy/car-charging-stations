@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Metropolis Recharge - Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "address": "Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 9T Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "address": "9T Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "9bis Avenue Wladimir d'Ormesson",
+    "address": "9bis Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 35 Rue Gay Lussac - Chennevières-sur-Marne",
+    "address": "35 Rue Gay Lussac - Chennevières-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.I. les Bordes (Réservé aux employés)",
+    "address": "34 Rue Gay-Lussac - Chennevières-sur-Marne",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BMW ByMyCar - Rue Lavoisier - Chennevières-sur-Marne",
+    "address": "4 Rue Lavoisier - Chennevières-sur-Marne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Noiseau",
+    "address": "1 Rue Sadi Carnot - Noiseau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 6 Avenue du Maréchal Leclerc - Chennevières-sur-Marne",
+    "address": "6 Avenue du Maréchal Leclerc - Chennevières-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "DRIVECO - VOLVO Elysée Automobiles - Chennevières-sur-Marne",
+    "address": "102 Route de la Libération - Chennevières-sur-Marne",
+    "connectors": [
+      "x4",
+      "x9",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Ormesson-sur-Marne",
+    "address": "85 Route de Provins - Ormesson-sur-Marne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

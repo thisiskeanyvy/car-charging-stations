@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SEDI - Parking Place du 10e Regroupement - Saint-Laurent-du-Pont",
+    "address": "Place du 10ème Regroupement - Saint-Laurent-du-Pont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Recharger mon auto - Entre-Deux-Guiers - Déplacer les montagnes SÀRL",
+    "address": "Les Bauches Déplacer les montagnes SÀRL - Entre-Deux-Guiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Entre deux Guiers",
+    "address": "111 Avenue du 8 Mai 1945 - Entre-Deux-Guiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Saint-Pierre-de-Chartreuse",
+    "address": "Place de la Mairie - Saint-Pierre-de-Chartreuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-born - Route Du Frou - Saint-Pierre-d'Entremont",
+    "address": "8 Route Du Frou - Saint-Pierre-d'Entremont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEDI - Saint-Geoire-en-Valdaine",
+    "address": "Place André Chaize - Saint-Geoire-en-Valdaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Grenoble Métropole - Route du Charmant Som 439 - Sarcenas",
+    "address": "439 Route du Charmant Som - Sarcenas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Cave des Chartreuses - Voiron",
+    "address": "10 boulevard Edgar Kofler - Voiron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Mille Pas / Brasserie Chavant",
+    "address": "72 Avenue Léon et Joanny Tardy - Voiron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue François Mitterrand - Voiron",
+    "address": "34 Avenue François Mitterrand - Voiron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

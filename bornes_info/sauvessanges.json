@@ -1,0 +1,136 @@
+[
+  {
+    "title": "e-born - Place du Souvenir - Usson-en-Forez",
+    "address": "8 Place du Souvenir - Usson-en-Forez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Gare de Craponne-sur-Arzon",
+    "address": "1 B Place de la Gare - Craponne-sur-Arzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place de la Poste - Craponne-sur-Arzon",
+    "address": "10 Rue d'Ollias - Craponne-sur-Arzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEG 63 - Place Charles de Gaulle",
+    "address": "Place Charles de Gaulle - Arlanc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L./7033",
+    "address": "7 Route d'Augel - Saint-Bonnet-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Boule Obut - Saint-Bonnet-le-Château",
+    "address": "5 Route du Cros - Saint-Bonnet-le-Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Route d'Ambert - Saint-Anthème",
+    "address": "Route d'Ambert - Saint-Anthème",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL (Mobiloire) - avenue du Général Gouraud - Saint-Bonnet-le-Château",
+    "address": "15 Avenue du Général Gouraud - Saint-Bonnet-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Atomelec - Parking clients",
+    "address": "29 Avenue de Saint-Etienne - Saint-Bonnet-le-Château",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau de Valinches - Marols",
+    "address": "Route de Vallinches - Marols",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

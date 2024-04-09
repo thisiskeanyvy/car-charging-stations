@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Syaden - Parking du vieux cimetière Coursan",
+    "address": "5 Rue de l'Égalité - Coursan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Coursan",
+    "address": "55bis Avenue de Toulouse - Coursan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A9 Aire de Narbonne-Vinassan Nord (direction Narbonne)",
+    "address": "A9 - Salles-d'Aude",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps S.L. - Rue du Four à Chaux 44",
+    "address": "44 Rue du Four à Chaux - Vinassan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Rue de la Font - Vinassan",
+    "address": "Rue de la Font - Vinassan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A9 Aire de Narbonne-Vinassan Sud (direction Béziers)",
+    "address": "515 Combe Fourcade - Salles-d'Aude",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Syaden (Révéo) - Rue du Docteur Ernest Ferroul, 27 - Cuxac-d'Aude",
+    "address": "27 Rue du Docteur Ernest Ferroul - Cuxac-d'Aude",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Place Germain Canal, 1 - Salles-d'Aude",
+    "address": "1 Place Germain Canal - Salles-d'Aude",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RÉVÉO - Avenue de Provence - Razimbaud",
+    "address": "24 Avenue de Provence - Narbonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps - 2 Rue Bader - Narbonne",
+    "address": "2 Rue Bader - Narbonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

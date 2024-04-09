@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE22 Kermoroch",
+    "address": "Place de l'Église - Kermoroc'h",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 Pedernec",
+    "address": "8 Place de l'Église - Pédernec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Bégard",
+    "address": "Rue De Guingamp - Bégard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Bégard - Netto",
+    "address": "6 Hent Stank Névez - Bégard",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bégard, place de l'église​",
+    "address": "Place du Centre - Bégard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Place du Bourg, 7 - Trégonneau",
+    "address": "7 Place du Bourg - Trégonneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 Plouëc du Trieux",
+    "address": "Rue de la Mairie - Plouëc-du-Trieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Mairie de Grâces",
+    "address": "Place André Bardoux - Grâces",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Rue du Chemin Vert Pabu",
+    "address": "2-4 Rue du Chemin Vert - Pabu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Guingamp",
+    "address": "50T\r\n Rue du Maréchal Foch\r\n - Guingamp",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

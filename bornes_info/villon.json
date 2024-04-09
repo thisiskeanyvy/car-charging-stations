@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Tour Franklin - Place De La Défense",
+    "address": "20 Place De La Défense - Puteaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Q Park - 8 Rue Michelet - Puteaux",
+    "address": "8 Rue Michelet - Puteaux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Batiment Galilée Alstom Grid",
+    "address": "51 Esplanade du Général de Gaulle - Puteaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 13 Rond-Point de la Défense - Courbevoie",
+    "address": "13 Rond-Point de la Défense - Courbevoie",
+    "connectors": [
+      "x47",
+      "x52"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Izivia - parking Boieldieu Av. Jean Moulin - Puteaux",
+    "address": "Av. Jean Moulin - Puteaux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Q-Park - 1 Liaison Médiane - Courbevoie",
+    "address": "1 Liaison Médiane - Courbevoie",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Des Reflets 1 - Courbevoie (Autopartage uniquement)",
+    "address": "34 Place des Reflets - Courbevoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Relais de la Défense - Courbevoie",
+    "address": "1 Rue de Strasbourg - Courbevoie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Iris 3 La Défense",
+    "address": "20 Voie des Bâtisseurs - Courbevoie",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 12 Place de l'Iris - Courbevoie (Privé)",
+    "address": "12 Place de l'Iris - Courbevoie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

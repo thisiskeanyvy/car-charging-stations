@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Waters SAS",
+    "address": "5 Rue Jacques Monod - Guyancourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Sodexo - Guyancourt (Privé)",
+    "address": "6 Rue De La Redoute - Guyancourt",
+    "connectors": [
+      "x1",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alizé - Rue des Graviers - Guyancourt",
+    "address": "Rue des Graviers - Guyancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge (FR) - Rue Gustave Eiffel 1 - Guyancourt (Privé)",
+    "address": "Rue Gustave Eiffel 1 - Guyancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue de la Mare de Troux - Guyancourt",
+    "address": "38 Boulevard Paul Cézanne - Guyancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Siege EGIS - Guyancourt (Privé)",
+    "address": "15 Avenue du Centre - Guyancourt",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue Jacques Duclos - Guyancourt",
+    "address": "Rue Jacques Duclos - Guyancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Credit Agricole - SQY Park RESERVEE AUX EMPLOYES",
+    "address": "83 Boulevard des Chênes - Guyancourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bâtiment START (SYN) - Guyancourt (privé)",
+    "address": "15 Avenue du Centre - Guyancourt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Guyancourt - McDonalds",
+    "address": "12 Avenue de l'Europe - Guyancourt",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

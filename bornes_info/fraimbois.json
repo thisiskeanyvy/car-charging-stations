@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Vinci - 2 Rue de l'Église - Fraimbois",
+    "address": "2 Rue de l'Église - Fraimbois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole du Grand Nancy - Rue du Pavillon - Haudonville",
+    "address": "Rue du Pavillon - Haudonville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Communauté Urbaine du Grand Nancy - Place de la Mairie - Gerbéviller",
+    "address": "Place de la Mairie - Gerbéviller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de la République - Laronxe",
+    "address": "7 Rue de la République - Laronxe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Moncel-lès-Lunéville",
+    "address": "Rue Hélène Boucher - Moncel-lès-Lunéville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Métropole du Grand Nancy - Gare de St-Clément-Laronxe",
+    "address": "16 Avenue de la Gare - Saint-Clément",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de la Fourasse - Moncel-les-Lunéville",
+    "address": "8 Rue de la Fourasse - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - 23T Grande Rue - Hériménil",
+    "address": "23T Grande Rue - Hériménil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - 6 Place du Capitaine Gaudet - Moyen",
+    "address": "6 Place du Capitaine Gaudet - Moyen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Moncel-lès-Lunéville",
+    "address": "Route Départementale 31 - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

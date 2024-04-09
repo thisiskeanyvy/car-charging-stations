@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Bastide du Calalou",
+    "address": "Route de Baudinard - Moissac-Bellevue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking de la colle - Aups",
+    "address": "Parking de la colle - Aups",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Place Martin Bidouré - Aups",
+    "address": "477 Rue de la Piscine - Aups",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Intermarché - Aups",
+    "address": "1220 Route de Salernes - Aups",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping Le Vieux Chêne",
+    "address": "1002 D71 - Bauduen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking Rue des Jardins - Bauduen",
+    "address": "11 Rue des Jardins - Bauduen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Grand Chêne de Sillans - Route de Barjols",
+    "address": "1 Le Plan - Sillans-la-Cascade",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Grand Parking - QUINSON",
+    "address": "Allée des Prés du Verdon - Quinson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Clémenceau - Salernes",
+    "address": "Place Clemenceau - Salernes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Car2Plug - Route de Montpezat",
+    "address": "Route de Montpezat - Saint-Laurent-du-Verdon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

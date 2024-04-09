@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDESM - Signy-Signets",
+    "address": "1 Place de l'Église - Signy-Signets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de la mairie - Pierre-Levée",
+    "address": "3 Rue de Verdun - Pierre-Levée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Sept-Sorts - 9 Rue du Commerce",
+    "address": "9 Rue du Commerce - Sept-Sorts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps S.L. - 12 Rue du Hainault",
+    "address": "12 Rue du Hainault - Sept-Sorts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Avenue Franklin Roosevelt",
+    "address": "62 Avenue Franklin Roosevelt - Sept-Sorts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Rue de la Croix de Mission - Jouarre",
+    "address": "Rue de la Croix de Mission - Jouarre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Zone artisanale - Jouarre",
+    "address": "1 Rue de la Croix de Mission - Jouarre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "A4 Aire de Changis sur Marne (direction Paris)",
+    "address": "A 4 - Ussy-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Changis-sur-Marne (direction Paris)",
+    "address": "A4 - Ussy-sur-Marne",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Best Hotel La Ferté sous Jouarre",
+    "address": "32 Avenue Franklin Roosevelt - La Ferté-sous-Jouarre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

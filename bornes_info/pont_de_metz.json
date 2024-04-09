@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Indigo - CHU Amiens Picardie - Pont-de-Metz",
+    "address": "1 Rond-Point du Professeur Christian Cabrol Cabrol - Pont-de-Metz",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Driveco - O'tera - Amiens",
+    "address": "ZAC Intercampus BD Ambroise Pare - Amiens",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Salouël",
+    "address": "1 Avenue Albert Camus - Salouël",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Amiens - Restaurant le Vivier",
+    "address": "593 Route De Rouen - Amiens",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - AMIENS Zenith",
+    "address": "1 Allée de la Licorne - Amiens",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Amiens",
+    "address": "rue Edouard Lucas 4 - Amiens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - La chambre d'Amiens - Avenue de l'Hippodrome",
+    "address": "1 Avenue De l'Hippodrome - Amiens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Buffalo Grill",
+    "address": "49 Avenue de Grèce - Amiens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pizza Paï - Avenue de Grèce",
+    "address": "35 Avenue de Grèce - Amiens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Amiens",
+    "address": "5144A Route d'Amiens - Dury",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  }
+]

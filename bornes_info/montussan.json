@@ -1,0 +1,134 @@
+[
+  {
+    "title": "ECOPARK - Avenue du Périgord",
+    "address": "31 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Pompignac - 25 Avenue du Périgord",
+    "address": "25 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Burger King - Beychac-et-Caillau",
+    "address": "25 Le Barbut - Beychac-et-Caillau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Intermarché - Yvrac",
+    "address": "115 Tabernotes-sud - Yvrac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Place de l'Entre-Deux Mers - Pompignac",
+    "address": "7 Place de l'Entre-Deux Mers - Pompignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Yvrac - Rue Saint-Fiacre 2",
+    "address": "Rue Saint-Fiacre 2 - Yvrac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - 20 Chemin de Peligon - Saint-Loubès",
+    "address": "20 Chemin de Peligon - Saint-Loubès",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Saint-Loubes",
+    "address": "Peligon - Saint-Loubès",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Mairie - Saint-Loubès",
+    "address": "16 Place de l'Hôtel de ville - Saint-Loubès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell-Recharge - 32 Avenue de la Tour - Sallebœuf",
+    "address": "32 Château Pey La Tour - Salleboeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

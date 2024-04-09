@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SIEGE27 - Place Centre Ville",
+    "address": "Place de l'Église - La Neuve-Lyre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Breteuil",
+    "address": "Rte de Conches, - Breteuil",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Route de Breteuil - Marbois",
+    "address": "Route de Breteuil - Marbois",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place Laffitte - Breteuil sur iton",
+    "address": "33 Place Laffitte - La Guéroulde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEGE27 - Breteuil sur iton (Place Houdouard)",
+    "address": "Place Houdouard - Breteuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Rugles",
+    "address": "Place de la liberté - Rugles",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Le Chesne",
+    "address": "5 lieu dit bourg - Le Chesne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rugles",
+    "address": "Le Petit Hanoy - Rugles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Route de la Barre - Mesnil-en-Ouche",
+    "address": "11 Route de la Barre - Mesnil-en-Ouche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Bourth",
+    "address": "Rue de Chandai - Bourth",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

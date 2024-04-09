@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE03 - Vallon-en-Sully",
+    "address": "Route de Nassigny - Vallon-en-Sully",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Vaux - 5 Rue Saint-Hippolyte",
+    "address": "5 Rue Saint-Hippolyte - Vaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Victor - 6 Route De Paris",
+    "address": "6 Route De Paris - Saint-Victor",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Maison Ecole du Grand Meaulnes",
+    "address": "8 Rue Alain-Fournier - Épineuil-le-Fleuriel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Park'n'plug - Hôtel Campanile Montluçon Saint-Victor",
+    "address": "5 Rue du Commerce - Saint-Victor",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - N145 Aire des Vérités (Double sens)",
+    "address": "1 Rue Louis Renault - Saint-Victor",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Montluçon (Zone de la Loue) - RN 145 / E62",
+    "address": "Rue Louis Renault - Saint-Victor",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Parc des Sports de la Loue - Saint-Victor",
+    "address": "Rue Armand Peugeot - Saint-Victor",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Rue de la Cheveche - Domérat",
+    "address": "Rue de la Cheveche - Domérat",
+    "connectors": [
+      "x11"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - BMW Heli Motors - Montluçon",
+    "address": "64 Rue de Pasquis - Montluçon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

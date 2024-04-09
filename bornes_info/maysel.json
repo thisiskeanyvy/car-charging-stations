@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Mello - Route De Clermont",
+    "address": "Route De Clermont - Mello",
+    "connectors": [
+      "x4",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Cires les Mello",
+    "address": "7 Rue de la Mairie - Cires-lès-Mello",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Régie Communale du Câble & d’Electricité du Montataire",
+    "address": "rue Romain Rolland - Montataire",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Mairie de Montataire",
+    "address": "1 Place Auguste Génie - Montataire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Montataire | Rue Irène et Frédéric Joliot Curie 3",
+    "address": "3 Rue Irène et Frédéric Joliot Curie - Montataire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Montataire - 100 Rue Louis Blanc",
+    "address": "100 Rue Louis Blanc - Montataire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping de l'Abbatiale",
+    "address": "39 Rue Salvador Allende - Saint-Leu-d'Esserent",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Saint Leu d'Esserent",
+    "address": "2 Rue de la République - Saint-Leu-d'Esserent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Villers sous Saint Leu",
+    "address": "12 Rue des Primevères - Villers-sous-Saint-Leu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Villers-Sous-Saint-Leu",
+    "address": "Rue de Précy, - Villers-Sous-Saint-Leu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

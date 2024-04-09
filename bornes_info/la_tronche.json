@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Grenoble Métropole - Quai Yermoloff - La Tronche",
+    "address": "2 Quai Yermoloff - La Tronche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Le charmeyran",
+    "address": "9 Chemin Duhamel - La Tronche",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Avenue de l'Obiou - La Tronche",
+    "address": "19 Avenue de l'Obiou - La Tronche",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grenoble Métropole - 4 Avenue de l'Obiou - La Tronche (Planifié)",
+    "address": "4 Avenue de l'Obiou - La Tronche",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Parking du Musée",
+    "address": "50 Avenue Maréchal Randon - Grenoble",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Place de Lavalette",
+    "address": "10 Place de Lavalette - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Meylan - Avenue de la Plaine Fleurie",
+    "address": "Avenue de la Plaine Fleurie - Meylan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Agence de communication pro(G",
+    "address": "3 Rue du Pré d'Elle - Meylan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Quai stéphane Jay - Grenoble",
+    "address": "Quai Stéphane Jay - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Parking Indigo Philippeville - Grenoble",
+    "address": "5 Rue de Belgrade - Grenoble",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

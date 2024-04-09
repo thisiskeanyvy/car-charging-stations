@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SGA Automation - La Courbe",
+    "address": "672 Route de Coémont - Le Lude",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la courbe - Le Lude",
+    "address": "672 route de couémont - Le Lude",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "5 Grande Rue",
+    "address": "5 Gr Grande Rue - Le Lude",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'nGo : Le Lude",
+    "address": "8 Rue du Général de Gaulle - Le Lude",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Le Lude - Intermarché",
+    "address": "65 Rte de Saumur - Le Lude",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking zoo - la Fleche",
+    "address": "1080 Rue Jacques Bouillault - La Flèche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - La Flèche - Norauto",
+    "address": "1 Rue Du Levant - La Flèche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - La Flèche - Leclerc",
+    "address": "7 Rue Henri Dunant - La Flèche",
+    "connectors": [
+      "x1",
+      "x2",
+      "x13",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Rue Henri Dunant - la Fleche",
+    "address": "7 Rue Henri Dunant - La Flèche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Henri Dunant - La Flèche",
+    "address": "Rue Henri Dunant - La Flèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

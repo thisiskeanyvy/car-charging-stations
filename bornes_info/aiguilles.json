@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Metropolis Recharge - 1 Rue de la Cokerie - Saint-Denis",
+    "address": "1 Rue de la Cokerie - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Decathlon - Rue du Mondial 1998",
+    "address": "2–8 Rue du Mondial 1998 - Seine-Saint-Denis",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 16 Rue Jesse Owens - Saint-Denis",
+    "address": "16 Rue Jesse Owens - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Immeuble Eurostade SNCF (uniquement pour clients et employés)",
+    "address": "4 Rue André Campra - Saint-Denis",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Campus Rimbaud (SNCF)",
+    "address": "315 Avenue du Pdt Wilson - Saint-Denis",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Rue Danielle Casanova - Saint-Denis",
+    "address": "Rue Danielle Casanova - Saint-Denis",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking INDIGO - Porte de Paris - Rue Danielle Casanova",
+    "address": "1 N1 - Saint-Denis",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 1 Avenue du Stade de France - Saint-Denis",
+    "address": "1 Avenue du Stade de France - Saint-Denis",
+    "connectors": [
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 32 Rue des Cheminots - Saint-Denis",
+    "address": "32 Rue des Cheminots - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Equinix PA2",
+    "address": "114 Rue Ambroise Croizat - Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

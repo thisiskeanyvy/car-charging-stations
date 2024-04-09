@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Rue du Docteur Fourcade - La Tremblade",
+    "address": "Rue du Docteur Fourcade - La Tremblade",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Camping du Petit Pont",
+    "address": "111 Avenue de l'Etrade - Arvert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du Bois de la Pesse - La Tremblade",
+    "address": "5 Rue du Bois de la Pesse - La Tremblade",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - La Tremblade",
+    "address": "Z.A.C. des Bregaudières - La Tremblade",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - La Pignade - Ronce les Bains",
+    "address": "45 Av. du Monard, - La Tremblade",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - Village Vacances Azureza - La Tremblade (Privé)",
+    "address": "17 Avenue des Érables - La Tremblade",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel de la Plage",
+    "address": "10 Allée des Courlis - La Tremblade",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 225 Route de la Bouverie - Les Mathes",
+    "address": "225 Route de la Bouverie - Les Mathes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Leclerc - Marennes-Hiers-Brouage",
+    "address": "2 Rue Ovide Beillard - Marennes-Hiers-Brouage",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEER (MobiVE) - Les Mathes - Rue Saint Marie Cabinet médical",
+    "address": "Rue Saint Marie Cabinet médical - Les Mathes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

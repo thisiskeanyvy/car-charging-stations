@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SE61 - Le bourg - D19 - Le Grais",
+    "address": "Le Bourg - Le Grais",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TE61 - La Sauvagère - Lotissement les Fontainettes",
+    "address": "Lotissement les Fontainettes - La Sauvagère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "2 Place Saint-Denis - La Ferté Macé",
+    "address": "2 Place Saint-Denis - La Ferté-Macé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place saint Denis",
+    "address": "2 Place Saint-Denis - La Ferté-Macé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place du Château - La Ferté-Macé",
+    "address": "Place du Château - La Ferté-Macé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue du Quatorze Juillet - La Ferté Macé",
+    "address": "9 Rue Du Quatorze Juillet - La Ferté Macé",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Briouze",
+    "address": "Place de l'Église - Briouze",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "La cour Chalmel, Magny",
+    "address": "La Cour Chalmel - Magny-le-Désert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Fromentel Autos - Pointel",
+    "address": "Fromentel Autos - Pointel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - La Ferté-Macé",
+    "address": "D916 - La Ferté-Macé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

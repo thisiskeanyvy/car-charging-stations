@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Chateau bellegarde les Fleurs",
+    "address": "5 Route de Sussac Serre - Châteauneuf-la-Forêt",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Mairie - La Croisille-sur-Briance",
+    "address": "19 Route Du Mont Gargan - La Croisille-sur-Briance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Mairie de Châteauneuf la Forêt",
+    "address": "8 Place du 8 Mai 1945 - Châteauneuf-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - RUE DE L'EUROPE - NEUVIC ENTIER",
+    "address": "RUE DE L'EUROPE - NEUVIC ENTIER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - 2 Avenue Jean Moulin - Eymoutiers",
+    "address": "1 Promenade des Sports - Eymoutiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEE19 - 5 Route des Monédières - Chamberet",
+    "address": "5 Route des Monédières - Chamberet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE/FR*S87*PMB87*23",
+    "address": "Place du 8 Mai 1945 - Saint-Germain-les-Belles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VVF VILLAGES_NEDDE_5848_Pext_E",
+    "address": "Le Château - Nedde",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - 3 Place Marcel Champeix - Masseret",
+    "address": "3 Place Marcel Champeix - Masseret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - A20 Aire de la Porte de Corrèze (double-sens)",
+    "address": "0 Autoroute A 20 - Masseret",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

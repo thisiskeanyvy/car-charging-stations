@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDET - Place du Barry - Marssac-sur-Tarn",
+    "address": "2–12 Place du Barry - Marssac-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps - Domaine du Cèdre - Rivières",
+    "address": "Domaine du Cèdre - Rivières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - 12 Rue du Grand Galion - Rivières",
+    "address": "12 Rue du Grand Galion - Rivières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rue du Grand Galion",
+    "address": "Rue du Grand Galion - Rivières",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Place Toulouse Lautrec - Lagrave",
+    "address": "Place Toulouse Lautrec - Lagrave",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (RÉVÉO) - Mairie de Florentin",
+    "address": "7 Place de la Mairie - Florentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET (Révéo) - Chemin de Nacazes - Lagrave",
+    "address": "Chemin de Nacazes - Lagrave",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RÉVÉO - Mairie de Senouillac",
+    "address": "5 Avenue des Vignes - Senouillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alizé - 8 Avenue de la Martelle - Terssac",
+    "address": "8 Avenue de la Martelle - Terssac",
+    "connectors": [
+      "x5",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - rue Sicard Alaman - RD1 côté Albi",
+    "address": "Rue Sicard Alaman - Castelnau-de-Lévis",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

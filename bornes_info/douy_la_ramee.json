@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDESM - Saint-Soupplets",
+    "address": "2bis Rue de la Pissotte - Saint-Soupplets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Rue de la République Monthyon",
+    "address": "41 Rue de la République - Monthyon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chambry - 10 Rue De La Ville",
+    "address": "10 Rue De La Ville - Chambry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - 6 Rue du Sac - Marchemoret",
+    "address": "6 Rue du Sac - Marchémoret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Varreddes",
+    "address": "- Varreddes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Germigny-l'Évêque - Allée des Noyers",
+    "address": "Allée des Noyers - Germigny-l'Évêque",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Congis sur therouanne",
+    "address": "43 Rue de la Poste - Congis-sur-Thérouanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Intermarché - Nanteuil-le-Haudouin",
+    "address": "2 Rue de Paris - Nanteuil-le-Haudouin",
+    "connectors": [
+      "x6",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue de la Libération, 2 - Le Plessis-Belleville",
+    "address": "2 Rue de la Libération - Le Plessis-Belleville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue des Carrouges - Crégy-lès-Meaux",
+    "address": "Rue des Carrouges - Crégy-lès-Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

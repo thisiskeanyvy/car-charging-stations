@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Freshmile - Mareil-le-Guyon - 4 Place Du Château",
+    "address": "4 Place Du Château - Mareil-le-Guyon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue du Pavé - Le Tremblay-sur-Mauldre",
+    "address": "Rue du Pavé - Le Tremblay-sur-Mauldre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Le Tremblay-sur-Mauldre - 2 Place de l'Eglise",
+    "address": "2 Place de l'Eglise - Le Tremblay-sur-Mauldre",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Méré",
+    "address": "3 Rue de Mareil - Méré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*Y03 - Neauphle-le-Vieux - Rue de la Libération",
+    "address": "Rue de la Libération - Neauphle-le-Vieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "parking P1 gare montfort l'amaury",
+    "address": "12 Avenue du Pigeon Bleu - Méré",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare SNCF de Montfort l'Amaury-Méré",
+    "address": "11 Place Louis Valton - Méré",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEYMABORNE - Villiers-Saint-Frédéric - Route de Saint-Germain",
+    "address": "Route de Saint-Germain - Villiers-Saint-Frédéric",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Route des Mousseaux - Jouars-Pontchartrain",
+    "address": "1072 Route des Mousseaux - Jouars-Pontchartrain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Villiers-Saint-Frédéric",
+    "address": "6 Route de Saint-Germain, - Villiers-Saint-Frédéric",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

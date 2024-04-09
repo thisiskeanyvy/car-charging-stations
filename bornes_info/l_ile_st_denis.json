@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Metropolis Recharge - 2 Place de la Libération - L'Île-Saint-Denis",
+    "address": "2 Place de la Libération - L'Île-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIGEIF - Quai d'Asnières - Villenveuve-la-Garenne",
+    "address": "7 Quai d'Asnières - Villenveuve-la-Garenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - Mairie de Villeneuve-la-Garenne",
+    "address": "30 Avenue de Verdun - Villeneuve-la-Garenne",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "WAAT - 42 Rue Paul Eluard",
+    "address": "42 Rue Paul Eluard - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Crous - Saint-Denis (Privé)",
+    "address": "Rue Auguste Guillot - Saint Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Equinix PA2",
+    "address": "114 Rue Ambroise Croizat - Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Villeneuve-la-Garenne - 32 Avenue Marc Sangnier",
+    "address": "32 Avenue Marc Sangnier - Villeneuve-la-Garenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "3 Rue de l'Union",
+    "address": "3 Rue de l'Union - Épinay-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 29 avenue Georges Pompidou - Villeneuve-la-Garenne",
+    "address": "29 Avenue Georges Pompidou - Villeneuve-la-Garenne",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Gennevilliers",
+    "address": "121 Avenue du Vieux Chemin de Saint-Denis - Gennevilliers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

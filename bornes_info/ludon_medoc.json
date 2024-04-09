@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEEG33 - Borne Ludon Médoc",
+    "address": "Place Jean Jaurès - Ludon-Médoc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Château Palourmey - Ludon-Médoc",
+    "address": "50 Rue Pouge de Beau - Ludon-Médoc",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Le Pian-Médoc",
+    "address": "475 Route de Pauillac - Le Pian-Médoc",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - ZC Les Portes du Médoc - Le Pian-Médoc",
+    "address": "386 Route de Pauillac - Le Pian-Médoc",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château Dauzac (Tesla)",
+    "address": "1 Avenue Georges Johnston - Labarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 10 Route de Giscours - Labarde",
+    "address": "10 Route de Giscours - Labarde",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gare de Parempuyre",
+    "address": "95 Rue de la Gare - Parempuyre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Siran - Avenue du Comté Lynch",
+    "address": "13 Avenue du Comté Lynch - Labarde",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDF AMT SO",
+    "address": "50 Rue Saint-Exupéry - Ambès",
+    "connectors": [
+      "x4",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chateau Desmirail",
+    "address": "28 Avenue de la 5ème République - Margaux-Cantenac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

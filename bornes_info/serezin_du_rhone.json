@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SYDER - Rue de Ternay - Sérézin-du-Rhône",
+    "address": "3 Rue de Ternay - Sérézin-du-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - Sérézin-du-Rhône - 23 Avenue du Dauphiné",
+    "address": "23 Avenue du Dauphiné - Sérézin-du-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "AVIA - A7 - Aire de Sérézin du Rhône (direction Lyon)",
+    "address": "5 Rue Pierre Devaux - Sérézin-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "TotalEnergies - 12 chemin d‚partemental - SEREZIN DU RHONE",
+    "address": "12 chemin d‚partemental - SEREZIN DU RHONE",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Sérézin-du-Rhône - Peugeot",
+    "address": "12 chemin départemental 12 - Sérézin-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mc Donald's - Solaize",
+    "address": "312 Route de Chasse – RD312 – Le Rieux - Solaize",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Route du Pilon - Solaize",
+    "address": "Route du Pilon - Solaize",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Route de Lyon - Vernaison",
+    "address": "Route de Lyon - Vernaison",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Vernaison - U Express",
+    "address": "200 Route de Lyon - Vernaison",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A7 - Aire de Solaize (direction Vienne)",
+    "address": "A7 - Solaize",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

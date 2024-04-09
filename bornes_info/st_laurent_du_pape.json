@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Montee de la garenne 383 07800 Saint laurent du pape",
+    "address": "Montee de la garenne 383 - Saint laurent du pape",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Reynaud Traitement Thermique",
+    "address": "7 Rue Louis Aragon - La Voulte-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Quai Anatole France - La Voulte-sur-Rhône",
+    "address": "Quai Anatole France - La Voulte-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Saint-Georges-les-Bains",
+    "address": "D86 - Saint-Georges-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CNR - D86-1123 Le Pouzin",
+    "address": "1123 D86 - Le Pouzin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Soyons - 296 Rue Marcel Astier",
+    "address": "296 Rue Marcel Astier - Soyons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue du Parc - Livron-sur-Drôme",
+    "address": "Rue du Parc - Livron-sur-Drôme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Rue du Réal - Loriol-sur-Drôme",
+    "address": "Rue du Réal - Loriol-sur-Drôme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Étoile-sur-Rhône",
+    "address": "65 Rue de la Raye - Étoile-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Brico Dépôt - Rue des Bosses - Étoile-sur-Rhône",
+    "address": "315 Rue des Bosses - Étoile-sur-Rhône",
+    "connectors": [
+      "x16",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

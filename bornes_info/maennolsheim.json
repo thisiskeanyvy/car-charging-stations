@@ -1,0 +1,136 @@
+[
+  {
+    "title": "ALDI - Rue Pierre Heili - Wasselonne",
+    "address": "1 Rue Pierre Heili - Wasselonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Wasselonne",
+    "address": "58 Rue du Hohengoeft - Wasselonne",
+    "connectors": [
+      "x7",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Crousti Tacos - Wasselonne",
+    "address": "56 Rue du Hohengoeft - Wasselonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LECLERC - Rue de Saverne - Marmoutier",
+    "address": "4 Rue de Saverne - Marmoutier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Marmoutier",
+    "address": "RD1004 - Marmoutier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Cour du Château - Wasselonne",
+    "address": "3 Cour du Château - Wasselonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - La Maison Vitale - Rue Dreispitz - Monswiller",
+    "address": "9 Rue Dreispitz - Monswiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Hostellerie de l'Étoile - Wasselonne (Privé)",
+    "address": "1 Place du Général Leclerc - Wasselonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford Alliance Automobiles - Monswiller",
+    "address": "d 421 d421 - Monswiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Concession Kia - Rue de Dettwiller",
+    "address": "1001 Rue de Dettwiller - Monswiller",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

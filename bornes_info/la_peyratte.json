@@ -1,0 +1,128 @@
+[
+  {
+    "title": "AlterBase Séolis - La Peyratte - Centre",
+    "address": "2 Rue des Quatre Vents - La Peyratte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - La Ferrière en Parthenay - Place de l'Eglise",
+    "address": "Avenue de Poitiers - La Ferrière-en-Parthenay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue Aristide Briand - Parthenay",
+    "address": "Avenue Aristide Briand - Parthenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc Brico - Parthenay",
+    "address": "53 Rue Léonard De Vinci - Parthenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centrakor - Avenue Aristide Briand",
+    "address": "195 Avenue Aristide Briand - Parthenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Rue Léonard de Vinci - Parthenay",
+    "address": "58 Rue Léonard de Vinci - Parthenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Toyota - Parthenay - 22kW AC G",
+    "address": "Boulevard du Parnasse - Châtillon-sur-Thouet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau AlterBase - Châtillon-sur-Thouet - Séolis",
+    "address": "7 Route de Thouars - Châtillon-sur-Thouet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Rue Pierre-Gilles de Gennes - Châtillon sur Thouet",
+    "address": "4 Rue Pierre - Gilles de Gennes - Châtillon-sur-Thouet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Artipole - Route de Bressuire",
+    "address": "Route de Bressuire - Châtillon-sur-Thouet",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

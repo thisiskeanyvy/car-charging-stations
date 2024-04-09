@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Alterbase Séolis - Argentonnay - Supérette",
+    "address": "45 Rue Camille Jouffrault - Argenton-les-Vallées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Garage Peugeot - Avenue du Général de Gaulle (Privé)",
+    "address": "25 Avenue du Général de Gaulle - Argenton-les-Vallées",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'hôtes La Coudrière",
+    "address": "2 Rue des Coudriers - Argentonnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Cersay - Place de la Mairie",
+    "address": "Place de la Mairie - Cersay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Réseau AlterBase - Nueil les aubiers - Place Colun",
+    "address": "7 Rue Hilaire Roy - Nueil-les-Aubiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Séolis - Nueil-les-Aubiers - Espace Belle Arrivée",
+    "address": "54 Avenue Saint-Hubert - Nueil-les-Aubiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarl Poudray (Privé)",
+    "address": "20 Rue du Comté de Champagny - Somloire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau Alterbase - Mauzé-Thouarsais - Mairie",
+    "address": "2 Rue de la Croix d'Ingand - Mauzé-Thouarsais",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Espace Bocapole - Bressuire",
+    "address": "2 Espace Bocapole - Bressuire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "AlterBase Séolis - Geay - Mairie",
+    "address": "Place de la Mairie - Geay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

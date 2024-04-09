@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEYMABORNE - Aubergenville - Parking mairie",
+    "address": "5 Avenue de la Division Leclerc - Aubergenville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electra - Aubergenville - CC Family Village",
+    "address": "rue de Quarante Sous, Gémo - Aubergenville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Communauté urbaine Grand Paris Seine et Oise",
+    "address": "- Aubergenville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Marques Avenue - Aubergenville",
+    "address": "RD 14 Rue de Quarante Sous - Aubergenville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Marques Avenue - A13 Rue de Quarante Sous - Aubergenville",
+    "address": "Rue de Quarante Sous - Aubergenville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Rue Augustin Fresnel - Aubergenville",
+    "address": "7 Rue Augustin Fresnel - Aubergenville",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Flins sur Seine",
+    "address": "Chemin départemental_14, route Renault_BP 8 - Flins sur Seine",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Rue Maurice Berteaux Flins-sur-Seine",
+    "address": "158 Rue Maurice Berteaux - Flins-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 14 Rue des Chevries - Aubergenville",
+    "address": "14 Rue des Chevries - Aubergenville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place du général de Gaulle - Flins-sur-Seine",
+    "address": "22 Rue Charles de Gaulle - Aubergenville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

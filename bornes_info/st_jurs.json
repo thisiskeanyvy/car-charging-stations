@@ -1,0 +1,126 @@
+[
+  {
+    "title": "La fabrique - Moustiers-Sainte-Marie (Tesla and others)",
+    "address": "7048 Rue de la Bourgade - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parc Naturel Régional du Verdon - Moustiers-Sainte-Marie",
+    "address": "Chemin Marcel Provence - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking rue du seigneur Berthet",
+    "address": "Rue du seigneur berthet de la clue - Moustiers sainte marie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking Les Magnans - Moustiers-Sainte-Marie",
+    "address": "4200 Avenue de Lérins - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Chambres d'Hôtes La Maison de Melen",
+    "address": "Chemin de Peyrengue - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel La Ferme Rose",
+    "address": "Chemin du Peyrengue - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking de l'Eglise - Puimoisson",
+    "address": "Place de l'Église - Puimoisson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine du petit lac",
+    "address": "D957 - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Mas Saint Pierre",
+    "address": "D907 - St Julien D'Asse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking Le Claus",
+    "address": "Le Claus - Mezel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Rouvroy, Place Roger Salengro",
+    "address": "Place Roger Salengro - Rouvroy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie, rue Placide Monchy",
+    "address": "Rue Placide Monchy - Bois-Bernard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rouvroy",
+    "address": "524 Boulevard Fosse Deux - Rouvroy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rouvroy - Place Tamboise",
+    "address": "Place Tamboise - Rouvroy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Méricourt",
+    "address": "8 Avenue du 10 Mars - Méricourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E-Totem - Méricourt - Rapid'Eau",
+    "address": "Avenue de Flöha - Méricourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Rue de la Voie Grard - Méricourt",
+    "address": "Rue de la Voie Grard - Méricourt",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT SAS - Fouquières-lès-Lens - 4 Rue d'Artois",
+    "address": "4 Rue d'Artois - Fouquières-lès-Lens",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montigny-en-Gohelle",
+    "address": "15 Boulevard du Président Salvador Allende - Montigny-en-Gohelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Avion",
+    "address": "Boulevard Maurice Thorez - Avion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

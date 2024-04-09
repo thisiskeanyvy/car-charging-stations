@@ -1,0 +1,122 @@
+[
+  {
+    "title": "WAAT - Cosnac - Avenue du 8 Mai 1945 Château de Cosnac",
+    "address": "Avenue du 8 Mai 1945 Château de Cosnac - Cosnac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cosnac - Regnaguet",
+    "address": "Regnaguet - Cosnac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - Brive-la-Gaillarde - 2 Rue Guillaumet",
+    "address": "2 Rue Guillaumet - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiVE - Mairie de Malemort-sur-Corèze",
+    "address": "8–12 Avenue Jean Jaurès - Malemort-sur-Corrèze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fédération Départementale d'Electrification et d'Energie de la Corrèze - Brive-la-Gaillarde - 13 Avenue Léo Lagrange",
+    "address": "13 Avenue Léo Lagrange - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Avenue Marie et Pierre Curie",
+    "address": "40 Avenue Marie et Pierre Curie - Malemort",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BRIT'HOTEL BRIVES",
+    "address": "52 Avenue Marie et Pierre Curie - Malemort-sur-Corrèze",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Brive-la-Gaillarde",
+    "address": "175 Avenue Jacques et Bernadette Chirac - Brive-la-Gaillarde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEE19 - Brive-la-Gaillarde - 50 Avenue Maréchal Bugeaud",
+    "address": "50 Avenue Maréchal Bugeaud - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Espace des trois Provinces - Brive-la-Gaillarde",
+    "address": "4 Avenue Jacques et Bernadette Chirac - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEE47 - Chemin de Pascalet",
+    "address": "22 Chemin de Pascalet - Casseneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE47 - Avenue de la Gare",
+    "address": "2 Avenue de la Gare - Casseneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "See You Sun - 1173 Route de Bordeaux - Allez-et-Cazeneuve",
+    "address": "90 Av Gaston Carrere - Sainte-Livrade-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Rue de l'Hôtel de ville Bias",
+    "address": "3 Rue de l'Hôtel de ville - Bias",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 (MObiVE) - Avenue Bagnaria Arsa - Sainte-Livrade-sur-Lot",
+    "address": "15 Avenue Bagnaria Arsa - Sainte-Livrade-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Place du Faubourg Gardette Sainte-Livrade-sur-Lot",
+    "address": "2 Place du Faubourg Gardette - Sainte-Livrade-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Avenue de Bordeaux - Bias",
+    "address": "1880 Avenue de Bordeaux - Bias",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "But - Bias",
+    "address": "2027-2259 Avenue de Bordeaux - Bias",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Auchan - Avenue Robert Labessan - Villeneuve-sur-Lot",
+    "address": "Avenue Robert Labessan - Bias",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Bias - 904 Avenue de Bordeaux",
+    "address": "904 Avenue de Bordeaux - Bias",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

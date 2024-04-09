@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDED - Aouste sur Sye",
+    "address": "7 Saint-François - Aouste-sur-Sye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Avenue Amédée Terrail",
+    "address": "2 Avenue Amédée Terrail - Aouste-sur-Sye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Bricomarché / Intersport - Aouste-sur-Sye",
+    "address": "8 Quartier Mivoie - D93 - Aouste-sur-Sye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - Aouste-sur-Sye",
+    "address": "105B Route de Crest - Aouste-sur-Sye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 93 Quartier Mivoie CD - Crest",
+    "address": "93 Quartier Mivoie CD - Crest",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D164 Aire de covoiturage de Saint Ferreol - Crest",
+    "address": "Aire Multimodale de Saint Ferreol - Crest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "e-born - Parking du kiosque - Crest",
+    "address": "10 Cours de Verdun - Crest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Place de la Liberté - Crest",
+    "address": "4 Place de la Liberté - Crest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Avenue George Clémenceau - Crest",
+    "address": "Avenue George Clémenceau - Crest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Espace des Cascades - Mirabel-et-Blacons",
+    "address": "Espace des Cascades - Mirabel-et-Blacons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

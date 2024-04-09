@@ -1,0 +1,142 @@
+[
+  {
+    "title": "ENGIE Vianeo - A1 Aire de Ressons Ouest (direction Paris)",
+    "address": "A1, Aire de Ressons Ouest - Ressons-sur-Matz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A1 - Aire de Ressons-ouest (direction Paris)",
+    "address": "A1 - Ressons-sur-Matz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sezeo - Estrées Saint Denis - Piscine",
+    "address": "1 Avenue Abel Didelet - Estrées-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A1 - Aire de Ressons-Est (direction Lille)",
+    "address": "A1 - Ressons-sur-Matz",
+    "connectors": [
+      "x4",
+      "x12",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Égise d'Estrées Saint Denis",
+    "address": "2 Ruelle de l'Église - Estrées-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Saint-Antoine - Tricot",
+    "address": "Rue Saint-Antoine - Tricot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue du Moulin l'Heuillet - Ressons-sur-Matz",
+    "address": "Rue du Moulin l'Heuillet - Ressons-sur-Matz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Margny-sur-Matz - Rue De Marquéglise",
+    "address": "Rue De Marquéglise - Margny-sur-Matz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - SEZEO - Place du Gén de Gaulle Maignelay-Montigny",
+    "address": "22 Place du Gén de Gaulle - Maignelay-Montigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEZEO - Rue François Mitterrand Maignelay-Montigny",
+    "address": "33 Rue François Mitterrand - Maignelay-Montigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

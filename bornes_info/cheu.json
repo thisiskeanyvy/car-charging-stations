@@ -1,0 +1,134 @@
+[
+  {
+    "title": "15 Rue du Bois - Chéu",
+    "address": "15 Rue du Bois - Chéu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Place de l'Église - Vergigny",
+    "address": "1 Rue Bru - Vergigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue de Geneve 13 - Saint-Florentin",
+    "address": "Avenue de Geneve 13 - Saint-Florentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Florentin - Place Du Port",
+    "address": "Place Du Port - Saint-Florentin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Saint-Florentin - Rue Du Faubourg Du Pont",
+    "address": "Rue Du Faubourg Du Pont - Saint-Florentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEY - Beugnon - Rue Neuve",
+    "address": "Rue Neuve - Beugnon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Avenue de Chablis",
+    "address": "13 Avenue de Chablis - Ligny-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEY - Place du Commerce Flogny-la-Chapelle",
+    "address": "11 Place du Commerce - Flogny-la-Chapelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Grande Rue",
+    "address": "11 Grande Rue - Neuvy-Sautour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Route de Paris - Champlost",
+    "address": "35 Route de Paris - Champlost",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

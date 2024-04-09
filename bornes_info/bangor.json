@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Morrisons Supermarket",
+    "address": "7 Saint James Drive - Bangor",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Coleg Menai 1",
+    "address": "Coleg Menai 01 - Bangor",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Rhianfa (Tesla)",
+    "address": "Beaumaris Road - Menai Bridge",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Penrhyn Castle",
+    "address": "none - Bangor",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Library charging station - Dale Street",
+    "address": "13 Dale Street - Menai bridge mom",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Bangor | Caernarfon Road",
+    "address": "Caernarfon Road - Bangor",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Anglesey Arms (Tesla)",
+    "address": "Mona Road - Menai Bridge",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "The Bull - Beaumaris (Tesla)",
+    "address": "Castle Street - Beaumaris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ogwen Bank Lodge Park",
+    "address": "0 A5 - Bethesda",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Plas Coch Holiday Park (Tesla)",
+    "address": "Llanedwen - Llanfairpwll",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Parking Effia Gare de Macon Loché TGV",
+    "address": "142 Rue Pouilly-Loché - Mâcon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place du Luminiaire - Chaintré",
+    "address": "68 Place du Luminiaire - Chaintré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MEA Energies - Fasthotel - Charnay-lès-Mâcon",
+    "address": "137 Chemin De La Petite Grosne - Charnay-lès-Mâcon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route de Juliénas - Mâcon",
+    "address": "Route de Juliénas - Mâcon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vinzelles",
+    "address": "1054 Champ de la Lié - Vinzelles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hostellerie Château de la Barge",
+    "address": "Impasse des Granges - Chaintré,Crèches sur Saône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Za Le Clos, D906 - Varennes-lès-Mâcon",
+    "address": "111 Route Nationale 6 - Varennes-lès-Mâcon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Appart fitness - Varennes les Macon",
+    "address": "6 le clos Rn - Varennes les Macon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDM CENTRE AFFAIRES - 154 Rue André Derain - Mâcon",
+    "address": "154 Rue André Derain - Mâcon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Crèches-sur-Saone",
+    "address": "1 Rue du Beaujolais - Crêches-sur-Saône",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

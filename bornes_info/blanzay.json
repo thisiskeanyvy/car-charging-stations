@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Alterbase Soregies - Romagne - Vallée des singes",
+    "address": "Le Gureau - Romagne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "AlterBase Sorégies - Savigné - Intermarché",
+    "address": "Route de Limoges Parking Intermarché - Savigné",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "VillaVerde - Savigné SUPPRIMÉ",
+    "address": "D148 -ZA Champs de la Grange - Savign",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AlterbaseSorégies - Place de la Liberté - Civray",
+    "address": "2 Place de la Liberté - Civray",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grande Rue - Chaunay",
+    "address": "Grande Rue - Chaunay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alterbase Sorégies - Grande Rue (rapide) - Chaunay",
+    "address": "41 Grande Rue - Chaunay",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Soregies - Parking du Stade - Romagne Bourg",
+    "address": "1 D25 - Romagne",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Soregies - Le Bourg - Saint-Macoux",
+    "address": "Le Bourg - Saint-Macoux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Les maisons blanches - Limalonges",
+    "address": "Rue de l'Aquitaine les Maisons - Limalonges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Avenue de Paris - Couhé",
+    "address": "Impasse de Paris - Couhé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

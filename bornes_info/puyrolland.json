@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Syndicat départemental de la Charente-Maritime - Loulay - Place Jean Moulin",
+    "address": "Place Jean Moulin - Loulay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine du Prieuré (Tesla et autres)",
+    "address": "14 Rue du Champs de Foire - Tonnay-Boutonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Surgeres",
+    "address": "Rue Jean-Philippe Rameau - Surgères",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Surgères - Place du Château",
+    "address": "1 Avenue Saint-Pierre - Surgères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Faubourg d'Aunis / Hôpital - Saint-Jean-d'Angély",
+    "address": "93 Faubourg d'Aunis - Saint-Jean-d'Angély",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Cyclad - Rue Julia et Maurice Marcou - Surgères",
+    "address": "1 Rue Julia et Maurice Marcou - Surgères",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Surgères - 24 Chemin De La Perche",
+    "address": "24 Chemin de la Perche - Surgères",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Jean-d'Angély - Place des Martyrs / mairie",
+    "address": "Place des Martyrs - Saint-Jean-d'Angély",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Rue Octavie Coudreau - Saint Jean d'Angely",
+    "address": "4 Rue Octavie Coudreau - Saint-Jean-d'Angély",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E.Leclerc Sport",
+    "address": "7 Rue Roger Menaud - Saint-Jean-d'Angély",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

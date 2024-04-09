@@ -1,0 +1,130 @@
+[
+  {
+    "title": "WiiiZ - Parking du Général de Gaulle - Villeneuve-Loubet",
+    "address": "6 Avenue de la Liberté - Villeneuve-Loubet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WiiiZ - Allée René Cassin - Villeneuve Loubet",
+    "address": "269 Allée René Cassin - Villeneuve-Loubet",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Polygone Riviera - Cagnes-sur-Mer (Parking P3 - Allée 3A/3K)",
+    "address": "119 Avenue des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile Services SAS - 103 avenue des Alpes - Cagnes-sur-Mer",
+    "address": "103 avenue des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Exterieur Polygone - Avenue des Alpes",
+    "address": "113 Avenue des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Polygone Riviera - Parking P4",
+    "address": "122 Avenue Des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Polygone Riviera - Parking P2",
+    "address": "119 Avenue des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Polygone Riviera - Cagnes-sur-Mer (Parking P1)",
+    "address": "119 Avenue des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Superchargeurs - Polygone Riviera Avenue des Alpes - Cagnes-sur-Mer",
+    "address": "Avenue des Alpes - Cagnes-sur-Mer",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Villeneuve-Loubet - 821 Avenue Jack Kilby",
+    "address": "821 Avenue Jack Kilby - Villeneuve-Loubet",
+    "connectors": [
+      "x1",
+      "x32"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

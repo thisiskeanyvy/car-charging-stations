@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEF - Querrien (Place de l'Eglise)",
+    "address": "1P Place de l'Église - Querrien",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Locunolé (Mairie)",
+    "address": "2 Rue de Beg ar Roz - Locunolé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint Thurien (Place Kilmacow)",
+    "address": "9 Rue de Quimperlé - Saint-Thurien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Rue du Faouët - Tréméven",
+    "address": "46 Rue du Faouët - Tréméven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mellac (Ty Bodel)",
+    "address": "Pôle d'activité Kervidanou - Mellac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Cours Carré - Le Faouët",
+    "address": "Cours Carré - Le Faouët",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Morbihan énergies - Rue de la Butte - Meslan",
+    "address": "Rue Joseph le Gallo - Meslan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Quimperlé",
+    "address": "119 Rue du Couëdic, - Quimperlé",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Guilligomarc'h (Rue du Scorff)",
+    "address": "Rue du Scorff - Guilligomarc'h",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Place du Barzaz Breizh - Quimperlé",
+    "address": "1 Place du Barzaz Breizh - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

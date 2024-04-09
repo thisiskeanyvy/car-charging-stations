@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Rossini Energy - Pendé - 8 Rue de Lanchéres",
+    "address": "8 Rue de Lanchéres - Pendé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue des Corderies - Cayeux-sur-Mer",
+    "address": "11 Rue des Corderies - Cayeux-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gîte La Villa du Clos",
+    "address": "1 Passage de l epinette - Cayeux sur mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Carrefour Contact - Cayeux-sur-Mer",
+    "address": "184 Rue du Maréchal Foch - Cayeux-sur-Mer",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Parking du Hourdel - Cayeux-sur-Mer",
+    "address": "200 Rue des Argousiers le Hourdel - Cayeux-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place du Jeu de Battoir - Saint-Valery-sur-Somme",
+    "address": "Place du Jeu de Battoir - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Hôtel le relais guillaume de normandy - Saint-Valery-sur-Somme",
+    "address": "46 Quai du Romerel - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Parking des Corderies - Saint-Valery-sur-Somme",
+    "address": "Rue Saint-Pierre - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château du Romerel - Saint-Valery-sur-Somme (Tesla and others)",
+    "address": "15 Quai du Romerel - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Boismont",
+    "address": "route de Pinchefalise, - Boismont",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

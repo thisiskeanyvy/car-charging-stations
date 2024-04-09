@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE76 - Rue de la Saâne - Quiberville",
+    "address": "51 Rue de la Saâne - Quiberville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE 76 - Ouville-la-Rivière",
+    "address": "Allée de la Saâne - Ouville-la-Rivière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - Rue de la mer 11 - Quiberville",
+    "address": "Rue de la mer 11 - Quiberville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Manoir de Tessy",
+    "address": "Les Bramares - Ouville-la-Rivière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Grand Casino - Dieppe",
+    "address": "3 Boulevard de Verdun - Dieppe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Car2Plug - Dieppe - Rue de la Vieille Grange",
+    "address": "Rue de la Vieille Grange - Dieppe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Parking de la Barre (RDC) - Dieppe",
+    "address": "1 Rue Claude Groulard - Dieppe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps S.L. - Saint-Aubin-sur-Scie - 300 Rue de la Providence",
+    "address": "300 Rue de la Providence - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Parking aérien et sous sol (-1) de l'hôtel de ville de Dieppe",
+    "address": "1 Rue Jules Ferry - Dieppe",
+    "connectors": [
+      "x14",
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Aubin-sur-Scie",
+    "address": "1158 Rue de la Libération - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

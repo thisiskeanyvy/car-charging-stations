@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Tesla Superchargeur V3 - Megève",
+    "address": "270 route de sallanches - Megève",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Les Loges blanches",
+    "address": "500 Route de la Plaine - Megève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Chemin des Ânes - Megève",
+    "address": "Chemin des Ânes - Megève",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Arboisie",
+    "address": "136-725 Route du Gollet - Megève",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Route nationale - Megève",
+    "address": "1161 Route nationale - Megève",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Novotel - 1306 Route Nationale - Megève",
+    "address": "1306 Route Nationale - Megève",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stelsia - Casino Megeve (Parking souterrain)",
+    "address": "31 Rue d'Oberstdorf - Megève",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - 38 Rue Beau Soleil",
+    "address": "38 Rue Beau Soleil - Megève",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Résidence Maeva Le Mont d'Arbois - Megève",
+    "address": "117 Chemin de la Rocaille - Megève",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de la poste - Megève",
+    "address": "231 Route de la poste - Megève",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "larecharge - Rue de L'Abreuvoir - Peyrolles-en-Provence",
+    "address": "rue de L'abreuvoir - Peyrolles-en-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Gare de Meyrargues",
+    "address": ". Place de la gare - Meyrargues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Larecharge - avenue de la gare",
+    "address": "avenue de la gare - Jouques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Larecharge - Place Anciens Combattants, Meyrargues",
+    "address": "231 Rue d'Albertas - Meyrargues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Best western - Impasse de Nebelong",
+    "address": "Impasse de Nebelong - Pertuis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 914 Route de la Bastidonne - Pertuis",
+    "address": "914 Route de la Bastidonne - Pertuis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A51 Aire de Meyrargues (direction Aix-en-Provence)",
+    "address": "A 51 - Meyrargues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Persat Simon",
+    "address": "173 Rue Louis Lumière - Pertuis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - KIA - Pertuis",
+    "address": "203 Rue Joseph Cugnot - Pertuis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Verdun Aix Sarl",
+    "address": "1401 Route d'Aix - Pertuis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Salle Polyvalente - Ger",
+    "address": "Place du Foyer - Ger",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "evzen - Bornes Publiques - Ibos - Route de Pau",
+    "address": "Route de Pau - Ibos",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 - Place de Verdun",
+    "address": "12 Place de Verdun - Ibos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Rue jean Moulin - Andrest",
+    "address": "10 Rue Jean Moulin - Andrest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 - Place de la mairie - Bordères-sur-l'Échez",
+    "address": "1 Rue Jean Jaurès - Bordères-sur-l'Échez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking restaurant - Route de Bordeaux",
+    "address": "Route de Bordeaux - Bazet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MobiVE) - 625 Rue Simin Palay - Casteide-Doat",
+    "address": "625 Rue Simin Palay - Casteide-Doat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A64 Aire des Pyrénées (double sens)",
+    "address": "0 A64 - AIRE DES PYRENEES - GER",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GCK Energy - A64 Aire des Pyrénées (direction Tarbes)",
+    "address": "Aire des Pyrénées - Pontacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - La Boucherie Tarbes",
+    "address": "59 bis Avenue du Pouey - Ibos",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

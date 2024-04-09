@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Vival - Rue du Rhulemoine - Bulgnéville",
+    "address": "148 Rue du Rhulemoine - Bulgnéville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Camping porte des Vosges - Bulgnéville",
+    "address": "D14 - Bulgnéville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ZA de la Chaille - Contrexéville",
+    "address": "Rue François de Neufchâteau - Contrexéville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi - Rue du Capitaine Albert Littolff",
+    "address": "42d Rue du Capitaine Albert Littolff - Contrexéville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Rue de Metz - Contrexéville",
+    "address": "Rue de Metz - Contrexéville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo - Gare de Martigny-les-Bains",
+    "address": "18 Avenue De La Gare - Martigny-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue de Verdun",
+    "address": "836 Avenue des Pierrottes - Contrexéville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*IEN - Dombrot-le-Sec - Le Sord Champ",
+    "address": "Le Sord Champ - Dombrot-le-Sec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea- A31 Aire de Sandaucourt La Trelle",
+    "address": "A31, Aire de Sandaucourt La Trelle - Sandaucourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5",
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A31 - Aire de Lorraine-Saudaucourt (direction Nancy)",
+    "address": "A31 - Sandaucourt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

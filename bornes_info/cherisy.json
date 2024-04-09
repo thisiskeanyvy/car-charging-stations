@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE28 - Sainte-Gemme-Moronval",
+    "address": "Route de Moronval - Sainte-Gemme-Moronval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Dreux",
+    "address": "120 Avenue du Général Leclerc - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Garage de la rocade - Renault",
+    "address": "4 Route de Nogent le Roi - Sainte-Gemme-Moronval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue des Fontaines - Dreux",
+    "address": "7 Rue des Fontaines - Dreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue Emile Zola - LURAY",
+    "address": "Rue Emile Zola - LURAY",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Métézeau - Dreux",
+    "address": "2 Boulevard Louis Terrier - Dreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Styles Dreux",
+    "address": "10 Rue du Bois des Fossés - Dreux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking de la gare",
+    "address": "31 Rue des Rochelles - Dreux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de parking - Rue des Rochelles",
+    "address": "5 Rue des Rochelles - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Léon - Dreux",
+    "address": "7 Rue de la Garenne - Dreux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

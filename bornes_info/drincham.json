@@ -1,0 +1,126 @@
+[
+  {
+    "title": "BornEco - 610 Route de Cassel",
+    "address": "610 Route de Cassel - Drincham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 47 Rue de l'Église - Bollezeele DOUBLON",
+    "address": "47 Rue de l'Église - Bollezeele",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - 47 Rue de l'Église - Bollezeele",
+    "address": "47 Rue de l'Église - Bollezeele",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi - Route de Gravelines - Bollezeele",
+    "address": "1B Route de Gravelines - Bollezeele",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Vert Village - Crochte",
+    "address": "17 Voie romaine - Crochte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Brouckerque",
+    "address": "13 Place du Village - Brouckerque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "mediatheque de capelle brouck",
+    "address": "route de bourbourg - Cappelle-Brouck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pass Pass Electrique - 2658 Route de Bourbourg - Cappelle-Brouck",
+    "address": "2658 Route de Bourbourg - Cappelle-Brouck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Citroën - Bourbourg",
+    "address": "23 Route de Looberghe - Bourbourg",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Bourbourg",
+    "address": "Chem. de la Vieille Colme, - Bourbourg",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

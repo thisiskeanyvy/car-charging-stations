@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Révéo - Mairie de Tournefeuille",
+    "address": "9 Impasse Max Baylac - Tournefeuille",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Tournefeuille",
+    "address": "54 boulevard Vincent auriol - Tournefeuille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toulibeo - Avenue du Général de Gaulle - Tournefeuille",
+    "address": "Avenue du Général de Gaulle - Tournefeuille",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Qovoltis - Colomiers - 3 Boulevard Jean-Auguste Ingres",
+    "address": "3 Boulevard Jean-Auguste Ingres - Colomiers",
+    "connectors": [
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Esplanade des Ramassiers - Colomiers",
+    "address": "6 Esplanade des Ramassiers - Colomiers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Esplanade des Ramassiers - Colomiers",
+    "address": "6 Esplanade des Ramassiers - Colomiers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZE Watt - 1 Boulevard de l'Europe - Colomiers",
+    "address": "1 Boulevard de l'Europe - Colomiers",
+    "connectors": [
+      "x26",
+      "x26"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toulibeo - École Élémentaire Simone Veil - Colomiers",
+    "address": "Place des Marots - Colomiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Toulouse - 11 Rue du Professeur Pierre Vellas",
+    "address": "11 Rue du Professeur Pierre Vellas - Toulouse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atos Saint martin du touch",
+    "address": "6 Impasse Alice Guy - Toulouse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking du stade - Bonson",
+    "address": "1 Boulevard Albert Martiny - Bonson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Route de l'Énergie - Bonson",
+    "address": "330 Route de l'Énergie - Bonson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Prise de Nice - Pont Charles Albert",
+    "address": "Pont Charles Albert - Gilettes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - La Roquette-sur-Var - 5 Route de Grenoble",
+    "address": "5 Route de Grenoble - La Roquette-sur-Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pont Durandy",
+    "address": "- Plan du Var",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Revest les Roches - Parking Village",
+    "address": "15 Place Saint-Laurent - Revest-les-Roches",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Utelle - M6202 Le Chaudan",
+    "address": "M6202 Le Chaudan - Utelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Martin-du-Var - Proche du complexe sportif",
+    "address": "320 L'Ubac - Saint-Martin-du-Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Avenue Malaussena - Saint-Martin-du-Var",
+    "address": "Boulevard Michel Malaussena - Saint-Martin-du-Var",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Prise de Nice - Saint-Martin-du-Var - 4 Rue Jean Moulin",
+    "address": "4 Rue Jean Moulin - Saint-Martin-du-Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

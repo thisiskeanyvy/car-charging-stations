@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Avenue Jean Jaurès - Cenon",
+    "address": "65 Avenue Jean Jaurès - Cenon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue Aristide Briand",
+    "address": "1 Rue Aristide Briand - Cenon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parc-relais Buttinière - Lormont",
+    "address": "La Butinière - Lormont",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place Francois Mitterrand - Cenon",
+    "address": "3 Place François Mitterrand - Cenon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Cenon - Rue Lavoisier",
+    "address": "Rue Lavoisier - Cenon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Lormont",
+    "address": "Centre commercial Les 4 Pavillons _BP 7 - Lormont",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT - Bordeaux - Rent A Car",
+    "address": "295 Avenue Thiers - Bordeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Bordeaux - Quai de Brazza (privé)",
+    "address": "65 Quai De Brazza - Bordeaux",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Cenon",
+    "address": "3 Avenue René Cassagne - Cenon",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - Parking Cité du Vin - Bordeaux",
+    "address": "134 Quai de Bacalan - Bordeaux",
+    "connectors": [
+      "x21",
+      "x21"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

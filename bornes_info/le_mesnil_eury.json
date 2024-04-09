@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Shell Recharge - 1 Chemin du Halage de la Gare",
+    "address": "1 Chemin du Halage de la Gare - Saint-Pierre-la-Garenne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - St Just",
+    "address": "Route de Rouen - Saint-Just",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MSA PRIM - VERNON - SAINT-JUST",
+    "address": "15 Route de Rouen  RN - Saint Just",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - La Chapelle-Longueville",
+    "address": "10 Route de Rouen - La Chapelle-Longueville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Aire de covoiturage - Gaillon",
+    "address": "16 Boulevard de la Verte Bonne - Gaillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Hyundai - Saint Just",
+    "address": "13 Route de Rouen - Saint-Just",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Parking Aquaval",
+    "address": "Route de la Garenne - Gaillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Aubevoye",
+    "address": "12bis Rue de la Gare - Aubevoye",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia-Express - CC Saint-Marcel",
+    "address": "39 Rue des Prés - Saint-Marcel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Action / But - Rue des Prés",
+    "address": "37 Rue des Prés - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x7",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

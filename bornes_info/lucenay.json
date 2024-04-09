@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SST informatique",
+    "address": "130 Route d'Anse - Marcy",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Eglise Morancé",
+    "address": "35 Chemin de la Poyat - Morancé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire des Chères Ouest (direction Lyon)",
+    "address": "A6, Aire des Chères Ouest - Les Chères",
+    "connectors": [
+      "x4",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Esso Les Cheres Ouest - A6",
+    "address": "A6 - Les Chères",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire des Chères Est (direction Villefranche-sur-Saône)",
+    "address": "A6, Aire des Chères Est - Les Chères",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - 36 Avenue de Brianne - Anse",
+    "address": "52 Avenue de Brianne - Anse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "magasin Fresh - Route de Lyon - Anse",
+    "address": "417 Route de Lyon - Anse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Dumont Buathier",
+    "address": "397 Route de Lyon - Anse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Les Pierres Dorées (Tesla et autres)",
+    "address": "4 Rue de la Mairie - Ambérieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bump-Charge - Logis Contact Hôtel Les Pierres Dorées",
+    "address": "4 Rue de la Mairie - Ambérieux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

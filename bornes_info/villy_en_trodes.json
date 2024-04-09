@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEA - Aire de covoiturage D443 - Magnant",
+    "address": "Aire de covoiturage D443 - Magnant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Hotel Restaurant Le Val Moret",
+    "address": "90 Rue du marechal leclerc - Magnant",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Rue de la Pierre - La Villeneuve-au-Chêne",
+    "address": "1 Rue de la Pierre - La Villeneuve-au-Chêne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Port - Mesnil-Saint-Père",
+    "address": "5 Rue du Lac - Mesnil-Saint-Père",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - Vendeuvre-sur-Barse - 1 Rue Pataut",
+    "address": "1 Rue Pataut - Vendeuvre-sur-Barse",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking - Grande Rue - Montiéramey",
+    "address": "41 Grande Rue - Montiéramey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEA - Avenue de la République - Vendeuvre sur Barse",
+    "address": "20 Avenue de la republique - Vendeuvre sur Barse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Gare - Vendeuvre-sur-Barse",
+    "address": "20 Avenue de la République - Vendeuvre-sur-Barse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - 10 Rue Jean Monnet - Virey-sous-Bar",
+    "address": "10 Rue Jean Monnet - Virey-sous-Bar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Rue du Stade, 2 - Bar-sur-Seine",
+    "address": "2 Rue du Stade - Bar-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

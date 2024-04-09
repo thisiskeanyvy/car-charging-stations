@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiSDEC - Mairie de Sainte-Marguerite de Viet",
+    "address": "41 Route De St Pierre Sur Dives - Vieux-Pont-en-Auge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Total Energies - Livarot-Pays-d'auge - Renault",
+    "address": "99 Route de la Côte Fleurie - Livarot-Pays-d'auge",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Livarot (Place de la Mairie)",
+    "address": "Place Georges Bisson - Livarot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Livarot (Place Xavier de Maistre)",
+    "address": "3 Place Xavier de Maistre - Livarot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Carpiquet - 80 Route de Caen",
+    "address": "80 Route de Caen - Carpiquet",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Pierre-sur-Dives (place du marché)",
+    "address": "27 Rue des Sports - Saint-Pierre-sur-Dives",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Pierre-sur-Dives (Place Gombault)",
+    "address": "10 Place Gombault - Saint-Pierre-sur-Dives",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - ruelle des Prés - St Pierre Sur Dives",
+    "address": "ruelle des Prés - St Pierre Sur Dives",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Rue du Manoir l'Élu - Saint-Pierre-en-Auge",
+    "address": "1 Rue du Manoir l'Élu - Saint-Pierre-en-Auge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "parking",
+    "address": "82 Lieu des Ifs - Le Mesnil-Mauger",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

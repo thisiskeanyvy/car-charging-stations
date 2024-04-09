@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEY - Rue Jean Jaurès - CHEMILLY-SUR-YONNE (89)",
+    "address": "Rue Jean Jaurès - CHEMILLY-SUR-YONNE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Route de Chablis - Hauterive",
+    "address": "23 Route de Chablis - Hauterive",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - 4 Place De L Eglise - HERY (89)",
+    "address": "4 Place De L Eglise - HERY (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - Appoigny - Hôtel Kyriad Direct Auxerre",
+    "address": "D319, Rue du Fossé du Bois - Appoigny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEY - Rue de la Gare - Monéteau",
+    "address": "Rue de la Gare - Monéteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Auxerre",
+    "address": "Route Nationale 6 - Auxerre",
+    "connectors": [
+      "x8",
+      "x8",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Monéteau - A6 Nord Aire de Covoiturage",
+    "address": "Avenue Du Luxembourg - Monéteau",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Avenue de l'Europe - Monéteau",
+    "address": "12 Avenue de l'Europe - Monéteau",
+    "connectors": [
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile (FR*S89) - Héry - Héry, Rue des Baudières",
+    "address": "Héry, Rue des Baudières - Héry",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEY - Skeneteau - Rue d'Auxerre - Monéteau",
+    "address": "9C Rue d'Auxerre - Monéteau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

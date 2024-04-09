@@ -1,0 +1,132 @@
+[
+  {
+    "title": "AlterBase Séolis – La Crèche – Bibliothèque",
+    "address": "87 Avenue de Paris - La Crèche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - La Crèche - La Gare",
+    "address": "30 Avenue de la Gare - La Crèche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour la Creche",
+    "address": "101 Avenue de Paris - La Crèche",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Régional des Énergies renouvelables",
+    "address": "8 Rue Jacques Cartier - La Crèche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "12 Rue du Vieux Four",
+    "address": "12 Rue du Vieux Four - Chauray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau Alterbase - Chauray - Le Temple",
+    "address": "Rue du Vieux Four - Chauray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Safran Aérosystem",
+    "address": "271 Rue de château Musset - Chauray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Chauray (privée réservée à la concession)",
+    "address": "Rue des Guillées - Chauray",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Galerie - Géant Niort",
+    "address": "100 Rue du Puits de la ville - Chauray",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Supercharger Tesla V4 - Géant Casino - Chauray",
+    "address": "100 Rue du puy de la ville - Chauray",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "TotalEnergies - N157 Aire d'Erbrée (Direction Rennes)",
+    "address": "8 AIRE D'ERBREE -RN 157 - ERBREE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - N157 Aire de Mondevert (direction Laval)",
+    "address": "8 N157 - Erbrée",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Magasin But - Vitré",
+    "address": "203 Boulevard de Laval - Vitré",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vitré - CinéWest",
+    "address": "199 Boulevard De Laval - Vitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault Vitré",
+    "address": "Route de Laval - Vitré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vitré - 40 Rue Des Eaux",
+    "address": "40 Rue Des Eaux - Vitré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue des Étangs - Argentré du Plessis",
+    "address": "3 Rue des Étangs - Argentré-du-Plessis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Saint-Pierre-la-Cour - 1 Rte de la Mine",
+    "address": "1 Rte de la Mine - Saint-Pierre-la-Cour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Schimdt - Rue des Artisans",
+    "address": "15 Rue des Artisans - Vitré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking souterrain Leclerc",
+    "address": "5 Rue du Mée - Vitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

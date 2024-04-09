@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Parking de la voute",
+    "address": "87 Rue De La Voûte - Salles-Arbuissonnas-en-Beaujolais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - HOTEL LE SAVIGNY - Place de Verdun - Blacé",
+    "address": "Place de Verdun - Blacé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - St Etienne des Ouillères",
+    "address": "190 Rue du Beaujolais - Saint-Étienne-des-Oullières",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking hotel Chateau des Loges",
+    "address": "1 Impasse des Loges - Le Perréon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - 500 Rte de la Chaize - Odenas INEXISTANT",
+    "address": "500 Rte de la Chaize - Odenas",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Place du 8 Mai 1945 - Odenas",
+    "address": "53 Rue du Beaujolais - Odenas",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Médiathèque d'Arnas",
+    "address": "2 Rue du Beaujolais - Arnas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Gleize - Rue des Moineaux",
+    "address": "Rue des Moineaux - Gleize",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking personnel Hôpital Nord Ouest (Private)",
+    "address": "695 Rue des Moineaux - Gleize",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Gleize - GHT Hôpital - Parking Salarié 1",
+    "address": "Route d'Epinay - Gleize",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

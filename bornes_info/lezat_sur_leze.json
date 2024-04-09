@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Boulodrome - Lézat-sur-Lèze",
+    "address": "48 Boulevard Pasteur - Lézat-sur-Lèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Avenue des Moulins",
+    "address": "2 Avenue des Moulins - Lézat-sur-Lèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Massabrac, Mairie",
+    "address": "20 - Massabrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Saint-Sulpice-sur-Lèze, Gendarmerie",
+    "address": "1 rue Étienne Fonfrede - Saint-Sulpice-sur-Lèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEHG - Auribail, Cimetière",
+    "address": "51 Le Moulin - Auribail",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Carbonne - Office de tourisme",
+    "address": "19 Place de la République - Carbonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Capens",
+    "address": "D10 - Capens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A64 - Aire de Garonne (direction Toulouse)",
+    "address": "A64 - Capens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEHG - ZAC de Serres - Capens",
+    "address": "ZAC de Serres - Capens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A64 - Aire du Volvestre (direction Tarbes)",
+    "address": "A64 - Capens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

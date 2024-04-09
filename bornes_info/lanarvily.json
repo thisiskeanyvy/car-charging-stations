@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDEF - Le Folgoët (Rue du Verger)",
+    "address": "Rue du Verger - Le Folgoët",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Plouvien (Place des Fusillés)",
+    "address": "145 Rue Laennec - Plouvien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Rue Valy Goz - Lesneven",
+    "address": "Rue Valy Goz - Lesneven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mac Donald's - Lesneven",
+    "address": "2 Rue de Croas ar Rod - Lesneven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ploudaniel Saint-Eloi",
+    "address": "Le REst - Ploudaniel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Ploudaniel (Place Saint Yves)",
+    "address": "Place Saint-Yves - Ploudaniel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Ploudaniel",
+    "address": "5 Kerneyen - Ploudaniel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plabennec (Gare routière)",
+    "address": "60 Avenue de Waltenhofen - Plabennec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plabennec",
+    "address": "2 Kermenguy - Plabennec",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Route de Plabennec, 6 - Kersaint-Plabennec",
+    "address": "6 Route de Plabennec - Kersaint-Plabennec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

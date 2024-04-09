@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE04 - Z.I Mardaric / La Sève (Sortie 20)",
+    "address": "6071 La Sève - Peyruis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Peyruis | Espace Saint-Pierre 11",
+    "address": "11 Espace Saint-Pierre - Peyruis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TAXI AUBIGNOSC",
+    "address": "15 Rue de la Savoie - Château-Arnoux-Saint-Auban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking rue de l'Hôpital - Les Mées",
+    "address": "3 Rue de L Hôpital - Les Mées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE04 - Parking Gabriel Cordier",
+    "address": "819 Rue Gabriel Cordier - Château-Arnoux-Saint-Auban",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE04 - Parking boulevard de la Liberté",
+    "address": "1 Boulevard de la Liberté - Château-Arnoux-Saint-Auban",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La bonne étape - Chateau Arnoux Saint Auban (Porsche)",
+    "address": "Chemin du lac - Chateau Arnoux Saint Auban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Le Village - Saint-Étienne-les-Orgues",
+    "address": "Le Village - Saint-Étienne-les-Orgues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire de Aubignosc Ouest",
+    "address": "A51, Aire de Aubignosc Ouest - Aubignosc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire de Aubignosc Est",
+    "address": "A51, Aire de Aubignosc Est - Aubignosc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Modulo Energies - rue crois Saint André - Gy en Sologne",
+    "address": "Croix Saint André - Gy-en-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Mur-de-Sologne (Place de la poste)",
+    "address": "Place de la poste - Mur-de-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A85 - Aire de Romorantin (double sens)",
+    "address": "541–1099 Route de Marmagne à Chêne Moreau - Pruniers-en-Sologne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - A85 Aire de La Courneuve Ouest (direction Vierzon)",
+    "address": "La Courneuve Ouest, Autoroute du Nord - La Courneuve",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fêtes",
+    "address": "64 Rue Jean Jaurès - Pruniers-en-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Leclerc - Romorantin-Lanthenay",
+    "address": "1 Rue des Chardonnes - Romorantin-Lanthenay",
+    "connectors": [
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Domaine des Bois Argentés",
+    "address": "2449 Lieu Dit Saugirard - Pruniers-en-Sologne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Pruniers-en-Sologne",
+    "address": "Place des Pléiades - Pruniers-en-Sologne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Brico Leclerc - Romorantin-Lanthenay",
+    "address": "71-73 Avenue de Paris - Romorantin-Lanthenay",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sidelc Soings en Sologne",
+    "address": "54 Rue Saint-Jean - Soings-en-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

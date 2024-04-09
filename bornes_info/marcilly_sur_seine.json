@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEM 51 - 1 Avenue Marechal Leclerc - Conflans sur Seine",
+    "address": "1 Avenue du Maréchal Leclerc - Conflans-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEA - Stade Bardin Gousserey",
+    "address": "5 Avenue Jules Jacquemin - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Place des Martyrs - Romilly-sur-Seine",
+    "address": "41 Place des Martyrs pour la Libération - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEA - Place de l'Union - Romilly-sur-Seine",
+    "address": "14 Rue de l'Union - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Centre Hospitalier - Romilly-sur-Seine",
+    "address": "1 Rue Guy Môquet - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Gare de Romilly-sur-Seine",
+    "address": "28 Av du Général Leclerc - Parking de la Gare - Romilly",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Romilly-sur-Seine",
+    "address": "2 Allée des Entrepreneurs - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM 51 -  Parking de l'Eglise - St Just St Sauvage",
+    "address": "Parking de l'Eglise - St Just St Sauvage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Les Ruchelats - Saint-Hilaire-sous-Romilly",
+    "address": "9 Les Ruchelats - Saint-Hilaire-sous-Romilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEA - Colonel Fabien - Romilly-sur-Seine",
+    "address": "60B Rue du Colonel Fabien - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

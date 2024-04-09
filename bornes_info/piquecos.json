@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Loubéjac - SDE82",
+    "address": "chemin de Biscardel - L'Honor-de-Cos",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Lamothe",
+    "address": "Grand Rue d'Ardus - Lamothe-Capdeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Puycornet, Salle Communale - Puycornet",
+    "address": "Puycornet, Salle Communale - Puycornet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Place du 8 Mai 1945 - Meauzac",
+    "address": "Place du 8 Mai 1945 - Meauzac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Esplanade Gustave Bosc Lafrançaise",
+    "address": "1 Esplanade Gustave Bosc - Lafrançaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Montauban | Rue Aristide Berges 9",
+    "address": "9 Rue Aristide Berges - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IECharge - Montauban B - 1301 Avenue de Cos",
+    "address": "1301 Avenue de Cos - Montauban B",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montauban | Chemin des Ramonets 9",
+    "address": "9 Chemin des Ramonets - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cicerone",
+    "address": "495 Impasse des Tamaris - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Speed Queen - Montauban",
+    "address": "2050\r\n Avenue de Fonneuve\r\n - Montauban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Terrain de tennis",
+    "address": "6-8 Rue de la Vacherie - Le Plessis-Feu-Aussoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de la Mairie Touquin",
+    "address": "1 Place de la Mairie - Touquin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du onze novembre - Voinsles",
+    "address": "5 Rue du Onze Novembre - Voinsles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Route de Coulommiers",
+    "address": "3 Route de Coulommiers - Pézarches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Vaudoy-en-Brie",
+    "address": "Rue Chaude - Vaudoy-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Place de l'Église Saints",
+    "address": "8 Place de l'Église - Saints",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue du Général de Gaulle - Pécy",
+    "address": "30-34 Rue du Général de Gaulle - Pécy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Salle des fetes - Avenue du Général Leclerc",
+    "address": "23 Avenue du Général Leclerc - Bernay-Vilbert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Courpalay - Place de l'Eglise",
+    "address": "1bis Place De l'Eglise - Courpalay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché Contact - Faremoutierss",
+    "address": "Les Pres du Bourdeau ZA - Faremoutiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

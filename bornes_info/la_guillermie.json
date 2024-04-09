@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Domaine La Bourbonnaise",
+    "address": "D477 - Laprugne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Le Mayet-de-Montagne",
+    "address": "29 Rue de Ferrières - Le Mayet-de-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Le Mayet-de-Montagne",
+    "address": "38 Place aux Foires - Le Mayet-de-Montagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - La Monnerie-le-Montel - Sortie Péage A89",
+    "address": "Chez Racine - La Monnerie-le-Montel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Chailas - La Monnerie-le-Montel",
+    "address": "Chailas - La Monnerie-le-Montel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Rue De La Gare - La Monnerie-le-Montel",
+    "address": "31 Rue De La Gare - La Monnerie-le-Montel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEG 63 - Place Jean Jaurès",
+    "address": "Place Jean Jaurès - Puy-Guillaume",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEG 63 - Celles-sur-Durolle",
+    "address": "1 Rue du Huit Mai - Celles-sur-Durolle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEG 63 - 3 Place Duchasseint",
+    "address": "3 Place Duchasseint - Thiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEG 63 - 1 Rue Fernand Forest - Thiers",
+    "address": "1 Rue Fernand Forest - Thiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

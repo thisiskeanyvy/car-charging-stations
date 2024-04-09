@@ -1,0 +1,146 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Aulnay-de-Saintonge - Place Charles-de-Gaulle / mairie",
+    "address": "Place Charles de Gaulle - Aulnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syndicat départemental de la Charente-Maritime - Nère - Le Bourg Parking salle des fêtes",
+    "address": "Le Bourg Parking salle des fêtes - Nère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Menuiserie BOURASSEAU",
+    "address": "4 Rue des Mirandes - Saint-Pardoult",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau AlterBase - Aubigné - Mairie",
+    "address": "Rue Saint Cybard le Bourg - Aubigné",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Villier en Bois - Zoodyssée",
+    "address": "Route du Chêne À Margot - Villiers-en-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat départemental de la Charente-Maritime - Loulay - Place Jean Moulin",
+    "address": "Place Jean Moulin - Loulay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Champ de foire - Matha",
+    "address": "2 Place du Château d'Eau - Matha",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "L'auto Leclerc - Saint-Jean-d'Angély",
+    "address": "D939 - Saint-Jean-d'Angély",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue Octavie Coudreau - Saint Jean d'Angely",
+    "address": "4 Rue Octavie Coudreau - Saint-Jean-d'Angély",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E.Leclerc Sport",
+    "address": "7 Rue Roger Menaud - Saint-Jean-d'Angély",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

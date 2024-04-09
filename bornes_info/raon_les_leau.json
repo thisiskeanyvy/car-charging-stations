@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Monta - COL DU DONON - Hôtel le Velleda",
+    "address": "Hôtel le Velleda - COL DU DONON",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Monta - Grandfontaine - Mont Donon",
+    "address": "Mont Donon - Grandfontaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Route du Donon - La Broque",
+    "address": "24A Route du Donon - La Broque",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Quirin - Rue Du Général De Gaulle",
+    "address": "Rue Du Général De Gaulle - Saint-Quirin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Russ - Super U",
+    "address": "1 Rue de la Creuse Fontaine, 67130 Russ, Fran - Russ",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Restaurant Julien - Route de Strasbourg Dvt Fouday - Plaine",
+    "address": "750 Route de Strasbourg Dvt Fouday - Plaine",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - 2 Place de la Gare - Celles-sur-Plaine",
+    "address": "2 Place de la Gare - Celles-sur-Plaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "hotel restaurant des lacs",
+    "address": "2 Place De La Gare - Celles-sur-Plaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Center Parc - Parking B",
+    "address": "85 Unnamed Road - Niderhoff",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Center Parc - parking C - Niderhoff",
+    "address": "42 Unnamed Road - Niderhoff",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

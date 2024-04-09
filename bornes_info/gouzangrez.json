@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Maison du Parc - Théméricourt",
+    "address": "2 Rue du Moulin - Théméricourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Rouen - Vigny (Privé)",
+    "address": "Rue de Rouen 2 - Vigny",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Leclerc Express Marines",
+    "address": "3 Rue de la Richarderie - Marines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Marines",
+    "address": "21 Boulevard Gambetta - Marines",
+    "connectors": [
+      "x3",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parc Aventure Land - Magny en Vexin",
+    "address": "RD14 sortie 19 - Magny en Vexin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue du Regard",
+    "address": "57 Rue du Regard - Yvelines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - rond point de branchu - Lierville",
+    "address": "D153 - Lierville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Magny-en-Vexin",
+    "address": "Route De Mantes - Magny-en-Vexin",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMaborne - 10 Grande Rue - Tessancourt-sur-Aubette",
+    "address": "10 Grande Rue - Tessancourt-sur-Aubette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "NAUTILUS - Cergy",
+    "address": "9 Boulevard des Explorateurs - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

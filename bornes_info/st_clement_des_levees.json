@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hotel Le Prieuré",
+    "address": "Rue du Comte de Castellane - Chenehutte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Domaine de Joreau - Gennes-Val-de-Loire",
+    "address": "Domaine de Joreau - Gennes-Val-de-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - LES ROSIERS SUR LOIRE - Rue du Mail",
+    "address": "Rue du Mail - Les Rosiers-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - CHENEHUTTE TREVES CUNAULT - Place Pont Pouillet",
+    "address": "Place Pont Pouillet - Chênehutte-Trèves-Cunault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Gennes - Place Du 19 Mars",
+    "address": "Avenue des Cadets de Saumur - Gennes-Val de Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Yelloh village-les voiles d'Anjou",
+    "address": "6 Rue Sainte-Baudruche - Gennes-Val-de-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Longue Jumelles - Place Champ De Foire",
+    "address": "Place du Champ de Foire - Longué-Jumelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Joreau",
+    "address": "11 11 la Croix de Joreau, Domaine de Joreau - Gennes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Longué-Jumelles - Place de la République",
+    "address": "Place de la République - Longué-Jumelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - Le Domaine du Golf - Saumur",
+    "address": "Route des Mortins - Saumur",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

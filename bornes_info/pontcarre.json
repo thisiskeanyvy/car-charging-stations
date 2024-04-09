@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Imprimerie ICB (Tesla et autres)",
+    "address": "4 Chemin de Braque - Pontcarré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Ferrières-en-Brie - 17 Avenue James de Rothschild",
+    "address": "17 Avenue James de Rothschild - Ferrières-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Porsche - Ferrières-en-Brie - 24 Rue du Mans",
+    "address": "24 Rue du Mans - Ferrières-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Hyundai - Bussy-Saint-Georges",
+    "address": "2 avenue de l'Europe - Bussy-Saint-Georges",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Roissy-en-Brie - Point P",
+    "address": "7 Route D'ozoir - Roissy-en-Brie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem.mobi : MLV 313 - ZAE de Lamirault",
+    "address": "Rue de Lamirault - Collégien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Premiere Avenue - Roissy-en-Brie",
+    "address": "1 Premiere Avenue - Roissy-en-Brie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electra - Bussy St Georges - Campanile",
+    "address": "8 Avenue Marie Curie - Bussy-Saint-Georges",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - 23 Avenue Graham Bell (Privé)",
+    "address": "23 Avenue Graham Bell - Bussy-Saint-Georges",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem.mobi : MLV 314 - ZAE des Portes de la Forêt",
+    "address": "2 Allée de la Butte du Moulin - Collégien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

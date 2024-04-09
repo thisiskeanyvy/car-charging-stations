@@ -1,0 +1,124 @@
+[
+  {
+    "title": "EVBox - Route de l'Imprimerie 48 - Preyssac d'Excideuil",
+    "address": "Route de l'Imprimerie 48 - Preyssac d'Excideuil",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine d'Essendiéras (bornes de recharge)",
+    "address": "Essendiéras - Saint-Médard-d'Excideuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Place du Docteur Achille Moulinier, 3 - Excideuil",
+    "address": "3 Place du Docteur Achille Moulinier - Excideuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 - Cherveix-Cubas - Place André Goumandie",
+    "address": "Place André Goumandie  - Cherveix-Cubas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Eglise St Pierre",
+    "address": "1 Rue du Pont Lasveyras - Lanouaille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Tourtoirac",
+    "address": "244 Le Bourg - Tourtoirac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Hautefort",
+    "address": "Rue de la Gare - Hautefort",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Rue Bertrand de Born Hautefort",
+    "address": "18-22 Rue Bertran de Born - Hautefort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 (MobiVE) - Route de Limoges - Saint-Yrieix-la-Perche",
+    "address": "99–101 Route de Limoges - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Base de loisirs de Rouffiac",
+    "address": "142 Le Godoney - Angoisse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

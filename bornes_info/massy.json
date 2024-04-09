@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Mairie de Massy",
+    "address": "1 Allée des Cadets de la France Libre - Massy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Medico Psycho Pedagogique - Massy",
+    "address": "7B Rue Eugène Crétel - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay Mobiélectrique - 108 Avenue de la Gare - Massy",
+    "address": "108 Avenue de la Gare - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Crédit Agricole Consumer Finance",
+    "address": "1 Rue Victor Basch - Massy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Louis Antoine de Bougainville - Massy",
+    "address": "Rue Louis Antoine de Bougainville - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Cora (Allée D) - Massy",
+    "address": "D Centre Commercial Cora - Massy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Avenue de l Europe - Massy",
+    "address": "Avenue de l Europe - Massy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Communauté d'Agglomération Paris-Saclay - 1 Allée de Québec - Massy",
+    "address": "1 Allée de Québec - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Ericsson",
+    "address": "25 Avenue Carnot - Massy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare TGV Massy",
+    "address": "38 Avenue Carnot - Massy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

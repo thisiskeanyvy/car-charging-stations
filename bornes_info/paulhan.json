@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Syndicat Mixte Hérault Énergies (SDE34) - Paulhan - Rue Saint Sébastien",
+    "address": "Rue Saint Sébastien - Paulhan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Parking Du Stade - Saint Pargoire",
+    "address": "Rue de la Paix\r\n - Saint-Pargoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place du marché - Montagnac",
+    "address": "Avenue du 11 Novembre 1918 - Montagnac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - D123 - Le Pouget",
+    "address": "41 Rue de l'Estang - Le Pouget",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E.Leclerc - Clermont-l'Hérault (proche de la sortie 57 de l'A75)",
+    "address": "507 Chemin de la Salamane - Clermont-l'Hérault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "3 L'Hortevieille",
+    "address": "3 L'Hortevieille - Montagnac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue Pierre Pascal - Caux",
+    "address": "Rue Pierre Pascal - Caux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Intermarché - Clermont-l'Hérault",
+    "address": "2 Rue du Servent - Clermont-l'Hérault",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Big Mat - Clermont-l'Hérault",
+    "address": "10 Rue Du Cardinal - Clermont-l'Hérault",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Avenue François Hue - Pézenas",
+    "address": "Avenue François Hue - Pézenas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

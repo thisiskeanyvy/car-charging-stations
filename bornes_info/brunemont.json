@@ -1,0 +1,130 @@
+[
+  {
+    "title": "E. Leclerc - Bugnicourt",
+    "address": "1 Route de Brunemont - Bugnicourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "E. Leclerc - Bugnicourt",
+    "address": "1 Route de Brunemont - Bugnicourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Eglise - Arleux",
+    "address": "2\r\n Rue du Château\r\n - Arleux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Last Mile Solutions - Avenue de France - Épinoy",
+    "address": "Avenue de France \r\n - Épinoy",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Mairie de Gœulzin",
+    "address": "142 Rue Marteloy - Gœulzin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Lewarde - Siège CCCO",
+    "address": "60 Domaine du Château - Lewarde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A26 - Aire de Baralle (direction Reims)",
+    "address": "A26 - Baralle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - A26 Aire de Rumaucourt (direction Arras)",
+    "address": "A26 - Rumaucourt",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Centre Hospitalier Douai - Férin",
+    "address": "732 Route nationale - Férin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Mazda Asian Motors - Rue Barack Obama Zone du Luc - Dechy",
+    "address": "Rue Barack Obama Zone du Luc - Dechy",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

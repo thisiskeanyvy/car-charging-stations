@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sigeif - Parking Victor Hugo - Bièvres",
+    "address": "1 Place De La Mairie - Bièvres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Gare de Bièvres",
+    "address": "Place de la Gare - Bièvres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 1 Allée des Castors - Bièvres",
+    "address": "1 Allée des Castors - Bièvres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Avenue de la Division Leclerc - Igny",
+    "address": "Avenue de la Division Leclerc - Igny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris Saclay mobiélectrique - Gymnase Kervadec",
+    "address": "6 Rue de l'Or Mété - Igny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Base aérienne 107 - Vélizy-Villacoublay",
+    "address": "Unnamed Road - Vélizy-Villacoublay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Technique PSA - Velizy Villacoublay",
+    "address": "2 route de Gizy - Velizy Villacoublay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Mairie de Vauhallan",
+    "address": "1 Allée des Écoles - Vauhallan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BUMP-CHARGE - Rue André Citroën - Vélizy-Villacoublay",
+    "address": "Rue André Citroën - Vélizy-Villacoublay",
+    "connectors": [
+      "x18"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Jules Ferry - Igny",
+    "address": "35 Rue Jules Ferry - Igny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

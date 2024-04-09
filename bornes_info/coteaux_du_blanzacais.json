@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEG16 - Rue du Dr Petit - Coteaux-du-Blanzacais",
+    "address": "Rue du Dr Petit - Coteaux-du-Blanzacais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du cimetière - Aignes-et-Puypéroux",
+    "address": "D674 - Aignes-et-Puypéroux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Guerin philippe",
+    "address": "8 Rue du Bujateau - Montmoreau-Saint-Cybard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Champ de foire - Mouthiers-sur-Boëme",
+    "address": "Place du Champ de Foire - Mouthiers-sur-Boëme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Domaine de Roullet - Roullet-Saint-Estèphe",
+    "address": "16 Route de Mouthiers - Roullet-Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - 3 Rue Henri Dunant - Montmoreau-Saint-Cybard",
+    "address": "3 Rue Henri Dunant - Montmoreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat Départemental d'Electricité et de Gaz de Charentes (SDEG16) - 5 Rue de la Tude - Montmoreau-Saint-Cybard",
+    "address": "5 Rue de la Tude - Montmoreau-Saint-Cybard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Châteauneuf-sur-Charente",
+    "address": "Route de Blanzac - Châteauneuf-sur-Charente",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEG16 (MobiVE) - Boulevard Chanzy - Barbezieux-Saint-Hilaire",
+    "address": "Boulevard Chanzy - Barbezieux-Saint-Hilaire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue Neslon Mandela - Barbezieux-Saint-Hilaire",
+    "address": "16 Avenue Neslon Mandela - Barbezieux-Saint-Hilaire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

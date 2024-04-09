@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Place d'Alsace",
+    "address": "Place D'Alsace - Cazoulès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - Rue des Cantaures - Lanzac",
+    "address": "240 Route de Merigou - Lanzac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Souillac",
+    "address": "Avenue de Verdun - Souillac",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Rue Pierre Bourthoumieux - Souillac",
+    "address": "8 Rue Pierre Bourthoumieux - Souillac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "delbach",
+    "address": "28 Rue de Présignac - Souillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*EFL - Saint Julien de Lampon - 735 Route du Mondou",
+    "address": "735 Route du Mondou - Saint Julien de Lampon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Souillac (uniquement pour dépannage)",
+    "address": "Route de Martel - Souillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - D61, 22 - Saint-Julien-de-Lampon",
+    "address": "22 D61 - Saint-Julien-de-Lampon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de le Treyne (Tesla et autres)",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Village sur le Roc (Tesla and others)",
+    "address": "Lieu dit Sur le Roc - Sainte-Mondane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

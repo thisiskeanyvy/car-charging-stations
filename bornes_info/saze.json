@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Réveo - Salle Polyvalente - Chemin du Stade - Saze",
+    "address": "Chemin du Stade - Saze",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Spar - Saze",
+    "address": "Route de Rochefort - Saze",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RÉVÉO - Avenue du Pont - Domazan",
+    "address": "Avenue du Pont - Domazan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Domaine de Pierredon - Estézargues",
+    "address": "111 chemin de la distillerie - Estézargues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Cimetière de Rochefort-du-Gard",
+    "address": "Route d'Avignon - Rochefort-du-Gard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Route d'Orange - Rochefort du Gard",
+    "address": "71 Route d'Orange - Rochefort-du-Gard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rochefort-du-Gard",
+    "address": "380 allée des Issards - Rochefort-du-Gard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Avenue Jean Moulin Aramon",
+    "address": "186 Avenue Jean Moulin - Aramon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Optical Center - Les Angles",
+    "address": "6662 Rue Di Cardelino - Les Angles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KFC - Rue des Alizés",
+    "address": "2 Rue des Alizés - Les Angles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

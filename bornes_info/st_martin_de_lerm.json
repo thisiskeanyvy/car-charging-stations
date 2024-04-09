@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEEG33 - Parking Gendarmerie - Sauveterre-de-Guyenne",
+    "address": "11 Boulevard du 11 Novembre 1918 - Sauveterre-de-Guyenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Garage Tresarrieu - Roquebrune",
+    "address": "14b les basses carrières - Roquebrune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Parking Cimetière - Sauveterre-de-Guyenne",
+    "address": "Boulevard du 11 Novembre 1918 - Sauveterre-de-Guyenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Bricomarché Sauveterre de Guyenne",
+    "address": "366 Avenue François Mitterrand - Sauveterre-de-Guyenne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Netto - La Réole",
+    "address": "14b Chem. de Blasignon - La Réole",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "See You Sun - Super U - Sauveterre-de-Guyenne",
+    "address": "315 Route De Libourne - Sauveterre-de-Guyenne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Avenue Carnot, 30 - La Réole",
+    "address": "30 Avenue Carnot - La Réole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue des Jacobins - La Réole",
+    "address": "12 Rue des Jacobins - La Réole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Lidl - La Réole",
+    "address": "Hameau De Frimont - La Réole",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Avenue Jean Delsol - La Réole",
+    "address": "Avenue Jean Delsol - La Réole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

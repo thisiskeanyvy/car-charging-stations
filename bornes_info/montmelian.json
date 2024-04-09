@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Mouv’Oise - 1 Rue Verte - Plailly",
+    "address": "1 Rue Verte - Plailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Golden Tulip Roissy Saint Witz",
+    "address": "1 Rue du Petit Marais - Saint-Witz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hotel Golden Tulip Roissy Saint Witz",
+    "address": "1 Rue du Petit Marais - Saint-Witz",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HOTEL AKENA - Saint-Witz (Tesla and others)",
+    "address": "4 Rue Jean Moulin - Saint-Witz",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Plailly",
+    "address": "1 Rue des Vergers - Plailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A1 Novotel Saint-witz",
+    "address": "Route De Survilliers - Saint-Witz",
+    "connectors": [
+      "x12",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargeGuru - Audi Bauer - Saint Witz",
+    "address": "Grande rue - Survilliers",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Shell | Aire De Vemars Est",
+    "address": "A1 - Vémars",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - A1 Aire de Vémars Ouest (direction Paris)",
+    "address": "Aire de Vémars Ouest A1 - Vémars",
+    "connectors": [
+      "x2",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FASTNED - A1 Aire de Vémars Est (direction Lille)",
+    "address": "A1 - Vémars",
+    "connectors": [
+      "x16",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

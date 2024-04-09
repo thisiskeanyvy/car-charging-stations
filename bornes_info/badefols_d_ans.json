@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE24 - Rue Bertrand de Born Hautefort",
+    "address": "18-22 Rue Bertran de Born - Hautefort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Hautefort",
+    "address": "Rue de la Gare - Hautefort",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Cherveix-Cubas - Place André Goumandie",
+    "address": "Place André Goumandie  - Cherveix-Cubas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Route du Soulet - Ayen",
+    "address": "Route du Soulet - Ayen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Place Heni Faure - Le Lardin-Saint-Lazare",
+    "address": "Place Henri Faure - Le Lardin-Saint-Lazare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-station - Place Delas - Le Lardin-Saint-Lazare",
+    "address": "6 Place Delas - Le Lardin-Saint-Lazare",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE24 - Tourtoirac",
+    "address": "244 Le Bourg - Tourtoirac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - Condat-sur-Vézère",
+    "address": "1 Place des Écoles - Condat-sur-Vézère",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - 24 Place Yvon Delbos - Terrasson-Lavilledieu",
+    "address": "24 Place Yvon Delbos - Terrasson-Lavilledieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Terrasson-Lavilledieu",
+    "address": "Avenue Victor Hugo - Terrasson-Lavilledieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

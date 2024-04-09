@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Metropolis Recharge - 2 Rue du Réveillon - Villecresnes",
+    "address": "2 Rue du Réveillon - Villecresnes",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Villecresnes - Intermarché",
+    "address": "Rue du Salle - Villecresnes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "La borne bleue - 139 Route de Brie - Brunoy",
+    "address": "Résidence de la Sabliere, 139 Route de Brie - Brunoy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "société ALPTEC",
+    "address": "2 allée du pavillon - mandres les roses",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KOLLE SA",
+    "address": "26 Route de Mandres - Santeny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIPPEREC - Brunoy - 17 Rue de Verdun",
+    "address": "17 Rue de Verdun - Brunoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking La Ferme De Monsieur",
+    "address": "1 rue Pasteur - Mandres-les-Roses",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "rue paul doumer - Mandres les roses (Privé)",
+    "address": "18 rue paul doumer - Mandres les roses",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Piscine Pierre Bonningue - Épinay-sous-Sénart",
+    "address": "Rond-Point Jean Paul Sartre  - Épinay-sous-Sénart",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - Mandres-les-Roses - 1B Rue du Général Leclerc",
+    "address": "1B Rue du Général Leclerc - Mandres-les-Roses",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

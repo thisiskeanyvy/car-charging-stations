@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Maire Bihorel",
+    "address": "50 Rue d'Etancourt - Bihorel",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Rue Gascard - Bihorel",
+    "address": "1 Rue Gascard - Bihorel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue des Marronniers - Rouen",
+    "address": "2bis Rue des Marronniers - Rouen",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Rouen (Place du Boulingrin)",
+    "address": "Avenue Georges Métayer - Rouen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gare de rouen",
+    "address": "19 Rue du Champ des Oiseaux - Rouen",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Espace Guillaume le Conquérant - Bois-Guillaume",
+    "address": "1580 Rue de la Haie - Bois-Guillaume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sevdec - 1000 Chemin de Clères - Bois-Guillaume",
+    "address": "1000 Chemin de Clères - Bois-Guillaume",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare SNCF dit Rue Jeanne d'Arc",
+    "address": "5 Place Bernard Tissot - Rouen",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Gare de Rouen",
+    "address": "2bis Rue de La Rochefoucauld - Rouen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking EFFIA - Gare Rouen (rue Verte)",
+    "address": "1 Place Bernard Tissot - Rouen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Le Repas - Folligny",
+    "address": "14 rue de paris - Folligny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Gare Folligny",
+    "address": "La Gare - Folligny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Cérences",
+    "address": "2A Route de Bréhal - Cérences",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes La Vicomterie",
+    "address": "1 La Vicomterie - Ver",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*SEV - Saint-Planchers - 6 Les Pas",
+    "address": "6 Les Pas - Saint-Planchers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue de la Plage - Bréhal",
+    "address": "Rue de la Plage - Bréhal",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "O2 Camping",
+    "address": "La Bretonnière - Longueville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Bréhal",
+    "address": "18-20 Rue de la Libération - Bréhal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Grand moulin de Gavray",
+    "address": "1 rue du moulin - Gavray",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place du Docteur Beck",
+    "address": "17 Place du Docteur Beck - Gavray",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

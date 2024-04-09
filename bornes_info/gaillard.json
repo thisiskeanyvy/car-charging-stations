@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDESM - Mairie de Valence en brie",
+    "address": "4 Place de l'Église - Valence-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDESM - Parking Mairie - Machault",
+    "address": "23 Rue des Trois Maillets - Machault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue de Ferland - Féricy",
+    "address": "3-7 Rue de Ferland - Féricy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A5 - Aire des Jonchets-La Grande Paroisse (direction Sens)",
+    "address": "A5 - Forges",
+    "connectors": [
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FASTNED - A5 - Aire des Jonchets-Les Récompenses (direction Paris)",
+    "address": "A5 - Forges",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint network - 14 Avenue du Président Paul Séramy - Vulaines-sur-Seine",
+    "address": "14 Avenue du Président Paul Séramy - Vulaines-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Laverie du marché - champagne sur seine",
+    "address": "24 Georges Clémenceau - champagne sur seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ford - Rue de la Bernache 16",
+    "address": "16 Rue de la Bernache - Samoreau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Samoreau",
+    "address": "Rue de la Bernache 16 - Samoreau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue Grande Les Écrennes",
+    "address": "39-43 Rue Grande - Les Écrennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

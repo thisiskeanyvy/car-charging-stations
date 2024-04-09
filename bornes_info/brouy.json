@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Gare Boigneville",
+    "address": "7 Place de la Gare - Boigneville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CFDT Chateau de Bierville",
+    "address": "6 Route des Nations - Boissy-la-Rivière",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Bouville - Rue de la Mairie",
+    "address": "Rue de la Mairie - Bouville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDESM - Allée des Marronniers Boulancourt",
+    "address": "2 Allée des Marronniers - Boulancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MILLY AUTOMOBILES",
+    "address": "3 RUE DES PINS - Milly-la-Forêt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Milly-la-Forêt",
+    "address": "4 Rue des Ornes - Milly-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Augerville-la-Rivière - Place Du Château",
+    "address": "Place Du Château - Augerville-la-Rivière",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Avenue de la République - Méréville",
+    "address": "7 Avenue de la République - Méréville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place de L Hôtel de ville Méréville",
+    "address": "1 Place de L Hôtel de ville - Méréville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Pithiviers",
+    "address": "2 Rond-Point Georges Stephenson - Pithiviers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

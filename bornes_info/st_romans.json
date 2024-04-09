@@ -1,0 +1,124 @@
+[
+  {
+    "title": "parking des 4 routes - Saint-Romans",
+    "address": "4 Place Des 4 Routes - Saint-Romans",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Beauvoir-en-Royans - 159 Rue Porte De Champeverse",
+    "address": "159 Rue Porte De Champeverse - Beauvoir-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - St Marcellin",
+    "address": "3 Rue d'Arsonval - Saint-Marcellin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Saint-Marcellin - Avenue de la santé",
+    "address": "Avenue de la santé - Saint-Marcellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - Place du Champ de Mars - Saint-Marcellin",
+    "address": "Place du Champ de Mars - Saint-Marcellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gites le Paradis",
+    "address": "14 Lotissement Paradis II - Pont-en-Royans",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Just-de-Claix, Rue des Aros",
+    "address": "Rue Des Aros - Saint-Just-de-Claix",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D518 - Pont-en-Royans",
+    "address": "D518 - Pont-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Parking Rd21, Le Village - Saint-Hilaire-du-Rosier",
+    "address": "RD 21 - Saint-Hilaire-du-Rosier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Avenue Léon Laurent - Saint-Nazaire-en-Royans",
+    "address": "175 Le Village - Saint-Nazaire-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

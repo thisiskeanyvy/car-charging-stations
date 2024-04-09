@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDET (Révéo) - Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "address": "Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chargepoint - Intermarché - Puylaurens",
+    "address": "Route de Revel - Puylaurens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Route de Revel - Puylaurens",
+    "address": "Route de Revel - Puylaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET - Blan",
+    "address": "Rue du Mont - Blan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place du Ravelin - Puylaurens",
+    "address": "Place du Foirail - Puylaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 15 Avenue de Castres - Cuq Toulza",
+    "address": "15 Avenue de Castres - Cuq Toulza",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue de la Plaine - Saint-Germain-des-Prés",
+    "address": "Rue de la Plaine - Saint-Germain-des-Prés",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (RÉVÉO) - Place du Caducée Cuq-Toulza",
+    "address": "Place du Caducée - Cuq-Toulza",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Revel",
+    "address": "Route de Castres - Revel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Avenue de Castres - Revel",
+    "address": "8–14 Avenue de Castres - Revel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

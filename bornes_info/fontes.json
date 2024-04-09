@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Renault - Fontenay sous Bois",
+    "address": "258 Avenue de la République - Fontenay-sous-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Fontenay-sous-Bois",
+    "address": "12 Rue de la Mare à Guillaume - Fontenay-sous-Bois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nogent-sur-Marne | Boulevard de Strasbourg",
+    "address": "Boulevard de Strasbourg - Nogent-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 11 Route de Stalingrad - Nogent-sur-Marne",
+    "address": "11 Route de Stalingrad - Nogent-sur-Marne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Societe Générale Les Dunes (Privé)",
+    "address": "31 Avenue du Maréchal - de - Lattre - de - Tassigny - Fontenay-sous-Bois",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 216 Rue Diderot - Vincennes",
+    "address": "216 Rue Diderot - Vincennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Metropolis Recharge - 20 Avenue des Murs-du-Parc - Vincennes",
+    "address": "20 Avenue des Murs-du-Parc - Vincennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 61 Rue Pierre Brossolette - Montreuil",
+    "address": "61 Rue Pierre Brossolette - Montreuil",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 1 Rue de Yélimané - Montreuil",
+    "address": "1 Rue de Yélimané - Montreuil",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 2 Avenue Lamartine - Le Perreux-sur-Marne",
+    "address": "2 Avenue Lamartine - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

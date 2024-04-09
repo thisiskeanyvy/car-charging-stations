@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEEG33 - Mairie de Camblanes-et-Meynac",
+    "address": "2 Route de Morillon - Camblanes-et-Meynac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 7 Clos De La Chapelle - Latresne",
+    "address": "7 Clos De La Chapelle - Latresne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Salle des fêtes - Latresne",
+    "address": "2 Rue de la Salargue - Latresne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Rue Henri Chivaley Quinsac",
+    "address": "4 Rue Henri Chivaley - Quinsac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Carignan-de-Bordeaux - Parking Centre Culturel",
+    "address": "21 Rue de Verdun - Carignan-de-Bordeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - 23 CHE D'ARCINS PARC D'ACTIVITE TANESSE 23 - LATRESNE",
+    "address": "23 CHE D'ARCINS PARC D'ACTIVITE TANESSE 23 - LATRESNE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Brit Hotel Bordeaux Arena",
+    "address": "27 Chemin d'Arcins - Latresne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking complexe sportif de Bouliac",
+    "address": "8 Place Chevelaure - Bouliac",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Saint James - Bouliac (Tesla)",
+    "address": "3 Place Camille Hostein - Bouliac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Bourg Fargues-Saint-Hilaire",
+    "address": "3 Avenue de la Laurence - Fargues-Saint-Hilaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

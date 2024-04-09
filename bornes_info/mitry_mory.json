@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sigeif - ZAC Maurepas - Mitry-Mory",
+    "address": "8 Rue Marcel Paul - Mitry-Mory",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mitry-Mory | Rue Decauville",
+    "address": "Rue Decauville - Mitry-Mory",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - rue Paul Gauguin - Mitry-Mory",
+    "address": "3 Rue Paul Gauguin - Mitry-Mory",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile Services SAS - 1 rue Albert Caquot - Compans",
+    "address": "1 rue Albert Caquot - Compans",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Aeroport CDG Parking G",
+    "address": "Unnamed Road - Mitry-Mory",
+    "connectors": [
+      "x19",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Paris Aéroport - CDG - BAT (réservé aux taxis parisiens)",
+    "address": "Route Périphérique Sud Base Arrière Taxi - Mitry-Mory",
+    "connectors": [
+      "x1",
+      "x9",
+      "x10",
+      "x9",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Aéroport Paris-Charles de Gaulle",
+    "address": "Unnamed Road - Mitry-Mory",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Compans - Rue de Ferrières",
+    "address": "Rue de Ferrières - Compans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 11 Place François Mauriac - Villeparisis",
+    "address": "11 Place François Mauriac - Villeparisis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Villeparisis",
+    "address": "20 Rue Roger Salengro - Villeparisis",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FDEE19 - 5 Route des Monédières - Chamberet",
+    "address": "5 Route des Monédières - Chamberet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (MobiVE) - Place des Pénitents - Treignac",
+    "address": "Place des Pénitents - Treignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel-Restaurant - 4 La Brasserie - Treignac",
+    "address": "4 La Brasserie - Treignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - 3 Place Marcel Champeix - Masseret",
+    "address": "3 Place Marcel Champeix - Masseret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDEE19 (Mobive) - Avenue de la Gare - Uzerche",
+    "address": "31 Avenue De La Gare - Uzerche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Mairie - La Croisille-sur-Briance",
+    "address": "19 Route Du Mont Gargan - La Croisille-sur-Briance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A20 Aire de la Porte de Corrèze (double-sens)",
+    "address": "0 Autoroute A 20 - Masseret",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Uzerche - Super U",
+    "address": "14 Route de Limoges - Uzerche",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiVE - Chemin des Lèzes - Uzerche",
+    "address": "2 Chemin des Lèzes - Uzerche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEE19 (Mobive) - Allée de la Papèterie - Uzerche",
+    "address": "3 Allee De La Papeterie - Uzerche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

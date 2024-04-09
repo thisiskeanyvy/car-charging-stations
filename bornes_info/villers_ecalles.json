@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDE76 - Villers-Écalles (place de la mairie)",
+    "address": "850 Rue Pasteur - Villers-Écalles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Villers-Écalles (place Raimbourg)",
+    "address": "Route de Duclair - Villers-Écalles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sde76 - Rue du Commandant Emile Duboc",
+    "address": "14-32 Rue du Commandant Emile Duboc - Barentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Parking des Arrières Cours - Barentin",
+    "address": "1 Rue Jean Jaurès - Barentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sevdec - 32 Avenue Victor Hugo - Barentin",
+    "address": "32 Avenue Victor Hugo - Barentin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Rouen Barentin",
+    "address": "238 Rue Denis Papin Hôtel Kyriad Direct Rouen Nord Barentin - Barentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Barentin",
+    "address": "86 Avenue Aristide Briand - Barentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Barentin",
+    "address": "23 Rue Pierre Et Marie Curie - Barentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE76 - A150/D67 Aire de covoiturage de Barentin",
+    "address": "Avenue de la Porte Océane - Barentin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Barentin",
+    "address": "Centre Commercial du Mesnil Roux - Barentin",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

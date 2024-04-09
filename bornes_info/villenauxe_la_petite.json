@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Aldi - Bray-sur-Seine",
+    "address": "951 Albert einstein - Bray-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue blanche, Montigny-le-Guesdier",
+    "address": "2-12 Rue Blanche - Montigny-le-Guesdier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Bray-sur-Seine",
+    "address": "257 Av. de la Libération, - Bray-sur-Seine",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Quai de Seine Bray-sur-Seine",
+    "address": "1 Quai de l'Île - Bray-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Mousseaux-lès-Bray - Clinique Vétérinaire",
+    "address": "451 Rue de la Sucrerie - Mousseaux-lès-Bray",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de l'église - Noyen-sur-Seine",
+    "address": "3 Rue de l'Église - Noyen-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue Mérot - Fontaine-Fourches",
+    "address": "9 Rue Mérot - Fontaine-Fourches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue des Dronots - Villiers sur Seine",
+    "address": "2 Rue des Dronots - Villiers-sur-Seine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Rue de l'Hôtel de Ville",
+    "address": "8 Rue de l'Hôtel de Ville - Sergines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Parking Foyer rural",
+    "address": "2 Avenue de la Gare - Gouaix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

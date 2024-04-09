@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Izivia - Mairie de Frévent",
+    "address": "8 Place Jean Jaurès - Frévent",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Lidl - Frévent",
+    "address": "16 Rue Georges Clémenceau - Frévent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Résidence Solidarité - Ville de Frévent",
+    "address": "11 Résidence Solidarité - Frévent",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - 27 Rue Principale - Beauvoir-Wavans",
+    "address": "27 Rue Principale - Beauvoir-Wavans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Auxi-le-Château - Rue du Pont Neuf",
+    "address": "Rue du Général Desplanques - Auxi-le-Château",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Auxi-le-Château - Maison de Santé",
+    "address": "75 Rue du General Leclerc - Auxi-le-Château",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire de co-voiturage de Saint-Pol sud",
+    "address": "D916 - Ramecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco-pi - Croix-en-Ternois - 39 Route Nationale",
+    "address": "39 Route Nationale - Croix-en-Ternois",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - D939 - Croix-en-Ternois",
+    "address": "D939 - Croix-en-Ternois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Circuit de Croix en Ternois",
+    "address": "La Plaine du Bois Capendu - Croix-en-Ternois",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

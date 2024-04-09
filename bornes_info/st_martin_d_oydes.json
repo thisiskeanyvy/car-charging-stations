@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE09 - Place du Foirail Le Fossat",
+    "address": "1 Place du Foirail - Le Fossat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de l'Eglise - Pailhes",
+    "address": "101-263 Lagal - Pailhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Place du Balouard - Saverdun",
+    "address": "4 Allée du Balouard - Saverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Route de Mirepoix - Pamiers",
+    "address": "Route de Toulouse - Pamiers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue du Moulin - Saverdun",
+    "address": "1 Rue du Moulin - Saverdun",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE09 - Parking Rue Louis Pasteur - Saverdun",
+    "address": "Allée du Girbet - Saverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Saverdun - Intermarché",
+    "address": "Chemin de Frayras Parc Commercial Saint Martin de Peyrelade - Saverdun",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarché - Saverdun",
+    "address": "D820 - Saverdun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - 70bis Boulevard Alsace Lorraine - Pamiers",
+    "address": "70 bis Boulevard Alsace Lorraine - Pamiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE09 (Révéo) - Place des Héros de la Résistance, 7 - Pamiers",
+    "address": "7 Place des Héros de la Résistance - Pamiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

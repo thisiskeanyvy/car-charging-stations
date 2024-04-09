@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Belib - Quai de Béthune - Paris",
+    "address": "36 Quai de Béthune - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Clem' - Paris 10 - Pont Marie",
+    "address": "1 rue des Nonnains d'Hyères - Paris",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 21 Quai de la Tournelle - Paris",
+    "address": "21 Quai de la Tournelle - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Indigo - 48 Rue de l'Hôtel de ville - Paris",
+    "address": "48 Rue de l'Hôtel de ville - Paris",
+    "connectors": [
+      "x23"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 44 Quai Henri IV - 75004 Paris",
+    "address": "44 Quai Henri IV côté Seine - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "BELIB - 80 Rue François Miron - Paris",
+    "address": "80 Rue François Miron - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parc souterrain Maubert Collège des Bernardins",
+    "address": "39 boulevard St Germain - Paris",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SAGS - Rue de Lobau - Parking souterrain",
+    "address": "4 Rue de Lobau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saemes Notre Dame",
+    "address": "6 Parvis Notre Dame - Place Jean-Paul II - Paris",
+    "connectors": [
+      "x6",
+      "x6",
+      "x4",
+      "x5"
+    ],
+    "types": [
+      "Type 1",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Vinci - Rue de Lobau 4 - Paris",
+    "address": "4 Rue de Lobau - Paris",
+    "connectors": [
+      "x7",
+      "x5",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Hôtel de Ville - Faches-Thumesnil",
+    "address": "50 Rue Jean Jaurès - Faches-Thumesnil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Lille - Décathlon Jardin des Plantes",
+    "address": "102 Rue Marcel Henaux - Lille",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Centre Commercial Cora - Wattignies",
+    "address": "203 Voie 3 Acces C. C. Cora - Wattignies",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - BTwin Village - Lille",
+    "address": "4 Rue du Professeur Langevin - Lille",
+    "connectors": [
+      "x7",
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - 1 Boulevard de Belfort - Lille",
+    "address": "1 Boulevard de Belfort - Lille",
+    "connectors": [
+      "x3",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Rue Jean Jaurès - Lille",
+    "address": "Rue Jean Jaurès - Lille",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôpital St Vincent - Lille",
+    "address": "Boulevard de Belfort - Lille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - P+R CHU Eurasanté Metro 1 Ilevia",
+    "address": "Boulevard Eugène Duthoit - Lille",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Eklo hôtel - Rue Professeur Langevin - Lille",
+    "address": "6 Rue Professeur Langevin - Lille",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial Lillenium - Lille",
+    "address": "Rue Genevieve Anthonioz De Gaulle - Lille",
+    "connectors": [
+      "x23",
+      "x23"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

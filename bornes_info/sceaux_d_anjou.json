@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SmiléMobi - Rue des Écoles - Écuillé",
+    "address": "Rue des Écoles - Écuillé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEML - Feneu - Rue De La Cure",
+    "address": "Rue de La Cure - Feneu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Champigne - Rue Du Muguet",
+    "address": "1 bis Rue du Muguet - Champigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Soulaire Et Bourg - Parking Ecole Rte Angers",
+    "address": "Route d'Angers - Soulaire-et-Bourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U le Lion Chargepoint",
+    "address": "1 Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Rue du Lionnais - Grez-Neuville",
+    "address": "Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ELIVIA, Z.I. La Coudère - Le Lion d'Angers",
+    "address": "ELIVIA, Z.I. La Coudère - Le Lion d'Angers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "le lion d'Angers",
+    "address": "champ de foire - Le Lion Lion d'Angers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 1 Rue du Lionnais - Grez-Neuville",
+    "address": "1 Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château des Briottieres",
+    "address": "Grande Pièce des Briottie - Les Hauts-d'Anjou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

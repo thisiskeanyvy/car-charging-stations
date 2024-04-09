@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE53 - Route d'Ernée, 1 - Juvigné",
+    "address": "1 Route d'Ernée - Juvigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Saint-Pierre-la-Cour - 1 Rte de la Mine",
+    "address": "1 Rte de la Mine - Saint-Pierre-la-Cour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - ZA la Balorais - Saint-Pierre-la-Cour",
+    "address": "20 Zone Artisanale - Saint-Pierre-la-Cour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue de Bretagne - Luitré-Dompierre",
+    "address": "D 113 - Luitré-Dompierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle Multi-Sports - La Garelière - TE53 - La Baconnière",
+    "address": "La Garelière - La Baconnière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Magasin But - Vitré",
+    "address": "203 Boulevard de Laval - Vitré",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vitré - CinéWest",
+    "address": "199 Boulevard De Laval - Vitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault Vitré",
+    "address": "Route de Laval - Vitré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - N157 Aire d'Erbrée (Direction Rennes)",
+    "address": "8 AIRE D'ERBREE -RN 157 - ERBREE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Place de l'Église - Saint-Ouën-des-Toits",
+    "address": "7 Place de l'Église - Saint-Ouën-des-Toits",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

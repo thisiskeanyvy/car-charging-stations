@@ -1,0 +1,144 @@
+[
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Meylan - Avenue du Vercors",
+    "address": "Avenue du Vercors - Meylan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Allée des amphores - Meylan",
+    "address": "Allée des Amphores - Meylan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Chemin Des Prés - Meylan",
+    "address": "22 Chemin du Vieux Chêne - Meylan",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NOTAIRES CONSEILS ASSOCIES - Meylan (Privé)",
+    "address": "27 Boulevard des Alpes - Meylan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW Meylan",
+    "address": "1 bis Bd des Alpes, - Meylan",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Les Trois Roses - Corenc (Privé)",
+    "address": "32 Avenue Du Grésivaudan - Corenc",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Relais de la Petite Taillat - Meylan",
+    "address": "N87 - Meylan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mokca",
+    "address": "20 Avenue de Verdun - Meylan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 7A Chemin de la Dhuy - Meylan",
+    "address": "7A Chemin de la Dhuy - Meylan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Agence de communication pro(G",
+    "address": "3 Rue du Pré d'Elle - Meylan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

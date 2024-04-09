@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Auberge Les Liards",
+    "address": "LD Les Liards - Égliseneuve-des-Liards",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chabanettes Hotel & Spa",
+    "address": "Cotes de Chabanettes - Auzelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Route de Sainte-Catherine - Le Vernet-Chaméane",
+    "address": "Route de Sainte-Catherine - Le Vernet-Chaméane",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking public - Rue du Stade - Sauxillanges",
+    "address": "2 Rue du Stade - Sauxillanges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEG63 - Cunlhat - 2 Route d'Olliergues",
+    "address": "2 Route d'Olliergues - Cunlhat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La crypte - Saint-Amant-Roche-Savine",
+    "address": "1 Rue Gaspard des Montagnes - Saint-Amant-Roche-Savine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Rue de la Generade - Usson",
+    "address": "15 Rue de la Generade - Usson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château des Aiguilles",
+    "address": "1 Impasse du Béal - Saint-Rémy-de-Chargnat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Route du Vernet la Varenne - Parentignat",
+    "address": "7 Place du Château - Parentignat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Bourg - Olliergues",
+    "address": "Le Bourg - Olliergues",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

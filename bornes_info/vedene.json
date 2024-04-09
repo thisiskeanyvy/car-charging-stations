@@ -1,0 +1,128 @@
+[
+  {
+    "title": "E55C - Place du Petit Pont - Vedene",
+    "address": "206 Place du petit pont - Vedene",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Ikea - Parking G - Vedène",
+    "address": "100 Chem. du Pont Blanc - Vedène",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "AVENUE DE L'EGUILLE - VEDENE",
+    "address": "Avenue d'Eguilles - Vedène",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ikea - Parking Client 1 - Vedène",
+    "address": "100 Chemin du Pont Blanc - Vedène",
+    "connectors": [
+      "x13",
+      "x13"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "mobilygreen - Buld'Air - Vedène",
+    "address": "130 Chemin du Pont Blanc - Vedène",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Sorgues - Clinique ELSAN-Fontvert",
+    "address": "235 Avenue Louis Pasteur - Sorgues",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Hôtel Novotel Avignon Nord - Sorgues",
+    "address": "135 Avenue Louis Pasteur - Sorgues",
+    "connectors": [
+      "x5",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electra - Sorgues - Décor Discount",
+    "address": "Avenue François Mauriac - Sorgues",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENERSTOCK SAS - SORGUES - 2188 RTE DE VEDEN",
+    "address": "2188 RTE DE VEDEN - SORGUES",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - CC Avignon Nord - Sorgues",
+    "address": "centre commercial avignon nord - Le Pontet",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

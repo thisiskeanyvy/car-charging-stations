@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Pass Pass - Place de l'Esplanade - Saint-Omer",
+    "address": "4 Esplanade - Saint-Omer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Hôtel Ibis - Saint-Omer",
+    "address": "2 Rue Henri Dupuis - Saint-Omer",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Parking des Carmes Saint-Omer",
+    "address": "1 Rue des Carmes - Saint-Omer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Agence d'urbanisme",
+    "address": "1 Rue des Carmes - Saint-Omer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Musée Sandelin - Saint-Omer",
+    "address": "3\r\n Rue Carnot\r\n - Saint-Omer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Place Suger - Saint-Omer",
+    "address": "Place Suger - Saint-Omer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Cathédrale Saint-Omer",
+    "address": "Boulevard Vauban - Saint-Omer",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Enclos Saint-Denis - Saint-Omer",
+    "address": "1–5 Enclos Saint-Denis - Saint-Omer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des Glacis",
+    "address": "38 Allée des Glacis - Saint-Omer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Saint-Martin-lez-Tatinghem",
+    "address": "Avenue du Maréchal Joffre - Saint-Martin-lez-Tatinghem",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

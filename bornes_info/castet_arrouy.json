@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE32 - Place du Foirail - Miradoux",
+    "address": "11 Place du Foirail - Miradoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - N21 Le Relais - Sainte-Mère",
+    "address": "N21 - Sainte-Mère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE82 - Le Village - Gramont",
+    "address": "Le Village - Gramont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarche - Lectoure",
+    "address": "6064 Route d'Agen - Lectoure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - La Poste",
+    "address": "Place Descamps - Lectoure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Camping des 3 Vallées - Lectoure",
+    "address": "- Lectoure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Poupas",
+    "address": "Le Village - Poupas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 (MObiVE) - Place André Routier Astaffort",
+    "address": "30 Place André Routier - Astaffort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - Place de la République - Saint-Clar",
+    "address": "3 Place de la République - Saint-Clar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiVE - Route du Château d'Eau - Fals",
+    "address": "305 Route du Château d'Eau - Fals",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEF - Mellac (Ty Bodel)",
+    "address": "Pôle d'activité Kervidanou - Mellac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mellac - Rue Ferdinand Buisson Kervidanou Maison de l'Économie",
+    "address": "Rue Albert Schweitzer - Mellac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Quimperlé",
+    "address": "15 Rue Albert Schweitzer - Quimperlé",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Baye (Place de Saint Eloi)",
+    "address": "50 Impasse Saint-Eloi - Baye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Mellac - Kervidanou",
+    "address": "3 Pole d'Activites Kervidanou 3 - Mellac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Rent a car",
+    "address": "4 Rue Eric Tabarly - Quimperlé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Rue de Kervail",
+    "address": "Rue de Kervail - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Intermarché - Bannalec",
+    "address": "2 Rue Eugène Lorec - Bannalec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Bannalec (La Gare)",
+    "address": "Rue de la Gare - Bannalec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Place Yves Tanguy - Bannalec",
+    "address": "12 Place Yves Tanguy - Bannalec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Belib - 139 Boulevard de Grenelle - Paris",
+    "address": "139 Boulevard de Grenelle - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 110-112 Avenue de Suffren - Paris",
+    "address": "112T Avenue de Suffren - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 26 Rue Miollis - Paris",
+    "address": "26 Rue Miollis - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parc de surface résidentiel bd Garibaldi",
+    "address": "37 boulevard Garibaldi - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 78 Avenue de Suffren - Paris",
+    "address": "78 Avenue de Suffren - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 10 avenue de Saxe 75007 Paris",
+    "address": "10 Avenue de Saxe - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - Rue de Frémicourt, 15 - Paris",
+    "address": "15 Rue de Frémicourt - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 55 Avenue de Ségur - Paris",
+    "address": "55 Avenue de Ségur - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne - 76 bis Avenue de Suffren",
+    "address": "76 bis Avenue de Suffren - Paris",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Paris - 70 Bis Avenue de Suffren",
+    "address": "70 Bis Avenue de Suffren - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

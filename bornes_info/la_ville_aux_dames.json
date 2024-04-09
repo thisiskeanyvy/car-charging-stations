@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SIEIL - Place des Anciens Combattants - La Ville aux Dames",
+    "address": "89 Avenue Jeanne d'Arc - La Ville-aux-Dames",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du 8 mai",
+    "address": "Place du 8 Mai 1945 - La Ville-aux-Dames",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Louise de la Vallière",
+    "address": "Rue Jacqueline Auriol - La Ville-aux-Dames",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Truck - Rue Amelia Earhart",
+    "address": "7 Rue Amelia Earhart - La Ville-aux-Dames",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citelum",
+    "address": "- La ville aux dames",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - La Ville-aux-Dames",
+    "address": "11 Rue Marie de Lorraine - La Ville-aux-Dames",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Art Hotel - Tours",
+    "address": "18-19 Quai de la Loire - Rochecorbon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Rochecorbon",
+    "address": "19 Quai de la Loire - Rochecorbon",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Rue de la Rabaterie",
+    "address": "52 Rue de la Rabaterie - Saint-Pierre-des-Corps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Avenue Maginot - Vouvray",
+    "address": "2 Avenue Maginot - Vouvray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

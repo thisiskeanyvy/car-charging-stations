@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Métropole Rouen-Normandie - Rue Winston Churchill - Petit-Couronne",
+    "address": "Rue Winston Churchill - Petit-Couronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borneco - Quai de Petit-Couronne - Petit-Couronne",
+    "address": "Quai de Petit-Couronne - Petit-Couronne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - 37 Quai des Roches - Canteleu",
+    "address": "37 Quai des Roches - Canteleu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie du Val-de-la-Haye",
+    "address": "33 Quai Cavelier de la Salle - Val-de-la-Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole Rouen Normandie - place Eugène Delacroix - Le Grand Quevilly",
+    "address": "place Eugène Delacroix - Le Grand Quevilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Petit-Couronne - Parking T4",
+    "address": "Avenue des Canadiens - Petit-Couronne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zenith rouen",
+    "address": "67 Avenue des Canadiens - Petit-Couronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V3 - Rouen (Saint-Étienne-du-Rouvray)",
+    "address": "Rue de la Mare Sansoure - Saint-Étienne-du-Rouvray",
+    "connectors": [
+      "x12",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Novotel Rouen Sud",
+    "address": "Chemin de la Mare aux Sangsues - Saint-Étienne-du-Rouvray",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Rouen-Normandie - Rue de la République - Le Grand-Quevilly",
+    "address": "Rue de la République - Le Grand-Quevilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

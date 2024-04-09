@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEML - Vern D'anjou - Place Des Halles",
+    "address": "Rue du Commerce - Vern-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Route de Bourg d'Iré 33 - Loiré",
+    "address": "33 Route de Bourg d'Iré - Loiré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Segré-en-Anjou Bleu",
+    "address": "23bis Route de Segré - Segré-en-Anjou Bleu",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Parking De Lauingen - Segré",
+    "address": "Rue de Lauingen - Segré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - SEGRE - Parking du Port",
+    "address": "Rue du Port - Segré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - 3 Boulevard de Renier - Segré-en-Anjou Bleu",
+    "address": "3 Boulevard de Renier - Segré-en-Anjou Bleu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Segré Nord Anjou",
+    "address": "La Renaissance - Segré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Segré - La Promenade",
+    "address": "La Promenade - Segré-en-Anjou Bleu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - La Poueze - Place De L'union",
+    "address": "Place de l'Union - La Pouëze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - NOYANT LA GRAVOYERE - Place Du Velodrome",
+    "address": "Rue Constant Gérard - Noyant-la-Gravoyère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

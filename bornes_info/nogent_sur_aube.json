@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEA 10 - Grande Rue - Nogent-sur-Aube",
+    "address": "65 Grande Rue - Nogent-sur-Aube",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fetes - Chaudrey",
+    "address": "26 Rue du Bourg - Chaudrey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue charles delaunay Ramerupt",
+    "address": "16 Rue charles delaunay - Ramerupt",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Ruelle du Monument - Jasseines",
+    "address": "Ruelle du Monument - Jasseines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue de l'Enfer Torcy-le-Petit",
+    "address": "1 Rue de l'Enfer - Torcy-le-Petit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Station service Carrefour Market",
+    "address": "1 Route de Brienne - Arcis-sur-Aube",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Grande Rue Grandville",
+    "address": "5 Grande Rue - Grandville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue Napoleon - Arcis-sur-aube",
+    "address": "Napoleon - Arcis-sur-aube",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions - 38 Rue de Troyes",
+    "address": "38 Rue de Troyes - Arcis-sur-Aube",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping - Arcis-sur-Aube",
+    "address": "Rue de Châlons - Arcis-sur-Aube",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

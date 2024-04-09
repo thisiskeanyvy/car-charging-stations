@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Electromaps S.L./7003",
+    "address": "192 Montée de Bouvaresse - Frontonas",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Villefontaine - Hôtel Mercure Lyon l'Isle d'Abeau",
+    "address": "Parc Technologique, 20 Rue Antoine Condorcet - Villefontaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Recharge privée - Avenue Blaise Pascal",
+    "address": "Avenue Blaise Pascal - Vaulx-Milieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Village de Marques/Parc Technologique Muissiat - D1006 - Villefontaine",
+    "address": "D1006 - Villefontaine",
+    "connectors": [
+      "x9",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEDI - Parking Gymnase - Vaulx-Milieu",
+    "address": "18 Rue des Écoles - Vaulx-Milieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEDI - Route de Vienne - Chamagnieu",
+    "address": "56 Chemin du Chevalet - Chamagnieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Médiathèque de L'isle-d'Abeau",
+    "address": "Promenade du Documanus - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super U - La Verpilliere",
+    "address": "Rue de Picardie - La Verpillière",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A43 Aire de l'Isle d'Abeau (direction Lyon)",
+    "address": "5 Route sans nom - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue Serge Mauroit - Villefontaine",
+    "address": "Rue Serge Mauroit - Villefontaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Jarrie - Avenue de la Gare",
+    "address": "Avenue de la Gare - Jarrie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Établissements Muzet",
+    "address": "742 avenue Maurice Thorez - Vizille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vizille",
+    "address": "30 Rue des Forges - Vizille",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Car2Plug - Camping Bois de Cornage - Vizille",
+    "address": "110 Chemin du Camping - Vizille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Alpes Métropole - Vizille - 40 Rue Emile Cros",
+    "address": "40 Rue Emile Cros - Vizille",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Champagnier - Place du Laca",
+    "address": "Place du Laca - Champagnier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Rue Charles de Gaulle - Varces-Allières-et-Risset",
+    "address": "Rue Charles de Gaulle - Varces-Allières-et-Risset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grenoble Métropole - Varces-Allières-et-Risset - 30 Avenue Joliot Curie",
+    "address": "30 Avenue Joliot Curie - Varces-Allières-et-Risset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Varces-Allières-et-Risset - 5 Avenue de Provence",
+    "address": "5 Avenue de Provence - Varces-Allières-et-Risset",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Varces-Allières-et-Risset - Rue des Tanneurs",
+    "address": "Rue des Tanneurs - Varces-Allières-et-Risset",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

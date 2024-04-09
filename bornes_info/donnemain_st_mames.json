@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE28 - Mairie de Moléans",
+    "address": "Rue du Moulin - Moléans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Avenue Aristide Briand - Marboué",
+    "address": "8 Avenue Aristide Briand - Marboué",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel logis de chateaudun (Tesla et autres)",
+    "address": "9 La Varenne - Donnemain-Saint-Mamès",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Bernier Chateaudun",
+    "address": "D 910 - Châteaudun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENERGIE Eure-et-Loir - Place de Schweinfurt - Châteaudun",
+    "address": "Place de Schweinfurt - Châteaudun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE28 - 10 Rue de la République - Jallans",
+    "address": "10 Rue de la République - Jallans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Planète Pêche - Châteaudun",
+    "address": "90 Rue des Fouleries - Châteaudun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ecole de médecine",
+    "address": "1 Rue Edgard Boutaric - Châteaudun",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place du 18 Octobre - Chateaudun",
+    "address": "27b Place du 18 Octobre - Châteaudun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - La Chapelle-du-Noyer (Chateaudun)",
+    "address": "1 Route de Blois - Châteaudun",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

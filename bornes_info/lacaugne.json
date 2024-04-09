@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEHG - Carbonne - Office de tourisme",
+    "address": "19 Place de la République - Carbonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - 6 Impasse du Baqué - Carbonne",
+    "address": "6 Impasse du Baqué - Carbonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "8 Chemin de l'Industrie",
+    "address": "8 Chemin de l'Industrie - Carbonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Centre Commercial Carbonne",
+    "address": "Avenue Jean Monnet - Carbonne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Picard / Centrakor - Carbonne",
+    "address": "5 Avenue Jean Monnet - Carbonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A64 - Aire de Garonne (direction Toulouse)",
+    "address": "A64 - Capens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Capens",
+    "address": "D10 - Capens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A64 - Aire du Volvestre (direction Tarbes)",
+    "address": "A64 - Capens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Saint-Sulpice-sur-Lèze, Gendarmerie",
+    "address": "1 rue Étienne Fonfrede - Saint-Sulpice-sur-Lèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Boulodrome - Lézat-sur-Lèze",
+    "address": "48 Boulevard Pasteur - Lézat-sur-Lèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

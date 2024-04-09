@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Avinguda del Carrilet - L'Hospitalet de Llobregat",
+    "address": "323 Avinguda del Carrilet - L'Hospitalet de Llobregat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IBERDROLA CLIENTES - HOSPITALET DE LLOBREGAT - 359 CARRILET",
+    "address": "359 CARRILET - HOSPITALET DE LLOBREGAT",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AMB",
+    "address": "- Barcelona",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - L'Hospitalet de Llobregat",
+    "address": "Carrer Sangoneres - L'Hospitalet de Llobregat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Avinguda de la Gran Via de l'Hospitalet",
+    "address": ", 147 Avinguda de la Gran Via de l'Hospitalet - Hospitalet de Llobregat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ilunion Les Corts Spa Hotel (Tesla)",
+    "address": "11 Carrer del Cardenal Reig - Barcelona",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IBERDROLA CLIENTES - N/A CIENCIES IKEA - HOSPITALET DE LLOBREGAT",
+    "address": "N/A CIENCIES IKEA - HOSPITALET DE LLOBREGAT",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Fira Renaissance",
+    "address": "115 Avinguda de la Granvia de l'Hospitalet - L'Hospitalet de Llobregat",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EdRR Cornellà - Carrer de Baltasar Oriol i Mercer Cornellà de Llobregat",
+    "address": "62-66 Carrer de Baltasar Oriol i Mercer - Cornellà de Llobregat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ikea - L'Hospitalet de Llobregat",
+    "address": "60 Carrer de Salvador Espriu - L'Hospitalet de Llobregat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

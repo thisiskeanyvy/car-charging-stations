@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Sigeif - Parking Gare du Champ de Course - Eaubonne",
+    "address": "4 Rue Rabelais - Eaubonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Rent A Car - Soisy-sous-Montmorency",
+    "address": "75 Avenue du Général Leclerc - Soisy-sous-Montmorency",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Rue des Bussys - Eaubonne",
+    "address": "22 Rue des Bussys - Eaubonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - rue d'Ermont (Cimetière) - St Gratien",
+    "address": "99 rue d'Ermont - Saint-Gratien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - place Albert 1er - Enghien-les-Bains",
+    "address": "19 Rue de l'Arrivée - Enghien-les-Bains",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sigeif - 11 Rue Blanche - Enghien-les-Bains",
+    "address": "11 Rue Blanche - Enghien-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Avenue de la division Leclerc - Enghien-les-Bains",
+    "address": "139 Avenue de la Division Leclerc - Enghien-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "INDIGO du Forum - Rue Berthie Albrecht (Allée Pierre de Coubertin)",
+    "address": "21 Rue Berthie Albrecht - Saint-Gratien",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Soisy-Sous-Montmorency",
+    "address": "7 Allée Paul Gauguin - Soisy-sous-Montmorency",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sigeif - Gare RER C de Ermont Eaubonne",
+    "address": "00 Place Jean Esprangle - Ermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "e-born - Le Coolidge - Chantemerle - Saint-Chaffrey",
+    "address": "Boucle du Coolidge - Chantemerle - Saint-Chaffrey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "VAL CHANCEL",
+    "address": "18 Avenue du 159e R.I.A. - Briançon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "PLACE DE L'EUROPE",
+    "address": "Place de l'Europe - Briançon",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Route de Briançon - La Salle-les-Alpes",
+    "address": "13 Route de Briançon - La Salle-les-Alpes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Vauban",
+    "address": "13 Avenue du Général de Gaulle - Briançon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking du Champ de Mars - Briançon",
+    "address": "13a Rue Champ De Mars - Briançon",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IMPASSE GALLICE BEY - BRIANCON",
+    "address": "IMPASSE GALLICE BEY - Briançon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Avenue du Général de Gaulle - Briançon",
+    "address": "15B Avenue du Général de Gaulle - Briançon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PLACE BLANCHARD CITE VAUBAN",
+    "address": "3 Place Médecin-Général Blanchard - Briançon",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aire municipale de Briancon",
+    "address": "26 Rue Georges Bermond-Gonnet - Briançon",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

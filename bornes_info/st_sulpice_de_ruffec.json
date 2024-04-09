@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEG16 - Route De Mansle - Valence",
+    "address": "Route De Mansle - Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Rue du Château - Verteuil-sur-Charente",
+    "address": "Rue du Château - Verteuil-sur-Charente",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEG16 - Place du Château - Champagne-Mouton",
+    "address": "Place du Château - Champagne-Mouton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RN10 - Aire des Groies",
+    "address": "N10 - Verteuil-sur-Charente",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire des groies Dyneff , Rn10",
+    "address": "- Villegats",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - N10 Aire De l'Eglantier",
+    "address": "2 Aire De l'Eglantier - Barro",
+    "connectors": [
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEG16 - Place Communale - Salles-de-Villefagnan",
+    "address": "Place Communale - Salles-de-Villefagnan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecotap - volkswagen - Ruffec",
+    "address": "39 Avenue celestin sieur - Ruffec",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - 18 Place Sadi Carnot - Saint-Claud",
+    "address": "18 Place Sadi Carnot - Saint-Claud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MoiVE - 9 Rue Grange du Chapitre - Mansle",
+    "address": "47 Place de l'Europe - Mansle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

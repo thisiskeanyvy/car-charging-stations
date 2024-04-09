@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Alizé - Rue des Graviers - Guyancourt",
+    "address": "Rue des Graviers - Guyancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Guyancourt - McDonalds",
+    "address": "12 Avenue de l'Europe - Guyancourt",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Start Sqy - Place Charlotte Perriand - Guyancourt",
+    "address": "6 Place Charlotte Perriand - Guyancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Technocentre Renault (P2)",
+    "address": "Rue Alpine - Guyancourt",
+    "connectors": [
+      "x4",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Technocentre - Renault (P1)",
+    "address": "Place Georges Besse - Guyancourt",
+    "connectors": [
+      "x6",
+      "x6",
+      "x10"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Technocentre (P1 - Parking Visiteurs)",
+    "address": "1 Place Georges Besse - Guyancourt",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Technocentre P3 Garandes - 2ème partie",
+    "address": "1 Avenue du Golf - Guyancourt",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Technocentre Renault (P3)",
+    "address": "Technocentre Renault - Guyancourt",
+    "connectors": [
+      "x18",
+      "x30",
+      "x12"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Technocentre Renault (P19)",
+    "address": "Technocentre Renault - Guyancourt",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Technocentre Renault (P4)",
+    "address": "Technocentre Renault - Guyancourt",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

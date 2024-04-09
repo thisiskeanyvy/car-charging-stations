@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sigeif - 56 Rue de Ruzé - Villeparisis",
+    "address": "56 Rue de Ruzé - Villeparisis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge - Avenue Jean Monnet - Villeparisis",
+    "address": "2 Avenue Jean Monnet - Villeparisis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 11 Place François Mauriac - Villeparisis",
+    "address": "11 Place François Mauriac - Villeparisis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Villeparisis",
+    "address": "20 Rue Roger Salengro - Villeparisis",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Shopping Promenade - Parking P1 - RN 3 - Claye-Souilly",
+    "address": "Route Nationale - Claye-Souilly",
+    "connectors": [
+      "x34",
+      "x34",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 140 aveneue Euène Varlin - Villeparisis",
+    "address": "140 avenue Eugène Varlin - Villeparisis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shopping Promenade Park P2 - Route Nationale - Claye-Souilly",
+    "address": "Route Nationale - Claye-Souilly",
+    "connectors": [
+      "x7",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Rue Du Général De Gaulle - Courtry",
+    "address": "5 Rue Du Général De Gaulle - Courtry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shopping Promenade",
+    "address": "- Claye-Souilly",
+    "connectors": [
+      "x34",
+      "x34",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - parking Jacobsen - Courtry",
+    "address": "12 Ruelle des Processions - Courtry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

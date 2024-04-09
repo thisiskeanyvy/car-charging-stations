@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Eoliberty - Combronde - Intermarché",
+    "address": "131 Avenue Etienne Clémentel - Combronde",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - EHPAD les Orchis - Combronde",
+    "address": "3 Rue De La Barre - Combronde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Place de l'Europe",
+    "address": "Place de l'Europe - Combronde",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEG 63 - 1 Avenue de l'Europe - Châtel-Guyon",
+    "address": "1 Avenue de l'Europe - Châtel-Guyon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Hôtel À l'Aube des Volcans",
+    "address": "1 Place De L'église - Charbonnières-les-Vieilles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc naturel régional des Volcans d'Auvergne",
+    "address": "3 Route de Riom - Châtel-Guyon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - A89 - Aire de Manzat",
+    "address": "A89 - Aire de Manzat - Manzat",
+    "connectors": [
+      "x2",
+      "x12",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - A71 Aire des Volcans d'Auvergne Ouest (direction Clermont)",
+    "address": "Aire des volcans d'auvergne - Champs",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x13"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energie - A71 - Aire des Volcans d'Auvergne (direction Paris)",
+    "address": "AIRE DES VOLCANS D AUVERGNE - SAINT AGOULIN",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Garage Ford Forret, Riom",
+    "address": "Avenue de Paris - Riom",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

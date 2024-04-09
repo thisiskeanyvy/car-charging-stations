@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SIEML - Place du marché - Saint-Barthélemy-d'Anjou",
+    "address": "Rue Jean Lurçat - Saint-Barthélemy-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Kéolis (employés uniquement)",
+    "address": "Rue du Bois Rinier - Saint-Barthelemy-d'Anjou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Barthélemy-d'Anjou - 9 Rue De Champfleur",
+    "address": "9 Rue de Champfleur - Saint-Barthélemy-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Barthélemy-d'Anjou - RS Parc",
+    "address": "8 Rue de Champfleur - Saint-Barthélemy-d'Anjou",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEML - Trelaze - Village Sante Parking Perreyeux",
+    "address": "Rue des Perreyeux - Trélazé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Angers | Rue de la Croix Blanche 82",
+    "address": "82 Rue de la Croix Blanche - Angers",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Énergies Clinique Saint Joseph",
+    "address": "61 Rue des Longs Boyaux - Trélazé",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Super U - Saint-Barthélemy-d'Anjou",
+    "address": "360 Rue Haute des Banchais - Saint-Barthélemy-d'Anjou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargers V3 - Angers",
+    "address": "75 Avenue Montaigne - Angers",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Trelaze - Parking Des Sports Goduciere",
+    "address": "Avenue de la République - Trélazé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

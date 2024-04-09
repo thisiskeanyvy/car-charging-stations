@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Alizé - Rue Max Mabit Fournier - Vic-sur-Cère",
+    "address": "Rue Max Mabit Fournier - Vic-sur-Cère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alizé - Place Géraud Maigne - Salers",
+    "address": "6027 Place Géraud Maigne - Salers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - Epicerie du Falgoux",
+    "address": "Place Escures - Le Falgoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 2 Place de la Porte du Buis - Aurillac",
+    "address": "2 Place de la Porte du Buis - Aurillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW Auvergne Auto - Aurillac",
+    "address": "40 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Gravier - Aurillac",
+    "address": "11 Rue des Frères - Aurillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Restaurant \"La Source du Mont\" (Tesla et autres)",
+    "address": "9 Rue du Foirail - Saint-Martin-Valmeroux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand Hôtel Saint Pierre (Tesla) privé - Cours Monthyon - Aurillac",
+    "address": "16 Cours Monthyon - Aurillac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 55 Avenue Georges Pompidou - Aurillac",
+    "address": "55 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Nissan - Aurillac",
+    "address": "51 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

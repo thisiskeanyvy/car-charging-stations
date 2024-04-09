@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Aldi Route de Lorry Metz",
+    "address": "7 Route de Lorry - Metz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Longeville-lès-Metz",
+    "address": "31 Boulevard Saint-Symphorien - Longeville-lès-Metz",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - RUE DES ALLIES - METZ",
+    "address": "RUE DES ALLIES - METZ",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Toyota-Lexus - 15 Rue des Alliés - METZ",
+    "address": "15 Rue des Alliés - METZ",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Volvo - Metz",
+    "address": "19 rue des Alliés - Metz",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Parking République - Metz",
+    "address": "1 Avenue Ney Parc République - Metz",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo Park - Place Saint-Vincent - Metz",
+    "address": "Place Saint-Vincent - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Metz - Place de la Comédie",
+    "address": "Place de la Comédie - Metz",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Indigo - Place de la Comédie - Metz",
+    "address": "6 Place de la Comédie - Metz",
+    "connectors": [
+      "x2",
+      "x31"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Parking Cathédrale - Metz",
+    "address": "Rue d'Estrées - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

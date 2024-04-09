@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEA - Rue de la Mairie, 1 - Buchères",
+    "address": "1 Rue de la Mairie - Buchères",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Troyes Sud",
+    "address": "24-52 Avenue des Martyrs du 24 Août Hôtel Campanile - Buchères",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "130 Avenue du Maréchal Leclerc (Privé)",
+    "address": "130 Avenue du Maréchal Leclerc - Bréviandes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Buchères - D123 Aire de Covoiturage",
+    "address": "Route départementale 123C - Buchères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A5/D671 Route de Dijon - Buchères",
+    "address": "Route de Dijon - Buchères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Rue De L'église - Saint-Léger-près-Troyes",
+    "address": "Rue De L'église - Saint-Léger-près-Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Bréviandes - 35 Avenue du Général Leclerc",
+    "address": "35 Avenue du Général Leclerc - Bréviandes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Julien-les-Villas, Rue du Parc de Sancey (Private)",
+    "address": "1 Rue du Parc de Sancey - Saint-Julien-les-Villas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue de l'Eglise - Saint-Thibault",
+    "address": "5 Rue de l'Eglise - Saint-Thibault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking Place Charles De Gaulle - Rosières-prés-Troyes",
+    "address": "Parking Place Charles De Gaulle - Rosières-prés-Troyes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

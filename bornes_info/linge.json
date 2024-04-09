@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Clem' - Paris 20 - Haussmann",
+    "address": "61 boulevard Haussmann - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 22 - Trinité/Estienne d'Orves",
+    "address": "6 rue de Londres - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking St-Lazare",
+    "address": "20 Rue de Rome - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 16 Rue des Mathurins - Paris",
+    "address": "16 Rue des Mathurins - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - Parking Haussmann - Boulevard Haussmann - Paris",
+    "address": "31Bis Boulevard Haussmann - Paris",
+    "connectors": [
+      "x28",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 19 Rue Tronchet - Paris",
+    "address": "19 Rue Tronchet - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - Rue de Liège - Paris",
+    "address": "Rue de Liège - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Saemes Madeleine-Tronchet (Tesla)",
+    "address": "21 Place de la Madeleine - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 46 Rue de Rome - Paris",
+    "address": "46 Rue de Rome - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - Paris - 18 Rue de Laborde",
+    "address": "18 Rue de Laborde - Paris",
+    "connectors": [
+      "x5",
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

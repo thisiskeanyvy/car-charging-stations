@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Izivia - A36, Aire d'Ecot - Écot",
+    "address": "A36, Aire d'Ecot - Écot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED A36 Aire d'Écot (double sens)",
+    "address": "A36 - Écot",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Intermarché Contact - Montbéliard",
+    "address": "15 Rue du Port - Montbéliard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Super U Mandeure",
+    "address": "Rue de Beaulieu - Mandeure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Arbouans - 12 Avenue de l'Europe",
+    "address": "12 Avenue de l'Europe - Arbouans",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Blancheries",
+    "address": "14 Rue des Blancheries - Montbéliard",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - 38 Rue du Général Leclerc - Montbéliard DOUBLON",
+    "address": "38 Rue du Général Leclerc - Montbéliard",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Velotte - Avenue des Alliés",
+    "address": "19\n Avenue des Alliés\n - Montbéliard",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de Alliès",
+    "address": "31 Avenue des Alliés - Montbéliard",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Superchargeur Tesla V3 - Leclerc - Montbéliard",
+    "address": "24 Rue Jacques Foillet - Montbéliard",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  }
+]

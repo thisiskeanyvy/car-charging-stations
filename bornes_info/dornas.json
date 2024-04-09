@@ -1,0 +1,128 @@
+[
+  {
+    "title": "RRVE Hotel Las Sirenas",
+    "address": "137 Cm Sacido - Celeiro",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hotel las Sirenas",
+    "address": "Praia de Sacido - Viveiro",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Endesa - Lugar Ferreiroas - Ortigueira",
+    "address": "1 Lugar Ferreiroas - Ortigueira",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Iberdrola Clientes - Campo dos Paxariños",
+    "address": "1T Rua Campo Dos Paxariños - Mondoñedo",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Iberdrola - 1 JAIME CABOT - MONDOÑEDO",
+    "address": "1 JAIME CABOT - MONDOÑEDO",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "COOPERATIVA DE VILABOA",
+    "address": "S/N Lg Pereiro - Valdoviño",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parador de Vilalba (Tesla and others)",
+    "address": "Calle Valeriano Valdesuso, s/n - Vilalba",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Repsol Vilalba",
+    "address": "164 Avenida Terra cha - Villalba",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Iberdrola - Toyota - Barreiros",
+    "address": "1 EMPRESARIAL FASE 2 - BARREIROS",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IBERDROLA CLIENTES - MONFERO - 1 REGUERIO",
+    "address": "1 REGUERIO - MONFERO",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

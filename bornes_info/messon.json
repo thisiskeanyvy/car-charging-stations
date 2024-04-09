@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEA - Place de la Poste - Fontvannes",
+    "address": "Place de la Poste - Fontvannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Torvilliers - D660 Aire de covoiturage",
+    "address": "D660 - Torvilliers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Mairie - Torvilliers",
+    "address": "22 Rue de la Mairie - Torvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Mairie de Chennegy",
+    "address": "4 D23 - Chennegy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA 10 - Bercenay-en-Othe - Rue du Prieuré 2",
+    "address": "2 Rue du Prieuré - Bercenay-en-Othe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue du moulin Dierrey-Saint-Julien",
+    "address": "4 Rue du moulin - Dierrey-Saint-Julien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sea",
+    "address": "- Troyes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Mairie Allée Forestière La Rivière-de-Corps",
+    "address": "Allée Forestière - La Rivière-de-Corps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Rivière-de-Corps",
+    "address": "37b Rue Jean Jaurès - La Rivière-de-Corps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Rosières-prés-Troyes - Intermarché",
+    "address": "208 Rte d'Auxerre - Rosières-prés-Troyes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

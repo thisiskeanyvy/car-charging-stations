@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE22 - Rond point du Grimolet",
+    "address": "1 Rue Marcel Cosson - Ploufragan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Zoopole Ploufragan",
+    "address": "6 Rue Camille Guérin - Ploufragan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Croix Tual",
+    "address": "15 Rue du Plan - Ploufragan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Ploufragan",
+    "address": "Centre Commercial Du, Rue du Carpont - Ploufragan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - BMW/Mini - 30 Av. Pierre Mendès - Trégueux",
+    "address": "30 Av. Pierre Mendès - Trégueux",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Eskem - Trégueux",
+    "address": "3 avenue Pierre Mendès France - Trégueux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai Trégueux",
+    "address": "26 Rue du Gué Lambert, - Trégueux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 52 Rue du Gué Lambert - Trégueux",
+    "address": "52 Rue du Gué Lambert - Trégueux",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Food Place Parking",
+    "address": "7 Rue Jean Monnet - Trégueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Courtepaille - Saint-Brieuc Brézillet",
+    "address": "2 Michel Audiard - Tregueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

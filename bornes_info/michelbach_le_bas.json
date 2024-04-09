@@ -1,0 +1,126 @@
+[
+  {
+    "title": "STATIONS-E - Ranspach-le-Bas - 34 Rue de Bâle",
+    "address": "34 Rue de Bâle - Ranspach-le-Bas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking supérieur du Casino Barrière",
+    "address": "777 Allée du Casino - Blotzheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Blotzheim - Hôtel Mercure Bâle Mulhouse Aéroport",
+    "address": "3a Rue de l'Industrie - Blotzheim",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ACC Blotzheim (Tesla et autres)",
+    "address": "1 Rue de L Aéroport - Blotzheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant track",
+    "address": "3 Rue Pierre Clostermann - Blotzheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hésingue Carrelage",
+    "address": "1A Rue des Champs - Hésingue",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izyborne - Rue du Bon Coin - Hésingue",
+    "address": "1 Rue du Bon Coin - Hésingue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Au Lion Rouge",
+    "address": "1 Rue du Général de Gaulle - Bartenheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gare - Bartenheim",
+    "address": "49 Rue de la Gare - Bartenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Hegenheim - Buschwiller",
+    "address": "4 Rue de Hegenheim - Buschwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

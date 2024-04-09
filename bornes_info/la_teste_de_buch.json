@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Rue du Général Gallieni - La Teste-de-Buch",
+    "address": "Rue du Général Gallieni - La Teste-de-Buch",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEEG33 - Parking du marché - La Teste-de-Buch",
+    "address": "3 Rue Gilbert Sore - La Teste-de-Buch",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Rue du Port - La Teste-de-Buch",
+    "address": "63 Rue du Port - La Teste-de-Buch",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Intermarché - La Teste-de-Buch",
+    "address": "22B Avenue de Verdun - La Teste-de-Buch",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - La Teste de Buch",
+    "address": "Chemin lagrua - La Teste",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 53 Boulevard de Curepipe - La Teste-de-Buch",
+    "address": "53 Boulevard de Curepipe - La Teste-de-Buch",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Hôtel Ibis Arcachon La Teste-de-Buch",
+    "address": "1 Impasse du Bosquet - La Teste-de-Buch",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge - Decathlon - La Teste-de-Buch",
+    "address": "1 Rue Georges Charpak - La Teste-de-Buch",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Plaine des sports - La Teste-de-Buch",
+    "address": "39 Rue Etienne Turpin - La Teste-de-Buch",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - La Teste de Buch",
+    "address": "180 avenue de l'Europe - La Teste de Buch",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

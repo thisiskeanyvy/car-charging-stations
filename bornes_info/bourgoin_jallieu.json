@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Qpark la folatiere",
+    "address": "Avenue general leclerc - Bourgoin Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Champ de Mars - Bourgoin-Jallieu",
+    "address": "22 Place du Champ de Mars - Bourgoin-Jallieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Place Jean-Jacques Rousseau - Bourgoin-Jallieu",
+    "address": "16 Place Jean-Jacques Rousseau - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking St Michel Sud",
+    "address": "Boulevard Saint-Michel - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Médicis - Bourgoin-Jallieu",
+    "address": "38T Avenue d'Italie - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mathimo - Bourgoin-Jallieu",
+    "address": "47 Boulevard Saint-Michel - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEDI - Isère - Parking Medicis. 23 ,Avenue d'Italie - Bourgoin Jallieu",
+    "address": "Parking Medicis. 23 ,Avenue d'Italie - Bourgoin Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born Hôtel de Ville de Bourgoin-Jallieu",
+    "address": "3 Rue de l'Hôtel de ville - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - 7 Boulevard de Champaret - Bourgoin-Jallieu",
+    "address": "7 Boulevard de Champaret - Bourgoin-Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Bourgoin-Jallieu",
+    "address": "15 Avenue Henri Barbusse - Bourgoin-Jallieu",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

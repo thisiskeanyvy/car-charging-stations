@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SDEM50 - La Hervière - La Colombe",
+    "address": "42 La Hervière - La Colombe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - La Colombe - Garage Lesauvage",
+    "address": "8 Parc d'Activités - La Colombe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - FONTENERMONT (Le Bourg)",
+    "address": "Le Bourg - Fontenermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Villedieu les Poêles",
+    "address": "10 Rue de la Herviere - La Colombe",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place des costils Villedieu-les-Poêles",
+    "address": "8 Place des Costils - Villedieu-les-Poêles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEM50 - Gare Sncf - Villedieu",
+    "address": "1 Rue Jean Dévé - Villedieu-les-Poêles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - La Maison Neuve Fleury",
+    "address": "La Maison Neuve - Fleury",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A84 - Aire de la Vallée de la Vire Gouvets (double sens)",
+    "address": "A84 - Gouvets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Saint-Sever-Calvados",
+    "address": "Place de la Mairie - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue du Moulin de Haut - Percy",
+    "address": "1 Rue Dominique Lemonnier - Percy-en-Normandie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

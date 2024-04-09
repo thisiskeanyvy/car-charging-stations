@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Intermarché - Allée Des Auques - Aussillon",
+    "address": "2bis Allée Des Auques - Aussillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Gare de Mazamet",
+    "address": "7 Avenue Charles Sabatié - Mazamet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - parking rue du Champ de la Ville - Mazamet",
+    "address": "1-2 Rue du Champ de la ville - Mazamet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET Révéo - D612 - Mazamet",
+    "address": "2 D612 - Mazamet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - D612 - Aussillon",
+    "address": "D612 - Aussillon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET - Avenue du Président Kennedy Mazamet",
+    "address": "Avenue du Président Kennedy - Mazamet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Auto E.Leclerc - RN 112 - Bout-du-Pont-de-Larn",
+    "address": "- Centre Auto E.Leclerc - RN 112 - Bout-du-Pont-de-Larn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Enerstock - E. Leclerc - Bout-du-Pont-de-Larn",
+    "address": "D 54 - Bout-du-Pont-de-Larn",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET - Le village - Payrin-Augmontel",
+    "address": "Allée André Caville - Payrin-Augmontel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "King jouet - Bout-du-Pont-de-Larn",
+    "address": "Route de Toulouse À Agde - Bout-du-Pont-de-Larn",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE04 - La Bréole",
+    "address": "Le Village - La Bréole",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LUMI'IN - Le Village - Ubaye-Serre-Ponçon",
+    "address": "Le Village - Ubaye-Serre-Ponçon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D900 - Espinasses",
+    "address": "D 900 - Espinasses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping Huttopia Lac de Serre-Ponçon",
+    "address": "3442 Route D’Ubaye - Ubaye-Serre-Ponçon",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LUMI'IN - 28 Lotissement les Grangettes",
+    "address": "28 Lotissement les Grangettes - Montclar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Les Côtes de Saint-Jean - Montclar",
+    "address": "- Montclar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE04 - Place de la Mairie",
+    "address": "Saint-Domitien - Selonnet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syme05 - Parking ds Ecoles Chorges",
+    "address": "Route des Moilettes - Chorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Intermarché - Chorges",
+    "address": "Pré de la Gare - Chorges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Grand Logis - Chorges",
+    "address": "5 Place du Grand Logis - Chorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

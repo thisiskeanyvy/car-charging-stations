@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Mouv' Oise - Rue de la Salle des Fêtes - Tillé",
+    "address": "7 Rue de la Salle des Fêtes - Tillé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Rossini Energy - Rue Jean Baptiste Godin PAE du Haut Villé - Beauvais",
+    "address": "Rue Jean Baptiste Godin PAE du Haut Villé - Beauvais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Beauvais",
+    "address": "Rue jean baptiste godin - BEAUVAIS",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 1 Avenue du Beauvaisis - Beauvais (Privé)",
+    "address": "1 Avenue du Beauvaisis - Beauvais",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv'Oise - Mairie de Therdonne",
+    "address": "1 Place Amédée Langlet - Therdonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - Concept Motors - Beauvais",
+    "address": "5 Rue de Pinçonlieu - Beauvais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "STATIONS-E - Restaurant Memphis - BEAUVAIS",
+    "address": "Rue Fernand Sastre - Beauvais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hostellerie St Vincent (charge a destination Tesla)",
+    "address": "241A Rue de Clermont - Beauvais",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Beauvais - Hôtel Saint Vincent",
+    "address": "241 Rue de Clermont - Beauvais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 241 Rue de Clermont - Beauvais",
+    "address": "241 Rue de Clermont - Beauvais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

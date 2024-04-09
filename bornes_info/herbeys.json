@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Brié-et-Angonnes | Route de Jarrie",
+    "address": "Route de Jarrie - Brié-et-Angonnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Avenue des Maquis de l'Oisans - Eybens",
+    "address": "Avenue des Maquis de l'Oisans - Eybens",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking Avenue des Thermes - Saint-Martin-d'Uriage",
+    "address": "4 Sentier des Anciennes Fabriqués - Saint-Martin-d'Uriage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel des Mésanges",
+    "address": "94 Route des Mésanges - Saint-Martin-d'Uriage",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Château Hôtel de la Commanderie",
+    "address": "17 Avenue d'Echirolles - Eybens",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "24 Rue Lamartine",
+    "address": "24 Rue Lamartine - Eybens",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Satoriz - Saint-Martin-d'Hères",
+    "address": "9 Rue du Béal - Saint-Martin-d'Hères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Saint-Martin-d'Hères - Rue Emile Zola",
+    "address": "Rue Emile Zola - Saint-Martin-d'Hères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Leclerc - Saint Martin d'Heres",
+    "address": "18 Rue du Pré Ruffier - Saint-Martin-d'Hères",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Grenoble Métropole - Saint-Martin-d'Hères - Rue Henri Wallon",
+    "address": "Rue Henri Wallon \r\n - Saint-Martin-d'Hères",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

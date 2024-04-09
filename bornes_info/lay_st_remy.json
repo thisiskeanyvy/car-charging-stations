@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Rue du Saint-Empire - Thiébauménil",
+    "address": "9 D400 - Lay-Saint-Remy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-E - La Favorite - Pagny-sur-Meuse",
+    "address": "N4 - Pagny-sur-Meuse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Esplanade du genie - Ecrouves",
+    "address": "1 de l'esplanade - Écrouves",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue du Mémorial du Génie - Ecrouves",
+    "address": "Rue du Mémorial du Génie - Écrouves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Écrouves",
+    "address": "Avenue du 15eme Génie - Écrouves",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Métropole du Grand Nancy - D960 Aire de covoiturage - Toul",
+    "address": "D960 Aire de covoiturage - Toul",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "parking de la gare routière (taxi only)",
+    "address": "keller - Toul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Impasse des Teinturiers - Toul",
+    "address": "Impasse des Teinturiers - Toul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Cora - Toul",
+    "address": "678 Avenue du Général Bigeard - Toul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - 43 Rue Paul Keller - Toul",
+    "address": "41–45 Rue Paul Keller - Toul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

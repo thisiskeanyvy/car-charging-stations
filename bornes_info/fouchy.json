@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEA - Cité administrative des Vassaules - Troyes (private)",
+    "address": "22 Rue Grégoire Pierre Herluison - Troyes",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CPAM - rue étienne pédron",
+    "address": "113 rue étienne pédron - Troyes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue Grégoire Pierre Herluison - Troyes",
+    "address": "22 Rue Grégoire Pierre Herluison - Troyes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEA - Rue de la Fin - Lavau",
+    "address": "5 Rue de la Fin - Lavau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Chemin des Corvées - LAVAU",
+    "address": "10 Chemin des Corvées - Lavau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hotel De Troyes",
+    "address": "168 Avenue Du General Leclerc - Troyes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kyriad - Troyes centre",
+    "address": "44 Avenue Chomedey de Maisonneuve - Troyes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Troyes",
+    "address": "boulevard Danton - Troyes",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Troyes - 15 Boulevard Danton",
+    "address": "15 Boulevard Danton - Troyes",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Parking Bistrot du Pont - Pont-Sainte-Marie",
+    "address": "1 Place Charles de Gaulle - Pont-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

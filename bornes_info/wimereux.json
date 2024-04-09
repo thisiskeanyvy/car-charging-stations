@@ -1,0 +1,124 @@
+[
+  {
+    "title": "hôtel Villa des 2 caps",
+    "address": "1bis Rue du Capitaine Ferber - Wimereux",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel atlantic 3 Rue Notre-Dame",
+    "address": "3 Rue Notre-Dame - Wimereux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Avenue de la Mer - Wimereux",
+    "address": "9 Avenue de la Mer - Wimereux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Gare - Wimille",
+    "address": "Rue de la gare - Wimille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Aldi - Wimereux",
+    "address": "2 Rue du Château - Wimereux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Virta - 201 Avenue Percier et Fontaine - boulogne sur mer",
+    "address": "201 Avenue Percier et Fontaine - boulogne sur mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PassPass - Nausicaa - Boulevard Sainte-Beuve - Boulogne-sur-Mer",
+    "address": "118 Boulevard Sainte-Beuve - Boulogne-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking de Nausicaa - Boulogne-sur-Mer (Niveau 0)",
+    "address": "70 Rue de Folkestone - Boulogne-sur-Mer",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Boulevard Eurvin Boulogne-sur-Mer",
+    "address": "3 Boulevard Eurvin - Boulogne-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pass Pass - Place de la Resistance - Boulogne-sur-Mer",
+    "address": "Place de la Résistance - Boulogne-sur-Mer",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

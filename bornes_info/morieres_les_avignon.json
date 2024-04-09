@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Morières-lès-Avignon - 36 Avenue Jean Monnet",
+    "address": "36 Avenue Jean Monnet - Morières-lès-Avignon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Rue de la République - Morières-lès-Avignon",
+    "address": "103 Rue de la République - Morières-lès-Avignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Place Émile Zola - Morieres les Avignon",
+    "address": "1 Place Émile Zola - Morières-lès-Avignon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Avenue Jean Monnet",
+    "address": "310 Avenue Jean Monnet - Morières-lès-Avignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Caisse d'Epargne Morieres Saint Saturnin",
+    "address": "986 Rue de Folard - Morières-lès-Avignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - E.Leclerc - Morières-lès-Avignon",
+    "address": "1001 Clos, Rue de Folard - Morières-lès-Avignon",
+    "connectors": [
+      "x6",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mairie annexe de Vedène",
+    "address": "1150 Avenue de l'Europe - Vedène",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A7 - Aire de Morières (direction Cavaillon)",
+    "address": "A7 - Morières-lès-Avignon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E55C - Rue des Galéjades - Avignon",
+    "address": "15 Rue des Galéjades - Avignon",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electric Charging 55 - Rue des Paroissiens - Avignon",
+    "address": "29 Rue des Paroissiens - Avignon",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Legentil'Home",
+    "address": "2218 bis Route de la Judée - Conteville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Mairie de Conteville",
+    "address": "Le Bourg - Conteville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Beuzeville",
+    "address": "Rue du Coq - Beuzeville",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Le Clos Du Phare (Tesla and others)",
+    "address": "6 Route du Plateau - Saint-Samson-de-la-Roque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - La Rivière Saint Sauveur - Rue du Port",
+    "address": "Rue du Port - La Rivière-Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Weldom - Rue des Prés Verts",
+    "address": "455 Rue des Prés Verts - Beuzeville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - Beuzeville",
+    "address": "540 Rue des Prés Verts - Beuzeville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Unknown - Unknown DOUBLON",
+    "address": "Unknown - Unknown",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supercharger Tesla V3 - Honfleur Normandie",
+    "address": "1 Avenue de Normandie - Honfleur",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Honfleur Normandy Outlet (Tesla and others) - Av. de Normandie - Honfleur",
+    "address": "1 Avenue de Normandie - Honfleur",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

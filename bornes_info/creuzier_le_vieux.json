@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE03 - Creuzier-le-Vieux",
+    "address": "Place des Guinards - Creuzier-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Yesss Electrique",
+    "address": "Rue de l'Industrie - Creuzier-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cusset | Rue de Sanssat 1",
+    "address": "1 Rue de Sanssat - Cusset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Polyclinique la Pergola",
+    "address": "Rue des Ailes - Creuzier-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Vichy (Avenue Gilbert Roux)",
+    "address": "Avenue Gilbert Roux - Cusset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Cusset",
+    "address": "6 Rte de Charmeil, - Cusset",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Cusset",
+    "address": "44 boulevard Jean Lafaure - Cusset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Cusset - Nissan",
+    "address": "44 Bd Jean Lafaure - Cusset",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Vichy",
+    "address": "Allée des Ailes - Vichy",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue des Peupliers - Cusset",
+    "address": "80 Rue des Peupliers - Cusset",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Mairie d'Anost",
+    "address": "37 Grande Rue des Galvachers - Anost",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - La Grande Verrière - Parking de la Mairie",
+    "address": "Rue De La Brile - La Grande-Verrière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - SCAME - La Grande-Verrière",
+    "address": "13 Route du Haut Folin - La Grande-Verrière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking Mairie - Arleuf",
+    "address": "Parking Mairie - Arleuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell-Recharge - 57 Rue Georges Leyton - Lavault-de-Frétoy",
+    "address": "57 Rue Georges Leyton - Lavault-de-Frétoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale de Bellevue",
+    "address": "1 Rue de Bellevue - Autun",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "3 Avenue Pierre Brossolette",
+    "address": "3 Avenue Pierre Brossolette - Autun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Autun",
+    "address": "4 Rue Lt Cnl Gabriel de Sairigne - Autun",
+    "connectors": [
+      "x4",
+      "x5",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Château-Chinon(Ville)",
+    "address": "25T Route d'Autun - Château-Chinon(Ville)",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "3 Rue Pierre Mendès France",
+    "address": "3 Rue Pierre Mendès France - Château-Chinon (Ville)",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

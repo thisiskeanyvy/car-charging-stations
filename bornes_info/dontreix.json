@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sdec - 1 Rue Paul Doumer - Auzances",
+    "address": "1 Rue Paul Doumer - Auzances",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le cuisinier en Combraille",
+    "address": "10 Vivier - Vergheas",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Route de Montluçon - FONTANIERES",
+    "address": "Route de Montluçon - FONTANIERES",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Pionsat",
+    "address": "21 Route Lafayette - Pionsat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Hotel Belle Vue",
+    "address": "1 Chez Saby - Les Ancizes-Comps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Place Marie-Thérèse Goumy - Crocq",
+    "address": "1 Place Marie-Thérèse Goumy - Crocq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Place du Treix - Bellegarde-en-Marche",
+    "address": "Place du Treix - Bellegarde-en-Marche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmmile - Rue du Pont du Bouchet",
+    "address": "1 Rue du Pont du Bouchet - Les Ancizes-Comps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Marcillat-en-Combraille",
+    "address": "Place du Champ de Foire - Marcillat-en-Combraille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borne camping car - Saint-Gervais-d'Auvergne",
+    "address": "L'Étang Philippe - Saint-Gervais-d'Auvergne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE65 - Thermes - Bagnères-de-Bigorre",
+    "address": "Place des Thermes - Bagnères-de-Bigorre",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*LDL - Saint-Gaudens - Rue Jean Suberville",
+    "address": "Rue Jean Suberville - Saint-Gaudens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarche - Pouzac",
+    "address": "83bis Avenue de La Mongie - Pouzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambre d'hotes \"Au chat ronfleur\"",
+    "address": "3 Rue Alfred Cazalas - Bagnères-de-Bigorre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 - Place du Foirail Bagnères",
+    "address": "32 Place du Foirail - Bagnères-de-Bigorre",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Chemin Du Golf - Pouzac",
+    "address": "Chemin Du Golf - Pouzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "135 Rue du 8 Mai",
+    "address": "135 Rue du 8 Mai - Montgaillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hyundai Valence - Valence Motors - Lourdes - 4 Rue Lucien Pourxet,",
+    "address": "4 Rue Lucien Pourxet, - Lourdes",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 - Mairie - Lourdes",
+    "address": "2 Rue de l'Hôtel de ville - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (Révéo) - Lourdes - Avenue du Maréchal Foch",
+    "address": "Avenue du Maréchal Foch SICA - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

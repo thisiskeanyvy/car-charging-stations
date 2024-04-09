@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ChargePoint Network - 66 Route de Parves",
+    "address": "66 Route de Parves - Belley",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Yenne",
+    "address": "615 Route de Chambéry, - Yenne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CNR - D107 Belley",
+    "address": "D107 - Belley",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Belley - Rue De La Résistance",
+    "address": "Rue De La Résistance - Belley",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Rue Pré Bonguin - Chazey-Bons",
+    "address": "621 Rue Pré Bonguin - Chazey-Bons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "991 Route de Soirin",
+    "address": "991 Route de Soirin - Traize",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "76 route des bordelieres - CHAZEY BONS",
+    "address": "76 route des bordelieres - CHAZEY BONS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1024 Montée de la Saunière",
+    "address": "1024 Montée de la Saunière - Champagneux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant Lamartine (Porsche)",
+    "address": "RN 504 - Route du Tunnel du Chat - Bourdeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Atmosphères - Le Bourget-du-Lac",
+    "address": "618 Route des Tournelles - Le Bourget-du-Lac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

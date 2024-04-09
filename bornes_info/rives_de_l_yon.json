@@ -1,0 +1,128 @@
+[
+  {
+    "title": "La Ferme de Camille",
+    "address": "La Veillonniere - Rives de l'Yon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Tablier | Rue Principale 10",
+    "address": "10 Rue Principale Parking Communal - Le Tablier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place de l'Église - Nesmy",
+    "address": "Place de l'Église - Nesmy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Rue André Ampère - La Chaize-le-Vicomte",
+    "address": "12 Rue André Ampère - La Chaize-le-Vicomte",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Chemin du Fougère au Bourg - La Roche-sur-Yon",
+    "address": "Chemin du Fougère au Bourg - La Roche-sur-Yon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SyDEV - Place du Marché - La Chaize de Vicomte",
+    "address": "Place du Champs de Foire - La Chaize Le Vicomte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SyDEV - Place des Halles - Mareuil sur Lay Dissais",
+    "address": "Place Des Halles - Mareuil-Sur-Lay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 43 rue Guillaume Bunsen - LA ROCHE SUR YON",
+    "address": "43 rue Guillaume Bunsen - LA ROCHE SUR YON",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place de la Mutualité - La Roche-sur-Yon",
+    "address": "Place de la Mutualité - La Roche-sur-Yon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clinique Saint Charles - Nouveau parking (Privé)",
+    "address": "11 Boulevard René Lévesque - La Roche-sur-Yon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

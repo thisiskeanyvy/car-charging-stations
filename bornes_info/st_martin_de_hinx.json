@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SYDEC - Place Salle Isidore Sainte-Marie-de-Gosse",
+    "address": "56 Place Isidore Salles - Sainte-Marie-de-Gosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Route de Bellevue Saubrigues",
+    "address": "34 Route de Bellevue - Saubrigues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC - D466/135 - Josse",
+    "address": "Route de Boulins - Josse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "STATIONS-E - Saint-Vincent-de-Tyrosse - Citroën",
+    "address": "205 Route de Bayonne - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue du Grand Tourren",
+    "address": "Rue du Grand Tourren - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "15 Rue de Mounsempes",
+    "address": "Rue Clairacq - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - E.Leclerc - Saint-Vincent-de-Tyrosse",
+    "address": "1320 Route de Bordeaux - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x6",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Motel des Landes",
+    "address": "1064 route de bayonne - Bénesse-Maremne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place du marché - Urt",
+    "address": "Place du Marché - Urt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Rue de Gascogne Saint-Martin-de-Seignanx",
+    "address": "Rue de Gascogne - Saint-Martin-de-Seignanx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

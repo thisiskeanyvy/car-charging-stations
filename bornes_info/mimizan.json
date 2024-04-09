@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEC - Rue du Jardin Public - Mimizan",
+    "address": "Rue du Jardin Public - Mimizan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - Avenue de Bordeaux 21 - MIMIZAN",
+    "address": "Avenue de Bordeaux 21 - MIMIZAN",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Mimizan - avenue de Bordeaux 52",
+    "address": "avenue de Bordeaux 52 - Mimizan",
+    "connectors": [
+      "x11"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Mimizan",
+    "address": "52 Avenue de Bordeaux - Mimizan",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Mimizan - Carrefour Market",
+    "address": "3 Rte de Baleste - Mimizan",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*LDL - Aureilhan - 51 Route des Chasseurs",
+    "address": "51 Route des Chasseurs - Aureilhan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydec - Parking Segoza",
+    "address": "43 Avenue Maurice Martin - Mimizan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sydec - Parking de l'église Pontenx-les-Forges",
+    "address": "75-89 Avenue de Mimizan - Pontenx-les-Forges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping du lac - Sainte Eulalie en Born",
+    "address": "1590 Route du Lac - Sainte-Eulalie-en-Born",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - 1229 Av. Félix Ducournau, - Gastes",
+    "address": "1229 Av. Félix Ducournau, - Gastes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

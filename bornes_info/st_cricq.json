@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Atlante - A10 Aire de Meillac",
+    "address": "Autoroute A10, Aire de Meillac - Cubzac-les-Ponts",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - A10 Aire de l'Estalot (direction Bordeaux)",
+    "address": "A10 L'Aquitaine - Saint-André-de-Cubzac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - Kyriad Bordeaux Nord - Sainte Eulalie",
+    "address": "113 avenue de l'Europe - Sainte Eulalie",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pieces Auto - Avenue de la Libération",
+    "address": "2Q Avenue de la Libération - Ambarès-et-Lagrave",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Parking de la Dauge - Saint-André-de-Cubzac",
+    "address": "4 Rue Louise Michel - Saint-André-de-Cubzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Parking de la Barotte",
+    "address": "Impasse du Pas de Monnac - Saint-André-de-Cubzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Electro Dépot",
+    "address": "2 Rue de l'Aire du Temps - Sainte-Eulalie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mairie - Sainte-Eulalie",
+    "address": "12 Rue Eugène Côtelette - Sainte-Eulalie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie - Saint-Loubès",
+    "address": "16 Place de l'Hôtel de ville - Saint-Loubès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Place de la mairie - Avenue de la Garonne - Saint Louis de Montferrand",
+    "address": "Avenue de la Garonne - Saint-Louis-de-Montferrand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

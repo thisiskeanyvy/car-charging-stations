@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Garage Vanhuyse",
+    "address": "25 Corneille - Conchil le temple",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/Paillard_Investissement",
+    "address": "83 Chemin de l'Arrochelle - Groffliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Basse Rue - Groffliers",
+    "address": "170 Basse Rue - Groffliers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Verton",
+    "address": "Cd 143, All. les Allees, - Verton",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LE 110  restaurant O Local Gourmet",
+    "address": "2 Rue des Sureaux - Berck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Berck - Route d'Abbeville",
+    "address": "Route d'Abbeville - Berck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Berck",
+    "address": "942 Avenue de Verdun - Berck",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Berck-sur-Mer",
+    "address": "940 avenue de Verdun - Berck-sur-Mer",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Beck sur Mer",
+    "address": "1 Rue des Argousiers - Berck-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Berck - SCI du Littoral",
+    "address": "Rue des Argousiers Parc d'activité de la Vigogne - Berck",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "GCK Energy - A26 Aire d'Urvillers (double sens)",
+    "address": "Aire d'Urvillers - Urvillers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A26 Aire d'Urvillers (Double sens)",
+    "address": "A26/E17 Autoroute des Anglais - Urvillers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - A26 Aire d'Urvillers",
+    "address": "A26 - Urvillers",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Rue Eugène Freyssinet - Gauchy",
+    "address": "1 Rue Eugène Freyssinet - Gauchy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Avenue de la Victoire - Montescourt-Lizerolles",
+    "address": "Rue de l'Hôpital - Montescourt-Lizerolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DIRVE 02 - Clastres - Circuit Automobile de Clastres",
+    "address": "La clef des Champs - Clastres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue Neuve - Itancourt",
+    "address": "1 Rue Neuve - Itancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Netto - Saint-Quentin",
+    "address": "106 Rue de la Fère - Saint-Quentin",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Saint-Quentin - 101 Rue Jean Cocteau",
+    "address": "101 Rue Jean Cocteau - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Boulevard du Docteur Camille Guérin, 32 - Saint-Quentin",
+    "address": "33 Boulevard du Docteur Camille Guérin - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

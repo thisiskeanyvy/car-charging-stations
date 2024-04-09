@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEML - ST LAMBERT DU LATTAY - Parking Salle Marie Lise",
+    "address": "Rue du Pont Barre - Saint Lambert du Lattay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Les Soucheries - Beaulieu-sur-Layon",
+    "address": "Les Soucheries - Beaulieu-sur-Layon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Beaulieu-sur-Layon - D54 Aire de Covoiturage",
+    "address": "D54, La Promenade Aire de covoiturage La Promenade - Beaulieu-sur-Layon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "château de piegue",
+    "address": "1 Piegue - Rochefort-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - 6 Place du Pilori - Rochefort-sur-Loire",
+    "address": "6 Place du Pilori - Rochefort-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - MOZE SUR LOUET - Place De L'Eglise",
+    "address": "Place de l'Eglise - Mozé-sur-Louet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1 Zone Artisanale du Bocage ccdulayon",
+    "address": "1 Zone Artisanale du Bocage - Mozé-sur-Louet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - La Possonière - Rue de la Mairie",
+    "address": "Place de la Mairie - La Possonnière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Savennières - Place du Mail",
+    "address": "Place du Mail - Savennières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - Valanjou - Rue De La Mairie",
+    "address": "56 Rue de la Mairie - Valanjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

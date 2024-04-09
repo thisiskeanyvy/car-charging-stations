@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDET - Rue du Porche - Réalmont",
+    "address": "6 Rue du Porche - Réalmont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place du foirail",
+    "address": "Place du Foirail - Réalmont",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Réalmont",
+    "address": "27 Rue de la Bouriotte - Réalmont",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - 4 Route des Martys - Montdragon",
+    "address": "4 Route des Martys - Montdragon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - 9 Rue de l'école",
+    "address": "9 Rue de l'école - Fauch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Rue des Bons Enfants Venes",
+    "address": "2 Rue des Bons Enfants - Venes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Betou - Terre-de-Bancalié",
+    "address": "Betou - Terre-de-Bancalié",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SPIE SCN - ALBI - Centre de travaux / Magasin (Privée)",
+    "address": "42 Chemin Albert Einstein - Albi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "638 Chemin de Saint-Hilaire",
+    "address": "638 Chemin de Saint-Hilaire - Graulhet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue de Lengouzy",
+    "address": "Rue de Lengousy - Lautrec",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

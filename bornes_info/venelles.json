@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Place sur l'avenue Maurice Plantier (E-Bike)",
+    "address": "2 Avenue Maurice plantier - Venelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parvis de la Mairie de Venelles (privée)",
+    "address": "rue des ecoles - Venelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Venelles - Avenue Maurice Plantier",
+    "address": "Avenue Maurice Plantier - Venelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Cour de la Mairie de Venelles",
+    "address": "1 Allée de la Roberte - Venelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Vincent FANCIULLO - Venelles",
+    "address": "9 Chemin de la Carraire - Venelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A51 Aire de Meyrargues (direction Aix-en-Provence)",
+    "address": "A 51 - Meyrargues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Château de la Gaude - Route Des Pinchinats (Porsche)",
+    "address": "2190 Route Des Pinchinats - Aix-en-Provence",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - RUE DE LA COQUILLADE 125 - PUYRICARD",
+    "address": "RUE DE LA COQUILLADE 125 - PUYRICARD",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - 2151 Route de Sisteron - Aix-en-Provence",
+    "address": "2151 Route de Sisteron - Aix-en-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Alliance Auto Puyricard",
+    "address": "3140 Route du Colonel Maurice Bellec - Puyricard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

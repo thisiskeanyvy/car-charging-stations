@@ -1,0 +1,138 @@
+[
+  {
+    "title": "AlterBase Séolis - Geay - Mairie",
+    "address": "Place de la Mairie - Geay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau Alterbase - Mauzé-Thouarsais - Mairie",
+    "address": "2 Rue de la Croix d'Ingand - Mauzé-Thouarsais",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Varent | Avenue des Platanes 22B",
+    "address": "22B Avenue des Platanes - Saint-Varent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Saint Varent - Place du 14 juillet",
+    "address": "Place du Quatorze Juillet - Saint-Varent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Réseau AlterBAse - St Jean de Thouars - Mairie",
+    "address": "6 Rue Charles Ragot - Saint-Jean-de-Thouars",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Séolis - Thouars - Château de la Trémoïlle",
+    "address": "4 Rue de la Tremoille - Thouars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Thouars - Mairie",
+    "address": "7 Place Saint-Laon - Thouars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Séolis - Sainte-Radegonde",
+    "address": "Rue du Général de Lescure - Sainte-Radegonde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Ste Radegonde - Centre commercial",
+    "address": "3 Rue du Lac - Sainte-Radegonde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Alterbase Séolis - Thouars - Place Lavault - QC",
+    "address": "10 Boulevard Ernest Renan - Thouars",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

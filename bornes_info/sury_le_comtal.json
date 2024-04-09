@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Boulevard M. - Orelu Sury-le-Comtal",
+    "address": "1 Boulevard M Orelu - Sury-le-Comtal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Abris de France - Place du 11 Novembre",
+    "address": "Place du 11 Novembre - Bonson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place François mitterand - Bonson",
+    "address": "Place François mitterand - Bonson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Avenue de la Mairie - Bonson",
+    "address": "6 Avenue de la Mairie - Bonson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Rue du 8 mai 1945 - Saint-Marcellin-En-Forez",
+    "address": "8 Rue du 8 Mai 1945 - Saint-Marcellin-en-Forez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Saint-Romain-le-Puy",
+    "address": "10 Avenue François Parot - Saint-Romain-le-Puy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 2a Rue du 8 Mai 1945 - Saint-Romain-le-Puy",
+    "address": "2a Rue du 8 Mai 1945 - Saint-Romain-le-Puy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Axens - Andrézieux-Bouthéon",
+    "address": "1 Rue du 8 Mai 1945 - Andrézieux-Bouthéon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Etienne Métropole - 1 Bd Pasteur - Andrézieux-Bouthéon",
+    "address": "1 Bd Pasteur - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Espace Pasteur - Rue Aristide Briand - Andrézieux-Bouthéon",
+    "address": "11 Rue Aristide Briand - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

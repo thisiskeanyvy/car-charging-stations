@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Tesla Destination Charging - le relais de la voie sacree - Les Trois-Domaines",
+    "address": "Rue de la Voie Sacrée - Les Trois-Domaines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Meuse-TGV",
+    "address": "D190 - Les Trois-Domaines",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Vaubécourt",
+    "address": "13 Rue Ernest Chaudron - Vaubecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Souilly",
+    "address": "77 Voie-Sacrée - Souilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Seuil d'Argonne",
+    "address": "Place Lucien Poincaré - Seuil-d'Argonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Woimbey - Che Des Vignerons",
+    "address": "Che Des Vignerons - Woimbey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions - Skoda - Fains-Véel",
+    "address": "14 Rue De La Verrerie - Fains-Véel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Bar-le-Duc - Allée Henriot du Coudray",
+    "address": "Allée Henriot du Coudray - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Hotel des Monthairons",
+    "address": "26 Rue de Verdun - Les Monthairons",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Bar le Duc - Flandres",
+    "address": "5 Boulevard des Flandres - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

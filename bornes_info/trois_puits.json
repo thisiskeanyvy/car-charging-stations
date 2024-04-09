@@ -1,0 +1,130 @@
+[
+  {
+    "title": "18 Rue de la Sentelle - Cormontreuil",
+    "address": "18 Rue de la Sentelle - Cormontreuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Times square - Rue des Laps - Cormontreuil",
+    "address": "1 Rue des Laps - Cormontreuil",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "But - Reims",
+    "address": "Avenue des Goisses - Cormontreuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Cormontreuil",
+    "address": "Rue des Blancs Monts - Cormontreuil",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leroy Merlin - Cormontreuil",
+    "address": "15 Rue des Rémouleurs - Cormontreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - E.Leclerc (A4/N51) - Champfleury",
+    "address": "51 Route nationale - Champfleury",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Reims B - Avenue Henri Farman",
+    "address": "Avenue Henri Farman - Reims B",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 Cormontreuil",
+    "address": "1001 Rue Manoel Pinto - Cormontreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Reims",
+    "address": "rue Fernand Brunet - Reims",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Honda - Rue Andre faivre - Reims",
+    "address": "170 Rue Andre faivre - Reims",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

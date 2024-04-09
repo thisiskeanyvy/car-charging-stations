@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Parking de l'Atrium",
+    "address": "961 Avenue Roger Salengro - Chaville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Chaville - 26 Rue du Coteau (privé)",
+    "address": "26 Rue du Coteau - Chaville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 33 route du Pavé des Gardes Chaville",
+    "address": "33 Route du Pavé des Gardes - Chaville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sigeif - 705 Avenue Roger Salengro - Chaville",
+    "address": "705 Avenue Roger Salengro - Chaville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Sigeif - 28 Rue Anatole France - Chaville",
+    "address": "28 Rue Anatole France - Chaville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking Qpark Bibliothèque",
+    "address": "4 Rue Robert Cahen - Viroflay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Place de Verdun - Viroflay",
+    "address": "1 Rue René - Viroflay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Q-Park couvert Marché de Viroflay",
+    "address": "8 Rue Pierre Brossolette - Viroflay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Chemin Desvallières - Ville-d'Avray",
+    "address": "28 Chemin Desvallières - Ville-d'Avray",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Les Étangs de Corot (Tesla et autres)",
+    "address": "55 Rue de Versailles - Ville-d'Avray",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

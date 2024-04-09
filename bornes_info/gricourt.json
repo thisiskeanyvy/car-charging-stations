@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Auchan - Rue des Marlettes - Fayet",
+    "address": "106 Rue des Marlettes - Fayet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V3 - Saint-Quentin",
+    "address": "4c Rue des Marlettes - Fayet",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bricoman - Fayet",
+    "address": "Les marlettes Les marlettes - Fayet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau TCB FR - Saint-Quentin - 1 Av. Michel de l'Hospital BP 608",
+    "address": "1 Av. Michel de l'Hospital BP 608 - Saint-Quentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Z'AISNE Shopping - Saint-Quentin",
+    "address": "Rue Antoine Parmentier - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Concession BMW ST QUENTIN",
+    "address": "Zone d'Activités de la Vallée - St-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les 3 brasseurs - St Quentin",
+    "address": "182 Rue André Missenard - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue Archimède - Saint-Quentin",
+    "address": "Avenue Archimède - Saint-Quentin",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue Archimède - Saint-Quentin",
+    "address": "Avenue Archimède - Saint-Quentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue Archimède (Privé)",
+    "address": "6 Avenue Archimède - Saint-Quentin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

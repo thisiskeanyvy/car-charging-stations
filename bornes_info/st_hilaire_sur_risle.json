@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SE61 - Route de brethel - Aube",
+    "address": "5 Route de Brethel - Aube",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue de l'Ancienne Église - Sainte-Gauburge-Sainte-Colombe",
+    "address": "Rue de l'Ancienne Église - Sainte-Gauburge-Sainte-Colombe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rai - Rue Pierre Quentin",
+    "address": "Rue Pierre Quentin - Rai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Route principale, St Evroult",
+    "address": "Rue Principale - Saint-Evroult-Notre-Dame-du-Bois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - 3 Rue de St Evroult - Saint-Symphorien-des-Bruyères",
+    "address": "3 Rue de St Evroult - Saint-Symphorien-des-Bruyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Rue du 1er oct 1959, Les Aspres",
+    "address": "Rue du 1ER Octobre 1959 - Les Aspres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brico Marché - L’aigle",
+    "address": "16 Avenue du Mont Saint-Michel - L'Aigle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place saint laurent - Moulins-la-Marche",
+    "address": "Place Saint-Laurent - Moulins-la-Marche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Rue de la Merillière - L'Aigle",
+    "address": "29 Rue De La Merillière - L'Aigle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Centrakor - L'Aigle",
+    "address": "1 Avenue Comtesse de Ségur - L'Aigle",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Place de la mairie - Avenue de la Garonne - Saint Louis de Montferrand",
+    "address": "Avenue de la Garonne - Saint-Louis-de-Montferrand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue de Labarde 50 - Blanquefort",
+    "address": "Avenue de Labarde 50 - Blanquefort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pieces Auto - Avenue de la Libération",
+    "address": "2Q Avenue de la Libération - Ambarès-et-Lagrave",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - 44 Avenue Lucien Victor Meunier - Bassens",
+    "address": "44 Avenue Lucien Victor Meunier - Bassens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Super U - Bassens",
+    "address": "7\r\n Rue Camille Jullian\r\n - Bassens",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Electro Dépot",
+    "address": "2 Rue de l'Aire du Temps - Sainte-Eulalie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Qovoltis - Kyriad Bordeaux Nord - Sainte Eulalie",
+    "address": "113 avenue de l'Europe - Sainte Eulalie",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Avenue De La République - Bassens",
+    "address": "Avenue De La République - Bassens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Nissan - Avenue de Labarde - Bordeaux",
+    "address": "Avenue de Labarde - Bordeaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Cinéma - Sainte-Eulalie",
+    "address": "Rue Adrien Piquet - Sainte-Eulalie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

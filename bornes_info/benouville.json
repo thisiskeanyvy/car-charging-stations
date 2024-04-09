@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Super U - Blainville-sur-Orne",
+    "address": "1 Rue du Royal Norfolk - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - restaurant la Palmeraie Bénouville",
+    "address": "2 D35C - Bénouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - BLAINVILLE SUR ORNE (Rue Lamberville)",
+    "address": "Rue Lamberville - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Rue de la Vallée - Ranville",
+    "address": "Rue de la Vallée - Ranville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - BLAINVILLE SUR ORNE (Rue Maurice Hébert)",
+    "address": "Rue Maurice Hébert - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sevdec - Carrefour Contact - Ranville",
+    "address": "Rue petworth - Ranville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue du Caprice - Saint-Aubin-d'Arquenay",
+    "address": "Rue du Caprice - Saint-Aubin-d'Arquenay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - BIEVILLE BEUVILLE (Place de Margetshöchheim)",
+    "address": "Place de Margetshöchheim - Béville-beuville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Ouistreham",
+    "address": "Rue de Caen - Ouistreham",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "P-14150",
+    "address": "- Ouistreham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

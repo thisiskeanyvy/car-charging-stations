@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FR*Y03 - Saint-Rémy-l'Honoré - Rue Saint-Nicolas",
+    "address": "Rue Saint-Nicolas - Saint-Rémy-l'Honoré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Le Tremblay-sur-Mauldre - 2 Place de l'Eglise",
+    "address": "2 Place de l'Eglise - Le Tremblay-sur-Mauldre",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Maurepas - CC - Village des loisirs",
+    "address": "3 avenue Louis Pasteur - Maurepas",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Rue du Pavé - Le Tremblay-sur-Mauldre",
+    "address": "Rue du Pavé - Le Tremblay-sur-Mauldre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Allego - Nissan - Maurepas",
+    "address": "6bis Rue Alfred Kastler - Maurepas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - 8 Rue Alfred Kastler - Maurepas",
+    "address": "8 Rue Alfred Kastler - Maurepas",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - Kiabi - Maurepas",
+    "address": "9013 rond-point Laurent Schwartz - Maurepas",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan Maurepas - CC Pariswest",
+    "address": "12 Avenue Johannes Gutenberg - Maurepas",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue des Marchands - Coignières",
+    "address": "Rue des Marchands - Coignières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Route des Mousseaux - Jouars-Pontchartrain",
+    "address": "1072 Route des Mousseaux - Jouars-Pontchartrain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

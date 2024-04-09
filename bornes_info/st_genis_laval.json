@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - 18 Rue du 11 Novembre 1918 - Saint-Genis-Laval",
+    "address": "18 Rue du 11 Novembre 1918 - Saint-Genis-Laval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie de Saint Genis Laval",
+    "address": "106 Avenue Georges Clemenceau - Saint-Genis-Laval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue Ernest Auboyer - Saint-Genis-Laval",
+    "address": "18 Avenue Ernest Auboyer - Saint-Genis-Laval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parc relais TCL, Saint-Genis-Laval, Hôpital SUD",
+    "address": "17 Chem. de la Patinière - Saint-Genis-Laval",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Pierre-Bénite - 165 Chemin du Grand Revoyet",
+    "address": "165 Chemin du Grand Revoyet - Pierre-Bénite",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Saint-Genis-Laval (Porte 4)",
+    "address": "Avenue Charles de Gaulle - Saint-Genis-Laval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Genis-Laval - CC Saint Genis 2",
+    "address": "Avenue du Général de Gaulle - Saint-Genis-Laval",
+    "connectors": [
+      "x2",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auchan - Centre Commercial St Genis 2 - Saint-Genis-Laval",
+    "address": "Centre Commercial St Genis 2 - Saint-Genis-Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GEODE CONSEILS - Saint-Genis-Laval",
+    "address": "171 Route de Vourles - Saint-Genis-Laval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Jardin-concept",
+    "address": "3 Route du Dôme - Chaponost",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3
+  }
+]

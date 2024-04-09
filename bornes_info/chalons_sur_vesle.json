@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Complexe sportif - Route de Trigny - Muizon",
+    "address": "2 Route de Trigny - Muizon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Champagne Charles Heston",
+    "address": "20 D 330 - Villers-Franqueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Place des Lacs - Gueux",
+    "address": "5 Place des Lacs - Gueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Thilois",
+    "address": "1 Rue des Acacias - Thillois",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Champea Shopping Center",
+    "address": "D75 - Champigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A4 - Aire de Gueux (direction Paris)",
+    "address": "A4 - Vrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Repplus S.A.S.",
+    "address": "1 Rue Constant Dugras - Rosnay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A4 - Aire de Vrigny (direction Reims)",
+    "address": "A4 - Vrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Chateau d'Hermonville",
+    "address": "9 Rue Visin - Hermonville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nexans - Rue du 4 Août 1789",
+    "address": "Rue du 4 Août 1789 - Saint-Brice-Courcelles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

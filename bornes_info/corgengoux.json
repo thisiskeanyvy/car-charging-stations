@@ -1,0 +1,124 @@
+[
+  {
+    "title": "FR*LDL - Saint-Usage - Rue de l'Echelotte",
+    "address": "Rue de l'Echelotte - Saint-Usage",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Saint-Loup-Géanges",
+    "address": "48 Route de Beaune - Saint-Loup-Géanges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Levernois, rue du golf",
+    "address": "23 Rue Du Golf - Levernois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hostellerie de Levernois (Tesla et autres)",
+    "address": "15 Rue du Golf - Levernois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hostellerie Levernois - Rue Du Golf (Porsche)",
+    "address": "15 Rue Du Golf - Levernois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Citeos Beaune",
+    "address": "130 ZA des Bruottees - Vignoles",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de Challanges (Tesla)",
+    "address": "478 Rue des Templiers - Beaune",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Levernois | ZA Les Bonnes Filles",
+    "address": "ZA Les Bonnes Filles - Levernois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Beaune | Rue Gaston Chevrolet 14",
+    "address": "14 Rue Gaston Chevrolet - Beaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A36 Aire du Bois Guillerot (Direction Dole)",
+    "address": "2 A36 (La Comtoise) - Glanon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

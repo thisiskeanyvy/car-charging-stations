@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SE60 - Milly sur Thérain",
+    "address": "Rue de Dieppe - Milly-sur-Thérain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Mairie de Marseille en Beauvaisis",
+    "address": "82 Rue du Général Leclerc - Marseille-en-Beauvaisis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Marseille en Beauvaisis",
+    "address": "D901 - Marseille-en-Beauvaisis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Crevecoeur",
+    "address": "D149 - Crèvecœur-le-Grand",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Crèvecœur-le-Grand",
+    "address": "3 Av. du Général de Gaulle,\r\n - Crèvecœur-le-Grand",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Crèvecoeur le grand",
+    "address": "Place de L Hôtel de ville - Crèvecœur-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mouv'Oise - Rue de Calais - Troissereux",
+    "address": "44 Rue de Calais - Troissereux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - 2 Grande Rue Et Place Verte - Francastel",
+    "address": "2 Grande Rue Et Place Verte - Francastel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile (FR*S60) - Fouquenies - 32 Rue Des Marais",
+    "address": "32 Rue Des Marais - Fouquenies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'Oise - 44 rue de Beauvais - Savignies",
+    "address": "44 Rue de Beauvais - Savignies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

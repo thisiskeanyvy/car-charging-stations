@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Borne individuelle",
+    "address": "9 Rue Marius Jacotot - Puteaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l'hôtel de ville",
+    "address": "18 Rue Anatole France - Puteaux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking einchenberger",
+    "address": "46 Rue Eugène Eichenberger - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 23 rue Chante-coq - Puteaux",
+    "address": "23 rue Chante-coq - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - Boulevard Richard Wallace - Puteaux",
+    "address": "36 Boulevard Richard Wallace - Puteaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "parking godefroy",
+    "address": "4 Rue Godefroy - Puteaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Gras Savoye / Havas (employés et visiteurs)",
+    "address": "33 Quai de Dion Bouton - Puteaux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 30 quai Bouton - Puteaux",
+    "address": "30 Quai de Dion Bouton - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 31 rue Jean Jaurès - Puteaux",
+    "address": "33 Rue Jean Jaurès - Puteaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sigeif - 1 place du souvenir français - Puteaux",
+    "address": "4 Fernand Pelloutier - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

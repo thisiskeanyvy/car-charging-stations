@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sieil - Saint-Laurent-de-Lin",
+    "address": "12 Grande Rue - Saint-Laurent-de-Lin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking area Huttopia Lac de Rillé",
+    "address": "2–112 Pincemaille - Rillé",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - D49 - Rillé",
+    "address": "D49 - Rillé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Château la Vallière",
+    "address": "Place du Champ de Foire - Château-la-Vallière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Château-la-Vallière - Super U",
+    "address": "75 Avenue du Gén de Gaulle - Château-la-Vallière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IECharge - Couesmes - La Vallerie",
+    "address": "La Vallerie - Couesmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Rue de la gare - Savigné-sur-Lathan",
+    "address": "188 Rue de la Gare - Savigné-sur-Lathan",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Agence Tous Services",
+    "address": "2 Pont Joubert - Clère-les-Pins",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - 27 Boulevard des Écoles - Noyant-Villages",
+    "address": "27 Boulevard des Écoles - Noyant-Villages",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - Noyant - Rd 766 Mairie",
+    "address": "4 Route de Tours - Noyant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

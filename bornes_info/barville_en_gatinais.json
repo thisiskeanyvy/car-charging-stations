@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ENGIE Vianeo - A19 Aire du Loiret (double sens)",
+    "address": "D 975 - Juranville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDESM - Parking Salle polyvalente - Beaumont-du-Gâtinais",
+    "address": "5 Rue du Mail Est - Beaumont-du-Gâtinais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VIRTA - Place du martroi - Puiseaux",
+    "address": "7–13 Place du Martroi - Puiseaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Puiseaux - Rue Nieder Roden",
+    "address": "Rue Nieder Roden - Puiseaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Virta - Dadonville - Rue du Pressoir",
+    "address": "Rue du Pressoir - Dadonville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Briarres-sur-Essonne - Place des Déportés",
+    "address": "Place des Déportés - Briarres-sur-Essonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Pithiviers",
+    "address": "Saint-Éloi - Pithiviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pithiviers",
+    "address": "Saint-Éloi - Pithiviers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - Pithiviers-le-Vieil",
+    "address": "9 Rue André Eve - Pithiviers-le-Vieil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Pithiviers-le-Vieil - Bricomarché",
+    "address": "9 Rue André Eve - Pithiviers-le-Vieil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

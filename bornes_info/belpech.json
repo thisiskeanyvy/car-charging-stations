@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Place de l'Oratoire - Belpech",
+    "address": "Place de l'Oratoire - Belpech",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE09 - Chemin de Couloumier Mazères",
+    "address": "6 Chemin de Couloumier - Mazères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE09 - Bvd des Comtes de Foix - Mazères",
+    "address": "Boulevard des Comtes de Foix - Mazères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Garabaud - Mazères",
+    "address": "913 Garabaud - Mazères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Marengo - Salles-sur-l'Hers",
+    "address": "Place Marengo - Salles-sur-l'Hers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue des Commerces - Les Pujols",
+    "address": "2 Rue des Commerces - Les Pujols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - La Tour-du-Crieu - 1802 Chemin de Lasserre",
+    "address": "1802 Chemin de Lasserre - La Tour-du-Crieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Calmont, Rue du Stade",
+    "address": "Rue du Stade - Calmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Route de Mirepoix - Pamiers",
+    "address": "Route de Toulouse - Pamiers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Village Automobile - Pamiers",
+    "address": "Village Automobile - Pamiers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Soregies - Ville haute Chauvigny - cimetiere",
+    "address": "Rue Porte Chevreau - Chauvigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Sorégies - Rue du Banfora - Chauvigny",
+    "address": "Rue du Banfora - Chauvigny",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place du Marché",
+    "address": "Place du Marché - Chauvigny",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Soregies - Chauvigny (Gymnase jean lathus)",
+    "address": "14 Avenue de la Vienne - Chauvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bornes Solutions - Renault - Chauvigny",
+    "address": "49 Rue de Poitiers SODAC des Nations - Chauvigny - Chauvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Complexe sportif Le Peuron - Chauvigny",
+    "address": "Rue de Peuron - Chauvigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Jardres - SCI LTE",
+    "address": "ZA La Carte - Jardres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA5 - La Bussière - La Bertholière",
+    "address": "La Bertholière - La Bussière",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Jardres",
+    "address": "151 Rn La Carte - Jardres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking Leclerc - RN-La Carte - Jardres",
+    "address": "151 La Carte - Jardres",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

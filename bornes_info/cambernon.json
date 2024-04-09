@@ -1,0 +1,136 @@
+[
+  {
+    "title": "McDonald's - Coutances",
+    "address": "Route de Carentan - Coutances",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - 3 Rue de la Guérie - Coutances",
+    "address": "3 Rue de la Guérie - Coutances",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Coutances BodemerAuto",
+    "address": "Route de Saint Lô - Coutances",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Coutances",
+    "address": "Avenue Division Leclerc - Coutances",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Coutances",
+    "address": "4 Rue Ernest Lelièvre - Coutances",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Coutances",
+    "address": "410 Avenue Division Leclerc - Coutances",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue Suisse Normande - Coutances",
+    "address": "8 Rue Suisse Normande - Coutances",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Coutances - Parking de la Croute 2",
+    "address": "Boulevard Jeanne Paynel - Coutances",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Gare de Coutances",
+    "address": "1 Place de la Gare - Coutances",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-charge 50 Saint-Sauveur-Lendelin - l'église",
+    "address": "7 Rue de l'Église - Saint-Sauveur-Lendelin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "La Grange B&B",
+    "address": "6 Impasse des Prés - Cuiry-lès-Chaudardes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Oulches-la-Vallée-Foulon",
+    "address": "Chemin des Dames - Oulches-la-Vallée-Foulon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue des Ecoles - Berry-au-Bac",
+    "address": "Rue des Écoles - Berry-au-Bac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chateau d'Hermonville",
+    "address": "9 Rue Visin - Hermonville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Center Parcs - Neuville-sur-Ailette",
+    "address": "Le Chemin de Chamouille - Neuville-sur-Ailette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking proche Mairie",
+    "address": "1 Rue Emile Wenz - Jonchery sur Vesle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 -  Place René Sarette-Rue Emile Wenz - Jonchery sur Vesle",
+    "address": "12 Place Rene Sarrette - Jonchery-sur-Vesle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A26 Aire Mont de Nizy (direction Reims)",
+    "address": "Autoroute des Anglais - Juvincourt-et-Damary",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A26 Aire de Champ Roland (direction Amiens)",
+    "address": "20 Autoroute des Anglais - Guignicourt",
+    "connectors": [
+      "x7",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEM 51 - Rue du Docteur Genillon - Fismes",
+    "address": "Rue Docteur Genillon - Fismes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

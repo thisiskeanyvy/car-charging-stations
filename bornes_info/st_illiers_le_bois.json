@@ -1,0 +1,122 @@
+[
+  {
+    "title": "FR*Y03 - Bréval - Rue du Général Patton",
+    "address": "Rue du Général Patton - Bréval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*Y03 - Neauphlette - Rue des Loges",
+    "address": "Rue des Loges - Neauphlette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Bueil",
+    "address": "Rue de Milval - Bueil",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare de Bueil",
+    "address": "18 Rue de la Gare - Bueil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Primard",
+    "address": "1 Rue de Bueil - Guainville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT/FRWATLXTTABXWA",
+    "address": "1 Route de Bueil - Guainville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Ménerville - Place de la Gare",
+    "address": "Place de la Gare - Ménerville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco-pi - 2 N13 - Chaufour-lès-Bonnières - Hôtel Les Nymphéas",
+    "address": "2 N13 \r\n - Chaufour-lès-Bonnières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEYMABORNE - Route Nationale - La Villeneuve-en-Chevrie",
+    "address": "Route Nationale - La Villeneuve-en-Chevrie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Bonnières-sur-Seine",
+    "address": "1 Rue Jean François Feugere - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

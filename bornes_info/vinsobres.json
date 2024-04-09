@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDED - Passage de l'Amélie Vinsobres",
+    "address": "1-3 Passage de l'Amélie - Vinsobres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine le Pré Neuf",
+    "address": "Quartier Pré Neuf Pré Neuf - Vinsobres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de Nyons - Vinsobres",
+    "address": "Les Ratiers - Vinsobres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargeGuru - Hotel La Bastide Des Monges - Route d'Orange - Nyons",
+    "address": "1809 Route D’Orange - Nyons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Rue Ferdinand Fert, 245 - Nyons",
+    "address": "245 Rue Ferdinand Fert - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 31 Avenue de Venterol - Nyons",
+    "address": "31 Avenue de Venterol - Nyons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue Frédéric Mistral - Nyons",
+    "address": "63 Avenue Frédéric Mistral - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine de Provensol",
+    "address": "670 Route de Vinsobres - Venterol",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Nyons",
+    "address": "65 Route de Montélimar - Nyons",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Coopérative du Nyonsais - Nyons",
+    "address": "Coopérative du Nyonsais - Nyons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

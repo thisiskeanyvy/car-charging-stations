@@ -1,0 +1,122 @@
+[
+  {
+    "title": "EVBox - Citroën - Saint-Androny (privé)",
+    "address": "1 Route De La Mothe Taudiat - Saint-Androny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château du Pontet d'Eyrans",
+    "address": "33 route de Royan - Eyrans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Le Pontet Nord-Est, 21 - Eyrans",
+    "address": "21 Le Pontet Nord-Est - Eyrans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Air de camping-cars",
+    "address": "21 Rue du Stade - Cartelègue",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Avenue de la République, 29 - Braud-et-Saint-Louis",
+    "address": "29 Avenue de la République - Braud-et-Saint-Louis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Braud - parking de la CCE",
+    "address": "- Braud-et-Saint-Louis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint-Martin-Lacaussade",
+    "address": "9 Avenue Mercure - Saint-Martin-Lacaussade",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place des cônes Blaye",
+    "address": "1 Place des Cônes - Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Blaye",
+    "address": "Lieudit Chardonnet - Blaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Etauliers – Place des halles",
+    "address": "1 Place des Halles - Etauliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SMOYS - Ablon-Sur-Seine - espace culturel A. Poher",
+    "address": "Rue du docteur bernard leger - Ablon sur seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Metropolis Recharge - 32B Route de Villeneuve - Ablon-sur-Seine",
+    "address": "32B Route de Villeneuve - Ablon-sur-Seine",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Villeneuve-le-Roi",
+    "address": "Cours de Verdun - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMOYS - Avenue Paul Vaillant-Couturier - Villeneuve-le-Roi",
+    "address": "18 Avenue Paul Vaillant-Couturier - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault - Athis Mons",
+    "address": "90 Avenue Henri Dunant - Athis-Mons",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Corri-Door - Vigneux-sur-Seine - 4 Rue des Gaulois",
+    "address": "4 Rue des Gaulois - Vigneux-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Gare RER C d'Athis-Mons",
+    "address": "2 Place Jules Froelinger - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - Ford Zelus - Montgeron",
+    "address": "Rue du Bourbonnais - Montgeron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Gare RER C - Villeneuve-le-Roi",
+    "address": "Place de la gare - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Gare de Vigneux-sur-Seine",
+    "address": "3 Av. du Président Robert Lakota - Vigneux-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

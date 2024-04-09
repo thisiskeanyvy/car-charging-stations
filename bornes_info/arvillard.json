@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDES73 - La Rochette",
+    "address": "6 Avenue du Centenaire - Valgelon-La Rochette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Villard-Sallet",
+    "address": "Garage Mosca - Villard-Sallet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Musée d'Allevard",
+    "address": "8 Rue de la Libération - Allevard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "184 Voie Galilée Saint Hélène du Lac",
+    "address": "184 Voie Galilée - Saint Hélène du Lac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SPIE-CityNetworks - Savoie Libre Service - RN6 - ZA d'Arbin",
+    "address": "45 Route Nationale 6 - Arbin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel de Ville - Pontcharra",
+    "address": "95 Avenue De La Gare - Pontcharra",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel la Clé des Champs & Restaurant Le Cep Gourmand",
+    "address": "Chemin de la Digue - Montmélian",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Alpespace - Francin",
+    "address": "61 Voie Jean François Champolion - Porte-de-Savoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Montmélian",
+    "address": "219 Avenue du Gresivaudan - Montmélian",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Schneider electric Alpes - Voie Isaac Newton - Porte-de-Savoie",
+    "address": "103 Avenue Ampère - Porte-de-Savoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

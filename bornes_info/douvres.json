@@ -1,0 +1,126 @@
+[
+  {
+    "title": "WAAT - Calais - 950 Quai de la Loire",
+    "address": "950 Quai de la Loire - Calais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - 5-7 Rue Edmond Roche - Calais",
+    "address": "5-7 Rue Edmond Roche - Calais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "prise ubitricity parking P1",
+    "address": "1 av winston churchill - Calais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DBT Front de Mer parking P1 - Avenue Raymond Poincaré - Calais",
+    "address": "57 Avenue Raymond Poincaré - Calais",
+    "connectors": [
+      "x2",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Université du Littoral Côte d’Opale (ULCO)",
+    "address": "275 Rue du Pasteur Martin Luther-King - Calais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Hôtel de Ville de Calais",
+    "address": "10 Rue Jean Jaurès - Calais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking P5 - Digue Gaston Berthe",
+    "address": "287–519 Digue Gaston Berthe - Calais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Calais",
+    "address": "35 Rue de Maubeuge - Calais",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking P6 plage de Calais",
+    "address": "616 Rue du Maréchal de Lattre de Tassigny - Calais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Calais",
+    "address": "45 Rue Greuze - Calais",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

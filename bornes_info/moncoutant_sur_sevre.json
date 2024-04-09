@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Alterbase Séolis - Mairie de Moncoutant",
+    "address": "2 Place de l'Hôtel de ville - Moncoutant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Hôtel Restaurant Le Saint Pierre",
+    "address": "Rue de la Barillère - Moncoutant-sur-Sèvre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau Alterbase - Courlay - Salle des Fêtes",
+    "address": "Place de la Solidarité - Courlay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Mairie de La Forêt sur Sèvre",
+    "address": "1 Place Georges Clemenceau - La Forêt-sur-Sèvre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SÉOLIS - Saint-André-sur-Sèvre - Rue de la Sèvre Salle Omnisports",
+    "address": "Rue de la Sèvre Salle Omnisports - Saint-André-sur-Sèvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Absie Voyages",
+    "address": "20 Rue dit de la Sauzaie - L'Absie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "garage beausoleil automobiles",
+    "address": "77 rue de la republique - l absie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - L'Absie - Place de la Mairie",
+    "address": "30 Place du 14 juillet 1836 - L'Absie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alterbase Séolis - Mairie de Cerizay",
+    "address": "23 Avenue du Vingt Cinq Août - Cerizay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshemile - Hotel Le Cerizay",
+    "address": "19 Avenue du General Marigny - Cerizay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

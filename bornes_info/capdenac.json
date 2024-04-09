@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Izivia - Intermarché - Capdenac-Gare",
+    "address": "37 Boulevard Paul Ramadier - Capdenac-Gare",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - D208 - Capdenac",
+    "address": "Allée Champollion - Capdenac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sieda (Révéo) - Avenue Pasteur - Capdenac-Gare",
+    "address": "2 Avenue Pasteur - Capdenac-Gare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel Auberge de la Diège (Tesla et autres)",
+    "address": "2 Route de la Diège - Capdenac-Gare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - L'Aiguille - Figeac",
+    "address": "L'Aiguille - Figeac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Figeac Aéro",
+    "address": "lieu dit Etemps - Figeac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Parking Jean Jaures - Figeac",
+    "address": "6 Avenue Jean Jaurès - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "FDEL (Révéo) - Boulevard du Colonel Teulie - Figeac",
+    "address": "24 Boulevard du Colonel Teulié - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Figeac",
+    "address": "15\r\n Av. Président Georges Pompidou\r\n - Figeac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Avenue des Carmes - Figeac",
+    "address": "7 Avenue des Carmes - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

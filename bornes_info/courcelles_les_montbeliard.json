@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Powerdot - Intermarché Contact - Montbéliard",
+    "address": "15 Rue du Port - Montbéliard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Blancheries",
+    "address": "14 Rue des Blancheries - Montbéliard",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - 38 Rue du Général Leclerc - Montbéliard DOUBLON",
+    "address": "38 Rue du Général Leclerc - Montbéliard",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Velotte - Avenue des Alliés",
+    "address": "19\n Avenue des Alliés\n - Montbéliard",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de Alliès",
+    "address": "31 Avenue des Alliés - Montbéliard",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - 38 Rue du Général Leclerc - Montbéliard",
+    "address": "38 Rue du Général Leclerc - Montbéliard",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 53 avenue Chabaud Latour - Montbéliard",
+    "address": "53 avenue Chabaud Latour - Montbéliard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Superchargeur Tesla V3 - Leclerc - Montbéliard",
+    "address": "24 Rue Jacques Foillet - Montbéliard",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "R3 - Norauto - Montbéliard",
+    "address": "1 Rue Abraham Nicolas Couleru - Montbéliard",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Montbéliard",
+    "address": "29 Rue du Champ du Cerf - Montbéliard",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

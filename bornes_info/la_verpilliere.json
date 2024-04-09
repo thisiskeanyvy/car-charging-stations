@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Village de Marques/Parc Technologique Muissiat - D1006 - Villefontaine",
+    "address": "D1006 - Villefontaine",
+    "connectors": [
+      "x9",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Super U - La Verpilliere",
+    "address": "Rue de Picardie - La Verpillière",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue du Driève - Villefontaine",
+    "address": "118 Avenue du Drieve - Villefontaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Villefontaine - Hôtel Mercure Lyon l'Isle d'Abeau",
+    "address": "Parc Technologique, 20 Rue Antoine Condorcet - Villefontaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Recharge privée - Avenue Blaise Pascal",
+    "address": "Avenue Blaise Pascal - Vaulx-Milieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue Serge Mauroit - Villefontaine",
+    "address": "Rue Serge Mauroit - Villefontaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CORALLIS SQF",
+    "address": "21 Avenue des Arrivaux - Saint-Quentin-Fallavier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Saint-Quentin-Fallavier - 47 Rue Centrale",
+    "address": "47 Rue Centrale - Saint-Quentin-Fallavier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Matel Group",
+    "address": "18 rue d'Anjou - Saint-Quentin-Fallavier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking Gymnase - Vaulx-Milieu",
+    "address": "18 Rue des Écoles - Vaulx-Milieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

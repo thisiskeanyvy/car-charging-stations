@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEML - Le Plessis Grammoire - Rue St Gilles",
+    "address": "Rue Saint-Gilles - Le Plessis-Grammoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - PELLOUAILLES LES VIGNES - Impasse De La Chapelle",
+    "address": "Impasse de la Chapelle - Pellouailles-les-Vignes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "GROUPE COLISEE_FRANCE_ANDARD_5947_Pext_E",
+    "address": "Lieu dit La Roche Tinard - Loire-Authion",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Verrières-en-Anjou, Geodis",
+    "address": "18 Avenue Des Carreaux - Verrières-en-Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Verrières-en-Anjou - Le Millardière",
+    "address": "Le Millardière - Verrières-en-Anjou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Verrières-en-Anjou",
+    "address": "RD323 - Verrières-en-Anjou",
+    "connectors": [
+      "x1",
+      "x7",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SIEML - Sarrigne - Parking Mairie",
+    "address": "Rue Saint-Jean - Sarrigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - St Sylvain D'anjou - Rue De La Veillere",
+    "address": "Rue de la Veillère - Saint-Sylvain-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - La Béchalière - Verrières-en-Anjou",
+    "address": "La Béchalière - Verrières-en-Anjou",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avia - A11 Aire de Portes d'Angers Nord (direction Angers)",
+    "address": "A11\r\n - Verrières-en-Anjou",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

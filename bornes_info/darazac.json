@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Rue des Tours de Merle - Saint-Privat",
+    "address": "12 Rue des Tours de Merle - Saint-Privat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Place Docteur Raoul Peuch - Marcillac-la-Croisille",
+    "address": "3 Place du Docteur Raoul Peuch - Marcillac-la-Croisille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - Place d'Empeyssine - Pleaux",
+    "address": "Place d'Empeyssine - Pleaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiVE - Avenue Victor Hugo - Argentat-sur-Dordogne",
+    "address": "7 Avenue Victor Hugo - Argentat-sur-Dordogne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zephyre - 13 Avenue Joseph Vachal - Argentat-sur-Dordogne",
+    "address": "13 Avenue Joseph Vachal - Argentat-sur-Dordogne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FRESHMILE - Ambulances BILLY (24/7)",
+    "address": "33 Avenue Foch - Argentat-sur-Dordogne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Allée du Domaine de Sédières - Clergoux",
+    "address": "Allée du Domaine de Sédières - Clergoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Camps-Saint-Mathurin-Léobazel",
+    "address": "9 D13 - Camps-Saint-Mathurin-Léobazel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GIMEL-LES-CASCADES - LE BOURG",
+    "address": "Le Bourg - Gimel-les-Cascades",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - A89 Aire de la Corrèze (double sens)",
+    "address": "1206 Route du Mémorial - Vitrac-sur-Montane",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Rossini Energy/Golf_Ruminghem",
+    "address": "1625 Rue Saint-Antoine - Ruminghem",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Audruicq - Carrefour Market",
+    "address": "1000 Avenue des Alliés - Audruicq",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Audruicq",
+    "address": "1000 Av. des Alliés, - Audruicq",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Avenue des Alliés - Audruicq",
+    "address": "770 Avenue des Alliés - Audruicq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Audruicq",
+    "address": "777 Avenue des allies - Audruicq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Recques-sur-Hem - 2 Avenue De Cocove",
+    "address": "2 Avenue De Cocove - Recques-sur-Hem",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - Cabinet de dentistes - Audruicq",
+    "address": "211 Rue Carnot - Audruicq",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Mairie de Nordausques",
+    "address": "Rue de la Mairie - Nordausques",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Rue du Château d'Eau - Audruicq",
+    "address": "Rue du Château d'Eau - Audruicq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Éperlecques | Résidence les Alouettes 8",
+    "address": "8 Résidence les Alouettes - Éperlecques",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

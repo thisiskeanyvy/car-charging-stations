@@ -1,0 +1,118 @@
+[
+  {
+    "title": "1 Rue Georges Leroux",
+    "address": "1 Rue Georges Leroux - Octeville-sur-Mer",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubitricity - Octeville-sur-Mer - Avenue Michel Adam",
+    "address": "Avenue Michel Adam - Octeville-sur-Mer",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE76 - Octeville-sur-Mer",
+    "address": "10 Rue René Coty - Octeville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking P+R tram le Grand Hameau",
+    "address": "Rue Hippocrate - Le Havre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubitricity - Le Havre - Rue Pauline Kergomard",
+    "address": "Rue Pauline Kergomard - Le Havre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*UBI - Le Havre - Allée Henri Wallon",
+    "address": "Allée Henri Wallon - Le Havre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Le Havre",
+    "address": "ZAC du Mont Gaillard Avenue du Grand Hameau - Le Havre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine Belle Etoile - Rue Henri Matisse - Montivilliers",
+    "address": "5 Rue Henri Matisse - Montivilliers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Cauville-sur-Mer",
+    "address": "Rue Saint-Nicolas - Cauville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ubitricity - Cauville-sur-Mer - Impasse de la Chesnaie",
+    "address": "Impasse de la Chesnaie - Cauville-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

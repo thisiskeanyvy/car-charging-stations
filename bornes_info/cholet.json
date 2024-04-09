@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEML - CHOLET - Rue Bourg Baudry - Parking",
+    "address": "1 Rue Salbérie - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - CHOLET - Rue Docteur Charles Coignard",
+    "address": "Rue Docteur Charles Coignard - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - CHOLET - Rue De L'Hotel De Ville",
+    "address": "Rue de l'Hôtel de ville - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - Boulevard Delhumeau Plessis - Cholet",
+    "address": "Boulevard Delhumeau Plessis - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - CHOLET - Place du 77ème Regiment d'Infanterie",
+    "address": "Place du 77ème Régiment d'Infanterie - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - CHOLET - Avenue de la Marne",
+    "address": "Avenue de la Marne - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "DRIVECO - BMW - Cholet",
+    "address": "53 Rue de la Jominière, - Cholet",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "mobilygreen - 16 Rue de Beauregard Pays de la Loire - Cholet",
+    "address": "16 Rue de Beauregard Pays de la Loire - Cholet",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Avenue de Nantes - Cholet",
+    "address": "100 Avenue de Nantes - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Cholet",
+    "address": "Square de la Nouvelle France Campanile Cholet - Cholet",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

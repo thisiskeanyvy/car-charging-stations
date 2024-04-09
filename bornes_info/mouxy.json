@@ -1,0 +1,128 @@
+[
+  {
+    "title": "E-Totem - Mairie de Mouxy",
+    "address": "5675F Montée du crêt - Mouxy",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A41 - Aire de Mouxy (direction Annecy)",
+    "address": "4 Chemin du Planchamp - Mouxy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Meublès du manoir",
+    "address": "5 Chemin de la Grimotière - Aix-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A41 Aire de Drumettaz (direction Chambéry)",
+    "address": "A41 - Drumettaz-Clarafond",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking de l'Hôtel de ville",
+    "address": "Place Maurice Mollard - Aix-les-Bains",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking de la Chaudanne - Aix-les-Bains",
+    "address": "31 Rue de la Chaudanne - Aix-les-Bains",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt Solutions - Casino d'Aix-les-Bains",
+    "address": "200 Rue du Casino - Aix-les-Bains",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golden Tulip - Aix les Bains (Tesla and others)",
+    "address": "16 Avenue Charles de Gaulle - Aix-les-Bains",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue Victoria - Aix les Bains",
+    "address": "7 Avenue Victoria - Aix-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EFFIA - Gare d'Aix les bains",
+    "address": "29 Avenue de Tresserve - Aix-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

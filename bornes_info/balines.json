@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Powerdot - Action - Verneuil d'Avre et d'Iton",
+    "address": "542 Rue Aristide Briand - Verneuil d'Avre et d'Iton",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Verneuil d'Avre et d'Iton",
+    "address": "370 Rue Aristide Briand - Verneuil d'Avre et d'Iton",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Verneuil d'Avre et d'Iton",
+    "address": "zone d'activité Du Point Rouge, Rue Félix Brard, - Francheville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE27 - Gare - Verneuil-sur-Avre",
+    "address": "160 Avenue Victor Hugo - Verneuil-sur-Avre",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Siege27 - Avenue du Maréchal Foch - Verneuil-sur-Avre et d'Iton",
+    "address": "Avenue du Maréchal Foch - Verneuil-sur-Avre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE27 - Office du Tourisme Verneuil sur Avre",
+    "address": "4 Rue de la Pomme d'Or - Verneuil-sur-Avre",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Av. du Mal Joffre - côté monument aux morts",
+    "address": "Avenue du Maréchal Joffre - Verneuil-sur-Avre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NW IEcharge - Verneuil d'Avre et d'Iton - Le Petit Mesnil",
+    "address": "Le Petit Mesnil - Verneuil d'Avre et d'Iton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché Verneuil sur Avre (Tesla et autres)",
+    "address": "460 Route de Mortagne - Verneuil-sur-Avre",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Verneuil sur Avre",
+    "address": "460 Route de Mortagne - Verneuil-sur-Avre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SCI de Fontenay",
+    "address": "37 rue de fontenay - Bagneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Bagneux - 12 Avenue Du Général De Gaulle",
+    "address": "12 Avenue Du Général De Gaulle - Bagneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Rue René Cros - Bagneux",
+    "address": "côté pair 65 Rue René Cros - Bagneux",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AM7 - Suez (Bagneux-Châtillon-Montrouge)",
+    "address": "22 Avenue Jean Jaurès - Bagneux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orange Garden - Châtillon",
+    "address": "71 Boulevard de la Liberté - Châtillon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 50 Avenue de Garlande - Bagneux",
+    "address": "50 Avenue de Garlande - Bagneux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Avenue Lombart - Fontenay-aux-Roses",
+    "address": "avenue Lombart - Fontenay-aux-Roses",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - 62 Rue des Meuniers - Bagneux",
+    "address": "62 Rue des Meuniers - Bagneux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - rue du Dr Albert Scheitzer - Bagneux",
+    "address": "8 Place des Bas Longchamps - Bagneux",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking du Marché - Avenue de Verdun",
+    "address": "3-5 Avenue de Verdun - Fontenay-aux-Roses",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

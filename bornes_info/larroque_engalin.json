@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE32 - Boulevard Lacave - La Romieu",
+    "address": "2 Boulevard Lacave - La Romieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - La Poste",
+    "address": "Place Descamps - Lectoure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarche - Lectoure",
+    "address": "6064 Route d'Agen - Lectoure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - N21 Le Relais - Sainte-Mère",
+    "address": "N21 - Sainte-Mère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEE47 (MObiVE) - Place André Routier Astaffort",
+    "address": "30 Place André Routier - Astaffort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping des 3 Vallées - Lectoure",
+    "address": "- Lectoure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Condom",
+    "address": "Rue Bonnemaison - Condom",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - Rue Jean Jaures, Condom",
+    "address": "1 Rue Jean Jaurès - Condom",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Condom",
+    "address": "39 Avenue des Pyrénées - Condom",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lumi'in - La Brette - Condom",
+    "address": "La Brette - Condom",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Rue d'en Haut - Thoix",
+    "address": "1 Rue d'en Haut - Thoix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de la Gare - Conty",
+    "address": "Rue de la Gare - Conty",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Poix-de-Picardie",
+    "address": "2 Rue de Menesvillers - Poix-de-Picardie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Route de Crèvecoeur",
+    "address": "8 Route de Crèvecoeur - Grandvilliers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 Gare - Hameau Saint-Pierre - Poix-de-Picardie",
+    "address": "24 Hameau Saint-Pierre - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDE 80 - Place de la République - Poix-de-Picardie",
+    "address": "21 Place de la République - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mouv' Oise - Grandvilliers",
+    "address": "32 Place Barbier - Grandvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Grandvilliers",
+    "address": "56B Rue Eugène de Saint-Fuscien - Grandvilliers",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Communauté de commune Somme Sud Ouest - Poix-de-Picardie",
+    "address": "16 bis Rte d'Aumale - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Crèvecoeur le grand",
+    "address": "Place de L Hôtel de ville - Crèvecœur-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Parking Napoleon - Place Napoléon Bonaparte - Fontainebleau",
+    "address": "Place Napoléon Bonaparte - Fontainebleau",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Ferrare - Fontainebleau",
+    "address": "3 Rue de Ferrare - Fontainebleau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - 39 Boulevard Magenta - Fontainebleau",
+    "address": "39 Boulevard Magenta - Fontainebleau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bornes nouveau parking hôpital",
+    "address": "55 Boulevard du Maréchal Joffre - Fontainebleau",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 2 Rue René Quinton - Fontainebleau",
+    "address": "2 Rue René Quinton - Fontainebleau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Zephyre - Mercure Demeures de Campagne Château de Fontainebleau",
+    "address": "41 Rue Royale - Fontainebleau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "INSEAD - Fontainebleau (Réservé aux participants)",
+    "address": "1 Boulevard de Constance - Fontainebleau",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CEDEP - Fontainebleau",
+    "address": "Boulevard de Constance - Fontainebleau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNSD - Avon (Privé)",
+    "address": "23-25 Rue des Archives - Fontainebleau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la gare de Fontainebleau-Avon",
+    "address": "1 Rue de la Petite Vitesse - Avon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

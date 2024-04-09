@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEF - Rue du Faouët - Tréméven",
+    "address": "46 Rue du Faouët - Tréméven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Quimperlé",
+    "address": "119 Rue du Couëdic, - Quimperlé",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Place du Barzaz Breizh - Quimperlé",
+    "address": "1 Place du Barzaz Breizh - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Gare de Quimperlé P2",
+    "address": "Boulevard de la Gare - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEF - Quimperlé (Place Winston Churchill)",
+    "address": "Place Winston Churchill - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Mellac (Ty Bodel)",
+    "address": "Pôle d'activité Kervidanou - Mellac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford - Quimperlé",
+    "address": "NARA 1 - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Quimperlé",
+    "address": "201 Rue de Pont-Aven - Quimperlé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LIDL - Rue de Kervail",
+    "address": "Rue de Kervail - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Mellac - Kervidanou",
+    "address": "3 Pole d'Activites Kervidanou 3 - Mellac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "991 Route de Soirin",
+    "address": "991 Route de Soirin - Traize",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Collège",
+    "address": "226 Rue De Pré Rampeau - Novalaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint - Atmosphères - Le Bourget-du-Lac",
+    "address": "618 Route des Tournelles - Le Bourget-du-Lac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 (Eborn) - Le Bourget du Lac - Rue du Vert Village",
+    "address": "2 Rue du Vert Village - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Boulevard du Lac - Le Bourget-du-Lac",
+    "address": "174 Boulevard du Lac - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Restaurant Lamartine (Porsche)",
+    "address": "RN 504 - Route du Tunnel du Chat - Bourdeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Technolac - Le Bourget-du-Lac",
+    "address": "13 Rue du Lac Majeur - Le Bourget-du-Lac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVMap - Le Bourget-du-Lac - 14 Avenue du Lac du Bourget",
+    "address": "14 Avenue du Lac du Bourget - Le Bourget-du-Lac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDES73 - Rue du Lac Majeur Le Bourget-du-Lac",
+    "address": "16 Avenue du Lac du Bourget - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Yenne",
+    "address": "615 Route de Chambéry, - Yenne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEY - Place du Commerce Flogny-la-Chapelle",
+    "address": "11 Place du Commerce - Flogny-la-Chapelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 3 Rue des Quatre Vents",
+    "address": "3 Rue des Quatre Vents - Lignières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "15 Rue du Bois - Chéu",
+    "address": "15 Rue du Bois - Chéu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Rue du Moulin Jacotot",
+    "address": "4 Rue du Moulin Jacotot - Chessy-les-Prés",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Beugnon - Rue Neuve",
+    "address": "Rue Neuve - Beugnon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA 10/Bernon/Rue Grande Rue/13",
+    "address": "13 Rue Grande Rue - Bernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 1 Rue du Tré - Ervy-le-Châtel",
+    "address": "1 Rue du Tré - Ervy-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEY - Avenue de Chablis",
+    "address": "13 Avenue de Chablis - Ligny-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EVBox - Avenue de Geneve 13 - Saint-Florentin",
+    "address": "Avenue de Geneve 13 - Saint-Florentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Leclerc - Tonnerre",
+    "address": "1 Route de Paris - Tonnerre",
+    "connectors": [
+      "x1",
+      "x4",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

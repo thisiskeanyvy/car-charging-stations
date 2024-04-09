@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SEDI - Saint-Geoire-en-Valdaine",
+    "address": "Place André Chaize - Saint-Geoire-en-Valdaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Fricker Conception Ingenierie (privé)",
+    "address": "1204 Route des Rivoires - Saint-Sulpice-des-Rivoires",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Lac De Paladru - Parking de la plage",
+    "address": "7 Chemin de l'Ayettaz - Villages du Lac de Paladru",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl Charancieu",
+    "address": "40 Route de Pré Noir - Charancieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chambre d'hôtes Les balcons du lac",
+    "address": "145 Chemin de Beluran - Le Pin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking l'entrepot du Bricolage",
+    "address": "Avenue du Baron de Crousaz - Le Pont-de-Beauvoisin",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Pont de Beauvoisin - Intersport",
+    "address": "Avenue du Baron de Crousaz - Le Pont-de-Beauvoisin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - ZI des Blanchisseries - VOIRON",
+    "address": "ZI des Blanchisseries - VOIRON",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Hyper U - Le Pont-de-Beauvoisin",
+    "address": "D921E - Le Pont-de-Beauvoisin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Parking de la Poste - Le Pont-de-Beauvoisin",
+    "address": "12 Avenue Charles Gabriel Pravaz - Le Pont-de-Beauvoisin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hotel-Restaurant LE CHATARD (privé)",
+    "address": "1bis Allée du Mas - Sarcey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Place de la Tardivière - Bully",
+    "address": "Place de la Tardivière - Bully",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Dacia Renault - Pontcharra-sur-Turdine",
+    "address": "Pré Vincent - Pontcharra-sur-Turdine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Saint-Loup",
+    "address": "248 Montée de Vindry - Saint-Loup",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - L'Arbresle",
+    "address": "366 Route de Sain-Bel - L'Arbresle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour Market - L'Arbresle",
+    "address": "1560 Rue Claude Terrasse - L'Arbresle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Éveux",
+    "address": "1251–1367 Rue Claude Terrasse - Éveux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 427 Chemin De Chanzé - Vindry-sur-Turdine INEXISTANT",
+    "address": "427 Chemin De Chanzé - Vindry-sur-Turdine",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*EFL - Vindry sur Turdine - Chemin de Chanzé 427",
+    "address": "Chemin de Chanzé 427 - Vindry sur Turdine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "chateau de ronziere",
+    "address": "240 Allee du Chateau - Saint-Forgeux",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

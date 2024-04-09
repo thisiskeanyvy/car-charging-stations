@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Powerdot - LE QUESNOY - Match",
+    "address": "42 Rue Désiré Tanis, 59530 Le Quesnoy, Fran - LE QUESNOY",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "PassPass - Rue Juhel - Le Quesnoy",
+    "address": "16 Rue Juhel - Le Quesnoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "PassPass Electrique - Le Quesnoy - Avenue de la Gare Parking de la gare",
+    "address": "Avenue de la Gare - Le Quesnoy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*H16 - Locquignol - Route du Quesnoy Pature d'Haisne",
+    "address": "Route du Quesnoy Pature d'Haisne - Locquignol",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/EstaminetEauQuiGnole",
+    "address": "3 Route du Quesnoy - Locquignol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Solesmes - Rue du Général de Gaulle",
+    "address": "Rue du Général de Gaulle - Solesmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue Georges Bizet - ,Solesmes",
+    "address": "9 Rue Georges Bizet - Solesmes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*H16 - Villereau - Ruelle Bataille",
+    "address": "Ruelle Bataille - Villereau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - SuperU - St Python",
+    "address": "34 Rue Suzanne Buisson - Solesmes",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Landrecies - Avenue de la Légion d'Honneur",
+    "address": "4 Avenue de la Légion d'Honneur \r\n - Landrecies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "e-born - Route de Saint-Julien - Etrembières",
+    "address": "35 Route de Saint-Julien - Etrembières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Migros - Etrembières",
+    "address": "21 Rue de l'Industrie - Étrembières",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Bricorama - Gaillard",
+    "address": "6 Rue René Cassin - Gaillard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - 21 Rue de l'Industrie - Etrembières",
+    "address": "21 Rue de l'Industrie - Etrembières",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - Hôtel Mercure - Gaillard",
+    "address": "9 rue des jardins - Gaillard",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Gaillard - Kyriad Direct Annemasse",
+    "address": "5 rue des Jardins - Gaillard",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Grand Casino d'Annemasse (Tesla and others)",
+    "address": "2 Avenue de l'Europe - Annemasse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota-Lexus - Gaillard",
+    "address": "8 Rue de l'Industrie - GAILLARD",
+    "connectors": [
+      "x7",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Chemin Chapelle - Mornex",
+    "address": "269 Chemin de la Chapelle (Mornex) - Monnetier-Mornex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Syane - Rue du 18 Août Gaillard",
+    "address": "7 Rue du 18 Août - Gaillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "FR*Y03 - Neauphle-le-Vieux - Rue de la Libération",
+    "address": "Rue de la Libération - Neauphle-le-Vieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Gare SNCF de Montfort l'Amaury-Méré",
+    "address": "11 Place Louis Valton - Méré",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "parking P1 gare montfort l'amaury",
+    "address": "12 Avenue du Pigeon Bleu - Méré",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mareil-le-Guyon - 4 Place Du Château",
+    "address": "4 Place Du Château - Mareil-le-Guyon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking gare villiers neauphle pontchartrain",
+    "address": "17–19 Rue de la Gare - Villiers-Saint-Fréderic",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Boissy-sans-Avoir - Rue de la Mairie",
+    "address": "Rue de la Mairie - Boissy-sans-Avoir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Méré",
+    "address": "3 Rue de Mareil - Méré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault VSF (Privé)",
+    "address": "42 42 route de beynes - Villiers saint Frederic",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Villiers-Saint-Frédéric - Route de Saint-Germain",
+    "address": "Route de Saint-Germain - Villiers-Saint-Frédéric",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auteuil le Roi | Rue des Sablons",
+    "address": "Rue des Sablons - Auteuil le Roi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

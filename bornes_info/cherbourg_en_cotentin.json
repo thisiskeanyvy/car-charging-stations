@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SDEM50 - Place Saint-Clément, 2bis - Cherbourg-Octeville",
+    "address": "51 Rue de l'Ingénieur Cachin - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Allée du Président Menut - Cherbourg-en-Cotentin",
+    "address": "Allée du Président Menut - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Mercure Cherbourg (Tesla and others)",
+    "address": "13 Quai de l'Entrepôt - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - 7 Rue des Tribunaux - Cherbourg-Octeville",
+    "address": "7 Rue des Tribunaux - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - CC Les Eleis (R+3) - Cherbourg en Cotentin",
+    "address": "27 Quai de l'Entrepôt - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEM50 - Rue Vintras, 32 - Cherbourg-Octeville",
+    "address": "39 Impasse Vintras - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEM50 - Rue François 1er - Cherbourg-Octeville",
+    "address": "1 Bis Rue Paul Doumer - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borne du Mc Donald - Cherbourg-Octeville",
+    "address": "101 Avenue Carnot - Cherbourg-Octeville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place Chantereyne",
+    "address": "Place Chantereyne - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEM50 - Rue du Général Leclerc - Tourlaville",
+    "address": "2 Rue du Général Leclerc - Tourlaville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

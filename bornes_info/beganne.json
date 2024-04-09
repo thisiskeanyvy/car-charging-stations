@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Morbihan énergies - Rue de la Mairie - Caden",
+    "address": "5 Rue de la Mairie - Caden",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D775 Allaire - Le Péron",
+    "address": "Le Péron - Allaire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Place Honoré Lelièvre - Allaire",
+    "address": "Place Honoré Lelièvre - Allaire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Bodeuc - Nivillac",
+    "address": "route de saint dolay - Nivillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - Saint-Dolay - Rue de Coueslan",
+    "address": "2 Rue de Coueslan - Saint-Dolay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Morbihan Energies - N165 Aire de Marzan",
+    "address": "Aire de Marzan - Marzan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Morbihan énergies - Place Saint-Gaudence - Péaule",
+    "address": "Place Saint-Gaudence - Péaule",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire du Temps",
+    "address": "2 Rue de Bellevue - Malansac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergie - Place de l'Eglise -Limerzel",
+    "address": "Place de l'Église - Limerzel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Nivillac - Bricomarché",
+    "address": "Boulevard de Bretagne - Nivillac",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

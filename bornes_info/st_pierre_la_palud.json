@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Place de la poste - Saint-Pierre-la-Palud",
+    "address": "4 Place de la Poste - Saint-Pierre-la-Palud",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - L'Arbresle",
+    "address": "1560 Rue Claude Terrasse - L'Arbresle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Éveux",
+    "address": "1251–1367 Rue Claude Terrasse - Éveux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - L'Arbresle",
+    "address": "366 Route de Sain-Bel - L'Arbresle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDER - 118 Rue de l'Eglise - Éveux",
+    "address": "118 Rue de l'Eglise - Éveux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 163 Chemin des Presles - Pollionnay",
+    "address": "163 Chemin des Presles - Pollionnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDER - Bessenay - Allée du Clos du Centre",
+    "address": "Allée du Clos du Centre - Bessenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Place Victor Hugo - L'Arbresle",
+    "address": "13 Rue du Docteur Dusserre - L'Arbresle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Place de l'Eglise - Lentilly",
+    "address": "10 Place de l'Église - Lentilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syder - 97 Rue Émile Zola",
+    "address": "97 Rue Émile Zola - L'Arbresle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

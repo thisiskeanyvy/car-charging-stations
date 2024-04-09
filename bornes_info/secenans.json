@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syndicat mixte d'Électricité du Doubs (SYDED) - Arcey - Arcey - Gymnase",
+    "address": "Arcey - Gymnase - Arcey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Relais des Moines - Villersexel",
+    "address": "1 rue du 13 septembre 1944 - Villersexel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DELTA SIED 70",
+    "address": "0 D4 - LYOFFANS",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue du Trou au Loup - Villersexel",
+    "address": "154 Rue du Trou au Loup - Villersexel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIED70 - Cimetière Lyoffans",
+    "address": "D 4 - Lyoffans",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le fournil de l'Isle et banette - L'Isle-sur-le-Doubs",
+    "address": "15 Rue Mal de Lattre de Tassigny - L'Isle-sur-le-Doubs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue De Lattre de Tassigny - L'Isle-sur-le-Doubs",
+    "address": "Rue De Lattre de Tassigny - L'Isle-sur-le-Doubs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - L'Isle-sur-le-Doubs - Place Aristide Briand",
+    "address": "Place Aristide Briand - L'Isle-sur-le-Doubs",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - L'Isle-sur-le-Doubs",
+    "address": "Avenue Foch - L'Isle-sur-le-Doubs",
+    "connectors": [
+      "x8",
+      "x9",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché L'Isle-sur-le-Doubs (Tesla and others)",
+    "address": "2 Place Aristide Briand - L'Isle-sur-le-Doubs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

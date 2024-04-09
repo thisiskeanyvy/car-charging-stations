@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Le Volcan des sens",
+    "address": "- Brugeilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Volcan des Sens",
+    "address": "Brugeilles - Torsiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SHELL - A75, Aire de Lafayette - Lorlanges",
+    "address": "A75, Aire de Lafayette - Lorlanges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE43 - Place Saint-Pierre - Blesle",
+    "address": "11 Rue Edouard Châtillon - Blesle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Agent Renault Tuffery - Massiac",
+    "address": "103 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand Hotel de la Poste",
+    "address": "26 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de la Gare - Massiac",
+    "address": "2 place faura - Massiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Lempdes-sur-Allagnon - Les Bonnes - Parking bureaux JorisIDE",
+    "address": "Les Bonnes - Lempdes-sur-Allagnon",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lempdes-sur-Allagnon - Les Bonnes - Parking usine JorsIDE",
+    "address": "Parking Joris Ide Auvergne – Les Bonnes - Lempdes-sur-Allagnon",
+    "connectors": [
+      "x2",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HÔTEL RESTAURANT EVAN",
+    "address": "33 avenue du stade - lempdes sur allagnon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

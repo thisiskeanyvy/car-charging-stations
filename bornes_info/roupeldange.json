@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Vinci - Boulay-Moselle - 1 Rue Général de Gaulle",
+    "address": "1 Rue Général de Gaulle - Boulay-Moselle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 25 rue Téophile Sombon - Boulay-Moselle (Privé)",
+    "address": "25 rue Téophile Sombon - Boulay-Moselle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Boulay-Moselle - 36 Rue Du Général De Rascas",
+    "address": "36 Rue Du Général De Rascas - Boulay-Moselle",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Boulay-Moselle - Rue Général Newinger",
+    "address": "Rue Général Newinger - Boulay-Moselle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Stations-e - Rue Robert Schuman - Freistroff",
+    "address": "68c Rue Robert Schuman - Freistroff",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Vaudreching - Rue Bernanos",
+    "address": "Rue Bernanos  - Vaudreching",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue d'Alzing - Bouzonville",
+    "address": "2 Rue d'Alzing - Bouzonville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Bouzonville - Place du Marché",
+    "address": "Place du mlarché - Bouzonville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Bouzonville - Rue Saint-Hubert",
+    "address": "Rue Saint-Hubert - Bouzonville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Falck - 1 Rue de la Gare",
+    "address": "1 Rue de la Gare - Falck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

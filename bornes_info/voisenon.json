@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDESM - Parking Maison Associations",
+    "address": "17-19 Rue des Écoles - Voisenon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge France - 272 Avenue Marc Jaquet - Melun",
+    "address": "272 Avenue Marc Jaquet - Melun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôpital - Avenue Marc Jacquet - Melun",
+    "address": "270 Avenue Marc Jacquet - Melun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rubelles",
+    "address": "5 Rue du Perré - Rubelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Melun",
+    "address": "300 Av. de l'Europe, - Vert-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Vert-Saint-Denis - Hôtel Campanile",
+    "address": "260 avenue de l'Europe - Vert-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "DRIVECO - Volvo - Vert-Saint-Denis",
+    "address": "48 Route Départementale 306 - Vert-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Toyota - Vert-Saint-Denis",
+    "address": "400 Impasse de l'Épinet - Vert-Saint-Denis",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 25 RD306 - Vert-Saint-Denis",
+    "address": "25 RD306 - Vert-Saint-Denis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - Route Nationale 6 - Vert-Saint-Denis",
+    "address": "39 Route Nationale 6 - Vert-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

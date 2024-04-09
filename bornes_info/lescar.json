@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Hôtel B&B - Rue Charles Moureu",
+    "address": "5 Rue Charles Moureu - Lescar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Lescar - B&B Hôtel",
+    "address": "5 Rue Charles Moureu - Lescar",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Autorecharge - Centrakor - Lescar",
+    "address": "136 Boulevard de l'Europe - Lescar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVzen - Norauto - Lescar",
+    "address": "Route de Bayonne - Lescar",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - BMW - Pau",
+    "address": "8 Avenue Santos Dumont - Lescar",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan Pau - Sud Auto (Privée)",
+    "address": "5 Avenue Santos Dumont - Lescar",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault Dacia Lescar - Avenue Santos Dumont",
+    "address": "5 Avenue Santos Dumont - Lescar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1 Avenue André-Marie Ampère",
+    "address": "1 Avenue André-Marie Ampère - Lescar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Pau Lescar",
+    "address": "Boulevard de l'Europe - Lescar",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - Carrefour - Lescar DOUBLON",
+    "address": "8 Rue Jean Jaurès - Lescar",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEML - Yzernay (Place du Comté de Colbert)",
+    "address": "Place du Comté de Colbert - Yzernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sarl Poudray (Privé)",
+    "address": "20 Rue du Comté de Champagny - Somloire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - MAULEVRIER - Rue Stofflet",
+    "address": "Place de la Mairie - Maulévrier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Alterbase Séolis - St Pierre des Echaubrognes - Centre",
+    "address": "6 Place Hubert - Saint-Pierre-des-Échaubrognes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage peugeot la cle des champs",
+    "address": "36 Rue de la Liberation - Nuaillé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Coron - Rue Eole",
+    "address": "Rue Eole - Coron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DAD informatique",
+    "address": "3 Rue du breuil lambert - Nuaille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Trementines - Rue Maurice Ravel",
+    "address": "Rue Maurice Ravel - Trémentines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Z.A.I. de l'Ecuyère Nord Rue de l'Aubance - Cholet",
+    "address": "6 Rue de l'Aubance - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - CC l’Autre Faubourg - Parking Sud-Est",
+    "address": "Rue Sorel Tracy - Cholet",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

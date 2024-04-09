@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Shell Recharge - A28 Aire du Domaine d'Harcourt (double sens)",
+    "address": "A28 - Malleville-sur-le-Bec",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Chateau De Boissey Le Châtel",
+    "address": "43 Allée de Tilly - Boissey-le-Châtel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Bosrobert",
+    "address": "9 Route de la Mairie - Bosrobert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Saint-Anselme - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Pierre Mendès France - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Route de Rouen - Bourgtheroulde-Infreville",
+    "address": "32 Route de Rouen - Bourgtheroulde-Infreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Residence - Route De Rouen - Bourgtheroulde-Infreville",
+    "address": "57 Route De Rouen - Bourgtheroulde-Infreville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Brionne",
+    "address": "Rue A et J Renoir, Rue du Cimetière, - Brionne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEGE27 - Salle des fêtes - Brionne",
+    "address": "1 Rue de la Soie - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Parking de la Gare - Brionne",
+    "address": "Rue du Général de Gaulle - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

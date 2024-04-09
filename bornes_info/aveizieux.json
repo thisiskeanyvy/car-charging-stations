@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Intermarche - Saint-Héand",
+    "address": "Les Chirottes - Saint-Héand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Boulevard Ravel de Malval - Saint-Héand",
+    "address": "Boulevard Ravel de Malval - Saint-Héand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "xtreme concept",
+    "address": "12 zone de la RicheLande - saint galmier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Boulevard Gabriel Cousin, 4 - Saint-Galmier",
+    "address": "4 Boulevard Gabriel Cousin - Saint-Galmier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking MJC centre de Fontanes",
+    "address": "2 Chemin du Cadran Solaire - Fontanes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Hôtel Spa La Charpinière - Saint-Galmier",
+    "address": "8 Chemin de la Charpinière - Saint-Galmier",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - ZA La Grande Route de Rivas - Chambœuf",
+    "address": "24 Route de Rivas - Chambœuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Chambœuf - Intermarché",
+    "address": "Route de Rivas ZA La Grande - Chambœuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "9 Avenue du Général de Gaulle",
+    "address": "9 Avenue du Général de Gaulle - Veauche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - A72 Relais des Coquelicots - Andrézieux-Bouthéon",
+    "address": "Impasse Dieudonné Coste - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

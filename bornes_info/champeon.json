@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE53 - Lassay-les-Châteaux - Allée du Haut Perrin",
+    "address": "Allée du Haut Perrin - Lassay-les-Châteaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Territoire d'énergie Mayenne (SDE53) - Aron - 2 La Briqueterie",
+    "address": "2 La Briqueterie - Aron",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Ambrières-les-Vallées - 1 Rue des Moulins",
+    "address": "1 Rue des Moulins - Ambrières-les-Vallées",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place Billard de Veaux - Ambrières",
+    "address": "6 Place Billard de Veaux - Ambrières-les-Vallées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Mayenne",
+    "address": "Avenue Gutenberg - Mayenne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Warein confection",
+    "address": "208 rue St Leonard - Mayenne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Scorps Informatique",
+    "address": "5 Rue Henri Dunant - Mayenne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue Dupont Grandjardin - Mayenne",
+    "address": "1 Avenue Paul Guyard - Mayenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Rue Volney - Mayenne",
+    "address": "184-506 Rue Volney - Mayenne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Mayenne",
+    "address": "21 Rue Louis Blériot - Mayenne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

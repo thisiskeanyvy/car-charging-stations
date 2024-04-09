@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MobiSDEC - Livarot (Place de la Mairie)",
+    "address": "Place Georges Bisson - Livarot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Livarot (Place Xavier de Maistre)",
+    "address": "3 Place Xavier de Maistre - Livarot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Livarot-Pays-d'auge - Renault",
+    "address": "99 Route de la Côte Fleurie - Livarot-Pays-d'auge",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Vimoutiers - Zone industrielle rue des Erables",
+    "address": "Zone industrielle rue des Erables - Vimoutiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Vimoutiers - Place du 13eme Arrondissement",
+    "address": "Rue Eugène Laniel - Vimoutiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Vimoutiers",
+    "address": "Rue des Combattants d'Afrique du Nord - Vimoutiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Mairie de Sainte-Marguerite de Viet",
+    "address": "41 Route De St Pierre Sur Dives - Vieux-Pont-en-Auge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Le vieux château - Le Renouard",
+    "address": "Le Vieux Château - Le Renouard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place du Musée - Camembert",
+    "address": "Place du Musée - Camembert",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Parking - Rue de Copplestone - Saint-Cyr-du-Ronceray",
+    "address": "30 Rue de Copplestone - Saint-Cyr-du-Ronceray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

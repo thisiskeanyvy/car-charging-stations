@@ -1,0 +1,124 @@
+[
+  {
+    "title": "USEDA - Rue Neuve / Rue de la Gare - Montcornet",
+    "address": "19 Rue de la Gare - Montcornet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Avenue Paul Doumer Vervins",
+    "address": "6 Avenue Paul Doumer - Vervins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*ETI - Vervins - Rue d'Hirson Zone d'Activités de la Briqueterie",
+    "address": "Rue d'Hirson Zone d'Activités de la Briqueterie - Vervins",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Prieuré (Tesla)",
+    "address": "Le Prieuré - Sainte-Preuve",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Barive (Tesla and others)",
+    "address": "1 Ferme de Barive - Sainte-Preuve",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue de Rozoy sur Serre - Chéry-lès-Rozoy",
+    "address": "2 Rue de Rozoy sur Serre - Chéry-lès-Rozoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "aire de dizy le gros",
+    "address": "19 Grande Rue - Dizy-le-Gros",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place Bailly - Liesse-Notre-Dame",
+    "address": "22 Place Bailly - Liesse-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "USEDA - Rozoy-sur-Serre",
+    "address": "10 Rue Gérard Adolphe Martin - Rozoy-sur-Serre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place de l'Hôtel de Ville, 12 - Sains-Richaumont",
+    "address": "12 Place de l'Hôtel de Ville - Sains-Richaumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

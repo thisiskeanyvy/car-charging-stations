@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEF - Telgruc-sur-Mer",
+    "address": "Rue des Pins - Telgruc-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc drive - Crozon",
+    "address": "1-8 D791 Route de Brest - Crozon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Route de l'Aber - Crozon",
+    "address": "Route de l'Aber - Crozon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LIDL - Boulevard Pierre Mendès France - Crozon",
+    "address": "15 Boulevard Pierre Mendès France - Crozon",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Crozon",
+    "address": "10 Rue de l'armorique - Crozon",
+    "connectors": [
+      "x8",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Ouest Charge - Lanvéoc - Rue de la Mairie",
+    "address": "Rue de la Mairie - Lanvéoc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Lanvéoc (Rue de la Mairie) SUPPRIMÉ",
+    "address": "Rue de la Mairie - Lanvéoc",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Crozon (Rue de la Marne)",
+    "address": "Rue de la Marne - Crozon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEF - Plomodiern (Place du 19 mars 1962)",
+    "address": "12 Rue de la Plage - Plomodiern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Le bachi",
+    "address": "82 boulevard de la France libre - Crozon",
+    "connectors": [
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Crédit Agricole - Plérin",
+    "address": "8 Rue de Verdun - Plérin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Plérin",
+    "address": "Zac du Plateau, 2 Rue du Grand Quartier - Plérin",
+    "connectors": [
+      "x4",
+      "x32"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Au Chêne Vert - (Tesla et autres)",
+    "address": "2 Rue de la Croix Lormel - Plérin",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Au Chene Vert (Tesla and others)",
+    "address": "2 Rue de la Croix Lormel - Plérin",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Plérin - Action",
+    "address": "2-12 Rue de la Croix Lormel - Plérin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 3 Rue Robert Schuman - Plérin",
+    "address": "3 Rue Robert Schuman - Plérin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Quay-Armez Saint Brieuc",
+    "address": "4 Quai Armez - Saint-Brieuc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - Plérin - SCM Ophtabaie",
+    "address": "8 Rue François Jacob - Plérin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôpital privé des Côtes-d'Armor",
+    "address": "10 Rue François Jacob - Plérin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rue Henri Servain - Saint-Brieuc (Privé)",
+    "address": "6 Rue Henri Servain - Saint-Brieuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

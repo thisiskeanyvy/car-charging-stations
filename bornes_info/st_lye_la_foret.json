@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ChargePoint - Super U - Neuville-aux-Bois",
+    "address": "3 Rue des Selliers - Neuville-aux-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - Rebréchien - 74 Rue du Haut Thibert",
+    "address": "74 Rue du Haut Thibert - Rebréchien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orléans Métropole - Eglise de Chanteau",
+    "address": "Route d'orléans - Chanteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - AS Hotel - Rue de Chartres",
+    "address": "29 Rue de Chartres - Artenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Orléans Métropole - Mairie de Marigny-les-Usages",
+    "address": "Place de l'Église - Marigny-les-Usages",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*CG0 - Marigny-les-Usages - 275 Allée du Ruet",
+    "address": "275 Allée du Ruet - Marigny-les-Usages",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pharmacie Hopital G Daumaizon",
+    "address": "Route de Chanteau - Fleury-les-Aubrais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rent a Car",
+    "address": "163 Rue Thomas Edison - Saran",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citeos - Fleury les Aubrais",
+    "address": "Rue des Foulons - Fleury les Aubrais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Saran",
+    "address": "2601 Route nationale - Saran",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

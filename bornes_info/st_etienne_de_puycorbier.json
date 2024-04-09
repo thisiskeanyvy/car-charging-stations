@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Powerdot - Saint-Médard-de-Mussidan - Super U",
+    "address": "29R2+HF Saint-Médard-de-Mussidan, France - Saint-Médard-de-Mussidan",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Rue Pasteur - Saint-Médard-de-Mussidan",
+    "address": "Rue Pasteur - Saint-Médard-de-Mussidan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 (MObiVE) - D6089 - Sourzac",
+    "address": "D6089 - Sourzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Gare - Mussidan",
+    "address": "9 Rue Raymond Villechanoux - Mussidan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 - La Jemaye-Ponteyraud - Lacalonie Etang La Jemaye",
+    "address": "Lacalonie Etang La Jemaye - La Jemaye-Ponteyraud",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Caviar de Neuvic (Tesla and others)",
+    "address": "862 La Grande Veyssière - Neuvic",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ô Délices de la Monnerie",
+    "address": "Lieu-dit \"La Monnerie\" - Bourgnac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Invelac",
+    "address": "31 Route du Grand Mur - Neuvic",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MObiVE) - Place du Chapdal - Neuvic",
+    "address": "Place du Chapdal - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Rue des Frères Pouget Neuvic",
+    "address": "440 Rue des Frères Pouget - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

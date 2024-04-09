@@ -1,0 +1,132 @@
+[
+  {
+    "title": "eborn - Route du Sud - Saint-Quentin-sur-Isère",
+    "address": "Route du Sud - Saint-Quentin-sur-Isère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - AS Autos - Tullins",
+    "address": "Route de Grenoble - Tullins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place Jean Jaurès - Tullins",
+    "address": "Place Jean Jaurès - Tullins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEDI - Moirans - Rue Mozart",
+    "address": "4 Rue Mozart - Moirans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - CER France publique - Rue du Rocher de Lorzier (Privé)",
+    "address": "122 Rue du Rocher de Lorzier - Moirans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 50 Rue des Étangs - Moirans",
+    "address": "50 Rue des Étangs - Moirans",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A48 - Aire de l'Île Rose (direction Grenoble)",
+    "address": "A48 - Voreppe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A48 Aire de Voreppe (direction Lyon)",
+    "address": "A48 - Voreppe",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Veurey-Voroize - Ducreux",
+    "address": "Allée de la Volla - Veurey-Voroize",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Avenue Honoré de Balzac - de Voreppe",
+    "address": "Avenue Honoré de Balzac - Voreppe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

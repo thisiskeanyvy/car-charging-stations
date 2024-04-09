@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Rue de Champeaux\t- Soignolles en brie",
+    "address": "11 Rue de Champeaux - Soignolles-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Solers - Rue de la Tournelle",
+    "address": "15 Rue de la Tournelle - Solers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue de Constantine",
+    "address": "Rue de Constantine - Coubert",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue Jean-Jaurès",
+    "address": "Rue Jean-Jaurès - Coubert",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place Roger Chauveau - Lissy",
+    "address": "9 Place Roger Chauveau - Lissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Grisy-Suisnes - Complexe Sportif",
+    "address": "6 Rue des Bois - Grisy-Suisnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDESM - Rue du Château d'Eau Limoges-Fourches",
+    "address": "7 Rue du Château d'Eau - Limoges-Fourches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Grisy-Suisnes - 2 Rue de la Légalité",
+    "address": "2 Rue de la Légalité - Grisy-Suisnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Évry-Grégy-sur-Yerre - Grande Rue",
+    "address": "Grande Rue - Évry-Grégy-sur-Yerre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - FIRALP Montereau-sur-le-Jard (Privé)",
+    "address": "Route du Camp - Montereau-sur-le-Jard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Izivia - Avenue Ardouin - Le Plessis Trévise",
+    "address": "12 Avenue Ardouin - Le Plessis-Trévise",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Mairie du Plessis-Trévise",
+    "address": "36 Avenue Ardouin - Le Plessis-Trévise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - 51-53 Avenue Ambroisine - Champigny-sur-Marne",
+    "address": "51-53 Avenue Ambroisine - Champigny-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "La Borne Bleue - 87 Avenue Salvador Allende - Champigny-sur-Marne",
+    "address": "93 Avenue Salvador Allende - Champigny-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking rodin - Champigny-sur-Marne",
+    "address": "Rue Rodin - Champigny-sur-Marne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Chennevières-sur-Marne",
+    "address": "Avenue Champlain - Chennevières-sur-Marne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "La borne bleue - Rue Pierre Curie",
+    "address": "Rue Pierre Curie - Champigny-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Castorama cheneviere",
+    "address": "Avenue du Pince Vent - Chennevières-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 71 Avenue Médéric - Noisy-le-Grand",
+    "address": "71 Avenue Médéric - Noisy-le-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour Ormesson - CC Pince-Vent - Route de Provins - Chennevières-sur-Marne",
+    "address": "85 Route de Provins - Chennevières-sur-Marne",
+    "connectors": [
+      "x5",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

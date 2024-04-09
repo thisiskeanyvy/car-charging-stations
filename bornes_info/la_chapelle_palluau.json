@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SyDEV - Espace Villeneuve - Route de Challans - Aizenay",
+    "address": "Rue de Malpartida de Caceres - Aizenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Place de la Mutualité Aizenay",
+    "address": "10 Rue de L Hôtel de ville - Aizenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarché Aizenay",
+    "address": "20 Route de St Gilles Croix de Vie - Aizenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Aizenay - Bowling",
+    "address": "Bowling - Aizenay",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Hyper U - Aizenay",
+    "address": "1 Rue de la Roche - Aizenay",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Aizenay",
+    "address": "2 Rue De La Clairière - Aizenay",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "location u - Aizenay",
+    "address": "125 Rue de la Roche - Aizenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydev - Rue de La Chapelle - Le Poire sur Vie",
+    "address": "Rue De La Chapelle - Le Poire Sur Vie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Rue de La Brachetière - LE POIRE SUR VIE",
+    "address": "Rue de la Bachetière - Le Poire Sur Vie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Cabanon",
+    "address": "1 Bord du Lac - Apremont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

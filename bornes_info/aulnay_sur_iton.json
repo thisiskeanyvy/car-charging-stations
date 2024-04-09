@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEGE27 - La Bonneville-sur-Iton",
+    "address": "Boulevard de Normandie - La Bonneville-sur-Iton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - Allée Louis Martin - Saint-Sébastien-de-Morsent",
+    "address": "Allée Louis Martin - Saint-Sébastien-de-Morsent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Rue Des Écoles - Saint-Sébastien-de-Morsent",
+    "address": "4 Rue Des Ecoles - Saint-Sébastien-de-Morsent",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Place de Navarre",
+    "address": "1 Place de Navarre - Évreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Café de la mairie",
+    "address": "8 Place bance - Claville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Entrée Piscine - Rue Jean Bouin",
+    "address": "Rue Jean Bouin - Évreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Évreux - Centre Hospitalier (parking salariés)",
+    "address": "Rue Léon Schwartzenberg - Évreux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc Drive - Rue Lavoisier",
+    "address": "893 Rue Lavoisier - Évreux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Evreux",
+    "address": "46 Avenue du Maréchal Foch - Évreux",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Siège 27 - De la rochette Evreux",
+    "address": "De la rochette - Evreux",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

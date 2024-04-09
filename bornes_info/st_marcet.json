@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SIEGE27 - Boulevard de Gaulle - Saint-Marcel",
+    "address": "Boulevard de Gaulle - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Intermarché - Saint-Marcel",
+    "address": "Boulevard Charles de Gaulle - Saint-Marcel",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Action / But - Rue des Prés",
+    "address": "37 Rue des Prés - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x7",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia-Express - CC Saint-Marcel",
+    "address": "39 Rue des Prés - Saint-Marcel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai - Saint Just",
+    "address": "13 Route de Rouen - Saint-Just",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - La Chapelle-Longueville",
+    "address": "10 Route de Rouen - La Chapelle-Longueville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - McDonalds - Vernon",
+    "address": "Rue du Virolet - Vernon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vernon - Leclerc",
+    "address": "Boulevard Jean Jaurès - VERNON",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - Vernon",
+    "address": "Boulevard Jean Jaurès - Vernon",
+    "connectors": [
+      "x3",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MSA PRIM - VERNON - SAINT-JUST",
+    "address": "15 Route de Rouen  RN - Saint Just",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

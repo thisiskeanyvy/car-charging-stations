@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Place de la Mairie - Machault",
+    "address": "1B Rue Alexandre Hazeaux - Machault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1 Rue Charles Hemmerlé",
+    "address": "1 Place de la Mairie - Monthois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Tribunal - Rue Gambetta",
+    "address": "34 Rue Gambetta - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDEA 08 - Rue du Champ de Foire - Vouziers N°2",
+    "address": "25 Rue du Champ de Foire - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "1 Rue Verlaine",
+    "address": "1 Rue Verlaine - Attigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fédération Départementale d'Energie des Ardennes - Avenue de Quimper - JUNIVILLE",
+    "address": "Avenue de Quimper - JUNIVILLE",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du 8 Mai 1945 - Betheniville",
+    "address": "3 Place Du 8 Mai 1945 - Bétheniville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Ponfaverger Moronvillers",
+    "address": "Le Chemin d'Hauvine - Pontfaverger-Moronvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEM 51 - Rue de la gare - Pontfaverger",
+    "address": "Rue de la gare - Pontfaverger-Moronvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Place René Boure - Grandpré",
+    "address": "Place René Boure - Termes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

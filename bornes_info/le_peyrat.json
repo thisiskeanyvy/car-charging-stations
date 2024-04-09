@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sdec - 2 Route de la Châtre - Genouillac",
+    "address": "2 Route de la Châtre - Genouillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Pouligny-Notre-Dame",
+    "address": "7 Allée de la Fontvieille - Pouligny-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Route De Bétête - Malleret-Boussac",
+    "address": "Route De Bétête - Malleret-Boussac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Poinsouze",
+    "address": "3 Poinsouze - Boussac-Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Place du Foirail - Bonnat",
+    "address": "1 Place du Foirail - Bonnat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "PowerDot - Intermarché - Bonnat",
+    "address": "13 Avenue de la Marché - Bonnat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Gite Bouret Nelly",
+    "address": "9 La Vergnolle - Roches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - 8 Impasse du Collège - Boussac",
+    "address": "8 Impasse du Collège - Boussac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Toulx-Sainte-Croix - Les Pierres Jaumatres Parking",
+    "address": "Les Pierres Jaumatres Parking - Toulx-Sainte-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Chalet des Pierres Jaumatres",
+    "address": "- TOULX SAINTE CROIX",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

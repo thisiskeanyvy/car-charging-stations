@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE24 - Campsegret (parking de la mairie)",
+    "address": "N21 - Campsegret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Aire de covoiturage Pombonne",
+    "address": "6 Rue du Coulobre - Bergerac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Bergerac",
+    "address": "47 Avenue Marceau Feyry - Bergerac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - Bergerac - 8 Rue Claude Bernard",
+    "address": "8 Rue Claude Bernard - Bergerac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E.Leclerc - 101 Avenue Pasteur - Bergerac",
+    "address": "101 Avenue Pasteur - Bergerac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue Pasteur 28 - Bergerac",
+    "address": "28 Avenue Pasteur - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Bergerac (Gare de Bergerac)",
+    "address": "9 Avenue du 108ème Régiment d'Infanterie - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE24 - Bergerac (rue Mounet Sully)",
+    "address": "15 Bis Rue Mounet Sully - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place louis de la bardonnie - Dordogne",
+    "address": "1–11 Place Louis de la Bardonnie - Dordogne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6668835",
+    "address": "6 Rue Gustave Eiffel - Bergerac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

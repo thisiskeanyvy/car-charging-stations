@@ -1,0 +1,140 @@
+[
+  {
+    "title": "CREA - Mairie de Tourville-la-Rivière",
+    "address": "Place de la Poste - Tourville-la-Rivière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - Tourville-la-Rivière - Avenue Gustave Picardie",
+    "address": "Avenue Gustave Picardie - Tourville-la-Rivière",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - Parc en Seine - Tourville la Riviere",
+    "address": "3 Parc en Seine - Tourville-la-Rivière",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour - Tourville-la-Rivière",
+    "address": "Avenue Gustave Picard - Tourville-la-Rivière",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Burger King - Tourville-la-Rivière",
+    "address": "Rue de l'Île Adam - Tourville-la-Rivière",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - Tourville-la-Rivière - 1 Rue Parc en Seine",
+    "address": "1 Rue Parc en Seine - Tourville-la-Rivière",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargeGuru - Tourville-la-Rivière - Audi Occasion",
+    "address": "1 Rue de l'Île du Bras Fallais - Tourville-la-Rivière",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc en Seine - Tourville la Rivière - Basic Fit / Espace 360",
+    "address": "11 Parc en Seine - Tourville la Rivière",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ikéa - Tourville La Rivière",
+    "address": "Avenue Gustave Picard - Tourville-la-Rivière",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IKEA - Tourville-la-Rivière (parking client)",
+    "address": "0 Avenue Gustave Picard - Tourville-la-Rivière",
+    "connectors": [
+      "x21",
+      "x21"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

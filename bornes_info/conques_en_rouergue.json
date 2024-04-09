@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEDA - Conques",
+    "address": "D42 - Conques",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEDA (Révéo) - Place de la Mairie - Grand-Vabre",
+    "address": "Place de la Mairie - Grand-Vabre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Rue des Canals Saint-Cyprien-sur-Dourdou",
+    "address": "5 Lotissement Hameau des Canals - Saint-Cyprien-sur-Dourdou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Curieux",
+    "address": "- Conques en Rouergue",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Parking place de la République - Firmi",
+    "address": "Rue de l'Étang - Firmi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les halles de la Découverte",
+    "address": "1 Zone Industrielle de Fontvergnes - Decazeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6582395",
+    "address": "20 Zone Industrielle de Fontvergnes - Decazeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Decazeville - Super U",
+    "address": "Rue de la Renaissance - Decazeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Avenue du 10 Août (Les Usines) Decazeville",
+    "address": "9001A Avenue du 10 Août - Decazeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Mc Donald's - Decazeville",
+    "address": "D840 - Decazeville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

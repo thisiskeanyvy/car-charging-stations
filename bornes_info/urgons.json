@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Sydec - Place du Tribunal - Saint-Sever",
+    "address": "Place du Tribunal - Saint-Sever",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Saint-Sever",
+    "address": "Rte de Pau, - Saint-Sever",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Intermarché - Saint-Sever",
+    "address": "Route de Mont de Marsan - Saint-Sever",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yes55 Charging - Saint Sever - chemin du frère",
+    "address": "chemin du frère - Saint Sever",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Abbaye de Maylis",
+    "address": "- Maylis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - D32 Mugron",
+    "address": "D32 - Mugron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking garage Larrouquis",
+    "address": "546 Route de Bellevue - Hagetmau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place Grammont - Hagetmau",
+    "address": "Place Gramont - Hagetmau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Avenue du Docteur Edouard Castéra Hagetmau",
+    "address": "Avenue du Docteur Edouard Castéra - Hagetmau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Hagetmau - 41 Chemin de Labraouste",
+    "address": "41 Chemin de Labraouste - Hagetmau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

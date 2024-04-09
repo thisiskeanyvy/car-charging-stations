@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Rossini Energy - La Garnache - 53 Rue du Faubourg Saint-Thomas",
+    "address": "53 Rue du Faubourg Saint-Thomas - La Garnache",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Mairie de La Garnache",
+    "address": "Place de la Mairie - La Garnache",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage De La Roche, Peugeot",
+    "address": "1 Rue Clément Ader - Machecoul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydégo - Boulevard Gabriel Reliquet - Machecoul",
+    "address": "6B Boulevard Gabriel Reliquet - Machecoul",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Machecoul",
+    "address": "Impasse des Iris - Machecoul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEV - Route de Nantes - Challans",
+    "address": "167 Route de Nantes - Challans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Challans",
+    "address": "135 Route de Nantes - Challans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricomarché - Rue des Artisans",
+    "address": "22 Rue des Artisans - Challans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - KIA LITTORAL - Route de Nantes - Challans",
+    "address": "Route de Nantes - Challans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Rue de Guitteny, 7 - Bouin",
+    "address": "7 Rue de Guitteny - Bouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

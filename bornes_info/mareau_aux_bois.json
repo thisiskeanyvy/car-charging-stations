@@ -1,0 +1,118 @@
+[
+  {
+    "title": "GARAGE ERAY",
+    "address": "11 Grande Rue - Chilleurs-aux-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Pithiviers le vieil",
+    "address": "13 Route de la Garenne - Pithiviers le vieil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Dadonville - Rue du Pressoir",
+    "address": "Rue du Pressoir - Dadonville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Pithiviers-le-Vieil - Bricomarché",
+    "address": "9 Rue André Eve - Pithiviers-le-Vieil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Intermarché - Pithiviers-le-Vieil",
+    "address": "9 Rue André Eve - Pithiviers-le-Vieil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Pithiviers",
+    "address": "Saint-Éloi - Pithiviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pithiviers",
+    "address": "Saint-Éloi - Pithiviers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Route de Bouzonville en Beauce - Pithiviers",
+    "address": "Route de Bouzonville en Beauce - Pithiviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Super U - Neuville-aux-Bois",
+    "address": "3 Rue des Selliers - Neuville-aux-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Begeval Paprec",
+    "address": "- Pithiviers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

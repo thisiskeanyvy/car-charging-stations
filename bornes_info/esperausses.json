@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SDET - Parking de la Mairie - Viane",
+    "address": "Chemin de Septval - Viane",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET (Révéo) - Route de Ferrières, 25 - Brassac",
+    "address": "25 Route de Ferrières - Brassac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET (Révéo) - La Ramade - Fontrieu",
+    "address": "La Ramade - Fontrieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Place Du Maquis",
+    "address": "2 Rue de la Fabrique - Vabre",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Saint-Pierre-de-Trivisy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET (Révéo) - D30 - Le Bez",
+    "address": "D30 - Le Bez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Lacaune - Avenue Georges Clémenceau",
+    "address": "4 Rue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Rapide) - Lacaune 2 -, Avenue Georges Clemenceau",
+    "address": "5 Avenue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Domaine de Saint-Michel",
+    "address": "Rue de la Balmette - Lacaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Anglès",
+    "address": "D 52 - Angles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

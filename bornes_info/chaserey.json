@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEA - Route de Quincerot Étourvy",
+    "address": "2 Route de Quincerot - Étourvy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA 10/Bernon/Rue Grande Rue/13",
+    "address": "13 Rue Grande Rue - Bernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 11 Rue des cannes - Cussangy",
+    "address": "11 Rue des cannes - Cussangy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - 20 Grande Rue - THOREY (89)",
+    "address": "20 Grande Rue - THOREY (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 3 Rue des Quatre Vents",
+    "address": "3 Rue des Quatre Vents - Lignières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Leclerc - Tonnerre",
+    "address": "1 Route de Paris - Tonnerre",
+    "connectors": [
+      "x1",
+      "x4",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEY - Mairie Tanlay - Rue Haute des Fossés",
+    "address": "3 Rue Haute des Fossés - Tanlay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Rue du Beaucaron Chaource",
+    "address": "15 Rue du Beaucaron - Chaource",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Chaource - Route de Troyes",
+    "address": "Route de Troyes - Chaource",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVMap - Tonnerre - Chemin des Jumeriaux",
+    "address": "Chemin des Jumeriaux - Tonnerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

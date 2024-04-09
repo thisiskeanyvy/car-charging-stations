@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE53 - Rue de Soulge - Bazougers",
+    "address": "Rue de Soulge - Bazougers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Chemin des Marzelles",
+    "address": "2 Chemin des Marzelles - Argentré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint network - Impasse du Chaintre - Montsûrs",
+    "address": "Impasse du Chaintre - Montsûrs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 2 Impasse Emile Salle - Montsûrs",
+    "address": "2 Impasse Emile Salle - Montsûrs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue des Charmes - Vaiges",
+    "address": "4 Rue des Charmes - Vaiges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Laval | Aire de Laval la Mayenne",
+    "address": "A81 - Laval",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de Saint-Cenere Montsûrs",
+    "address": "126-316 Rue de Saint-Cenere - Montsûrs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue du Maine - Bonchamp-lès-Laval",
+    "address": "Rue du Maine - Bonchamp-lès-Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A81 - Aire de la Mayenne (double sens)",
+    "address": "A81 - Bonchamp-lès-Laval",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ibis Budget Laval",
+    "address": "2 Bernard Palissy - Bonchamp-lès-Laval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

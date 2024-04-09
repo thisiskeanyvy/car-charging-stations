@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Logis L'Auberge de Larressingle - Coulomet - Larressingle",
+    "address": "Coulomet - Larressingle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - Boulevard du Nord - Valence-sur-Baïse",
+    "address": "Boulevard du Nord - Valence-sur-Baïse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps - Cave de Condom - 70 Avenue des Mousquetaires",
+    "address": "70 Avenue des Mousquetaires - Condom",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Condom",
+    "address": "Allée des mousquetaires - Condom",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Condom",
+    "address": "39 Avenue des Pyrénées - Condom",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aire de Camping Car - Valence-sur-Baïse",
+    "address": "Rue de Bel air - Valence-sur-Baïse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Rue Jean Jaures, Condom",
+    "address": "1 Rue Jean Jaurès - Condom",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Intermarché - Condom",
+    "address": "Rue Bonnemaison - Condom",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Avenue jean moulin",
+    "address": "6 Rue Fermanville - Gondrin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gîtes de Lagraulet du Gers (Tesla et autres EV)",
+    "address": "Au village - Lagraulet-du-Gers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

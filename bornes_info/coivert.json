@@ -1,0 +1,124 @@
+[
+  {
+    "title": "parc Val de Seugne",
+    "address": "3 Rue des Caraibes - Jonzac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Résidence Les Coteaux de Jonzac",
+    "address": "3 Zone d'aménagement concerté du Val de Seugne - Jonzac",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pierre&Vacances Les Rives de la Seugne - Jonzac",
+    "address": "- Jonzac",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ombrières - Jonzac",
+    "address": "Avenue Chanzy - Jonzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*WA5 - Jonzac - Boulevard René Gautret",
+    "address": "Boulevard René Gautret - Jonzac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du Château - Jonzac",
+    "address": "33 Place du Château - Jonzac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Restaurant de l'Ecu",
+    "address": "3 Place Fillaudeau - Jonzac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BODIN-RAUTUREAU",
+    "address": "7 Boulevard René Gautret - Jonzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gare de Jonzac",
+    "address": "2-12 Rue Alsace Lorraine - Jonzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Leclerc - Jonzac",
+    "address": "Avenue Mgr Chauvin - Jonzac",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  }
+]

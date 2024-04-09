@@ -1,0 +1,136 @@
+[
+  {
+    "title": "USEDA - Place de L Hôtel de ville, 1 - Vermand",
+    "address": "1 Place de L Hôtel de ville - Vermand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Bricoman - Fayet",
+    "address": "Les marlettes Les marlettes - Fayet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue des Marlettes - Fayet",
+    "address": "106 Rue des Marlettes - Fayet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V3 - Saint-Quentin",
+    "address": "4c Rue des Marlettes - Fayet",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Les 3 brasseurs - St Quentin",
+    "address": "182 Rue André Missenard - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Z'AISNE Shopping - Saint-Quentin",
+    "address": "Rue Antoine Parmentier - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Volvo - Saint Quentin",
+    "address": "171 Rue de la Chaussée Romaine - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Concession BMW ST QUENTIN",
+    "address": "Zone d'Activités de la Vallée - St-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Concession auto - Sas de l'alliance garage Nissan SUPPRIMÉ",
+    "address": "18 Rue Marcel Paul - Saint-Quentin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Saint-Quentin",
+    "address": "Rue Marcel Paul - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

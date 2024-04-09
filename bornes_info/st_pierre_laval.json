@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE53 - le Palyndrome - Laval",
+    "address": "25 Rue Albert Einstein - Laval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Laval",
+    "address": "60 Avenue De La Communauté Européenne - Laval",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - Place d'Avesnières - Laval (privé)",
+    "address": "24 Place d'Avesnières - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 11 Rue de Bruxelles - Laval",
+    "address": "11 Rue de Bruxelles - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Hall au Sommeil - Laval",
+    "address": "64 Rue de Berlin - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - La Jaunaie - Laval",
+    "address": "162 Avenue des Français Libres - Laval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Place de Hercé - Laval",
+    "address": "Place de Hercé - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault - Laval (rue vaufleury)",
+    "address": "27 rue vaufleury - Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Laval",
+    "address": "19 Boulevard Lucien Daniel - Saint-Berthevin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - La Croix des Landes - Saint-Berthevin",
+    "address": "La Croix des Landes - Saint-Berthevin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

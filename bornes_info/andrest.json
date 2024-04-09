@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Electricité Seine Aval - Bords de Seine - Boulevard Noël Marc Andrésy",
+    "address": "40 Boulevard Noël Marc - Andrésy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Place de la Gare - Andrésy",
+    "address": "Place de la Gare - Andrésy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Andrésy - 75 Rue du Maréchal Foch",
+    "address": "75 Rue du Maréchal Foch \r\n - Andrésy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEYMABORNE - Rue Charles Lehmann - Maurecourt",
+    "address": "7 Rue Charles Lehmann - Maurecourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Rue Camille Jenatzy - Achères",
+    "address": "Rue Camille Jenatzy - Achères",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Gare d'Achères",
+    "address": "1 Rue Jean Moulin - Achères",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hesion - Achères (privé)",
+    "address": "1 Allée de la Rhubarbe - Achères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Le garage du Parc",
+    "address": "2-4 Allée de la Rhubarbe - Achères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI Chanteloup-les-Vignes",
+    "address": "104 Rue d'Alentours - Chanteloup-les-Vignes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Rue des Communes - Achères",
+    "address": "28 Rue des Communes - Achères",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

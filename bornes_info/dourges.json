@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Dourges - 5 Place De La Gare",
+    "address": "5 Place De La Gare - Dourges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking de la Haute Deûle",
+    "address": "1 Rue de la Haute Deûle - Noyelles-Godault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEN - Voie du Grand Large - DOURGES",
+    "address": "Voie du Grand Large - Dourges",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Hénin-Beaumont",
+    "address": "1230 Boulevard Albert Schweitzer - Hénin-Beaumont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl Hénin Beaumont",
+    "address": "1004 Boulevard Albert Schweitzer - Hénin-Beaumont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Novotel - Lens Noyelles",
+    "address": "5000f Avenue De La République - Noyelles-Godault",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aushoping Noyelles Godault",
+    "address": "Ave de la republique - Noyelles Godault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - 68 Av. de la République - Noyelles-Godault",
+    "address": "68 Av. de la République - Noyelles-Godault",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - B&B Hôtel Lens Noyelles-Godault",
+    "address": "Rue de Beaumont - Noyelles-Godault",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto Noyelles-Godault",
+    "address": "1 Bd Maréchal Juin - Noyelles-Godault",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

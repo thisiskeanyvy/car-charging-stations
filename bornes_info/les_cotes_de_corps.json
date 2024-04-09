@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hotel Restaurant LA PETITE POSTE - Corps",
+    "address": "Rue des Fossés - Corps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking RN 85 - Corps",
+    "address": "N85 - Corps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sanctuaire Notre-Dame de la salette - La Salette",
+    "address": "Route du Sanctuaire - La Salette-Fallavaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking du Sanctuaire - La Salette-Fallavaux",
+    "address": "D212 - La Salette-Fallavaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de Grenoble - La Salle-en-Beaumont",
+    "address": "Route de Grenoble - La Salle-en-Beaumont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping de vallebonais",
+    "address": "15 Impasse du Lac - Valbonnais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Rue Principale, 995 - Valbonnais",
+    "address": "995 Rue Principale - Valbonnais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D985 - Saint-Firmin",
+    "address": "D985 face à la pharmacie - Saint-Firmin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syme05 - Parking sous la poste Saint-Firmin",
+    "address": "D216 - Saint-Firmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau les Herbeys",
+    "address": "Les Herbeys - Chauffayer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

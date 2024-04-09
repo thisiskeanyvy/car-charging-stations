@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEF - Saint-Evarzec (Rue de la Liberté)",
+    "address": "Rue de la Liberté - Saint-Évarzec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEF - Pleuven (Route de Quimper)",
+    "address": "2 Le Bourg Route de Quimper - Pleuven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CC Leclerc - Pleuven",
+    "address": "Zac De Penhoat Salaun Pole Commercial Quai 29 - Pleuven",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Norauto - Pôle Commercial Cascade",
+    "address": "7 Pôle Commercial Cascade - Fouesnant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Baie - Place Baie",
+    "address": "Place Baie - La Forêt-Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Armor Lux",
+    "address": "2 Rue louison Bobet - Quimper",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Fouesnant (Parking La Garenne)",
+    "address": "Rue des îles - Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Saint-Évarzec - Rue André Michelin",
+    "address": "Rue André Michelin - Saint-Évarzec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ARMOR LUX Parking - Chemin de Kerdroniou",
+    "address": "23 Chemin de Kerdroniou - Quimper",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Budget Quimper",
+    "address": "4 Allée Georges Lacombe - Quimper",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

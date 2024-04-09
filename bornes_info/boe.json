@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDESM - Allée du Château Mauregard",
+    "address": "15-17 Allée du Château - Mauregard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Moussy-le-Neuf - 16 Avenue des 22 Arpents",
+    "address": "16 Avenue des 22 Arpents - Moussy-le-Neuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de Lamaze Moussy",
+    "address": "2 Rue de Lamaze - Moussy-le-Neuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SHELL - A1 Aire de Vémars Est (Direction Senlis)",
+    "address": "Autoroute du Nord - Vémars",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A1 Aire de Vémars Est (direction Lille)",
+    "address": "A1 - Vémars",
+    "connectors": [
+      "x16",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Shell | Aire De Vemars Est",
+    "address": "A1 - Vémars",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Tereos",
+    "address": "Chemin des vignettes - Moussy-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - A1 Aire de Vémars Ouest (direction Paris)",
+    "address": "Aire de Vémars Ouest A1 - Vémars",
+    "connectors": [
+      "x2",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Courtyard Paris Roissy CDG (Tesla and others)",
+    "address": "Rue de la Chapelle - Le Mesnil-Amelot",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PARKING PASCHER ROISSY",
+    "address": "1 Rue de la Sucrerie - Villeron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

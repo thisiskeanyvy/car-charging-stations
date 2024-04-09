@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Izivia - Netto - Route de Dijon - Aiserey",
+    "address": "21 Route de Dijon - Aiserey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "O'SITOIT",
+    "address": "11 Rue Martin Lejeas - Aiserey",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Point ASTEIM",
+    "address": "22 Rue du Tissage - Brazey-en-Plaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Colruyt - Brazey-en-Plaine",
+    "address": "4 Rue du 8 Mai 1945 - Brazey-en-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'orme sully",
+    "address": "39 Route de Dijon - Thorey-en-Plaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ALDI - Genlis",
+    "address": "87 Avenue Du Général De Gaulle - Genlis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Général de Gaulle - Genlis",
+    "address": "3 Avenue Général de Gaulle - Genlis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cours Martyrs De La Résistance - Genlis",
+    "address": "7 Cours Martyrs De La Resistance - Genlis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Rue de la Tournelle - Rouvres en Plaine",
+    "address": "2 Rue de la Tournelle - Rouvres-en-Plaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Maison de l'agriculture",
+    "address": "Les Coulots - Bretenière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

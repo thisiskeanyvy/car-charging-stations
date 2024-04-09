@@ -1,0 +1,128 @@
+[
+  {
+    "title": "TotalEnergies - Route de Montluçon - FONTANIERES",
+    "address": "Route de Montluçon - FONTANIERES",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - 1 Rue Paul Doumer - Auzances",
+    "address": "1 Rue Paul Doumer - Auzances",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Place du Treix - Bellegarde-en-Marche",
+    "address": "Place du Treix - Bellegarde-en-Marche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Parking étang des Landes - Lussat",
+    "address": "Route de l'Étang des Landes - Lussat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping La Pouge",
+    "address": "6 Rue du Stade - Chambon-sur-Voueize",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Flot bleu / Intermarché",
+    "address": "2 Route d'Evaux les Bains - Chambon-sur-Voueize",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Médiathèque de Chambon-sur-Voueize",
+    "address": "3 Avenue Georges Clemenceau - Chambon-sur-Voueize",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SUPER U - Avenue de la République - Évaux-les-Bains",
+    "address": "55 Avenue de la République - Évaux-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du champs de foire - Evaux-les-bains",
+    "address": "7 avenue de la République - Evaux-les-bains",
+    "connectors": [
+      "x22"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Faubourg Saint-Bonnet - Évaux-les-Bains",
+    "address": "11 Faubourg Saint-Bonnet - Évaux-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

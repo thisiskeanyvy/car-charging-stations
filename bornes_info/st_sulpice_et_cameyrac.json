@@ -1,0 +1,124 @@
+[
+  {
+    "title": "FR*WA5 - Izon - 139 Avenue de Portes LES JARDINS DE JEANNE",
+    "address": "139 Avenue de Portes LES JARDINS DE JEANNE - Izon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Saint-Loubes",
+    "address": "Peligon - Saint-Loubès",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - 20 Chemin de Peligon - Saint-Loubès",
+    "address": "20 Chemin de Peligon - Saint-Loubès",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEEG33 - Mairie - Saint-Loubès",
+    "address": "16 Place de l'Hôtel de ville - Saint-Loubès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Mairie - Izon",
+    "address": "207 Avenue du Général de Gaulle - Izon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Beychac-et-Caillau - Route du Fileur",
+    "address": "Route du Fileur - Beychac-et-Caillau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Burger King - Beychac-et-Caillau",
+    "address": "25 Le Barbut - Beychac-et-Caillau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ECOPARK - Avenue du Périgord",
+    "address": "31 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Sainte-Eulalie",
+    "address": "12 Rue Eugène Côtelette - Sainte-Eulalie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Pompignac - 25 Avenue du Périgord",
+    "address": "25 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

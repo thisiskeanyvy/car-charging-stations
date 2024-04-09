@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Belib - Rue de Chanaleilles - Paris",
+    "address": "Rue de Chanaleilles - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 21 Boulevard des Invalides - Paris",
+    "address": "21 Boulevard des Invalides - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Ubeeqo - 32 boulevard des Invalides Paris",
+    "address": "32 boulevard des Invalides - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 9 avenue de Villars 75007 Paris",
+    "address": "9 Avenue de Villars - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Marie du 7ème (Privé)",
+    "address": "116 Rue de Grenelle - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ville de Paris - Boulevard des Invalides - Paris",
+    "address": "Boulevard des Invalides - Paris",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 6 Place du Président Mithouard - Paris",
+    "address": "6 Place du Président Mithouard - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - Rue Constantine - Paris",
+    "address": "Rue Constantine - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - Rue du Bac - Paris",
+    "address": "Rue du Bac - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 2 Rue de Martignac - Paris",
+    "address": "2 Rue de Martignac - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

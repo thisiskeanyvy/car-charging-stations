@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SYANE - Rue de la Tiolettaz Anthy-sur-Léman",
+    "address": "4 Rue de la Tiolettaz - Anthy-sur-Léman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - Thonon",
+    "address": "7 Route Impériale - Anthy-sur-Léman",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ford - 7 Route Impériale - Anthy-sur-Léman",
+    "address": "7 Route Impériale - Anthy-sur-Léman",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt Solutions - Anthy-sur-Léman - Citroën",
+    "address": "26 Avenue Pré Robert Nord - Anthy-sur-Léman",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mercedes-Benz Thonon",
+    "address": "1 Chemin de l'Étroz - Anthy-sur-Léman",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue Pré Robert Sud - Anthy-sur-Léman",
+    "address": "37 Avenue Pré Robert Sud - Anthy-sur-Léman",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Avenue Pré Robert Nord - Anthy-sur-Léman",
+    "address": "14 Avenue Pré Robert Nord - Anthy-sur-Léman",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - KFC - Anthy-sur-Léman",
+    "address": "2 avenue pre-robert nord - Anthy-sur-Léman",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Kia - ZEborne - Route de Genève - Margencel",
+    "address": "Route de Genève - Margencel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Thonon",
+    "address": "1 rue du pamphiot - Thonon les Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

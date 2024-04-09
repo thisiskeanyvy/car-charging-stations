@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Saint-Manvieu-Norrey",
+    "address": "1 Rue de l'Église - Saint-Manvieu-Norrey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint-Manvieu-Norrey",
+    "address": "2 Route de Caen - Saint-Manvieu-Norrey",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Rue de la Gare - Bretteville l'Orgueilleuse",
+    "address": "Rue de la Gare - Bretteville-l'Orgueilleuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Route de Caen - Rots",
+    "address": "33 Route de Caen - Rots",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Rue Haute Bonny - Rots",
+    "address": "2 Rue Haute Bonny - Rots",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Caen",
+    "address": "Chemin de la Croix Vautier, 1 - Rots",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Place des Canadiens - Bretteville l'Orgueilleuse",
+    "address": "10 Place des Canadiens - Bretteville-l'Orgueilleuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - LE MESNIL PATRY (Rue de Brouay)",
+    "address": "Rue de Brouay - Le Mesnil-Patry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gemo/Général d'Optique/Décathlon - Rue des Drapeaux - Rots",
+    "address": "Rue des Drapeaux - Rots",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Avenue Charles de Gaulle - Carpiquet",
+    "address": "5 Avenue Charles de Gaulle - Carpiquet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

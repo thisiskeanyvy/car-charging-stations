@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Morbihan Energies - ZA Parking du Port - Arzal",
+    "address": "Zone Artisanale - Arzal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Morbihan Energies - Parc Activité de l'Estuaire - Arzal",
+    "address": "15 bis Parc Acti de l'Estuaire - Arzal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Morbihan Energies - Place de la Mairie Camoël",
+    "address": "Place de la Mairie - Camoël",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morbihan énergies - Rue du Pré de la Dame - Férel",
+    "address": "2 Rue du Pré de la Dame - Férel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Morbihan Energies - N165 Aire de Marzan",
+    "address": "Aire de Marzan - Marzan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Morbihan énergies - Place du Dôme - La Roche-Bernard",
+    "address": "19 Rue de Nantes - La Roche-Bernard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Nivillac - Bricomarché",
+    "address": "Boulevard de Bretagne - Nivillac",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morbihan énergies - Place Saint-Gaudence - Péaule",
+    "address": "Place Saint-Gaudence - Péaule",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant la Porte du Golfe (Privé)",
+    "address": "La Clé des Champs - Muzillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Bodeuc - Nivillac",
+    "address": "route de saint dolay - Nivillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

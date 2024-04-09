@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SE61 - Place de la 2ème DB Sées",
+    "address": "Place de la 2ème Db - Sées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Essay - Rue Roederer",
+    "address": "Rue Roederer - Essay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Place de l'église - Mortrée",
+    "address": "6 Place de l'Église - Mortrée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "LastMile Solutions - L'Orée-d'Écouves - Sommière de l'Aune Sèche",
+    "address": "Sommière de l'Aune Sèche - L'Orée-d'Écouves",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A28 Aire de la Dentelle d'Alençon (double sens)",
+    "address": "4 Aire de la Dentelle - Valframbert",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargeguru - BMW Mercure Automobiles - Valframbert",
+    "address": "1 Impasse Joan Miro - Valframbert",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault Alençon",
+    "address": "3 Impasse Joan Miro - Valframbert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "B&B Hotel - Valframbert",
+    "address": "10 rue François Arago - Valframbert",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Alençon",
+    "address": "Rue de l'Industrie Zat du Londeau - Cerisé",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Territoire d'Énergie - Valframbert",
+    "address": "8 Rue de Gatel - Valframbert",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

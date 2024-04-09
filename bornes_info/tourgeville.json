@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Les Manoirs Tourgeville (Tesla)",
+    "address": "668 Chemin de l'Orgueil - Tourgéville",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel du Golf Barrière (uniquement pour les clients)",
+    "address": "Hôtel du Golf - Saint-Arnoult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue Des Maréchaux - Deauville",
+    "address": "8 Rue Des Marechaux - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BMW - Saint-Arnoult",
+    "address": "2-4 Avenue de la Vallée - Saint-Arnoult",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Arnoult (Parking de la mairie)",
+    "address": "Avenue Michel d'Ornano - Saint-Arnoult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Qovoltis - Saint-Arnoult - Avenue Michel d'Ornano",
+    "address": "Avenue Michel d'Ornano - Saint-Arnoult",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Toyota - Saint Arnoult (GCA Deauville)",
+    "address": "2 Chemin des Salines - Saint-Arnoult",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Superchargeur Tesla V3 - E.Leclerc Drive de Deauville - Touques",
+    "address": "Centre E Leclerc - route de Paris - Touques",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hippodrome - Deauville",
+    "address": "Le Potager - Deauville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - BLONVILLE SUR MER (Rue Pierre Jacquot)",
+    "address": "36 Avenue Michel d'Ornano - Blonville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

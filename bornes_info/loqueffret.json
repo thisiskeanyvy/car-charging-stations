@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDEF - Lannédern (Rue René Caro)",
+    "address": "Rue René Caro - Lannédern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Collorec - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Collorec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Brasparts (Rue Saint Michel)",
+    "address": "D785 - Brasparts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Plonévez du Faou (Place de la Résistance)",
+    "address": "Place de la Résistance - Plonévez-du-Faou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Rue du Général de Gaulle - Huelgoat",
+    "address": "Rue du Général de Gaulle - Huelgoat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "NW IECharge - Plouyé - KERGADIOU",
+    "address": "KERGADIOU - Plouyé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Commana (Place de la Mairie)",
+    "address": "5 Place de la Mairie - Commana",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pleyben (Place Charles de Gaulle)",
+    "address": "15 Place Charles de Gaulle - Pleyben",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Châteauneuf-du-Faou - ZI de Kroaz Lesneven",
+    "address": "ZI de Kroaz Lesneven - Châteauneuf-du-Faou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syndicat Départemental d’Énergie et d’Équipement du Finistère (SDEF) - Landeleau - Place de l'Église",
+    "address": "Place de l'Église - Landeleau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

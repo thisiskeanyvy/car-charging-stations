@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Pessac Centre",
+    "address": "Rue des Poilus - Pessac",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Inconnu",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Eugène et Marc Dulout",
+    "address": "29 Avenue Eugène et Marc Dulout - Pessac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Pessac - 3 Rue Du Pont De Chiquet",
+    "address": "3 Rue Du Pont De Chiquet - Pessac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Leclerc - Pessac",
+    "address": "110 bis Avenue Jean-Jaurès - Pessac",
+    "connectors": [
+      "x4",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Carrefour - 1 Avenue du Maréchal Juin - Mérignac",
+    "address": "1 Avenue du Maréchal Juin - Mérignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Avenue du Docteur Albert Schweitzer",
+    "address": "142 Avenue du Docteur Albert Schweitzer - Pessac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château Pape Clément (Tesla et autres) gratuit",
+    "address": "216 Avenue Docteur Nancel Penard - Pessac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pichet - Shell-Recharge - 20 Avenue de Canteranne - Pessac",
+    "address": "20 Avenue de Canteranne - Pessac",
+    "connectors": [
+      "x3",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Pessac - Speedy",
+    "address": "8 Avenue Gustave Eiffel - Pessac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Pessac - Hôtel Première Classe",
+    "address": "4 BIS avenue Antoine Becquerel - Pessac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

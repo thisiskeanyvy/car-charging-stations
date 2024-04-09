@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Burie - Rue de Verdun (place des platanes)",
+    "address": "Rue de Verdun - Burie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - Place de l'Hôtel de Ville - Burie",
+    "address": "Place de l'Hôtel de Ville - Burie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - 35 Route des Bessons - Migron",
+    "address": "35 Route des Bessons - Migron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Ecoyeux - Rue du Plantis (zone d'activités)",
+    "address": "3 Rue des Artisans - Écoyeux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SunXLium - 6 Place des Écoles - Écoyeux",
+    "address": "6 Place des Écoles - Écoyeux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Césaire - Les Bujoliers (étang de la Brèche)",
+    "address": "10 Route de la Vallée - Saint-Césaire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiVE - Champ de foire - Matha",
+    "address": "2 Place du Château d'Eau - Matha",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiVE - Avenue Charles de Gaulle - Chaniers",
+    "address": "20 Avenue Charles de Gaulle - Chaniers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Quai des pontis - Cognac",
+    "address": "16 Rue des Pontis - Cognac",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route De Cognac - Saintes",
+    "address": "2 Route De Cognac - Saintes",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

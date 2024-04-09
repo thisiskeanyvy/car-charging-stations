@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Izivia - Bricomarché - Saint-Usage",
+    "address": "Route de Dijon - Saint-Usage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue de la Gare d'Eau - Saint-Jean-de-Losne",
+    "address": "9 Avenue de la Gare d'Eau - Saint-Jean-de-Losne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Saint-Usage - Rue de l'Echelotte",
+    "address": "Rue de l'Echelotte - Saint-Usage",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Charmilles (Chambre d'hôtes) - Saint-Jean-de-Losne",
+    "address": "15 Rue Monge - Saint-Jean-de-Losne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Colruyt - Brazey-en-Plaine",
+    "address": "4 Rue du 8 Mai 1945 - Brazey-en-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Point ASTEIM",
+    "address": "22 Rue du Tissage - Brazey-en-Plaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A39 - Aire de Pont Chêne d'Argent (direction Dole)",
+    "address": "A39 - Pont",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FASTNED - A39 - Aire de Pont Val de Saône (direction Dijon)",
+    "address": "A39 - Pont",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Netto - Route de Dijon - Aiserey",
+    "address": "21 Route de Dijon - Aiserey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "O'SITOIT",
+    "address": "11 Rue Martin Lejeas - Aiserey",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

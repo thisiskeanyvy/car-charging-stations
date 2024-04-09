@@ -1,0 +1,120 @@
+[
+  {
+    "title": "HOTEL CASA MEA",
+    "address": "Chemin de Fiumicellu - San-Martino-di-Lota",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 18 Route des Tennis - Santa-Maria-di-Lota",
+    "address": "18 Route des Tennis - Santa-Maria-di-Lota",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - Route du Cap Résidence Opale - San-Martino-di-Lota",
+    "address": "Route du Cap Résidence Opale - San-Martino-di-Lota",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "2 Route du Bord de Mer",
+    "address": "2 Route du Bord de Mer - Santa Maria di Lota",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - San-Martino-di-Lota - 9a Chemin De L'école Joseph Graziani",
+    "address": "9a Chemin De L'école Joseph Graziani - San-Martino-di-Lota",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Route du Cap",
+    "address": "20 Route du Cap - San-Martino-di-Lota",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 20 Route De San-Martino - San-Martino-di-Lota",
+    "address": "20 Route De San-Martino - San-Martino-di-Lota",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Géant Casino - Bastia",
+    "address": "1 Chemin du Furcone - Bastia",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Rent A Car - Bastia",
+    "address": "Route du Cap Port De Plaisance De Toga, - Bastia",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hotel Corsica - Avenue Jean Zuccarelli - Bastia",
+    "address": "Avenue Jean Zuccarelli - Bastia",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

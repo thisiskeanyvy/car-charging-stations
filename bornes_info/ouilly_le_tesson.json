@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MobiSDEC - Mairie de Potigny",
+    "address": "Rue du Marché - Potigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Grainville-Langannerie",
+    "address": "17 Rue de Lapford - Grainville-Langannerie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Saint-Germain-le-Vasson",
+    "address": "25 D237 - Saint-Germain-le-Vasson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Urville",
+    "address": "10 D131 - Urville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Gouvix",
+    "address": "11 Rue de l'Église - Gouvix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Impasse des Semences - Saint-Sylvain",
+    "address": "Parc De La Vallée - Saint-Sylvain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Domaine de la Tour (Tesla) - St.-Pierre-Canivet",
+    "address": "1 La Tour - St.-Pierre-Canivet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - La Tour Domaine de la Tour - Saint-Pierre-Canivet",
+    "address": "La Tour Domaine de la Tour - Saint-Pierre-Canivet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NL*EVB - FALAISE - BD DU PAYS DE FALAISE ZONE EXPANSIA 2",
+    "address": "BD DU PAYS DE FALAISE ZONE EXPANSIA 2 - FALAISE",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Route de Caen - Falaise",
+    "address": "Route de Caen - Falaise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

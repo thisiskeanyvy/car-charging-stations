@@ -1,0 +1,132 @@
+[
+  {
+    "title": "TaM Lattes centre Tram 3 - Avenue de l'Europe",
+    "address": "Avenue de l'Europe - Lattes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Route de Boirargues - Lattes",
+    "address": "Route de Boirargues - Lattes",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electra - Lattes - Hôtel F1",
+    "address": "Chemin de Saint-Hubert - Lattes",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Chemin de Soriech - Lattes",
+    "address": "Chemin de Soriech - Lattes",
+    "connectors": [
+      "x26",
+      "x27"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 222 Rue de Montels Église - Montpellier",
+    "address": "222 Rue de Montels Église - Montpellier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Lattes",
+    "address": "Rue de Montels Église - Lattes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Montpellier - Hôtel Campanile",
+    "address": "Avenue du Mas d'Argelliers - Montpellier",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - Rent A Car - Lattes",
+    "address": "3 Rue de Montels Église - Lattes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Hôtel Kyriad Montpellier Sud",
+    "address": "25 Rue du Puech Radier - Lattes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Zephyre - 25 Rue du Puech Radier - Lattes",
+    "address": "25 Rue du Puech Radier - Lattes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

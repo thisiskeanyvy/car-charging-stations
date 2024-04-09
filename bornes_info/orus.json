@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Effia - Avenue Franklin Roosevelt Paris",
+    "address": "45-47 Avenue Franklin Roosevelt - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - Avenue des Champs Elysées - Paris",
+    "address": "Avenue des Champs Elysées - PARIS",
+    "connectors": [
+      "x42"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Avenue Matignon Face Au 3 - Paris",
+    "address": "Avenue Matignon Face Au 3 - Paris",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 65 Rue Pierre Charron (Champs Elysées) - Paris",
+    "address": "65 Rue Pierre Charron - Paris",
+    "connectors": [
+      "x20",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rue François 1er - Paris",
+    "address": "Rue François 1er - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - Rue François 1er - Paris",
+    "address": "Rue François 1er - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 62 Rue Pierre Charron - Paris",
+    "address": "62 Rue Pierre Charron - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "42 Rue François Premier",
+    "address": "42 Rue François Premier - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Francois 1er (Tesla and others)",
+    "address": "19–23 Rue François 1er - Paris",
+    "connectors": [
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 17 - Artois-Baudry",
+    "address": "11 rue d'Artois - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

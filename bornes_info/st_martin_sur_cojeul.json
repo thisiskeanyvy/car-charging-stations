@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Fastned - A1 Aire de Wancourt Est (direction Lille)",
+    "address": "A 1 - Wancourt",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BP - A1 Aire de Wancourt Est",
+    "address": "A1 - Monchy-le-Preux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Boisleux-Saint-Marc, Dubois Electricité",
+    "address": "20 Rue De La Mairie - Boisleux-Saint-Marc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Boulangerie patisserie Salomé (privé)",
+    "address": "1 Grand place - Croisilles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Boreal Numerique",
+    "address": "112 Rue Françoise Dolto - Beaurains",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 30 Allée d'Irlande - Feuchy (Private)",
+    "address": "30 Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Allée d'Irlande - Feuchy",
+    "address": "Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Beaurains",
+    "address": "2 rue des Bleuets\r\n - Beaurains",
+    "connectors": [
+      "x1",
+      "x4",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps - DACIA ARRAS - KEOS - 1 Rue des Paquerettes - Beaurains",
+    "address": "1 Rue des Paquerettes - Beaurains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW Car Premium Beaurains",
+    "address": "3 Avenue des Coquelicots - Beaurains",
+    "connectors": [
+      "x3",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

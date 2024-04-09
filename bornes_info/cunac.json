@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDET - Rue de L'Ecole",
+    "address": "16 Rue de l'École - Cambon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Albi - 2rue François arago",
+    "address": "2rue François arago, 81000 Albi, France - Albi",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Révéo - Allée De La Trencade - St Juéry",
+    "address": "Allée de la Trencade - Saint-Juéry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - parking place de la Mairie",
+    "address": "2 Place de la Mairie - Saint-Juéry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Albi - Carrefour Contact",
+    "address": "3 Rue des Trois Buissons - Albi",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDET Innoprod - Chemin de la Teulière - ALBI",
+    "address": "9 Chemin de la Teulière - Albi",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Benoit Pneumatiques",
+    "address": "1 Rue Jacques Monod - Albi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl St Juéry",
+    "address": "Rd. Pt. de l'Europe, Av. de Saint-Juéry - Albi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Avenue de Saint-Juéry - Albi",
+    "address": "Avenue de Saint-Juéry - Albi",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Albi | Rue Jacques Monod 12",
+    "address": "12 Rue Jacques Monod - Albi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

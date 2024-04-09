@@ -1,0 +1,130 @@
+[
+  {
+    "title": "USEDA - Place de l'Hôtel de Ville, 12 - Sains-Richaumont",
+    "address": "12 Place de l'Hôtel de Ville - Sains-Richaumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Guise",
+    "address": "Route de Laon - Guise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place Jean Mermoz - Origny-Sainte-Benoite",
+    "address": "Place Jean Mermoz - Origny-Sainte-Benoite",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Rue Pasteur",
+    "address": "35BIS Rue Pasteur - Origny-Sainte-Benoîte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place Lesur - Guise",
+    "address": "2 Place Lesur - Guise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Guise UTAS",
+    "address": "1 Rue du Curoir - Guise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue Sadi Carnot - Guise",
+    "address": "479 Rue Sadi Carnot - Guise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Ribemont - Intermarché",
+    "address": "rue Blondel - Ribemont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "USEDA - ZAC rue de l'Europe - Guise",
+    "address": "Rue de l'Europe - Guise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Crédit agricole - Ribemont",
+    "address": "62 Rue Blondel - Ribemont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

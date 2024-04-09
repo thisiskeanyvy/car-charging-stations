@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE07 - Place Maxime Chantier",
+    "address": "Route du Saint Joseph - Andance",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 (e-born) - Rue du Centre, 209 - Vernosc-lès-Annonay",
+    "address": "209 Rue du Centre - Vernosc-lès-Annonay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - La Croix des Mailles Laveyron",
+    "address": "123 La Croix des Mailles - Laveyron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE07 - Place Jean Moulin Sarras",
+    "address": "3 Rue du Champ de l'Homme - Sarras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Station Service Robert Cheval",
+    "address": "N7 National 7 - Albon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecophi -  Route Nationale 7 - Albon",
+    "address": "230 N7 - Albon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Rue Lamartine - Champagne",
+    "address": "Rue Lamartine - Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue des Jardins de Tartavel - Davézieux",
+    "address": "1 Impasse de la poste - Davézieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SILHOUETTE FITNESS",
+    "address": "368 Route du Forez - Davézieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Place du Champ de Mars Saint-Vallier",
+    "address": "11 Place du Champ de Mars - Saint-Vallier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

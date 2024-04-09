@@ -1,0 +1,128 @@
+[
+  {
+    "title": "CREA - Place Jean Jaurès - Canteleu",
+    "address": "Place Jean Jaurès - Canteleu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Canteleu",
+    "address": "Rue du Commandant Ledru ZA Beguinière - Canteleu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Canteleu",
+    "address": "74 Ancienne Route De Duclair - Canteleu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Canteleu",
+    "address": "40 Rue du Canal - Canteleu",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LastMile Solutions - Rue Docteur Emile Bataille - Déville-lès-Rouen (Privé)",
+    "address": "27 Rue Docteur Emile Bataille - Déville-lès-Rouen",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Parking du Pôle d'échange du Mont Riboudet",
+    "address": "1 Rue Micheline Ostermeyer - Rouen",
+    "connectors": [
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Petit-Quevilly | Rue Amable Lozai 5",
+    "address": "5 Rue Amable Lozai - Le Petit-Quevilly",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Docks 76 - Rouen",
+    "address": "14-16 Rue Netien - Rouen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Retail Group Rouen",
+    "address": "Rue de Constantine - Rouen",
+    "connectors": [
+      "x3",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Effia - Quai Ferdinand de Lesseps 22",
+    "address": "22 Quai Ferdinand de Lesseps - Rouen",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

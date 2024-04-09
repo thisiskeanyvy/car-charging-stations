@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SMOYS - Mairie de Chilly-Mazarin",
+    "address": "7 Avenue Charles de Gaulle - Chilly-Mazarin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BUMP-CHARGE - Star Service - Chilly-Mazarin",
+    "address": "8 Rue Denis Papin - Chilly-Mazarin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Avenue Aristide Briand - Morangis",
+    "address": "88 Avenue Aristide Briand - Morangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - 4 Rue Bossuet - Longjumeau",
+    "address": "4 Rue Bossuet - Longjumeau",
+    "connectors": [
+      "x5",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rent A Car",
+    "address": "13 Rue Denis Papin - Chilly-Mazarin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Route de Massy - Chilly-Mazarin",
+    "address": "8 Route de Massy - Chilly-Mazarin",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Salle Mairie",
+    "address": "12 Avenue de la République - Morangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Gare RER C de Longjumeau",
+    "address": "Place de la Gare - Longjumeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - 2 Rue Daniel Mayer - Longjumeau",
+    "address": "2 Rue Daniel Mayer - Longjumeau",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking parc urbain - Longjumeau",
+    "address": "1-5 Rue Léontine Sohier - Longjumeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

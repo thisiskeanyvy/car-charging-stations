@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Colruyt - Brazey-en-Plaine",
+    "address": "4 Rue du 8 Mai 1945 - Brazey-en-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Usage - Rue de l'Echelotte",
+    "address": "Rue de l'Echelotte - Saint-Usage",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Saint-Usage",
+    "address": "Route de Dijon - Saint-Usage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Point ASTEIM",
+    "address": "22 Rue du Tissage - Brazey-en-Plaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A36 - Aire de Glanon (direction Beaune)",
+    "address": "A36 - Glanon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A36 Aire du Bois Guillerot (Direction Dole)",
+    "address": "2 A36 (La Comtoise) - Glanon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Les Charmilles (Chambre d'hôtes) - Saint-Jean-de-Losne",
+    "address": "15 Rue Monge - Saint-Jean-de-Losne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue de la Gare d'Eau - Saint-Jean-de-Losne",
+    "address": "9 Avenue de la Gare d'Eau - Saint-Jean-de-Losne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Jardin Anglais - Seurre",
+    "address": "48 Grande Rue du Faubourg Saint-Michel - Seurre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Netto - Route de Dijon - Aiserey",
+    "address": "21 Route de Dijon - Aiserey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

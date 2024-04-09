@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Greenspot - Carrefour Market - Ferrières",
+    "address": "Rue de la Juillerie - Ferrières",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZC de l'Aunis - Magasin \"Les fermiers du marais Poitevin\"",
+    "address": "119 Rue de la Juillerie - Ferrières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "FR*WA5 - Saint-Jean-de-Liversay - 40 Rue du Vanneau",
+    "address": "40 Rue du Vanneau - Saint-Jean-de-Liversay",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "A L'OMBRE DU FIGUIER",
+    "address": "43 Rue du Marais - Longèves",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SARL MOUGON Stéphane",
+    "address": "24 Du Soleil, ZA de Croix Fort - SAINT MÉDARD D'AUNIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Andilly",
+    "address": "Rue des 4 Quartiers - Andilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Lidl - Andilly",
+    "address": "Rue Des Quatre Quartiers - Andilly",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FR*LDL - Andilly - Rue des 4 Quartiers",
+    "address": "Rue des 4 Quartiers - Andilly",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Aigrefeuille-d'Aunis",
+    "address": "Place de la Renaissance - Aigrefeuille-d'Aunis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Aigrefeuille-d'Aunis - Rue de la Poste / place du 8 Mai 1945",
+    "address": "1 Le Grand Four - Aigrefeuille-d'Aunis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

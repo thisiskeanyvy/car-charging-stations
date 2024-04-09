@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEG 63 - 24 Rue de l'Hôtel de Ville - Giat",
+    "address": "24 Rue de l'Hôtel de Ville - Giat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEG63 - Avenue des Combrailles - Bromont-Lamothe",
+    "address": "58 Avenue des Combrailles - Bromont-Lamothe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Hotel Belle Vue",
+    "address": "1 Chez Saby - Les Ancizes-Comps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmmile - Rue du Pont du Bouchet",
+    "address": "1 Rue du Pont du Bouchet - Les Ancizes-Comps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Municipal - Pontgibaud",
+    "address": "La Palle - Pontgibaud",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Les Volca'lodges de Tournebise",
+    "address": "- Saint-Pierre-le-Chastel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Rochefort Montagne",
+    "address": "Route Ancienne Route Nationale 89 - Rochefort-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mathieu - Saint-Ours",
+    "address": "7 Chemin de Fougère - Saint-Ours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eoliberty - Saint-Georges-de-Mons - Intermarché",
+    "address": "D19 - Saint-Georges-de-Mons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Mazaye - 18 Chemin De Fenerou",
+    "address": "18 Chemin De Fenerou - Mazaye",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEML - Landemont - Rte De St Sauveur",
+    "address": "Route de Saint-Sauveur - Landemont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Rue des Petites Noues, 3 - Barbechat",
+    "address": "3 Rue des Petites Noues - Barbechat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - Rue des Moulins, 13 - Le Landreau",
+    "address": "13 Rue des Moulins - Le Landreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - 20 Rue des Mauges - Orée d'Anjou",
+    "address": "20 Rue des Mauges - Orée d'Anjou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - SAINT LAURENT DES AUTELS - Rue Du Maroni",
+    "address": "2 Rue du Maroni - Saint-Laurent-des-Autels",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - La Chapelaine",
+    "address": "13 Rue du Stade - La Chapelle-Basse-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Izivia - 14 Boulevard Pasteur - Divatte Sur Loire",
+    "address": "14 Boulevard Pasteur - Divatte Sur Loire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Boulevard Pasteur - La Chapelle-Basse-Mer",
+    "address": "6305 Boulevard Pasteur - Divatte-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Boulevard Pasteur - La Chapelle Basse Mer",
+    "address": "6639 Boulevard Pasteur - Divatte-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Place Rosmadec - Le Loroux-Bottereau",
+    "address": "Rue de la Treille - Le Loroux-Bottereau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

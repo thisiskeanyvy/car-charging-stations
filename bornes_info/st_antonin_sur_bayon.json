@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Salle des fêtes de la Ferme Beaurecueil",
+    "address": "D58K - Beaurecueil",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Sainte-Victoire",
+    "address": "Avenue Julien Gautier - Beaurecueil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Place Auguste Baret - Châteauneuf-le-Rouge",
+    "address": "3 Place Auguste Baret - Châteauneuf-le-Rouge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "larecharge - Vauvenargues - Boulevard Moraliste 5",
+    "address": "Boulevard Moraliste 5 - Vauvenargues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Mercure - Châteauneuf-le-Rouge",
+    "address": "100 D7N - Châteauneuf-le-Rouge",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "hotel sainte victoire",
+    "address": "33 Avenue des Maquisards - Vauvenargues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Quartier Bachasson - Meyreuil",
+    "address": "Quartier Bachasson - Meyreuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Dream Energy - Meyreuil - Rue de la Belle du Canet",
+    "address": "Rue de la Belle du Canet - Meyreuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking - Rue Fabre - Rousset",
+    "address": "1–26 Rue Fabre - Rousset",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Louis Alard - Rousset",
+    "address": "Avenue Louis Alard - Rousset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

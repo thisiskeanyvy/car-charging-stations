@@ -1,0 +1,130 @@
+[
+  {
+    "title": "FDEE19 - Place Docteur Raoul Peuch - Marcillac-la-Croisille",
+    "address": "3 Place du Docteur Raoul Peuch - Marcillac-la-Croisille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Allée du Domaine de Sédières - Clergoux",
+    "address": "Allée du Domaine de Sédières - Clergoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GIMEL-LES-CASCADES - LE BOURG",
+    "address": "Le Bourg - Gimel-les-Cascades",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - A89 Aire de la Corrèze (double sens)",
+    "address": "1206 Route du Mémorial - Vitrac-sur-Montane",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A89 Aire de Corrèze (double sens)",
+    "address": "Aire Corrèze, Rte de Vitrac - Eyrein",
+    "connectors": [
+      "x14",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue des Tours de Merle - Saint-Privat",
+    "address": "12 Rue des Tours de Merle - Saint-Privat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - Maison médicale - Corrèze",
+    "address": "2 Rue Buffeguerre - Corrèze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Laguenne-sur-Avalouze",
+    "address": "Avenue de Coulaud - Laguenne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Saint Pierre",
+    "address": "3 Avenue de la Bastille - Tulle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Tulle",
+    "address": "Rue de la Marque - Tulle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

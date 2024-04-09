@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SyDEV - Place de l'Église - Essarts-en-Bocage",
+    "address": "Place De L'Eglise - Essarts-en-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SyDEV - Place de la Mairie - Essarts-en-Bocage",
+    "address": "Place de la Mairie - Essarts-en-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BATISMAC",
+    "address": "5 Le Cerisier - Essarts-en-Bocage",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel-Restaurant Le Grand Turc (Schneider)",
+    "address": "33 Rue Nationale - L'Oie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel-Restaurant Le Grand Turc - L'Oie (Tesla and others)",
+    "address": "33 Rue Nationale - L'Oie",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Les Quatre Chemins - Sainte Florence",
+    "address": "9 Les Quatre Chemins - Sainte-Florence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SyDEV - Place du Marché - La Ferriere",
+    "address": "6 Rue du Bout de ville - La Ferrière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - 19 Rue Nationale - Saint-Fulgent",
+    "address": "19 Rue Nationale - Saint-Fulgent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydev - Mairie de Saint Fulgent",
+    "address": "20 Rue Nationale - Saint Fulgent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Saint-Fulgent - 7008 Rue des Cèdres",
+    "address": "7008 Rue des Cèdres - Saint-Fulgent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

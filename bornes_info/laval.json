@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE53 - Rue du Vieux Saint-Louis, 147 - Laval",
+    "address": "147 Rue du Vieux Saint-Louis - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE53 - Place de Hercé - Laval",
+    "address": "Place de Hercé - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE53 - Avenue Robert Buron, 86 - Laval",
+    "address": "86 Avenue Robert Buron - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Laval (rue vaufleury)",
+    "address": "27 rue vaufleury - Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la gare - Avenue Robert Buron - Laval",
+    "address": "36 Avenue Robert Buron - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEGM - Place Général Férrié",
+    "address": "1 Place Général Férrié - Laval",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE53 - Rue Madeleine Bres - Laval",
+    "address": "Rue Madeleine Bres - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Face au Pôle Formation Santé - Rue Madeleine Bres",
+    "address": "Rue Madeleine Bres - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Hintzy",
+    "address": "216 Rue de Bretagne - Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Laval",
+    "address": "6 avenue de la Mayenne - Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

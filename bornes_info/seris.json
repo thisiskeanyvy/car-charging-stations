@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Rue Robert Bauer 41500 Mer",
+    "address": "Rue Robert Bauer - Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Mer",
+    "address": "Rue du Mardeau - Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Avenue du Maréchal Maunoury - Mer",
+    "address": "19 Avenue du Maréchal Maunoury - Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - 19 Route d'Orléans - Mer",
+    "address": "19 Route d'Orleans - Mer",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 4 Avenue d'Alsace - Mer",
+    "address": "4 Avenue d'Alsace - Mer",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Marechal Maunoury Mer",
+    "address": "1 Avenue du Maréchal Maunoury - Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - CNPE de Saint-Laurent-Nouan - E - Rangée 1 à 6",
+    "address": "La Centrale Nucléaire - Saint-Laurent-Nouan",
+    "connectors": [
+      "x172",
+      "x156",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNPE Saint Laurent Nouan",
+    "address": "route de la centrale - Saint-Laurent-Nouan",
+    "connectors": [
+      "x29",
+      "x26",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E.Leclerc - Tavers",
+    "address": "11 Route nationale - Tavers",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Adefi - Tavers",
+    "address": "RN152 - Tavers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

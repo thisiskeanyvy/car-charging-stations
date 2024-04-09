@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ENGIE Vianeo - A19 Aire du Loiret (double sens)",
+    "address": "D 975 - Juranville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDESM - Parking Salle polyvalente - Beaumont-du-Gâtinais",
+    "address": "5 Rue du Mail Est - Beaumont-du-Gâtinais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking proche mairie - Bellegarde",
+    "address": "14 Rue des Pervenches - Bellegarde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - 286 Rue Marcel Donette - Pannes",
+    "address": "286 Rue Marcel Donette - Pannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Ibis Styles Montargis Arboria - Pannes",
+    "address": "805 Avenue des Platanes - Pannes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "E-Totem - Rue Prudent Harry - Corquilleroy",
+    "address": "17 Rue Prudent Harry - Corquilleroy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Place de l'eglise - Chevillon-sur-Huillard",
+    "address": "Grande Rue - Chevillon-sur-Huillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "André Peinture Décoration",
+    "address": "Bellevue - CHAILLY EN GATINIAS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TSOGBALÉ",
+    "address": "2 rue des pervenches - villemandeur",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "O' Marché Frais",
+    "address": "50 rue Saint-Just - Chalette sur Loing",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

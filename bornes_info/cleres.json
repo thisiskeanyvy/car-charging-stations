@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE76 - Clères (Office de Tourisme)",
+    "address": "92-124 Rue Pierre Mauger - Clères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Clères (gare SNCF)",
+    "address": "388 D53A - Clères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vp Auto",
+    "address": "445 Route de Dieppe - Anceaumeville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Fontaine-le-Bourg",
+    "address": "757 Rue Delamare Deboutteville - Fontaine-le-Bourg",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Vallée Carburants - Beautot",
+    "address": "1175\r\n Rue De l'Ancien Chateau\r\n - Beautot",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Sente des Jumelles - Montville",
+    "address": "3 Sente des Jumelles - Montville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Saint-Victor-l'Abbaye",
+    "address": "40 Rue Guillaume le Conquérant - Saint-Victor-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Fresquiennes",
+    "address": "Route du Houlme - Fresquiennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - 1 Rue Grande Rue - Cailly",
+    "address": "1 Rue Grande Rue - Cailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Créa venir - Malaunay",
+    "address": "1 Route de Montville - Malaunay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  }
+]

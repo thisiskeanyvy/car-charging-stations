@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE53 - Place du Général de Gaulle, 6 - Fougerolles-du-Plessis",
+    "address": "6 Route de la Dorée - Fougerolles-du-Plessis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Le Bourg - Pontmain",
+    "address": "Le Bourg - Pontmain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Mairie de Louvigné-du-Désert",
+    "address": "Place De La Mairie - Louvigné-du-Désert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault Garage police",
+    "address": "3 Zone d'activité la Rouletière - Louvigné-du-Désert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - McDonald's - Saint Hilaire Du Harcouët",
+    "address": "Route de Paris - Saint Hilaire Du Harcouël",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE53 - Place de la Mairie - Montaudin",
+    "address": "Place de la Mairie - Montaudin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Place de la Motte - St Hilaire du Harcouet",
+    "address": "Place de la Motte - Saint-Hilaire-du-Harcouët",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IEcharge - D581 Route du Moulin",
+    "address": "16 Route du Moulin - Saint-Hilaire-du-Harcouët",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue du Haut du Bourg - Saint-martin de Landelle",
+    "address": "23 Rue du Haut du Bourg - Saint-martin de Landelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Saint-Hilaire-du-Harcouët - Montée de la Pigeonnière",
+    "address": "Montée de la Pigeonnière - Saint-Hilaire-du-Harcouët",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Intermarché - Montech",
+    "address": "930 Avenue de Montauban - Montech",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Netto - ZEborneMS - 15 Avenue de la Mouscane - Montech",
+    "address": "15 Avenue de la Mouscane - Montech",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montech",
+    "address": "85 Impasse Lacoste - Montech",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Pôle commercial l'Albizia - Montech",
+    "address": "4 rue de la Mouscane - Montech",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE82 - Route de Montauban - Montbeton",
+    "address": "496B Route de Montauban - Montbeton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Virta - 1699 Avenue d'Italie - Montauban",
+    "address": "1699 Avenue d'Italie - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE-WATT - Montauban - 500 Avenue du Danemark",
+    "address": "500 Avenue du Danemark - Montauban",
+    "connectors": [
+      "x8",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale Albasud Parking Intersport",
+    "address": "1490 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - KIA - Montauban",
+    "address": "1661 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota-Lexus - 150 Impasse de Monaco - MONTAUBAN",
+    "address": "150 Impasse de Monaco - MONTAUBAN",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

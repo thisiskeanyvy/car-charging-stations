@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Rue Jean Roux",
+    "address": "15 Rue Jean Roux - Saint-Sauveur-en-Rue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Place Marcellin Champagnat - Marlhes",
+    "address": "7 Place Marcellin Champagnat - Marlhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place de l'Église - Vocance",
+    "address": "Place de l'Église - Vocance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Saint-Genest-Malifaux - Rue du bois ternay",
+    "address": "Rue du bois ternay - Saint-Genest-Malifaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Desfond",
+    "address": "31 rue du forez - Saint Genest Malifaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'auberge du tremplin",
+    "address": "619 Chemin du tremplin - Le Bessat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel du lac - Savas (Tesla et autres)",
+    "address": "Le Ternay - Savas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE43 - Rue de Saint-Régis - Dunières",
+    "address": "12 Rue de Saint-Régis - Dunières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - 6 Le Bourg - Saint-Romain-les-Atheux",
+    "address": "6 Le Bourg - Saint-Romain-les-Atheux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IVECO BUS",
+    "address": "25 Avenue Ferdinand Janvier - Annonay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

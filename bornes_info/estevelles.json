@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Renault - Carvin",
+    "address": "Route de Lens - Carvin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Mirabeau - Meurchin",
+    "address": "10 Rue Mirabeau - Meurchin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Mairie de Courrières",
+    "address": "2 Place Jean Tailliez - Courrières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Mairie de Courrières",
+    "address": "Rue Emile Basly - Courrières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LastMileSolutions - 545 Route de Meurchin - Carvin",
+    "address": "545 Route de Meurchin - Carvin",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Carvin",
+    "address": "165 Route De Meurchin - Carvin",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Rue Raoul Briquet ZA du Chemy - Courrières INEXISTANT",
+    "address": "Rue Raoul Briquet ZA du Chemy - Courrières",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Subway/Basic fit - Rue du Vieux Château - Carvin",
+    "address": "Rue du Vieux Château - Carvin",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - 1 Rue Thibaut - Carvin INEXISTANT",
+    "address": "1 Rue Thibaut - Carvin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Carvin",
+    "address": "1 Route de Oignies - Carvin",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

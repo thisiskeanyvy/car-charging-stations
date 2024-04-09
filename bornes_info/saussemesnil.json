@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEM50 - Mairie de Saint-Joseph",
+    "address": "2 Le Bourg - Saint-Joseph",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Valognes",
+    "address": "34bis Boulevard Félix Buhot - Valognes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Skate parc, Bus, Camping car",
+    "address": "38 Rue Mauquet de la Motte - Valognes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Place du Château - Valognes",
+    "address": "13 Place du Château - Valognes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "EVBox - Hôtel restaurant l'Epicurien - Valognes",
+    "address": "16 rue Léopold Delisle Hôtel restaurant l'Epicurien - Valognes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E. Leclerc - Valognes",
+    "address": "7 Route de Montebourg - Valognes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "H2oelec",
+    "address": "19 Village des saints - Yvetot bocage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - Gonneville-Le Theil - 7 Rue Jean Mermoz",
+    "address": "7 Rue Jean Mermoz - Gonneville-Le Theil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Route des Haguenées, 2 - Brix / le Beau Parlé",
+    "address": "5 Route Des Breuils - Échelle de Brix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Cherbourg",
+    "address": "28 Avenue de la Banque à Genêts - La Glacerie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

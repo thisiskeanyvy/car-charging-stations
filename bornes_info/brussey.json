@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Interparking Albertine Square",
+    "address": "10 Place de la Justice - Brüsszel",
+    "connectors": [
+      "x11"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Blulinc - Bruxelles - 14 Cantersteen",
+    "address": "14 Cantersteen - Bruxelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EnergyDrive - rue de l'hopital 31 - Brussel",
+    "address": "rue de l'hopital 31 - Brussel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Allego - 47 Cantersteen - Brussel",
+    "address": "47 Cantersteen - Brussel",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brussel - Kantersteen 47",
+    "address": "Kantersteen 47 - Brussel",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Interparking Grand Place - Rue du Marché Aux Herbes - Bruxelles",
+    "address": "104 Rue du Marché Aux Herbes - Bruxelles",
+    "connectors": [
+      "x25"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - Rue de la Montagne - Brussel",
+    "address": "Rue de la Montagne - Brussel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mobiflow - Warandeberg 3 - Brussel",
+    "address": "Warandeberg 3 - Brussel",
+    "connectors": [
+      "x1",
+      "x164"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiflow - Kanselarijstraat 1 - Brussel",
+    "address": "Kanselarijstraat 1 - Brussel",
+    "connectors": [
+      "x79"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiflow - Rue Royale 20 - 30 - Brussels",
+    "address": "Rue Royale 20 - 30 - Brussels",
+    "connectors": [
+      "x36"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

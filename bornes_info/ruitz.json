@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Pass Pass Electrique - Rue de Béthune - Ruitz",
+    "address": "Rue de Béthune - Ruitz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue de Coupigny - Barlin",
+    "address": "4 Rue du Docteur Capiaux - Barlin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Piscine de Barlin",
+    "address": "72 Rue de Versailles - Barlin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DBT - Rue Eric Tabarly - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - D188 - Bruay-la-Buissière",
+    "address": "919 Rue Eric Tabarly - Bruay-la-Buissière",
+    "connectors": [
+      "x10",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - CCV - Bruay-la-Buissière",
+    "address": "Rue Jean Joseph Étienne Lenoir - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Rue Franklin - Bruay-la-Buissière",
+    "address": "80 Rue Franklin - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - BRUAY LA BUISSIERE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Lourme",
+    "address": "rue Eric tabarly - Bruay la Buissière Cedex",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

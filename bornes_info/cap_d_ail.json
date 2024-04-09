@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Prise de Nice - Avenue du Trois Septembre - Cap-d'Ail",
+    "address": "87 Avenue du Trois Septembre - Cap-d'Ail",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Prise de Nice - 2 Avenue du Trois Septembre - Cap-d'Ail",
+    "address": "2 Avenue du Trois Septembre - Cap-d'Ail",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Saint-Antoine",
+    "address": "Liaison Marquet - Cap-d'Ail",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Parking de la ZAC St-Antoine - Niveau 1 - Liaison Marquet - Cap d'Ail",
+    "address": "Liaison Marquet - Cap d'Ail",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking CHPG I et II",
+    "address": "Avenue Pasteur - Monaco",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Stade Louis II",
+    "address": "5 Avenue des Castellans - Monaco",
+    "connectors": [
+      "x11",
+      "x65"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Monaco ON - Albert II",
+    "address": "9 Avenue Albert II - Monaco",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Ecoles RdC",
+    "address": "Avenue des Guelfes - Monaco",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Paysager de Fontvieille",
+    "address": "8 Avenue des Castelans - Monaco",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saint-Nicolas",
+    "address": "Avenue des Guelfes - Monaco",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

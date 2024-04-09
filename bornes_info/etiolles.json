@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SMOYS - Boulevard Charles de Gaulle ETIOLLES",
+    "address": "1 Boulevard Charles de Gaulle - Étiolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Maison médicale - Soisy-sur-Seine",
+    "address": "1–7\r\n Rue des Chenevrières\r\n - Soisy-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Clinique du Mousseau - Évry",
+    "address": "11 Avenue de Mousseau - Évry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Germain-lès-Corbeil",
+    "address": "1 Avenue De La Pointe Ringale - Saint-Germain-lès-Corbeil",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Parc Élisabeth",
+    "address": "1 Parc Élisabeth - Évry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*JRC - Corbeil-Essonnes - 87 Rue Émile Zola",
+    "address": "87 Rue Émile Zola - Corbeil-Essonnes",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Hôpital Sud Est Francilien - Corbeil-Essonnes",
+    "address": "40 Avenue Serge Dassault - Corbeil-Essonnes",
+    "connectors": [
+      "x6",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Place Victor Hugo - Saint-Germain-lès-Corbeil",
+    "address": "Place Victor Hugo - Saint-Germain-lès-Corbeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Mairie - Saint-Germain-lès-Corbeil",
+    "address": "2 Route de Lieusaint - Saint-Germain-lès-Corbeil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EFFIA Stationnement - Évry-Courcouronnes - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Évry-Courcouronnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

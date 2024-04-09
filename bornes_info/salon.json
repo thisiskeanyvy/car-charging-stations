@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Parc des expositions (prises domestiques)",
+    "address": "1 Place de la Porte de Versailles - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking le Dôme Porte de Versailles",
+    "address": "54 Boulevard Victor - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parc expo Pavillon, 2 - Vanves",
+    "address": "2 Parc expo Pavillon - Vanves",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - Paris - 1 Place de la Porte de Versailles",
+    "address": "1 Place de la Porte de Versailles - Paris",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking R - Porte de versailles",
+    "address": "Boulevard Périphérique - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 15 Rue Olier - Paris",
+    "address": "15 Rue Olier - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 55 rue Desnouettes 75015 Paris",
+    "address": "55 Rue Desnouettes - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 72 Rue Vasco-de-Gama - Paris",
+    "address": "72 Rue Vasco-de-Gama - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Metropolis Recharge - 9 Rue Ernest Renan - Issy-les-Moulineaux",
+    "address": "9 Rue Ernest Renan - Issy-les-Moulineaux",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - Rue de Dantzig - Paris",
+    "address": "Rue de Dantzig - Paris",
+    "connectors": [
+      "x7",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

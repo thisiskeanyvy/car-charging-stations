@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sigeif - Avenue Arletty - Bois-d'Arcy",
+    "address": "6 Avenue Arletty - Bois-d'Arcy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Bois-d'Arcy",
+    "address": "1 Avenue Fritz Lang - Bois-d'Arcy",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - 4 Rue Beltrame - Bois d'Arcy",
+    "address": "4 Rue Beltrame - Bois-d'Arcy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Villepreux",
+    "address": "Lieu-dit 'Le Val Joyeux' - Rue Georges Nagelmackers, - Villepreux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Avenue Jean Jaurès - Bois d'arcy",
+    "address": "11 Avenue Jean Jaurès - Bois-d'Arcy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Privé - Le Campus - Rue Jean Pierre Timbaud - Montigny-le-Bretonneux",
+    "address": "Rue Jean Pierre Timbaud - Montigny-le-Bretonneux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Europe (réservé au personnel) - Rue Jean-Pierre Timbaud - Montigny-le-Bretonneux",
+    "address": "8 Rue Jean-Pierre Timbaud - Montigny-le-Bretonneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan West Europe - Centre de Formation",
+    "address": "8 Avenue Jean d'Alembert - Trappes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - 4 Avenue du Vieil Étang - Montigny-le-Bretonneux",
+    "address": "4 Avenue du Vieil Étang - Montigny-le-Bretonneux",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zodiac",
+    "address": "61 Rue Pierre Curie - Plaisir",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

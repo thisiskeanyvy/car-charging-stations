@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Virta - Mairie de Villers-Semeuse",
+    "address": "8 Rue Ferdinand Buisson - Villers-Semeuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ardenne Métropole - Rue Ferdinand Buisson / Place Roger Aubry - Villers-Semeuse",
+    "address": "8 Rue Ferdinand Buisson - Villers-Semeuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 076 - Villers Semeuse - Mediatheque",
+    "address": "6 Rue Gambetta - Villers-Semeuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 079 - Villers Semeuse - Gros Caillou",
+    "address": "5 Avenue du Gros Caillou - Villers-Semeuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 077 - Villers Semeuse - Rue du stade",
+    "address": "87 Route nationale - Villers-Semeuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Superchargeur V2 - Charleville-Mézières",
+    "address": "29 Rue Louise Michel - Villers-Semeuse",
+    "connectors": [
+      "x8",
+      "x8",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell-Recharge France - 1 Rue Camille Didier - Charleville-Mézières",
+    "address": "1 Rue Camille Didier - Charleville-Mézières",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Charleville",
+    "address": "Rue Camille Didier - Charleville-Mézières",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mercedes - 1 Rue Camille Didier - Charleville-Mézières (Privé)",
+    "address": "1 Rue Camille Didier - Charleville-Mézières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Villers-Semeuse",
+    "address": "1 Les Fourrières - Les Ayvelles",
+    "connectors": [
+      "x7",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

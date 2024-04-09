@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SIED70 - RN57 - La Chapelle-lès-Luxeuil",
+    "address": "1 Route Nationale 57 - La Chapelle-lès-Luxeuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place de la Libération - Lure",
+    "address": "Place de la Libération - Lure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Esplanade Charles de Gaulle - Lure",
+    "address": "Esplanade Charles de Gaulle - Lure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Agip luxeuil",
+    "address": "37 Rue edouard heriot - Luxeuil les bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Centre Commercial Des Cloyes - Lure",
+    "address": "3 Rue des Platanes - Lure",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - Parking Place du 8 Mai - Luxeuil-les-bains",
+    "address": "16 Rue Marcel Bernard - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Froideconche",
+    "address": "D6, Grand Pré du Relet - Froideconche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Route de Belfort - Lure",
+    "address": "3 Route De Belfort - Lure",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Dacia Luxeuil Automobiles SAS",
+    "address": "Zone artisanale de la zouzette - Froideconche",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "McDonald's - Lure",
+    "address": "2 Avenue du Maréchal Juin - Lure",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

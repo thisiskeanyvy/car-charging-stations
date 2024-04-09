@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Le Hommet (Tesla)",
+    "address": "7 route de Fontenay - Géfosse-Fontenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Quai Aristide Briand - Isigny-sur-Mer",
+    "address": "17 Quai Aristide Briand - Isigny-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Intermarché - Isigny-sur-Mer",
+    "address": "21 Rue de Littry - Isigny-sur-Mer",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Grandcamp-Maisy",
+    "address": "3 Place de la République - Grandcamp-Maisy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Trévières",
+    "address": "14 Rue Bernard Anquetil - Trévières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Route de Bayeux - Trévières",
+    "address": "4 Route de Bayeux - Trévières",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Vierville-sur-mer",
+    "address": "4 Route de Formigny - Vierville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gîte de France 2572",
+    "address": "Chemin du Lieu Vilsin - Saonnet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de l’Hostréière - Colleville-sur-Mer (Tesla and others)",
+    "address": "Route du Cimetière Américain - Colleville-sur-Mer",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Rue de la Mairie - St jean de daye",
+    "address": "Rue de la Mairie - Saint-Jean-de-Daye",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

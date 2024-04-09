@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Parking Sorbiers bourg",
+    "address": "2 Rue Claudius Remilleux - Sorbiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking val d'Onzon - Sorbiers",
+    "address": "23 Rue des Roseaux - Sorbiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centrakor - Sorbiers",
+    "address": "1B Rue du Moulin Gillier - Sorbiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - La Talaudière",
+    "address": "43 Rue Victor Hugo - La Talaudière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Dynam garage",
+    "address": "4 Rue de l'Artisanat - Sorbiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL - Parking mairie La Talaudière",
+    "address": "Rue des Anciens Combattants - La Talaudière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL (Mobiloire) Parking pôle de la viande La Talaudière",
+    "address": "Rue Salvador Allende - La Talaudière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Liogier",
+    "address": "9 Rue Salvador Allende - La Talaudière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEMOD Métrtech - Saint-Jean-Bonnefonds",
+    "address": "Unnamed Road - Saint-Jean-Bonnefonds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Etienne Métropole - Esplanade Melchior Mitte de Chevrières - Saint-Chamond",
+    "address": "Esplanade Melchior Mitte de Chevrières - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

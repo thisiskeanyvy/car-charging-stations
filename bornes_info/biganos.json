@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Avenue de la Libération Biganos",
+    "address": "50 Avenue de la Libération - Biganos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gare de Biganos",
+    "address": "Rue de la Gare - Biganos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue de la Résistance Biganos",
+    "address": "11 Rue de la Résistance - Biganos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue des Fonderies - Biganos",
+    "address": "31 Rue des Fonderies - Biganos",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargers V3 - Biganos",
+    "address": "30 B Rue des Fonderies - Biganos",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Biganos",
+    "address": "170 Avenue De La Côte D'argent - Biganos",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gifi - Moulin de la Cassadote",
+    "address": "17 Moulin de la Cassadote - Biganos",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intersport - Rue Henri Fabre",
+    "address": "724 Rue Gustave Eiffel - Biganos",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - D3 - Mios",
+    "address": "D3 - Mios",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking SOCOO",
+    "address": "106 Chemin des Trougnes - Biganos",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

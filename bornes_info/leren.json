@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Zone Artisanale Hippodrome - Came",
+    "address": "Zone Artisanale Hippodrome - Came",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Cauneille",
+    "address": "25 Chemin de Laregle - Cauneille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Cauneille - Intermarché",
+    "address": "25 Chemin de la Règle - Cauneille",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEC (MObiVE) - Rue Amédée Labarthe Peyrehorade",
+    "address": "135 Rue Amédée Labarthe - Peyrehorade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route De Bayonne - Peyrehorade",
+    "address": "204 Route De Bayonne - Peyrehorade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEPA - Allée Corisande Bidache",
+    "address": "Allée Corisande - Bidache",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Weldom",
+    "address": "58 Impasse des Lilas - Peyrehorade",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Carrefour Market - Peyrehorade",
+    "address": "22 Rue de l'Arriou - Peyrehorade",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A64 Aire Hastingues Nord",
+    "address": "A64, Aire Hastingues Nord - Hastingues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A64 Aire de Hastingues Sud",
+    "address": "A64, Aire de Hastingues Sud - Hastingues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

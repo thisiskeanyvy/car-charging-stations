@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Route du Puy - Saugues",
+    "address": "Route du Puy - Saugues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE43 (eBorn) - Emplacement RD587 - Chanaleilles",
+    "address": "Emplacement RD587 - Chanaleilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place du Général Lafayette - Siaugues-Sainte-Marie",
+    "address": "Route de Silcuzin - Siaugues-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Mairie de Costaros",
+    "address": "Place de la Mairie - Costaros",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEE48 - parking rue du Couvent",
+    "address": "Rue Du Couvent - Grandrieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Loudes/Chaspuzac",
+    "address": "De l'Aviation - Chaspuzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Aérodrome Le Puy Loudes - Chaspuzac",
+    "address": "3 Rue du Vol À Voile - Chaspuzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy - Ceyssac - Hameau Chadenac",
+    "address": "Hameau Chadenac - Ceyssac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 12 Avenue Du Général Leclerc - Langeac",
+    "address": "12 Avenue Du Général Leclerc - Langeac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel 19 , Demeure de Charme",
+    "address": "19 Rue LaFayette - LANGEAC",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

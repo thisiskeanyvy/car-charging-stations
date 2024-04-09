@@ -1,0 +1,126 @@
+[
+  {
+    "title": "TotalEnergies - Interparking Palais Jaurès - Tours",
+    "address": "rue Victor Hugo - TOURS",
+    "connectors": [
+      "x40",
+      "x40"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel de Rosny",
+    "address": "19 rue Blaise Pascal - Tours",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Parking Vinci Gare Tours",
+    "address": "12 Place du Général Leclerc - Tours",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Best western plus - L'artist hôtel",
+    "address": "15 Rue Frédéric Joliot Curie - Tours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Palais Jaurès",
+    "address": "10 Rue Victor Hugo - Tours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 113 Place Anatole France - Tours",
+    "address": "113 Place Anatole France - Tours",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue du Plat d'Étain - Tours",
+    "address": "79 Rue Giraudeau - Tours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Rue Giraudeau - Tours",
+    "address": "221 Rue Giraudeau - Tours",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Bornes Solutions - 45 Boulevard Winston Churchill - Tours",
+    "address": "45 Boulevard Winston Churchill - Tours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Saint Anne",
+    "address": "24 Place Sainte-Anne - La Riche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

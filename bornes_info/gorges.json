@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Virta (FI) - 1 Avenue General de Gaulle - Garges les Gonesses (Privé)",
+    "address": "1 Avenue General de Gaulle - Garges les Gonesses",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking rue Chalgrin",
+    "address": "1 Rue Jean-François Chalgrin - Garges-lès-Gonesse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarreguemines - 30 avenue du Général de Gaulle - Garges-lès-Gonesse",
+    "address": "30 avenue du Général de Gaulle - Garges-lès-Gonesse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Avenue Paul Valérie - Sarcelles",
+    "address": "19 Avenue Paul Valéry - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare RER Garges - Sarcelles",
+    "address": "Boulevard Salvador Allende - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 12 Rue Jacques Anquetil",
+    "address": "12 Rue Jacques Anquetil - Garges-lès-Gonesse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Corri-Door - Garges-lès-Gonesse - 1 Rue Jacques Anquetil",
+    "address": "1 Rue Jacques Anquetil - Garges-lès-Gonesse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Garges les Gonesse",
+    "address": "3 Rue Marcel Cerdan - GARGES LES GONESSE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Zeborne - KIA - Garges-lès-Gonesse",
+    "address": "11 Rue Marcel Cerdan - Garges-lès-Gonesse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Garges-lès-Gonesse - Cora",
+    "address": "1 Boulevard de la Muette - Garges-lès-Gonesse",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

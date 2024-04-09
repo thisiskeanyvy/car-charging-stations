@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEM50 - Brecey",
+    "address": "11 Rue des Pèlerins - Brécey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEM50 - Isigny le buat",
+    "address": "Rue d'Avranches - Isigny-le-Buat",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Avranches | Avenue des Rocher 24",
+    "address": "24 Avenue des Rocher - Avranches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Avranches",
+    "address": "87 Rue de Commandant Bindel - Avranches",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Avranches",
+    "address": "55 Rue de la Division Leclerc - Avranches",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Place des plats d'étain Ducey-Les Chéris",
+    "address": "1 Rue des Chéris - Ducey-les-Chéris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Château d'Isigny",
+    "address": "20 Avenue Saint Martin - Isigny-le-Buat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Auberge de la Sélune - Ducey-les-Chéris",
+    "address": "2 Rue Saint-Germain - Ducey",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Avranches",
+    "address": "4 Rue de la Liberté - Avranches",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking best western",
+    "address": "2B Grande Rue - Ducey-Les Chéris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

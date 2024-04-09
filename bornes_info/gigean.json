@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Révéo - Place de la République Gigean",
+    "address": "Place de la République - Gigean",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "RÉVÉO - Chemin de Poussan - Montbazin",
+    "address": "Chemin de Poussan - Montbazin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borneco - Poussan - 7 Le Garel",
+    "address": "7 Le Garel - Poussan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Balaruc-le-Vieux",
+    "address": "- Balaruc-le-Vieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue du Collège Poussan",
+    "address": "Rue du Collège - Poussan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Izivia - Jardinerie Jaïa - Avenue de la Barrière - Balaruc-le-Vieux",
+    "address": "Avenue de la Barrière - Balaruc-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Campanile Sète Balaruc",
+    "address": "Avenue de la Barrière - Balaruc-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Sete",
+    "address": "Route de Sète_BP 2 - Sete",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVzen - Norauto - Balaruc le vieux",
+    "address": "15bis Chemin Des Charbonnières - Balaruc-le-Vieux",
+    "connectors": [
+      "x19",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Avenue de Montpellier - Balaruc-le-Vieux",
+    "address": "1 Avenue de Montpellier - Balaruc-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  }
+]

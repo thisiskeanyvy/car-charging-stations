@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SyDEV - Mairie de La Garnache",
+    "address": "Place de la Mairie - La Garnache",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO Station Touvois (Rue du Général Charette)",
+    "address": "10 Rue du Général Charette - Touvois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydego - St Étienne de Mer Morte",
+    "address": "Rue de Nantes - Saint-Étienne-de-Mer-Morte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen - Challans",
+    "address": "37 Rue Jean Baptiste Charcot - Challans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - La Garnache - 53 Rue du Faubourg Saint-Thomas",
+    "address": "53 Rue du Faubourg Saint-Thomas - La Garnache",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "crématorium Challans la",
+    "address": "27 Allée des Bretellières - Challans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LA GODINIERE",
+    "address": "Route d'Apremont - Challans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6627985",
+    "address": "104 Boulevard Jean Monnet - Challans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Challans - Redzone",
+    "address": "99 Rue de Cholet - Challans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEV - Route de Nantes - Challans",
+    "address": "167 Route de Nantes - Challans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

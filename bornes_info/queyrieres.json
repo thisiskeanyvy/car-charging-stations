@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE43 - Parking de la mairie - Le Pertuis",
+    "address": "Parking de la mairie - Le Pertuis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Col du pertuis",
+    "address": "La Sauvagine - Le Pertuis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aux Pays des Sucs",
+    "address": "Les Chazes - Saint-Hostien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Marché - Saint-Julien-Chapteuil",
+    "address": "Place du Marché - Saint-Julien-Chapteuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Saint-Julien-Chapteuil",
+    "address": "15 Route du Puy-en-Velay - Saint-Julien-Chapteuil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Michel Choumouroux",
+    "address": "La Scie de Choumouroux - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Intermarché - Yssingeaux",
+    "address": "135 Rue de la Voie Ferrée - Yssingeaux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Route De Retournac - Yssingeaux",
+    "address": "Route De Retournac - Yssingeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking Place Charles de Gaulles - Yssingeaux",
+    "address": "Parking Place Charles de Gaulles - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking de l'Antreuil - Yssingeaux",
+    "address": "5bis Rue des Alliés - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

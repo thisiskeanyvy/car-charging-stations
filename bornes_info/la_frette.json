@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sigeif - Quai de Seine - La Frette-sur-seine",
+    "address": "64 Quai de Seine - La Frette-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Gare de La Frette-sur-Seine",
+    "address": "7\r\n Rue Marcellin Berthelot\r\n - La Frette-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - 9 Rue de Nancy - Cormeilles-en-Parisis",
+    "address": "9 Rue de Nancy - Cormeilles-en-Parisis",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Relais du Croisillon - Montigny-lès-Cormeilles",
+    "address": "Boulevard de Pontoise - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Val Parisis - Tennis Club de La Frette",
+    "address": "38 Avenue des Lilas - La Frette-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIGEIF - Val Parisis - Grande rue de Cormeilles",
+    "address": "10 Passage de la Grande Cour - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Val Parisis - Parking de la mairie de Cormeilles en Parisis",
+    "address": "9 Avenue Emelie - Cormeilles-en-Parisis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Val Parisis - Piscine de Cormeilles",
+    "address": "19 Rue Jean Baptiste Carpeaux - Cormeilles-en-Parisis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - Collège Jacques Daguerre - Cormeilles-en-Parisis",
+    "address": "5 Rue des Carrières - Cormeilles-en-Parisis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIAAP - Saint-Germain-en-Laye (Privé)",
+    "address": "Route Centrale - Saint-Germain-en-Laye",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

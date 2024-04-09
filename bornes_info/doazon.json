@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Circuit Européen Pau-Arnos",
+    "address": "1 1 camin deu circuit - Arnos",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A64 - Aire de Lacq-Audéjos (direction Bayonne)",
+    "address": "A64 - Lacq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MObiVE - Place du Palais - Arthez-de-Béarn",
+    "address": "18 Place du Palais - Arthez-de-Béarn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A64 - Aire de Lacq-Audéjos (direction Pau)",
+    "address": "A64 - Lacq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiVE - Vival - Mazerolles",
+    "address": "D32 - Mazerolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEPA (MObiVE) - Chemin du Moulin - Lacq",
+    "address": "4 Chemin du Moulin - Lacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Os-Marsillon - 27 Rue du Gave",
+    "address": "27 Rue du Gave - Os-Marsillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA (MobiVE) - Place la Mairie - Mont",
+    "address": "Place la Mairie - Mont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Czerny - Os-Marsillon",
+    "address": "2 Rue de la Carrère - Os-Marsillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Mourenx",
+    "address": "25 Avenue Charles Moureu - Mourenx",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

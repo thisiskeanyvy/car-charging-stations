@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Carrefour Market - Saint-Jean-Pied-de-Port",
+    "address": "avenue Du Jai Alai, Av. du Jai Alai, - Saint-Jean-Pied-de-Port",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEPA - Parking JAI ALAI - Saint-Jean-Pied-de-Port",
+    "address": "26 Avenue du Jai Alai - Saint-Jean-Pied-de-Port",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Hôtel de Ville de Larceveau",
+    "address": "Place de la Mairie - Larceveau-Arros-Cibits",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEPA - Baigorri - Saint-Étienne-de-Baïgorry",
+    "address": "87 D948 - Saint-Étienne-de-Baïgorry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking de la poche à eau",
+    "address": "D918 - Ossès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Entrée village - Hélette",
+    "address": "D245 - Hélette",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Fromagerie Agour - Hélette",
+    "address": "Zone artisanale Ur Zabaleta - RD119 - Hélette",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Bidarray",
+    "address": "Unnamed Road - Bidarray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Jeu de Paume - Mauléon-Licharre",
+    "address": "2 Place de la Liberté - Mauléon-Licharre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEPA - Place Centrale - Tardets-Sorholus",
+    "address": "531 Tranbidea - Tardets-Sorholus",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

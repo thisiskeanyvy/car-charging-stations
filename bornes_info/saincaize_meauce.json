@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sergey Kuznetsov",
+    "address": "D149 lieu dit le Sallay - Saincaize-Meauce",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Bourg - Apremont-sur-Allier",
+    "address": "28 Le Bourg - Apremont-sur-Allier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gimoulle",
+    "address": "13 Impasse du Canal - Gimouille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Rue Port - Cuffy",
+    "address": "23 Rue Port - Cuffy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parling de l'Eglise - Rue du Fournil - Magny-Cours",
+    "address": "Rue du Fournil - Magny-Cours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "AVIA - RN7 Aire de Magny Cours - Double sens",
+    "address": "N7 - Magny-Cours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "DRIVECO - Domaine de Bardonnay - Magny-Cours",
+    "address": "Domaine de Bardonnay - Magny-Cours",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - BMW - Nevers",
+    "address": "26 Boulevard du Pré Plantin - Nevers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Audi - Rond-Point Monte Cassino-Rue de Marzy - Nevers",
+    "address": "135 Rue de Marzy - Nevers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai Nevers - Suma",
+    "address": "33 Boulevard du Grands-Prés-des-Bordes - Nevers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

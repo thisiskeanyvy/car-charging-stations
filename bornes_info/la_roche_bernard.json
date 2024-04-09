@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE28 - Saint-Denis-les-Ponts",
+    "address": "Rue Jean Moulin - Saint-Denis-les-Ponts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Saint Denis les ponts",
+    "address": "17 Rue des Alouettes - Saint-Denis-les-Ponts",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Chateaudun",
+    "address": "10 Route de Tours - La Chapelle-du-Noyer",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - Chapelle-du-Noyer",
+    "address": "228A Route nationale - La Chapelle-du-Noyer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Route de Montigny - Cloyes-les-Trois-Rivières",
+    "address": "16 Route de Montigny - Cloyes-les-Trois-Rivières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Place du 18 Octobre - Chateaudun",
+    "address": "27b Place du 18 Octobre - Châteaudun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - La Chapelle-du-Noyer (Chateaudun)",
+    "address": "1 Route de Blois - Châteaudun",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Place de l'Église - Langey",
+    "address": "2 Place de l'Église - Commune nouvelle d'Arrou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Mairie de Cloyes-sur-le-Loir",
+    "address": "4 Place Gambetta - Cloyes-sur-le-Loir",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Planète Pêche - Châteaudun",
+    "address": "90 Rue des Fouleries - Châteaudun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

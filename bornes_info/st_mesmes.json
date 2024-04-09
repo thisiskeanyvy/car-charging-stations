@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Compans - Rue de Ferrières",
+    "address": "Rue de Ferrières - Compans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargeur Tesla - Manoir de Gressy (Tesla and others)",
+    "address": "Chemin des carosses - Gressy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue d'Olympie - Gressy",
+    "address": "2 Rue d'Olympie - Gressy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile Services SAS - 1 rue Albert Caquot - Compans",
+    "address": "1 rue Albert Caquot - Compans",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - Claye-Souilly - 26 Rue de la Biberonne",
+    "address": "26 Rue de la Biberonne - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - rue Paul Gauguin - Mitry-Mory",
+    "address": "3 Rue Paul Gauguin - Mitry-Mory",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Claye Souilly",
+    "address": "10 Rue Ernest Saron - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - 3 Rue Alexandre Chatrian - Claye-Souilly",
+    "address": "3 Rue Alexandre Chatrian - Claye-Souilly",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Claye-Souilly | Rue Jean Monnet",
+    "address": "Rue Jean Monnet - Claye-Souilly",
+    "connectors": [
+      "x17",
+      "x1",
+      "x17"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Allée André Benoist - Claye Souilly",
+    "address": "14 Allée André Benoist - Claye-Souilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

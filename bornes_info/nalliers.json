@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SyDEV - D137 - Les Quatre Chemins - Sainte-Gemme-la-Plaine",
+    "address": "D137 - Sainte-Gemme-la-Plaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Luçon",
+    "address": "Route de Fontenay - Luçon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Luçon",
+    "address": "Route De Fontenay-Le-Comte - Luçon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Luçon",
+    "address": "6-24 Rue des Blés d'Or - Luçon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Parking rue du 8 Mai - Chaille les Marais",
+    "address": "12 ter Rue du 8 Mai - Chaillé-les-Marais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Melon Céleste - Sainte-Gemme-la-Plaine",
+    "address": "- Sainte-Gemme-la-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Luçon - Garage Rallet",
+    "address": "162 Avenue Maréchal de Lattre de Tassigny - Luçon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place Saint Harmand - Sainte-Hermine",
+    "address": "4 Route de la Rochelle - Sainte-Hermine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEV - Place des anciens abattoirs - Rue du Moulin Rouget - Luçon",
+    "address": "Rue Du Moulin Rougets - Lucon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sydev - Place Leclerc - Luçon",
+    "address": "Place Leclerc - Lucon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

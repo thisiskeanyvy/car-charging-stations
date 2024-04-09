@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Syaden (Révéo) - 96 Avenue du Minervois - Villegly",
+    "address": "96 Avenue du Minervois - Villegly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Cité du 1er Mai Trèbes",
+    "address": "1 Rond-point de l'Europe - Trèbes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Le stade - Trèbes",
+    "address": "Le Stade - Trèbes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syaden - Hôpital de Carcassonne",
+    "address": "115 Chemin de la Madeleine - Carcassonne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Chocolaterie Nougalet - Allée De Beragne - Trèbes",
+    "address": "Allée De Beragne - Trèbes",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Trèbes",
+    "address": "Route de Narbonne N113 - Trèbes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "TotalEnergies - TREBES - Peugeot",
+    "address": "rond point de l'europe - TREBES",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Pont Rouge - Rue Magellan - Carcassonne",
+    "address": "15 Rue Magellan - Carcassonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Syaden - Petit parking proche de la mairie - Villemoustaussou",
+    "address": "Impasse des Stades - Villemoustaussou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Balladins - Carcassonne",
+    "address": "1830 Avenue Georges Guillé - Carcassonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

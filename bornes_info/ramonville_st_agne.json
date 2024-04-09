@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEHG - Allée Georges Pompidou Ramonville-Saint-Agne",
+    "address": "Allée Georges Pompidou - Ramonville-Saint-Agne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Ramonville-Saint-Agne",
+    "address": "Rue Edouard BRANLY - Ramonville-Saint-Agne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Jacques Prévert - Ramonville-Saint-Agne",
+    "address": "14 Rue Jacques Prévert - Ramonville-Saint-Agne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Ramonville",
+    "address": "7 et 9 Avenue des crêtes - Ramonville Saint Agne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Ramonville-Saint-Agne",
+    "address": "1 Rue Louis Braille - Ramonville-Saint-Agne",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ALLEGO - Métro Ramonville-Saint-Agne P+R 2 (côté bus)",
+    "address": "Avenue Flora Tristan - Ramonville-Saint-Agne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aldi - Rue Louis Braille - Ramonville-Saint-Agne",
+    "address": "16 Rue Louis Braille - Ramonville-Saint-Agne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Airbus Defence and Space - GEO",
+    "address": "3 Passage de l'Europe - Toulouse",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electra - Ramonville-Saint-Agne - Action",
+    "address": "2 avenue des crêtes - Ramonville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le Domaine de Montjoie (Tesla)",
+    "address": "63 Avenue de l'Aeropostale - Ramonville-Saint-Agne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

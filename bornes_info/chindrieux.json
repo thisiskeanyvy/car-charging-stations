@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDES73 - Route de Mijoux - Ruffieux",
+    "address": "Route de Mijoux - Ruffieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Borne de recharge de vélos électriques et appareils USB",
+    "address": "295 Rue Notre Dame des Victoires - Ruffieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pôle multimodal - Place Pierre Semard - Culoz",
+    "address": "87 Place Pierre Semard - Culoz",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Béon",
+    "address": "2 Rue Des Roselières - Béon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage des Fours - Culoz",
+    "address": "4 Rue des Roselières - Culoz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du personnel hospitalier (Privé)",
+    "address": "1 Rue de la Forêt - Rumilly",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du personnel des résidences des Cèdres et Coquelicots (Privé)",
+    "address": "21 Route de Beaufort - Rumilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Albens",
+    "address": "94 Place Jean-Marie Montillet - Albens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking du personnel de la résidence de Baufort (Privé)",
+    "address": "25 Avenue Edouard André - Rumilly",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt Solutions - Rumilly - Super U",
+    "address": "Boulevard de l'Europe - Rumilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

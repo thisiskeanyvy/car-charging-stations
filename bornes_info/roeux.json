@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ChargePoint network - 26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "address": "26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Allée d'Irlande - Feuchy",
+    "address": "Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 30 Allée d'Irlande - Feuchy (Private)",
+    "address": "30 Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Manoir de Gavrelle - 35 Route nationale - Gavrelle",
+    "address": "35 Route nationale - Gavrelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BP - A1 Aire de Wancourt Est",
+    "address": "A1 - Monchy-le-Preux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - A1 Aire de Wancourt Est (direction Lille)",
+    "address": "A 1 - Wancourt",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel restaurant l'Aquarium",
+    "address": "45 Route Nationale 50 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 340 Allée du cardo ouest - Bailleul-sir-berthoult",
+    "address": "340 Allée du cardo ouest - Bailleul-sir-berthoult",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D 950 - Fresnes-lès-Montauban",
+    "address": "D 950 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Première Classe Arras",
+    "address": "27 Avenue d'Immercourt Première Classe Arras - Tilloy-lès-Mofflaines",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

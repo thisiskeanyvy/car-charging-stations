@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Domaine Saint-François d'Assise",
+    "address": "Domaine Saint-François d'Assise - La Celle-Saint-Cloud",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Place Berthet - La Celle-Saint-Cloud",
+    "address": "8 Place du Docteur Berthet - La Celle-Saint-Cloud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electra - Vaucresson - Golf du Stade Français Haras Lupin",
+    "address": "129 avenue de la Celle Saint-Cloud - Vaucresson",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Cour du Moulin - Bougival",
+    "address": "Rue de la Cour du Moulin - Bougival",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 44 av. de la Celle Saint Cloud - Vaucresson",
+    "address": "44 Avenue de la Celle Saint-Cloud - Vaucresson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEYMABORNE - Rue Saint-Michel - Bougival",
+    "address": "Rue Saint-Michel - Bougival",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEYMABORNE - Gare de Bougival",
+    "address": "Rue Cardon - Bougival",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sigeif - Rond-point du Souvenir Français - Vaucresson",
+    "address": "12 Rond-point du Souvenir Français - Vaucresson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Square de la Croix Blanche - Vaucresson",
+    "address": "parking de la croix blanche - Vaucresson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking hotel holiday inn",
+    "address": "12 Rue Yvan Tourgueneff - Bougival",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

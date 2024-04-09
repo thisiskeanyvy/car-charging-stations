@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDESM - Rue des Pommiers - Presles en brie",
+    "address": "2 Rue des Pommiers - Presles-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché Super - Gretz-Armainvilliers",
+    "address": "2 Rue de la Ferme - Gretz-Armainvilliers",
+    "connectors": [
+      "x6",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des Remparts - Place Edmond de Rothschild -Tournan-en-Brie",
+    "address": "8 Place Edmond de Rothschild - Tournan-en-Brie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lastmile - Leclerc - Ozoir-la-Ferrière",
+    "address": "Rue François de Tessan - Ozoir-la-Ferrière",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sarreguemines - ZAC du Val Bréon - Châtres",
+    "address": "ZAC du Val Bréon - Châtres",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue Jean-Jaurès",
+    "address": "Rue Jean-Jaurès - Coubert",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue de Constantine",
+    "address": "Rue de Constantine - Coubert",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Grisy-Suisnes - Complexe Sportif",
+    "address": "6 Rue des Bois - Grisy-Suisnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDESM - Ozouer-le-Voulgis - Rue Renard",
+    "address": "Rue Renard - Ozouer-le-Voulgis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Grisy-Suisnes - 2 Rue de la Légalité",
+    "address": "2 Rue de la Légalité - Grisy-Suisnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

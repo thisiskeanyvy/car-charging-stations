@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Rue Frédéric Tourte - Cazères",
+    "address": "6 Rue Frédéric Tourte - Cazères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Rue Ernest Renan",
+    "address": "Rue Ernest Renan - Cazères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "63 Avenue Pasteur",
+    "address": "63 Avenue Pasteur - Cazères",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sport 2000 - Cazères",
+    "address": "Rue des Maraîchers - Cazères",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bouygues Energies & Services - Centre de Cazeres",
+    "address": "42 Chemin de Bel-Air - Cazères",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Macdonald - Cazeres (private)",
+    "address": "D6L - Cazères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge/19B91237",
+    "address": "31 Route des Mandillets - Le Plan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Lavelanet-de-Comminges (DTQW)",
+    "address": "72 Village - Lavelanet-de-Comminges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie - Martres-Tolosane",
+    "address": "2B Rue du Pages - Martres-Tolosane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Martres-Tolosane - Super U",
+    "address": "62 Avenue Des Pyrénées - Martres-Tolosane",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

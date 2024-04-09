@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Auberge de la Terrasse",
+    "address": "7 Rue de Beauregard - La Chataigneraie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place de la République - La Chataigneraie",
+    "address": "6 Place de la République - La Chataigneraie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 52 Avenue du Général de Gaulle - La Châtaigneraie",
+    "address": "52 Avenue du Général de Gaulle - La Châtaigneraie",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Super U châtaigneraie",
+    "address": "33 Avenue du Gén de Gaulle - La Chataigneraie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Lidl - La Chataigneraie",
+    "address": "6 Rue du Pironnet - La Chataigneraie",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - La Chataigneraie",
+    "address": "7 Unnamed Road - La Chataigneraie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Absie Voyages",
+    "address": "20 Rue dit de la Sauzaie - L'Absie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "garage beausoleil automobiles",
+    "address": "77 rue de la republique - l absie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - L'Absie - Place de la Mairie",
+    "address": "30 Place du 14 juillet 1836 - L'Absie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Restaurant Le Saint Pierre",
+    "address": "Rue de la Barillère - Moncoutant-sur-Sèvre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

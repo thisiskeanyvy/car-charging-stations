@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Parking hotel - Marcilly le chatel",
+    "address": "2 Du pavé - Marcilly le chatel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Jasserie les airelles",
+    "address": "6 Sichard - Saint-Anthème",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Peugeot - Montbrison",
+    "address": "61 Avenue Charles de Gaulle - Montbrison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking de la mairie - Boën-sur-Lignon",
+    "address": "2 Place Emile Mandrillon - Boën-sur-Lignon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IEcharge - Montverdun - L'Etang Brenot",
+    "address": "L'Etang Brenot - Montverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEL - Place Bouvier Montbrison",
+    "address": "17-21 Avenue d'Allard - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Garage Sorlon",
+    "address": "1139 La Bouteresse - Sainte-Agathe-la-Bouteresse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Boulevard Jean-françois Claude Lachèze - Montbrison",
+    "address": "16 Boulevard Jean-françois Claude Lachèze - Montbrison",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Montbrison",
+    "address": "2 Boulevard Duguet - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiloire - Avenue Thermale - Montbrison",
+    "address": "8 Avenue Thermale - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Modulo-Energies - Sampigny",
+    "address": "7 Rue Raymond Poincaré - Sampigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ligny en Barrois - Rue des Prairies",
+    "address": "1 Rue des Prairies - Ligny-en-Barrois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia | FR*OTH - Chauvoncourt - 4 Au Champ Thumaux",
+    "address": "4 Au Champ Thumaux - Chauvoncourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Modulo-Energies - Ligny en Barrois - Rue du Général de Gaulle",
+    "address": "114 Rue du Général de Gaulle - Ligny-en-Barrois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E. Leclerc",
+    "address": "- Longeville-en-Barrois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Saint-Mihiel",
+    "address": "1 Place Jacques Bailleux - Saint-Mihiel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LIDL - Saint-Mihiel",
+    "address": "2 Rue Docteur Vuillaume - Saint-Mihiel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Bar-le-Duc",
+    "address": "10 Avenue de la Grande Terre - Bar-le-Duc",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Dream Energy - Bar-le-Duc - 5 Rue des Valottes",
+    "address": "5 Rue des Valottes - Bar-le-Duc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Huot - rue de la Marsoupe",
+    "address": "2 Rue de la Marsoupe - Saint-Mihiel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

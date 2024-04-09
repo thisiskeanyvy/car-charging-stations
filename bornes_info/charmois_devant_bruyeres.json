@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Rue Du Ruxelier - Cheniménil",
+    "address": "Rue Du Ruxelier - Cheniménil",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Aydoilles - Gyrovosges",
+    "address": "6 Rue de la Haye - Aydoilles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "\"Le Prieuré\"",
+    "address": "2 Rue de la Mairie - Aydoilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Pouxeux - Super U",
+    "address": "Rue de la Moselle, Route de Remiremont ZA - Pouxeux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aldi - Rue de la Gare - Pouxeux",
+    "address": "1324 Rue de la Gare - Pouxeux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Aire de covoiturage - Route d'Épinal - Arches",
+    "address": "18 Route d'Épinal - Arches",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le chateau de Failloux",
+    "address": "3 La grande failloux - Jeuxey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Epinal",
+    "address": "86 Rue André Vitu - Épinal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Concession Land-Rover - Privé",
+    "address": "86 Rue André Vitu - Épinal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Nissan - Epinal",
+    "address": "80 rue André Vitu - Épinal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

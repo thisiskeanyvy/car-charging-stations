@@ -1,0 +1,128 @@
+[
+  {
+    "title": "FR*Y03 - Ménerville - Place de la Gare",
+    "address": "Place de la Gare - Ménerville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y01 - Perdreauville - Rue des Écoles",
+    "address": "Rue des Écoles - Perdreauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*Y03 - Bréval - Rue du Général Patton",
+    "address": "Rue du Général Patton - Bréval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FASTNED - A13 - Aire de Rosny-Sur-Seine Sud (direction Paris)",
+    "address": "5 Chemin Des 40 Arpents - Rosny-sur-Seine",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A13 - Aire de Rosny-Nord (direction Rouen)",
+    "address": "A13 - Rosny-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FR*Y03 - Neauphlette - Rue des Loges",
+    "address": "Rue des Loges - Neauphlette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Gare Rosny-sur-Seine",
+    "address": "16 Rue de la Gare - Rosny-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*Y01 - Fontenay-Mauvoisin - Rue du Clos Boullet",
+    "address": "Rue du Clos Boullet - Fontenay-Mauvoisin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place Bernard Huan",
+    "address": "Rue Nationale - Rosny-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Bonnières-sur-Seine",
+    "address": "1 Rue Jean François Feugere - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

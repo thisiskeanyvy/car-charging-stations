@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEYMABORNE - Rue Saint-Pierre - Les Alluets-le-Roi",
+    "address": "Rue Saint-Pierre - Les Alluets-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de Morainvilliers",
+    "address": "6 Allée des Tilleuls - Morainvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*Y03 - Herbeville - Ruelle Gallo",
+    "address": "Ruelle Gallo - Herbeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ecquevilly - Rue Des Alluets",
+    "address": "Rue Des Alluets - Ecquevilly",
+    "connectors": [
+      "x4",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de l'Église - Crespières",
+    "address": "Place de l'Église - Crespières",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Wallbox Maison individuelle",
+    "address": "11 rue de Morainvilliers - ECQUEVILLY",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de Fresnes - Ecquevilly",
+    "address": "Place de Fresnes - Ecquevilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Intermarché - Mareil-sur-Mauldre",
+    "address": "2 Avenue de Chavoye - Mareil-sur-Mauldre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Sud (vers Paris)",
+    "address": "315\r\n Route De Vernouillet\r\n - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Chemin Latéral - Mareil-sur-Mauldre",
+    "address": "Chemin Latéral - Mareil-sur-Mauldre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

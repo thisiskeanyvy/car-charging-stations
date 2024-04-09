@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Effia - Boulevard de Bercy Paris",
+    "address": "48 bis Boulevard de Bercy - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Belib - 13 Bd de Bercy - Paris",
+    "address": "13 Bd de Bercy - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking de bercy - Paris",
+    "address": "48 bis Boulevard de Bercy - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 4 Rue Charles Bossut Paris",
+    "address": "4 rue Charles Bossut - Paris",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Bercy",
+    "address": "210 quai de Bercy - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc souterrain Châlon Sud",
+    "address": "rue de Châlon - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pommard",
+    "address": "5 Rue de pommard - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 1 Rue du Charolais - Paris",
+    "address": "1 Rue du Charolais - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ubeequo - 20 Rue Villiot Paris",
+    "address": "20 rue Villiot - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 10 rue Villiot 75012 Paris",
+    "address": "10 Rue Villiot - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

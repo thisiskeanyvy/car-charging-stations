@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Indigo - Nancy - Parking St Nizier 1-5 Rue du Dr Schmitt",
+    "address": "1-5 Rue du Dr Schmitt - Nancy",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo Park - Place Henri Mengin - Nancy",
+    "address": "Place Henri Mengin - Nancy",
+    "connectors": [
+      "x4",
+      "x4",
+      "x15"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - Rue Raugraff - Nancy",
+    "address": "Rue Raugraff - Nancy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Parking Stanislas (-1) - Nancy",
+    "address": "13 Rue Claude Charles - Nancy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Vinci - Nancy - Parking Stanislas (R+2)",
+    "address": "13 Rue Claude Charles - Nancy",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Parking Joffre Saint Thiebaut",
+    "address": "22 Rue du grand rabbin haguenauer - Nancy",
+    "connectors": [
+      "x14",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking St Jean - Nancy",
+    "address": "Rue Léopold Lallement - Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole du Grand Nancy - 13 Rue Maurice Barres - Nancy DOUBLON",
+    "address": "13 Rue Maurice Barres - Nancy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Rue des Fabriques - Nancy",
+    "address": "Rue des Fabriques - Nancy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CREA - 8 Boulevard Joffre - Nancy",
+    "address": "8 Boulevard Joffre - Nancy",
+    "connectors": [
+      "x5",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

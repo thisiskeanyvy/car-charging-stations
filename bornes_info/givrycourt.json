@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Rue du Port - Mittersheim",
+    "address": "4 Rue du Port - Mittersheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mittersheim - Rue Du Lac",
+    "address": "Rue Du Lac - Mittersheim",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Francaltroff - 1 Rue De Dieuze",
+    "address": "1 Rue De Dieuze - Francaltroff",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BP Europa SE - Freisen - 47-51 Baumholderstraße",
+    "address": "47-51 Baumholderstraße - Freisen",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 3A Rue du Stade - Holving",
+    "address": "3A Rue du Stade - Holving",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Sarralbe",
+    "address": "86 Rue de Strasbourg - SARRALBE",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Parking des Remparts - Fénétrange",
+    "address": "- Fénétrange",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de l'Hôpital - Sarralbe",
+    "address": "16 Rue de L Hôpital - Sarralbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Quai de l'Albe - Sarralbe",
+    "address": "2 Quai de l'Albe - Sarralbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell-Recharge - Aire de Keskastel-Ouest (direction Strasbourg)",
+    "address": "A4 - Aire de Keskastel-Ouest - Keskastel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

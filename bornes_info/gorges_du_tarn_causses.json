@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Chateau de la Caze",
+    "address": "Route des Gorges du Tarn - Sainte Enimie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - La Malène",
+    "address": "D907 Bis - La Malène",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE48 - Allée du 19 Mars 1962 - Chanac",
+    "address": "2 Place de la fontaine du curé - Chanac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping La Blaquière - Massegros Causses Gorges",
+    "address": "RD 907 Bis Camping La Blaquière - Massegros Causses Gorges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - D986 Hures-la-Parade",
+    "address": "D986 - Hures-la-Parade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Rouffiac - Saint-Bauzile",
+    "address": "106 Rouffiac - Saint-Bauzile",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE48 - Ancienne gare Florac Trois Rivières",
+    "address": "10 Place de l'ancienne gare - Florac-Trois-Rivières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel La Lozerette",
+    "address": "1 Cocures Village - Bédouès-Cocurès",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Place du Pré Commun - parking derrière Mairie - La Canourgue",
+    "address": "6 Place du Pré Commun - La Canourgue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - But - Mende",
+    "address": "1 Chemin de Tivoli - Mende",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

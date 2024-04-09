@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEL - Aérodrome Roanne - Renaison",
+    "address": "Route de l'Aéroport - Saint-Léger-sur-Roanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Centre social de Riorges",
+    "address": "2 Place Jean Cocteau - Riorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Riorges",
+    "address": "53 Rue Jules Faron, - Riorges",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Parc Beaulieu - Riorges",
+    "address": "Parc Beaulieu - Riorges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Scarabée - Riorges",
+    "address": "Rue du Marclet - Riorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint network - 728 Route de Villerest - Ouches",
+    "address": "728 Route de Villerest - Ouches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Troisgros - Ouches",
+    "address": "728 Route de Villerest - Ouches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Riorges - Sise 805 rue Michel Riondet",
+    "address": "Sise 805 rue Michel Riondet - Riorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue Joseph Gallieni - Riorges",
+    "address": "Avenue Joseph Gallieni - Riorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Riorges",
+    "address": "274 Avenue Gallieni - Riorges",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

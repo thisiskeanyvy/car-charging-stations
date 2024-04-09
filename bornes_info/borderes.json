@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE65 - Place de la mairie - Bordères-sur-l'Échez",
+    "address": "1 Rue Jean Jaurès - Bordères-sur-l'Échez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Boulevard Des Ardennes - Tarbes",
+    "address": "1 Boulevard Des Ardennes - Tarbes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bordères-sur-l'Échez - Gamm Vert",
+    "address": "2 Route de Bours - Bordères-sur-l'Échez",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (Révéo) - Avenue Antoine de Saint-Exupéry, 10 - Tarbes",
+    "address": "10 Avenue Antoine de Saint-Exupéry - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - La Boucherie Tarbes",
+    "address": "59 bis Avenue du Pouey - Ibos",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Atelier du Burger - Tarbes",
+    "address": "10 Boulevard Du Maréchal Juin - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MAZDA TARBES 22kW AC",
+    "address": "12 Rue Louis Caddau - Tarbes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 (Révéo) - Avenue Alsace-Lorraine - Tarbes",
+    "address": "4 Rue de la Fonderie - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Nex Hôtel - Avenue des Forges",
+    "address": "2 bis Avenue des Forges - Tarbes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Tarbes",
+    "address": "5 D817 - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

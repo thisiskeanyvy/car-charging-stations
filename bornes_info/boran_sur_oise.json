@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Mouv' Oise - Boran sur Oise",
+    "address": "13 Rue Auchois Dupont - Boran-sur-Oise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Fondation Royaumont - Asnières-sur-Oise",
+    "address": "Abbaye de Royaumont - Asnières-sur-Oise",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Avenue de Royaumont - Asnières-sur-Oise",
+    "address": "43 Avenue de Royaumont - Asnières-sur-Oise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie D'Asnières sur Oise",
+    "address": "20 Rue d'Aval Eau - Asniès sur Oise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Public Mairie",
+    "address": "20 Rue d'Aval Eau - Asnieres sur oise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf du Lys Chantilly",
+    "address": "Rond Point du Grand Cerf - Lamorlaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE60 - Précy sur Oise",
+    "address": "Rue Gaston Wateau - Précy-sur-Oise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mouv' Oise - Gouvieux",
+    "address": "Place Amic - Gouvieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Le Mesnil en Thelle",
+    "address": "Avenue du Parc du Thelle - Le Mesnil-en-Thelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Villers-Sous-Saint-Leu",
+    "address": "Rue de Précy, - Villers-Sous-Saint-Leu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

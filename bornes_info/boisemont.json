@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Mairie de menucourt",
+    "address": "122 Rue Pasteur - Menucourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEYMABORNE - Vauréal - Rue de la Sérénade",
+    "address": "Rue de la Sérénade - Vauréal",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Car2Plug - Vauréal - Intermarché",
+    "address": "1 Place du Rendez-Vous - Vauréal",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Campus Veolia -Jouy-le-Moutier - Parking Verger",
+    "address": "Rue d'Ecancourt - Jouy-le-Moutier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Campus Veolia - Jouy-le-Moutier",
+    "address": "Rue d'Ecancourt - Jouy-le-Moutier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Villiers-le-Bel - 6 Avenue des Érables",
+    "address": "6 Avenue des Érables - Villiers-le-Bel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking 3 Gares Cergy-le Haut",
+    "address": "7 Rue de l'Embarquement - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Vaux-sur-Seine - 27 Rue du Temple",
+    "address": "27 Rue du Temple - Vaux-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NAUTILUS - Cergy",
+    "address": "9 Boulevard des Explorateurs - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de la gare - Vaux-sur-Seine",
+    "address": "4 Place de la Gare - Vaux-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

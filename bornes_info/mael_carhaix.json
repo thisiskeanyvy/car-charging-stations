@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE22 Maël-Carhaix",
+    "address": "Rue de l'Église - Maël-Carhaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Des Côtes d'Armor (SDE22) - Le Moustoir - Au Bourg",
+    "address": "Au Bourg - Le Moustoir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Glomel",
+    "address": "Parking du centre - Glomel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Carhaix Plouguer (Zone de la Villeneuve)",
+    "address": "Rue Général Jacques de la Bollardière - Carhaix-Plouguer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 Duault",
+    "address": "Route des Manoirs - Duault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Crédit Agricole - Rostrenen",
+    "address": "3 Place du Porz Moëlou - Rostrenen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Carhaix-Plouguer",
+    "address": "1521 Rue Marcel le Goff - Carhaix-Plouguer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Intermarché - Rostrenen",
+    "address": "Rue du Goasnel - Rostrenen",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rostrenen",
+    "address": "14 Route de Saint-Brieuc - Rostrenen",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE22 - Chemin de Campostal Rostrenen",
+    "address": "2 Chemin de Campostal - Rostrenen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

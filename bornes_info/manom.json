@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Garage St Jean",
+    "address": "1 Rue Pellerin - Manom",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie Yutz (Privé)",
+    "address": "Impasse Antoinette - Yutz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Thionville - 4 Avenue de Douai Parking du cimetière",
+    "address": "4 Avenue de Douai Parking du cimetière - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E-Totem - Thionville - 16-18 Rue Berthe au Grand Pied",
+    "address": "16-18 Rue Berthe au Grand Pied - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Thionville - 3 Place Général Patton",
+    "address": "3 Place General Patton - Thionville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Bibliothèque (privé Mairie)",
+    "address": "34 Avenue du Général de Gaulle - Yutz",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Yutz - 8 Rue de la République",
+    "address": "8 Rue de la République - Yutz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Thionville - Square René Schwartz",
+    "address": "Square René Schwartz - Thionville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Thionville",
+    "address": "5 Chaussee d'Amerique - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Amphy - Rue de la République",
+    "address": "126 Rue de la République - Yutz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

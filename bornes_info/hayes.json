@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Pump Lane Car Park",
+    "address": "Hayes - london",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hillingdon/Botwell Green Sports and Leisure Complex",
+    "address": "Church Road - London Borough of Hillingdon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl Supermarket, Hayes",
+    "address": "Botwell Lane - Hayes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (GB) - Pasadena Cl 147 - Hayes",
+    "address": "Pasadena Cl 147 - Hayes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/GBCPIL6662855",
+    "address": "4b Shepiston Ln - Hayes",
+    "connectors": [
+      "x6",
+      "x12"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "GeniePoint - Starbucks, 9 Bath Road - Hounslow",
+    "address": "9 Bath Road - Heathrow",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hillingdon/9 Bath Road Car Park",
+    "address": "9 Bath Road - London Borough of Hillingdon",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (GB) - Bath Road Retail park - Slough",
+    "address": "Bath Road Retail park - Slough",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Radisson Blu - Heathrow",
+    "address": "140 Bath Road - Harlington",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gridserve - M4 West Heston Services",
+    "address": "M4 Motorway Westbound - London Borough of Hounslow",
+    "connectors": [
+      "x11",
+      "x5"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

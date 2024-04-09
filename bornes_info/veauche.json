@@ -1,0 +1,124 @@
+[
+  {
+    "title": "9 Avenue du Général de Gaulle",
+    "address": "9 Avenue du Général de Gaulle - Veauche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "St Etienne Métropole - 2 Rue Mathieu de Bourbon - Andrézieux-Bouthéon",
+    "address": "2 Rue Mathieu de Bourbon - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Andrézieux-Bouthéon - Leclerc",
+    "address": "4 Boulevard Charles Voisin\r\n - Andrézieux-Bouthéon",
+    "connectors": [
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "E.leclerc - Andrézieux-Bouthéon",
+    "address": "6 Avenue Hélène Boucher - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - ZA La Grande Route de Rivas - Chambœuf",
+    "address": "24 Route de Rivas - Chambœuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Chambœuf - Intermarché",
+    "address": "Route de Rivas ZA La Grande - Chambœuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "hotel Bestwestern",
+    "address": "2 Boulevard Pierre Desgranges - Andrézieux-Bouthéon",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Brico E. Leclerc - Andrézieux-Bouthéon",
+    "address": "Rue Du 18 Juin 1827 - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "St Etienne Métropole - 26 Rue des Bullieux - Andrézieux-Bouthéon",
+    "address": "26 Rue des Bulieux - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "xtreme concept",
+    "address": "12 zone de la RicheLande - saint galmier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

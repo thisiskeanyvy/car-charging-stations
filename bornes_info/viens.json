@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Les Davids",
+    "address": "1 Rue ambroize - Viens",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Place des Aires",
+    "address": "3 Rue Jean Mermoz - Céreste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Vieille Route d'Apt - RUSTREL",
+    "address": "5000 Le Petit Plan Du Grand Jas - Rustrel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Castel Luberon - Apt",
+    "address": "1526 Avenue de Viton - Apt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place de la Mairie - Saint-Michel-l'Observatoire",
+    "address": "262 Place du Serre - Saint-Michel-l'Observatoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Place Lauze de Perret- Apt",
+    "address": "Place Lauze de Perret - Apt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Prises du marché - Apt",
+    "address": "43 Place de la Bouquerie - Apt",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue George Santoni - Apt",
+    "address": "Rue Georges Santoni - Apt",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Qovoltis - Apt - 517 Voie Domitienne Suite Home Apt",
+    "address": "517 Voie Domitienne Suite Home Apt - Apt",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Parking Lautier - Sivergues",
+    "address": "D114 / PARKING LAUTIER SIVERGUES - Sivergues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Vinci - Rue de la Poste - Marainviller",
+    "address": "Rue de la Poste - Marainviller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE54 - Salle polyvalente - Thiébauménil",
+    "address": "30 D400 - Thiébauménil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - Rue de l'Église - Manonviller",
+    "address": "6 Rue de l'Église - Manonviller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grande Rue - Laneuveville-aux-Bois",
+    "address": "57 Grande Rue - Laneuveville-aux-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Place Charles de Gaulle - Chanteheux",
+    "address": "3 Place Charles de Gaulle - Chanteheux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Moncel-lès-Lunéville",
+    "address": "Rue Hélène Boucher - Moncel-lès-Lunéville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue de la Fourasse - Moncel-les-Lunéville",
+    "address": "8 Rue de la Fourasse - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue de la République - Laronxe",
+    "address": "7 Rue de la République - Laronxe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Cora - Moncel-lès-Lunéville",
+    "address": "Route Départementale 31 - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Speedy - Moncel-lès-Lunéville",
+    "address": "2 Rue Clément Ader - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

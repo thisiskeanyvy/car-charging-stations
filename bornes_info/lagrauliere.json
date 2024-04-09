@@ -1,0 +1,120 @@
+[
+  {
+    "title": "MobiVE - Place de l'Horloge - Seilhac",
+    "address": "Place de l'Horloge\r\n - Seilhac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Gîtes le gauliat",
+    "address": "987 route de l'arboretum - Espartignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Uzerche",
+    "address": "D3 - Uzerche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'hotes Escale en Corrèze - Sadroc",
+    "address": "8 Route de Mons - Sadroc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Faurie",
+    "address": "Soleilhavoup Est - Naves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Le Bourg - Saint-Germain-les-Vergnes",
+    "address": "Le Bourg - Saint-Germain-les-Vergnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Recharger mon auto - Saint-Germain-les-Vergnes - Camping Domaine De Lascaux",
+    "address": "Route de l’Étang de Lascaux Camping Domaine De Lascaux - Saint-Germain-les-Vergnes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Joyet de Maubec",
+    "address": "2 Place des Vignerons - Uzerche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fdee19 Cinéma Louis Jouvet - Place de la Libération - Uzerche",
+    "address": "20 Place de la Libération - Uzerche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Chemin des Lèzes - Uzerche",
+    "address": "2 Chemin des Lèzes - Uzerche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

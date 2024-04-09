@@ -1,0 +1,128 @@
+[
+  {
+    "title": "USEDA - Place Jean Mermoz - Origny-Sainte-Benoite",
+    "address": "Place Jean Mermoz - Origny-Sainte-Benoite",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Rue Pasteur",
+    "address": "35BIS Rue Pasteur - Origny-Sainte-Benoîte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ribemont - Intermarché",
+    "address": "rue Blondel - Ribemont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Crédit agricole - Ribemont",
+    "address": "62 Rue Blondel - Ribemont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place du château - Ribemont",
+    "address": "Place du Château - Ribemont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Montigny en Arrouaise - Place de l'église",
+    "address": "1 Rue de Bernot - Montigny-en-Arrouaise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Rue Neuve - Itancourt",
+    "address": "1 Rue Neuve - Itancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Guise",
+    "address": "Route de Laon - Guise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brico Dépôt - Harly",
+    "address": "1973 Rue de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Harly - Brico-Dépôt",
+    "address": "300 Rue de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE22 - Rue De L'Apothicaire",
+    "address": "Rue De L'Apothicaire - Évran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de l'Église - Saint-Domineuc",
+    "address": "13 Place de l'Église - Saint-Domineuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Brev'Car - D39 - Le Quiou",
+    "address": "D39 - Le Quiou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Impasse de la Motte Féodale - Pleugueneuc",
+    "address": "Impasse de la Motte Féodale - Pleugueneuc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Tinténiac",
+    "address": "2 Rue Françoise Leroux - Tinténiac",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Calorguen",
+    "address": "Route de Dinan - Calorguen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place Tanouarn - Tinténiac",
+    "address": "Place Tanouarn - Tinténiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Rue de l'Égalité - Saint-Pierre-de-Plesguen",
+    "address": "6-8 Rue de l'Égalité - Saint-Pierre-de-Plesguen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Saint-Juvat",
+    "address": "Bourg - Saint-Juvat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'église",
+    "address": "Boulevard De La Gare - Plouasne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

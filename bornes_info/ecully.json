@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Izivia Grand Lyon - Rue Auguste Tramier - Écully",
+    "address": "2 Rue Auguste Tramier - Écully",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Tassin-La-Demi-Lune",
+    "address": "12 Avenue Victor Hugo - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Holiday Inn Lyon-Vaise (Tesla and others)",
+    "address": "13d Avenue Victor Hugo - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue Jean Rigaud - Écully",
+    "address": "Rue Jean Rigaud - Écully",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint network - 118 bis Rue Marietton - Écully",
+    "address": "118 bis Rue Marietton - Écully",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Écully - BYD Lyon",
+    "address": "4 chemin Jean-Marie Vianney - Écully",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Smart - Chemin Jean Marie Vianney - Ecully",
+    "address": "Chemin Jean Marie Vianney - Ecully",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - rue du Souvenir - Lyon",
+    "address": "65 Rue du Souvenir - Lyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volkswagen BYmyCAR - Lyon",
+    "address": "65 Rue du Souvenir - Lyon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Avenue Guy de Collongue",
+    "address": "40 Avenue Guy de Collongue - Écully",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

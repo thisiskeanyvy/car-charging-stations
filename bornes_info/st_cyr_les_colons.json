@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - Rue Les Promenades - Irancy",
+    "address": "Rue Les Promenades - Irancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Presbytère - Saint-Bris-le-Vineux",
+    "address": "2 Rue du Docteur Tardieux - Saint-Bris-le-Vineux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A6 Aire de Venoy-Chablis (direction Dijon)",
+    "address": "4 Grosse Pierre - Venoy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire du Soleil Levant (direction Paris)",
+    "address": "328 Autoroute du Soleil - Venoy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Place du donjon - Cravant",
+    "address": "26 Rue Saint-Martin - Cravant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GAUGY - Beine",
+    "address": "8 de chablis - Beine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rue de la Mairie - Beine",
+    "address": "6 Rue de la Mairie - Beine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine Louis Moreau",
+    "address": "2 Grande rue - Beines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Le Moulin de la Coudre (Tesla et autres)",
+    "address": "2 Rue des Gravottes - Venoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'HOSTELLERIE DES CLOS",
+    "address": "3 Rue de l'Hôpital - Chablis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

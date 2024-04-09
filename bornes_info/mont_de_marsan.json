@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SYDEC - Arènes de Plumaçon - Mont-de-Marsan",
+    "address": "1 Place des Arènes Georges Dubos - Mont-de-Marsan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC (MObiVE) - Place de la Douze - Mont-de-Marsan",
+    "address": "4 Place de la Douze - Mont-de-Marsan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Pole d'échange multimodal - Mont-de-Marsan",
+    "address": "11 Avenue de la Laïcité - Mont-de-Marsan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Biocoop - Mont-de-Marsan",
+    "address": "337 Boulevard Jean Larrieu - Mont-de-Marsan",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEC (MObiVE) - Place de la Caserne Bosquet",
+    "address": "175 Place de la Caserne Bosquet - Mont-de-Marsan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mont-de-Marsan - Ford",
+    "address": "995 Boulevard d'Alingsas - Mont-de-Marsan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Avenue du Stade - Mont-de-Marsan",
+    "address": "Avenue du Stade - Mont-de-Marsan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LUMI'IN - 225 Avenue de Villeneuve",
+    "address": "225 Avenue de Villeneuve - Mont-de-Marsan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue Félix Arnaudin - Saint-Pierre-du-Mont",
+    "address": "Rue Félix Arnaudin - Saint-Pierre-du-Mont",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SYDEC - Avenue Georges Sabde Saint-Pierre-du-Mont",
+    "address": "75-83 Avenue Georges Sabde - Saint-Pierre-du-Mont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

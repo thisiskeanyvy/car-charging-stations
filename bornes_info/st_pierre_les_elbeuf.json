@@ -1,0 +1,132 @@
+[
+  {
+    "title": "CREA - Rue Hélène Boucher - Saint-Pierre-lès-Elbeuf",
+    "address": "3 Rue Hélène Boucher - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gifi - Caudebec-lès-Elbeuf",
+    "address": "6 Résidence Cassiopée - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Métropole Rouen-Normandie - Caudebec-lès-Elbeuf - Rue des Champs",
+    "address": "Rue des Champs - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "CREA - Rue de Strasbourg - Caudebec-lès-Elbeuf",
+    "address": "Rue de Strasbourg - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Burger King - Saint-Pierre-lès-Elbeuf",
+    "address": "560 Avenue de Bonport - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint-Pierre-lès-Elbeuf",
+    "address": "555-697 Route de Pont-de-l'Arche - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Pierre-lès-Elbeuf",
+    "address": "660 Route de Pont-de-l'Arche - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6612515",
+    "address": "427 Rue de la Chaussée - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Caudebec les Elbeuf",
+    "address": "1055 Rue Emile Zola - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Rue Poussin - Elbeuf (Fabrique des Savoirs)",
+    "address": "28 Rue Poussin - Elbeuf",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

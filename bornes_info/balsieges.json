@@ -1,0 +1,140 @@
+[
+  {
+    "title": "RÉVÉO - Rouffiac - Saint-Bauzile",
+    "address": "106 Rouffiac - Saint-Bauzile",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - But - Mende",
+    "address": "1 Chemin de Tivoli - Mende",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint - Hyper U (parking couvert) - Mende",
+    "address": "19 Chemin de Ramilles - Mende",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EV Box - Hôtel Deltour - Avenue des Gorges du Tarn",
+    "address": "34 Avenue des Gorges du Tarn - Mende",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Mende - Brit Hotel",
+    "address": "Avenue De Ramilles 1 - Mende",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Espace événement - Mende",
+    "address": "3 Chemin de Saint-Ilpide - Mende",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - Boulevard Lucien Arnault - Mende",
+    "address": "10 Boulevard Lucien Arnault - Mende",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Aérodrome de Mende-Brenoux (24/7)",
+    "address": "Lieu dit Aérodrome de Mende-Brenoux - Mende",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Mende - Bony Automobiles (Privée)",
+    "address": "Chemin des Gardes - Mende",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Allée du 19 Mars 1962 - Chanac",
+    "address": "2 Place de la fontaine du curé - Chanac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

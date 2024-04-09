@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDESM - Parking eglise",
+    "address": "11 Rue Maigrette - Flagy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eglise Noisy",
+    "address": "5 Rue de Dormelles - Noisy-Rudignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de l'eglise",
+    "address": "2 Place de l'Église - Ville-Saint-Jacques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Mairie de Voulx",
+    "address": "2 Grande Rue - Voulx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RENAULT- Avenue du 8 Mai 1945 - Varennes sur Seine",
+    "address": "43 Avenue du 8 Mai 1945 - Varennes-sur-Seine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route du Petit Fossard - Esmans",
+    "address": "52 Route Du Petit Fossard - Esmans",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge France - Rue du Bréau 1 Espace Commercial du Breau - Varennes-sur-Seine DOUBLON",
+    "address": "Rue du Petit Fossard - Varennes-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Leclerc le Bréau - Varennes-sur-Seine",
+    "address": "- Varennes-sur-Seine",
+    "connectors": [
+      "x4",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "NewMotion FR - Cannes-Écluse - RN6",
+    "address": "RN6 - Cannes-Écluse",
+    "connectors": [
+      "x16",
+      "x16",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Poivre rouge - Varennes-sur-Seine (Privé)",
+    "address": "37 Route du Petit Fossard - Esmans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

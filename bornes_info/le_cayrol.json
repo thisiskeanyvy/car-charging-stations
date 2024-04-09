@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEDA - place Pierre Frontin",
+    "address": "Rue de l'Ouest - Espalion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Rue de la Bouisse - Saint-Côme-d'Olt",
+    "address": "1 Rue de la Bouisse - Saint-Côme-d'Olt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Quai du Lot Estaing",
+    "address": "1 Quai du Lot - Estaing",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Place Centrale - RD 19 - Saint-Chely D'Aubrac",
+    "address": "D19 - Saint-Chély-d'Aubrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - D97, Le Bourg - Le Nayrac",
+    "address": "D97, Le Bourg - Le Nayrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Village de MANDAILLES",
+    "address": "3000 Mandailles - Castelnau-de-Mandailles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Laguiole - Place du Foirail",
+    "address": "514 Place du Foirail - Laguiole",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Restaurant - Laguioles",
+    "address": "2 Allee de l'amicale - Laguioles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Allée de l'Amicale - Laguiole",
+    "address": "2 Allée De L'amicale - Laguiole",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best Western Le Relais de Laguiole Hôtel & Spa",
+    "address": "Espace Les Cayres, Rue de Lavernhe - Laguiole",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

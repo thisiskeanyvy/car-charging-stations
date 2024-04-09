@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Mairie La Chapelle-Saint-Aubin (privé)",
+    "address": "1 Rue du Coup de Pied - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avenue des Frères Renault La Chapelle-Saint-Aubin",
+    "address": "22 Avenue des Frères Renault - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - La Chapelle-Saint-Aubin - Rue Louis Delage Les Alivernays",
+    "address": "Rue Louis Delage Les Alivernays - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SGA Automation - 17-21 Rue André Citroën - Le Mans INEXISTANT",
+    "address": "17-21 Rue André Citroën - Le Mans",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AFOREM Le Mans",
+    "address": "Le Bas Palluau – Les Vignes - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Tesla Supercharger V2 - Le Mans",
+    "address": "6-24 Rue de la Rivière - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Auchan - La Chapelle-Saint-Aubin",
+    "address": "6-24 Rue de la Rivière - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Castorama - le Mans",
+    "address": "0 Z.a. de l'ardoise route d'alençon72021 - LE MANS - Le Mans",
+    "connectors": [
+      "x27",
+      "x27"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Le Mans | Rue Hippolyte Foucault",
+    "address": "Rue Hippolyte Foucault - Le Mans",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Le Mans - Parc Manceau",
+    "address": "Rue du Parc Manceau - Le Mans",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

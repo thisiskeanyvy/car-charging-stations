@@ -1,0 +1,146 @@
+[
+  {
+    "title": "FDEL - Côte du Ségala Bagnac-sur-Célé",
+    "address": "3 Côte du Ségala - Bagnac-sur-Célé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - Rue du 8 Mai 1945 - Maurs",
+    "address": "9 Rue du 8 Mai 1945 - Maurs",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Maurs - 3 Calsacy",
+    "address": "3 Calsacy - Maurs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Intermarché - Saint-Étienne-de-Maurs",
+    "address": "8 Route d'Aurillac - Saint-Étienne-de-Maurs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEL (Révéo) - Boulevard du Colonel Teulie - Figeac",
+    "address": "24 Boulevard du Colonel Teulié - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Révéo - Avenue des Carmes - Figeac",
+    "address": "7 Avenue des Carmes - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL (Révéo) - Parking Jean Jaures - Figeac",
+    "address": "6 Avenue Jean Jaurès - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Figeac",
+    "address": "15\r\n Av. Président Georges Pompidou\r\n - Figeac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electromaps - Intermarché - Figeac",
+    "address": "17 Avenue Ratier - Figeac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - L'Aiguille - Figeac",
+    "address": "L'Aiguille - Figeac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

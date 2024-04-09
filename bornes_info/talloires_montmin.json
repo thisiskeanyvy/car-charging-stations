@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Chalet de Christine",
+    "address": "- Talloires",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l'hôtel \"L'Abbaye\" (Tesla and others)",
+    "address": "2 Chemin des Moines - Talloires",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - Hôtel Le Lac - 40 Rue André Theuriet - Talloires-Montmin",
+    "address": "40 Rue André Theuriet - Talloires-Montmin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Parking Mairie - Talloires-Montmin",
+    "address": "26 Clos Derrière - Talloires-Montmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Beau-Site Talloires (Tesla and others)",
+    "address": "118 Rue André Theuriet - Talloires",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HOTEL - Auberge du Père Bise (Privée)",
+    "address": "293 Route du Port - Talloires-Montmin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syane - Place de l'église - DUINGT",
+    "address": "Place de l'église - DUINGT",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Palace de Menthon (Tesla and others)",
+    "address": "667 Route des Bains - Menthon-Saint-Bernard",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route des Moulins - Menthon-Saint-Bernard",
+    "address": "326 Route des Moulins - Menthon-Saint-Bernard",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Saint-Jorioz - Camping Europa",
+    "address": "1444 Route D'albertville - Saint-Jorioz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

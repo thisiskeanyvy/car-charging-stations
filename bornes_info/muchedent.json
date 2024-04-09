@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE76 - Les Grandes-Ventes (place du marché)",
+    "address": "3 Place de l'Hôtel de ville - Les Grandes-Ventes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Torcy le Petit",
+    "address": "Route de Dieppe - Torcy-le-Petit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare - Longueville-sur-Scie",
+    "address": "2bis Rue du Général de Gaulle - Longueville-sur-Scie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cabane dans les arbres - La Chaussée",
+    "address": "741 Rue du Duché - La Chaussée",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Style Coiffure",
+    "address": "3 Rue du Maréchal Foch - AUFFAY",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Moulin de la gare",
+    "address": "Rue de la gare - Auffay",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Gare Auffay sur la route près ambulances SUPPRIMÉ",
+    "address": "Rue de la Libération - Auffay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Place Michel Hollard - Val-de-Scie",
+    "address": "Place Michel Hollard - Val-de-Scie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Saint-Victor-l'Abbaye",
+    "address": "40 Rue Guillaume le Conquérant - Saint-Victor-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Saint-Nicolas-d'Aliermont (Place de la Libération)",
+    "address": "Rue de l'Église - Saint-Nicolas-d'Aliermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

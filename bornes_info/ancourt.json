@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE76 - Derchigny INEXISTANT",
+    "address": "18 Route de Dieppe - Derchigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Belleville-sur-Mer",
+    "address": "Rue des Pêcheurs - Belleville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Saint-Nicolas-d'Aliermont (Place de la Libération)",
+    "address": "Rue de l'Église - Saint-Nicolas-d'Aliermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6596925",
+    "address": "23 Rue des Prairies Voie F - Rouxmesnil-Bouteilles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Dieppe",
+    "address": "Avenue Charles Nicolle - Dieppe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Dieppe",
+    "address": "Rue de l'Ancien Port - Martin-Église",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bricomarché - Rouxmesnil-Bouteilles",
+    "address": "1 Zone Industrielle Louis Delaporte - Rouxmesnil-Bouteilles",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Opel - Rouxmesnil-Bouteilles",
+    "address": "100 rue Louis Delaporte - Rouxmesnil-Bouteilles",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Hyundai - Rouxmesnil-Bouteilles",
+    "address": "Zone Industriel Verte Rue Louis Delaporte, - Rouxmesnil-Bouteilles",
+    "connectors": [
+      "x1",
+      "x5",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le val boise",
+    "address": "56 Avenue du Captain Portheous - Petit-Caux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

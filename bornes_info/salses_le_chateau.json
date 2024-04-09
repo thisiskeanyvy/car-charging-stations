@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SYDEEL66 - Parking Salle polyvalente Salses-le-Chateau",
+    "address": "Impasse d'en Valette - Salses-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "XOT brewpub cave restaurant",
+    "address": "2 Rue Édouard Belin - Rivesaltes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Cgr Rue des Frères Lumière",
+    "address": "Rue des Frères Lumière - Rivesaltes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Relais Rivesaltes Nord",
+    "address": "Rue Olivier de Serres - Rivesaltes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ZEwatt - Biocoop - Claira",
+    "address": "Rue Neptune - Claira",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Del Arte - 1 Rue Max Linder",
+    "address": "1 Rue Max Linder - Rivesaltes",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Le Crest Claira",
+    "address": "Le Crest - Rue Minerve - claira",
+    "connectors": [
+      "x6",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Rue Georges Mélies Centre Commercial Cap Roussillon - Rivesaltes",
+    "address": "1 Rue Georges Mélies - Rivesaltes",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Recharger mon auto - Rivesaltes - Ford",
+    "address": "17 Avenue du Romani FORD Garage Christophe Guillouf - Rivesaltes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Perpignan Claira",
+    "address": "Route du Barcarès - Claira",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

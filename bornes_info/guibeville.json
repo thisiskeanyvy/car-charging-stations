@@ -1,0 +1,132 @@
+[
+  {
+    "title": "12 Rue des Douves - Guibeville",
+    "address": "12 Rue des Douves - Guibeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - La Norville - Netto",
+    "address": "4 Route de Marolles - La Norville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Electric Auto Arpajonnais (Privé).",
+    "address": "51 Route de la ferte alais - La Norville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking garage MECALION",
+    "address": "14 bis Allee de la mare jacob - La norville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Route des Loges - La Norville (Privé)",
+    "address": "Route des Loges - La Norville",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Avrainville - 10 Rue de la Mairie",
+    "address": "10 Rue de la Mairie - Avrainville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Marolles-en-Hurepoix",
+    "address": "4 Rue Panhard et Levassor - Marolles-en-Hurepoix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Espace Concorde",
+    "address": "12 Boulevard Abel Cornaton - Arpajon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking souterrain Verdie",
+    "address": "2 Rue du Docteur Verdie - Arpajon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kinépolis - Brétigny-sur-Orge",
+    "address": "5 Rue Michèle Morgan - Brétigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

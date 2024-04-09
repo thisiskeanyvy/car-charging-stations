@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hostellerie d'Acquigny",
+    "address": "1 Rue d'Evreux - Acquigny",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Route de Louviers - Hondouville",
+    "address": "Route de Louviers - Hondouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Deux Sapins",
+    "address": "24 Rue de la Mairie - Cailly-sur-Eure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Louviers",
+    "address": "Rond Point du Becket - Louviers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place du Champ de ville - Louviers",
+    "address": "5 Place du Champ de ville - Louviers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Louviers - CC Les Tisserands",
+    "address": "Bd du Dr Postel - Louviers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Vironvay - Les Foulonnières - Route de Pinterville",
+    "address": "Les Foulonnières - Route de Pinterville - Vironvay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - La Halle - Rue du Maréchal Foch - Louviers",
+    "address": "7 Rue Du Maréchal Foch - Louviers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Manoir de Surville",
+    "address": "82 Rue Bernard Pétel - Surville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Avenue des Peupliers - Louviers",
+    "address": "1 Avenue des Peupliers - Louviers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

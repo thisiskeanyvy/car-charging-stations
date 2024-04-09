@@ -1,0 +1,140 @@
+[
+  {
+    "title": "USEDA - Rue Neuve - Itancourt",
+    "address": "1 Rue Neuve - Itancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - A26 Aire d'Urvillers",
+    "address": "A26 - Urvillers",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - A26 Aire d'Urvillers (Double sens)",
+    "address": "A26/E17 Autoroute des Anglais - Urvillers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GCK Energy - A26 Aire d'Urvillers (double sens)",
+    "address": "Aire d'Urvillers - Urvillers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Netto - Saint-Quentin",
+    "address": "106 Rue de la Fère - Saint-Quentin",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Rue Eugène Freyssinet - Gauchy",
+    "address": "1 Rue Eugène Freyssinet - Gauchy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Avenue Pierre Choquart",
+    "address": "Avenue Pierre Chocquart - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi - Saint-Quentin",
+    "address": "60bis Rue de la Fère - Saint-Quentin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brico Dépôt - Harly",
+    "address": "1973 Rue de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Harly - Brico-Dépôt",
+    "address": "300 Rue de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

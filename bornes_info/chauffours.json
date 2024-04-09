@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE28 - St Georges sur Eure - Pl. Eglise",
+    "address": "1 Place De L'Eglise - Saint-Georges Sur Eure",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Saint-Georges-sur-Eure",
+    "address": "1 Rue de la Plaine - Saint-Georges-sur-Eure",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 19 Avenue du Val de l'Eure",
+    "address": "19 Avenue du Val de l'Eure - Fontenay-sur-Eure",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Opel Rent Fontenay Sur Eure",
+    "address": "11 Avenue du Val de l'Eure - Fontenay-sur-Eure",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Chartres (Luisant)",
+    "address": "8 Rue Jean Perrin - Luisant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Hyundai - Luisant (Privé)",
+    "address": "18 Rue Jean Perrin - Luisant",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue Perrin - Luisant",
+    "address": "23 Rue Jean Perrin - Luisant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue du Marechal Leclerc - Lucé",
+    "address": "Rue du Marechal Leclerc - Lucé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*ETI - Lucé - 2 Impasse du Périgord Carrefour de l'Europe",
+    "address": "2 Impasse du Périgord Carrefour de l'Europe - Lucé",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Barjouville",
+    "address": "1 Rue Des Orvilles - Barjouville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

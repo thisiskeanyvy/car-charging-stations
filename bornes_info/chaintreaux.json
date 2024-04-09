@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDESM - 1 Chemin des Mariniers - Souppes-sur-Loing",
+    "address": "1 Chemin des Mariniers - Souppes-sur-Loing",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - 19 rue de la Ballastière - Bagneaux-sur-Loing",
+    "address": "19 Rue de la Ballastière - Bagneaux-sur-Loing",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Rue Gustave Eiffel - Nemours",
+    "address": "4 Rue Gustave Eiffel - Nemours",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Darvault - Rue de la Mairie",
+    "address": "Rue de la Mairie - Darvault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Nemours (direction Auxerre)",
+    "address": "A6 - Nemours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A6 - Aire de Darvault (direction Paris)",
+    "address": "A6 - Darvault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Parking de l'Ecole communale des filles",
+    "address": "2-6 Rue du Gâtinais - Château-Landon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem (FR*ETI) - Nemours - 1 Place des Moines",
+    "address": "1 Place des Moines - Nemours",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes du Martroy",
+    "address": "670 Impasse du Martroy - Nargis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Château-Landon",
+    "address": "12 Rue de Nisceville, - Château-Landon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

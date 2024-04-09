@@ -1,0 +1,130 @@
+[
+  {
+    "title": "BP - A1 Aire de Wancourt Est",
+    "address": "A1 - Monchy-le-Preux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - A1 Aire de Wancourt Est (direction Lille)",
+    "address": "A 1 - Wancourt",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - 30 Allée d'Irlande - Feuchy (Private)",
+    "address": "30 Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Allée d'Irlande - Feuchy",
+    "address": "Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Première Classe Arras",
+    "address": "27 Avenue d'Immercourt Première Classe Arras - Tilloy-lès-Mofflaines",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "address": "26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Les nouveaux Garages de l'Artois",
+    "address": "134 route de Cambrai - Arras",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L./6644 INEXISTANT",
+    "address": "10 Rue Hans Geiger - Arras",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Beaurains - Brico-Dépôt",
+    "address": "Avenue des Coquelicots Boréal Parc - Beaurains",
+    "connectors": [
+      "x14",
+      "x13",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SACA Peugeot",
+    "address": "29 Chemin de Pelves - Arras",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

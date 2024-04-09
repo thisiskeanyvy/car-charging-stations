@@ -1,0 +1,132 @@
+[
+  {
+    "title": "ChargePoint - Intermarché - Saint-Jeoire",
+    "address": "123 Route de Montrenaz - Saint-Jeoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Faucigny - Saint-Jeoire",
+    "address": "64 Rue du Faucigny - Saint-Jeoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de HauteLuce - eborn - Marignier",
+    "address": "326 Avenue de la Mairie - Marignier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Gare de Marignier",
+    "address": "203 Avenue de la Gare - Marignier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Thyez",
+    "address": "2525 Avenue des Vallées - Thyez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Route de la Ramaz - Taninges (Praz De Lys)",
+    "address": "Route de la Ramaz - Taninges (Praz De Lys)",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Réseau TCB FR - THYEZ - 45 ALLEE DE GLAISY",
+    "address": "45 ALLEE DE GLAISY - THYEZ",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eBorn - Rue de la Mairie - THYEZ",
+    "address": "Rue de la Mairie - THYEZ",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Marignier",
+    "address": "40 Rue de les Clus - Marignier",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Avenue des Thézières Taninges",
+    "address": "169-189 Avenue des Thézières - Taninges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

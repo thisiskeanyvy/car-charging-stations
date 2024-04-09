@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - Avenue de Daniate - Nogaro",
+    "address": "Avenue de Daniate - Nogaro",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Restaurant Solenca - 984 Avenue De Daniate - Nogaro",
+    "address": "984 Avenue De Daniate - Nogaro",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Du Midour - Nogaro",
+    "address": "Avenue Du Midour - Nogaro",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Nogaro",
+    "address": "2 Av. de Périé - Nogaro",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 1 Cave Coopérative - Nogaro",
+    "address": "1 Cave Coopérative - Nogaro",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Restaurant Solenca",
+    "address": "984 Avenue de Daniate - Nogaro",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Allée du Colonel Parisot - Nogaro",
+    "address": "1 Allée du Colonel Parisot - Nogaro",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE32 - Route de Mont-de-Marsan - Le Houga",
+    "address": "16 Route de Mont-de-Marsan - Le Houga",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Ferme aux Cerfs et aux Sangliers",
+    "address": "D6 - Le Houga",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Riscle - Route de Bigorre",
+    "address": "Route de Bigorre - Riscle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

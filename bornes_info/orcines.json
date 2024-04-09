@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SIEG 63 - Rue de la Liberté",
+    "address": "9 Rue de la Liberté - Orcines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - Orcines - 59 Route de la Baraque",
+    "address": "59 Route de la Baraque - Orcines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dôme à Bulles",
+    "address": "60 Rue des 3 fontaines - Orcines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Rue Des Chataigniers - Durtol",
+    "address": "2 Rue Des Chataigniers - Durtol",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Clermont-Ferrand (Privé)",
+    "address": "Avenue du Puy de Dôme - Clermont Ferrand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Place Allard - Royat",
+    "address": "Place Allard - Royat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Allée du Pariou - Royat",
+    "address": "Allée du Pariou, parking casino - Royat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEG63 - Place Paul Eychart - La Roche-Blanche",
+    "address": "5000 Novialle - La Roche-Blanche",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEG 63 - Route Durtol",
+    "address": "1 Route Durtol - Nohanent",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel Royal Saint Mart",
+    "address": "6 Avenue de la Gare - Royat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

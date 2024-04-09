@@ -1,0 +1,128 @@
+[
+  {
+    "title": "See You Sun - Rue des Cyclamens - Le Mans",
+    "address": "1 Rue des Cyclamens - Le Mans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking du Stade de Fontenelles",
+    "address": "40 Rue du Taillis - Le Mans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - Neuville-sur-Sarthe - Chemin de Chapeau",
+    "address": "Chemin de Chapeau - Neuville-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A11 - Aire de la Sarthe-Sargé-Le Mans (direction Paris)",
+    "address": "A11 - Sargé-lès-le-Mans",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Truffaut Saint-Pavace",
+    "address": "Boulevard du Maréchal de Lattre de Tassigny - Saint-Pavace",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A11 - Aire de la Sarthe-Sargé-Le Mans (direction Angers)",
+    "address": "A11 - Sargé-lès-le-Mans",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "la Pommeraie",
+    "address": "314 Rue de l'Éventail - Le Mans",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Le Mans - 34 rue de Douce Amie",
+    "address": "34 rue de Douce Amie - Le Mans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - U Location - Saint-Pavace",
+    "address": "2 Route de Coulaines - Saint-Pavace",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Route de Paris - Yvré-l'Évêque",
+    "address": "23 Route de Paris - Yvré-l'Évêque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

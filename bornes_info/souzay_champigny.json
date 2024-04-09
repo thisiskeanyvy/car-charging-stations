@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEML - Varennes Sur Loire - Rue De La Gare",
+    "address": "Rue de la Gare - Varennes-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Mairie de Varrains",
+    "address": "7 Rue de la Mairie - Varrains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Super U - Saumur",
+    "address": "76 Rue Jehan Alain - Saumur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - SAUMUR - Rue Des Moulins",
+    "address": "Rue des Moulins - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Anne d'Anjou",
+    "address": "32 Quai Mayaud - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Hôtel Mercure - Saumur",
+    "address": "1 Rue du Vieux Pont - Saumur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Square Balzac - Saumur",
+    "address": "Square Balzac - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saumur",
+    "address": "Boulevard Vallerots - Saumur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking prive hotel Best Western Adagio",
+    "address": "94 Avenue du Général de Gaulle - Saumur",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saumur",
+    "address": "84 Rue de Rouen - Saumur",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

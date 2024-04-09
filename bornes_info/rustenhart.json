@@ -1,0 +1,136 @@
+[
+  {
+    "title": "TotalEnergies - Super U - Relais Fessenheim",
+    "address": "1 Rue de l'Abolition - Fessenheim",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Rue de la 1ère Armée - Fessenheim",
+    "address": "14 Rue de la 1ère Armée - Fessenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Rue de l'Europe - Fessenheim",
+    "address": "Rue de l'Europe - Fessenheim",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ALDI - Rue des Alpes - Niederhergheim",
+    "address": "2 Rue des Alpes - Niederhergheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermaché - Neuf-Brisach",
+    "address": "6 Rue de la Gravière - Volgelsheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Office de tourisme - Place d'Armes Général de Gaulle - Neuf-Brisach",
+    "address": "6 Place d'Armes Général de Gaulle - Neuf-Brisach",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Eglise Royale Saint Louis - Neuf-Brisach",
+    "address": "26 Place d'Armes Gal de Gaulle - Neuf-Brisach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Charge ON - A64 Bremgarten",
+    "address": "1 Rasthof - Hartheim",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Sainte-Croix-en-Plaine - 2 Rue Jean Mermoz",
+    "address": "2 Rue Jean Mermoz - Sainte-Croix-en-Plaine",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Médiathèque Espace Liberté - Rue du Cerf - Ensisheim",
+    "address": "2 Rue du Cerf - Ensisheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

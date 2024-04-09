@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Rossini Energy - Villy-le-Pelloux - 210 Rue des Glaises (Privé)",
+    "address": "210 Rue des Glaises - Villy-le-Pelloux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A410 Aire de Groisy (direction Allonzier-la-Caille)",
+    "address": "A410 - Aire de Groisy - Groisy",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Fastned - A410 Aire des Crêts Blancs (direction Bonneville)",
+    "address": "A410 - Aire des Crêts Blancs - Groisy",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking la Groisilienne - Groisy",
+    "address": "914 Rue de Boisy - Groisy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Isère - RD 1203 - CHARVONNEX",
+    "address": "RD 1203 - CHARVONNEX",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Carrefour Market - Cruseilles",
+    "address": "629 Route d'Annecy - Cruseilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour proximité France - Fillière - 273 Route Impériale",
+    "address": "273 Route Impériale - Fillière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYANE - Route d'Annecy - Cruseilles",
+    "address": "43-75 Route d'Annecy - Cruseilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mairie d'Argonay",
+    "address": "1 place Arthur Lavy - Argonay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Route Des Contamines - Argonay",
+    "address": "50 Route Des Contamines - Argonay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

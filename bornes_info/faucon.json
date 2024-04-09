@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Sigeif - Stade Franconville",
+    "address": "112 Rue des Pommiers Saulniers - Franconville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Piscine Municipale de Franconville",
+    "address": "25 Avenue des Marais - Franconville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Chemin de la Mare Épineuse - Franconville",
+    "address": "346-368 Chemin de la Mare Épineuse - Franconville",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Five Guys - Franconville",
+    "address": "326 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ikea (zone clients 2) - Franconville",
+    "address": "337 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x13",
+      "x13"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ikea (zone clients 1) - Franconville",
+    "address": "337 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Place Eugene Delacroix - Montigny-les-Cormeilles",
+    "address": "2 Rue Auguste Renoir - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Quai des marques - Franconville",
+    "address": "231 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Gare de Franconville Plessis Bouchard",
+    "address": "6 Rue Charles Burger - Franconville",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Rue Vincent Van Gogh - Montigny-lès-Cormeilles",
+    "address": "3 Rue Vincent Van Gogh - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

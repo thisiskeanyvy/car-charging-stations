@@ -1,0 +1,132 @@
+[
+  {
+    "title": "TotalEnergies - Chemin du Moulin de Vrilly - Reims",
+    "address": "1 Chemin du Moulin de Vrilly - Reims",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Agriliance - Rue Clément Ader - Reims (Privé)",
+    "address": "Rue Clément Ader - Reims",
+    "connectors": [
+      "x5",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "AUDI REIMS - Quantium by autosphere",
+    "address": "14 Rue Léna Bernstein - Reims",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAPIAN",
+    "address": "11 Rue Maurice Hollande - Reims",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Porsche Reims",
+    "address": "12 Rue Léna Bernstein - Reims",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen Reims",
+    "address": "10 Rue Léna Bernstein - Reims",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Zephyre - Hotel Mercure Parc des Expositions - Reims",
+    "address": "2 Rue Gabriel Voisin - Reims",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ZEborne - 9 Rue Léna Bernstein - Reims",
+    "address": "9 Rue Léna Bernstein - Reims",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Rue Léna Bernstein - Reims",
+    "address": "- Reims",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW - Reims",
+    "address": "3 Rue Léna Bernstein - Reims",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

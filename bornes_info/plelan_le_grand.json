@@ -1,0 +1,134 @@
+[
+  {
+    "title": "OuestCharge - Rue des Korrigans - Plélan-le-Grand",
+    "address": "2 Rue des Korrigans - Plélan-le-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Avenue du Général Leclerc - Guer",
+    "address": "25 Avenue du Général Leclerc - Guer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Morbihan énergies - Place de la Gare - Guer",
+    "address": "Place de la Gare - Guer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Rue de la Poste - Iffendic",
+    "address": "Rue de la Poste - Iffendic",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ouest Charge - Rue du Presbytère - Maure-de-Bretagne",
+    "address": "Rue du Presbytère - Maure-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Morbihan énergies - Rue du 19 Mars - Mauron",
+    "address": "2B Chemin Saint-Pierre - Mauron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue du Verger - Augan",
+    "address": "1 Rue du Presbytère - Augan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "6 Impasse du Shannon",
+    "address": "6 Impasse du Shannon - Montfort-sur-Meu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château du Pin - Iffendic",
+    "address": "La veronnière - Iffendic",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue De La Petite Motte - Bréal-sous-Montfort",
+    "address": "30 Rue De La Petite Motte - Bréal-sous-Montfort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

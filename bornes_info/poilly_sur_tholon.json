@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEY - Rue de la Halle - Aillant-sur-Tholon",
+    "address": "11 Rue de la Halle - Aillant-sur-Tholon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEY - Parking rue du 8 mai - Aillant-sur-Tholon",
+    "address": "6 Rue du 8 Mai - Aillant-sur-Tholon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Parking mairie - Rue de la Petite Motte - Fleury-la-Vallée",
+    "address": "2 Rue de la Petite Motte - Fleury-la-Vallée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 13 Route de Joigny - Senan",
+    "address": "13 Route de Joigny - SENAN (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - CHARBUY",
+    "address": "50 Grande Rue - Charbuy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine et Golf du Roncemay (Porsche)",
+    "address": "Boisserelle - Chassy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 17 Rue du 14 Juillet - Lindry",
+    "address": "17 Rue du 14 Juillet - Lindry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Deharbe - Charbuy",
+    "address": "2 Chemin des Hantés - Charbuy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Grande Rue Champlay",
+    "address": "54bis Grande Rue - Champlay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BUMP-CHARGE - Appoigny - Hôtel Kyriad Direct Auxerre",
+    "address": "D319, Rue du Fossé du Bois - Appoigny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

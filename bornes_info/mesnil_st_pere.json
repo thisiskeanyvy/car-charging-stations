@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEA - Port - Mesnil-Saint-Père",
+    "address": "5 Rue du Lac - Mesnil-Saint-Père",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking - Grande Rue - Montiéramey",
+    "address": "41 Grande Rue - Montiéramey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEA - Rue de la Pierre - La Villeneuve-au-Chêne",
+    "address": "1 Rue de la Pierre - La Villeneuve-au-Chêne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Place Maurice Jacquinot - Lusigny-sur-Barse",
+    "address": "14 Place Maurice Jacquinot - Lusigny-sur-Barse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Parking - Rue Louis Genevois",
+    "address": "4 Rue Louis Genevois - Lusigny-sur-Barse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Plage Géraudot",
+    "address": "79 Les Amberts - Géraudot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Plage de Geraudot",
+    "address": "79 Les Hamberts - Géraudot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A5 - Aire de Troyes-le Plessis (direction Troyes)",
+    "address": "A5 - Fresnoy-le-Château",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A5 - Aire de Troyes-Fresnoy (direction Dijon)",
+    "address": "A5 - Fresnoy-le-Château",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine de la Forêt d'Orient Natur' Hôtel Golf et Spa (Tesla and others)",
+    "address": "1 La Postolle - Rouilly-Sacey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

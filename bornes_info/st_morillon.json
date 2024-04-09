@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEEG33 - Rue Grand Rue - Saint-Selve",
+    "address": "Rue Grand Rue - Saint-Selve",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - La Brédinière",
+    "address": "25a Rue des Templiers - La Brède",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A62 - Aire des Terres de Graves (direction Langon)",
+    "address": "10 Autoroute des Deux Mers - Saint-Michel-de-Rieufret",
+    "connectors": [
+      "x6",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge - A62 Aire des Terres de Graves Nord (direction Bordeaux)",
+    "address": "A62 - Saint-Michel-de-Rieufret",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borne du Château d'Eyran",
+    "address": "20 Avenue du Sable d'Expert - Saint-Médard-d'Eyrans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie d'Ayguemorte les graves",
+    "address": "20 avenue Général de Gaulle - Ayguemorte Les Graves",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue de la Papeterie - Beautiran",
+    "address": "3 Rue de la Papeterie - Beautiran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Parking du pas de l'âne - Martillac",
+    "address": "5 Impasse Massiot - Martillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie de Portets",
+    "address": "Rue du Maréchal Leclerc - Portets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Martillac",
+    "address": "20 Chemin De Lagrange - Martillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

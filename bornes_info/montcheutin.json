@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Modulo-Energies - Place René Boure - Grandpré",
+    "address": "Place René Boure - Termes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "1 Rue Charles Hemmerlé",
+    "address": "1 Place de la Mairie - Monthois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Zephyre - HOTEL RESTAURANT LE TULIPIER - 127 Rue Saint Jacques",
+    "address": "127 Rue Saint Jacques - Vienne-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tribunal - Rue Gambetta",
+    "address": "34 Rue Gambetta - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDEA 08 - Rue du Champ de Foire - Vouziers N°2",
+    "address": "25 Rue du Champ de Foire - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Camping Municipal Le Paquis",
+    "address": "Rue Saint-Jean - Varennes-en-Argonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping La Samaritaine",
+    "address": "3 Allée des Étangs - Buzancy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEA - Buzancy",
+    "address": "1 Rue Dom Mobillon - Buzancy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEM51 - Place d'Austerlitz - Sainte Menehould",
+    "address": "23 Place d'Austerlitz - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U & Drive - Sainte-Menehould",
+    "address": "Av. de la Gare - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

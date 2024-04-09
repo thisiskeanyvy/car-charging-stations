@@ -1,0 +1,128 @@
+[
+  {
+    "title": "MObiVE - Gimbrede - Caudecoste",
+    "address": "Route de Gimbrede - Caudecoste",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Rue du Bourrelier Lamagistère HORS-SERVICE",
+    "address": "2 Rue du Bourrelier - Lamagistère",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Avenue André Vidalot Dunes",
+    "address": "Avenue André Vidalot - Dunes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Donzac",
+    "address": "1733 Avenue du Brulhois - Donzac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Lafox",
+    "address": "813 route de Toulouse - Lafox",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Territoire d'Energie Lot-et-Garonne - Puymirol - 2 Place du Maréchal Leclerc",
+    "address": "2 Place du Maréchal Leclerc - Puymirol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Centre - Castelculier",
+    "address": "Rue les Boulbènes - Castelculier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Avenue du Midi - Golfech",
+    "address": "5 Rue des Templiers - Golfech",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "7 Rue Louis Armand",
+    "address": "15 Rue Louis Armand - bon encontre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEE47 (MObiVE) - Rue du 19 Mars 1962 - Layrac",
+    "address": "Rue du 19 Mars 1962 - Layrac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "MobiSDEC - MORTEAUX COULIBOEUF (Le Perrey)",
+    "address": "Le Perrey - Morteaux-Coulibœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place charles de Gaulle - Trun",
+    "address": "Place Charles de Gaulle - Trun",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - COURCY (Le Bourg)",
+    "address": "Le Bourg - Courcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le vieux château - Le Renouard",
+    "address": "Le Vieux Château - Le Renouard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - JORT (Rue des Ponts)",
+    "address": "11 Rue des Ponts - Jort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue de Vignats - NECY",
+    "address": "14 Route de Vignats - Nécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*LDL - Carpiquet - 80 Route de Caen",
+    "address": "80 Route de Caen - Carpiquet",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Pierre-sur-Dives (place du marché)",
+    "address": "27 Rue des Sports - Saint-Pierre-sur-Dives",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue du Manoir l'Élu - Saint-Pierre-en-Auge",
+    "address": "1 Rue du Manoir l'Élu - Saint-Pierre-en-Auge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - ruelle des Prés - St Pierre Sur Dives",
+    "address": "ruelle des Prés - St Pierre Sur Dives",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

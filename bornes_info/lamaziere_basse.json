@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Domaine du Mialaret (Tesla et autres)",
+    "address": "Mialaret - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fédération Départementale d'Electrification et d'Energie de la Corrèze - La Chanselve - Moustier-Ventadour",
+    "address": "La Chanselve - Moustier-Ventadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat de la Diège - Place Henri Queuille - Neuvic",
+    "address": "4 Place Henri Queuille - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat de la Diège - Plage - Neuvic",
+    "address": "600 Route Henri Queuille - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping du Lac - Égletons",
+    "address": "10 Le Pont - Égletons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - 47 Avenue Charles de Gaulle - Égletons",
+    "address": "47 Avenue Charles de Gaulle - Égletons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Zephyre - Hôtel-Restaurant Logis Europa - Maussac",
+    "address": "Le Poteau de Maussac - Maussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TACHARD AUTOMOBILES - EGLETONS",
+    "address": "ZI la Chaulaudre - EGLETONS",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Egletons Automobiles",
+    "address": "2 Boulevard de Bethléem - Égletons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Place Docteur Raoul Peuch - Marcillac-la-Croisille",
+    "address": "3 Place du Docteur Raoul Peuch - Marcillac-la-Croisille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

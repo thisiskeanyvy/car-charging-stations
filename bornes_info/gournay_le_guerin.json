@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Center Parc - Les Barils",
+    "address": "Unnamed Road - Les Barils",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Route de crulai - D28 - Chandai",
+    "address": "1 Route de Crulai - Chandai",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Station service Charencey - Rue de Paris",
+    "address": "77 Les Graviers - Saint-Maurice-lès-Charencey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SE61 - Saint-Maurice-lès-Charencey",
+    "address": "Rue Maurice de Vlaminck - Saint-Maurice-lès-Charencey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Bourth",
+    "address": "Rue de Chandai - Bourth",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau de recharge OGER/FR*SGA*P1SB001",
+    "address": "La Lochetière - Charencey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Recharge en cas d'urgence uniquement",
+    "address": "2 Route de Morvilliers - LA CHAPELLE-FORTIN",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Sulpice-sur-Risle",
+    "address": "17 Zone Artisanale de la Pichotière - Saint-Sulpice-sur-Risle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Sas - Chanoine",
+    "address": "28 Route de Paris - L'Aigle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Verneuil sur Avre",
+    "address": "460 Route de Mortagne - Verneuil-sur-Avre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

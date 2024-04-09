@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Freshmile - Scorbé-Clairvaux - 1 Place De La Mairie",
+    "address": "1 Place De La Mairie - Scorbé-Clairvaux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Etienne de Monbron",
+    "address": "14bis Pl Etienne Cherade De Montbron - Scorbé-Clairvaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sortie A10 - Rond-Point de Pila - Chatellerault nord",
+    "address": "10 Rond-Point de Pila - Châtellerault",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Sorégies - AFPA de Châtellerault",
+    "address": "207 Grande Rue de Châteauneuf - Châtellerault",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sorégie - musée Auto moto vélo - Châtellerault",
+    "address": "1 Rue Creuze - Châtellerault",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 114 Rue d'Antran - Châtellerault",
+    "address": "114 Rue d'Antran - Châtellerault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Châtellerault",
+    "address": "3 D 161 - Châtellerault",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Châtellerault",
+    "address": "5 Rue de Jussieu - Châtellerault",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Auchan - Châtellerault",
+    "address": "6 Avenue Camille Pagé - Châtellerault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterbaseSorégies - Boulevard de Blossac - Châtellerault",
+    "address": "111 Boulevard de Blossac - Châtellerault",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  }
+]

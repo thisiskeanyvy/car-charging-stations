@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SEDI (E-born) - D37 - Cour-et-Buis",
+    "address": "347 D37 - Cour-et-Buis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Parking place rue centrale - Faramans",
+    "address": "5 Place du Tailleur - Faramans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Place Jean Moulin - Saint Jean de Bounay",
+    "address": "Route de Lyon - Saint-Jean-de-Bournay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Géant Casino - ZI du Pré de la Barre - ST JEAN DE BOURNAY SUPPRIME",
+    "address": "ZI du Pré de la Barre - ST JEAN DE BOURNAY",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Revel-Tourdan - 67 Chemin de l'Étang Girard",
+    "address": "67 Chemin de l'Étang Girard - Revel-Tourdan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Moidieu-Détourbe",
+    "address": "Mouterle - Moidieu-Détourbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Chatonnay - Mairie",
+    "address": "Mairie - Chatonnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint Barthélémy",
+    "address": "92 Chemin de la Barrière - Saint-Barthelemy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Beaurepaire",
+    "address": "170 Av. d'Auenwald, - Beaurepaire",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Place du Jeu de Paume - Beaurepaire",
+    "address": "5 Place du Jeu de Paume - Beaurepaire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

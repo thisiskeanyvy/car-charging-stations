@@ -1,0 +1,134 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Rue Lucie Aubrac",
+    "address": "Rue Lucie Aubrac - Pierre-Bénite",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 131 Avenue Jean Jaurès - Oullins",
+    "address": "131 Avenue Jean Jaurès - Oullins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Lyomat - Pierre-Bénite",
+    "address": "12 Chemin de la Lone, - Pierre-Bénite",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Pierre-Bénite - 165 Chemin du Grand Revoyet",
+    "address": "165 Chemin du Grand Revoyet - Pierre-Bénite",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Hôtel F1 - Oullins",
+    "address": "10/12 Rue Elisée Reclus - Oullins",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parc relais TCL, Saint-Genis-Laval, Hôpital SUD",
+    "address": "17 Chem. de la Patinière - Saint-Genis-Laval",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/Sorofi_Iringy",
+    "address": "2 Rue d'Yvours - Irigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Rue du Perron - Oullins",
+    "address": "23 Rue du Perron - Oullins",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue du Rhône - Oullins",
+    "address": "1 Avenue du Rhône - Oullins",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Arles Dufour",
+    "address": "27 rue Narcisse Bertholey - Oullins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

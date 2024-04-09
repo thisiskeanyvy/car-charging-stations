@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ALDI - Rue des Alpes - Niederhergheim",
+    "address": "2 Rue des Alpes - Niederhergheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Sainte-Croix-en-Plaine - 2 Rue Jean Mermoz",
+    "address": "2 Rue Jean Mermoz - Sainte-Croix-en-Plaine",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel au Moulin - Sainte-Croix-en-Plaine",
+    "address": "500 Route de Herrlisheim - Sainte-Croix-en-Plaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lycée Agricole - Rouffach",
+    "address": "Rue de Bâle - Rouffach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rouffach - Rue Raymond Poincaré",
+    "address": "1 Rue Raymond Poincaré - Rouffach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château d'Isenbourg Hôtel Restaurant (Tesla)",
+    "address": "2 Rue du Château - Rouffach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - Gueberschwihr - Route de Hattstatt 2",
+    "address": "Route de Hattstatt 2 - Gueberschwihr",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route de Rouffach - Wettolsheim (Private)",
+    "address": "144 Route de Rouffach - Wettolsheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking visiteur de la Mairie - Eguisheim",
+    "address": "21 Grand-Rue - Eguisheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Monta - Colmar - Greet Hotel",
+    "address": "Route de Bâle 83 - Colmar",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIED70 - Avenue du Maréchal Leclerc - Gray",
+    "address": "7 Avenue du Maréchal Leclerc - Gray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 7 Quai Mavia - Gray",
+    "address": "6 Avenue François Devosge - Gray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Gray - Enedis",
+    "address": "14 Boulevard des Grands Moulins - Gray",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIED70 - Quai Mavia - Gray",
+    "address": "3 Quai Mavia - Gray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Gray",
+    "address": "8 Rue De La Plage - Gray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIED70 - Parking du Port Rouge - Arc-lès-Gray",
+    "address": "1 Chemin du Port Rouge - Arc-lès-Gray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "JNF CONCEPT",
+    "address": "39 Rue du Port - Arc-lès-Gray",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Place du marché - Pesmes",
+    "address": "5008F Rue de Choiseul - Pesmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place des Martyrs de Résistance - Pontailler-sur-Saône",
+    "address": "1 Place des Martyrs de la Résistance - Pontailler-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 1 Route de Choye - Charcenne",
+    "address": "1 Route de Choye - Charcenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

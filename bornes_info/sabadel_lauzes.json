@@ -1,0 +1,140 @@
+[
+  {
+    "title": "FDEL (Révéo) - Cabrerets - Route du Célé",
+    "address": "Route du Célé - Cabrerets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Place de la Mairie - Labastide-Murat",
+    "address": "Place de la Mairie - Cœur-de-Causse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Contact - Labastide-Murat",
+    "address": "11 route de gramat - Labastide-Murat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A20 - Aire Jardin des Causses du Lot (Double sens)",
+    "address": "A20 - Cœur de Causse",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEL - Le bourg - Saint-Cirq-Lapopie",
+    "address": "01 Le Bourg - Saint-Cirq-Lapopie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL (Révéo) - Route de Saint-Cirq-Lapopie - Saint-Cirq-Lapopie",
+    "address": "Route de Saint-Cirq-Lapopie - Saint-Cirq-Lapopie",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Maison d'hôtes La Combe de Redoles",
+    "address": "295 rue de la Combe de Redoles - Tour-de-Faure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "REVEO - Salle des fêtes",
+    "address": "1 Route de Cahors - Lamagdelaine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Credit Agricole - Terre Rouge",
+    "address": "1 Allee des thuyas - Cahors",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Cahors Terre-Rouge",
+    "address": "Avenue Edouard Herriot - Cahors",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

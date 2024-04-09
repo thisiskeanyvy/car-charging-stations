@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Modulo-Energies - Mairie d'Authon-du-Perche",
+    "address": "Place de la Mairie - Authon-du-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Rue des fontaines, Ceton",
+    "address": "5 Rue des Fontaines - Ceton",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Beaumont les Autels",
+    "address": "16 Rue du Général de Gaulle - Beaumont-les-Autels",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Val-au-Perche - D107/D407 Rond-Point de Queux",
+    "address": "Rond-Point de Queux - Val-au-Perche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - La Ferté-Bernard",
+    "address": "1 D1 - La Ferté-Bernard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - La Ferté-Bernard",
+    "address": "Avenue de Verdun - La Ferté-Bernard",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place de la mairie - Le Theil",
+    "address": "5 Place de la Mairie - Le Theil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - La Bazoche-Gouet",
+    "address": "25 Rue des Fossés - La Bazoche-Gouet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Nogent-le-Rotrou (Rue du Commandant Charcot)",
+    "address": "9001 Rue du Commandant Charcot - Nogent-le-Rotrou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - La Ferté-Bernard - 1 Rue Alfred Marchand",
+    "address": "1 Rue Alfred Marchand - La Ferté-Bernard",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

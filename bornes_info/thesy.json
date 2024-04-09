@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Lidl - Bracon",
+    "address": "3 Rue de Champtave - Bracon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Grand Hôtel des Bains (Tesla et autres)",
+    "address": "2 Place des Alliés et de la Résistance - Salins-les-Bains",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - 18 Rue de la Cascade - Les PLANCHES EN ARBOIS",
+    "address": "18 Rue de la Cascade - Les PLANCHES EN ARBOIS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel des Messageries",
+    "address": "2 Rue de Courcelles - Arbois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les caudalies",
+    "address": "20 Avenue louis pasteur - Arbois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supermarché Bi1 - Route De Besançon",
+    "address": "13 Route De Besançon - Arbois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Arbois - Domaine de Boichailles",
+    "address": "Domaine de Boichailles - Arbois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Relais & Château de Germigney (Tesla and others)",
+    "address": "31 Rue Edgar Faure - Port-Lesney",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Arbois",
+    "address": "2 Route de Dole - Arbois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auberge marle",
+    "address": "7 Rue Georges Colomb - Myon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

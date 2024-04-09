@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Desjardins",
+    "address": "84 Route de Fauville - Trouville alliquerville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sde 76 Alvimare",
+    "address": "Rue des Tilleuls - Alvimare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A29 - Aire de Bolleville (direction Rouen)",
+    "address": "A29 - Bolleville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A29 - Aire de Bolleville (direction Le Havre)",
+    "address": "A29 - Bolleville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - D926 Aire de covoiturage de Bermonville - St.-Pierre-Lavis",
+    "address": "1 La Cayenne - St.-Pierre-Lavis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE76 - Fauville-en-Caux",
+    "address": "56 Rue d'Amiot - Fauville-en-Caux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Super U - Terres-de-Caux",
+    "address": "Rue de l'Europe - Terres-de-Caux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Route de l'Église Trouville- Alliquerville",
+    "address": "138 Route de l'Église - Trouville Alliquerville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sde76 - Rue de la Forge - Yébleron",
+    "address": "176 Rue de la Forge - Yebleron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage patry",
+    "address": "Roncholles - Saint-Aubin-de-Crétot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE03 - Le Mayet-de-Montagne",
+    "address": "38 Place aux Foires - Le Mayet-de-Montagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Le Mayet-de-Montagne",
+    "address": "29 Rue de Ferrières - Le Mayet-de-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lieu-dit Précontent",
+    "address": "D25 - Arfeuilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chemin du Bas Bourg - Le Crozet",
+    "address": "189 Chemin Du Bas Bourg - Le Crozet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine La Bourbonnaise",
+    "address": "D477 - Laprugne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Lapalisse",
+    "address": "avenue De Dompierre, - Lapalisse",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Lapalisse (Avenue Pasteur)",
+    "address": "1 Avenue Pasteur - Lapalisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Aire de vérités - Lapalisse",
+    "address": "Aire de vérités - Lapalisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - RN7 L'Aire des Vérités - Lapalisse",
+    "address": "6 N7 - Lapalisse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Agro-Service 2000 - Lapalisse",
+    "address": "1 rue de l'activité - Lapalisse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

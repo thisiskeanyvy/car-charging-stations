@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Intermarché - Sainte-Marie-de-Cuines",
+    "address": "Les Routes des Grands Prés - Ste.-Marie-de-Cuines",
+    "connectors": [
+      "x36",
+      "x36"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricomarche Hermillon - La Tour-en-Maurienne",
+    "address": "Rue Gilbert Marie - La Tour-en-Maurienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hôtel Saint Georges",
+    "address": "334 Rue de la République - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Trans-Alpes",
+    "address": "416 AVENUE D ITALIE - Saint-Jean-de-Maurienne",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - 388 Avenue du Mont Cenis - Saint-Jean-de-Maurienne (Privé)",
+    "address": "388 Avenue du Mont Cenis - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint Jean de Maurienne",
+    "address": "8 Rue Mai 1945, ZI le Parquet - St Jean de Maurienne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt - Volkswagen - Saint-Jean-de-Maurienne",
+    "address": "332 Avenue du 8 Mai 1945 - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Lidl - Saint-Jean-de-Maurienne",
+    "address": "8 Avenue du 8 Mai 1945 - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Réseau TCB FR - SAINT JEAN DE MAURIENNE - Lieu dit Combe Paillarde",
+    "address": "Lieu dit Combe Paillarde - SAINT JEAN DE MAURIENNE",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yes55 - Foncouverte la Toussuire - Hotel Les Soldanelles",
+    "address": "rue des chasseurs alpin - Foncouverte la Toussuire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Révéo - route de Ganges D25",
+    "address": "D25 - Saint-Maurice-Navacelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rouvayret - Saint-Jean-de-la-Blaquière",
+    "address": "Rouvayret / Route de Rabieux - Saint-Jean-de-la-Blaquière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Mairie de Montpeyroux",
+    "address": "8 Avenue du Rosaire - Montpeyroux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hall solanid",
+    "address": "Fumel - Lodeve",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis ***la Paix -Charge à destination(Tesla only)",
+    "address": "13 Boulevard Montalangue - Lodève",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Hôtel de la Paix - Lodève",
+    "address": "5 Boulevard Montalangue - Lodève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Saint-Jean-de-Fos - Impasse des Combals",
+    "address": "Impasse des Combals Parking École Maternelle - Saint-Jean-de-Fos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RÉVÉO - Place de La République - Lodève",
+    "address": "2 Place de la République - Lodève",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage Renault - Avenue Du Général De Gaulle",
+    "address": "354 Avenue Du Général De Gaulle - Lodève",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Super U - Lodeve",
+    "address": "55 Avenue Général de Gaulle - Lodève",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

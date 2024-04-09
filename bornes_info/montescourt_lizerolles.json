@@ -1,0 +1,136 @@
+[
+  {
+    "title": "USEDA - Avenue de la Victoire - Montescourt-Lizerolles",
+    "address": "Rue de l'Hôpital - Montescourt-Lizerolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DIRVE 02 - Clastres - Circuit Automobile de Clastres",
+    "address": "La clef des Champs - Clastres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GCK Energy - A26 Aire d'Urvillers (double sens)",
+    "address": "Aire d'Urvillers - Urvillers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A26 Aire d'Urvillers (Double sens)",
+    "address": "A26/E17 Autoroute des Anglais - Urvillers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - A26 Aire d'Urvillers",
+    "address": "A26 - Urvillers",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Rue Eugène Freyssinet - Gauchy",
+    "address": "1 Rue Eugène Freyssinet - Gauchy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue Neuve - Itancourt",
+    "address": "1 Rue Neuve - Itancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault Lepreux - Rue Louis Blanc - Tergnier",
+    "address": "15 Rue Louis Blanc - Tergnier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "felix Philippe",
+    "address": "9 19mars1962 app1 - Tergnier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Chauny - Condren",
+    "address": "Route de Chauny - Condren",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

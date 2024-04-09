@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Freshmile - Mairie de Kerbach",
+    "address": "10 Rue De Forbach - Kerbach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Mairie de Behren-lès-Forbach",
+    "address": "91 Rue de la Liberté - Behren-lès-Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Entreprise JECA",
+    "address": "11 Rue Laplace - Behren-lès-Forbach",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stiring_Ford_Lehmann",
+    "address": "143 Rue Nationale - Stiring-Wendel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Berwald - Rue Robert Schuman - Stiring-Wendel (Privé)",
+    "address": "8 Rue Robert Schuman - Stiring-Wendel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stiring_Mequisa",
+    "address": "14 Rue Robert Schuman - Stiring-Wendel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EnBW - A6 Goldene Bremm Parkplatz Süd",
+    "address": "12 Zum Zollstock - Saarbrücken",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Église Sainte-Marthe - Stiring-Wendel",
+    "address": "10 Place Sainte Marthe - Stiring-Wendel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EnBW - A6 Goldene Bremm Parkplatz Nord",
+    "address": "16 Zinzinger Straße - Saarbrücken",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue-Saint-François - Stiring-Wendel",
+    "address": "Rue-Saint-François - Stiring-Wendel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

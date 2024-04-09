@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Lidl - Herblay",
+    "address": "4 Rue René Coty - Herblay",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - Montigny-lès-Cormeilles - Speedy",
+    "address": "142 Boulevard Victor Bordier - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Megarama - Franconville",
+    "address": "3 Rue Jacques Daguerre - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x17",
+      "x18"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Val Parisis - Espace André Malraux",
+    "address": "7 Chemin de Montigny - Herblay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Rue Vincent Van Gogh - Montigny-lès-Cormeilles",
+    "address": "3 Rue Vincent Van Gogh - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Herblay-sur-Seine - 8 Ave. Paul Langevin, 95220 Herblay-sur-Seine",
+    "address": "8 Ave. Paul Langevin, 95220 Herblay-sur-Seine - Herblay-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Concession Renault de Beauchamp",
+    "address": "117 avenue de la Libération - Pierrelaye",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Relais du Croisillon - Montigny-lès-Cormeilles",
+    "address": "Boulevard de Pontoise - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Val Parisis - Gare de Montigny Beauchamp",
+    "address": "3 Rue John Lennon - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Montigny-lès-Cormeilles - Norauto",
+    "address": "39 Boulevard Victor Bordier - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

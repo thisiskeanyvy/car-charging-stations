@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lidl - Corbenay",
+    "address": "12 Avenue Albert Thomas - Corbenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Avenue Labienus - Luxeuil-les-Bains",
+    "address": "7 Avenue Labienus - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "R3 - Norauto - Luxeuil-les-Bains",
+    "address": "59 Rue des Martyrs de la Résistance - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Luxeuil-les-Bains",
+    "address": "33 Rue des Martyrs de la Résistance - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Bricomarché - Luxeuil les bains",
+    "address": "Av. du Maréchal Turenne - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIED70 - Rue de Luxeuil Fougerolles SUPPRIMÉ PAR OPÉRATEUR",
+    "address": "33 Rue de Luxeuil - Fougerolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne euro relais - Luxeuil-les-Bains",
+    "address": "8140 Rue Gambetta - Luxeuil-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking Place du 8 Mai - Luxeuil-les-bains",
+    "address": "16 Rue Marcel Bernard - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi Luxeuil",
+    "address": "2 Rue Marceau - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Froideconche",
+    "address": "D6, Grand Pré du Relet - Froideconche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

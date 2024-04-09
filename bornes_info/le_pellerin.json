@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEGO - 19 Rue du Clos Grille - Le Pellerin",
+    "address": "19 Rue du Clos Grille - Le Pellerin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 60 Rue Du Drouillard - La Montagne INEXISTANT",
+    "address": "60 Rue Du Drouillard - La Montagne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - La Montagne - Avenue de la liberation 10",
+    "address": "Avenue de la liberation 10 - La Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge (FR) - Avenue de l'Europe 7 - La Montagne",
+    "address": "7 Avenue de l'Europe - La Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyper U - Avenue de la Libération - La Montagne",
+    "address": "4 Avenue de la Libération - La Montagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Fraterne - 10 Rue des Grandes Bosses",
+    "address": "10 Rue des Grandes Bosses - Couëron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ikea Retrait (izivia)",
+    "address": "25 Rue Jan Palach - Couëron",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydego - Station Port St Père",
+    "address": "Rue de Pornic - Port-Saint-Père",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Super-U - Saint-Étienne-de-Montluc",
+    "address": "Route de Couëron - Saint-Étienne-de-Montluc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis budget Couëron",
+    "address": "2 Impasse des Artisans - Couëron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SEDI - Parking Salle des fetes - Crachier",
+    "address": "Route des Écoliers - Crachier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Rue Des Grands Tournants - Meyrié",
+    "address": "Chemin les Grands Tournants - Meyrié",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue de l'Hôtel de Ville - Nivolas-Vermelle",
+    "address": "85 Rue Jean Moulin - Nivolas-Vermelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Chargepoint Volkswagen - Impasse Léon serpollet - Bourgoin-Jailleu",
+    "address": "1 Impasse Léon serpollet - Bourgoin-Jallieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Bourgoin-Jallieu - Garage Tunesi",
+    "address": "12 Impasse Léon Serpollet - Bourgoin-Jallieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge/09940161",
+    "address": "1 Rue Isaac Asimov - Bourgoin-Jallieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Symp Hôtel - Route Nationale 85",
+    "address": "1941 Route Nationale 85 - Nivolas-Vermelle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Schmidt - Bourgoin-Jallieu",
+    "address": "98 Rue Isaac Asimov - Bourgoin-Jallieu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - Bourgoin-Jallieu - Autobernard.com",
+    "address": "1-3 Rue Joseph Cugnot - Bourgoin-Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 4 Rue Denis Papin - Bourgoin-Jallieu",
+    "address": "4 Rue Denis Papin - Bourgoin-Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "TRANSPORT FULL-FAST",
+    "address": "17 Rue des pres meles - Saint Erblon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Noyal-Châtillon-sur-Seiche",
+    "address": "4 Rue Lavoisier - Noyal-Châtillon-sur-Seiche",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "OuestCharge - Centre culturel Pôle Sud - Chartres-de-Bretagne",
+    "address": "1 La Conterie - Chartres-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Vern-sur-Seiche",
+    "address": "Place de la Mairie - Vern-sur-Seiche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Inter-Hôtel de la Chaussairie (Tesla)",
+    "address": "30 Avenue de la Chaussairie - Chartres-de-Bretagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - 30 Avenue De La Chaussairie - Chartres-de-Bretagne",
+    "address": "30 Avenue de la Chaussairie - Chartres-de-Bretagne",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue Du Passavent - Vern-sur-Seiche (privé)",
+    "address": "22 Rue du Passavent - Vern-sur-Seiche",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vern-sur-Seich - Centre commercial Val D'orson",
+    "address": "6 Rue du Passavent - Vern-sur-Seiche",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Leclerc Espace Culturel - Vern sur Seiche",
+    "address": "6 rue de la Blanche Hermine - Vern-sur-Seiche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking E.Leclerc Val d'Orson",
+    "address": "- Vern sur seiche",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

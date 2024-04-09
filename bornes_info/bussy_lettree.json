@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Modulo-Energies - Bussy-Lettrée - Rue Louis Blériot Aéroport Paris Vatry",
+    "address": "Rue Louis Blériot Aéroport Paris Vatry - Bussy-Lettrée",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell - A26/RN4 Aire de Sommesous (double sens)",
+    "address": "A26 - Sommesous",
+    "connectors": [
+      "x2",
+      "x12",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEA - Rue du general de Gaulle - Mailly",
+    "address": "36 Rue du Général de Gaulle - Mailly-le-Camp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - 66 General De Gaulle - Mailly-le-Camp",
+    "address": "66 Rue du Général de Gaulle - Mailly-le-Camp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM 51 - rue de l'église - Parking Salle des fêtes - Sarry",
+    "address": "rue de l'eglise - Sarry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Centre Commercial du Verbeau - Châlons-en-Champagne",
+    "address": "6 Rue Georges Barbier - Châlons-en-Champagne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Châlons-en-Champagne",
+    "address": "4 Rue Romain Rolland - Châlons-en-Champagne",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Champagne Joseph Perrier",
+    "address": "69 Avenue de Paris - Châlons-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Pogny",
+    "address": "44 Route nationale - Pogny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avenue de Paris - Chalons-en-Champagne",
+    "address": "129bis Avenue de Paris - Chalons-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

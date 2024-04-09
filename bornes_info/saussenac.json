@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDET - Place de la Mairie - Valderiès",
+    "address": "Place de la Mairie - Valderiès",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - parking place de la Mairie",
+    "address": "2 Place de la Mairie - Saint-Juéry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Allée De La Trencade - St Juéry",
+    "address": "Allée de la Trencade - Saint-Juéry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - La Ferrayrie - Bellegarde-Marsal",
+    "address": "La Ferrayrie - Bellegarde-Marsal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Juste pour voir - Lescure-d'Albigeois",
+    "address": "63 All. des Fleurs - Lescure-d'Albigeois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - D172 - Ambialet",
+    "address": "3108 Route de Villefranche - Ambialet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Albi - 2rue François arago",
+    "address": "2rue François arago, 81000 Albi, France - Albi",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl St Juéry",
+    "address": "Rd. Pt. de l'Europe, Av. de Saint-Juéry - Albi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDET - Rue de L'Ecole",
+    "address": "16 Rue de l'École - Cambon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lescure-d'Albigeois, Chemin Des Deux Voies",
+    "address": "Chemin Des Deux Voies - Lescure-d'Albigeois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

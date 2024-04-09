@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Révéo - Avenue Jean Berenguier - Coufouleux",
+    "address": "Avenue Jean Berenguier - Coufouleux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET - Quai de la Libération Rabastens",
+    "address": "25-31 Quai de la Libération - Rabastens",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rabastens",
+    "address": "35 Route d'Albi - Rabastens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Office du Tourisme - Saint-Sulpice-la-Pointe",
+    "address": "2 Rue du 3 Mars 1930 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDET - Place Jean Jaurès - Centre-ville",
+    "address": "10-12 Place Jean Jaurès - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stiletto - Saint-Lieux-lès-Lavaur (Tesla and others)",
+    "address": "17 Les Caussanels - Saint-Lieux-lès-Lavaur",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Route de Bel air - Giroussens",
+    "address": "Route de Bel air - Giroussens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - 44 Avenue de la Poste - Lisle-sur-Tarn",
+    "address": "44 Avenue de la Poste - Lisle-sur-Tarn",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET - Lisle-sur-Tarn",
+    "address": "1 Rue Contrescarpe Sainte-Barbe - Lisle-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Lisle sur Tarn",
+    "address": "quai pasteur - Lisle sur tarn",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

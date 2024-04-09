@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEHG - Vieille-Toulouse, Ecole",
+    "address": "5 Chemin de l'Ariège - Vieille-Toulouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Domaine de Montjoie (Tesla)",
+    "address": "63 Avenue de l'Aeropostale - Ramonville-Saint-Agne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route D'espagne - Portet-sur-Garonne",
+    "address": "Route D'espagne - Portet-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*LDL - Portet-sur-Garonne - Route d'Espagne",
+    "address": "Route d'Espagne - Portet-sur-Garonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Portet-sur-Garonne | Allée Pablo Picasso",
+    "address": "Allée Pablo Picasso kiloutou - Portet-sur-Garonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Ramonville-Saint-Agne",
+    "address": "1 Rue Louis Braille - Ramonville-Saint-Agne",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Actia - Toulouse",
+    "address": "5 Rue Jorge Semprun - Toulouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TOULIBEO - Rue Léon Joulin - Toulouse",
+    "address": "Rue Léon Joulin - Toulouse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aldi - Rue Louis Braille - Ramonville-Saint-Agne",
+    "address": "16 Rue Louis Braille - Ramonville-Saint-Agne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "VW - DBF Capitole Automobile (Privée)",
+    "address": "290 Rue Léon Joulin - Toulouse",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

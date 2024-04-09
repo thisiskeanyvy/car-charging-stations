@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Berg, Rue Principale",
+    "address": "47 Rue Principale - Berg",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Baerendorf - Rue Du 24 Novembre",
+    "address": "Rue Du 24 Novembre - Baerendorf",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Principale - Berling",
+    "address": "2 Rue Principale - Berling",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue principale - Rimsdorf",
+    "address": "17 Rue Principale - Rimsdorf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - rue principale 83 - PFALZWEYER",
+    "address": "rue principale 83 - PFALZWEYER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Renault Mazerand",
+    "address": "Route de Sarrebourg - Lixheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue Principale - Graufthal",
+    "address": "Rue Principale - Graufthal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Sarre-Union",
+    "address": "Rue Walter Schmitt - Sarre-Union",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Sarre-Union",
+    "address": "Route de Phalsbourg - Sarre-Union",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Route de Phalsbourg - Sarre-Union",
+    "address": "55 Route de Phalsbourg - Sarre-Union",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDED - Route de Valence - Montoison",
+    "address": "Route de Valence - Montoison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Montée de la Butte Allex",
+    "address": "11 Montée de la Butte - Allex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "eborn - Chemin de la Côte Chaude - Étoile-sur-Rhône",
+    "address": "Chemin de la Côte Chaude - Étoile-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "eborn - Rue du Parc - Livron-sur-Drôme",
+    "address": "Rue du Parc - Livron-sur-Drôme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ets Vallon",
+    "address": "158 Chemin de l'Oye - Montmeyran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Utile - Montée du Beffroi",
+    "address": "2 Montée du Beffroi - Grane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZeBorne - Intermarché - Allée des Crozes",
+    "address": "Allée des Crozes - Loriol-sur-Drôme",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Étoile-sur-Rhône",
+    "address": "65 Rue de la Raye - Étoile-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hôtel Les Oliviers (Tesla et autres)",
+    "address": "17 Lotissement le Carthaginois - Loriol-sur-Drôme",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brico Dépôt - Rue des Bosses - Étoile-sur-Rhône",
+    "address": "315 Rue des Bosses - Étoile-sur-Rhône",
+    "connectors": [
+      "x16",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

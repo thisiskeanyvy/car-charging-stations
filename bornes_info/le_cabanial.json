@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking Hôtel de Ville/route de Lacaune D32",
+    "address": "Route de Lacaune - Belmont-sur-Rance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Saint-Michel",
+    "address": "Rue de la Balmette - Lacaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Avenue Du Languedoc - Murat-sur-Vèbre",
+    "address": "112 Avenue du Languedoc - Murat-sur-Vèbre",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Rapide) - Lacaune 2 -, Avenue Georges Clemenceau",
+    "address": "5 Avenue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDET - Lacaune - Avenue Georges Clémenceau",
+    "address": "4 Rue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEDA - Camarès",
+    "address": "Place du Docteur Elisée Bousquet - Camarès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Résidence du Rougier",
+    "address": "19 Avenue de Saint-Affrique - Camarès",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Camping les Fées du Lac - Nages",
+    "address": "Village de Carlebou Les Fées du lac - Nages",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping d'Andabre",
+    "address": "Andabre - Andabre",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Zone camping car",
+    "address": "Chemin de la Salvetat à Fraisse - Fraisse-sur-Agout",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

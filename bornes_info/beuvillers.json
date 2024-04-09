@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sevdec - Lisieux - Rue Capron Carrefour",
+    "address": "Rue Capron Carrefour - Lisieux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Lisieux",
+    "address": "Rue Augustin Fresnel - Lisieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Rue d'Orbec - Glos",
+    "address": "45 Rue d'Orbec - Glos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Ibis Styles Lisieux Normandie",
+    "address": "177 Rue Roger Aini - Lisieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Leclerc - Route de Paris - Lisieux",
+    "address": "Route de Paris - Lisieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kyriad Lisieux - Avenue Georges Duval",
+    "address": "984 Avenue Georges Duval - Lisieux",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Lisieux",
+    "address": "Avenue Georges Duval - Lisieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue Nicolas Dulong - Lisieux",
+    "address": "102 Rue Nicolas Dulong - Lisieux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "parking action - Avenue Georges Duval",
+    "address": "452 Avenue Georges Duval - Lisieux",
+    "connectors": [
+      "x15",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale - Chemin de Colandon",
+    "address": "80 Chemin de Colandon - Lisieux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

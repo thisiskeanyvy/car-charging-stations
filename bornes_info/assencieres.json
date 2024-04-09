@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEA - 24 Route du Lac d'Orient - Rouilly-Sacey",
+    "address": "24 Route du Lac d'Orient - Rouilly-Sacey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "domaine de la forêt d Orient - Rouilly-Sacey",
+    "address": "- Rouilly-Sacey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 3 Rue de l'Ecole - Bouranton",
+    "address": "3 Rue de l'Ecole - Bouranton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Place Collaverdey Charmont-sous-Barbuise",
+    "address": "3 Place Collaverdey - Charmont-sous-Barbuise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Rue de la republique Creney-près-Troyes",
+    "address": "45 Rue de la republique - Creney-près-Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "D'Pann Auto 10 - Creney-prés-Troyes",
+    "address": "9 Rue de l'aulne - Creney-prés-Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A26 Aire de Charmon-sous-Barbuise",
+    "address": "A26 - Charmont-sous-Barbuise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEA - Rue Du Presbytère - Laubressel",
+    "address": "2 Rue Du Presbytère - Laubressel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "QoWatt - Lavau - Voie du Bois",
+    "address": "Voie du Bois - Lavau",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking Nord Zone Mac Arhur Glen",
+    "address": "421 Voie Mac Arthur Glen - Pont-Sainte-Marie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

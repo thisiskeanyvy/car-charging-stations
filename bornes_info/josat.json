@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Place Lafayette - Paulhaguet",
+    "address": "25 Place Lafayette - Paulhaguet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Avenue de la Gare - Allègre",
+    "address": "1 Avenue de la Gare - Allègre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eborn- Place de l'Eglise Saint-Georges-D'Aurac",
+    "address": "Place de l'Eglise - Saint-Georges-D'Aurac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lugeastre Bas - St.-Didier-sur-Doulon",
+    "address": "Lugeastre Bas - St.-Didier-sur-Doulon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Saint Roch",
+    "address": "Pradous - Salzuit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis hôtel la crèche",
+    "address": "Les Chaussades - La Chomette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Général Lafayette - Siaugues-Sainte-Marie",
+    "address": "Route de Silcuzin - Siaugues-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Ancienne Gare SNCF de La Chaise-Dieu",
+    "address": "4365 Rue Pablo Picasso - La Chaise-Dieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Langeac",
+    "address": "54 Avenue d'Auvergne - Langeac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 12 Avenue Du Général Leclerc - Langeac",
+    "address": "12 Avenue Du Général Leclerc - Langeac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

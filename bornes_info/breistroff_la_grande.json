@@ -1,0 +1,148 @@
+[
+  {
+    "title": "P+R Roussy-le-village",
+    "address": "41 Chemin de la Cheneraie - Roussy-le-Village",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - CNPE de Cattenom (Parking Faraday)",
+    "address": "- Cattenom",
+    "connectors": [
+      "x48",
+      "x44",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - CNPE de Cattenom (Parking Chadwick 1)",
+    "address": "CNPE de Cattenom - Cattenom",
+    "connectors": [
+      "x9",
+      "x3",
+      "x48",
+      "x48",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - CNPE de Cattenom (Parking Chadwick 2)",
+    "address": "CNPE de Cattenom - Cattenom",
+    "connectors": [
+      "x48",
+      "x48",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - CNPE de Cattenom (Parking Chadwick 3)",
+    "address": "CNPE de Cattenom - Cattenom",
+    "connectors": [
+      "x17",
+      "x3",
+      "x14",
+      "x34",
+      "x34"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CCCE Moselle - Avenue du Général de Gaulle - Cattenom",
+    "address": "2 Avenue du Général de Gaulle - Cattenom",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Walch",
+    "address": "11 Rue d'Elvange - Emerange",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "24 Rue Robert Schuman - Frisange",
+    "address": "24 Rue Robert Schuman - Frisange",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargy - Route de Mondorf - Altwies",
+    "address": "Route de Mondorf - Altwies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Thionville - Rue des Tisserands",
+    "address": "Rue des Tisserands - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

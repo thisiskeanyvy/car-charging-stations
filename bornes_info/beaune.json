@@ -1,0 +1,130 @@
+[
+  {
+    "title": "TotalEnergies - Ibis Beaune Centre",
+    "address": "7 Rue Henri Dunant - Beaune",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Mercure Beaune Centre",
+    "address": "7 Avenue Charles de Gaulle - Beaune",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V2 - Beaune",
+    "address": "7 Avenue Charles de Gaulle - Beaune",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Belle Epoque",
+    "address": "15 Rue du Faubourg Bretonnière - Beaune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Beaune - CC Saint Jacques",
+    "address": "9, avenue du Général de Gaulle - Beaune",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Le Cep (Tesla)",
+    "address": "27 Rue Maufoux - Beaune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Ibis Styles Beaune Centre",
+    "address": "7 Boulevard Perpreuil - Beaune",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Citroen",
+    "address": "Rue du faubourg Bretonnière - Beaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Ruelle Morlot - Beaune",
+    "address": "1 Ruelle Morlot - Beaune",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Concession TILLOT Deux Roues",
+    "address": "54 Rue du faubourg Madeleine - Beaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ChargePoint network - 26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "address": "26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel restaurant l'Aquarium",
+    "address": "45 Route Nationale 50 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D 950 - Fresnes-lès-Montauban",
+    "address": "D 950 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Le Manoir de Gavrelle - 35 Route nationale - Gavrelle",
+    "address": "35 Route nationale - Gavrelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Vitry-en-Artois",
+    "address": "30 Route nationale - Vitry-en-Artois",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - 30 Route Nationale - Vitry-en-Artois DOUBLON",
+    "address": "30 Route Nationale - Vitry-en-Artois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - 340 Allée du cardo ouest - Bailleul-sir-berthoult",
+    "address": "340 Allée du cardo ouest - Bailleul-sir-berthoult",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Brebieres",
+    "address": "Rue de Vitry - Brebières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Allée d'Irlande - Feuchy",
+    "address": "Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 30 Allée d'Irlande - Feuchy (Private)",
+    "address": "30 Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "ENGIE - Château de Magneux-Haute-Rive",
+    "address": "425 Route de Chalain - Magneux-Haute-Rive",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Fastned - A72 Aire de La Plaine du Forez Est (direction Clermont-Ferrand)",
+    "address": "A72 - Aire de la Plaine du Forez Est - Magneux-Haute-Rive",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - A72 Aire de Service de la Plaine du Forez Ouest (direction St Étienne)",
+    "address": "A72, Aires de Service de la Plaine du Forez Ouest - Magneux-Haute-Rive",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour Market - Montrond-les-Bains",
+    "address": "Rue du Rival, - Montrond-les-Bains",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy - Boisset-lès-Montrond - 45 Route du Canal",
+    "address": "45 Route du Canal - Boisset-lès-Montrond",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Casino Joa - Montrond-les-Bains",
+    "address": "82 Rue francis laur - Montrond-les-Bains",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domitys - Montrond-les-Bains",
+    "address": "213 Chemin de l'Étra - Montrond-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Rue Victor Hugo, 170 - Saint-André-le-Puy",
+    "address": "26 Rue Victor Hugo - Saint-André-le-Puy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Feurs",
+    "address": "Route de Saint-Etienne - Feurs",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Lidl - Feurs",
+    "address": "Chemin des Sables - Feurs",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

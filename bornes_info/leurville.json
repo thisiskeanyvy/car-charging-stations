@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Smoys - Mairie de Leuville-sur-Orge",
+    "address": "41 Rue Jules Ferry - Leuville-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Château d'Eau - Linas",
+    "address": "134 Rue de la Division Leclerc - Linas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Fief de Plainville - Linas",
+    "address": "7 Rue Fief de Plainville - Linas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Blanche de Castille - Montlhéry",
+    "address": "1 Rue Blanche de Castille - Montlhéry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - Brétigny-sur-Orge - Rue de l'Orge 34",
+    "address": "Rue de l'Orge 34 - Brétigny-sur-Orge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Arpajon",
+    "address": "16 Route de Limours - Arpajon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Arpajon - Speedy",
+    "address": "10 Avenue de la Division Leclerc - Arpajon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Arpajon - VW",
+    "address": "7 Rue des Prés - Arpajon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Longpont-sur-Orge",
+    "address": "46 Route de Montlhéry - Longpont-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue du Clos Bouquet - Montlhéry",
+    "address": "14 Rue du Clos Bouquet - Montlhéry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

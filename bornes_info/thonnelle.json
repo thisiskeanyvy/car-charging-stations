@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Modulo-Energies - Montmédy",
+    "address": "1 Place Raymond Poincaré - Montmédy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Super U - Montmédy",
+    "address": "11, Avenue de Verdun - Montmédy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEA 08 - Rue de la Poste - Margut",
+    "address": "37 Rue de la Poste - Margut",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LE MOULIN DU LOISON, Chambres & Table d'Hôtes",
+    "address": "1 Rue du Moulin - Juvigny-sur-Loison",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Virton - 18 Rue de Banière",
+    "address": "18 Rue de Banière - Virton",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Equans - Virton - 16 rue des Grasses Oies",
+    "address": "16 rue des Grasses Oies - Virton",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Lidl - Virton",
+    "address": "11 Rue Val d'Away - Virton",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Delhaize - Virton",
+    "address": "59 Rue d'Arlon - Virton",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - CCT2L - Saint Jean Les Longuyon",
+    "address": "4 Rue Irénée Leroy - Saint-Jean-lès-Longuyon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Stenay",
+    "address": "1 Chemin des groseillers - Stenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

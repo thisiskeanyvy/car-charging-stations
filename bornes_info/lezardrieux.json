@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDE22 - Rue du Port Lézardrieux",
+    "address": "43 Rue du Port - Lézardrieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Crédit Agricole - Paimpol",
+    "address": "6 Place de Bretagne - Paimpol",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sde22 - Parking de la Gare - Paimpol",
+    "address": "62 Avenue du Général de Gaulle - Paimpol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Place du Goëlo - Paimpol",
+    "address": "Place du Goëlo - Paimpol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Car2Plug - Paimpol - SCI Incipiens",
+    "address": "5 Rue Raymond Pellier - Paimpol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Paimpol BodemerAuto",
+    "address": "28 Rue Raymond Pellier - Paimpol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Paimpol",
+    "address": "raymond pellier - paimpol",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE22 - Plourivo",
+    "address": "Route de Paimpol - Plourivo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Raymond Pellier - Paimpol",
+    "address": "33 Rue Raymond Pellier - Paimpol",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Ploubazlanec",
+    "address": "Cité de Lan ar Mendy - Ploubazlanec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hotel l'outa",
+    "address": "2 Rue de savoie - Termignon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Alpazur - Val-Cenis",
+    "address": "106 Rue Du Mont-Cenis - Val-Cenis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Maurienne French Alps - Salle des Fêtes - Lanslebourg-Mont-Cenis",
+    "address": "6 Rue Napoléon - Lanslebourg-Mont-Cenis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint Charles Hôtel & Spa (Tesla and others)",
+    "address": "Chemin des Crueux - Lanslebourg-Mont-Cenis",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ethic Etapes CIS Val Cenis",
+    "address": "Route de l'Iseran - Lanslevillard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Caravaneige de Lanslevillard",
+    "address": "Rue sous l'Église - Lanslevillard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chemin de Pré-Sybille - Lanslevillard",
+    "address": "23 Place du Toron - Val-Cenis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Residence les Balcons Platinum village",
+    "address": "2–36 Rue de Planchamp - Val-Cenis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Parking du Coulomb",
+    "address": "48 Rue Meyer - Villarodin-Bourget",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Station de ski La Norma - Parking",
+    "address": "1-87 Rue des Terres - Villarodin-Bourget",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

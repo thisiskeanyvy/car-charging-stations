@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Treffiagat (Avenue du Port)",
+    "address": "67 Avenue du Port - Treffiagat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Le Guilvinec (Rue de Men Crenn)",
+    "address": "2 Rue de Men Crenn - Guilvinec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Eurauto peugeot",
+    "address": "Route de Kerleguer - Guilvinec",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plomeur",
+    "address": "2 Route de Plobannalec Pendreff - Plomeur",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Route de Penmarch Pendreff",
+    "address": "7 Route de Penmarch Pendreff - Plomeur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Plobannalec-Lesconil - Camping la Grand Plage",
+    "address": "71 Rue Paul Langevin - Plobannalec-Lesconil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plobannalec-Lesconil (Rue de la Mairie)",
+    "address": "Rue de Pont l'Abbé - Plobannalec-Lesconil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plomeur (Place des Anciens Combattants)",
+    "address": "Place des Anciens Combattants - Plomeur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NL*EVB - PLOMEUR - Roz-An-Tremen 4",
+    "address": "Roz-An-Tremen 4 - PLOMEUR",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Leclerc - Pont-l'Abbé",
+    "address": "2 Rte de Saint-Jean-Trolimon - Pont-l'Abbé",
+    "connectors": [
+      "x12",
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

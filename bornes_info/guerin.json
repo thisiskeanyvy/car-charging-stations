@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Hôtel Première classe - Rue du Vignolle - Sarcelles",
+    "address": "1 Rue du Vignolle - Sarcelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigidurs - Rue de l'Escouvrie - Sarcelles",
+    "address": "20 Rue de l'Escouvrier - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - place André Gide - Sarcelles",
+    "address": "place andré Gide - Sarcelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 19 Avenue du Maréchal Pierre Koeing - Sarcelles",
+    "address": "19 Avenue Du Marechal Pierre Koenig - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gare RER Garges - Sarcelles",
+    "address": "Boulevard Salvador Allende - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Sarcelles - Avenue de la Division Leclerc",
+    "address": "Avenue de la Division Leclerc - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hôpital Privé Nord Parisien (HPNP)",
+    "address": "1 Avenue Paul Langevin - Sarcelles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Avenue Paul Valérie - Sarcelles",
+    "address": "19 Avenue Paul Valéry - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - place de la libération - Sarcelles",
+    "address": "10 Rue De l'Eglise - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Sarcelles - Courtoise Distribution Auto SAS",
+    "address": "12 Contre Allée Henri Dunant - Sarcelles",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

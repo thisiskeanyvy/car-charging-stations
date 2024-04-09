@@ -1,0 +1,148 @@
+[
+  {
+    "title": "FDEL - Rue Blanie Castelnau-Montratier",
+    "address": "23 Rue Blanie - Castelnau-Montratier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Chemin de la Perrine Molières",
+    "address": "1 Chemin de la Perrine - Molières",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Puycornet, Salle Communale - Puycornet",
+    "address": "Puycornet, Salle Communale - Puycornet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Rue du 19 Mars 1962 Montpezat-de-Quercy",
+    "address": "Rue du 19 Mars 1962 - Montpezat-de-Quercy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE82 - Rue du Vicariat - Cazes-Mondenard",
+    "address": "Rue du Vicariat - Cazes-Mondenard",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Route de Montpezat - Mirabel",
+    "address": "Route de Montpezat - Mirabel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Saint-Géry - Lascabanes (Tesla and others)",
+    "address": "Saint-Géry - Lascabanes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Saint-Vincent-d'Autéjac - 1380 Rte du Galdassié",
+    "address": "1380 Rte du Galdassié - Saint-Vincent-d'Autéjac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Total Energies - A20 Aire Bois de Dourre (double sens)",
+    "address": "A20 Aire De Bois Dourre - Montalzat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE82 - Esplanade Gustave Bosc Lafrançaise",
+    "address": "1 Esplanade Gustave Bosc - Lafrançaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

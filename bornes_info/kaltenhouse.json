@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Izivia - 5 Rue Georges Méliès - Haguenau",
+    "address": "03 Rue Georges Méliès - Haguenau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Cora - Haguenau",
+    "address": "Route du Rhin - Haguenau",
+    "connectors": [
+      "x1",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Versus - Station de recharge rapide à Haguenau",
+    "address": "2 Rue Maryse Bastie - Haguenau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeHop - Cabinet Dentaire Docteur Yves Kahhali - Haguenau",
+    "address": "2D Route de Marienthal - Haguenau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Haguenau",
+    "address": "1 Rue du Kestlerhof - Haguenau",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Zone commerciale TAUBENHOF 2 (parking Centrakor)",
+    "address": "2 Rue du Kestlerhof - Haguenau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale TAUBENHOF 2 (parking Maison Depôt)",
+    "address": "2 Ferme Kestler - Haguenau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - route de Bichwiller 91 - Haguenau",
+    "address": "route de Bichwiller 91 - Haguenau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citroën - Haguenau (Privé)",
+    "address": "101 Route de Marienthal - Haguenau",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hyundai - Haguenau",
+    "address": "91 Route De Marienthal - Haguenau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

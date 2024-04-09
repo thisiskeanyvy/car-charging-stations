@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Gamm Vert Lugny",
+    "address": "Rue De La Folie - Lugny",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Pâquier - Lugny",
+    "address": "5 Place du Pâquier - Lugny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cave Lugny",
+    "address": "944 Rue des Charmes - Lugny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Lugny - 630 Chemin du Grand Bois",
+    "address": "630 Chemin du Bois du Devant - Lugny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Recharger mon auto - Pont-de-Vaux - Camping Aux Rives du Soleil",
+    "address": "Port de Fleurville Camping Aux Rives du Soleil - Pont-de-Vaux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Mâcon-St Albain (direction Mâcon)",
+    "address": "A6 - Saint-Albain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A6 Aire de Mâcon-La Salle (direction Dijon)",
+    "address": "A6 - La Salle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IZIVIA - A6 Aire De Mâcon-La Salle (Direction Chalon-sur-Saône)",
+    "address": "A6 Autoroute du Soleil - Saint-Albain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La moutonnerie",
+    "address": "La Moutonnerie - Bray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pont-de-Vaux (Privé)",
+    "address": "143 Aux Quatre Vents - Gorrevod",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Mairie de Brouckerque",
+    "address": "13 Place du Village - Brouckerque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BornEco - 610 Route de Cassel",
+    "address": "610 Route de Cassel - Drincham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hotel Campanile Dunkerque Est",
+    "address": "1T Rue du Lac Hôtel Restaurant Campanile - Armbouts-Cappel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 2 Rue du Lac - Armbouts-Cappel",
+    "address": "2 Rue du Lac - Armbouts-Cappel",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best Western Hôtel du Lac - Restaurant La Terrasse du Lac",
+    "address": "2 Rue du Lac - Armbouts-Cappel",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supercharger Tesla V4 - Grande-Synthe",
+    "address": "95 Rue Nationale - Grande-Synthe",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Rue de l'Ancienne Route Nationale - Grande-Synthe",
+    "address": "40 Rue de l'Ancienne Route Nationale 40 - Grande-Synthe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Bricoman - Cappelle-la-Grande",
+    "address": "201 Rue du Pappe Veld - Cappelle-la-Grande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue de la Gironde - Dunkerque",
+    "address": "65a Avenue De La Gironde - Dunkerque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Citroën - Bourbourg",
+    "address": "23 Route de Looberghe - Bourbourg",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Place Yves Tanguy - Bannalec",
+    "address": "12 Place Yves Tanguy - Bannalec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Intermarché - Bannalec",
+    "address": "2 Rue Eugène Lorec - Bannalec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Bannalec (La Gare)",
+    "address": "Rue de la Gare - Bannalec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint Thurien (Place Kilmacow)",
+    "address": "9 Rue de Quimperlé - Saint-Thurien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Melgven (Aire de covoiturage Kerampaou)",
+    "address": "Kerampaou - Melgven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mellac (Ty Bodel)",
+    "address": "Pôle d'activité Kervidanou - Mellac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pont-Aven (Rue des Abbès Tanguy)",
+    "address": "Rue des Abbès Tanguy - Pont-Aven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-Totem - Carrefour Market - Riec sur Bélon",
+    "address": "3 Rue de Quimperlé - Riec-sur-Belon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Quai Theodore Botrel - Pont-Aven",
+    "address": "11 quai theodore botrel - Pont-Aven",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Scaër",
+    "address": "Rue Général de Gaulle - Scaër",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

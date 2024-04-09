@@ -1,0 +1,118 @@
+[
+  {
+    "title": "OuestCharge - Rue Valy Goz - Lesneven",
+    "address": "Rue Valy Goz - Lesneven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mac Donald's - Lesneven",
+    "address": "2 Rue de Croas ar Rod - Lesneven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Le Folgoët (Rue du Verger)",
+    "address": "Rue du Verger - Le Folgoët",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Ploudaniel (Place Saint Yves)",
+    "address": "Place Saint-Yves - Ploudaniel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ploudaniel Saint-Eloi",
+    "address": "Le REst - Ploudaniel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plouider (Place Général de Gaulle)",
+    "address": "3 Rue de la Mer - Plouider",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel la butte",
+    "address": "12 Rue de la mer - Plouider",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel La Butte - Plouider",
+    "address": "12 Rue de la Mer - Plouider",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Ploudaniel",
+    "address": "5 Kerneyen - Ploudaniel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Médicale & Sociale - Kerlouan (privé)",
+    "address": "8 Rue des Lilas - Kerlouan",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

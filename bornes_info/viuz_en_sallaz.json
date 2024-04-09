@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYANE - Route du Fer À Cheval Viuz-en-Sallaz",
+    "address": "3660 Route du Fer À Cheval - Viuz-en-Sallaz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue du Faucigny - Saint-Jeoire",
+    "address": "64 Rue du Faucigny - Saint-Jeoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Intermarché - Saint-Jeoire",
+    "address": "123 Route de Montrenaz - Saint-Jeoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Au Pont de Fillinges - Fillinges",
+    "address": "84 Au Pont de Fillinges - Fillinges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Môle",
+    "address": "- Saint-Jean-de-Tholome",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Boëge - rue du Collège",
+    "address": "46°12'26.8\"N 6°24'09.1\"E - Boëge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue de la Menoge - Boëge",
+    "address": "50 Rue du Bourno - Boëge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Campanile findrol savoie leman - Route des marais - Fillinges",
+    "address": "251 Route des marais - Fillinges",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Avenue de Staufen",
+    "address": "217 Avenue de Staufen - Bonneville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reignier - Scientrier",
+    "address": "660 Voie Communale N°4 Dite du By - Scientrier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

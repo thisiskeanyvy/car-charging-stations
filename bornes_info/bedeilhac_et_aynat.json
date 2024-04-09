@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE09 - Cité des Arrigols - Tarascon-sur-Ariège",
+    "address": "1-2 Cité des Arrigols - Tarascon-sur-Ariège",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Super U - Tarascon-sur-Ariège",
+    "address": "1074bis Rue De La Croix De Quie - Tarascon-sur-Ariège",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Tarascon-sur-Ariège",
+    "address": "1224 Place du 19 Mars 1962 - Tarascon-sur-Ariège",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Tarascon-sur-Ariège - Intermarché",
+    "address": "2 Rue du Fourcat - Tarascon-sur-Ariège",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alliat | Prado de la Hillo",
+    "address": "Prado de la Hillo - Alliat",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Rue la Ruelle",
+    "address": "Rue la Ruelle - Montgaillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking E Leclerc Foix",
+    "address": "Route d'Espagne - Foix",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "McDonald's - Foix (privé)",
+    "address": "11 N20 - Foix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Foix",
+    "address": "ZA Foix Sud - Foix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Foix Sud",
+    "address": "9023B Route d'Espagne - Foix",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

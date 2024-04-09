@@ -1,0 +1,140 @@
+[
+  {
+    "title": "e-born - Parking Avenue des Thermes - Saint-Martin-d'Uriage",
+    "address": "4 Sentier des Anciennes Fabriqués - Saint-Martin-d'Uriage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel des Mésanges",
+    "address": "94 Route des Mésanges - Saint-Martin-d'Uriage",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'étincelle mountain lodge",
+    "address": "350 Rue des anémones - Chamrousse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue des Orcettes - Chamrousse",
+    "address": "100 Rue des Orcettes - Chamrousse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Gières - Place de la République",
+    "address": "Place de la République - Gières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Garcia Gieres (Privé)",
+    "address": "14 Avenue Esclangon - Gières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Mairie de Chamrousse",
+    "address": "Place des Trolles - Chamrousse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Grenoble Métropole - Gare de Gières",
+    "address": "18 Rue de la Gare - Gières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Grenoble-Alpes Métropole - Rue du Colonel Fouque",
+    "address": "Rue du Colonel Fouque - Domène",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Chamrousse - Rue du père Tassé",
+    "address": "Rue du père Tassé - Chamrousse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

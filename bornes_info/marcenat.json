@@ -1,0 +1,114 @@
+[
+  {
+    "title": "SDE03 - Saint-Germain-des-Fossés",
+    "address": "Rue de Vichy - Saint-Germain-des-Fossés",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Allier Le Département",
+    "address": "Rue de Vichy - Saint-Rémy-en-Rollat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allier Le Département - Saint-Rémy-en-Rollat",
+    "address": "- Saint-Rémy-en-Rollat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - Vendat - 19 Rue de Vichy",
+    "address": "19 Rue de Vichy - Vendat",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yesss Electrique",
+    "address": "Rue de l'Industrie - Creuzier-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tables en fête",
+    "address": "23 Rue Jean Chaume - Varennes-sur-Allier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Varennes-sur-Allier",
+    "address": "Place de l'Hôtel de ville - Varennes-sur-Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Charmeil",
+    "address": "12 Route de Saint-Pourçain - Charmeil",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Concession JMC VolksWagen",
+    "address": "Rue de la Ronzière - Charmeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Charmeil - 10 Route de Saint-Pourçain",
+    "address": "10 Route de Saint-Pourçain - Charmeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

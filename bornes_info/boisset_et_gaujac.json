@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Boisset et Gaujac Révéo",
+    "address": "Route d'Anduze - Boisset-et-Gaujac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Rue du Luxembourg - Anduze",
+    "address": "12 Rue du Luxembourg - Anduze",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Mairie de Bagard",
+    "address": "237 Route d'Alès - Bagard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Anduze",
+    "address": "Route de St Jean du Gard - Anduze",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 (Révéo) - parking Allée de la Gare",
+    "address": "Allée de la Gare - Lézan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 1405 Chemin de Fraisal Suejol - Anduze",
+    "address": "1405 Chemin de Fraisal Suejol - Anduze",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l hotel porte des cevennes - Anduze",
+    "address": "2300 Route de Saint-Jean du Gard - Anduze",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Saint-Christol-lès-Alès - ETS Combes",
+    "address": "776 Avenue Jean Moulin - Saint-Christol-lès-Alès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Mairie de Saint-Christol-lès-Alès",
+    "address": "Rue des Marmousets - Saint-Christol-lès-Alès",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Christol-lès-Alès",
+    "address": "60 Route de Montèze - Saint-Christol-lès-Alès",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

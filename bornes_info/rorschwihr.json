@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Les Amandiers - Bergheim (Privé)",
+    "address": "8 Faubourg Saint Pierre - Bergheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pêche de Vigne Spa et Maison d'Hôtes",
+    "address": "31 Rue du Pinot Noir - Rodern",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue des Vignerons - Bergheim",
+    "address": "72 Rue Des Vignerons - Bergheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Zephyre - 6 Rue du Parc - Saint-Hippolyte",
+    "address": "6 Rue du Parc - Saint-Hippolyte",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "S'HARZALA (E-bike)",
+    "address": "3 Rue Charles Bleger - Saint-Hippolyte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Val-Vigne",
+    "address": "23 Chemin Wall - Saint-Hippolyte",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Colmar 20 68750 BERGHEIM (Privé)",
+    "address": "Route de Colmar 20 - BERGHEIM",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Bleger",
+    "address": "23 Grand Rue - Orschwiller",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Casino de Ribeauvillé - route départmaentale - (Tesla et autres)",
+    "address": "106 route departmaentale - Ribeauvillé",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le Clos Saint Vincent - Ribeauville (Tesla and others)",
+    "address": "1 Spiegel - Ribeauville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

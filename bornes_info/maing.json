@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Maing | Rue Jean Jaurès 61",
+    "address": "61 Rue Jean Jaurès - Maing",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PassPass - Technopole Transalley - Famars",
+    "address": "Technopôle Transalley - Famars",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Leclerc - Thiant",
+    "address": "13 Rue du 19 Mars 1962 - Thiant",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "PassPass - Michel Moriamez - Aulnoy-Lez-Valenciennes",
+    "address": "Rue Michel Moriamez - Aulnoy-Lez-Valenciennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Prouvy - 60 Rue Roger Brabant",
+    "address": "60 Rue Roger Brabant - Prouvy",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - JLR - Aulnoy-lez-Valenciennes",
+    "address": "Rue Jules Mousseron - Aulnoy-lez-Valenciennes",
+    "connectors": [
+      "x4",
+      "x10",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "RossiniEnergy - Avenue Marc Lefrancq - Prouvy",
+    "address": "Avenue Marc Lefrancq - Prouvy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Aulnoy-les-Valenciennes",
+    "address": "3 P Rue des Bessemers - Aulnoy-Lez-Valenciennes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Driveco - 30 Chemin des Bourgeois - Aulnoy-Lez-Valenciennes",
+    "address": "Chemin des Bourgeois - Aulnoy-Lez-Valenciennes",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 320 Avenue Marc Lefrancq - Prouvy",
+    "address": "320 Avenue Marc Lefrancq - Prouvy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

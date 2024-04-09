@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Carrefour Market - Le Taillan-Médoc",
+    "address": "1 Chem. de Gelès, - Le Taillan-Médoc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc-Relais Cantinolle - Le Haillan",
+    "address": "Accès parc-relais - Le Haillan",
+    "connectors": [
+      "x21"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi Cantinolle",
+    "address": "Avenue du Taillan - Eysines",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chambres d'hôtes Domaine de Ginouilhac",
+    "address": "8 Allée de ginouilhac - Le Taillan-Médoc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Taillan-Médoc - 96 Avenue Du Stade",
+    "address": "96 Avenue Du Stade - Le Taillan-Médoc",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Saint-Médard-en-Jalles - Restaurant les Frangins",
+    "address": "24 Avenue Descartes - Saint-Médard-en-Jalles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Cabinet Argos Vétérinaire",
+    "address": "284 Avenue Pasteur - Le Haillan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "39 Rue des Vignes",
+    "address": "39 Rue des Vignes - Eysines",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Avenue de Berlincan - Saint-Médard-en-Jalles",
+    "address": "Avenue de Berlincan - Saint-Médard-en-Jalles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint Medard en Jalles",
+    "address": "Avenue Descartes - Saint-Médard-en-Jalles",
+    "connectors": [
+      "x10",
+      "x30"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

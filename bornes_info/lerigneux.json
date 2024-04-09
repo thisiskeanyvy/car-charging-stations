@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Jasserie les airelles",
+    "address": "6 Sichard - Saint-Anthème",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL - Place Bouvier Montbrison",
+    "address": "17-21 Avenue d'Allard - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Boulevard Jean-françois Claude Lachèze - Montbrison",
+    "address": "16 Boulevard Jean-françois Claude Lachèze - Montbrison",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Zephyre - Peugeot - Montbrison",
+    "address": "61 Avenue Charles de Gaulle - Montbrison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Montbrison",
+    "address": "2 Boulevard Duguet - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiloire - Avenue Thermale - Montbrison",
+    "address": "8 Avenue Thermale - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Mathieu - Montbrison",
+    "address": "1 Impasse du 8 Mai - Montbrison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Avenue De Saint Étienne",
+    "address": "34 Avenue De Saint Étienne - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Route d'Ambert - Saint-Anthème",
+    "address": "Route d'Ambert - Saint-Anthème",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Montbrison - Bricomarché",
+    "address": "10 Allée Jean 1er du Forez - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

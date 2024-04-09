@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Espace Viennet - Sérignan",
+    "address": "18 Rue Herman Rouzaud - Sérignan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Rue Valessie - Sérignan",
+    "address": "Rue Valessie - Sérignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Parking de la Cigalière - Sérignan",
+    "address": "Chemin de la Drague - Sérignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Sérignan - 26 Boulevard du Général de Gaulle (privé)",
+    "address": "26 Boulevard du Général de Gaulle - Sérignan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine Alfred Nakache - Chemin de Mazeilles - Sauvian",
+    "address": "12T Rue Montaigne - Sérignan",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Sérignan",
+    "address": "740 Avenue Edgar Faure - Sérignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Utile - Avenue Paul Vidal - Sauvian",
+    "address": "11 Avenue Paul Vidal - Sauvian",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Boulevard Charles de Gaulle - Sauvian",
+    "address": "Boulevard Charles de Gaulle - Sauvian",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Camping Siblu Les Sables du Midi - Valras-Plage",
+    "address": "10 Rue du Group Salat - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Parking Lilly Passeur - Valras-Plage (privée)",
+    "address": "Boulevard Jean Dauga - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

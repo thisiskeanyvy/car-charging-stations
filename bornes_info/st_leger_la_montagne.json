@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Qovoltis/443",
+    "address": "Le Vignaud du Haut - La Jonchère-Saint-Maurice",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place du 8 Mai 1945 - Saint-Sulpice-Laurière",
+    "address": "Place du 8 Mai 1945 - Saint-Sulpice-Laurière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Rue De La Libération - Razès",
+    "address": "30 Rue De La Libération - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - Avenue du Général de Gaulle - Ambazac",
+    "address": "55 Avenue du Général de Gaulle - Ambazac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place du 19 Mars 1962",
+    "address": "5 Avenue Général de Gaulle - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "mobilygreen - Ambazac - Mr Bricolage",
+    "address": "23 Avenue de la Libération - Ambazac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Gare d'Ambazac",
+    "address": "1 Place de la Gare - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - D44A3 Maison du Lac - Razès",
+    "address": "D44A3 Maison du Lac - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Bessines-sur-Gartempe - Rue des Grands Jardins",
+    "address": "5000 Rue des Grands Jardins - Bessines-sur-Gartempe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Recharger mon auto - Bessines-sur-Gartempe - 12 Avenue du 8 Mai 1945",
+    "address": "12 Avenue du 8 Mai 1945 - Bessines-sur-Gartempe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

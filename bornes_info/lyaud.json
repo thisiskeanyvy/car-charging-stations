@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Syane - Eglise - Le Lyaud",
+    "address": "6 Avenue de Champagne - Le Lyaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "45 Chemin des Marmottes",
+    "address": "45 Chemin des Marmottes - Thonon-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Eglise Allinges",
+    "address": "21 Rue du Presbytère - Allinges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel L'Arc-en-Ciel",
+    "address": "18 Place de Crète - Thonon-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare de Thonon-les-Bains",
+    "address": "Chemin de Ronde - Thonon-les-Bains",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Avenue de la Gare - Thonon les Bains",
+    "address": "Avenue de la Gare - Thonon les Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Thonon-les-Bains Les Arts",
+    "address": "10 Place des Arts - Thonon-les-Bains",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shopping Leman - Intermarché",
+    "address": "7 Rue Amédée de Foras - Thonon-les-Bains",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du marché - Thonon-les-Bains",
+    "address": "3 Place du Marché - Thonon-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Thonon-les-Bains - Pont De Drance, Cd 32,",
+    "address": "Pont De Drance, Cd 32, - Thonon-les-Bains",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

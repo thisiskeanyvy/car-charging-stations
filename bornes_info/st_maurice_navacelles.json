@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Révéo - route de Ganges D25",
+    "address": "D25 - Saint-Maurice-Navacelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMEG30 - D713 - Blandas",
+    "address": "D713 - Blandas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Causse-de-la-Selle - Route du Barrage",
+    "address": "Route du Barrage - Causse-de-la-Selle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au Château de Villarel",
+    "address": "Le Villarel - Brissac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Route de Vissec Alzon",
+    "address": "Route de Vissec - Alzon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking plaine de Cavaillac D999 - Molières-Cavaillac",
+    "address": "Plaine de Cavaillac - Molières-Cavaillac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Jardin aux Sources (Restaurant-Chambres) - Brissac",
+    "address": "30 Avenue du Parc - Brissac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Quartier tuber (Privé)",
+    "address": "Quartier tuber - Avèze",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rouvayret - Saint-Jean-de-la-Blaquière",
+    "address": "Rouvayret / Route de Rabieux - Saint-Jean-de-la-Blaquière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A75 Aire du Caylar (double sens)",
+    "address": "A75 - Le Caylar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

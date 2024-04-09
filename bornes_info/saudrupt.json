@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Modulo-Energies - Lisle en Rigault",
+    "address": "23 Rue Henri Chevalier - Lisle-en-Rigault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Ancerville",
+    "address": "87 Rue de Saint-Dizier - Ancerville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sos femmes accueil",
+    "address": "2 Rue Saint-John Perse - Saint-Dizier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Bar le Duc - Aulnois",
+    "address": "6 Rue d'Aulnois - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Bettancourt-la-Ferrée - Cora",
+    "address": "Val D'Ornel - Bettancourt-la-Ferrée",
+    "connectors": [
+      "x1",
+      "x9",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Dizier | Avenue de la Loubert 33",
+    "address": "33 Avenue de la Loubert - Saint-Dizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CPAM de la Meuse",
+    "address": "8 Rue de Polval - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GEPELEC - Rue Maréchal Lannes",
+    "address": "16 Rue Maréchal Lannes - Savonnières-devant-Bar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Bar le Duc - Confluences",
+    "address": "8 Avenue du 94E Régiment d'Infanterie - Bar-le-Duc",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Auchan - Les Roises - Savonnières-devant-Bar",
+    "address": "Les Roises - Savonnières-devant-Bar",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ENGIE Vianeo - CHU de Reims",
+    "address": "Rue Roger Aubry - Reims",
+    "connectors": [
+      "x17"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*S51 - Reims - 27 Rue René Descartes",
+    "address": "27 Rue René Descartes - Reims",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Honda - Rue Andre faivre - Reims",
+    "address": "170 Rue Andre faivre - Reims",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Reims B - Avenue Henri Farman",
+    "address": "Avenue Henri Farman - Reims B",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Parc Léo Lagrange - Reims",
+    "address": "1 Rue Léo Lagrange - Reims",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Communauté Urbaine du Grand Reims - Rue Serge Kochman - Reims",
+    "address": "Rue Serge Kochman - Reims",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Communauté Urbaine du Grand Reims - Parking Chatelet - Reims",
+    "address": "1 Rue Cardinal Suhard - Reims",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Place Lenoncourt - Reims",
+    "address": "34 Place Lenoncourt - Reims",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEM 51 - 134 Rue Gambetta - Parking rectorat - Reims",
+    "address": "134 Rue Gambetta - Parking rectorat - Reims",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mercure Reims Cathédrale",
+    "address": "31 Boulevard Paul Doumer - Reims",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

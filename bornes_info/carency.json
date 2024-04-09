@@ -1,0 +1,142 @@
+[
+  {
+    "title": "TotalEnergies - A26 Aire de Souchez (direction Arras)",
+    "address": "A26 - AIRE DE SOUCHEZ - SOUCHEZ",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A26 Aire d'Angres (direction Calais)",
+    "address": "A26 - REIMS CALAIS - ANGRES",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place Raoul Briquet - Givenchy-en-Gohelle",
+    "address": "Place Raoul Briquet - Givenchy-en-Gohelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "GEOTHERM SOLAIRE",
+    "address": "6 rue D acq - Haute Avesnes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Arthur Lamendin - Liévin",
+    "address": "Avenue Arthur Lamendin - Liévin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Liévin",
+    "address": "33 Rue Henri Martin - Liévin",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Liévin",
+    "address": "Rue du Temple - Liévin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Liévin",
+    "address": "Boulevard du Maréchal Leclerc de Hauteclocque - Liévin",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto - Liévin",
+    "address": "8 Rond-Point De l'Europe - Liévin",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NW IEcharge - Route De Béthune - Sainte Catherine",
+    "address": "97 Route De Béthune - Sainte-Catherine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

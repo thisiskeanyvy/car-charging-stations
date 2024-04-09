@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Maison d'hotes Clos Marie",
+    "address": "Rue du Four à Chaux - Iguerande",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Iguerande | Le Colombier",
+    "address": "Le Colombier - Iguerande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-borne - Place de la bouverie - Charlieu",
+    "address": "Place de la Bouverie - Charlieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Charlieu - Relais de l'Abbaye",
+    "address": "495 D4 - Charlieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 538 Rue Magellan - Saint-Nizier-sous-Charlieu",
+    "address": "512 Rue Magellan - Saint-Nizier-sous-Charlieu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - espace des grands prés 1 - SAINT CHRISTOPHE EN BRIONNAIS",
+    "address": "espace des grands prés 1 - SAINT CHRISTOPHE EN BRIONNAIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Societe ALHENA - Châteauneuf",
+    "address": "Le Bourg - Châteauneuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Irène Popard - Marcigny",
+    "address": "10 Place Irène Popard - Marcigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambre Gîte à louer Baugyte - Impasse De La Cure - BAUGY (71)",
+    "address": "175 Impasse De La Cure - Baugy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Vougy - Rue de verdun",
+    "address": "Rue de verdun - Vougy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

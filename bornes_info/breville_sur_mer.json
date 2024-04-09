@@ -1,0 +1,142 @@
+[
+  {
+    "title": "O2 Camping",
+    "address": "La Bretonnière - Longueville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel de la baie",
+    "address": "Rue de l'Ermitage - Donville-les-Bains",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Route de Coutances Donville-les-Bains",
+    "address": "97 Route de Coutances - Donville-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Leclerc - Granville",
+    "address": "165 Impasse des Sapins - Yquelon",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - McDonald's - Granville",
+    "address": "Route de Villedieu - Granville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Ibis Budget Grandville",
+    "address": "route de villedieu - GRANVILLE",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW Envergure - Granville",
+    "address": "139 Rue des Entrepreneurs - Granville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "E-Totem - Biocoop - Granville",
+    "address": "118 Route de Villedieu - Granville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Brit Hotel - Granville",
+    "address": "57 Avenue des Matignon - Granville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Granville - Privé",
+    "address": "199 Rue Marie Fougeray - Granville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

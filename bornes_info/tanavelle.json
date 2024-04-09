@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Gîtes Bon Air - Chemin du Bon air (Tesla et autres)",
+    "address": "19 Chemin du Bon air - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes Bon Air - route de Paulhac",
+    "address": "16 route de Paulhac - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte La K-Bane au fond du jardin - Impasse des Jardins (Tesla and others)",
+    "address": "3 Impasse des Jardins - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bio Attitudes - Roffiac",
+    "address": "7 Zac De Montplain Les Allauziers - Roffiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Cantal - Le departement",
+    "address": "48 Rue du Dr Mallet - Saint flour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Hospitalier de Saint-Flour",
+    "address": "3 Rue Marcellin Boudet - Saint-Flour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking des Allées - St Flour",
+    "address": "8 Cours Spy Des Ternes - St.-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Hôtel Restaurant Ancien grand séminaire",
+    "address": "7 rue des Planchettes - Saint-Flour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Pl. de la Liberté - Saint-Flour",
+    "address": "1-9 Place de la Liberté - St.-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc - ZA Crozatier - Saint-Georges",
+    "address": "ZA du Crozatier - Saint-Georges",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

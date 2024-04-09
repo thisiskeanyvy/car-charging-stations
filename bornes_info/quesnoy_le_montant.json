@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Rossini Energy/Clos_Cacheleux",
+    "address": "12 Rue de Bouillancourt - Miannay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Le Clos Cacheleux - Moyenneville",
+    "address": "3 Rue De Miannay Bouillancourt - Moyenneville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cabinet Paramedical",
+    "address": "Rue Auguste Edith - Boismont",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Boismont",
+    "address": "route de Pinchefalise, - Boismont",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de Behen",
+    "address": "9 Rue du Château - Béhen",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Feuquières",
+    "address": "47 Rue Henri Barbusse - Feuquières-en-Vimeu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Jean Jaurès - Feuquières-en-Vimeu",
+    "address": "14 Place Jean Jaurès - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Avenue du Vimeu Vert",
+    "address": "1 Avenue du Vimeu Vert - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - A16 Aire de la Baie de Somme",
+    "address": "A16 A16 - Aire de la Baie de Somme - Sailly-Flibeaucourt",
+    "connectors": [
+      "x10",
+      "x10",
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping-Car - Sailly-Flibeaucourt",
+    "address": "Unnamed Road - Sailly-Flibeaucourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

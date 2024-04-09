@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lidl - Pézenas",
+    "address": "170 Avenue Général de Gaulle - Pézenas",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking du Centre",
+    "address": "80 Rue de la Mairie - Valros",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco pour Ford - 1 Rue Alfred Maurel - Pézenas",
+    "address": "1 Rue Alfred Maurel - Pézenas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du Centre",
+    "address": "32 Grand Rue - Valros",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Pézenas",
+    "address": "30 Route De Beziers - Pézenas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'Occitane Automobiles - Renault",
+    "address": "D913 - Pézenas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Jean-Baptiste Salvaing et Jessica Schneider - Pézenas",
+    "address": "1 Avenue Jean-Baptiste Salvaing et Jessica Schneider - Pézenas",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Alize (Bouygues Energies et Services) - Pézenas - 3 Avenue Paul Vidal de la Blache",
+    "address": "3 Avenue Paul Vidal de la Blache - Pézenas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Jean Moulin - Valros",
+    "address": "Avenue Jean Moulin - Valros",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Le Saint Germain",
+    "address": "6 Avenue Paul Vidal de la Blache - Pezenas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

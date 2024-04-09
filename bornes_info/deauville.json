@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ibis - Quai de la Marine (Tesla and others)",
+    "address": "9 Quai de la Marine - Deauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du marché - Rue Mirabeau",
+    "address": "23 Rue Mirabeau - Deauville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Pom's - Quai de la Marine",
+    "address": "10 Quai de la Marine - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Rue Breney - Deauville",
+    "address": "2 Rue Breney - Deauville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Avenue de la République - Deauville",
+    "address": "20 Avenue de la République - Deauville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 22 Boulevard des Sports - Deauville",
+    "address": "22 Boulevard des Sports - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Izivia-Express - Place Josephine Baker - Deauville",
+    "address": "Place Josephine Baker - Deauville",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pierre Vacances Premium - Deauville (Tesla and others)",
+    "address": "25 Quai de la Touques - Deauville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Quai de la Touques - Deauville",
+    "address": "19 Quai de la Touques - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue Mirabeau Prolongée - Deauville",
+    "address": "Rue Mirabeau Prolongée - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

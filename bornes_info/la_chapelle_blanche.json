@@ -1,0 +1,140 @@
+[
+  {
+    "title": "MobiSDEC - SAINT PIERRE LA VIEILLE (Le Bourg / D54)",
+    "address": "Le Bourg - Saint-Pierre-la-Vieille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l eglise",
+    "address": "2 Rue de l'Église - Vassy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Valdallière - 20 Place Du Colonel Candau",
+    "address": "20 Place Du Colonel Candau - Valdallière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Saint-Germain-du-Crioult",
+    "address": "1 D184 - Saint-Germain-du-Crioult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Rue De La Liberté - Montchamp",
+    "address": "1 Rue De La Liberté - Montchamp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Condé sur Noireau (Rue des Prés Guillets",
+    "address": "10 Rue des Prés Guillets - Condé-sur-Noireau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - CONDÉ SUR NOIREAU (Rue Saint-Martin) SUPPRIMÉ",
+    "address": "Rue Saint-Martin - Condé-sur-Noireau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Mairie Saint-Denis de Méré",
+    "address": "Rue des Rosiers - Saint Denis de Méré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Le bourg - Caligny",
+    "address": "21 Le Bourg - Caligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Route de la Ferronnière - Souleuvre en Bocage",
+    "address": "38 Route de la Ferronnière - Souleuvre en Bocage",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

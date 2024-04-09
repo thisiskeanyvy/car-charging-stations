@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Freshmile - Place de Verdun - Bèze",
+    "address": "8 Place de Verdun - Bèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-Vadea - A31 Aire de Dijon Brognon (direction Dijon)",
+    "address": "A31, Aire de Dijon Brognon - Brognon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x11",
+      "x9",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Aire de Dijon Brognon (direction Nancy)",
+    "address": "A31 - Brognon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A31 Aire de Dijon-Spoy (direction Dijon)",
+    "address": "Autoroute de Lorraine-Bourgogne - Brognon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - A31 Aire De Dijon-Spoy (direction Dijon)",
+    "address": "Bois du Bouloye - Brognon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chemin de la Croix Brunot - Fontaine-Française",
+    "address": "5 Chemin de la Croix Brunot - Fontaine-Française",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Intermarché - Fontaine-Française",
+    "address": "34 Rue Henry Berger - Fontaine-Française",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking à côté de la Mairie - Til-Châtel",
+    "address": "1 Rue d'Aval - Til-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel l'Arc de Tilles (Tesla et autres)",
+    "address": "6 Allée des Platanes - Arc-sur-Tille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour market",
+    "address": "1 de la Petite Fin - Saint-Julien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  }
+]

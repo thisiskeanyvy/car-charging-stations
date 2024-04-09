@@ -1,0 +1,138 @@
+[
+  {
+    "title": "FASTNED - A9 - Aire d'Ambrussum Nord (direction Montpellier)",
+    "address": "A9 Aire d'Ambrussum Nord - Villetelle",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A9 Aire Ambrussum Sud (direction Nîmes)",
+    "address": "830 Route de Villetelle - Villetelle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Ibis Petite Camargue - Lunel",
+    "address": "200 ZAC de la Petite Camargue - Lunel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Mairie d'Aubais",
+    "address": "Avenue Emile Léonard - Aubais",
+    "connectors": [
+      "x2",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - VW - Lunel",
+    "address": "180 Rue Thomas Edison - Lunel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "INTERMARCHE  Avenue des 4 Saisons (Tesla and others)",
+    "address": "170 Avenue des 4 Saisons - Lunel",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Hôtel Kyriad Montpellier est Lunel",
+    "address": "177 Avenue Louis Lumière - Lunel",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SMEG30 - parking du Cimetière",
+    "address": "2 Impasse De La Planette - Gallargues-le-Montueux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Devant boulodrome et arènes",
+    "address": "175 Rue André Auguste - Lunel-Viel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Camping du Domaine de Massereau (Tesla and others)",
+    "address": "1990 Route d'Aubais - Sommières",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

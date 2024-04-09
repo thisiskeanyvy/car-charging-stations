@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sequoia park",
+    "address": "27 Rue de la bergere - Just luzac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Pont-l'Abbé-d'Arnoult - Carrefour Market",
+    "address": "29 Rue Claire Pertus - Pont-l'Abbé-d'Arnoult",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Piscine - Pont l'abbé d'arnoult",
+    "address": "18 Avenue Bernard Chambenoit - Pont-l'Abbé-d'Arnoult",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "CYCLE ELEC",
+    "address": "5 Route de Royan - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proche Médiathèque - Rue Samuel Champlain Le Gua",
+    "address": "17 Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEER (MobiVE) - Le Gua - Rue Samuel Champlain",
+    "address": "Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - La Josephtrie - Saint-Just-Luzac",
+    "address": "La Josephtrie - Saint-Just-Luzac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Le Gua - 2 Rue du Bassin",
+    "address": "2 Rue du Bassin - Le Gua",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Rue de l'Église - Échillais",
+    "address": "19 Rue de l'Église - Échillais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel ibis style",
+    "address": "22 Rue des Droits de l'Homme - Marennes-Hiers-Brouage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

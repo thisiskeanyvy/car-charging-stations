@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEM50 - Place Auguste Cousin",
+    "address": "8 Place Auguste Cousin - Saint-Sauveur-le-Vicomte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Rue Raymond Poincaré Picauville",
+    "address": "3 Rue Raymond Poincaré - Picauville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château L'Isle Marie",
+    "address": "469 L'Isle Marie - Picauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place du Champ de Foire - La Haye",
+    "address": "3 Place du Champ de Foire - La Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IECharge - Négreville - 1366 Rue Saint-Clair",
+    "address": "1366 Rue Saint-Clair - Négreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*SEV - La Haye - D903 ZA de l'étrier",
+    "address": "D903 ZA de l'étrier - La Haye",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue du Vavasseur - La Haye",
+    "address": "Rue du Vavasseur - La Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - 8 Rue de Richedoux - Sainte-Mère-Église",
+    "address": "8 Rue de Richedoux - Sainte-Mère-Église",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue de la Liberté Sainte-Mère-Église",
+    "address": "2 Rue 505E Airborne - Sainte-Mère-Église",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E. Leclerc - Valognes",
+    "address": "7 Route de Montebourg - Valognes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

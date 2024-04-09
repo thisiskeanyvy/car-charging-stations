@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Le Lac de Crivito",
+    "address": "1 Route du Vaux - Caraman",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Caraman, Cimetière",
+    "address": "28 Avenue de Toulouse - Caraman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 26 Route de Toulouse, Faubourg, Rue St Roch - Saint-Félix-Lauragais",
+    "address": "26 Route de Toulouse, Faubourg, Rue St Roch - Saint-Félix-Lauragais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET (RÉVÉO) - Place du Caducée Cuq-Toulza",
+    "address": "Place du Caducée - Cuq-Toulza",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 15 Avenue de Castres - Cuq Toulza",
+    "address": "15 Avenue de Castres - Cuq Toulza",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Tarabel, Ecole",
+    "address": "33-65 À Sudre - Tarabel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bourg-Saint-Bernard, Lieu dit le Pestre, Fournié Grospaud Réseau",
+    "address": "7 Route du Château d'Eau - Bourg-Saint-Bernard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET (Révéo) - Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "address": "Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Place Quinquiri - Lanta",
+    "address": "Place Quinquiri - Lanta",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Place de la porte d'Autan",
+    "address": "27 Avenue de la Fontasse - Villefranche-de-Lauragais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

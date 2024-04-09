@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hôtel Taillard (Tesla et autres)",
+    "address": "3 Route de la Corniche - Goumois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Muriaux - 3c Muriaux",
+    "address": "3c Muriaux - Muriaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "evpass - Gare de Saignelégier",
+    "address": "Rue de la Gare - Saignelégier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ERARD SA",
+    "address": "22 Rue des Rangiers - Saignelégier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Swisscharge - 4 Rue des Rangiers - Saignelégier",
+    "address": "4 Rue des Rangiers - Saignelégier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CJ - gare",
+    "address": "Rue de la Gare - Le Noirmont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Gîte Chez Toinette",
+    "address": "7 Chemin Combe La Noire - Saignelégier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "evpass Le Noirmont",
+    "address": "9 Sous-la-Velle - Le Noirmont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre de Loisirs Saignelégier",
+    "address": "10 Chemin des Sports - Saignelégier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Station Service Paupe - Sous-la-Velle",
+    "address": "17A Sous-la-Velle - Le Noirmont",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 3
+  }
+]

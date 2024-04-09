@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Gare de Saint-Savinien-sur-Charente",
+    "address": "26 Avenue De La Gare - Saint-Savinien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route de saint Jean d'Angély 103 - Saint Savinien",
+    "address": "Route de saint Jean d'Angély 103 - Saint Savinien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du Saint-Alexis",
+    "address": "4 Rue de la Mairie - Port-d'Envaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Saint-Porchaire - parking du marche",
+    "address": "Rue Nationale - Saint-Porchaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell France - A10 Aire de Fenioux Est",
+    "address": "000 A10 Aire de Fenioux Est - Fenioux",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Total Energies - A10 Aire de Fenioux (direction Saintes)",
+    "address": "A10 - NIORT SAINTES - FENIOUX",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Beurlay - Place de la Mairie",
+    "address": "23 Rue du Général de Gaulle - Beurlay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine du Prieuré (Tesla et autres)",
+    "address": "14 Rue du Champs de Foire - Tonnay-Boutonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-nergyze - Rue Grand Rue",
+    "address": "Rue Grand Rue - Saint-Georges-des-Coteaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Le Chalet",
+    "address": "22 rue des Gabares - Cabariot",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

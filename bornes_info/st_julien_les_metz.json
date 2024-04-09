@@ -1,0 +1,134 @@
+[
+  {
+    "title": "GROUPE COLISEE_FRANCE_SAINT JULIEN_Pext_E",
+    "address": "23 Rue des Hêtres - Saint-Julien-lès-Metz",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LIDL - Boulevard de l'Europe - Metz",
+    "address": "30 Boulevard de l'Europe - Metz",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Paixhans - Metz",
+    "address": "1 Boulevard Paixhans - Metz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue du Général Metman - Metz",
+    "address": "74 Rue du Général Metman - Metz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IKEA - Rue du Trou aux Serpents - Metz",
+    "address": "11 Rue du Trou aux Serpents - La Maxe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "UEM - Place du Pontiffroy Metz",
+    "address": "Place du Pontiffroy - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - 6 Rue Dreyfus Dupont - Metz",
+    "address": "6 Rue Dreyfus Dupont - Metz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A31 Aire de la Maxe (direction Thionville)",
+    "address": "A31 - La Maxe",
+    "connectors": [
+      "x16",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Rochambeau",
+    "address": "Rue Sainte-Barbe - Metz",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Metz",
+    "address": "17 rue du Pont Rouge - Metz",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

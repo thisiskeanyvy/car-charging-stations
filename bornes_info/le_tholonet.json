@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hôtel Lodges Ste Victoire & Restaurant St-Estève (Tesla and others)",
+    "address": "Route Cézanne - Le Tholonet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Le Tholonet",
+    "address": "1900 Avenue Paul Jullien - Le Tholonet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Lidl - Le Tholonet",
+    "address": "1900 Avenue Paul Jullien - Le Tholonet",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DREAM ENERGY - Route De La Cote d'Azur",
+    "address": "7 Route De La Cote d'Azur - Meyreuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - Le Tholonet - Avenue Paul Julien 664",
+    "address": "Avenue Paul Julien 664 - Le Tholonet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Sainte-Victoire",
+    "address": "Avenue Julien Gautier - Beaurecueil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fêtes de la Ferme Beaurecueil",
+    "address": "D58K - Beaurecueil",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electric 55 Charging - Saint-Marc-Jaumegarde - Route de la Mairie",
+    "address": "Route de la Mairie - Saint-Marc-Jaumegarde",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Dream Energy - Meyreuil - Rue de la Belle du Canet",
+    "address": "Rue de la Belle du Canet - Meyreuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ARC HOTEL Aix en provence",
+    "address": "44 Avenue Henri Malacrida - Aix-en-Provence",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

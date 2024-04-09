@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Garage Schmitt SA",
+    "address": "Avenue Mayor-Vautier 10 - Clarens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Hôtel Royal Plaza - Montreux",
+    "address": "7 Av. Claude-Nobs - Montreux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Montreux Palace Parking",
+    "address": "Rue Alexandre-Emery - Montreux",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Montreux Palace Privé (Tesla)",
+    "address": "2 Avenue Claude-Nobs - Montreux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Euro Relais - Montreux",
+    "address": "8 Route des Châtaigniers - Montreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Parking Montreux-Chailly",
+    "address": "3 Route des Châtaigniers - Chailly-Montreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Eurotel Montreux",
+    "address": "81 Grand Rue - Montreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gare de Montreux - MoB",
+    "address": "Avenue des Alpes - Montreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mercedes - Route de Saint-Maurice - La Tour-de-Peilz (Privé)",
+    "address": "233 Route de Saint-Maurice - La Tour-de-Peilz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Parking du Marché-Forum",
+    "address": "Grand'Rue 28 - Montreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

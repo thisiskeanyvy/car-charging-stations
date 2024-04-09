@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Aérodrome - Saint-Aubin (Aéroclub)",
+    "address": "Parking de l'Aérodrome - Saint-Aubin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre ville - Chezal-Benoît",
+    "address": "Place de la Poste - Chezal-Benoît",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Parking Auteroches - Issoudun",
+    "address": "9 Avenue de la Caserne - Issoudun",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Issoudun - Intermarché",
+    "address": "0 route de Bourges - Issoudun",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Place de la Libération Issoudun",
+    "address": "27 Place de la Libération - Issoudun",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Rue des Coinchettes",
+    "address": "18 Rue des Coinchettes - Issoudun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Bourges - Issoudun",
+    "address": "27 Zone artisanale Les Coinchettes - Issoudun",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDEI36 - Parking Cité des Métiers d'Arts",
+    "address": "2 Boulevard Pierre Favreau - Issoudun",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Les 3 rois - Rue Pierre Brossolette",
+    "address": "3 Rue Pierre Brossolette - Issoudun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel de la Cognette",
+    "address": "26 Rue des Minimes - Issoudun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Le Clapier - D93, Le Clapier",
+    "address": "D93, Le Clapier - Le Clapier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking avenue du Lac RD922",
+    "address": "22 Avenue du Lac - Ceilhes-et-Rocozels",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking curiste à côté du laboratoire de l'eau",
+    "address": "D8 - Avène",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eau Thermale Avène l'hôtel",
+    "address": "Les Bains d'Avène - Avène",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "chambres d'Hôtes \"Manoir de Gravezon\"",
+    "address": "22 Route De Bédarieux - Lunas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Place de l'Église - Lunas",
+    "address": "Place de l'Église - Lunas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A75 Aire du Caylar (double sens)",
+    "address": "A75 - Le Caylar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Caylar",
+    "address": "Aire du Caylar - Le Caylar",
+    "connectors": [
+      "x8",
+      "x8",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RÉVÉO - Place de La République - Lodève",
+    "address": "2 Place de la République - Lodève",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "REVEO Cornus - La Parro",
+    "address": "Rue Du Cimetière - Cornus",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

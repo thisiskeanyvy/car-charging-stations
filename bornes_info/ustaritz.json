@@ -1,0 +1,118 @@
+[
+  {
+    "title": "MobiVE - Place du Labourd - Ustaritz",
+    "address": "Place du Labourd - Ustaritz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Mobive - Parking de la place",
+    "address": "Place des Sports - Jatxou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEPA - Chemin Bahunenia Villefranque",
+    "address": "56 Chemin Bahunenia - Villefranque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Cambo-les-Bains - 69 Av. d'Espagne",
+    "address": "69 Av. d'Espagne - Cambo-les-Bains",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking du centre \"Parking Sorhainde\"",
+    "address": "Allée Edmond Rostand - Cambo-les-Bains",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEPA - Parking hirico - Espelette",
+    "address": "25 Merkatu Plaza - Espelette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Peugeot Gambade",
+    "address": "6 Allée des Champs - Bassussarry",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 1 Imp. de la Vigne - Bassussarry",
+    "address": "1 Imp. de la Vigne - Bassussarry",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cambo-les-Bains - Agence Cascino (privé)",
+    "address": "7 Rue Artzamendi - Cambo-les-Bains",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thermes de Cambo - Avenue des Thermes",
+    "address": "5 Avenue des Thermes - Cambo-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

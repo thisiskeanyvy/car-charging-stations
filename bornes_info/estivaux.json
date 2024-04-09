@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Maison Ecole du Grand Meaulnes",
+    "address": "8 Rue Alain-Fournier - Épineuil-le-Fleuriel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château d'Ainay le Vieil - Place de l'Église",
+    "address": "7 Place de l'Église - Ainay-le-Vieil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Vallon-en-Sully",
+    "address": "Route de Nassigny - Vallon-en-Sully",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecar18 - Vesdun - Résidence au Cœur de France",
+    "address": "98 Les Fourneaux - Vesdun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen AUDEXIA SUD",
+    "address": "314 Route de Charenton - Saint-Amand-Montrond",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Freshmile - Saint-Amand-Montron",
+    "address": "275 Route De Charenton - Saint-Amand-Montrond",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Modulo-Energies - 25 Cours Manuel - Saint-Amand-Montrond",
+    "address": "25 Cours Manuel - Saint-Amand-Montrond",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Cours manuel",
+    "address": "5 Cours Manuel - Saint-Amand-Montrond",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo-Energies - Saint-Amand-Montrond - Place du Marché",
+    "address": "Place du Marché - Saint-Amand-Montrond",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Passerelle, Atelier des Réussites",
+    "address": "1 Rue Bouchacourt - Saint-Amand-Montrond",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

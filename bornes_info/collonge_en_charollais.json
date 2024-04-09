@@ -1,0 +1,130 @@
+[
+  {
+    "title": "L'aubierine des Pres",
+    "address": "11 Fer - Genouilly",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mont Saint Vincent",
+    "address": "À la Croix Neuve - Mont-Saint-Vincent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Gite du Moulin",
+    "address": "2 Moulin À Vent - Saint-Laurent-d'Andenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDESL - Parking du foyer rural - Saint-Gengoux-le-National",
+    "address": "4 D84 - Saint-Gengoux-le-national",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Grande Rue - Saint Boil",
+    "address": "Grande Rue - Saint-Boil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel du cheval blanc (Tesla et autres)",
+    "address": "Grande Rue - Saint-Boil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Montchanin",
+    "address": "1 Avenue Des Mouettes - Montchanin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SOBAG - Rue Claude Boucher ZI La Fiolle",
+    "address": "Rue Claude Boucher ZI La Fiolle - Blanzy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Detang Automobiles",
+    "address": "156 Avenue de la République - Montchanin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - N80 Rond point Pont Jeanne rose - Écuisses",
+    "address": "N80 Rond point Pont Jeanne rose - Montchanin",
+    "connectors": [
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

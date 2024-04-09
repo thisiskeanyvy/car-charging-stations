@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Izivia - Super U - Saint-Méen-le-Grand",
+    "address": "6 Rue Henri Letort - Saint-Méen-le-Grand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Rue Maurice- Saint-Méen-le-Grand",
+    "address": "Rue Maurice - Saint-Méen-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Mr Bricolage - Saint-Méen-le-Grand",
+    "address": "Rue Louis Pasteur - Saint-Méen-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - St Méen le Grand",
+    "address": "Rue louis Pasteur - Saint-Méen-le-Grand",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE22 - Place saint fiacre Lanrelas",
+    "address": "Place St Fiacre - Lanrelas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Le Bourg - Saint-Launeuc",
+    "address": "Le Bourg - Saint-Launeuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Merdrignac - Rue du Bourg Neuf",
+    "address": "Rue du Bourg Neuf - Merdrignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ouest Charge - Merdrignac - 6 Rue de Brocéliande",
+    "address": "6 Rue de Brocéliande - Merdrignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue du 19 Mars - Mauron",
+    "address": "2B Chemin Saint-Pierre - Mauron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - ZA Heronniere",
+    "address": "18 D793 - Merdrignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Shell Recharge - Leclerc - Tonnerre",
+    "address": "1 Route de Paris - Tonnerre",
+    "connectors": [
+      "x1",
+      "x4",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "EVMap - Tonnerre - Chemin des Jumeriaux",
+    "address": "Chemin des Jumeriaux - Tonnerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 3 Rue des Quatre Vents",
+    "address": "3 Rue des Quatre Vents - Lignières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place du Commerce Flogny-la-Chapelle",
+    "address": "11 Place du Commerce - Flogny-la-Chapelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chai Vignoble Dampt Frères",
+    "address": "4 Rue de Fleys - Collan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA 10/Bernon/Rue Grande Rue/13",
+    "address": "13 Rue Grande Rue - Bernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Mairie Tanlay - Rue Haute des Fossés",
+    "address": "3 Rue Haute des Fossés - Tanlay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEY - 20 Grande Rue - THOREY (89)",
+    "address": "20 Grande Rue - THOREY (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "domaine yvon et laurent vocoret",
+    "address": "9 Chemin de Beaune - Maligny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile (FR*S89) - Lezinnes - Lézinnes, avenue de la Gare",
+    "address": "Lézinnes, avenue de la Gare - Lezinnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

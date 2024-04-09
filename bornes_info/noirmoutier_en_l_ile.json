@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SyDEV - Noirmoutier (Parking La Prée au Duc)",
+    "address": "Place Pré Au Duc - Noirmoutier En L'Ile",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Properphi - Noirmoutier-en-l'Île - 2 Rue du Général Leclerc",
+    "address": "2 Rue du Général Leclerc - Noirmoutier-en-l'Île",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel-Restaurant Fleur de Sel (Tesla et autres)",
+    "address": "10 Rue des Saulniers - Noirmoutier-en-l'Île",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Noirmoutier en l'Île",
+    "address": "148 D948 - L'Épine",
+    "connectors": [
+      "x4",
+      "x8",
+      "x3",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Résidence la Chaize",
+    "address": "23 rue de la Victoire - La Chaize",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel La Villa en l'Ile (Tesla and others)",
+    "address": "36A Avenue de la Victoire - Noirmoutier-en-l'Île",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ancre Marine Hôtel et Spa",
+    "address": "87 Route de l'Herbaudière - Noirmoutier en l'île",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KOAT AR MOR (Privé)",
+    "address": "11 Allée des Sableaux - Noirmoutier-en-l'Île",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Les Prateaux",
+    "address": "8 Allée du Tambourin - Noirmoutier-en-l'Île",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - La Guérinière",
+    "address": "10 Route de Noirmoutier - La Guérinière",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

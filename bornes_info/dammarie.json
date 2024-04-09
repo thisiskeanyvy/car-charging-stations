@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDESM - Hôtel de Ville de Dammarie-les-Lys",
+    "address": "100-146 Avenue Aristide Briand - Dammarie-les-Lys",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - La Rochette - Rue Henri Matisse",
+    "address": "Rue Henri Matisse - La Rochette",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Apakabar Homestay",
+    "address": "2 Avenue Theodore Rousseau - La Rochette",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RENT A CAR_DAMMERIE SUR LYS_0864_Pext_E",
+    "address": "381 Avenue Jean Jaurès - Dammarie-les-Lys",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Aramisauto Melun",
+    "address": "535 Rue des Frères Thibault - Dammarie-les-Lys",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Melun - 1 Rue Rosa Bonheur",
+    "address": "1 Rue Rosa Bonheur - Melun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Stations-e - Château Le Mée - Rue de la Ferme",
+    "address": "Rue de la Ferme - Le Mée-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Centre ville - La Rochette",
+    "address": "Avenue Théodore Rousseau - La Rochette",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lastmile - E.Leclerc - Dammarie-les-Lys",
+    "address": "544 Avenue André Ampère - Dammarie-les-Lys",
+    "connectors": [
+      "x24"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking intermarche",
+    "address": "2 Rue Jean Monnet - Boissise-la-Bertrand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

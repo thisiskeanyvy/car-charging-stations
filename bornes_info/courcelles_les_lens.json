@@ -1,0 +1,134 @@
+[
+  {
+    "title": "WAAT SAS - Courcelles-lès-Lens - 6 Rue Peugniez",
+    "address": "6 Rue Peugniez - Courcelles-lès-Lens",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la Haute Deûle",
+    "address": "1 Rue de la Haute Deûle - Noyelles-Godault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - 68 Av. de la République - Noyelles-Godault",
+    "address": "68 Av. de la République - Noyelles-Godault",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aushoping Noyelles Godault",
+    "address": "Ave de la republique - Noyelles Godault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - B&B Hôtel Lens Noyelles-Godault",
+    "address": "Rue de Beaumont - Noyelles-Godault",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Noyelles-Godault - Hotel Première Classe",
+    "address": "18 rue de Beaumont\r\n - Noyelles-Godault",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Cerise Lens",
+    "address": "20 Rue de Beaumont - Noyelles-Godault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Auby Médiathèque",
+    "address": "23 Place de la République - Auby",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto Noyelles-Godault",
+    "address": "1 Bd Maréchal Juin - Noyelles-Godault",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Dourges - 5 Place De La Gare",
+    "address": "5 Place De La Gare - Dourges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

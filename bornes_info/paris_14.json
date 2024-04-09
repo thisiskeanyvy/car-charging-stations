@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Belib - Rue Castagnou - Paris",
+    "address": "Rue Castagnou - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mairie Paris 14 (Privé)",
+    "address": "2 Rue Saillard - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 173 Avenue du Maine - Paris",
+    "address": "173 Avenue du Maine - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Belib - Rue Didot - Paris",
+    "address": "Rue Didot - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 47 rue Didot 75014 Paris",
+    "address": "47 Rue Didot - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - Rue Boulard - Paris",
+    "address": "Rue Boulard - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc souterrain Alésia",
+    "address": "205 av du Maine - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "UBEEQO - 46 Rue Pernety Paris",
+    "address": "46 rue Pernety - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "UBEEQO - 6 Rue de l'Ouest",
+    "address": "6 Rue de l'Ouest - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 56 Rue des Plantes - Paris",
+    "address": "56 Rue des Plantes - Paris",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

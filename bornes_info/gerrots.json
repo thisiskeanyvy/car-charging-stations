@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Esplanade de Woolsery - Beuvron-en-Auge",
+    "address": "Avenue de la Gare - Beuvron-en-Auge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - Place du Champ de Foire - Dozulé",
+    "address": "128 Rue du Plessis Esmangard - Dozulé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U Dizulé",
+    "address": "8 Rue de Verdun - Dozulé",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue du Mesnil Da - Dozulé",
+    "address": "4 Rue du Mesnil Da - Dozulé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - NOTRE DAME D'ESTREES (Carrefour Saint-Jean)",
+    "address": "Carrefour Saint-Jean - Notre-Dame-d'Estrées",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Avenue des Tilleuls - Cambremer",
+    "address": "12 Avenue des Tilleuls - Cambremer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - mairie - Bonnebosq",
+    "address": "4 Avenue de Verdun - Bonnebosq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garden club hotel PRIVÉ",
+    "address": "D281 - Danestal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Parking mairie - Annebault",
+    "address": "10 Voie Communale le Petit Bourg - Annebault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Chemin des 3 Coins",
+    "address": "2 Chemin des 3 Coins - Annebault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

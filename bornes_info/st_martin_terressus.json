@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Auberge st Martin",
+    "address": "1 Le Bourg - Saint-Martin-Terressus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte Le Déserteur Saint Martin Terresus",
+    "address": "11 Le Bost - Saint-Martin-Terressus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Gare d'Ambazac",
+    "address": "1 Place de la Gare - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - 2 Chemin des Contamines - Saint-Priest-Taurion",
+    "address": "2 Chemin des Contamines - Saint-Priest-Taurion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - 47 Rue Jean Gagnant - Le Palais-sur-Vienne",
+    "address": "47 Rue Jean Gagnant - Saint-Priest-Taurion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "mobilygreen - Ambazac - Mr Bricolage",
+    "address": "23 Avenue de la Libération - Ambazac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue du Général de Gaulle - Ambazac",
+    "address": "55 Avenue du Général de Gaulle - Ambazac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place du 19 Mars 1962",
+    "address": "5 Avenue Général de Gaulle - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Bort",
+    "address": "1 Bort - Saint-Priest-Taurion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis/443",
+    "address": "Le Vignaud du Haut - La Jonchère-Saint-Maurice",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

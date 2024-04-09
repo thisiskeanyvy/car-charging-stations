@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SYDEC - D32 Mugron",
+    "address": "D32 - Mugron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Avenue Jean Jaurès Montfort-en-Chalosse",
+    "address": "613 Avenue Jean Jaurès - Montfort-en-Chalosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour Market - Tartas",
+    "address": "Le, Chem. du Claous, - Tartas",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sydec - Avenue Léon Blum - Tartas",
+    "address": "158 Avenue Leon Blum - Tartas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Parking des arènes - Pontonx-sur-l'Adour",
+    "address": "Rue de Baluhecq - Pontonx-sur-l'Adour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Station Total - Route de Lalande",
+    "address": "1850 Route de Lalande - Carcarès-Sainte-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Mairie de Hinx",
+    "address": "Route du Port - Hinx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Abbaye de Maylis",
+    "address": "- Maylis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Mairie - Pomarez",
+    "address": "12 Rue du Commerce - Pomarez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne (ZTL) - Saint-Vincent-de-Paul - Route de Carrère",
+    "address": "Route de Carrère - Saint-Vincent-de-Paul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

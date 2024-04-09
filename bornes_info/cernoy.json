@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Maison de Mr Caille - Avrechy",
+    "address": "17 Avenue Thierry d'Argenlieu - Avrechy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sezeo - Estrées Saint Denis - Piscine",
+    "address": "1 Avenue Abel Didelet - Estrées-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Égise d'Estrées Saint Denis",
+    "address": "2 Ruelle de l'Église - Estrées-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rossini Energy - Rue Des Sables Zone Agricole de la Ferme des Sables - Breuil-le-Sec",
+    "address": "Rue Des Sables Zone Agricole de la Ferme des Sables - Breuil-le-Sec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sezeo - Breuil le sec",
+    "address": "place paul emile victor - breuil le sec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Fitz James",
+    "address": "Allée des Droits de l’Homme - Fitz-James",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Midas Fitz James",
+    "address": "8 Nelson Mandela - Fitz-James",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarche Fitz James",
+    "address": "7 rue Antoine laurent Lavoisier - Fitz James",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Saint Just en Chaussée",
+    "address": "10 Rue des Déportés - Saint-Just-en-Chaussée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Gare SNCF - Saint-Just-en-Chaussée",
+    "address": "Rue Foch - Saint-Just-en-Chaussée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

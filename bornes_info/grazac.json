@@ -1,0 +1,136 @@
+[
+  {
+    "title": "e-born - Parking de l'Antreuil - Yssingeaux",
+    "address": "5bis Rue des Alliés - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking Place Charles de Gaulles - Yssingeaux",
+    "address": "Parking Place Charles de Gaulles - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Intermarché - Yssingeaux",
+    "address": "135 Rue de la Voie Ferrée - Yssingeaux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Michel Choumouroux",
+    "address": "La Scie de Choumouroux - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route De Retournac - Yssingeaux",
+    "address": "Route De Retournac - Yssingeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE43 - Place des Anciens d'AFN - Sainte-Sigolene",
+    "address": "Place des Anciens d'AFN - Sainte-Sigolene",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE43 - Parking La Gare, lieu dit Oumey - Raucoules",
+    "address": "La gare - Raucoules",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Espace de coworking le 4puissance3",
+    "address": "ZA Chavanon 2 - Monistrol-sur-Loire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Charge prunieres",
+    "address": "17 Prunieres - St pal de mons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Beauzac",
+    "address": "Place du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

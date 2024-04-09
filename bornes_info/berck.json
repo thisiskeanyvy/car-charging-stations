@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking - rue des vagues - Berck",
+    "address": "7 Rue des Vagues - Berck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - ZI de la Vigogne - Berck",
+    "address": "Zone Industrielle de la Vigogne - BERCK",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Dipsonic - Berck-sur-Mer",
+    "address": "999 Rue Des Argousiers - Berck-sur-Mer",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP - Burger King - Berck",
+    "address": "Lieu Dit La Mollière, Angle Du BoulevaRoute Départementale De Paris Et De La, D940, 62600 Berck - Berck",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Beck sur Mer",
+    "address": "1 Rue des Argousiers - Berck-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Berck-sur-Mer",
+    "address": "940 avenue de Verdun - Berck-sur-Mer",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E-Totem - Berck - SCI du Littoral",
+    "address": "Rue des Argousiers Parc d'activité de la Vigogne - Berck",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "R3 - Norauto - Berck",
+    "address": "942 Avenue de Verdun - Berck",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LE 110  restaurant O Local Gourmet",
+    "address": "2 Rue des Sureaux - Berck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Berck - Route d'Abbeville",
+    "address": "Route d'Abbeville - Berck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

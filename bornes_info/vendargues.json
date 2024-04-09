@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Lidl - Vendargues",
+    "address": "13 Avenue des Bigos - Vendargues",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Manoa - Runup",
+    "address": "429 Avenue des Romarins - Saint-Aunès",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 194 Avenue des Romarins - Saint-Aunès",
+    "address": "194 Avenue des Romarins - Saint-Aunès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue des Bigos - Vendargues",
+    "address": "2 Avenue des Bigos - Vendargues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel The Originals Montpellier Est (Tesla and others)",
+    "address": "Rue du Basilic - Saint-Aunès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - E.Leclerc - Saint-Aunès",
+    "address": "ZAC Saint Antoine - Saint-Aunès",
+    "connectors": [
+      "x16",
+      "x28"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Enerstock - Chemin De La Couronne - Saint-Aunès",
+    "address": "540 Chemin De La Couronne - Saint-Aunès",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENERSTOCK SAS - Vendargues - 80 Rue Terre de Roy",
+    "address": "80 Rue Terre de Roy - Vendargues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEENCO e-mobility - Saint-Aunès - 97 Rue des Lauriers Zone Ecoparc",
+    "address": "97 Rue des Lauriers Zone Ecoparc - Saint-Aunès",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Saint-Aunès",
+    "address": "4 Accès Dépôt Orchestra - Saint-Aunès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

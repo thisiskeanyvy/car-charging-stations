@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IONITY - A11 - Aire de Villaines la Gonais (direction Chartres)",
+    "address": "1 l'océane - Villaines-la-Gonais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A11 - Aire de La Ferté-Bernard (direction Le Mans)",
+    "address": "A11 - Villaines-la-Gonais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mairie de Dollon",
+    "address": "1 Place De l'Eglise - Dollon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - La Ferté-Bernard",
+    "address": "1 D1 - La Ferté-Bernard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Mondoubleau",
+    "address": "9 Place Saint-Denis - Mondoubleau",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping du Lac - Saint-Calais",
+    "address": "Rue du Lac - Saint-Calais",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Avia - Mondoubleau - Garage Bellanger",
+    "address": "52 Rue Leroy - Mondoubleau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - La Ferté-Bernard - 1 Rue Alfred Marchand",
+    "address": "1 Rue Alfred Marchand - La Ferté-Bernard",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Mondoubleau - ZA de l’entonnoir",
+    "address": "Zone d’activité de l’entonnoir, boulevard de l’industrie - Mondoubleau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Super U - Mondoubleau",
+    "address": "Route de Cloyes - Mondoubleau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

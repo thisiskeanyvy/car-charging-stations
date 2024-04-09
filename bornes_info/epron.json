@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Rue Éole",
+    "address": "320 Rue Éole - Épron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Boulevard Suffolk - Bieville-Beuville",
+    "address": "Boulevard Suffolk - Bieville-Beuville",
+    "connectors": [
+      "x2",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "JFC Normandie Caen",
+    "address": "Rue de Sufolk - Biéville-Beuville",
+    "connectors": [
+      "x5",
+      "x5",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - VW - Biéville-Beuville",
+    "address": "18 Le Lieu Belaitre - Biéville-Beuville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*SEV - Hérouville-Saint-Clair - 2 Av. de la 3ème Division d'Infanterie Britannique",
+    "address": "2 Av. de la 3ème Division d'Infanterie Britannique - Hérouville-Saint-Clair",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - ICEP - Caen",
+    "address": "8 Rue Claude Bloch - Caen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - place boston 8 - Herouville saint clair - Ford",
+    "address": "place boston 8 - Herouville saint clair",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Buffalo Grill - Rue Professeur Joseph Rousselot",
+    "address": "9 Rue Professeur Joseph Rousselot - Caen",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kia Herouville Saint Clair",
+    "address": "424 Rue Marie Curie - Hérouville-Saint-Clair",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - rue joseph Rousselot - Caen",
+    "address": "1 Rue Jacques Brel - Caen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

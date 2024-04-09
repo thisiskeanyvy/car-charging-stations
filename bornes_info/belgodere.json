@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Rédélé",
+    "address": "11 Rue Forest - Paris",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 109 Rue Legendre - Paris",
+    "address": "109 Rue Legendre - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rédélé Parking",
+    "address": "11 Rue Forest - Paris-18E-Arrondissement",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mairie du 17e",
+    "address": "16- 20 rue des Batignolles - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 20 Rue des Batignolles - Paris",
+    "address": "20 Rue des Batignolles - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 9-13 Boulevard des Batignolles - Paris",
+    "address": "9-13 Boulevard des Batignolles - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 1 Avenue Rachel - Paris",
+    "address": "1 Avenue Rachel - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 15-17 Rue Caulaincourt - Paris",
+    "address": "15-17 Rue Caulaincourt - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Paris recharge - 67 avenue de Saint Ouen Paris",
+    "address": "67 avenue de Saint-Ouen - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 81 rue de Rome 75017 Paris",
+    "address": "81 Rue de Rome - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "EVBox - Hôtel Maison Carrée *** - Méréville",
+    "address": "12 Rue du Bac - Méréville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Vinci - 35 Rue Anatole France - Neuves-Maisons",
+    "address": "35 Rue Anatole France - Neuves-Maisons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Métropole du Grand Nancy - Allée des Tulipes - Chaligny",
+    "address": "1 Allée des Tulipes - Chaligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Richardménil - 15 Rue De Nancy",
+    "address": "15 Rue De Nancy - Richardménil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - D570 Aire de covoiturage - Flavigny Sur Moselle",
+    "address": "D570/D913 Parking covoiturage - Flavigny-sur-Moselle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Messein - L'ANTRENOUS",
+    "address": "33 Rue Claude Erignac - Messein",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - 46 Rue Du Doyen Jacques Parisot - Flavigny-sur-Moselle",
+    "address": "46 Rue Du Doyen Jacques Parisot - Flavigny-sur-Moselle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking covoiturage - Ceintrey",
+    "address": "D6/D913 Parking covoiturage - Ceintrey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Métropole du Grand Nancy - Mairie de Ludres",
+    "address": "11 Place Ferri de Ludre - Ludres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Thomé - Ludres",
+    "address": "110 Rue Bertholet - Ludres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

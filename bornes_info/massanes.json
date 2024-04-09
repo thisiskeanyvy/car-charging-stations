@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE82 - Bourg-de-Visa",
+    "address": "Rue de la Fontaine - Bourg-de-Visa",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE47 - Place du Carré - Beauville",
+    "address": "Place du Carré - Beauville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Place du Foirail - Roquecor",
+    "address": "Place du Foirail - Roquecor",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE82 - D46 Salle des Fêtes de Montjoi",
+    "address": "D46 - Montjoi",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de l'Hoste (Tesla)",
+    "address": "D 656 - Saint-Beauzeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Le Village - Touffailles",
+    "address": "D41 - Touffailles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Perville",
+    "address": "Village - Perville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Stade - Montaigu-de-Quercy",
+    "address": "14 Avenue du Stade - Montaigu-de-Quercy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MObiVE - ZAC - Laroque-Timbaut",
+    "address": "Place de L'Hôtel de Ville - Laroque-Timbaut",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gary - Laroque-Timbaut",
+    "address": "4 Rue du 19 Mars 1962 - Laroque-Timbaut",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Rossini Energy/Clos_Cacheleux",
+    "address": "12 Rue de Bouillancourt - Miannay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Le Clos Cacheleux - Moyenneville",
+    "address": "3 Rue De Miannay Bouillancourt - Moyenneville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cabinet Paramedical",
+    "address": "Rue Auguste Edith - Boismont",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route du Val - Grand-Laviers",
+    "address": "25 Route Du Val - Grand-Laviers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V2 - A16 Aire de la Baie de Somme",
+    "address": "A16 A16 - Aire de la Baie de Somme - Sailly-Flibeaucourt",
+    "connectors": [
+      "x10",
+      "x10",
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A16 - Aire de la Baie de Somme (double sens)",
+    "address": "A16 - Sailly-Flibeaucourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Camping-Car - Sailly-Flibeaucourt",
+    "address": "Unnamed Road - Sailly-Flibeaucourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Behen",
+    "address": "9 Rue du Château - Béhen",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Abbeville",
+    "address": "18 Rue de Menchecourt - Abbeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDE80 - Allée du Château - Buigny-Saint-Maclou",
+    "address": "3 Allée du Château - Buigny-Saint-Maclou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

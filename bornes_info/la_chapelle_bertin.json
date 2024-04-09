@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Sarthe Irve - 2 Avenue du Poirier Rouge - La Chapelle-d'Aligné",
+    "address": "2 Avenue du Poirier Rouge - La Chapelle-d'Aligné",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEML - DURTAL - Rue du Camping",
+    "address": "16 Rue des Déportés - Durtal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Durtal - Ruelle de la Sablonnière",
+    "address": "Ruelle de la Sablonnière Parking Trivoli - Durtal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Super U - Durtal",
+    "address": "Rue Gustave Eiffel - Durtal",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A11 - Aire de Parcé-sur-Sarthe (direction Le Mans)",
+    "address": "A11 - Parcé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A11 - Aire de Parcé-sur-Sarthe (direction Angers)",
+    "address": "A11 - Parcé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morannes sur Sarthe-Daumeray | Place de Beaumont",
+    "address": "Place de Beaumont - Morannes sur Sarthe-Daumeray",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Toyota - Sablé-sur-Sarthe (GCA) - 22kW AC",
+    "address": "18 Route de la Flèche - Sablé-sur-Sarthe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paking La Maison point Fr",
+    "address": "17 Rue de la Tuilerie - Sablé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - La Flèche - 875 Route d'Angers",
+    "address": "875 Route d'Angers - La Flèche",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

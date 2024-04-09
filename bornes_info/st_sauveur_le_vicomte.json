@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEM50 - Place Auguste Cousin",
+    "address": "8 Place Auguste Cousin - Saint-Sauveur-le-Vicomte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Rue Raymond Poincaré Picauville",
+    "address": "3 Rue Raymond Poincaré - Picauville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place du Champ de Foire - La Haye",
+    "address": "3 Place du Champ de Foire - La Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*SEV - La Haye - D903 ZA de l'étrier",
+    "address": "D903 ZA de l'étrier - La Haye",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue du Vavasseur - La Haye",
+    "address": "Rue du Vavasseur - La Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IECharge - Négreville - 1366 Rue Saint-Clair",
+    "address": "1366 Rue Saint-Clair - Négreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Bricquebec-En-Cotentin",
+    "address": "39 Route de Valognes - Bricquebec-En-Cotentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place Saint-Anne - Bricquebec",
+    "address": "53 Place Sainte-Anne - Bricquebec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Route de l'Abbaye - Bricquebec",
+    "address": "14 Route de l'Abbaye - Bricquebec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château L'Isle Marie",
+    "address": "469 L'Isle Marie - Picauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

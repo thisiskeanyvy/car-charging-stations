@@ -1,0 +1,134 @@
+[
+  {
+    "title": "DIRVE 02 - Clastres - Circuit Automobile de Clastres",
+    "address": "La clef des Champs - Clastres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place de L Hôtel de ville, 1 - Vermand",
+    "address": "1 Place de L Hôtel de ville - Vermand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "FDE80 - Place de la Mairie - HAM",
+    "address": "43 Place de L Hôtel de ville - Ham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 HAM Esplanade",
+    "address": "3 Rue André Audinot - Ham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de Paris - Saint-Quentin",
+    "address": "Rue de Paris - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Volvo - Saint Quentin",
+    "address": "171 Rue de la Chaussée Romaine - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bricoman - Fayet",
+    "address": "Les marlettes Les marlettes - Fayet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les 3 brasseurs - St Quentin",
+    "address": "182 Rue André Missenard - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Saint-Quentin",
+    "address": "Rue Marcel Paul - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Concession auto - Sas de l'alliance garage Nissan SUPPRIMÉ",
+    "address": "18 Rue Marcel Paul - Saint-Quentin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

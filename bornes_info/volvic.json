@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEG63 - Rue de la Garenne - Volvic",
+    "address": "14 Rue de la Garenne - Volvic",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Restaurant Moulin des Gardelles (Tesla & others)",
+    "address": "21 Rue des Gardelles - Riom",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Renault Mozac",
+    "address": "Rue Pré de Giat - Malauzat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Enval",
+    "address": "34 Avenue Jean Jaurès - Enval",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Enval",
+    "address": "Route Volvic, Espace Mozac, - Enval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "108 Avenue Jean Jaurès",
+    "address": "108 Avenue Jean Jaurès - Mozac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - OPTIC 2000 - Mozac",
+    "address": "67 Avenue Jean Jaurès - Mozac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Z.A. les Gardelles - Espace Mozac",
+    "address": "59 Avenue Jean Jaurès - Mozac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 3 Place Charles de Gaulle",
+    "address": "3 Place Charles de Gaulle - Châteaugay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-e - Manoir de Veygoux - Charbonnières-les-Varennes",
+    "address": "Lieu dit Veygoux - Charbonnières-les-Varennes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

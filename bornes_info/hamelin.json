@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Ladestation",
+    "address": "14 Hafenstraße - Hameln",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Am Stockhof - Hameln",
+    "address": "2 Am Stockhof - Hameln",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hameln Am Posthof 22",
+    "address": "22 Am Posthof - Hameln",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kastanienwall - Hameln",
+    "address": "52 Kastanienwall - Hameln",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Erichstraße - Hameln",
+    "address": "1 Erichstraße - Hameln",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Am Steigerturm",
+    "address": "14 164er Ring - Hameln",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autohaus in der Südstadt GmbH",
+    "address": "65 Ohsener Str. - Hameln",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autohaus Hameln",
+    "address": "78 Ohsener Straße - Hameln",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parkhaus - Kreuzstraße 15",
+    "address": "15 Kreuzstraße - Hameln",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bahnhofsplatz 11",
+    "address": "11 Bahnhofsplatz - Hameln",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

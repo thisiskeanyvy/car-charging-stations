@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Le Plessis",
+    "address": "2 Rue de l'Église - Broye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydesl - Parking Cimetière - Saint Sernin",
+    "address": "2120 Route de Saint-Sernin - Saint-Sernin-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kévin DUMAY Ostéopathe",
+    "address": "2 Rue Bellevue - Saint-Sernin-du-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BeCharge - Route de Montcenis - Le Creusot",
+    "address": "75 Route de Montcenis - Le Creusot",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDESL - Place Schneider - Le Creusot",
+    "address": "71 Place Schneider - Le Creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydesl - Rue Mamby - Le Creusot",
+    "address": "Rue Mamby - Le Creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Framatome Le Creusot Forge",
+    "address": "5 Allée Jean Perrin - Le Creusot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine du parc - Promenade du Midi - Le Creusot",
+    "address": "Promenade du Midi - Le Creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Chambre d'hôte à Autun",
+    "address": "15 Rue de Planoise - Autun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDESL - Rue Gabriel Bouthière - Étang-sur-Arroux",
+    "address": "9 Rue Gabriel Bouthière - Étang-sur-Arroux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

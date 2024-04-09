@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE04 - Mairie d'Oraison",
+    "address": "12 Boulevard des Frères Jaumary - Oraison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps S.L./6772",
+    "address": "1 Rue Emile Latil - Oraison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LUMI'IN - Route de Valensole - Oraison",
+    "address": "Route de Valensole - Oraison",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Route des Alpes, 15 - La Brillanne",
+    "address": "15 Route des Alpes - La Brillanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Carrefour Market (Sortie 19) - La Brillanne",
+    "address": "20 Route des Alpes - La Brillanne",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - La Brillanne - Bricorama",
+    "address": "Impasse des Romarins - La Brillanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hameau Des Pourcelles - Les Mées",
+    "address": "Hameau Des Pourcelles - Les Mées",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Ribiera, Hôtel 5*, Restaurant, SPA & Golf Resort",
+    "address": "635 Route De Forcalquier - Niozelles",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Place de la mairie - Volx",
+    "address": "2A Place des Félibres - Volx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Driveco pour Volkswagen - 12 Chemin de la Carretière - Volx",
+    "address": "12 Chemin de la Carretière - Volx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

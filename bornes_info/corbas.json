@@ -1,0 +1,140 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Corbas - 44 Avenue Salvador Allende",
+    "address": "44 Avenue Salvador Allende - Corbas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IZIVIA Grand Lyon - rue des Frênes",
+    "address": "rue des Frênes - corbas",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Corbas",
+    "address": "1 Rue Jean Macé - Corbas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions - 11 Rue Marcel Mérieux (Privé)",
+    "address": "11 Rue Marcel Mérieux - Corbas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MEA ENERGIES - Rue Louis Pradel - Corbas",
+    "address": "Rue Louis Pradel - Corbas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CORALLIS GL (privé)",
+    "address": "4 Rue du Dauphiné - Corbas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exadys/624d2e639a425c80e0ec9ea2",
+    "address": "8 Rue Yves Toudic - Vénissieux",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camira",
+    "address": "3 Rue de la Vanoise - Corbas",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PowerDot - Hôtel Mercure Lyon Est Chaponnay",
+    "address": "565 Rue Tony Garnier - Chaponnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - 52 Rue de Collières - Saint-Priest",
+    "address": "52 Rue de Collières - Saint-Priest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

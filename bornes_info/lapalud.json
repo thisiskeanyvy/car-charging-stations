@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lapalud | Avenue de Montélimar 81",
+    "address": "81 Avenue de Montélimar - Lapalud",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Rue du Barry - Lapalud",
+    "address": "6317 Rue du Barry - Lapalud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MPE - Bollène",
+    "address": "Site du sactar - Bollène",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDF CNPE DU TRICASTIN (nécessite un badge d'accès au site)",
+    "address": "Unnamed Road - Bollène",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Promenade Léon Perrier Bollène",
+    "address": "1130 Promenade Léon Perrier - Bollène",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Bollène",
+    "address": "1 Route de Saint-Paul-trois-Châteaux - Bollène",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - Action - Bollène",
+    "address": "175 Impasse Simone Signoret - Bollène",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue de Grasse - Pierrelatte",
+    "address": "2 Rue de Grasse - Pierrelatte",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Zone Artisanal, N86 - Lamotte du Rhone",
+    "address": "2 N86 - Lamotte-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Burger King - Avenue Salvador Allende",
+    "address": "245 Avenue Salvador Allende - Bollène",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

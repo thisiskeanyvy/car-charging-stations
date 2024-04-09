@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MobiSDEC - Ellon - Hameau de l'église",
+    "address": "Hameau de l'église - ELLON",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobisdec Suble rue Saint-Martin",
+    "address": "21 rue Saint-Martin - Subles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - LE TRONQUAY (La Tuilerie)",
+    "address": "26 La Tuilerie - Le Tronquay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - CAHAGNOLLES (Place de la Mairie)",
+    "address": "L'Église - Cahagnolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Mairie de Tilly-sur-Seulles",
+    "address": "2 Rue de Bayeux - Tilly-sur-Seulles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Qovoltis - Hôtel Campanile Bayeux",
+    "address": "Chemin de la Cambette Campanile Bayeux - Bayeux",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "MobiSDEC - Rue de la Varende - Tilly-sur-Seulles",
+    "address": "25 Rue de la Varende - Tilly-sur-Seulles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Boulevard Maréchal Leclerc - Bayeux",
+    "address": "24 Chemin de la Cambette - Bayeux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault Bayeux BodemerAuto",
+    "address": "16 D572 - Bayeux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue du Sapin - Balleroy",
+    "address": "74 Rue du Sapin - Balleroy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

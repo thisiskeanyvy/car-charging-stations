@@ -1,0 +1,126 @@
+[
+  {
+    "title": "POMONA EPISAVEURS",
+    "address": "Route de Fontenoy - Gondreville",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - E-Leclerc - Dommartin-lès-Toul",
+    "address": "131 D400 - Dommartin-lès-Toul",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Novotel Nancy Ouest",
+    "address": "2 Rue du Vair - Laxou",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lorraine Hôtel (Tesla and others)",
+    "address": "29 Avenue de la Résistance - Laxou",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Maxéville - CFAI",
+    "address": "10 rue Alfred Kastler - MAXEVILLE",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue de la Sapinière - Laxou",
+    "address": "3 Rue de la Sapinière - Laxou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 582 Rue Guy Pernin - Toul",
+    "address": "582 Rue Guy Pernin - Toul",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "R3 - Norauto - Laxou",
+    "address": "25 Rue de la Sapinière - Laxou",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V3 - Laxou",
+    "address": "Rue de la Sapinière - Laxou",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Burger King - Laxou",
+    "address": "Avenue de la Résistance - Laxou",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

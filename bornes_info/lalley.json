@@ -1,0 +1,114 @@
+[
+  {
+    "title": "SEDI - Lalley",
+    "address": "Route de Mens - Lalley",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gites du Finet",
+    "address": "Route de Mens - Lalley",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - RD 1075 (Les Chaux) - Aire du Triève",
+    "address": "D1075 - Le Monestier-du-Percy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le café de la page",
+    "address": "Le village - Le Monestier-du-Percy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gite la Margelière",
+    "address": "Château Bas - Tréminis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Cris-Cath",
+    "address": "Les Touches - Tréminis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gite de Mialaure",
+    "address": "Pouillane - Mens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Méca et Wheels",
+    "address": "835 Rte de Grenoble - Clelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping du Pré Rolland",
+    "address": "Place Richard Willm - Mens",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le gite d'Allouaire",
+    "address": "Allouaire - Saint-Baudille-et-Pipet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

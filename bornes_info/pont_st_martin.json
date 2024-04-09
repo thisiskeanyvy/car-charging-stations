@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SYDEGO - Station Pont St Martin \"Combes\"",
+    "address": "Rue des Combes - Pont-Saint-Martin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Station Pont-St Martin \"Stade\"",
+    "address": "Rue du Stade - Pont-Saint-Martin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "personnel U logistique - Saint-Aignan-Grandlieu (Privé)",
+    "address": "2 Route de l'Aérodrome - Saint-Aignan-Grandlieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Maison HEBEL",
+    "address": "6 Rue du Bois Fleuri - La Chevrolière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pont-Saint-Martin",
+    "address": "1 Rue de la Communauté - Pont-Saint-Martin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Rue de la Flamme Olympique, 11 - Pont-Saint-Martin",
+    "address": "11 Rue de la Flamme Olympique - Pont-Saint-Martin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Mairie Saint Aignan de Grand Lieu",
+    "address": "6 Rue des Frères Rousseau - Saint-Aignan-Grandlieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aeroport Auto Service",
+    "address": "5 rue Chatles Lindbergh - BOUGUENAIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PUF COWORKING",
+    "address": "La clementiniere - Pont saint martin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue Alfred Lemaître - La Chevrolière",
+    "address": "8 Rue Alfred Lemaître - La Chevrolière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

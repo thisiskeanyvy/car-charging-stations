@@ -1,0 +1,130 @@
+[
+  {
+    "title": "La Maison d'Edouard",
+    "address": "Barbières - Mérindol-les-Oliviers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de Nyons - Vinsobres",
+    "address": "Les Ratiers - Vinsobres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Avenue de Verdun - Saint-Romain-en-Viennois",
+    "address": "4 Avenue de Verdun - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargeGuru - Hotel La Bastide Des Monges - Route d'Orange - Nyons",
+    "address": "1809 Route D’Orange - Nyons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 75 Devant Propiac - Propiac",
+    "address": "75 Devant Propiac - Propiac",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Rue Ferdinand Fert, 245 - Nyons",
+    "address": "245 Rue Ferdinand Fert - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Passage de l'Amélie Vinsobres",
+    "address": "1-3 Passage de l'Amélie - Vinsobres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Avenue Frédéric Mistral - Nyons",
+    "address": "63 Avenue Frédéric Mistral - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine le Pré Neuf",
+    "address": "Quartier Pré Neuf Pré Neuf - Vinsobres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Nyon - Promenade de la Digue Ouest",
+    "address": "Promenade de la Digue Ouest - Nyon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

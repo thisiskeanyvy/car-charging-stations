@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Chambres d'hôtes La Collégiale",
+    "address": "3 Chemin du Collège - Clavette",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auto-école du centre",
+    "address": "za D108 - Saint-Médard-d'Aunis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 1 Rue Des Biocarburants - Saint-Médard-d'Aunis",
+    "address": "1 Rue Des Biocarburants - Saint-Médard-d'Aunis",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEER (MobiVE) - La Jarrie - Place de la Mairie",
+    "address": "Place de la Mairie - La Jarrie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - La Jarrie",
+    "address": "4 Rue de la Providence - La Jarrie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEER (MobiVE) - La Jarrie - Rue de la Providence",
+    "address": "Rue de la Providence - La Jarrie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Rogatien - Rue de La Rochelle",
+    "address": "34 Rue de la Rochelle - Saint-Rogatien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Saint-Rogatien",
+    "address": "1 bis Route de la Jarne - Saint-Rogatien",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Aytré - 25 Rue Copernic",
+    "address": "25 Rue Copernic - Aytré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Périgny - Mairie",
+    "address": "14 Rue du Château - Perigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

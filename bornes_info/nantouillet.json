@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Compans - Rue de Ferrières",
+    "address": "Rue de Ferrières - Compans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 9 Rue Pasteur - Saint-Mard",
+    "address": "9 Rue Pasteur - Saint-Mard",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Saint Mard",
+    "address": "20 Av. de la Font du Berger - Saint Mard",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Route de Juilly - Montgé-en-Goële",
+    "address": "15 Route de Juilly - Montgé-en-Goële",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile Services SAS - 1 rue Albert Caquot - Compans",
+    "address": "1 rue Albert Caquot - Compans",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au Bureau - Saint-Mard",
+    "address": "5 Rue Pierre Coubertin - Saint-Mard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Saint-Mard - Cottage de France Saint-Mard",
+    "address": "15 Avenue des Deux Moulins - Saint-Mard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mc Donald's Saint-Mard",
+    "address": "Rue du Moutiers - Saint-Mard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargeur Tesla - Manoir de Gressy (Tesla and others)",
+    "address": "Chemin des carosses - Gressy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue d'Olympie - Gressy",
+    "address": "2 Rue d'Olympie - Gressy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

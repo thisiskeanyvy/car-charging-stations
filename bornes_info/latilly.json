@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Les Portes de Soissons (Tesla)",
+    "address": "Rond-Point de l’Archer - Vauxbuin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Les Portes de Soissons",
+    "address": "Rond-Point de l’Archer - Vauxbuin",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Passage Le Corbusier - Soissons",
+    "address": "2 Passage Le Corbusier - Soissons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belleu | Avenue de Château-Thierry 193",
+    "address": "193 Avenue de Château-Thierry - Belleu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ristorante Del arte - Soissons (Privé)",
+    "address": "Rond-point de l'Archer - Soissons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DIRVE 02 - Rue de Septmonts - Belleu",
+    "address": "2 Rue de Septmonts - Belleu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - Hotel Kyriad Direct Soissons",
+    "address": "12bis Rue Jacques Brel - Soissons",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - N2 Soissons Ouest",
+    "address": "53 Sentier des Presles - Soissons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue Marcel Paul Soissons",
+    "address": "2 Rue Marcel Paul - Soissons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel Kyrias Direct Soisson Ouest",
+    "address": "12 Rue Jacques Brel - Soissons",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

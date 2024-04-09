@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDED52 - Place de l'Église - Varennes sur Amance",
+    "address": "Place de l'Église - Varennes sur Amance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A31 Aire du Val de Meuse (direction Nancy)",
+    "address": "A31, Aire du Val de Meuse - Val-de-Meuse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "AVIA - A31 - Aire de Montigny le Roi (direction Dijon/Troyes)",
+    "address": "1 A31 - Val-de-Meuse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ENGIE Vianeo - A31 Aire de Montigny-le-Roi (direction Troyes)",
+    "address": "A31, Aire de Montigny-le-Roi - Val-de-Meuse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Val-de-Meuse",
+    "address": "7 Route d'Avrecourt - Val-de-Meuse",
+    "connectors": [
+      "x32",
+      "x16"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue du Lac",
+    "address": "Rue du Lac - Changey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Place de Verdun - Val-de-Meuse",
+    "address": "Place de Verdun - Val-de-Meuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDED52 - Rue de la Plage - Peigney",
+    "address": "Rue de la Plage - Peigney",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Arcombelle hotel restaurant - Val-de-Meuse (Tesla)",
+    "address": "25 Avenue de Lierneux - Val-de-Meuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat d'Energie et des Déchets de Haute Marne (SDED52) - Rue Diderot - Chalindrey",
+    "address": "Rue Diderot - Chalindrey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

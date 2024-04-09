@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Powerdot - Inermarché - Avenue d'Auvergne - Dun-le-Palestel",
+    "address": "5 Avenue d'Auvergne - Dun-le-Palestel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Dun-le-Palestel - 2 Place du Champ de Foire",
+    "address": "2 Place du Champ de Foire - Dun-le-Palestel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Mairie de Saint Vaury",
+    "address": "1 Place de l'Église - Saint-Vaury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Jarrige - St.-Vaury",
+    "address": "5 La Jarrige - St.-Vaury",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Caure (réservé aux clients) - Fressigne - Bussière-Dunoise",
+    "address": "7 Fressigne - Bussière-Dunoise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de la Cazine",
+    "address": "Domaine de la Fôt - Noth",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LE GRAND BOURG - PLACE DU CHAMP DE FOIRE",
+    "address": "D4 - Le Grand-Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Etang du Cheix Camping Suisse Océan",
+    "address": "Avenue de la République - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Bénévent-l'Abbaye - 10 Place de Villers",
+    "address": "10 Place de Villers - Bénévent-l'Abbaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Place de Villers - Bénévent-l'Abbaye",
+    "address": "10 Avenue de la Marche - Bénévent-l'Abbaye",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  }
+]

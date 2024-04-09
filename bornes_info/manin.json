@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Renault - Rue de Crimée",
+    "address": "101 Rue de Crimée - Paris",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 22 rue de Lorraine Paris",
+    "address": "22 rue de Lorraine - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 82 Rue de Crimée - Paris",
+    "address": "82 Rue de Crimée - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Toyota - Paris",
+    "address": "3 Rue des Ardennes - Paris",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 4 place Armand Carrel 75019 Paris",
+    "address": "4 Place Armand Carrel - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Belib - 9 rue Adolphe Mille 75019 Paris",
+    "address": "9 Rue Adolphe Mille - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Q-Park - 6 Rue Adolphe Mille - Paris",
+    "address": "6 Rue Adolphe Mille - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 6 Rue Adolphe Mille - Paris INEXISTANT",
+    "address": "6 Rue Adolphe Mille - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 69 Rue Manin Paris",
+    "address": "69 rue Manin - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 51 - Canal de l'Ourcq",
+    "address": "1 Rue de la Meurthe - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

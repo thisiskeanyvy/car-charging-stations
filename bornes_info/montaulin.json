@@ -1,0 +1,152 @@
+[
+  {
+    "title": "SDEA - Thennelières - Aire de Covoiturage RD48",
+    "address": "Aire de Covoiturage RD48 - Thennelières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A5/D671 Route de Dijon - Buchères",
+    "address": "Route de Dijon - Buchères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Parking - Rue Louis Genevois",
+    "address": "4 Rue Louis Genevois - Lusigny-sur-Barse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A5 - Aire de Troyes-le Plessis (direction Troyes)",
+    "address": "A5 - Fresnoy-le-Château",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Rue Du Presbytère - Laubressel",
+    "address": "2 Rue Du Presbytère - Laubressel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Place Maurice Jacquinot - Lusigny-sur-Barse",
+    "address": "14 Place Maurice Jacquinot - Lusigny-sur-Barse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Buchères - D123 Aire de Covoiturage",
+    "address": "Route départementale 123C - Buchères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A5 - Aire de Troyes-Fresnoy (direction Dijon)",
+    "address": "A5 - Fresnoy-le-Château",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Julien-les-Villas, Rue du Parc de Sancey (Private)",
+    "address": "1 Rue du Parc de Sancey - Saint-Julien-les-Villas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue de la Mairie, 1 - Buchères",
+    "address": "1 Rue de la Mairie - Buchères",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

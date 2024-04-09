@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Brasserie de Castelain - Rue Pasteur - Bénifontaine",
+    "address": "13 Rue Pasteur - Bénifontaine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Rue André Pezé - Wingles",
+    "address": "19 Rue André Pezé - Wingles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 26 Rue Jules Guesde - Wingles",
+    "address": "26 Rue Jules Guesde - Wingles",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Place Jean Jaurès",
+    "address": "Place jean jaures - Wingles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Yzee Services",
+    "address": "8 rue des frères lumière - Vendin-le-Vieil",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Zone Pop'A Lens 2 - Rue Léon Droux Lens",
+    "address": "2 Route de la Bassée - Vendin-le-Vieil",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "LENSOTEL - Rue des Canadiens - Vendin-le-Vieil",
+    "address": "Rue des Canadiens - Vendin-le-Vieil",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Trait d'union - Vendin-le-Vieil",
+    "address": "- Vendin-le-Vieil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue Marcel Cabiddu - Douvrin",
+    "address": "64 Rue Marcel Cabiddu - Douvrin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Apriba - Rue de l'Abbé Jerzy Popiéluszko - Lens",
+    "address": "9 Rue de l'Abbé Jerzy Popiéluszko - Lens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Parking Du Palais des Papes- Avignon",
+    "address": "17bis Rue de la Vielle Juiverie - Avignon",
+    "connectors": [
+      "x13",
+      "x13",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel La Mirande",
+    "address": "4 Place de l'Amirande - Avignon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Parking de l'Oulle - Avignon",
+    "address": "Blvd de l'Oulle - Avignon",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electric 55 Charging - Chemin de la Barthelasse - Avignon",
+    "address": "Chemin de la Barthelasse - Avignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Les Halles - Rue de la Bonneterie - Avignon",
+    "address": "Place Pie - Avignon",
+    "connectors": [
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Les Halles - Avignon DOUBLON",
+    "address": "1 Rue de l'Olivier - Avignon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 55 Avenue Gabriel Peri - Villeneuve les Avignon",
+    "address": "55 Avenue Gabriel Péri - Villeneuve-lès-Avignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel d'Angleterre (Tesla and others)",
+    "address": "29 Boulevard Raspail - Avignon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Avenue Charles de Gaulle",
+    "address": "45 Chemin de la Savoye - Villeneuve-lès-Avignon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - Avenue du 7ème Génie - Avignon",
+    "address": "Avenue du 7ème Génie - Avignon",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

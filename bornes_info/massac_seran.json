@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDET - Place René Cassin - Lavaur",
+    "address": "Place René Cassin - Lavaur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDET - Crédit Agricole - Lavaur",
+    "address": "1 Place Stalingrad - Lavaur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET - Allée jean jaures - Lavaur",
+    "address": "4 Allée Jean Jaurès - Lavaur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - Lavaur - Place Pasteur",
+    "address": "Place Pasteur - Lavaur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - 1 Avenue Georges Pompidou",
+    "address": "1 Avenue Georges Pompidou - Lavaur",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Gare SNCF de Lavaur",
+    "address": "16 Avenue de la Gare - Lavaur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi - 42 Avenue Jacques Besse",
+    "address": "42 Avenue Jacques Besse - Lavaur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO/8lj0pBqj5Y",
+    "address": "1 Rue du Colombier - Fiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricomarché",
+    "address": "401 Avenue de cocagne - Lavaur",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Allée du Golf",
+    "address": "Allée du Golf - Fiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

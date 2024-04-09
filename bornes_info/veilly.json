@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SIGEIF - Allée Pierre Corneille - Villiers-le-Bel",
+    "address": "4 Allée Pierre Corneille - Villiers-le-Bel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HYUNDAI - Rue De La Liberté - Gonesse",
+    "address": "8 Rue De La Liberté - Gonesse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Boulevard Salvador Allende",
+    "address": "14 Boulevard Salvador Allende - Villiers-le-Bel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Villiers-le-Bel - Lidl",
+    "address": "6 Rue des Erables - Villiers-le-Bel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigidurs - Rue de l'Escouvrie - Sarcelles",
+    "address": "20 Rue de l'Escouvrier - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Rue Gambetta - Villiers-le-Bel",
+    "address": "10 Rue Gambetta - Villiers-le-Bel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Villiers-le-Bel - 1 Boulevard Carnot (privé)",
+    "address": "1 Boulevard Carnot - Villiers-le-Bel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne de recharge Arnouville",
+    "address": "1 Allée des Mouettes - Arnouville",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Gonesse",
+    "address": "1 Avenue Georges Pompidou - Gonesse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Arnouville",
+    "address": "34 Avenue Paul Vaillant Couturier - Arnouville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

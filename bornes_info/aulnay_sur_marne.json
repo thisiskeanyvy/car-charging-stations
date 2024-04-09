@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Tesla Supercharger V2 - Matougues",
+    "address": "8 D3 - Matougues",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Condé sur Marne",
+    "address": "12b rue de Reims - Condé-sur-Marne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 1 place de la Halle - Tours-sur-Marne",
+    "address": "1 place de la Halle - Tours-sur-Marne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Avenue de Champagne - Tours sur Marne",
+    "address": "23 Avenue de Champagne - Tours-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CHAMPAGNE SOUTIRAN - Rue de Crilly",
+    "address": "3 Rue de Crilly - Ambonnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Champagne Paul Déthune (Tesla)",
+    "address": "2 Rue du Moulin - Ambonnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Bouzy",
+    "address": "1 place de la Mairie - Bouzy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chanpagne Philippe Hautem",
+    "address": "La Varde - Vaudemange",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Modulo-Energies - La Veuve - Restaurant Le Delko",
+    "address": "Rue de l'Aubépine Parking restaurant Le Delko - La Veuve",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Delko   Restaurant Routier",
+    "address": "2 Rue de l'Aubépine - La Veuve",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  }
+]

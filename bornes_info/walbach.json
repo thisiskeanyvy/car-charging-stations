@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ESCA IBS",
+    "address": "5 Chemin du belvedere - LES TROIS-EPIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Grand Chalet et Spa",
+    "address": "22 Hunabuhl - Niedermorschwihr",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Husseren-les-Châteaux (Tesla et autres)",
+    "address": "3 Rue du Schlossberg - Husseren-les-Châteaux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - 8 Rue du Schlossberg - Husseren-les-Châteaux",
+    "address": "8 Rue du Schlossberg - Husseren-les-Châteaux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Crédit Mutuel - Rue du Muhlbach",
+    "address": "3 Rue du Muhlbach - Turckheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue de Lattre de Tassigny - Wintzenheim",
+    "address": "4 Avenue de Lattre de Tassigny - Wintzenheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Super U - Rue Hilti - Munster",
+    "address": "18 Rue Hilti - Munster",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue des Artisans - Munster",
+    "address": "10 Rue des Artisans - Munster",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel au soleil - Rue Sainte Gertrude",
+    "address": "18 Rue Sainte Gertrude - Wettolsheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Restaurant LA PALETTE",
+    "address": "9 Rue Herzog - Wettolsheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

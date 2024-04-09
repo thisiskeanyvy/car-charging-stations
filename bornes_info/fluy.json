@@ -1,0 +1,130 @@
+[
+  {
+    "title": "FDE80 - Médiathèqeu Communautaire de Quevauvillers",
+    "address": "15 Rue Sainneville - Quevauvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 - Molliens-Dreuil",
+    "address": "2 Place de l'Église - Molliens-Dreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDE80 - Rue au Delà du Pont - Picquigny",
+    "address": "95 Rue au Delà du Pont - Picquigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue Jean Jaurès - Ailly-sur-Somme",
+    "address": "1 Rue Jean Jaurès - Ailly-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A29 Aire de Croixrault",
+    "address": "0 ZA de la mine d'or - Croixrault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue d'Amiens - Lœuilly",
+    "address": "16 Rue d'Amiens - Lœuilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Eolien d'Eplessier Thieulloy",
+    "address": "D901 D901 - Croixrault",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - CHU Amiens Picardie - Pont-de-Metz",
+    "address": "1 Rond-Point du Professeur Christian Cabrol Cabrol - Pont-de-Metz",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 Gare - Hameau Saint-Pierre - Poix-de-Picardie",
+    "address": "24 Hameau Saint-Pierre - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Salouël",
+    "address": "1 Avenue Albert Camus - Salouël",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

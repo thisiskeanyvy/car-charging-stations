@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Belib - Rue du Bac - Paris",
+    "address": "Rue du Bac - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 20 rue de Sèvres 75007 Paris",
+    "address": "20 Rue de Sèvres - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Parking Sèvres Babylone",
+    "address": "Rue Velpeau - Paris",
+    "connectors": [
+      "x37",
+      "x7",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 3 Rue de Bérite - Paris",
+    "address": "3 Rue de Bérite - Paris",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Places Ubeeqo - 58 Rue Saint Placide Paris",
+    "address": "56 rue Saint-Placide - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 105 Rue de Rennes - Paris",
+    "address": "105 Rue de Rennes - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking (Privé)",
+    "address": "14 rue saint jean baptiste de la salle - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 18 rue Madame Paris",
+    "address": "18 rue Madame - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place 1",
+    "address": "18 Fleurus - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 66 rue de Rennes 75006 Paris",
+    "address": "66 Rue de Rennes - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  }
+]

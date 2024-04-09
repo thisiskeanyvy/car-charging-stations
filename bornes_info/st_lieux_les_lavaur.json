@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Stiletto - Saint-Lieux-lès-Lavaur (Tesla and others)",
+    "address": "17 Les Caussanels - Saint-Lieux-lès-Lavaur",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Route de Bel air - Giroussens",
+    "address": "Route de Bel air - Giroussens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Office du Tourisme - Saint-Sulpice-la-Pointe",
+    "address": "2 Rue du 3 Mars 1930 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDET - Place Jean Jaurès - Centre-ville",
+    "address": "10-12 Place Jean Jaurès - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Avenue Jean Berenguier - Coufouleux",
+    "address": "Avenue Jean Berenguier - Coufouleux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET - Quai de la Libération Rabastens",
+    "address": "25-31 Quai de la Libération - Rabastens",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rabastens",
+    "address": "35 Route d'Albi - Rabastens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Sulpice-la-Pointe - 1436 Avenue Des Terres Noires",
+    "address": "1436 Avenue Des Terres Noires - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Biocoop - Saint-Sulpice-la-Pointe",
+    "address": "VC15 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Route de Roqueserière",
+    "address": "81 Route de Roqueserière - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

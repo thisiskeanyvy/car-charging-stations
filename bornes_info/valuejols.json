@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Evadea - Murat - Place du 19 mars 1962",
+    "address": "Place du 19 mars 1962 - Murat",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Murat",
+    "address": "33 N122 - Murat",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue du Portarou - Murat",
+    "address": "9 Rue du Portarou - Murat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gîtes Bon Air - Chemin du Bon air (Tesla et autres)",
+    "address": "19 Chemin du Bon air - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes Bon Air - route de Paulhac",
+    "address": "16 route de Paulhac - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte La K-Bane au fond du jardin - Impasse des Jardins (Tesla and others)",
+    "address": "3 Impasse des Jardins - Saint-Flour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bio Attitudes - Roffiac",
+    "address": "7 Zac De Montplain Les Allauziers - Roffiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Cantal - Le departement",
+    "address": "48 Rue du Dr Mallet - Saint flour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Hospitalier de Saint-Flour",
+    "address": "3 Rue Marcellin Boudet - Saint-Flour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking des Allées - St Flour",
+    "address": "8 Cours Spy Des Ternes - St.-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

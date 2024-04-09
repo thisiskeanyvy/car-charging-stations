@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDEC - Place Richard Feuillet",
+    "address": "Place Richard Feuillet - Ondres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Ondres - Avenue De La Plage",
+    "address": "Avenue De La Plage - Ondres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ondres - Camping Green Resort",
+    "address": "271 Chemin De La Montagne - Ondres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Blue Ocean",
+    "address": "221 Impasse des Mouettes - Ondres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "clinique Saint Martin de Seignanx",
+    "address": "275 Route de Northon - Saint-Martin-de-Seignanx",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions/89192858",
+    "address": "15 Avenue Salvador Allende - Tarnos",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Credit Agricole - Impasse Lahounit - Tarnos",
+    "address": "3 Impasse Lahounit - Tarnos",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bayonne)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bordeaux)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Aquatic Landes",
+    "address": "0 route de la plage - La bennes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

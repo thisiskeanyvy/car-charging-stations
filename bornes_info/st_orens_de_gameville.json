@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Métropole de Toulouse (Révéo) - Rue des Sports - Saint-Orens-de-Gameville",
+    "address": "Rue des Sports - Saint-Orens-de-Gameville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Alizé - Rue du Moulin-Place de la Poste - Saint-Orens-de-Gameville",
+    "address": "Rue du Moulin - Saint-Orens-de-Gameville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Révéo - Rue des Mûriers",
+    "address": "3B Rue des Mûriers - Saint-Orens-de-Gameville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Porsche Toulouse",
+    "address": "71 Impasse de la Bourgade - Labège",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 17B Boulevard du libre Échange - Saint-Orens-de-Gameville",
+    "address": "17B Boulevard du libre Échange - Saint-Orens-de-Gameville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autowatt - Labege SUPPRIMÉ",
+    "address": "212 impasse de la bourgade - Labege",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Route de Baziege la Lauragaise - Labege",
+    "address": "2286 Route de Baziege la Lauragaise - Labège",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VW - DBF Tououse Automobiles (Privée)",
+    "address": "2686 Route de Baziege la Lauragaise - Labège",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint-Orens-de-Gameville",
+    "address": "1 Avenue de la Marqueille - Saint-Orens-de-Gameville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW Equation - Labège",
+    "address": "3006 Route de Baziege la Lauragaise - Labège",
+    "connectors": [
+      "x1",
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Lidl - Charmes",
+    "address": "13 Rue René Didierjean - Charmes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ENGIE Vianeo - Charmes - Parc de la Peupleraie",
+    "address": "Avenue du Peintre Monchablon - Charmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Charmes - ZA Hermitage",
+    "address": "66 Voie Carpini - Charmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Vincey - Boulangerie Jeanne Charmes",
+    "address": "34 bis rue d'Alsace, 88450 Vincey, France - Vincey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Charmes",
+    "address": "32 rue Claude barrés - Charmes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Vincey - 815 D33",
+    "address": "815 D33 - Vincey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Logis Le Relais de Vincey (Tesla and others)",
+    "address": "33 Rue de Lorraine - Vincey",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Avenue Gambetta - Mirecourt",
+    "address": "869–907 Avenue Gambetta - Mirecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Mirecourt - Menuiserie Olry",
+    "address": "719 Avenue Henri Parisot - Mirecourt",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Bricomarche - Mirecourt",
+    "address": "D166 - Mirecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

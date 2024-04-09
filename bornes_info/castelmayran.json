@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Chemin de Ronde - Castelmayran",
+    "address": "Chemin de Ronde - Castelmayran",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - A62 Aire de Garonne (direction Toulouse)",
+    "address": "A62 - Aire de Garonne - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electra - A62 Aire de Garonne (direction Bordeaux)",
+    "address": "A62 - Aire de Garonne - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE82 - Allée de la Promenade - Caumont",
+    "address": "Allée de la Promenade - Caumont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Saint-Nicolas-de-la-Grave",
+    "address": "2 Boulevard du Tour de Ronde - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Parking promenade de chateau",
+    "address": "22 Promenade du Château - Castelsarrasin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Castelsarrasin (Sortie 9)",
+    "address": "1 Chemin de l'Hippodrome - Castelsarrasin",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE82 - Rue Neuve des Capucins Castelsarrasin",
+    "address": "2B Rue Neuve des Capucins - Castelsarrasin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Castelsarrasin",
+    "address": "D118 - Castelsarrasin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/FPB_Castelsarrasin DOUBLON",
+    "address": "Route de Moissac - Castelsarrasin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

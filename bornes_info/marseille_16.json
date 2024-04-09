@@ -1,0 +1,130 @@
+[
+  {
+    "title": "TotalEnergies - Rue Jean-Jacques Vernazza - Marseille",
+    "address": "Rue Jean-Jacques Vernazza - Marseille",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVzen - Plage de l'Estaque 6 - Marseille",
+    "address": "Plage de l'Estaque 6 - MARSEILLE 16",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Plage de l'Estaque - Marseille",
+    "address": "10 Plage de l'Estaque - Marseille",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "larecharge - Boulevard d'Annam - Marseille",
+    "address": "Boulevard d'Annam - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Plage de l'Estaque - Marseille",
+    "address": "148 Plage de l'Estaque - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Réseau TCB FR - Marseille - 73 Chemin de Saint-Henri",
+    "address": "73 Chemin Vicinal De Saint Henri - Marseille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - 9 Rue Rabelais - Marseille",
+    "address": "9 Rue Rabelais - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electraconcept",
+    "address": "9 Boulevard du Grand Camp - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan Marseille L'Estaque (Privée)",
+    "address": "32 Av. Fernand Sardou - Marseille",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Marseille",
+    "address": "26 Avenue Fernand Sardou - Marseille",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

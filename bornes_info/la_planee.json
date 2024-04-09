@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SYDED - Rue de la Rochette - Saint-Point-Lac",
+    "address": "8 Rue de la Rochette - Saint-Point-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL25 - Mairie - Vaux-et-Chantegrue",
+    "address": "9 Rue des Marais - Vaux-et-Chantegrue",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Salle des fêtes - Oye-et-Pallet",
+    "address": "7 Rue des Écoles - Oye-et-Pallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT SAS - Malbuisson - 9 Rue de l'Église",
+    "address": "9 Rue de l'Église - Malbuisson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL25 - Labergement-Sainte-Marie",
+    "address": "13 bis Avenue de la Gare - Labergement-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie - Touillon-et-Loutelet",
+    "address": "6 Rue du Chalet - Touillon-et-Loutelet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hôtel Kyriad Pontarlier",
+    "address": "8 Rue Jean Petite, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - BMW - Pontarlier",
+    "address": "2 Rue Eugène Thévenin, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - 12 rue Mervil - PONTARLIER NEXISTE PAS",
+    "address": "12 rue Mervil - PONTARLIER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Notre Chalet",
+    "address": "3 Rue Ancienne Ecole - Les Fourgs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

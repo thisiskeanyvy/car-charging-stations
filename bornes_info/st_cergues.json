@@ -1,0 +1,134 @@
+[
+  {
+    "title": "e-born - Rue des Allobroges - Saint-Cergues",
+    "address": "Route des Vouards - Saint-Cergues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - 104 Route des Voirons - Saint-Cergues",
+    "address": "104 Route des Voirons - Saint-Cergues",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cap Bernard - Ville-la-Grand",
+    "address": "6 Rue de Montréal - Ville-la-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYANE (e-born) - Place de la Vignule, 1 - Lucinges",
+    "address": "1 Place de la Vignule - Lucinges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SoWatt - Audi Jean Lain - Ville-la-Grand",
+    "address": "21 Rue des Buchillons - Ville-la-Grand",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "40 Rte du Château-du-Crest Jussy",
+    "address": "40 Rte du Château-du-Crest - Jussy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Ville-la-Grand",
+    "address": "7 Rue Chantemerle - Ville-la-Grand",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L./6808",
+    "address": "1 Rue des Biches - Ville-la-Grand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Volvo Discover - Annemasse",
+    "address": "11 Rue de la Californie - Ville-la-Grand",
+    "connectors": [
+      "x3",
+      "x7",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Suzuki - Ville-la-Grand",
+    "address": "2 Allée du Mousseron des Prés, - Ville-la-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

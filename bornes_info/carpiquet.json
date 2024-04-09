@@ -1,0 +1,140 @@
+[
+  {
+    "title": "MobiSDEC - Avenue Charles de Gaulle - Carpiquet",
+    "address": "5 Avenue Charles de Gaulle - Carpiquet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aramisauto Caen",
+    "address": "1 Rue de l'Avenir - Carpiquet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Carpiquet - Wurth",
+    "address": "3 Rue de l'Avenir - Carpiquet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Rue de l'Avenir - Carpiquet",
+    "address": "Rue de l'Avenir - Carpiquet",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Carpiquet",
+    "address": "80 Route de Caen - Carpiquet",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gemo/Général d'Optique/Décathlon - Rue des Drapeaux - Rots",
+    "address": "Rue des Drapeaux - Rots",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Cora - Caen",
+    "address": "Chemin de la Croix Vautier, 1 - Rots",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Caen",
+    "address": "1 Avenue du Fresne - Bretteville-sur-Odon",
+    "connectors": [
+      "x12",
+      "x11",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Avenue du Fresne - Bretteville-sur-Odon",
+    "address": "1 Avenue du Fresne - Bretteville-sur-Odon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Place de la Mairie - Bretteville-sur-Odon",
+    "address": "Place de la Mairie - Bretteville-sur-Odon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

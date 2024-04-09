@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lescure-d'Albigeois, Chemin Des Deux Voies",
+    "address": "Chemin Des Deux Voies - Lescure-d'Albigeois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Burger King - Route de la Barrière",
+    "address": "77 Route de la Barrière - Lescure-d'Albigeois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking CCial Leclerc - Route de la Dreche - Lescure-Albi",
+    "address": "Route de la Dreche - Lescure-d'Albigeois",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "KFC Albi - Parc Commercial POP’A DOUBLON",
+    "address": "Parc Commercial POP’A, lieudit de l’Arquipeyre, N88 - Lescure d'Albigeois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - KFC - Lescure d'Albigeois",
+    "address": "5247A Chemin de la Dreche - Lescure-d'Albigeois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Superchargeur Tesla V3 - Albi - Lescure-d'Albigeois",
+    "address": "329 Route de la Dreche - Lescure-d'Albigeois",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl St Juéry",
+    "address": "Rd. Pt. de l'Europe, Av. de Saint-Juéry - Albi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Albi",
+    "address": "route de Saint Juéry - Albi",
+    "connectors": [
+      "x14",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Juste pour voir - Lescure-d'Albigeois",
+    "address": "63 All. des Fleurs - Lescure-d'Albigeois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avenue de Saint-Juéry - Albi",
+    "address": "Avenue de Saint-Juéry - Albi",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

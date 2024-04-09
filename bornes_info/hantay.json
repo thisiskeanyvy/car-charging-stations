@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Eglise Hantay",
+    "address": "9-11 Rue Mirabeau - Hantay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Mairie Rue Pasteur - Salomé",
+    "address": "7 Rue Pasteur - Salomé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de Marquillies",
+    "address": "Rue de la Bourse - Marquillies",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Marché - Bauvin",
+    "address": "75 bis Rue Jean Jaurès, - Bauvin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Rue Marcel Cabiddu - Douvrin",
+    "address": "64 Rue Marcel Cabiddu - Douvrin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MacDo Illies",
+    "address": "Rue de l'Avenir - Illies",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 35 Rue de l'Avenir - Illies",
+    "address": "35 Rue de l'Avenir - Illies",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault SP2M Automobile - rue Jacques Cartier - La Bassée",
+    "address": "3 rue Jacques Cartier - Bassée",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LastMileSolutions - 226-228 Chemin Vert - La Bassée",
+    "address": "226-228 Chemin Vert - La Bassée",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Mairie d'Illies",
+    "address": "4A Rue de la Mairie - Illies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

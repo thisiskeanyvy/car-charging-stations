@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Sherpa - Thollon-les-Mémises",
+    "address": "38 D24 - Thollon-les-Mémises",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lugrin - Intermarché",
+    "address": "ZAC des Crêts - Lugrin",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Quai André Chevallay - Saint-Gingolph",
+    "address": "1 Quai André Chevallay - Saint-Gingolph",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Parking sous l'église de St Paul en Chablais",
+    "address": "108 Rue de Blonay - Saint-Paul-en-Chablais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Green Motion SA - 3 Route de Lausanne - Cully SUPPRIMÉ",
+    "address": "3 Route de Lausanne - Cully",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Carrousel - Route de Lausanne",
+    "address": "3 Route de Lausanne - Bourg-en-Lavaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Central Cully",
+    "address": "1 Rue de la Gare - Bourg-en-Lavaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - 4 Route de la Corniche - Chexbres",
+    "address": "4 Route de la Corniche - Chexbres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VVF Vilage Évian",
+    "address": "Rue du Mur Blanc - Évian-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gare de Cully",
+    "address": "Place de la Gare - Cully",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

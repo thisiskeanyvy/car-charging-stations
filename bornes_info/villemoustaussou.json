@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syaden - Petit parking proche de la mairie - Villemoustaussou",
+    "address": "Impasse des Stades - Villemoustaussou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Pont Rouge - Rue Magellan - Carcassonne",
+    "address": "15 Rue Magellan - Carcassonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Syaden - Rue des Effaches Villegailhenc",
+    "address": "1 Rue des Effaches - Villegailhenc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Carcassonne - Hôtel du Pont Rouge",
+    "address": "110 Rue Yves de Kerguélen Hôtel du Pont Rouge - Carcassonne",
+    "connectors": [
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Balladins - Carcassonne",
+    "address": "1830 Avenue Georges Guillé - Carcassonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Allée Raymond Courrière - Carcassonne",
+    "address": "Allée Raymond Courrière - Carcassonne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden (Révéo) - 28 Avenue Claude Bernard - Carcassonne",
+    "address": "28 Avenue Claude Bernard - Carcassonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 31 Chemin de la Reille - Carcassonne",
+    "address": "31 Chemin de la Reille - Carcassonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Tryba - Chemin de Curculis",
+    "address": "5 Chemin de Curculis - Carcassonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden - Hôpital de Carcassonne",
+    "address": "115 Chemin de la Madeleine - Carcassonne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

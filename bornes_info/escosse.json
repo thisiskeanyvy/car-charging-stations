@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Intermarché - ZEborneMS - Route de Mirepoix - Pamiers",
+    "address": "Route de Toulouse - Pamiers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel Restaurant de France - PAMIERS",
+    "address": "5 Cours Joseph Rambaud - Pamiers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 (Révéo) - Place des Héros de la Résistance, 7 - Pamiers",
+    "address": "7 Place des Héros de la Résistance - Pamiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - 70bis Boulevard Alsace Lorraine - Pamiers",
+    "address": "70 bis Boulevard Alsace Lorraine - Pamiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE09 - Place Sainte Helene - Pamiers",
+    "address": "2 Boulevard Delcassé - Pamiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Village Automobile - Pamiers",
+    "address": "Village Automobile - Pamiers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pamiers",
+    "address": "Avenue de la Bouriette - Pamiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Rue André Citroen - Pamiers",
+    "address": "2 Rue André Citroën - Pamiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - Pamiers - VW",
+    "address": "Allée Bugatti Village Automobile - Pamiers",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - Village automobile, Allée Bugatti - Pamiers",
+    "address": "Village automobile, Allée Bugatti - Pamiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

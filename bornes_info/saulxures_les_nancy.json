@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Métropole du Grand Nancy - Avenue Leonard de Vinci - Pulnoy",
+    "address": "Avenue Leonard de Vinci - Pulnoy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole du Grand Nancy - Tomblaine - Rue Cécile Brunschvicg",
+    "address": "Rue Cécile Brunschvicg - Tomblaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan Tomblaine - Avenue Eugène Pottier",
+    "address": "Avenue Eugène Pottier - Tomblaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Essey-lès-Nancy - 7 Allée Du Midi",
+    "address": "7 Allée Du Midi - Essey-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Essey-lès-Nancy",
+    "address": "1 Allée du Midi - Essey-lès-Nancy",
+    "connectors": [
+      "x7",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Essey-lès-Nancy - Techno Delmo",
+    "address": "7 Allée du Midi - Essey-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen - Tomblaine",
+    "address": "115 Avenue Eugène Pottier - Tomblaine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Tomblaine - Electrify France",
+    "address": "2 Avenue Nelson Mandela - Tomblaine",
+    "connectors": [
+      "x3",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Métropole du Grand Nancy - 5 Rue Mére Théresa - Essey-lès-Nancy",
+    "address": "5 Rue Mére Théresa - Essey-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "12 Rue des Tarbes Prolongée",
+    "address": "12 Rue des Tarbes Prolongée - Essey-lès-Nancy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

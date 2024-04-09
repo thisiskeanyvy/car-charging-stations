@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDESM - Parking de la Mairie - Cesson",
+    "address": "55 Route de Saint-Leu - Cesson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking place grand village Vert st Denis",
+    "address": "6 Place de Grand Village - Vert-Saint-Denis",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ZEborne - 5 Rue Aimé Césaire - Cesson",
+    "address": "5 Rue Aimé Césaire - Cesson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de l'Arc-en-Ciel - Cesson",
+    "address": "Rue de l'Arc-en-Ciel - Cesson",
+    "connectors": [
+      "x2",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Rue de l'Arc en Ciel 1 - Cesson",
+    "address": "Rue de l'Arc en Ciel 1 - Cesson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Vert-Saint-Denis - SCI Vertsenart",
+    "address": "20 Rue De L'attaque Du Courrier De Lyon - Vert-Saint-Denis",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Cesson",
+    "address": "rue Du Bois Des Saints-Pères ZAC de la Plaine du Moulin a vent - Cesson",
+    "connectors": [
+      "x8",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Nissan - Vert Saint Denis DOUBLON",
+    "address": "5 rue Aristide Briand - Vert Saint Denis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Allego - 5 Rue Aristide Briand - Vert-Saint-Denis",
+    "address": "5 Rue Aristide Briand - Vert-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - rue Aristide briand 1 - vert saint denis",
+    "address": "rue Aristide briand 1 - vert saint denis",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

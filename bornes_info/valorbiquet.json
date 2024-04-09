@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiSDEC - Parking - Rue de Copplestone - Saint-Cyr-du-Ronceray",
+    "address": "30 Rue de Copplestone - Saint-Cyr-du-Ronceray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Le Mesnil-Guillaume (parking)",
+    "address": "D519 - Le Mesnil-Guillaume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - Rue d'Orbec - Glos",
+    "address": "45 Rue d'Orbec - Glos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Courtonne - Glos (Privé)",
+    "address": "22 Rue De Courtonne - Glos",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Beauvoir - Orbec",
+    "address": "Beauvoir - Orbec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le bourg - Saint-Germain-la-Campagne",
+    "address": "4 Route De Courtonne-les-deux-églises - Saint-Germain-la-Campagne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Boulevard de Beauvoir - Orbec",
+    "address": "Boulevard de Beauvoir - Orbec",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - ORBEC (Place Maréchal FOCH)",
+    "address": "10 Place Mal Foch - Orbec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - LA VESPIERE-FRIARDEL (Beausoleil)",
+    "address": "56 Beausoleil - La Vespière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Garage Kia - Lisieux",
+    "address": "80 Chemin de Colandon - Lisieux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

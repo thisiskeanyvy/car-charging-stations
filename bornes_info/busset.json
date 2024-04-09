@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE03 - Avenue de Bellevue - Saint-Yorre",
+    "address": "Avenue de Bellevue - Saint-Yorre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE03 - Abrest",
+    "address": "Place Jean Moulin - Abrest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vichy",
+    "address": "41 avenue Poincaré - Vichy",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - 1 Avenue du Drapeau - Cusset",
+    "address": "1 Avenue du Drapeau - Cusset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cor",
+    "address": "17 Rue Gambetta - Cusset",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue de Marseille - Vichy",
+    "address": "Rue de Marseille - Vichy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Place du Centenaire - Cusset",
+    "address": "Place du Centenaire - Cusset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Bellerive-sur-Allier - E. Leclerc",
+    "address": "5 Allée Colonel Henri Rol-Tanguy - Bellerive-sur-Allier",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Hôtel de Ville de Vichy",
+    "address": "2bis Place de l'Hôtel de Ville - Vichy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "HERVIER Automobile",
+    "address": "4 Avenue du Général de Gaulle - Bellerive-sur-Allier",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

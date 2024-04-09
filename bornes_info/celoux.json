@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Rue de la Gare - Massiac",
+    "address": "2 place faura - Massiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grand Hotel de la Poste",
+    "address": "26 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Agent Renault Tuffery - Massiac",
+    "address": "103 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - D21 Route De La Scierie",
+    "address": "7 Route De La Scierie - Auriac-L'Eglise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargeGuru - Route de Brugerolles - Vieille-Brioude",
+    "address": "Route de Brugerolles - Vieille-Brioude",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Georges - Hôtel Cantal Cottages",
+    "address": "40 Crozatier - Saint-Georges",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - ZA Crozatier - Saint-Georges",
+    "address": "ZA du Crozatier - Saint-Georges",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Pl. de la Liberté - Saint-Flour",
+    "address": "1-9 Place de la Liberté - St.-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Citroen - Vieille-Brioude",
+    "address": "D 912 - Vieille-Brioude",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Restaurant Logis La Méridienne - Anglards-de-Saint-Flour",
+    "address": "2 D74 - Anglards-de-Saint-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

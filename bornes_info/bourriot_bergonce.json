@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SYDEC - Avenue des Arènes - Roquefort",
+    "address": "69 Avenue des Arènes - Roquefort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC - Allée Gaston Phoebus - Saint-Justin",
+    "address": "6 Allée Gaston Phoebus - Saint-Justin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - Abzac - Petit Sorillon",
+    "address": "Petit Sorillon - Abzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A65 - Aire du Cœur d'Aquitaine (double sens)",
+    "address": "A65 - Captieux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiVE - Place des Martyres - Labastide-d'Armagnac",
+    "address": "Cours Maubec - Labastide-d'Armagnac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Place de l'Église - Captieux",
+    "address": "Place de l'Église - Captieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Floirac - 1 Rue Salvador Allende",
+    "address": "1 Rue Salvador Allende - Floirac",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 19 Rue Joseph Cappin - Cazaubon",
+    "address": "19 Rue Joseph Cappin - Cazaubon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Bastide en Gascogne",
+    "address": "45 Avenue des Thermes - Cazaubon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel La Roseraie",
+    "address": "2 Rue De l'Abbé Escarnot - Cazaubon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

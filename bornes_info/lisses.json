@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SMOYS - CCAS Place du Général Leclerc - Lisses",
+    "address": "1 Place du Général Leclerc - Lisses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Ikea - Lisses",
+    "address": "3 Rue de la Closerie - Lisses",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ikea - Lisses",
+    "address": "13 Rue du Clos aux Pois - Lisses",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 1",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Lisses",
+    "address": "2 Rte de Villabé D260, - Lisses",
+    "connectors": [
+      "x3",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Shell-Recharge (FR) - 10 Rue Léonard de Vinci - Lisses (Privé)",
+    "address": "10 Rue Léonard de Vinci - Lisses",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - A6 Aire des Lisses (direction Auxerre)",
+    "address": "Aire des Lisses, Villabé - Villabé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total énergies - A6 Aire de Lisses (direction Auxerre)",
+    "address": "Autoroute du Soleil - Villabé",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total energies - A6 Aire de Villabé (Direction Evry)",
+    "address": "Aire de Villabé - Villabé",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Smoys - Parking zone commerciale de Lisses",
+    "address": "2 Rue de Hurepoix - Lisses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Comptoir Client UPS (Privé)",
+    "address": "Rue Henri Desbruères - Corbeil-Essonnes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

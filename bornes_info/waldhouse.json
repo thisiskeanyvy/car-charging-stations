@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Bäckerei ERNST",
+    "address": "Wiesenstraße - Vinningen",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel-Restaurant Kunz (Tesla)",
+    "address": "74 Bottenbacher Straße - Pirmasens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VR Bank - Hornbach",
+    "address": "1 Butterweg - Hornbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kloster Hornbach (Tesla)",
+    "address": "2 Im Klosterbezirk - Hornbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gersbach - Pirmasens",
+    "address": "23 Rothmühlstraße - Pirmasens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 1",
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MOON POWER GmbH - Pirmasens - 8 Neckarstraße",
+    "address": "8 Neckarstraße - Pirmasens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stockholmer Straße 6",
+    "address": "8 Stockholmer Straße - Zweibrücken",
+    "connectors": [
+      "x6",
+      "x22"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Général Stuhl - Bitche",
+    "address": "2 Rue du Général Stuhl - Bitche",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Zweibrücken",
+    "address": "Londoner Bogen - Zweibrücken",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pfalzwerke - Zweibrücken Fashion Outlet",
+    "address": "10 Londoner Bogen - Zweibrücken",
+    "connectors": [
+      "x10",
+      "x2",
+      "x2",
+      "x2",
+      "x18",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Q-Park Aragon",
+    "address": "152 boulevard charles de gaulles - Colombes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Colombes - 152 Boulevard Charles de Gaulle",
+    "address": "152 Boulevard Charles de Gaulle - Colombes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centre Commercial Leclerc - Les 4 Chemins - Colombes",
+    "address": "160 Boulevard Charles de Gaulle - Colombes",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 35 rue de Seine - Colombes",
+    "address": "35 Rue de Seine - Colombes",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - Avenue de la République - Nanterre",
+    "address": "Avenue de la République - Nanterre",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Colombes",
+    "address": "Rue Président Salvador Allende - COLOMBES",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT -  108 Avenue georges clemenceau - Nanterre",
+    "address": "108 Avenue georges clemenceau - Nanterre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Trujas (Privé)",
+    "address": "6 Rue des Peupliers - Nanterre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Rue des Peupliers - Nanterre",
+    "address": "Rue des Peupliers - Nanterre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Atos River Ouest (Privé)",
+    "address": "80 Quai Voltaire - Bezons",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

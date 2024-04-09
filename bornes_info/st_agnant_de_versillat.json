@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Etang du Cheix Camping Suisse Océan",
+    "address": "Avenue de la République - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - La Souterraine - 1 Rue du Peu de Sedelle",
+    "address": "1 Rue du Peu de Sedelle - La Souterraine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 22 Place Docteur Emile - La Souterraine",
+    "address": "22 Place Docteur Emile - La Souterraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Place Du Docteur Emile Parrain 22 - La Souterraine",
+    "address": "Place Du Docteur Emile Parrain 22 - La Souterraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Rue des Fossés des Canards - La Souterraine",
+    "address": "Rue des Fossés des Canards - La Souterraine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - La Souterraine",
+    "address": "3-17 Boulevard Jean Moulin - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de la Cazine",
+    "address": "Domaine de la Fôt - Noth",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A20 Aire de Boismandé (direction Châteauroux)",
+    "address": "A20 - Saint-Sulpice-les-Feuilles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A20 - Aire de Boismandé (direction Limoges)",
+    "address": "A20 - Saint-Sulpice-les-Feuilles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - ST SULPICE LES FEUILLES - Drochon Automobiles",
+    "address": "VOIE DE LA REINE - ST SULPICE LES FEUILLES",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

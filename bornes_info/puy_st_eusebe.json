@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Chalet La Mounette - Puy-Sanières",
+    "address": "58 Chemin du Mounet - Puy-Sanières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Stade - Savines-le-Lac",
+    "address": "Rue du Stade - Savines-le-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SPBR1 - 4 Rue du Paradisier - Savines-le-Lac",
+    "address": "4 Rue du Paradisier - Savines-le-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking des Chaumettes - Savines-le-Lac",
+    "address": "Avenue du Faubourg - Savines-le-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Station Pra Goudin - Réallon",
+    "address": "5 Pra Goudin - Réallon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Avenue du Lac - Embrun",
+    "address": "148 Avenue du Lac - Embrun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Les Bartavelles (Tesla et autres)",
+    "address": "Clôt des Pommiers - Crots",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Embrun",
+    "address": "Route de Gap - Baratier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Peugeot - Baratier (ne souhaite pas apparaitre sur la carte)",
+    "address": "ZA Les Portes du Lac - Baratier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Embrun - 11 Avenue Justin Gras",
+    "address": "11 Avenue Justin Gras - Embrun",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

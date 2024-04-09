@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Intermaché - Neuf-Brisach",
+    "address": "6 Rue de la Gravière - Volgelsheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Office de tourisme - Place d'Armes Général de Gaulle - Neuf-Brisach",
+    "address": "6 Place d'Armes Général de Gaulle - Neuf-Brisach",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Eglise Royale Saint Louis - Neuf-Brisach",
+    "address": "26 Place d'Armes Gal de Gaulle - Neuf-Brisach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Super U - Relais Fessenheim",
+    "address": "1 Rue de l'Abolition - Fessenheim",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Rue de la 1ère Armée - Fessenheim",
+    "address": "14 Rue de la 1ère Armée - Fessenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Rue de l'Europe - Fessenheim",
+    "address": "Rue de l'Europe - Fessenheim",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel \"Le Caballin\" & Restaurant \"Le Ranch\"",
+    "address": "Île du Rhin - Vogelgrun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ART RHENA - Vogelgrun",
+    "address": "Route de l'île du Rhin - Vogelgrun",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Art rhena 2",
+    "address": "0 D415 - Vogelgrun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Heinrich-Ulmann-Platz - Breisach am Rhein",
+    "address": "1 Josef-Bueb-Strasse - Breisach am Rhein",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

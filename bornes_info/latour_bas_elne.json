@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Intermarché - Latour-Bas-Elne",
+    "address": "13 D40 - Latour-Bas-Elne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Le Belvédère",
+    "address": "1B Rue Pierre Benoît - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Elne - 10 Bd Jacques Albert",
+    "address": "10 Bd Jacques Albert - Elne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEEL66 (Révéo) - ELNE - Rue du Marché",
+    "address": "Rue du Marché - ELNE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 - Saint-Cyprien - Rue Lanoux",
+    "address": "Rue Lanoux \r\n - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEEL66 - Elne parking Paul Reig",
+    "address": "5 Rue de la Pompe Grosse - Elne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "hotel île de la lagune",
+    "address": "Boulevard de l'Almandin - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Les Bulles de Mer",
+    "address": "28 Avenue Armand Lanoux - Saint-Cyprien",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Cyprien - 4 Avenue Armand Lanoux",
+    "address": "4 Avenue Armand Lanoux - Saint-Cyprien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Martre",
+    "address": "Route de Perpignan - Elne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

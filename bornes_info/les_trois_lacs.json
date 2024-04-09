@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ZEborne - Intermarché - Aubevoye",
+    "address": "19 Rue Charles de Gaulle - Aubevoye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking AMI - Heudebouville",
+    "address": "580 Allee de la Fosse Moret Ecoparc - Heudebouville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Aubevoye",
+    "address": "12bis Rue de la Gare - Aubevoye",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Maison Médicale",
+    "address": "Rue Roland Roche - Gaillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Tech - Heudebouville",
+    "address": "19 Allée des Marronniers - Heudebouville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Les Routiers Ecoparc - Heudebouville",
+    "address": "2 Route de Louviers Zone Ecoparc 2 - Heudebouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place Paul Doumer",
+    "address": "4-6 Place Paul Doumer - Gaillon",
+    "connectors": [
+      "x1",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SGA Automation - Allée des Chênes Ecoparc - Heudebouville",
+    "address": "Allée des Chênes Ecoparc - Heudebouville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ecoparc satellite ZA2",
+    "address": "Ecoparc satellite ZA2 - Heudebouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Parking Aquaval",
+    "address": "Route de la Garenne - Gaillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

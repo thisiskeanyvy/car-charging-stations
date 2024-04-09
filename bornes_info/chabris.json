@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEI36 - Rue de la République - Chabris",
+    "address": "5-7 Rue de la République - Chabris",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syndicat Départemental d'Energies de l'Indre (SDEI36) - Route de Valençay - Chabris",
+    "address": "Route de Valençay - Chabris",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine des Bois Argentés",
+    "address": "2449 Lieu Dit Saugirard - Pruniers-en-Sologne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fêtes",
+    "address": "64 Rue Jean Jaurès - Pruniers-en-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIDELC - Selles sur Cher",
+    "address": "2 Allée de la Gravouille - Selles-sur-Cher",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Médiathèque - Selles sur cher",
+    "address": "31 Rue Jules Ferry - Selles-sur-Cher",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - A85 Aire de La Courneuve Ouest (direction Vierzon)",
+    "address": "La Courneuve Ouest, Autoroute du Nord - La Courneuve",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A85 - Aire de Romorantin (double sens)",
+    "address": "541–1099 Route de Marmagne à Chêne Moreau - Pruniers-en-Sologne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sidelc - Rue Marcel Gère",
+    "address": "2 Rue Marcel Gère - Villefranche-sur-Cher",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - rue crois Saint André - Gy en Sologne",
+    "address": "Croix Saint André - Gy-en-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

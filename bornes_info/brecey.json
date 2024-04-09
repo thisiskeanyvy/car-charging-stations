@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDEM50 - Brecey",
+    "address": "11 Rue des Pèlerins - Brécey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEM50 - Isigny le buat",
+    "address": "Rue d'Avranches - Isigny-le-Buat",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Place de l'Église - Juvigny-le-Tertre",
+    "address": "Place de l'Église - Juvigny-le-Tertre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - FONTENERMONT (Le Bourg)",
+    "address": "Le Bourg - Fontenermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Gare Sncf - Villedieu",
+    "address": "1 Rue Jean Dévé - Villedieu-les-Poêles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Place des costils Villedieu-les-Poêles",
+    "address": "8 Place des Costils - Villedieu-les-Poêles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Château d'Isigny",
+    "address": "20 Avenue Saint Martin - Isigny-le-Buat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avranches | Avenue des Rocher 24",
+    "address": "24 Avenue des Rocher - Avranches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Avranches",
+    "address": "87 Rue de Commandant Bindel - Avranches",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Avranches",
+    "address": "55 Rue de la Division Leclerc - Avranches",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

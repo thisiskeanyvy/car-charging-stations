@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDESM - Rue des Écoles - Vendrest",
+    "address": "4 Rue des Écoles - Vendrest",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de Verdun Lizy-sur-Ourcq",
+    "address": "7 Place de Verdun - Lizy-sur-Ourcq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place du Champivert Crouy-sur-Ourcq",
+    "address": "2 Place du Champivert - Crouy-sur-Ourcq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de l'abbaye - Jaignes",
+    "address": "18 Rue de l'Abbaye - Jaignes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - 39 Rue Louis Faussard - Neufchelles",
+    "address": "39 Rue Louis Faussard - Neufchelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue de Paris Montreuil-aux-Lions",
+    "address": "38 Avenue de Paris - Montreuil-aux-Lions",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Ussy-sur-Marne (direction Reims)",
+    "address": "2 Autoroute de l’Est - Ussy-sur-Marne",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eco Charge 77/Armentières-en-Brie/Rue des Vignettes/",
+    "address": "7B Rue des Vignettes - Armentières-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Changis-sur-Marne (direction Paris)",
+    "address": "A4 - Ussy-sur-Marne",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Congis sur therouanne",
+    "address": "43 Rue de la Poste - Congis-sur-Thérouanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

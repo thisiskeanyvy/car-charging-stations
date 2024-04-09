@@ -1,0 +1,142 @@
+[
+  {
+    "title": "NW IECharge - Rue de l'Auvent - Champniers",
+    "address": "62 Rue de l'Auvent - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Sportif des Montagnes - Champniers",
+    "address": "Rue de la Génoise - Champniers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPA - Impasse de la Volute",
+    "address": "200 Impasse de la Volute - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Géant Casino - Champniers",
+    "address": "Z.A.C. des Montagnes - Champniers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Angoulême",
+    "address": "122 Rue des Meneaux - Champniers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 122 Rue des Meneaux - Champniers",
+    "address": "122 Rue des Meneaux - Champniers",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Action - Champniers",
+    "address": "675 Rue De La Génoise - Champniers",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - Au bureau",
+    "address": "19 Les Montagnes - Champniers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - ZAC MONTAGNES 2 - Champniers",
+    "address": "ZAC - Champniers",
+    "connectors": [
+      "x6",
+      "x3",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZAC MONTAGNES 2 - Champniers (Tesla)",
+    "address": "ZAC - Champniers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

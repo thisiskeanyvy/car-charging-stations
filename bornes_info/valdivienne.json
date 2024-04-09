@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Sorégies - Rue René Cassin - Valdivienne",
+    "address": "2 Rue René Cassin - Valdivienne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Route de la Centrale Nucléaire - Civaux",
+    "address": "Route de la Centrale Nucléaire - Civaux",
+    "connectors": [
+      "x154",
+      "x154",
+      "x2",
+      "x2",
+      "x50",
+      "x50"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EDF - Centrale de Civaux / Bornes camping-car",
+    "address": "Centrale nucléaire de Civaux - Civaux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Route de la Centrale Nucléaire - Civaux",
+    "address": "Rue De La Bourbonnerie - Civaux",
+    "connectors": [
+      "x48",
+      "x48",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rue Vassalour - Chauvigny",
+    "address": "Rue Vassalour - Chauvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EDF - Centrale de Civaux / Bornes Rapides Tritium & Nissan",
+    "address": "EDF CNPE CIVAUX - CIVAUX",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Peugeot - Europcar",
+    "address": "4 Rue des Entrepreneurs - Chauvigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "EDF - Centrale de Civaux",
+    "address": "EDF Centrale de Civaux - Civaux",
+    "connectors": [
+      "x10",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine du Normandoux (Tesla and others)",
+    "address": "Normandoux - Tercé",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Complexe sportif Le Peuron - Chauvigny",
+    "address": "Rue de Peuron - Chauvigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

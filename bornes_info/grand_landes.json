@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Maison d'hôte - Legé",
+    "address": "11 Rue de la chappelle - Legé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Legé",
+    "address": "32 Rue de la Chaussée - Legé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue du Roussillon, 4 - Legé",
+    "address": "4 Rue du Roussillon - Legé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - 21 Rue Jean-Claude Grassineau - Legé DOUBLON",
+    "address": "21 Rue Jean-Claude Grassineau - Legé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Espace Villeneuve - Route de Challans - Aizenay",
+    "address": "Rue de Malpartida de Caceres - Aizenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "LIDL - Rue Jean-Claude Grassineau - Legé",
+    "address": "26 Rue Jean-Claude Grassineau - Legé",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO Station Touvois (Rue du Général Charette)",
+    "address": "10 Rue du Général Charette - Touvois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place de la Mutualité Aizenay",
+    "address": "10 Rue de L Hôtel de ville - Aizenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarché Aizenay",
+    "address": "20 Route de St Gilles Croix de Vie - Aizenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Aizenay - Bowling",
+    "address": "Bowling - Aizenay",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

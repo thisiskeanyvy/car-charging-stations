@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Leclerc - Route de Dijon - Houtaud",
+    "address": "9 Rue de la Champagne - Houtaud",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Houtaud",
+    "address": "16 Rue de la Champagne - Houtaud",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Décathlon - Doubs",
+    "address": "12 Rue André Roz - Doubs",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syded - Hyper U - Doubs",
+    "address": "1 Rue de Besançon - Doubs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bonneveaux",
+    "address": "19 Rue Gustave Eiffel - Pontarlier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pontarlier | Rue Denis Papin 6",
+    "address": "6 Rue Denis Papin - Pontarlier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pontarlier",
+    "address": "1 rue de la Fée Verte - Pontarlier",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kia - Pontarlier",
+    "address": "8 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Ibis Red Pontarlier",
+    "address": "68 Rue de Salins - Pontarlier",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile Services SAS - 12 Rue Donnet Zedel - Pontarlier",
+    "address": "12 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

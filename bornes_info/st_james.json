@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Saint James Paris (Tesla)",
+    "address": "5 Place du Chancelier Adenauer - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Place Victor Hugo - Paris",
+    "address": "82 Avenue Victor Hugo - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 137 Rue de la Pompe - Paris",
+    "address": "137 Rue de la Pompe - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 117 Avenue de Malakoff - Paris",
+    "address": "117 Avenue de Malakoff - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 81 Avenue Victor Hugo - Paris",
+    "address": "81 Avenue Victor Hugo - Paris",
+    "connectors": [
+      "x6",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 51 Avenue Raymond Poincaré - Paris",
+    "address": "51 Avenue Raymond Poincaré - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 183 Avenue Victor Hugo - Paris",
+    "address": "183 Avenue Victor Hugo - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "80 Rue de Longchamp - Mercedes Benz",
+    "address": "80 Rue de Longchamp - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 45 avenue Victor Hugo 75016 Paris",
+    "address": "45 Avenue Victor Hugo - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Belib - Avenue de la Grande Armée - Paris",
+    "address": "Avenue de la Grande Armée - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

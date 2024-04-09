@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEG16 - 2 Rue d'Epagnac - Nersac",
+    "address": "2 Rue d'Epagnac - Nersac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - La Couronne - Auchan",
+    "address": "Route de Bordeaux - La Couronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Angoulème",
+    "address": "Unnamed Road - La Couronne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue des Boisdons - Linars",
+    "address": "15 Rue des Boisdons - Linars",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Norauto - Angoulême",
+    "address": "Av. Itzehoe - La Couronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMile Solutions - AUTO SERVICE PLUS - Saint Michel",
+    "address": "2 Chemin du Grand Girac - Saint Michel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EHPAD du Haut Bois",
+    "address": "4 Avenue des Sports - Fléac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Domaine de Roullet - Roullet-Saint-Estèphe",
+    "address": "16 Route de Mouthiers - Roullet-Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Castorama - Rue de Bordeaux",
+    "address": "Rue de Bordeaux - St.-Michel",
+    "connectors": [
+      "x10",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Grande Garenne",
+    "address": "Rue Pierre Aumaitre - Angoulême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

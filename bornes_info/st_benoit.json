@@ -1,0 +1,130 @@
+[
+  {
+    "title": "AlterbaseSorégies - Place du 8 mai 1945 - Saint-Benoît",
+    "address": "3 Ruelle de l'Ancienne Église - Saint-Benoît",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Saint-Benoît | Avenue des Grottes de Passelourdain 20",
+    "address": "20 Avenue des Grottes de Passelourdain - Saint-Benoît",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 3 Cité de Passelourdain - Saint-Benoît",
+    "address": "3 Cité de Passelourdain - Saint-Benoît",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Rue du Panier Vert 6 - Saint-Benoît",
+    "address": "6 Rue du Panier Vert - Saint-Benoît",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ristorante Del Arte",
+    "address": "21 Rue du Panier Vert - Saint-Benoît",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Poitiers",
+    "address": "93 Route de Gençay - Poitiers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "HM CAPITAL - Centre d'affaire de l'ermitage",
+    "address": "55 Rue du Bois d'Amour - Saint-Benoît",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi - D162 - Poitiers (privé)",
+    "address": "D162 - Poitiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen - Poitiers",
+    "address": "8 Rue de la Paillerie - Poitiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Poitiers",
+    "address": "64 Rue de la Gibauderie - Poitiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

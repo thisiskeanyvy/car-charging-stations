@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Orléans Métropole - La Poste de Saint-Hilaire-Saint-Mesmin",
+    "address": "940 Route d'Orléans - Saint-Hilaire-Saint-Mesmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Intermarché - La Chapelle-Saint-Mesmin",
+    "address": "19 Route de Blois - La Chapelle-Saint-Mesmin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Orléans Métropole - Rue des Hauts - La Chapelle-Saint-Mesmin",
+    "address": "21 Rue des Hauts - La Chapelle-Saint-Mesmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Opel - Route d'Orléans",
+    "address": "25 Route d'Orléans - La Chapelle-Saint-Mesmin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 8 Rue de la Salle des Fêtes - Saint-Pryvé-Saint-Mesmin",
+    "address": "8 Rue de la Salle des Fêtes - Saint-Pryvé-Saint-Mesmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Restaurant First Grill - Orléans Ouest",
+    "address": "7 Rue De La Chistera - La Chapelle-Saint-Mesmin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Moulin Saint Julien (Tesla & autres)",
+    "address": "1303 Rue de la Reine Blanche - Olivet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 9 Rue d'Aquitaine - La Chapelle-Saint-Mesmin",
+    "address": "9 Rue d'Aquitaine - La Chapelle-Saint-Mesmin",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - BPM Group - 6 Rue Pierre et Marie Curie, - Ingré",
+    "address": "6 Rue Pierre et Marie Curie - Ingré",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zeborne - Burger King - Ingré",
+    "address": "5 Avenue Georges Pompidou - Ingré",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

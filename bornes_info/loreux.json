@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SIDELC Villeherviers 2927",
+    "address": "Rue de la Gare - Villeherviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "AUBERGE DU CHEVAL BLANC",
+    "address": "5 Place du Mail - Selles-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Brico Leclerc - Romorantin-Lanthenay",
+    "address": "71-73 Avenue de Paris - Romorantin-Lanthenay",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sidelc - rue Sabard Romorantin-Lanthenay",
+    "address": "7 Rue Sabard - Romorantin-Lanthenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand Hôtel du Lion d'Or - Romorantin-Lanthenay (Porsche)",
+    "address": "69 Rue Georges Clemenceau - Romorantin-Lanthenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "5–9 Place de la Paix",
+    "address": "5–9 Place de la Paix - Romorantin-Lanthenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sidelc Romorantin Place  M Leclerc",
+    "address": "Place du Marechal Leclerc - Romorantin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sidelc - Fosse aux lions",
+    "address": "Rue de la Fossé aux Lions - Romorantin-Lanthenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Romorantin",
+    "address": "164 av de Villefranche - Romorantin Lanthenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Romorantin-Lanthenay",
+    "address": "1 Honoré de Balzac - Romorantin-Lanthenay",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

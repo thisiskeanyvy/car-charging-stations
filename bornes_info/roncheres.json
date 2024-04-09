@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Total Energies - A4 Aire De Tardenois Nord (Direction Paris)",
+    "address": "0 Autoroute de l'Est - Fresnes-en-Tardenois",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Tardenois-Sud (direction Reims)",
+    "address": "A4 - Aire de Tardenois-Sud - Fresnes-en-Tardenois",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Champagne Rogge Cereser",
+    "address": "1 Impasse de Bergeries - Passy-Grigny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Jacques copin",
+    "address": "23 Rue de la Barre - Verneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Gare de Dormans - Dormans",
+    "address": "14 Rue De La Gare - Dormans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Dormans",
+    "address": "Rue Du Moulin - Dormans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - N3 Soilly",
+    "address": "Rue de la loi - Soilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "pillaud materiau",
+    "address": "1 zac saponay - Saponay",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue de Champagne - Mézy-Moulins",
+    "address": "23 Avenue de Champagne - Mézy-Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Champagne Bouquet",
+    "address": "3 rue du Coteau - chatillon sur Marne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

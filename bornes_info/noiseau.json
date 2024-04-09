@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Shell Recharge - Intermarché - Noiseau",
+    "address": "1 Rue Sadi Carnot - Noiseau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "address": "Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "9bis Avenue Wladimir d'Ormesson",
+    "address": "9bis Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 9T Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "address": "9T Avenue Wladimir d'Ormesson - Ormesson-sur-Marne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Borne Bleue - Sucy-en-Brie - Avenue de la Pléiade 42",
+    "address": "42 Avenue de la Pléiade - Sucy-en-Brie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint network - 35 Rue Gay Lussac - Chennevières-sur-Marne",
+    "address": "35 Rue Gay Lussac - Chennevières-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mazda - La Queue-en-Brie",
+    "address": "2 Rue du Général de Gaulle - La Queue-en-Brie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Sucy-en-Brie - Rue de la Cité Verte",
+    "address": "Rue de la Cité Verte - Sucy-en-Brie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pince-Vent Cultura",
+    "address": "3 Avenue de l'Hippodrome - La Queue-en-Brie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Hyundai - La Queue-en-Brie",
+    "address": "4 Rue du Général de Gaulle - La Queue-en-Brie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

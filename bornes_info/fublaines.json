@@ -1,0 +1,132 @@
+[
+  {
+    "title": "E-Totem - Meaux - SCI Victoire",
+    "address": "225 Avenue de la Victoire - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Meaux",
+    "address": "Avenue de la Victoire - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - 38 Rue du Général de Gaulle - Trilport",
+    "address": "38 Rue du Général de Gaulle - Trilport",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Meaux - 12 Rue Albert Camus",
+    "address": "12 Rue Albert Camus - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place De Beauval - Meaux",
+    "address": "Place De Beauval - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Meaux - Boulevard du Chevalier Bayard",
+    "address": "Boulevard du Chevalier Bayard - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Leclerc Nos Animaux - Meaux",
+    "address": "5 Avenue de la Victoire - Meaux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - 1 Avenue de La Gare - Trilport",
+    "address": "6 Rue d'Armentières - Trilport",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia-Express - Meaux - Norauto",
+    "address": "Rue Georges Claude - Meaux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Avenue Henri Dunant - Meaux",
+    "address": "77 Avenue Henri Dunant - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

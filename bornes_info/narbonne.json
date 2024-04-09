@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking - Gare SNCF Narbonne",
+    "address": "Boulevard Fréderic Mistral - Narbonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rent A Car - Narbonne",
+    "address": "36 Boulevard Frédéric Mistral - Narbonne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Effia - Boulevard Frédéric Mistral Narbonne",
+    "address": "3 Boulevard Frédéric Mistral - Narbonne",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RÉVÉO - Boulevard Georges Séguy - Narbonne",
+    "address": "5 Boulevard Georges Séguy - Narbonne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RÉVÉO - Rue Pierre Viala - Narbonne",
+    "address": "Rue Pierre Viala - Narbonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Île du Gua",
+    "address": "28 Rue de l'Aude - Narbonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Narbonne - 3 Cours Mirabeau",
+    "address": "3 Cours Mirabeau - Narbonne",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Quai Valliere - Narbonne",
+    "address": "Quai Vallière - Narbonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RÉVÉO - Avenue de Provence - Razimbaud",
+    "address": "24 Avenue de Provence - Narbonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syaden - Théâtre - Narbonne",
+    "address": "2 Pont de l'Avenir - Narbonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

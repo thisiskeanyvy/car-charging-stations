@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDESM - Rue du Pont - Villeneuve sur bellot",
+    "address": "2 Rue du Pont - Villeneuve-sur-Bellot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Ernest Delbet La Ferté-Gaucher",
+    "address": "2 Rue Ernest Delbet - La Ferté-Gaucher",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDESM - Place de l'Église Bellot",
+    "address": "1 Rue du Pont du Ru - Bellot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue des Deux Prés Montdauphin",
+    "address": "1 Rue Brûlée - Montdauphin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Dorgere",
+    "address": "Avenue Eustache Lenoir - Jouy-sur-Morin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDESM - Place de l'Eglise - Sablonnières",
+    "address": "9 Place de l'Église - Sablonnières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher",
+    "address": "Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher INEXISTANT",
+    "address": "Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Circuit de la Ferté Gaucher (Tesla)",
+    "address": "D204 - Saint-Mars-Vieux-Maisons",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sap Labs France (SLF) - Chemin de Choisy Aérodrome - La Ferté-Gaucher",
+    "address": "Chemin de Choisy Aérodrome - La Ferté-Gaucher",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

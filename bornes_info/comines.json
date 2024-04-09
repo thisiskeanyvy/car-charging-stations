@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Carrefour Market - Comines - Rue de la Lys",
+    "address": "Rue de la Lys, - Comines",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DMR Rubans - Rue de Quesnoy - Comines (Privé)",
+    "address": "39 Rue de Quesnoy - Comines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Place Sainte-Anne",
+    "address": "7 Place Sainte Anne - Comines-Warneton",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sagaert Plastique - rue Bonaparte - Comines",
+    "address": "1 rue Bonaparte - Comines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tolerie Martin",
+    "address": "56-58 Rue d'Armentières - Comines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tôlerie G.Martin (2ème point de charge)",
+    "address": "64 Rue d'Armentières - Comines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DATS24 - KOMEN-WAASTEN - Colruyt",
+    "address": "WERVIKSESTEENWEG 164 - KOMEN-WAASTEN",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions / TriForce - Avenue de la S.I.D.E.H.O. 10 - Comines",
+    "address": "Avenue de la S.I.D.E.H.O. 10 - Comines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Chaussée de Wervicq - Comines-Warneton",
+    "address": "345 Chaussée de Wervicq - Comines-Warneton",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Qovoltis - 76 Rue des Frères Lumière - Comines",
+    "address": "76 Rue des Frères Lumière - Comines",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

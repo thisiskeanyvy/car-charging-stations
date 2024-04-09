@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SDEHG - Castelnau-d'Estréfonds",
+    "address": "Avenue de Montauban - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Intermarché - Castelnau d'estretefonds",
+    "address": "12 Chem. de Lagarrigue - Castelnau d'estretefonds",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Eurocentre Standard - Castelnau-d'Estrétefonds",
+    "address": "1 Avenue de Saint Guillan - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Castelnau-d'Estrétefonds",
+    "address": "10 Avenue de Saint Guillan - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Castelnau d’Estretefonds - Rue de l'Ourmède",
+    "address": "1 L'Ourmède - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "mobilygreen - Castelnau-d'Estrétefonds - 1 Rue de l'Ourmède",
+    "address": "1 Rue de l'Ourmède - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Restaurant Tonton Michel - Villeneuve-lès-Bouloc",
+    "address": "5 Rue de la Canelle - Villeneuve-lès-Bouloc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "AVIA - A62 - Aire de Frontonnais (direction Toulouse)",
+    "address": "A62 - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A62 Aire de Frontonnais Sud (direction Toulouse)",
+    "address": "A62/E72, Aire de Frontonnais Sud - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A62 Aire de Frontonnais Nord (direction Montauban)",
+    "address": "A62/E72, Aire de Frontonnais Nord - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

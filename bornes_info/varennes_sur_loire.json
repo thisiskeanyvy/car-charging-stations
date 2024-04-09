@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEML - Varennes Sur Loire - Rue De La Gare",
+    "address": "Rue de la Gare - Varennes-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Basinierre",
+    "address": "48 Route de Compostelle - Candes-Saint-Martin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place de l'Église, 1 - Chouzé-sur-Loire",
+    "address": "1 Place de l'Église - Chouzé-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - ALLONNES - Parking rue Jean Gallart",
+    "address": "Parking Rue Jean Gallart - Allonnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Brain Sur Allonnes - Place Champs De Foire",
+    "address": "Place du Champ de Foire - Brain-sur-Allonnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Abbaye Royale de Fontevraud",
+    "address": "38 Rue Saint-Jean de l'Habit - Fontevraud-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - FONTEVRAUD L'ABBAYE - Place Du 8 Mai 45",
+    "address": "21 Place du 8 Mai 1945 - Fontevraud-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEIL - Place de l'église - Saint-Nicolas-de-Bourgueil",
+    "address": "2 Rue du Pressoir - Saint-Nicolas-de-Bourgueil",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine Sébastien DAVID Vigneron",
+    "address": "8 Chemin de la Gardière - Saint-Nicolas-de-Bourgueil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL- Savigny-en-Véron",
+    "address": "1 Rue du Stade - Savigny-en-Véron",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

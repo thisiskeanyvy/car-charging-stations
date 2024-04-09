@@ -1,0 +1,138 @@
+[
+  {
+    "title": "St Etienne Métropole - Place Fourneyron",
+    "address": "Place Fourneyron - Saint-Étienne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - 3 Boulevard Dalgabio - Saint-Étienne",
+    "address": "3 Boulevard Dalgabio - Saint-Étienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "St Etienne Métropole - 2 Pl. Jean Moulin - Saint-Étienne",
+    "address": "2 Pl. Jean Moulin - Saint-Étienne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IBIS STYLE ST ETIENNE - GARE CHATEAUCREUX",
+    "address": "35 Avenue Denfert Rochereau - Saint-Étienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Parking Gare Saint Etienne - Chateaucreux",
+    "address": "44 Rue Ferdinand - Saint-Étienne",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Effia - Rue Lieutenant Morin - Saint Étienne",
+    "address": "6 Rue Lieutenant Morin - Saint-Étienne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "St Etienne Métropole - 32 Rue de la Montat - Saint-Étienne",
+    "address": "32 Rue de la Montat - Saint-Étienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "St Étienne Métropole - Châteaucreux - Esplanade de France",
+    "address": "6 Esplanade de France - Saint-Étienne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "St Etienne Métropole - 38 Rue Pascal Tavernier - Saint-Étienne",
+    "address": "38 Rue Pascal Tavernier - Saint-Étienne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - 6 Rue de la Plagne - Saint-Étienne",
+    "address": "6 Rue de la Plagne - Saint-Étienne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

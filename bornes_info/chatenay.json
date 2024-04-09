@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Metropolis Recharge - 61 Rue Jean Longuet - Châtenay-Malabry",
+    "address": "61 Rue Jean Longuet - Châtenay-Malabry",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 184 Avenue Roger Salengro - Châtenay-Malabry",
+    "address": "184 Avenue Roger Salengro - Châtenay-Malabry",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Truffaut - Châtenay-Malabry",
+    "address": "72 Avenue Roger Salengro - Châtenay-Malabry",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 5 Avenue Sully Prudhomme - Châtenay-Malabry",
+    "address": "5 Avenue Sully Prudhomme - Châtenay-Malabry",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Chatenay Malabry",
+    "address": "6 rue de l'oiseau bleu - Chatenay Malabry",
+    "connectors": [
+      "x22"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Avenue de la Division LECLERC 2 92290 CHATENAY MALABRY INEXISTANT",
+    "address": "Avenue de la Division LECLERC 2 - CHATENAY MALABRY",
+    "connectors": [
+      "x16",
+      "x23"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La borne bleue - 1 Avenue de la Gare - Sceaux",
+    "address": "1 Avenue de la Gare - Sceaux",
+    "connectors": [
+      "x3",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Robinson - Sceaux",
+    "address": "2 Avenue de la Gare - Sceaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Metropolis Recharge - 280 Avenue Jean Jaurès - Châtenay-Malabry",
+    "address": "280 Avenue Jean Jaurès - Châtenay-Malabry",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Toyota Lexus - Sceaux",
+    "address": "1bis Rue Maréchal Joffre - Sceaux",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

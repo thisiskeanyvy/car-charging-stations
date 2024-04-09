@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Place du General de Gaulle - Charleval",
+    "address": "2a Place Du General De Gaulle - Charleval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rosay-sur-Lieure - Route De Lyons",
+    "address": "Route De Lyons - Rosay-sur-Lieure",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Charleval - La Corne de Cerf",
+    "address": "La Corne de Cerf - Charleval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE27 - Fleury-sur-Andelle",
+    "address": "1 Place de la République - Fleury-sur-Andelle",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Fleury-sur-Andelle",
+    "address": "route Rouen Le Val Aux Biches,\r\n - Fleury-sur-Andelle",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel la Licorne",
+    "address": "Rue du Trou Grenu - Lyons-la-Forêt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Lyons-la-Forêt",
+    "address": "1 Rue du Four À Chaux - Lyons-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Ecouis",
+    "address": "5000 Rue Nationale - Écouis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Vascœuil",
+    "address": "34 Rue De La Gare - Vascœuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Boisement / Saint Jean de Frenelles",
+    "address": "26 Route de Rouen - Corny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

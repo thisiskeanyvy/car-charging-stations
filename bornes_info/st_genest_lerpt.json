@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Rue Louis Richard - Saint-Genest-Lerpt",
+    "address": "40 Rue Louis Richard - Saint-Genest-Lerpt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiloire - Rue Jules Ferry - Saint-Genest-Lerpt",
+    "address": "2 Rue Jules Ferry - Saint-Genest-Lerpt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "St Etienne Métropole - Rue Léonard de Vinci - Saint-Genest-Lerpt",
+    "address": "Rue Léonard de Vinci - Saint-Genest-Lerpt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "VISION OUEST - Saint-Genest-Lerpt",
+    "address": "19 Rue du 8 Mai 1945 - Saint-Genest-Lerpt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Safran fuel inerting systems (Privé)",
+    "address": "10 Boulevard Sagnat - Roche-la-Molière",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiloire - Boulevard Bergson",
+    "address": "3 Boulevard Bergson - Roche-la-Molière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Rue Louis Comté - Roche La Moliere",
+    "address": "2-10 Rue Louis Comté - Roche-la-Molière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking gymnase louis bernichon",
+    "address": "Rue de l'Hôtel de Ville - Villars",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Norauto - Villars",
+    "address": "Rue de Chabanne - Villars",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "St Etienne Métropole - 69 Rue Saint-Simon - Saint-Étienne",
+    "address": "69 Rue Saint-Simon - Saint-Étienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

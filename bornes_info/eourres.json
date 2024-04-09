@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE04 - Maison de pays à Omergues",
+    "address": "D946 - Les Omergues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Le Céans - Orpierre (Tesla et autres)",
+    "address": "Route des Princes d'Orange - Orpierre",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Chemin de Flonsaine - Orpierre",
+    "address": "Chemin de Flonsaine - Orpierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Mairie de Châteauneuf-de-Chabre",
+    "address": "D942 - Châteauneuf-de-Chabre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syme05 - Place de la Fontaine - Ribiers",
+    "address": "9 Rue des Écoles - Ribiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Allée du 10 Août 1944 Séderon",
+    "address": "15 Allée du 10 Août 1944 - Séderon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Les Armands - Mison",
+    "address": "Les Armands - Mison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "HOTEL - Auberge de Lagrand (Privée)",
+    "address": "Auberge de lagrand - Lagrand",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syme05 - Parking de Veragne - Laragne-Montéglin",
+    "address": "165 Rue du Souvenir - Laragne-Montéglin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Parking de Veragne Laragne - Montéglin",
+    "address": "23 Avenue de Provence - Laragne-Montéglin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

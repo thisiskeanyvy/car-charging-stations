@@ -1,0 +1,124 @@
+[
+  {
+    "title": "OuestCharge - Route de Cadol - Melgven",
+    "address": "3 Route de Cadol  - Melgven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Melgven (Aire de covoiturage Kerampaou)",
+    "address": "Kerampaou - Melgven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Léopold Sédar Senghor - Concarneau",
+    "address": "6 Rue Léopold Sédar Senghor - Concarneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Rue de la Forge - Concarneau",
+    "address": "Rue de la Forge - Concarneau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Burger King - Concarneau",
+    "address": "Rond-Point De Colguen - Concarneau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Place Georges Beaujean - Trégunc",
+    "address": "Place Georges Beaujean - Trégunc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Trégunc",
+    "address": "1586 Rue de Concarneau - Trégunc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue Louis Pasteur - Rosporden",
+    "address": "Rue Louis Pasteur - Rosporden",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Trégunc (Place Youenn Gwernig)",
+    "address": "Rue Youenn Gwernig - Trégunc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ouest Charge - gare Rosporden",
+    "address": "3 Rue de la Gare - Rosporden",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sdeer17 - Rue Du Stade / RUE MARC GUYONNET",
+    "address": "9 Rue Du Stade - Saint-Denis-d'Oléron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Denis-d'Oléron - Rue Marc Guyonnet DOUBLON",
+    "address": "Rue Marc Guyonnet - Saint-Denis-d'Oléron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Denis-d'Oléron - 10 Boulevard D'antioche",
+    "address": "31 Avenue des Pins - Saint-Denis-d'Oléron",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Georges-d'Oléron - Chéray / parking Godeau",
+    "address": "96 Rue de Rabaine - Saint-Georges-d'Oléron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "GCU le douhet",
+    "address": "300 Rue de la Malentreprise - Saint-Georges-d'Oléron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - 270 Route de, La Boulinière, - Lieusaint",
+    "address": "270 Route de, La Boulinière, - Lieusaint",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Le Suroit",
+    "address": "1705 Rue de Ponthezière - St.-Georges-d'Oléron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Pierre-d'Oléron - Place Gambetta / office de tourisme",
+    "address": "40 Rue de la Bouline - Saint-Pierre-d'Oléron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Pierre-d'Oléron",
+    "address": "12 Rue du Sableau - Saint-Pierre-d'Oléron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Signol - Saint-Georges-d'Oléron",
+    "address": "Avenue des Albatros - Saint-Georges-d'Oléron",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

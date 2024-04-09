@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Rue de Paris - Saint-Quentin",
+    "address": "Rue de Paris - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Volvo - Saint Quentin",
+    "address": "171 Rue de la Chaussée Romaine - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Peugeot TDSA St Quentin",
+    "address": "74T Rue de la Chaussée Romaine - Saint-Quentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 75 Rue Pontoile - Saint-Quentin",
+    "address": "75 Rue Pontoile - Saint-Quentin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai - Saint-Quentin",
+    "address": "31 Rue Alexandre Dumas - Saint-Quentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Quentin",
+    "address": "12 Boulevard Victor Hugo - Saint-Quentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ristorante Del Arte - Saint-Quentin (Tesla et autres)",
+    "address": "12 Boulevard de Verdun - Saint-Quentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Borneco - Saint-Quentin - Rue Antoine Parmentier ZAC La Vallée",
+    "address": "Rue Antoine Parmentier ZAC La Vallée - Saint-Quentin",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 14 Rue Antoine Parmentier - Saint-Quentin",
+    "address": "14 Rue Antoine Parmentier - Saint-Quentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Piscine - Saint-Quentin",
+    "address": "22 Rue de Vicq - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

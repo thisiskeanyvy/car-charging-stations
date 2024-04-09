@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEHG - Rue de la Bastide - Léguevin",
+    "address": "4 Rue de la Bastide - Léguevin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - route de Toulouse - Leguevin",
+    "address": "23 route de toulouse - Léguevin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo -Place du Vidalet - Brax",
+    "address": "Place du Vidalet - Brax",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Léguevin - Biocoop",
+    "address": "6 Allée des Cordeliers - Léguevin",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Super U Leguevin (Privé)",
+    "address": "2 Avenue de Lengel - Léguevin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEHG - La Salvetat-Saint-Gilles",
+    "address": "2bis Avenue des Capitouls - La Salvetat-Saint-Gilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "11T AVENUE LEOARD DE VINCI MAXIME PLACARDS ET CUISINES 31880 LA SALVETAT ST GILLES",
+    "address": "11T AVENUE LEOARD DE VINCI MAXIME PLACARDS ET CUISINES - LA SALVETAT ST GILLES",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - N124 Aire de covoiturage (Sortie 7) - Pibrac",
+    "address": "124 Route Nationale 124 - Pibrac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour Market - Pibrac",
+    "address": "65 Av. de Toulouse, - Pibrac",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IECharge - Pujaudran - A Nougaret",
+    "address": "A Nougaret - Pujaudran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "nexteneo - Le Châtelard - Avenue Denis Therme",
+    "address": "Avenue Denis Therme - Le Châtelard",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue Denis Therme - Le Châtelard",
+    "address": "731 Avenue Denis Therme - Le Chatelard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Place des Cantalous - La Poste - Lescheraines",
+    "address": "Place des Cantalous La Poste - Lescheraines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Lescheraines",
+    "address": "place des cantalous - Lescheraines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Russey - Rue Clair Soleil",
+    "address": "Route Du Revard - Les Déserts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aire de service du Revard",
+    "address": "D913A - Pugny-Chatenod",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Saint-Pierre d'Albigny",
+    "address": "192-215 Route de la Gare - Saint-Pierre-d'Albigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A43 - Aire d'Arclusaz (direction Montmelian)",
+    "address": "Aire d'Arclusaz - Châteauneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Route De Barby - Saint-Alban-Leysse",
+    "address": "43 Route De Barby - Saint-Alban-Leysse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A43 - Val Gelon (direction Albertville)",
+    "address": "13 E70 - Chateauneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

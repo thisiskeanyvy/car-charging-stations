@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE28 - Rue les Rues Neuves, 2 - Montboissier",
+    "address": "2 Rue les Rues Neuves - Montboissier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Alluyes",
+    "address": "Avenue Chevallier Debeausse - Alluyes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Oceanide - Bonneval",
+    "address": "112 Rue de Chartres - Bonneval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Bonneval (promenade du Mail)",
+    "address": "3 Promenade du Mail - Bonneval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo-Energies - Rue de la Grève - Bonneval",
+    "address": "28 Rue de la Grève - Bonneval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour Market - Bonneval",
+    "address": "2 Rue Denis Papin, - Bonneval",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Le Gault-Saint-Denis",
+    "address": "Place de l'Église - Le Gault-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Dangeau",
+    "address": "Place du Docteur Bilbaut - Dangeau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Moresville - Rue de Brou",
+    "address": "5 Rue de Brou - Flacey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Mairie de Moléans",
+    "address": "Rue du Moulin - Moléans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

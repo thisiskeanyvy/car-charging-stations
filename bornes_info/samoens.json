@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Alexane Hotel",
+    "address": "Chemin de la Cour - Samoëns",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking du Criou - Samoëns",
+    "address": "135 Place du Criou - Samoëns",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Chalet Althea - Samoëns (Privé)",
+    "address": "80 Chemin de sur la Ville - Samoëns",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 220 Chemin des Bollus Vercland - Samoëns",
+    "address": "220 Chemin des Bollus Vercland - Samoëns",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Club Med Samoëns (Clients uniquement)",
+    "address": "D254 - Samoëns",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PRESSING DU GIFFRE",
+    "address": "336 RUE DE L'EPURE - VERCHAIX",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place de la Gare - Sixt-Fer-à-Cheval",
+    "address": "139 Rue de la Gare - Sixt-Fer-à-Cheval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire de Camping Car - Sixt-Fer-à-Cheval",
+    "address": "D907 - Sixt-Fer-à-Cheval",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Spar - Arâches-la-Frasse",
+    "address": "2301 Route de la Barliette - Arâches-la-Frasse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Flaine 2 - ARÂCHES-LA-FRASSE",
+    "address": "Flaine 2 - ARÂCHES-LA-FRASSE",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

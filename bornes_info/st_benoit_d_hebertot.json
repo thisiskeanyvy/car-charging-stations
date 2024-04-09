@@ -1,0 +1,142 @@
+[
+  {
+    "title": "MobiSDEC - Saint-Benoît-d'Hébertot",
+    "address": "1159 L'Église - Saint-Benoît-d'Hébertot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - Aire de Beuzeville Sud (Direction Paris - A13)",
+    "address": "A13 - Autoroute de Normandie - Beuzeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Beuzeville Sud (direction Paris)",
+    "address": "A13, Aire de Beuzeville Sud - Beuzeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Beuzeville Nord (direction Caen)",
+    "address": "A13, Aire de Beuzeville Nord - Beuzeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A13 Aire de Beuzeville Nord (direction Caen)",
+    "address": "A13 - Beuzeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "MobiSDEC - Parking mairie",
+    "address": "140 L'Église - Surville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Pont-l'Évêque",
+    "address": "305 D579 - Pont-l'Évêque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Pont-L’Evêque",
+    "address": "8 Rue Laplace - Pont-L’Evêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ZEborne - Rue Pierre Gamare - Pont-l'Évêque",
+    "address": "Rue Pierre Gamare - Pont-l'Évêque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue Georges Clemenceau - Pont-l'Évêque",
+    "address": "42 Rue Georges Clemenceau - Pont-l'Évêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

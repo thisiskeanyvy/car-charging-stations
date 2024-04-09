@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SIEGE27 - Salle des fêtes - Brionne",
+    "address": "1 Rue de la Soie - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Parking de la Gare - Brionne",
+    "address": "Rue du Général de Gaulle - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Brionne",
+    "address": "Rue A et J Renoir, Rue du Cimetière, - Brionne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mairie de Bosrobert",
+    "address": "9 Route de la Mairie - Bosrobert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - RD 613 - Carrefour de Malbrouck - Carsix",
+    "address": "RD 613 - Carrefour de Malbrouck - Carsix",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A28 Aire du Domaine d'Harcourt (double sens)",
+    "address": "A28 - Malleville-sur-le-Bec",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Relais Routier D613",
+    "address": "Malbrouck - Nassandres",
+    "connectors": [
+      "x19",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Rue Max Carpentier - Serquigny",
+    "address": "4 Rue Max Carpentier - Serquigny",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Saint-Anselme - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Pierre Mendès France - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Lidl - Gannat",
+    "address": "12 Avenue des Capucins - Gannat",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Musée Yves Machelon - Gannat",
+    "address": "6 Rue Hettier De Boislambert - Gannat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE03 - Place Pasteur - Gannat",
+    "address": "1 Cours de la République - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Ébreuil - D35 Garage Quantin",
+    "address": "D35, Route de Saint-Bonnet-de-Rochefort ZI Les Varennes - Ébreuil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Allée du Chemin de Fer Ébreuil",
+    "address": "10 Avenue de la Gare - Ebreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aldi - Gannat",
+    "address": "2 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mc Donald's - Gannat",
+    "address": "20 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Intermarché - Gannat",
+    "address": "18 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Total Energie - A71 - Aire des Volcans d'Auvergne (direction Paris)",
+    "address": "AIRE DES VOLCANS D AUVERGNE - SAINT AGOULIN",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - A71 Aire des Volcans d'Auvergne Ouest (direction Clermont)",
+    "address": "Aire des volcans d'auvergne - Champs",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x13"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEM50 - Gare de Coutances",
+    "address": "1 Place de la Gare - Coutances",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Rue de Saint-Malo Coutances",
+    "address": "20 Rue de Saint-Malo - Coutances",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Coutances - Parking de la Croute 2",
+    "address": "Boulevard Jeanne Paynel - Coutances",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - COUTANCES - la Paletière",
+    "address": "Le Haut de Délasse - Coutances",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Groupe Colisee_Montmartin Sur Mer_6257_Pext",
+    "address": "4 Chemin sous les Jardins - Montmartin-sur-Mer",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue Graime - Montmartin-sur-Mer",
+    "address": "Rue Graime - Montmartin-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue Suisse Normande - Coutances",
+    "address": "8 Rue Suisse Normande - Coutances",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Quettreville-sur-Sienne - Rue de la Roseraie",
+    "address": "30 Rue de la Roseraie - Quettreville-sur-Sienne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Coutances",
+    "address": "410 Avenue Division Leclerc - Coutances",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Coutances",
+    "address": "4 Rue Ernest Lelièvre - Coutances",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

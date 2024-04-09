@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Freshmile - Chambry - 10 Rue De La Ville",
+    "address": "10 Rue De La Ville - Chambry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue des Carrouges - Crégy-lès-Meaux",
+    "address": "Rue des Carrouges - Crégy-lès-Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Crégy-lès-Meaux",
+    "address": "29 Rue Georges Bizet - Crégy-lès-Meaux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Hopital - Sainte Marie",
+    "address": "10 Rue Camille Guérin - Meaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Meaux - 1 Rue Jehan de Brie",
+    "address": "1 Rue Jehan de Brie - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Meaux - 43 Rue Louis Braille",
+    "address": "43 Rue Louis Braille - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - 64 Rue St-Faron - Meaux",
+    "address": "64 Rue St-Faron - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Crégy-lès-Meaux - 26 Rue Henri Barbusse",
+    "address": "64 Rue Henri Barbusse - Crégy-lès-Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Meaux - 17 Rue des Soldats de la Marne",
+    "address": "17 Rue des Soldats de la Marne - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Varreddes",
+    "address": "- Varreddes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

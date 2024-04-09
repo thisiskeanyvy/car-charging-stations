@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Hôtel Bellevue - Saint-Martin-d'Ardèche (Tesla and others)",
+    "address": "Rue du Candèlas - Saint-Martin-d'Ardèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Avenue de l'École",
+    "address": "338 Avenue de l'École - Saint-Paulet-de-Caisson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 - Chemin Le Grand Clos",
+    "address": "125 Chemin du Grand Clos - Saint-Martin-d'Ardèche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - parking Mairie - Cornillon",
+    "address": "La Verune et Camer - Cornillon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Cornillon - 181 Négadis et l'Île",
+    "address": "181 Négadis et l'Île - Cornillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking de l'Ecole - St Michel d'Euzet",
+    "address": "Chemin de Bagnols - Saint-Michel-d'Euzet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chambre d'hôtes l'envoutée",
+    "address": "chemin de ronde - Saint Alexandre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Parking Place de l'Ecole",
+    "address": "40 Route de Bourg saint Andéol (RD86) - Saint-Just-d'Ardèche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Pont-Saint-Esprit",
+    "address": "100 Chemin de Saint-Pancrace - Pont-Saint-Esprit",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Pont-Saint-Esprit",
+    "address": "322 Beauvezet Sud - Pont-Saint-Esprit",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

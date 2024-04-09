@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Izivia - Super U - Châteauneuf-sur-Charente",
+    "address": "Route de Blanzac - Châteauneuf-sur-Charente",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEG16 - 1 Place de la Gare - Châteauneuf-sur-Charente",
+    "address": "1 Place de la Gare - Châteauneuf-sur-Charente",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEG16 - Rue de la Paix - Châteauneuf-sur-Charente",
+    "address": "Rue de la Paix - Châteauneuf-sur-Charente",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 (MobiVE) - 1 Place de la Gare - Châteauneuf-sur-Charente",
+    "address": "1 Place de la Gare - Châteauneuf-sur-Charente",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Domaine de Roullet - Roullet-Saint-Estèphe",
+    "address": "16 Route de Mouthiers - Roullet-Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEG16 - 2 Rue d'Epagnac - Nersac",
+    "address": "2 Rue d'Epagnac - Nersac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEG16 - 1 Route de la Gare - Saint-Même-les-Carrières",
+    "address": "1 Route de la Gare - Saint-Même-les-Carrières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HOTEL RESTAURANT L'ESSILLE - Bassac",
+    "address": "43 route de condé - Bassac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - La Couronne - Auchan",
+    "address": "Route de Bordeaux - La Couronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Angoulème",
+    "address": "Unnamed Road - La Couronne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

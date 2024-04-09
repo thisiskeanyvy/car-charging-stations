@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Domaine de Moresville - Rue de Brou",
+    "address": "5 Rue de Brou - Flacey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Avenue Aristide Briand - Marboué",
+    "address": "8 Avenue Aristide Briand - Marboué",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Chatillon en Dunois",
+    "address": "4 Rue de Courtalain - Châtillon-en-Dunois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Dangeau",
+    "address": "Place du Docteur Bilbaut - Dangeau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel logis de chateaudun (Tesla et autres)",
+    "address": "9 La Varenne - Donnemain-Saint-Mamès",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Bernier Chateaudun",
+    "address": "D 910 - Châteaudun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Bonneval",
+    "address": "2 Rue Denis Papin, - Bonneval",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Rue du Pont - Yèvres",
+    "address": "Rue du Pont - Yèvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Garage Buron",
+    "address": "5 Rue Emile Delavallee - Yèvres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Saint-Denis-les-Ponts",
+    "address": "Rue Jean Moulin - Saint-Denis-les-Ponts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hotel le Chalet Blanc",
+    "address": "73 Rue de Serre Thibaud - Montgenèvre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Gare routière - Montgenèvre",
+    "address": "5115A Place de l'Obélisque - Montgenèvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-Born - Parking de l'obelisque (-2) - Montgenevre",
+    "address": "Parking de l'obelisque - Montgenevre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel Anova",
+    "address": "6002 Place de l'Obélisque - Montgenèvre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route d'Italie - Montgenevre",
+    "address": "N94 - Montgenèvre",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aire des Marmottes",
+    "address": "N94 - Montgenèvre",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enel X - Via Nazionale, - Claviere",
+    "address": "32 Via Nazionale, - Claviere",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Duferco Energia - Via Torino - Claviere",
+    "address": "Via Torino - Claviere",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Val-des-Prés - 8 Route des Alberts",
+    "address": "8 Route des Alberts - Val-des-Prés",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Bike - RIFUGIO COL SAUREL",
+    "address": "Località Gimont - Gimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

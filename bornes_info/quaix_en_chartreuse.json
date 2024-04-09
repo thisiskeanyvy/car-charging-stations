@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Teledyne e2v",
+    "address": "4 Rue de Rochepleine - Saint-Égrève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Espace Rober Fiat - Avenue De La Monta",
+    "address": "11bis Avenue De La Monta - Saint-Égrève",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Saint-Egrève - Place Barnave",
+    "address": "Place Barnave - Saint-Egrève",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Saint-Egrève - Rue de Saint-Robert",
+    "address": "Rue de Saint-Robert - Saint-Egrève",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Saint-Egrève - 11 Rue du 19 Mars 1962",
+    "address": "11 Rue du 19 Mars 1962 - Saint-Egrève",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - 15 Route de Lyon - Saint-Égrève",
+    "address": "15 Route de Lyon - Saint-Égrève",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Norauto - Saint-Égrève",
+    "address": "Rue de la tremouilliere - Saint-Égrève",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intersport - Rue de la Trémouillière - Saint-Égrève",
+    "address": "1 Rue de la Trémouillière - Saint-Égrève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Saint-Egrève",
+    "address": "14 Rue Louis Besançon - Saint-Egrève",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin (parking aérien) - Saint-Egrève",
+    "address": "14 rue Louis Besançon - Saint-Egrève",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

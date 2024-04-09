@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Shell-Recharge (FR) - Place du Foirail 13 - Saint-Gaudens",
+    "address": "Place du Foirail 13 - Saint-Gaudens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "hotel du commerce - Saint-Gaudens",
+    "address": "2 Avenue de Boulogne - Saint-Gaudens",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Place de la Libération - Parking PEGOT - Saint Gaudens",
+    "address": "Place de la Libération - Saint-Gaudens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Euromaster BMY31",
+    "address": "5 EUROMASTER place maréchal juin - st gaudens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pyrenees bed and breakfast",
+    "address": "17 Rue de la Mairie - Loudet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Saint-Gaudens",
+    "address": "4 Rue Jean Suberville - Saint-Gaudens",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Avia - A64/E80 Aire du Comminges (direction Toulouse)",
+    "address": "A64/E80, Aire du Comminges Occitanie - Clarac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Bricomarché - Estancarbon",
+    "address": "Avenue du Cagire - Estancarbon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - La Poste - Valentine",
+    "address": "Avenue de la Barbacane - Valentine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - Estancarbon",
+    "address": "19 Boulevard des Landes - Estancarbon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

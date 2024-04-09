@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Sigeif - Parking de la Mairie - Jouy-en-Josas",
+    "address": "19 Avenue Jean Jaurès - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sigeif - Parking du Vieux Marché - Jouy-en-Josas",
+    "address": "8 Place du Marche - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Parking du centre sportif - Jouy-en-Josas",
+    "address": "35 Rue Saint-Roch - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sigeif - Parking Rue Juliette Drouet - Jouy-en-Josas",
+    "address": "3 Rue Juliette Drouet - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 2 Route d'Orsay - Saclay",
+    "address": "2 Route d'Orsay - Saclay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autolib HEC",
+    "address": "1 Rue de la Libération - Jouy-en-Josas",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 1",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Rue Charles De Gaulle - Jouy-en-Josas",
+    "address": "63 Rue Charles de Gaulle - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A86 Aire de Clair Bois (direction Créteil)",
+    "address": "0\r\n A86\r\n - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A86 Aire de Vélizy Ouest",
+    "address": "A86 - AIRE DE VELIZY OUEST - VELIZY VILLACOUBLAY",
+    "connectors": [
+      "x1",
+      "x8",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW - Vélizy",
+    "address": "39 Avenue Louis Breguet - Vélizy-Villacoublay",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

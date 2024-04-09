@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDESM - Place du Champivert Crouy-sur-Ourcq",
+    "address": "2 Place du Champivert - Crouy-sur-Ourcq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - 39 Rue Louis Faussard - Neufchelles",
+    "address": "39 Rue Louis Faussard - Neufchelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue des Écoles - Vendrest",
+    "address": "4 Rue des Écoles - Vendrest",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Gare de La Ferté-Milon",
+    "address": "Avenue de la Gare - La Ferté-Milon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Avenue de Paris Montreuil-aux-Lions",
+    "address": "38 Avenue de Paris - Montreuil-aux-Lions",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Place de l'Église - Neuilly-Saint-Front",
+    "address": "Place de l'Église - Neuilly-Saint-Front",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de Verdun Lizy-sur-Ourcq",
+    "address": "7 Place de Verdun - Lizy-sur-Ourcq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôpital Villiers Saint-Denis - 7.4 KW AC",
+    "address": "1 Rue Victor et Louise Montfort - Villiers-Saint-Denis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue du Pré Château, 8 - Villiers-Saint-Denis",
+    "address": "1 Rue du 8 Mai 1945 - Villiers-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Rue de l'abbaye - Jaignes",
+    "address": "18 Rue de l'Abbaye - Jaignes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

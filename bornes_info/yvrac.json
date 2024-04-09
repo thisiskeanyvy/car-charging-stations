@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Powerdot - Intermarché - Yvrac",
+    "address": "115 Tabernotes-sud - Yvrac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Atlante - Yvrac - Rue Saint-Fiacre 2",
+    "address": "Rue Saint-Fiacre 2 - Yvrac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps S.L. - Pompignac - 25 Avenue du Périgord",
+    "address": "25 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ECOPARK - Avenue du Périgord",
+    "address": "31 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Artigues-près-Bordeaux - Avenue du Peyrou",
+    "address": "Avenue du Peyrou - Artigues-près-Bordeaux",
+    "connectors": [
+      "x24",
+      "x24"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Médiathèque - Sainte-Eulalie",
+    "address": "14 Rue Georges Portmann - Sainte-Eulalie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Brico Dépôt - Artigues-près-Bordeaux",
+    "address": "3 avenue Christophe Colomb - Artigues-près-Bordeaux",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Artigues-près-Bordeaux - Hôtel Campanile",
+    "address": "Avenue du Moulinat - Artigues-près-Bordeaux",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mairie - Sainte-Eulalie",
+    "address": "12 Rue Eugène Côtelette - Sainte-Eulalie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking la foirfouille - Avenue de l'Aquitaine - Sainte-Eulalie",
+    "address": "93 Avenue de l'Aquitaine - Sainte-Eulalie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

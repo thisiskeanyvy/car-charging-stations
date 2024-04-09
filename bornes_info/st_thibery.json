@@ -1,0 +1,134 @@
+[
+  {
+    "title": "WAAT - Saint-Thibéry - 9 Avenue Troisième Millénaire",
+    "address": "9 Avenue Troisième Millénaire - Saint-Thibéry",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 9 Avenue Troisième Millénaire - Saint-Thibéry",
+    "address": "9 Avenue Troisième Millénaire - Saint-Thibéry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Thibéry (sortie 34)",
+    "address": "2 Avenue Ricardo Mazza - Saint-Thibéry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Val d'Hérault Nature",
+    "address": "La Serre - Saint-Thibéry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Mail de la Méditerranée - Bessan",
+    "address": "Mail de la Méditerranée - Bessan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Electromaps - 31 Avenue d'Agde - Nézignan-l'Évêque SUPPRIMÉ",
+    "address": "31 Avenue d'Agde - Nézignan-l'Évêque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Mixte Hérault Énergies (SDE34) - Nézignan-l'Évêque - Avenue de Pézenas",
+    "address": "Avenue de Pézenas - Nézignan-l'Évêque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - Florensac - 5 Avenue des Vendanges",
+    "address": "5 Avenue des Vendanges - Florensac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Place Edouard Barthe",
+    "address": "1905 Place Edouard Barthe - Montblanc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Chemin de la Croix de Redon - Bessan",
+    "address": "Chemin de la Croix de Redon - Bessan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

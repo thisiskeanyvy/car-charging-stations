@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ZEborne - 31 Av. de Paris - Saint-Berthevin",
+    "address": "31 Av. de Paris - Saint-Berthevin",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 49 Rue d'Athènes - Saint-Berthevin",
+    "address": "49 Rue d'Athènes - Saint-Berthevin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Laval",
+    "address": "34 avenue de Paris - St Berthevin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Saint Berthevin",
+    "address": "72 Boulevard des Loges - Saint-Berthevin",
+    "connectors": [
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking - EVLINK - Boulevard Louis Armand",
+    "address": "6622 Boulevard Louis Armand - Saint-Berthevin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Corbusson",
+    "address": "2 Rue de Corbusson - Saint-Berthevin",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Laval",
+    "address": "7 Rue André Citroën - Saint-Berthevin",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Berthevin",
+    "address": "62 Boulevard Louis Armand - Saint-Berthevin",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Berthevin",
+    "address": "5 Rue Albert Thomas - Saint-Berthevin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Laval",
+    "address": "46 Avenue du Maréchal de Lattre de Tassigny - Laval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

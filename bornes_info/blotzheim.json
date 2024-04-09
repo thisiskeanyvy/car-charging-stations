@@ -1,0 +1,128 @@
+[
+  {
+    "title": "ACC Blotzheim (Tesla et autres)",
+    "address": "1 Rue de L Aéroport - Blotzheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Blotzheim - Hôtel Mercure Bâle Mulhouse Aéroport",
+    "address": "3a Rue de l'Industrie - Blotzheim",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Restaurant track",
+    "address": "3 Rue Pierre Clostermann - Blotzheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking supérieur du Casino Barrière",
+    "address": "777 Allée du Casino - Blotzheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Louis - Hôtel F1 Aéroport Bâle",
+    "address": "Chemin du Hoellhof - Saint-Louis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hésingue Carrelage",
+    "address": "1A Rue des Champs - Hésingue",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Express France",
+    "address": "Unnamed Road - Saint-Louis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Euroairport - Saint-Louis",
+    "address": "2 Unnamed Road - Saint-Louis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izyborne - Rue du Bon Coin - Hésingue",
+    "address": "1 Rue du Bon Coin - Hésingue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Ranspach-le-Bas - 34 Rue de Bâle",
+    "address": "34 Rue de Bâle - Ranspach-le-Bas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

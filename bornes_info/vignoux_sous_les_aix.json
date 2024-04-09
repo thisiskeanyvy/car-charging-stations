@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Carrefour Market - Saint-Martin-d'Auxigny",
+    "address": "Z.A. des Petits Clais - Route de Paris, D940, - Saint-Martin-d'Auxigny",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecar18 - Saint-Martin-d'Auxigny - Place de la Mairie",
+    "address": "Place de la Mairie - Saint-Martin-d'Auxigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place du marché - Menetou-Salon",
+    "address": "14–174 Rue de la Liberté - Menetou-Salon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place de la Poste - Fussy",
+    "address": "15 Route de Paris - Fussy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Aix d'angillon",
+    "address": "15 Route de Bourges - Les Aix-d'Angillon",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 17 Route de Sancerre - Les Aix-d'Angillon",
+    "address": "17 Route de Sancerre - Les Aix-d'Angillon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Asnières - Bourges",
+    "address": "37 Place du 14 Juillet - Bourges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saveurs et douceurs de Sologne",
+    "address": "Chemin du Danjon - Saint-Éloy-de-Gy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mazda - Bourges - 22kW AC",
+    "address": "324 Avenue du Général Charles de Gaulle - Bourges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Saint Germain du Puy - Place de l'église",
+    "address": "14 Rue Joliot Curie - Saint-Germain-du-Puy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SIEIL - Place Saint-Vincent",
+    "address": "Grande Rue - Marigny-Marmande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Gîte et chambre d'hôtes, La Massonnière",
+    "address": "Lieu dit la massonnère - Mondion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place de la Mairie Luzé",
+    "address": "Place de la Mairie - Luzé",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEIL - Place Romain Rideau Ports",
+    "address": "2 Place Romain Rideau - Ports",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEIL - Jaulnay",
+    "address": "3 Place de l'Église - Jaulnay",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Antogny-le-Tillac",
+    "address": "16 Route de Richelieu - Antogny-le-Tillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EneRSIEIL - Rue Principale - Braslou",
+    "address": "20 Rue Principale - Braslou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Avenue de l'Eglise",
+    "address": "5 Avenue de l'Ancienne Église - Razines",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile Services SAS - 68 Pièce du Pré Clos - Maillé",
+    "address": "68 Pièce du Pré Clos - Maillé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A10 Aire de Chatellerault Est (direction Chatellerault)",
+    "address": "1 Chandigon - Antran",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

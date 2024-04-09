@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE35 - Rue de la Grève - Le Vivier sur Mer",
+    "address": "48 Rue de la Grève - Le Vivier-sur-Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue de la Grève - Le Vivier-sur-Mer",
+    "address": "15 Rue de la Grève - Le Vivier-sur-Mer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le Haut Pont - Mont-Dol",
+    "address": "33 Le Haut Pont - Mont-Dol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau-Richeux Roellinger (autres VE)",
+    "address": "Château Richeux - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau-Richeux Roellinger (Tesla)",
+    "address": "Château Richeux - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ferme de Launay_Busnel",
+    "address": "Ferme de Launay-Busnel - La Gouesnière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La ferme du vent (Tesla)",
+    "address": "Langavant - Saint-Méloir Des Ondes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place Jean Hamelin - Dol-de-Bretagne",
+    "address": "Place Jean Hamelin - Dol-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Dol",
+    "address": "17 Rue de l'Armée Patton - Dol-de-Bretagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 12 Rue de l'Armée Patton - Dol-de-Bretagne",
+    "address": "12 Rue de l'Armée Patton - Dol-de-Bretagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

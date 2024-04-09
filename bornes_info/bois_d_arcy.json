@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sigeif - 4 Rue Beltrame - Bois d'Arcy",
+    "address": "4 Rue Beltrame - Bois-d'Arcy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc - Avenue Jean Jaurès - Bois d'arcy",
+    "address": "11 Avenue Jean Jaurès - Bois-d'Arcy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Privé - Le Campus - Rue Jean Pierre Timbaud - Montigny-le-Bretonneux",
+    "address": "Rue Jean Pierre Timbaud - Montigny-le-Bretonneux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - 4 Avenue du Vieil Étang - Montigny-le-Bretonneux",
+    "address": "4 Avenue du Vieil Étang - Montigny-le-Bretonneux",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan Europe (réservé au personnel) - Rue Jean-Pierre Timbaud - Montigny-le-Bretonneux",
+    "address": "8 Rue Jean-Pierre Timbaud - Montigny-le-Bretonneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pizza del'Arte",
+    "address": "21 Avenue Volta - Montigny-le-Bretonneux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BMW France - Rue des Hérons (Privé)",
+    "address": "5 Rue des Hérons - Montigny-le-Bretonneux",
+    "connectors": [
+      "x20",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVmap - Courtois autmobiles - Montigny-le-Bretonneux",
+    "address": "13 Avenue Ampère - Montigny-le-Bretonneux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Avenue Arletty - Bois-d'Arcy",
+    "address": "6 Avenue Arletty - Bois-d'Arcy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Saipem - Avenue san fernando - Montigny le bretonneux",
+    "address": "1 Avenue san fernando - Montigny le bretonneux",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

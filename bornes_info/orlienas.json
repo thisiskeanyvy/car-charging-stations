@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Château Talluy - Rue du Pensionnat",
+    "address": "144 Rue du Pensionnat - Taluyers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Place de la Flette - Soucieu-en-Jarrest",
+    "address": "Place de la Flette - Soucieu-en-Jarrest",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BeCharge - Vourles - Route de Lyon",
+    "address": "Route de Lyon - Vourles",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Vourles - Route de Charly Les Sept Chemins",
+    "address": "Route de Charly Les Sept Chemins - Vourles",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Gamm Vert - Brignais",
+    "address": "38 Rue Des Ronzières - Brignais",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Place du 8 Mai 1945 - Brignais",
+    "address": "2 Pl. du 8 Mai 1945, - Brignais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Rue du Jonan - Saint Laurent d'Agny",
+    "address": "61 Rue du Jonan - Saint-Laurent-d'Agny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bâtiment OCW",
+    "address": "37 Rue Paul Bovier Lapierre - Brignais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exadys - 54 Route d'Irigny - Brignais INEXISTANT",
+    "address": "54 Route d'Irigny - Brignais",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exadys - Brignais - 54 Route d'Irigny",
+    "address": "54 Route d'Irigny - Brignais",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEY - Place du Presbytère - Venoy",
+    "address": "1 Place du Presbytère - Venoy",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Logis Le Moulin de la Coudre (Tesla et autres)",
+    "address": "2 Rue des Gravottes - Venoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire du Soleil Levant (direction Paris)",
+    "address": "328 Autoroute du Soleil - Venoy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A6 Aire de Venoy-Chablis (direction Dijon)",
+    "address": "4 Grosse Pierre - Venoy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Auxerre",
+    "address": "5 Rue Denis Papin - Auxerre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Auxerre - 5 Rue Denis Papin",
+    "address": "5 Rue Denis Papin - Auxerre",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Auxerre (Privé)",
+    "address": "2 Avenue Jean Mermoz - Auxerre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Auxerre",
+    "address": "2 Rue des Prés Coulons - Auxerre",
+    "connectors": [
+      "x1",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Kia - Mitsubishi",
+    "address": "45 Rue du Moulin du Président - Auxerre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Biocoop Germinal",
+    "address": "22 Rue de Preuilly - Auxerre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

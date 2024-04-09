@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEM 51 - Rue de la Libération - Saint Brice Courcelles",
+    "address": "Rue de la Libération - Saint Brice Courcelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nexans - Rue du 4 Août 1789",
+    "address": "Rue du 4 Août 1789 - Saint-Brice-Courcelles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - 4 août 1789 - St Brice Courcelles",
+    "address": "4 août 1789 - St Brice Courcelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dream Energy - Tinqueux - 5 Rue Louis Breguet",
+    "address": "5 Rue Louis Breguet - Tinqueux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dream Energy - Tinqueux - 5 Rue Louis Breguet",
+    "address": "5 Rue Louis Breguet - Tinqueux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Tinqueux",
+    "address": "Route de Soissons - Tinqueux",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Grand Frais - Rue Boucicaut - Tinqueux",
+    "address": "14 Rue Boucicaut - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Superchargers Tesla V3 - Novotel Reims Tinqueux",
+    "address": "31bis Route de Soissons - Tinqueux",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Rue de l'Île de France - Tinqueux",
+    "address": "rue de l'ile de France - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Novotel Reims (Tinqueux)",
+    "address": "53 Avenue Sarah Bernhardt - Tinqueux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE24 (MObiVE) - Place du Chapdal - Neuvic",
+    "address": "Place du Chapdal - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Rue des Frères Pouget Neuvic",
+    "address": "440 Rue des Frères Pouget - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Invelac",
+    "address": "31 Route du Grand Mur - Neuvic",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Caviar de Neuvic (Tesla and others)",
+    "address": "862 La Grande Veyssière - Neuvic",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D3Route De La Biscuiterie - Saint-Léon-sur-l'Isle",
+    "address": "1862 Route de la Biscuiterie - Saint-Léon-sur-l'Isle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - St Astier",
+    "address": "18 Boulevard Mal de Lattre de Tassigny - Saint-Astier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE 24 - Saint-Astier",
+    "address": "Rue Amiral Courbet - Saint-Astier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Place du 19 Mars 62 Saint astier",
+    "address": "41 Rue Alexis Maréchal - Saint-Astier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - 2 Impasse des Glaneurs - Saint-Astier",
+    "address": "2 Impasse des Glaneurs - Saint-Astier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl Saint-Astier",
+    "address": "2 Impasse des Glaneurs - Saint-Astier",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "MobiSDEC - Place de la Mairie - Bretteville-sur-Odon",
+    "address": "Place de la Mairie - Bretteville-sur-Odon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Avenue du Fresne - Bretteville-sur-Odon",
+    "address": "1 Avenue du Fresne - Bretteville-sur-Odon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V2 - Caen",
+    "address": "1 Avenue du Fresne - Bretteville-sur-Odon",
+    "connectors": [
+      "x12",
+      "x11",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - 9 Longue Vue des Astronomes - Louvigny",
+    "address": "9 Longue Vue des Astronomes - Louvigny",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue Édouard Boubat - Louvigny",
+    "address": "Rue Édouard Boubat - Louvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Avenue Enchanteur Merlin - Caen",
+    "address": "Avenue Enchanteur Merlin - Caen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Boulevard Georges Pompidou - Caen",
+    "address": "Boulevard Georges Pompidou - Caen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "E-Totem - Super U - Caen",
+    "address": "7 Rue Robert Kaskoreff - Caen",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - Boulevard Yves Guillou - Caen",
+    "address": "83 Boulevard Yves Guillou - Caen",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HOTEL ZENITH CAEN",
+    "address": "98 Boulevard Yves Guillou - Caen",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

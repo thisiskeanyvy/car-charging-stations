@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Garage Laugier - Agent Renault",
+    "address": "Boulevard Saint-Roch - La Tour-d'Aigues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 914 Route de la Bastidonne - Pertuis",
+    "address": "914 Route de la Bastidonne - Pertuis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Best western - Impasse de Nebelong",
+    "address": "Impasse de Nebelong - Pertuis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Rue Claude Haut - La Tour-d'Aigues",
+    "address": "Rue Claude Haut - La Tour-d'Aigues",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "larecharge - Pertuis - Place Granier",
+    "address": "Place Granier - Pertuis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "larecharge - Parking Vigne - PERTUIS",
+    "address": "Parking Vigne - PERTUIS",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Hyundai Pertuis",
+    "address": "97 Rue Léonard de Vinci, - Pertuis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - KIA - Pertuis",
+    "address": "203 Rue Joseph Cugnot - Pertuis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Pertuis",
+    "address": "551 avenue du 8 mai 1945 - Pertuis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CAAPIMMOPERTUIS - Route d’Aix-en-Provence",
+    "address": "472 Route d’Aix-en-Provence - Pertuis",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

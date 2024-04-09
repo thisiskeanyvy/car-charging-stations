@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sdec - Rue Des Abattoirs - Jarnages",
+    "address": "1bis Rue Des Abattoirs - Jarnages",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire de Camping Car - Cressat",
+    "address": "10 Route de la Gare - Cressat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - 21 Place du Champ de Foire - Chénérailles",
+    "address": "21 Place du Champ de Foire - Chénérailles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "AHUN - PLACE DE LIBERTE",
+    "address": "6 Route du Moutier - Ahun",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Gouzon Automobile",
+    "address": "24 LA SCIAUVE - GOUZON",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sdec - Place du Champ de Foire - Gouzon",
+    "address": "8 Place Du Champ De Foire - Gouzon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Gite Bouret Nelly",
+    "address": "9 La Vergnolle - Roches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Mairie de Sainte-Feyre",
+    "address": "3 Place de la Mairie - Sainte-Feyre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Sainte-Feyre - 1 Place de la Mairie",
+    "address": "1 Place de la Mairie - Sainte-Feyre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Sainte Feyre",
+    "address": "1 Le Verger - Sainte-Feyre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

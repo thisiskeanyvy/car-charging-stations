@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Q-Park - Saint Mandé Charles Digeon",
+    "address": "2 Place Charles Digeon - Saint-Mandé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - Hotel de Ville - Saint-Mandé",
+    "address": "10\r\n Place Charles Digeon\r\n - Saint-Mandé",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "La borne bleue - 18 Chaussée de l'Étang - Saint-Mandé",
+    "address": "18 Chaussée de l'Étang - Saint-Mandé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Gallieni (Réservé au marché - clé)",
+    "address": "Avenue Gallieni - Saint-Mandé",
+    "connectors": [
+      "x108"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Rue Jeanne d'Arc - Saint-Mandé",
+    "address": "Rue Jeanne d'Arc - Saint-Mandé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Avenue Gallieni - Saint-Mandé",
+    "address": "178–184 Avenue Gallieni - Saint-Mandé",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Avenue Gallieni",
+    "address": "182 Avenue Gallieni - Saint-Mandé",
+    "connectors": [
+      "x3",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La borne bleue - Centre culturel cresco - Saint-Mandé",
+    "address": "5 Avenue Pasteur - Saint-Mandé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 4 rue Changarnier 75012 Paris",
+    "address": "4 Rue Changarnier - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 120 Cours de Vincennes - Paris",
+    "address": "120 Cours de Vincennes - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

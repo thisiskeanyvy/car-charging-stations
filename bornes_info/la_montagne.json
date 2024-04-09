@@ -1,0 +1,126 @@
+[
+  {
+    "title": "15 Grande Rue - Ormoy-Villiers",
+    "address": "15 Grande Rue - Ormoy-Villers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eoliberty - Mairie d'Ormoy-Villers",
+    "address": "28 Grande Rue  - Ormoy-Villers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Nanteuil-le-Haudouin",
+    "address": "10 Rue de la Croix Verte - Nanteuil-le-Haudouin",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'Oise bornes Eco-Mobilites - 12 Grande Rue - Fontaine-Chaalis",
+    "address": "57 Grande Rue - Fontaine-Chaalis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Intermarché - Nanteuil-le-Haudouin",
+    "address": "2 Rue de Paris - Nanteuil-le-Haudouin",
+    "connectors": [
+      "x6",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mouv’Oise - Ruelle De L'étang - Ermenonville",
+    "address": "Ruelle De L'étang - Ermenonville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Crépy en Valois",
+    "address": "71 av Senlis - Crepy en valois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Carrefour Market - Crépy en Valois",
+    "address": "58 Avenue du Président Kennedy - Crépy-en-Valois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eoliberty - Intermarché - Crépy en Valois",
+    "address": "9669F Boulevard Victor Hugo - Crépy-en-Valois",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Commercial Leclerc - Le Plessis Belleville",
+    "address": "43 Route de Paris - Le Plessis-Belleville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

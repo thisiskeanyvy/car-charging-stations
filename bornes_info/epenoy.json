@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Leclerc - Valdahon",
+    "address": "Grande Rue - Valdahon",
+    "connectors": [
+      "x4",
+      "x6",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Valdahon",
+    "address": "Rue du Marechal de Lattre - Valdahon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Valdahon",
+    "address": "6 Rue du Gros Chêne - Valdahon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Mcdonald - Valdahon",
+    "address": "2 Route De Vernierfontaine - Valdahon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "2 Rue Denis Papin",
+    "address": "2 Rue Denis Papin - Valdahon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Rue de la Scierie - Nods",
+    "address": "8 Rue de la Scierie - Nods",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Rue des Fourches, 16 - Vercel-Villedieu-le-Camp",
+    "address": "16 Rue des Fourches - Vercel-Villedieu-le-Camp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDED - Grande Rue - Etalans",
+    "address": "43 Grande Rue - Etalans",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Délicassie - Loray",
+    "address": "4 Rue du Bas des Âges - Loray",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Rue du Four, 1 - Hautepierre-le-Châtelet",
+    "address": "1 Rue du Four - Hautepierre-le-Châtelet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

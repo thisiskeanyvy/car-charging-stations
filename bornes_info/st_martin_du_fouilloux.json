@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SIEML - St Martin Du Fouilloux - Parking Mairie",
+    "address": "Rue du Petit Anjou - Saint-Martin-du-Fouilloux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - St Leger Des Bois - Rue Des Ferrieres",
+    "address": "Rue des Ferrières - Saint-Léger-des-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Parking - Saint-Jean-de-Linières",
+    "address": "Route nationale - Saint-Jean-de-Linières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Saint-Jean-de-Linières",
+    "address": "54 Rue de la Liberté - Saint-Jean-de-Linières",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEML - St Georges Sur Loire - Place Monprofit",
+    "address": "Place Monprofit - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy/AIS_Securite",
+    "address": "8 Chemin de la Maladrie - Saint-Léger-de-Linières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Saint-Georges-sur-Loire",
+    "address": "8 Rue Bernard Crétin-Guesdon - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - St Georges",
+    "address": "63 Rue Nationale - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Saint-Georges-sur-Loire",
+    "address": "59 Rue Bernard Cretin Guesdon - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Communauté de communes - Saint-Georges-sur-Loire",
+    "address": "1 Rue Adrien Meslier - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

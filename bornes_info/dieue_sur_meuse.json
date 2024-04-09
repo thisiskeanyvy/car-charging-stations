@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Modulo-Energies - Dieue sur Meuse",
+    "address": "4 Route des Dames - Dieue-sur-Meuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Hotel des Monthairons",
+    "address": "26 Rue de Verdun - Les Monthairons",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HOTEL LE PRIVILEGE",
+    "address": "RDPT Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A4 Aire de Verdun-Saint Nicolas-Nord (direction Paris)",
+    "address": "A4 - Haudiomont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A4 Aire de Verdun-Saint Nicolas-Sud (direction Metz)",
+    "address": "A4 - Haudiomont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Boulevard de l'Europe - Haudainville",
+    "address": "Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto Verdun Houdainville",
+    "address": "Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Verdun - Cora",
+    "address": "1 Route de Metz - Verdun",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Haudainville",
+    "address": "12 Route de Metz - Verdun",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Buffalo Verdun, Avenue de Metz",
+    "address": "54 Avenue De Metz - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

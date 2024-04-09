@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FR*Y01 - Fontenay-Mauvoisin - Rue du Clos Boullet",
+    "address": "Rue du Clos Boullet - Fontenay-Mauvoisin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y01 - Perdreauville - Rue des Écoles",
+    "address": "Rue des Écoles - Perdreauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEYMABORNE - Rue Pasteur - Buchelay",
+    "address": "Rue Pasteur - Buchelay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Mare Pasloue - Magnanville",
+    "address": "Rue de la Mare Pasloue - Magnanville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Complexe Sportif - Buchelay SUPPRIMÉ POUR CAUSE DE TRAVAUX DU PARKING",
+    "address": "21 Rue Jean Louis Scialloux - Buchelay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy-Merlin - Rue du Béarn - Buchelay",
+    "address": "171 Rue du Béarn - Buchelay",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du Verdon - Mon Beau Buchelay",
+    "address": "Rue du Verdon - Buchelay",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking visiteur SAFRAN Helicopter engines",
+    "address": "Avenue du Béarn - Buchelay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - ZEborneMS -  6 Rue de Beynes - Magnanville (Privé)",
+    "address": "6 Rue de Beynes - Magnanville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Parking intercommunal - Rue du Béarn -Buchelay",
+    "address": "417 Rue du Béarn - Buchelay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

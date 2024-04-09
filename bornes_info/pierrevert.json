@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE04 - Chemin des Ferrages",
+    "address": "Chemin des Ferrages - Pierrevert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping Provence Vallée",
+    "address": "1138 Avenue de la Repasse - Manosque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Manosque",
+    "address": "Route de Marseille - Manosque",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Place du Théatre Sainte-Tulle",
+    "address": "1-79 Rue Gabriel Péri - Sainte-Tulle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ford - Avenue Frédéric Mistral - Manosque",
+    "address": "Avenue Frédéric Mistral - Manosque",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking Parc de Drouille Manosque",
+    "address": "7001 Avenue du Majoral Raoul Arnaud - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Parking Guilhempierre - Manosque",
+    "address": "Rue Leon Mure - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Manosque - Place du Dr Joubert",
+    "address": "Place du Dr Joubert - Manosque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Eco campus provence formation",
+    "address": "445 Rue Gabriel Besson - Sainte-Tulle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Manosque - SCI Spelmam",
+    "address": "Avenue De La Libération - Manosque",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

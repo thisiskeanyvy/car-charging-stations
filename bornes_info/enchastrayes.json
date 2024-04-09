@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE04 - Le Sauze - Enchastrayes",
+    "address": "Le Sauze - Enchastrayes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Avenue du Docteur Pierre Grouès",
+    "address": "7003 Avenue du Docteur Pierre Grouès - Barcelonnette",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Président Paul Reynaud - Barcelonnette",
+    "address": "2 Place Président Paul Reynaud - Barcelonnette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Place Aimé Gassier - Barcelonnette",
+    "address": "9 Place Aimé Gassier - Barcelonnette",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Godille Sport",
+    "address": "8 Les Molanes - Uvernet-Fours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Villa morellia - Jausiers",
+    "address": "Route de Barcelonette - Jausiers",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Villa Morelia (Tesla and others)",
+    "address": "9 avenue des Mexicains - Jausiers",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Place d'Arnauville Jausiers",
+    "address": "1 Place d'Arnauville - Jausiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Pra loup 1600",
+    "address": "Pra Loup - Uvernet-Fours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Godille Sport Chargeur Privé - Uvernet-Fours",
+    "address": "8 La Godille Sport - Uvernet-Fours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

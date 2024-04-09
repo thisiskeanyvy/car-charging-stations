@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Parking Mairie - Quai Whitechurch",
+    "address": "Bd du Maréchale Lerclerc - Beaulieu-sur-Mer",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Port de Beaulieu sur mer",
+    "address": "2 Quai É Whitechurch - Beaulieu-sur-Mer",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super U - Beaulieu-sur-Mer",
+    "address": "1 Rue du 8 Mai 1945 - Beaulieu-sur-Mer",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Prise de Nice Marinoni",
+    "address": "Boulevard Marinoni - Beaulieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Royal Riviera - Saint-Jean-Cap-Ferrat (Tesla and others) (PRIVATE)",
+    "address": "3 Avenue Jean Monnet - Saint-Jean-Cap-Ferrat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Belvédère de Villefranche sur Mer",
+    "address": "91 Boukevard de la Corne d'Or - Villefranche-sur-mer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Z.C. du Port (Privé)",
+    "address": "Le Port de Plaisance - Saint-Jean-Cap-Ferrat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel & spa la villa cap Ferrat",
+    "address": "49 Avenue denis semeria - Saint jean cap ferrat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Eze Hermitage",
+    "address": "1951 Avenue des Diables Bleus - Eze",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage de l'hotel",
+    "address": "3 Quai de l'Amiral Courbet - Villefranche-sur-Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

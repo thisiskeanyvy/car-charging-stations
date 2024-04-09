@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hôtel ibis",
+    "address": "1 Cité Pax - Lourdes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Belfry & Spa - Lourdes (Porsche)",
+    "address": "66 Rue de la Grotte - Lourdes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 (Révéo) - Champ commun - Lourdes",
+    "address": "Place du Champ Commun - Lourdes",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (Révéo) - Lourdes - Avenue du Maréchal Foch",
+    "address": "Avenue du Maréchal Foch SICA - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE65 - Gare - Lourdes",
+    "address": "19-21 Avenue Hélios - Lourdes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel de la Vallée Garage",
+    "address": "28 Rue des Pyrénées - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 - Mairie - Lourdes",
+    "address": "2 Rue de l'Hôtel de ville - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (Révéo) - Rue du Docteur Boissarie, 16 - Lourdes",
+    "address": "16 Rue du Docteur Boissarie - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE65 - Avenue du Paradis - Lourdes",
+    "address": "5 Avenue du Paradis - Lourdes",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grand Hôtel Gallia & Londres - Hôtel Chapelle et Parc (Tesla&other)",
+    "address": "26 Avenue Bernadette Soubirous - Lourdes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

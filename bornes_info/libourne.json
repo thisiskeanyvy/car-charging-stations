@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEEG33 - Libourne - 6 Rue de Montaudon",
+    "address": "6 Rue de Montaudon - Libourne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Cours Tourny Libourne",
+    "address": "3 Cours Tourny - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Madison Nuggets",
+    "address": "Rue Michel Montaigne - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Greenspot - Biocoop Saison Bio - Libourne",
+    "address": "39 Avenue de Verdun - Libourne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Robert Boulin Libourne",
+    "address": "25 Allée Robert Boulin - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare - Libourne",
+    "address": "Avenue Gallieni - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Arveyres",
+    "address": "21 Port Du Noyer Rotonde - Arveyres",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Libourne",
+    "address": "15 Avenue du Parc des Sports - Libourne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Électrique de Gironde (SDEEG) - Libourne - 71 Rue Jules Steeg",
+    "address": "71 Rue Jules Steeg - Libourne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BUMP-CHARGE - Arveyres - Hotel Kyriad Libourne St Émilion",
+    "address": "8 Route de Jourdan - Arveyres",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

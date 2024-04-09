@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Avenue de la république",
+    "address": "17 Rue Lazare Carnot - Brou-sur-Chantereine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hôpital privé de Marne Chantereine",
+    "address": "4 Rue Marie Curie - Brou-sur-Chantereine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Société des Garages de Chelles",
+    "address": "191 Avenue du Gendarme Castermant - Chelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 30 avenue Jean Jaures - Vaires-sur-Marne",
+    "address": "30 Avenue Jean Jaurès - Vaires-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Boulevard Constant Melet - Vaires-sur-Marne",
+    "address": "3 Boulevard Constant Melet - Vaires-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Chelles",
+    "address": "Déviation RN34 - Chelles",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - parking du gymnase - Vaires-sur-Marne",
+    "address": "98 Rue des Pêcheurs - Vaires-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Place de la République - Vaires-sur-Marne",
+    "address": "4 Place de la Republique - Vaires-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - DIAGONAL - Vaires sur marne",
+    "address": "63b Rue de Torcy - Vaires sur marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Chelles - Hôtel Campanile",
+    "address": "38 avenue Gendarme Castermant - Chelles",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Paris-Saclay mobiélectrique - Mairie de Vauhallan",
+    "address": "1 Allée des Écoles - Vauhallan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Jules Ferry - Igny",
+    "address": "35 Rue Jules Ferry - Igny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Etablissement Public d’Aménagement de Paris-Saclay - Palaiseau - Cour Vaneau École Polytechnique",
+    "address": "Cour Vaneau École Polytechnique - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDF Lab Saclay",
+    "address": "2-4 Rue Rosalind Franklin - Palaiseau",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "École polytechnique - Avenue Coriolis",
+    "address": "Avenue Coriolis - Palaiseau",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - EDF Lab Paris-Saclay (visiteurs)",
+    "address": "13 Boulevard Gaspard Monge - Palaiseau",
+    "connectors": [
+      "x52",
+      "x49",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris Saclay - Avenue de la Vauve - Palaiseau",
+    "address": "13 Avenue de la Vauve - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ecole polytechnique X - Avenue Borotra",
+    "address": "Avenue Borotra - Palaiseau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Pacilly Ouest - Palaiseau",
+    "address": "Pacilly Ouest - Palaiseau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "France Telecom - Boulevard Thomas Gobert Palaiseau",
+    "address": "27 Boulevard Thomas Gobert - Palaiseau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

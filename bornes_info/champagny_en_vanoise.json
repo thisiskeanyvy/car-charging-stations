@@ -1,0 +1,112 @@
+[
+  {
+    "title": "camping le canada",
+    "address": "94 Voie Stéphane Husson - Champagny-en-Vanoise",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Chalet fratiné",
+    "address": "Chalet fratiné Chemin de la Glière - Bozel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - 234 Rue de la Rosière - Courchevel Moriond",
+    "address": "234 Rue de la Rosière, - Courchevel Moriond",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Cimes blanche",
+    "address": "Cime blanche. 1650 - Courchevel 1650",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking le Dou du Midi",
+    "address": "507 Rue des Rois - Saint-Bon-Tarentaise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire Caravaneige La Plagne",
+    "address": "Unnamed Road - La Plagne-Tarentaise",
+    "connectors": [
+      "x37"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Parking Le Boulevard - Mâcot-la-Plagne",
+    "address": "2 D223 - Bellentre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Plagne Soleil",
+    "address": "105 Route de Plagne Soleil - La Plagne Tarentaise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CGH White Pearl Lodge Spa",
+    "address": "231 Plagne Soleil - La Plagne-Tarentaise",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belle Plagne Car Park Haut - La Plagne-Tarentaise",
+    "address": "Unnamed Road - La Plagne-Tarentaise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDESM - Rue Guy Lesould - Dammartin-en-Goële",
+    "address": "1 Rue Guy Lesould - Dammartin-en-Goële",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZE Watt - 2 Rue de maincourt - Longperrier",
+    "address": "1 Route De Longperrier - Dammartin-en-Goële",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZE Watt - Longperrier",
+    "address": "3\r\n Rue De Maincourt\r\n - Longperrier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mc Donald's Saint-Mard",
+    "address": "Rue du Moutiers - Saint-Mard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Saint-Mard - Cottage de France Saint-Mard",
+    "address": "15 Avenue des Deux Moulins - Saint-Mard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au Bureau - Saint-Mard",
+    "address": "5 Rue Pierre Coubertin - Saint-Mard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Saint Mard",
+    "address": "20 Av. de la Font du Berger - Saint Mard",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 9 Rue Pasteur - Saint-Mard",
+    "address": "9 Rue Pasteur - Saint-Mard",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tereos",
+    "address": "Chemin des vignettes - Moussy-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Lagny le Sec",
+    "address": "66 Rue du Blanc Pignon - Lagny-le-Sec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

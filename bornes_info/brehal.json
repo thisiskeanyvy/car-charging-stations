@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEM50 - Rue de la Plage - Bréhal",
+    "address": "Rue de la Plage - Bréhal",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Bréhal",
+    "address": "18-20 Rue de la Libération - Bréhal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Place Monaco - Bréhal",
+    "address": "18 Rue Des Pierres Foucard - Bréhal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "O2 Camping",
+    "address": "La Bretonnière - Longueville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Cérences",
+    "address": "2A Route de Bréhal - Cérences",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Saint-Planchers - Le Relais du Theil",
+    "address": "531 Route de Villedieu - Saint-Planchers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - Ibis Budget Grandville",
+    "address": "route de villedieu - GRANVILLE",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Leclerc - Granville",
+    "address": "165 Impasse des Sapins - Yquelon",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*SEV - Saint-Planchers - 6 Les Pas",
+    "address": "6 Les Pas - Saint-Planchers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel de la baie",
+    "address": "Rue de l'Ermitage - Donville-les-Bains",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

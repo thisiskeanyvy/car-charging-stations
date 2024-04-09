@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Auberge de l'Ill - Illhaeusern (Porsche)",
+    "address": "2 Rue de Collonges-au-Mont-d'Or - Illhaeusern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel des Berges (Tesla)",
+    "address": "4 Rue de Collonges au Mont d'Or - Illhaeusern",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Colmar 20 68750 BERGHEIM (Privé)",
+    "address": "Route de Colmar 20 - BERGHEIM",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place des Cigognes - Ostheim",
+    "address": "Place des Cigognes - Ostheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "au nid de Cigognes",
+    "address": "2 Rue de Colmar - Ostheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A35 Aire du Haut-Koenigsbourg (double sens)",
+    "address": "A35 - Orschwiller",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue des Vignerons - Bergheim",
+    "address": "72 Rue Des Vignerons - Bergheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Les Amandiers - Bergheim (Privé)",
+    "address": "8 Faubourg Saint Pierre - Bergheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Casino de Ribeauvillé - route départmaentale - (Tesla et autres)",
+    "address": "106 route departmaentale - Ribeauvillé",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Monta - Ibis Budget Sélestat",
+    "address": "Route de Colmar 103 - Sélestat",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

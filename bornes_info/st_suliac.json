@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Manoir du Rigourdain",
+    "address": "32 La Caillibotais - Plouër-sur-Rance",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue Du Val Du Moulin - Saint-Jouan-des-Guérets",
+    "address": "2 Rue Du Val Du Moulin - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Saint-Jouan-des-Guérets, Garage Lucas",
+    "address": "2 Rue De Saint-Malo - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue des Marais - Châteauneuf-d'Ille-et-Vilaine",
+    "address": "Rue des Marais - Châteauneuf-d'Ille-et-Vilaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Nissan - Saint-Malo",
+    "address": "Avenue du commerce - Saint-Jouan-des-Guérêts",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - D7 - Saint-Père-Marc-en-Poulet",
+    "address": "D74 - Saint-Père",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GiFi Cora - St Malo",
+    "address": "Le Moulin du Domaine - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Malouinière des Longchamps (Tesla)",
+    "address": "Les Longs Champs - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Saint-Jouan-des-Guérets",
+    "address": "Avenue des Français Libres - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Place Arthur Regnault - Saint-Père-Marc-en-Poulet",
+    "address": "12-14 Place Arthur Regnault - Saint-Père",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

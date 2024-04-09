@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDED - Place de la Liberté Saint-Jean-en-Royans",
+    "address": "2 Place de la Liberté - Saint-Jean-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Saint-Laurent-en-Royans - Rue du Tram",
+    "address": "Rue du Tram - Saint-Laurent-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Avenue Léon Laurent - Saint-Nazaire-en-Royans",
+    "address": "175 Le Village - Saint-Nazaire-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Just-de-Claix, Rue des Aros",
+    "address": "Rue Des Aros - Saint-Just-de-Claix",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D518 - Pont-en-Royans",
+    "address": "D518 - Pont-en-Royans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gites le Paradis",
+    "address": "14 Lotissement Paradis II - Pont-en-Royans",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A49 Aire de Royan-Vercors (direction Grenoble)",
+    "address": "Route du Trou du Loup - La Baume-d'Hostun",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A49 Aire de Porte de la Drome (direction Valence)",
+    "address": "3 Gervans - La Baume-d'Hostun",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Parking Rd21, Le Village - Saint-Hilaire-du-Rosier",
+    "address": "RD 21 - Saint-Hilaire-du-Rosier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Avenue des Gentianes La Chapelle-en-Vercors",
+    "address": "Avenue des Gentianes - La Chapelle-en-Vercors",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

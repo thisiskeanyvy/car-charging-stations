@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Domaine d'Essendiéras (bornes de recharge)",
+    "address": "Essendiéras - Saint-Médard-d'Excideuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Eglise St Pierre",
+    "address": "1 Rue du Pont Lasveyras - Lanouaille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EVBox - Route de l'Imprimerie 48 - Preyssac d'Excideuil",
+    "address": "Route de l'Imprimerie 48 - Preyssac d'Excideuil",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Base de loisirs de Rouffiac",
+    "address": "142 Le Godoney - Angoisse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Place du Docteur Achille Moulinier, 3 - Excideuil",
+    "address": "3 Place du Docteur Achille Moulinier - Excideuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 (MobiVE) - Route de Limoges - Saint-Yrieix-la-Perche",
+    "address": "99–101 Route de Limoges - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Le Bas Sinsac 0 - Nanthiat",
+    "address": "Le Bas Sinsac 0 - Nanthiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "moulin de la jarousse",
+    "address": "231 Moulin de la Jarousse - Angoisse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Place de la Poste Payzac",
+    "address": "7 Place de la Poste - Payzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Place du Château Jumilhac-le-Grand",
+    "address": "3-12 Place du Château - Jumilhac-le-Grand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

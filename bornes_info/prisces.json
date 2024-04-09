@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Indigo - 2 Avenue de la Porte de Saint-Cloud - Paris",
+    "address": "2 Avenue de la Porte de Saint-Cloud - Paris",
+    "connectors": [
+      "x67"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SAEMES - Stade Jean Bouin - Paris",
+    "address": "17 Rue Nungesser et Coli - Paris",
+    "connectors": [
+      "x12",
+      "x11",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 77 Boulevard Exelmans - Paris",
+    "address": "77 Boulevard Exelmans - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking hypermarché Carrefour Auteuil",
+    "address": "3 Avenue du Général Sarrail - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 2 rue Henri Martin - Boulogne-Billancourt",
+    "address": "2 rue Henri Martin - Boulogne-Billancourt",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Belib - Parking Porte d'Auteuil - Paris",
+    "address": "Avenue du Général Sarrail - Paris",
+    "connectors": [
+      "x5",
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions / TriForce - 37 Rue Marcel Dassault - Boulogne-Billancourt INEXISTANT",
+    "address": "37 Rue Marcel Dassault - Boulogne-Billancourt",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAEMES PARIS Carrefour Auteuil - Av. du Général Sarrail - Paris 16",
+    "address": "1-3 Avenue du Général Sarrail - Paris",
+    "connectors": [
+      "x241",
+      "x239",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 15 boulevard Murat - Paris 16",
+    "address": "15 Boulevard Murat - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Belib - 4 avenue Marcel Doret 75016 Paris",
+    "address": "4–6 Avenue Marcel Doret - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  }
+]

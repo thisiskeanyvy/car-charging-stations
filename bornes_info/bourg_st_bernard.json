@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Bourg-Saint-Bernard, Lieu dit le Pestre, Fournié Grospaud Réseau",
+    "address": "7 Route du Château d'Eau - Bourg-Saint-Bernard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Place Quinquiri - Lanta",
+    "address": "Place Quinquiri - Lanta",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Saint-Pierre-de-Lages",
+    "address": "Route de Toulouse - Lanta",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 1 Rte de Toulouse - Verfeil INEXISTANT",
+    "address": "1 Rte de Toulouse - Verfeil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Poste - Verfeil",
+    "address": "1 Place François Mitterrand - Verfeil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 13 Rue Pierre et Marie Curie - Verfeil",
+    "address": "13 Rue Pierre et Marie Curie - Verfeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Caraman, Cimetière",
+    "address": "28 Avenue de Toulouse - Caraman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Rue Georges Guynemer - Drémil-Lafage",
+    "address": "Rue Georges Guynemer - Drémil-Lafage",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEHG - Tarabel, Ecole",
+    "address": "33-65 À Sudre - Tarabel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie - Sainte-Foy-d'Aigrefeuille",
+    "address": "Place de la Mairie - Sainte-Foy-d'Aigrefeuille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

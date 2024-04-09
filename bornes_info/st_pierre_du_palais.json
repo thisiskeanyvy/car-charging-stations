@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Le Kiosque a pizza",
+    "address": "Route de Clairvent - Montguyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ets Gautier",
+    "address": "2 Rue de l'Abattoir - Montguyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de Clérac (Tesla et autres)",
+    "address": "11 Route des Châteaux - Clérac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile Services SAS - Rue du Jeu de Quille - Clérac",
+    "address": "Rue du Jeu de Quille - Clérac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat départemental de la Charente-Maritime - Montguyon - Place du Champ de Foire",
+    "address": "Place du Champ de Foire - Montguyon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "NW IECharge - Lieu-dit \"La Motte\" - Orignolles",
+    "address": "Lieu-dit \"La Motte\" - Orignolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - St-Aigulin - Rue Gambetta",
+    "address": "15B Rue Gambetta - Saint-Aigulin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue Lucien Lacour, 44 - Les Peintures",
+    "address": "44 Rue Lucien Lacour - Les Peintures",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Montlieu-la-Garde - Maison de la Forêt / RN10",
+    "address": "D730 - Montlieu-la-Garde",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ivantout",
+    "address": "1-25 Les Grands Champs - Les Peintures",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

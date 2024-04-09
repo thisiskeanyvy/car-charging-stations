@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Renault - Hirson",
+    "address": "138 Avenue du Maréchal Joffre - Hirson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue du Maréchal Joffre, 5 - Hirson",
+    "address": "5 Avenue du Maréchal Joffre - Hirson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Boulevard Magenta Buire",
+    "address": "- Buire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Buire",
+    "address": "1 Rue de Paris - Buire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hirson, Gare",
+    "address": "Avenue François Mitterrand - Hirson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - 34 Rue du Général de Gaulle - La Capelle",
+    "address": "1 Rue Sainte-Geneviève - La Capelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan - Hirson",
+    "address": "87 Rue de la Verrerie - Hirson",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de Volkswagen - Hirson (Privé)",
+    "address": "Les Molignaux - Hirson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Hirson",
+    "address": "162 Avenue des Champs Elysées - Hirson",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Driveco pour PSA - 1 Parc de L'Épinette - Hirson",
+    "address": "1 Parc de L'Épinette - Hirson",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDED52 - 74 Rue du Faubourg de France - Bourmont-entre-Meuse-et-Mouzon",
+    "address": "74 Rue du Faubourg de France - Bourmont-entre-Meuse-et-Mouzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Vival - Rue du Rhulemoine - Bulgnéville",
+    "address": "148 Rue du Rhulemoine - Bulgnéville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Camping porte des Vosges - Bulgnéville",
+    "address": "D14 - Bulgnéville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo - Gare de Martigny-les-Bains",
+    "address": "18 Avenue De La Gare - Martigny-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ZA de la Chaille - Contrexéville",
+    "address": "Rue François de Neufchâteau - Contrexéville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi - Rue du Capitaine Albert Littolff",
+    "address": "42d Rue du Capitaine Albert Littolff - Contrexéville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place d'Armes - Liffol-le-Grand",
+    "address": "12 Place d'Armes - Liffol-le-Grand",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aire camping car - Rebeuville",
+    "address": "Rue du Cougnot - Rebeuville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea- A31 Aire de Sandaucourt La Trelle",
+    "address": "A31, Aire de Sandaucourt La Trelle - Sandaucourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5",
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Agip | Aire de Lorraine Sandaucourt la Trelle",
+    "address": "A31 - Sandaucourt",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

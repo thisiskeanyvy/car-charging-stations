@@ -1,0 +1,128 @@
+[
+  {
+    "title": "larecharge - Avenue Hippolyte Peut - Port-Saint-Louis-du-Rhône",
+    "address": "Avenue Hippolyte Peut - Port-Saint-Louis-du-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Port-Saint-Louis-du-Rhône",
+    "address": "2 Avenue de la République - Port-Saint-Louis-du-Rhône",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CNR - Avenue Anatole France Port-Saint-Louis-du-Rhône",
+    "address": "2 Avenue Anatole France - Port-Saint-Louis-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Netto - Avenue Maurice Thorez - Port-Saint-Louis-du-Rhône",
+    "address": "47 Avenue Maurice Thorez - Port-Saint-Louis-du-Rhône",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 107 Avenue du Port - Port-Saint-Louis-du-Rhône",
+    "address": "107 Avenue du Port - Port-Saint-Louis-du-Rhône",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "port Napoléon",
+    "address": "Route du Carteau - Port-Saint-Louis-du-Rhône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Port de Fos sur mer (Privé)",
+    "address": "Chemin du Douanier - Fos-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Avenue du Sable d'Or - Fos-sur-Mer",
+    "address": "230 Avenue du Sable d'Or - Fos-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "McDonald's - Route des Plages - Fos-sur-Mer",
+    "address": "50 Avenue Jean Jaurès - Fos-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "larecharge - Mairie de Fos-sur-Mer",
+    "address": "40 Allée Henri Barbusse - Fos-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

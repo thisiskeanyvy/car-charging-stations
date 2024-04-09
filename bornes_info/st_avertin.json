@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEIL - Place de la Marne Saint-Avertin",
+    "address": "2 Place de la Marne - Saint-Avertin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Saint-Avertin",
+    "address": "Avenue des Fontaines - Saint-Avertin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Seat Cupra",
+    "address": "Av Georges Pompidoux - St avertin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ikea - Tours (parking PMR)",
+    "address": "Rue Désiré Lecomte - Tours",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ikea - Tours",
+    "address": "rue désiré lecomte - Tours",
+    "connectors": [
+      "x25",
+      "x25"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Saint-Pierre-des-Corps",
+    "address": "Avenue Jacques Duclos - Saint-Pierre-des-Corps",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Société SERVICOLIS - PRIVÉ",
+    "address": "30 Rue des Grands Mortiers - Saint-Pierre-des-Corps",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché Langres",
+    "address": "Centre commercial les franchisés - Langres",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Place de la Gare - St Pierre des Corps",
+    "address": "Place de la Gare - St Pierre des Corps",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "mobilygreen - 34 Rue Fabienne Landy - Saint-Pierre-des-Corps",
+    "address": "34 Rue Fabienne Landy - Saint-Pierre-des-Corps",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

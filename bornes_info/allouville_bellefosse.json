@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE76 - Route de Lillebonne, 1 - Allouville-Bellefosse",
+    "address": "1 Route de Lillebonne - Allouville-Bellefosse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sde 76 Alvimare",
+    "address": "Rue des Tilleuls - Alvimare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage patry",
+    "address": "Roncholles - Saint-Aubin-de-Crétot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - D926 Aire de covoiturage de Bermonville - St.-Pierre-Lavis",
+    "address": "1 La Cayenne - St.-Pierre-Lavis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Desjardins",
+    "address": "84 Route de Fauville - Trouville alliquerville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Route de l'Église Trouville- Alliquerville",
+    "address": "138 Route de l'Église - Trouville Alliquerville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - 5 Rue Saint Pierre - Yvetot (Privée)",
+    "address": "5 Rue Saint Pierre - Yvetot",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Gare Yvetot",
+    "address": "43 Rue de la Gare - Yvetot",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Yvetot",
+    "address": "26 Rue Réfigny - Yvetot",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hautot et fils",
+    "address": "1-3 Rue Gautier d'Yvetot - Yvetot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

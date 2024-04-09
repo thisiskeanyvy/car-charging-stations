@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE24 (MObiVE) - D706 - Montignac",
+    "address": "D706 - Montignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Les Rives - Montignac",
+    "address": "Les Rives - Montignac",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Le Moulin du Bleufond",
+    "address": "Avenue Aristide Briand - Montignac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "188–401 Avenue Aristide Briand",
+    "address": "188–401 Avenue Aristide Briand - Montignac",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel restaurant de Bouilhac - Montignac (Privé)",
+    "address": "1006 Avenue Professeur Faurel - Montignac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel restaurant Archambeau - Thonac",
+    "address": "2 Rue de la Mairie - Thonac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Parking P2 - Rue du Barry Montignac",
+    "address": "46 Rue du Barry - Montignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 - Parking Camping Car - Saint-Léon-sur-Vézère",
+    "address": "D66 - Saint-Léon-sur-Vézère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Camping Le Paradis *****",
+    "address": "5667 Route de la Vallée - St. Léon sur Vézère",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Salle des fêtes - Peyzac-le-Moustier",
+    "address": "D6 - Peyzac-le-Moustier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

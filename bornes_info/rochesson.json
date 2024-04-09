@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Camping du Mettey",
+    "address": "Chemin du Camping - Vagney",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge - Place de la Libération - Vagney",
+    "address": "9 Place de la Libération - Vagney",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Route de Remiremont - Vagney",
+    "address": "15 Route de Remiremont - Vagney",
+    "connectors": [
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chemin du Tour du Lac - Gérardmer",
+    "address": "138 Chemin Du Tour Du Lac - Gérardmer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hostellerie des Bas-Rupts",
+    "address": "181 Route de la Bresse - Gérardmer",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Piscine - La Bresse",
+    "address": "2 Rue des Proyes - La Bresse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel La demeure des 2 tresors",
+    "address": "2 Rue de la Résistance - La Bresse",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Quai du Locle - Gérardmer",
+    "address": "42 Quai du Locle - Gérardmer",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Route du Petit Paradis - Le Tholy",
+    "address": "2 route du Petit Paradis - Le Tholy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Régie Municipale d'Electricité - La Bresse",
+    "address": "18 Rue du Hohneck - La Bresse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

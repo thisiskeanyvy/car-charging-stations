@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE76 - Fresquiennes",
+    "address": "Route du Houlme - Fresquiennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vp Auto",
+    "address": "445 Route de Dieppe - Anceaumeville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Mairie de Pavilly",
+    "address": "17 Rue du Général de Gaulle - Pavilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Place du Président d'Esneval, 4 - Pavilly",
+    "address": "4 Place du Président d'Esneval - Pavilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rossini Energy - Pissy-Pôville - Route de Malzaize",
+    "address": "Route de Malzaize - Pissy-Pôville",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Barentin",
+    "address": "Centre Commercial du Mesnil Roux - Barentin",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - 32 Avenue Victor Hugo - Barentin",
+    "address": "32 Avenue Victor Hugo - Barentin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Parking des Arrières Cours - Barentin",
+    "address": "1 Rue Jean Jaurès - Barentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Norauto - Barentin",
+    "address": "Boulevard de Normandie Centre Commercial Mesnil Roux - Barentin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Pissy-Pôville",
+    "address": "1 Rue de l’École - Pissy-Poville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

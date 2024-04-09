@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIED70 - Rue des Halles Montbozon",
+    "address": "1 Rue des Halles - Montbozon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED 70 - Parking de l'atelier municipal - Echenoz-la-Meline",
+    "address": "10 Rue de la Flandrière - Échenoz-la-Méline",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LA FORGE DE BONNAL - 22KW AC INEXISTANT",
+    "address": "Forge de Bonnal - Chassey-lès-Montbozon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LPA - Vesoul (Curie) - 7.4kW AC",
+    "address": "80 Rue Pierre et Marie Curie - Vesoul",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Mairie - Frotey-lès-Vesoul",
+    "address": "24 Rue Auguste Guyard - Frotey-lès-Vesoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Peugeot - Vesoul",
+    "address": "32 avenue des Freres Doillon - VESOUL",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED 70 - Place Pierre Renet, 22 - Vesoul",
+    "address": "22 Place Pierre Renet - Vesoul",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIED70 - Gare de Vesoul",
+    "address": "9001F Avenue de la Gare - Vesoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Vesoul",
+    "address": "4 Boulevard Kennedy - Vesoul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking République - Vesoul",
+    "address": "10 Rue Meillier - Vesoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

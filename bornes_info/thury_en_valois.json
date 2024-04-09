@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - 3 Rue de la Libération - Betz",
+    "address": "3 Rue de la Libération - Betz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mouv’Oise - 39 Rue Louis Faussard - Neufchelles",
+    "address": "39 Rue Louis Faussard - Neufchelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Gare de La Ferté-Milon",
+    "address": "Avenue de la Gare - La Ferté-Milon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Place du Champivert Crouy-sur-Ourcq",
+    "address": "2 Place du Champivert - Crouy-sur-Ourcq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place du 8 Mai - Villers-Cotterêts",
+    "address": "Place du 8 Mai - Villers-Cotterêts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Le Comptoir du malt",
+    "address": "46 Rue Gustave Eiffel - Crépy-en-Valois",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale - Crépy-en-Valois",
+    "address": "Rue Henri Laroche - Crépy-en-Valois",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Hôtel Kyriad - Crépy-en-Valois",
+    "address": "56 Rue Henri Laroche - Crépy-en-Valois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Netto - Crépy-en-Valois",
+    "address": "Rue Henry Laroche - Crépy-en-Valois",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Villers Cotterets",
+    "address": "Avenue de la Ferté Milon - Villers Cotterets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

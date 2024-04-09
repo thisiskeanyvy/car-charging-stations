@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Lidl - Rue Henri Durre - Saint-Amand-les-Eaux",
+    "address": "82 Rue Henri Durre - Saint-Amand-les-Eaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SGA Automation - Hasnon",
+    "address": "Les Glodennes - Hasnon",
+    "connectors": [
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Leclerc Auto - Rocade du Nord - Saint-Amand-les-Eaux",
+    "address": "6 Rocade du Nord - Saint-Amand-les-Eaux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sure Hotel - Saint-Amand-les-Eaux",
+    "address": "1933 Rue Mt des Bruyeres-Cc - Saint-Amand-les-Eaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Wibault-Bouchart - Brunehaut",
+    "address": "14 Rue Wibault-Bouchart - Brunehaut",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre sportif BruneHall",
+    "address": "4 Rue des Dèportès - Brunehaut",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "parking gare d'Orchies",
+    "address": "1B Place André Thomas - Orchies",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEwatt - E.Leclerc - Orchies",
+    "address": "Rue Claude Jean - Orchies",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "PassPass - Église de Marchiennes",
+    "address": "7 Place Charles de Gaulle - Marchiennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Stations-e - Nomain - Grand'place",
+    "address": "Grand'place - Nomain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Ecar18 - Route de Chevaise - Vailly-sur-Sauldre",
+    "address": "18 Route de Chevaise - Vailly-sur-Sauldre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place de la Mairie - Blancafort",
+    "address": "Place de la Mairie - Blancafort",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Chambault SARL - 22Kwh",
+    "address": "11 Rue de Santranges - Beaulieu-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SARL Garage Chambault - 22KWh",
+    "address": "64 Route d'Ousson - Briare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Socio-Culturel - Rue des Prés Gris - Briare",
+    "address": "14 Rue des Prés Gris - Briare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SUPER U - Bonny sur Loire",
+    "address": "Route des Vignobles du Cœur de France - Bonny-sur-Loire",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6543575",
+    "address": "14 Rue de la Champagne - Bonny-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "place de la mairie - Route de Chevaise - Assigny",
+    "address": "18 Route de Chevaise - Assigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Briare - Lidl",
+    "address": "1 Rue Du Moulin À Vent - Briare",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Car2Plug - Villa Hôtel - Poilly-lez-Gien",
+    "address": "3\r\n Rue des Grives\r\n - Poilly-lez-Gien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

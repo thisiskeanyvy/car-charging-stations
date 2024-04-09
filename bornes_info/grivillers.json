@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Rue Grande Rue - Etelfay",
+    "address": "15 Rue Grande Rue - Ételfay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Roye - Intermarché",
+    "address": "2 impasse du Moulin - Roye",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zeborne (ZPE) - Roye - 1 Boulevard des Glycines",
+    "address": "1 Boulevard des Glycines - Roye",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue des Communes - Roye",
+    "address": "1 Rue des Communes - Roye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aire de Camping Car - Roye",
+    "address": "8 Boulevard de l'Est - Roye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Roye - 2 rue du Docteur Alexandre Rémond",
+    "address": "2 Rue du Docteur Alexandre Rémond - Roye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking chaussea Montdidier",
+    "address": "6 Rue lucie Aubrac - Montdidier",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc Drive - Freshmile - Avenue du 8 Mai 1945 - Montdidier",
+    "address": "Avenue du 8 Mai 1945 - Montdidier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Montdidier",
+    "address": "Bouloire Des Prêtres - Montdidier",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Place de l'Église - Arvillers",
+    "address": "14 Place de l'Église - Arvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

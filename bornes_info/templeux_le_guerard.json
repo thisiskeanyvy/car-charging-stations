@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FDE80 - Rue Saint-Quentin - Villers-Faucon",
+    "address": "Rue Saint-Quentin - Villers-Faucon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Hôtel de Ville de Roisel",
+    "address": "8 Place du Général Leclerc - Roisel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Place de L Hôtel de ville, 1 - Vermand",
+    "address": "1 Place de L Hôtel de ville - Vermand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "FDE80 - Rue du moulin - Fins",
+    "address": "11 Rue du Pavé - Fins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Novafeed - Zone d'activite de gouzaucourt derriere gestam",
+    "address": "Zone d'activite de gouzaucourt derriere gestam - Gouzaucourt",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BE*WTF - Melle - 344C Brusselsesteenweg",
+    "address": "344C Brusselsesteenweg - Melle",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place Charles de Gaulle - Beaurevoir",
+    "address": "28 Place Charles de Gaulle - Beaurevoir",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass Electrique - Villers-Outréaux",
+    "address": "12 Place du Général de Gaulle - Villers-Outréaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricoman - Fayet",
+    "address": "Les marlettes Les marlettes - Fayet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue des Marlettes - Fayet",
+    "address": "106 Rue des Marlettes - Fayet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

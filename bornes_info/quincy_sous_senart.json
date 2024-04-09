@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Gare SNCF - Rue des bergeries - Combs La Ville",
+    "address": "Rue des bergeries - Combs La Ville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Gare SNCF de Combs-la-Ville",
+    "address": "Avenue de la Gare - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-e - Rue Marcel Pagnol - Boussy-Saint-Antoine",
+    "address": "3 Rue Marcel Pagnol - Boussy-Saint-Antoine",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Place Hottinguer - Combs La Ville",
+    "address": "Place Hottinguer - Combs La Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Combs-la-Ville - 2B Avenue de Quincy",
+    "address": "2B Avenue de Quincy - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - rue du Clos Auchin - Boussy-Saint-Antoine",
+    "address": "3 rue du Clos Auchin - Boussy-Saint-Antoine",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Renault - Quincy sous Sénart",
+    "address": "61 Rue de Brunoy - Quincy-sous-Sénart",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Rue Marcel Pagnol - Boussy-Saint-Antoine",
+    "address": "Rue Marcel Pagnol - Boussy-Saint-Antoine",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "LastMileSolutions - Quincy-sous-Sénart - Hôpital Claude Galllien (parking arrière)",
+    "address": "20 Route de Boussy-Saint-Antoine - Quincy-sous-Sénart",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - CC Val d'Yerres 2 - Boussy-Saint-Antoine",
+    "address": "Centre commercial Val d'Yerres, 2 - Boussy-Saint-Antoine",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

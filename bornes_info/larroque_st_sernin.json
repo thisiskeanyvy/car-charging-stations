@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE32 - Place du 8 Juillet 1977 - Castéra-Verduzan",
+    "address": "1 Place du 8 Juillet 1977 - Castéra-Verduzan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE32 - à proximité de la Pharmacie - Jégun",
+    "address": "Place de la Bascule - Jegun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire de Camping Car - Valence-sur-Baïse",
+    "address": "Rue de Bel air - Valence-sur-Baïse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Boulevard du Nord - Valence-sur-Baïse",
+    "address": "Boulevard du Nord - Valence-sur-Baïse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps - Sainte-Christie - 28 Chemin de Mouchac",
+    "address": "28 Chemin de Mouchac - Sainte-Christie",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE-WATT - Marambat - Intermarché",
+    "address": "1007 Route de Vic - Marambat",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - D148 Camping du Talouch - Roquelaure",
+    "address": "D148 Camping du Talouch - Roquelaure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Place Mahomme - Vic-Fezensac",
+    "address": "3 Place Mahomme - Vic-Fezensac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Condom",
+    "address": "39 Avenue des Pyrénées - Condom",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Condom",
+    "address": "Allée des mousquetaires - Condom",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

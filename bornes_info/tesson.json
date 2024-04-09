@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Izivia | FR*OTH - Vire-Normandie - Rue de l'Allière",
+    "address": "Rue de l'Allière - Vire-Normandie",
+    "connectors": [
+      "x8",
+      "x8",
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Carrefour Énergies - Vire",
+    "address": "46 La Douitée-Vire - Vire-Normandie",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Vire BodemerAuto",
+    "address": "ZI La Papillonnière - Vire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Vaudry",
+    "address": "6 Résidence de la Mairie - Vaudry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Vire",
+    "address": "Zone Artisanale Les Neuvillières - Vire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue De Caen - Vire",
+    "address": "51 Rue De Caen - Vire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Le Pré du Cimetière - Roullours",
+    "address": "Le Pré du Cimetière - Roullours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Vire Normandie - Rue de Caen",
+    "address": "47 Rue de Caen - Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Vire (Parking Stade Pierre Compte)",
+    "address": "Rue des Peupliers - Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sevdec - McDonald's - Vire normandie",
+    "address": "Avenue de la gare - Vire normandie",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

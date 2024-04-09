@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Pass Pass - Aldi - Wimereux",
+    "address": "2 Rue du Château - Wimereux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "hôtel Villa des 2 caps",
+    "address": "1bis Rue du Capitaine Ferber - Wimereux",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Gare - Wimille",
+    "address": "Rue de la gare - Wimille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel atlantic 3 Rue Notre-Dame",
+    "address": "3 Rue Notre-Dame - Wimereux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Avenue de la Mer - Wimereux",
+    "address": "9 Avenue de la Mer - Wimereux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eoliberty - Rinxent - Carrefour Contact",
+    "address": "138 Rue Roger Salengro - Rinxent",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Marquise",
+    "address": "D191 - Marquise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Boulogne",
+    "address": "Route de Rupembert - Saint-Martin-Boulogne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Superchargeur Tesla V3 - Boulogne sur Mer",
+    "address": "Auchan Boulogne sur Mer - Saint-Martin-Boulogne",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "R3 - Norauto - Saint-Martin-Boulogne",
+    "address": "Route de Rupembert - Saint-Martin-Boulogne",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

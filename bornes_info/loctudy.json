@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Loctudy (Place des Anciens Combattants)",
+    "address": "Place des Anciens Combattants - Loctudy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Ile Tudy (Rue des Goémoniers)",
+    "address": "6 Rue des Goëmoniers - Île-Tudy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Plobannalec-Lesconil (Rue de la Mairie)",
+    "address": "Rue de Pont l'Abbé - Plobannalec-Lesconil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pont L'abbé (Rue Pierre Volant)",
+    "address": "Rue du Docteur Guias - Pont-l'Abbé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de la République- Pont l'Abbé",
+    "address": "16 Place de la République - Pont-l'Abbé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargeGuru - Plobannalec-Lesconil - Camping la Grand Plage",
+    "address": "71 Rue Paul Langevin - Plobannalec-Lesconil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pont l'Abbé (Rue de la Gare)",
+    "address": "17 Rue de la Gare - Pont-l'Abbé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Leclerc - Pont-l'Abbé",
+    "address": "2 Rte de Saint-Jean-Trolimon - Pont-l'Abbé",
+    "connectors": [
+      "x12",
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Biocoop Graine de Bio Combrit",
+    "address": "Route de l'Île-Tudy - Combrit",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ouest-charge - Rond-Point Kermaria",
+    "address": "Route de Quimper - Pont-l'Abbé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

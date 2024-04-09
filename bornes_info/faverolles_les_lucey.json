@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Chateau de Courban & Spa Nuxe**** (Tesla et autres)",
+    "address": "7 Rue du Lavoir - Courban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED52 - Rue de la Poste - Auberive",
+    "address": "1 Rue de la Poste - Auberive",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rue Instituteur André - Arc en Barrois",
+    "address": "12 Rue Instituteur André - Arc-en-Barrois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat d'Energie et des Déchets de Haute Marne (SDED52) - Route d'Aubepierre - Arc-en-Barrois",
+    "address": "Route d'Aubepierre - Arc-en-Barrois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GARAGE CARROSSERIE DU BARROIS",
+    "address": "4 Rue de la Clé des Champs - Bugnières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Châtillon-sur-Seine",
+    "address": "1T Avenue de la Gare - Châtillon-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Star - Châtillon-sur-Seine",
+    "address": "14 Avenue Edouard Herriot - Châtillon-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Marmont - Châtillon-sur-Seine",
+    "address": "10–12 Rue Marmont - Châtillon-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking intermarche - Châteauvillain",
+    "address": "6 Rue des Pavillons - Châteauvillain",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Volkswagen - Z.I. Route de Troyes - Châtillon-sur-Seine",
+    "address": "9005A Avenue Noël Navoizat - Châtillon-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

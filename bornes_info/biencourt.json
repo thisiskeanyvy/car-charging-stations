@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Vannerie du Boisle",
+    "address": "53 Route nationale - Le Boisle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lodmi - Le Boisle - 52 Route Nationale",
+    "address": "52 Route Nationale - Le Boisle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/Camping_Val_Authie",
+    "address": "4 Route de Berck - Tollent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Pace du 8 Mai Crécy-en-Ponthieu",
+    "address": "Place du 8 Mai 1945 - Crécy-en-Ponthieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Jardin de valloires Abbey of Valloires",
+    "address": "Jardin de valloires - Argoules",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Action - Hesdin",
+    "address": "x ZA Champs Sainte-Marie 62140, Sainte-Austrebe - Sainte-Austreberthe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "STATIONS-E - Rue du Champ Sainte-Marie - Marconne",
+    "address": "32 Rue du Champ Sainte-Marie - Marconne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "McDonald's Sainte Austreberthe",
+    "address": "D 928 - Sainte-Austreberthe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Sainte-Austreberthe",
+    "address": "D136 ZA Champs Sainte Marie - Sainte-Austreberthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Basic-fit - Marconne",
+    "address": "92 Rue du Champ Ste Marie, 62140 Marconne, Fr - Marconne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

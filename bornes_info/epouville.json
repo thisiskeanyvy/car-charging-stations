@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Ubitricity - Gare d'Epouville",
+    "address": "Rue du Chemin de Fer - Épouville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ubitricity - Gare de Rolleville",
+    "address": "Rue Victor Petipas - Rolleville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Manéglise",
+    "address": "17 Place de la Mairie - Manéglise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*UBI - Manéglise - 2 Rue Pierre Normanville",
+    "address": "2 Rue Pierre Normanville - Manéglise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alinéa - epaville",
+    "address": "27 route de St Martin du manoir - Montivilliers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bureau Vallée - Route de Saint-Martin du Manoir",
+    "address": "25-23 Route de Saint-Martin du Manoir - Montivilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Action Montivilliers",
+    "address": "2–10 Rue des Gingko Biloba - Montivilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy merlin - Montivilliers",
+    "address": "7 Rue Pierre et Marie Curie - Montivilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CODAH - Place Abbé Pierre - Montivilliers",
+    "address": "5 Place Abbé Pierre - Montivilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubitricity - Gare de Montivilliers",
+    "address": "Rue des Grainetiers - Montivilliers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

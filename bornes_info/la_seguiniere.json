@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SIEML - Parking Rue De L'Industrie - LA SEGUINIERE",
+    "address": "2 Rue de l'Industrie - La Séguinière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Allego - La Séguinière",
+    "address": "Z.I. de la Ménardière, Rue du Bocage, 49280 L - La Séguinière",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Shell-Recharge (FR) - 3 Rue Gutenberg - La Séguinière (Privé)",
+    "address": "3 Rue Gutenberg - La Séguinière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 6 Rue Chevreul - Cholet",
+    "address": "6 Rue Chevreul - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Avenue de Nantes - Cholet",
+    "address": "100 Avenue de Nantes - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - CHOLET - Rue Des Sabotiers",
+    "address": "Rue des Sabotiers - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E-Totem - Lav'Car - Cholet",
+    "address": "Rue Charles Tellier - Cholet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - St Christophe Du Bois - Rue De La Chapelle",
+    "address": "6 Rue De La Chapelle - Saint-Christophe-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Héliocar Jean Rouyer Automobiles",
+    "address": "Le Cormier Boulevard des Sorinières - Cholet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Volvo - Cholet",
+    "address": "ZA du Cormier, 3 Bd Jean Rouyer, - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

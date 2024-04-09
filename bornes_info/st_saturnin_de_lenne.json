@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Révéo - D988 Parking de la Roseraie - Saint-Geniez-d'Olt",
+    "address": "Avenue de Saint-Laurent - Saint-Geniez-d'Olt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEDA - Maison de la médecine Val d'Olt",
+    "address": "Rue de la Poste - Saint-Laurent-d'Olt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les passes, Recoules",
+    "address": "- Recoules",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Route de Laverhne - Sévérac-d'Aveyron",
+    "address": "Route de Laverhne - Sévérac-d'Aveyron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "(Privée) Chambres d'Hôtes, chez Veronique & Patrick",
+    "address": "Auberoques - Sévérac-d'Aveyron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Parking de l'aire de covoiturage",
+    "address": "6161 Place Jean Jaurès - Sévérac-d'Aveyron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A75 - Aire de l'Aveyron (Double sens)",
+    "address": "A75 - AIRE DE L' AVEYRON - SEVERAC LE CHATEAU",
+    "connectors": [
+      "x6",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Les Calquières",
+    "address": "17 Avenue Jean Moulin - SEVERAC D'AVEYRON",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Saint-Germain-du-Teil - Pré Laporte",
+    "address": "1 Pré Laporte - St.-Germain-du-Teil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel*** Restaurant Le Calice du Gévaudan",
+    "address": "2 Montée de Pissa Lèbre - Banassac-Canilhac",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Réseau de recharge OGER/FR*SGA*P1SB001",
+    "address": "La Lochetière - Charencey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du 1er oct 1959, Les Aspres",
+    "address": "Rue du 1ER Octobre 1959 - Les Aspres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Saint-Maurice-lès-Charencey",
+    "address": "Rue Maurice de Vlaminck - Saint-Maurice-lès-Charencey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Station service Charencey - Rue de Paris",
+    "address": "77 Les Graviers - Saint-Maurice-lès-Charencey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SE61 - Abbaye de Soligny la Trappe SUPPRIMÉ",
+    "address": "D251 - Soligny-la-Trappe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Rue Georges Lochon - L'Aigle",
+    "address": "Rue Georges Lochon - L'Aigle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Sulpice-sur-Risle",
+    "address": "17 Zone Artisanale de la Pichotière - Saint-Sulpice-sur-Risle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Sas - Chanoine",
+    "address": "28 Route de Paris - L'Aigle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue d'anglures - Saint-Sulpice-sur-Risle",
+    "address": "12 Rue Anglures - Saint-Sulpice-sur-Risle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Place Saint-Laurent en l'Île d'Orle Tourouvre",
+    "address": "4 Place Saint-Laurent en l'Île d'Orle - Tourouvre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

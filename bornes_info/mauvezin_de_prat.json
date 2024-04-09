@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE09 - Rue nationale - Prat-Bonrepaux",
+    "address": "25 Rue nationale - Prat-Bonrepaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*LDL - Toulouse - 50 Route de Labège",
+    "address": "50 Route de Labège - Toulouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie - Urau",
+    "address": "70 Village - Urau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel du Parc e-station",
+    "address": "6 Rue d’Austerlitz - Salies-du-Salat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour Contact - Salies-du-Salat",
+    "address": "1 Place de la Gare - Salies-du-Salat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mac Donald - Saint-Lizier (Privé)",
+    "address": "588 Route de Toulouse - Saint-Lizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Lizier - Route De Toulouse",
+    "address": "Route De Toulouse - Saint-Lizier",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint-Lizier",
+    "address": "40 Route de Toulouse - Saint-Lizier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SD09 - Parking de la Vigne de l'Evêché",
+    "address": "Rue du Colombier - Saint-Lizier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Netto - Saint-Martory",
+    "address": "807 Avenue des Époux Saint-Martin Latrille - Saint-Martory",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

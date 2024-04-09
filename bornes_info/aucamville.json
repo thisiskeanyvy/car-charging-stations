@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Révéo - Aucamville",
+    "address": "Rue des Ecoles - Aucamville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge (FR) - impasse des mimosas 1 - Aucamville",
+    "address": "impasse des mimosas 1 - Aucamville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FORD - TOULOUSE DC",
+    "address": "1 Avenue Salvador Allende - Toulouse",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 360 Avenue Des Etats - Unis - Toulouse",
+    "address": "360 Avenue Des Etats - Unis - Toulouse",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Aucamville - 26 Chemin Auguste Gratian",
+    "address": "26 Chemin Auguste Gratian - Aucamville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 339 Av. des États Unis - Toulouse",
+    "address": "339 Av. des États Unis - Toulouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Hôtel Ibis Styles - Toulouse",
+    "address": "49 Avenue Jean Zay - Toulouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZE Watt - Hotel ibis toulouse",
+    "address": "308 Avenue jean zay - Toulouse",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Toulouse Métropole - Route de Launaguet",
+    "address": "274 Route de Launaguet - Toulouse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - Toulouse - Nissan",
+    "address": "N/A - Toulouse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

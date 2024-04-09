@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Impasse des Prairies - Annecy-le-Vieux",
+    "address": "5 Impasse des Prairies - Annecy-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Eurofood Trading",
+    "address": "115 Route de Thônes - Annecy-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Toyota - 13 Rue du Pré Paillard - Annecy le Vieux",
+    "address": "13 Rue du Pré Paillard - Annecy",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Parking Groupe Scolaire 1 - Villaz",
+    "address": "56 Avenue de Bonatray - Villaz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AST74 médecine du travail",
+    "address": "14 Rue du Pré Faucon - Annecy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "nexteneo - Annecy - 12C Rue du Pré Faucon Parc des Glaisins",
+    "address": "12C Rue du Pré Faucon Parc des Glaisins - Annecy",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour proximité France - Villaz - 154 Rue de Bonatray",
+    "address": "154 Rue de Bonatray - Villaz",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Avenue du Pré de Challes Annecy-le-Vieux",
+    "address": "1 Avenue du Pré de Challes - Annecy-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Route Des Contamines - Argonay",
+    "address": "50 Route Des Contamines - Argonay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Syane - Route du Parmelan - Argonay",
+    "address": "300 Route du Parmelan - Argonay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

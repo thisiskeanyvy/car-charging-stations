@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Modulo Energies - Rue Paul Emile Victor - Bétheny",
+    "address": "Rue Paul Emile VICTOR - Bétheny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Floralies garden Z.I. le Buisson Sarrazin - Voie Romaine - Bétheny",
+    "address": "38 Voie Romaine - Bétheny",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - ALL PAUL HALARY - REIMS",
+    "address": "6 Allée Paul Halary - Reims",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Z.I. Nord-Est - Reims",
+    "address": "3 Rue Denis Papin - Reims",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Reims - Brico-Dépôt",
+    "address": "3 Boulevard Gustave Eiffel - Reims",
+    "connectors": [
+      "x11",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Qovoltis - Rue de la Ferme Pierquin Hôtel Première Classe - Bétheny",
+    "address": "Rue de la Ferme Pierquin Hôtel Première Classe - Bétheny",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ets Manuregion",
+    "address": "48 Rue Philippe - Reims",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atrium Club Events Restaurant",
+    "address": "14 Commerce - Reims",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Reims - KFC La Neuvillette",
+    "address": "1 rue André Chaillot - Reims",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Reims",
+    "address": "78 Rue du Docteur Lemoine - Reims",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

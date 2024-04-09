@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SIED70 - Rioz",
+    "address": "9019A Chemin du bois du Chaillaux - Rioz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parkinbg Clair Soleil - RIOZ",
+    "address": "24bis Rue Du Pays Neuf - Rioz",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auberge Saint Claude",
+    "address": "50 Rue Charles de Gaulle - Rioz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Rue des Halles Montbozon",
+    "address": "1 Rue des Halles - Montbozon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A36 Aire de Besancon Champoux (direction Besançon)",
+    "address": "Aire de Besancon Champoux - Champoux",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-Vadea - A36 Aire de Besancon Marchaux (direction Belfort)",
+    "address": "A36 - Marchaux",
+    "connectors": [
+      "x4",
+      "x5",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A36 - Aire de Besançon Marchaux (direction Montbéliard)",
+    "address": "A36 - Marchaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ZEborne - Intermarché - Rue de la Grappe - Marchaux-Chaudefontaine",
+    "address": "Rue de la Grappe - Marchaux-Chaudefontaine",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Roulans - 4 Rue Des Epicéas",
+    "address": "4 Rue Des Epicéas - Roulans",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Tournans - D113",
+    "address": "D113 - Tournans",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

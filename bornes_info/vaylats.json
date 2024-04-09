@@ -1,0 +1,152 @@
+[
+  {
+    "title": "FDEL - Le foirail - Concots",
+    "address": "D911 - Concots",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Lalbenque",
+    "address": "D10 - Lalbenque",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Chemin du Foirail - Puylaroque",
+    "address": "9 Place de la Libération - Puylaroque",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Limogne-en-Quercy | Rue des Platanes 30",
+    "address": "30 Rue des Platanes - Limogne-en-Quercy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Avenue de Cahors, 51 - Limogne-en-Quercy",
+    "address": "51 Avenue de Cahors - Limogne-en-Quercy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDEL - Le bourg - Saint-Cirq-Lapopie",
+    "address": "01 Le Bourg - Saint-Cirq-Lapopie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL (Révéo) - Route de Saint-Cirq-Lapopie - Saint-Cirq-Lapopie",
+    "address": "Route de Saint-Cirq-Lapopie - Saint-Cirq-Lapopie",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - A20 Aire Bois de Dourre (double sens)",
+    "address": "A20 Aire De Bois Dourre - Montalzat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Maison d'hôtes La Combe de Redoles",
+    "address": "295 rue de la Combe de Redoles - Tour-de-Faure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Place de la Bascule Caylus",
+    "address": "3 Place de la Bascule - Caylus",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

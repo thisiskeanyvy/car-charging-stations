@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SIEG 63 - Mairie de Lempdes",
+    "address": "1 Rue Saint-Verny - Lempdes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lempdes | Avenue de l'Europe",
+    "address": "Avenue de l'Europe - Lempdes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Lempdes",
+    "address": "56 Avenue de l'Europe - Lempdes",
+    "connectors": [
+      "x16",
+      "x17"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Lempdes",
+    "address": "Avenue de l'Europe 26 - Lempdes",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lempdes | Avenue de l'Europe",
+    "address": "Avenue de l'Europe - Lempdes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Lempdes",
+    "address": "79 Avenue de l'Europe - Lempdes",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Cournon-d'Auvergne - Route De Clermont-Ferrand",
+    "address": "125 Route De Clermont-Ferrand - Cournon-d'Auvergne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEG 63 - Avenue Pierre de Coubertin - Aulnat",
+    "address": "Avenue Pierre de Coubertin - Aulnat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ESPACE AUTO COURNON",
+    "address": "31 Avenue De La Libération - Cournon-d'Auvergne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Systèmes Solaires - Rue le Corbusier - Cournon-d'Auvergne",
+    "address": "20 Rue le Corbusier - Cournon-d'Auvergne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

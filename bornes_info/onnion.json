@@ -1,0 +1,128 @@
+[
+  {
+    "title": "L'Auberge de Mégevette",
+    "address": "50 D26 - Mégevette",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Faucigny - Saint-Jeoire",
+    "address": "64 Rue du Faucigny - Saint-Jeoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Intermarché - Saint-Jeoire",
+    "address": "123 Route de Montrenaz - Saint-Jeoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE - Route du Fer À Cheval Viuz-en-Sallaz",
+    "address": "3660 Route du Fer À Cheval - Viuz-en-Sallaz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue de la Menoge - Boëge",
+    "address": "50 Rue du Bourno - Boëge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Boëge - rue du Collège",
+    "address": "46°12'26.8\"N 6°24'09.1\"E - Boëge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Môle",
+    "address": "- Saint-Jean-de-Tholome",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route Vielle verde - Habère-Poche",
+    "address": "Route Vielle verde - Habère-Poche",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de HauteLuce - eborn - Marignier",
+    "address": "326 Avenue de la Mairie - Marignier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de la Ramaz - Taninges (Praz De Lys)",
+    "address": "Route de la Ramaz - Taninges (Praz De Lys)",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "title": "SIEG 63 - Gare de Laqueuille",
+    "address": "1936 Gare de Laqueuille - Saint-Julien-Puy-Lavèze",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Rochefort Montagne",
+    "address": "Route Ancienne Route Nationale 89 - Rochefort-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 1 Rue de l'Église - Rochefort-Montagne",
+    "address": "1 Rue de l'Église - Rochefort-Montagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - Place du Portique - Saint-Sauves-d'Auvergne",
+    "address": "hôtel de la poste - Saint-Sauves-d'Auvergne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 24 Rue de l'Hôtel de Ville - Giat",
+    "address": "24 Rue de l'Hôtel de Ville - Giat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT - VVF VILLAGES - Eygurande",
+    "address": "Impasse des Libellules - Eygurande",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat de la Diège – Place du Champ de Foire – Eygurande",
+    "address": "Place Champ de Foire - Eygurande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - La Tour Pom'Pin, Table et chambre d'hôtes",
+    "address": "178 avenue d'Angleterre - LA BOURBOULE",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEG63 - Avenue des Combrailles - Bromont-Lamothe",
+    "address": "58 Avenue des Combrailles - Bromont-Lamothe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - La Bourboule",
+    "address": "Avenue Mal de Lattre de Tassigny - La Bourboule",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

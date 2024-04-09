@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Syane - Parking du marché - Collonges-sous-Salève",
+    "address": "78 Route d'Annecy - Collonges-sous-Salève",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6600025",
+    "address": "415 Chemin de Bottecreux - Collonges-sous-Salève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Archamps",
+    "address": "380 Rue Richard Gurley Drew - Archamps",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Archamps porte sud de Genève",
+    "address": "112 Rue Richard Gurley Drew - Archamps",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Archamps - 300 Rue Louis Rustin",
+    "address": "300 Rue Louis Rustin - Archamps",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Green Motion SA - Veyrier - 8 Chemin du Bois-Gourmand",
+    "address": "8 Chemin du Bois-Gourmand - Veyrier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Haute Ecole de Gestion Genève",
+    "address": "17 Rue de la Tambourine - Carouge",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Genève RRG Léman SA (Privé)",
+    "address": "180 Route de Saint-Julien - Plan-les-Ouates",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Mairie - Neydens",
+    "address": "60 Chemin Neuf - Neydens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking \"Espace Palettes\"",
+    "address": "86 Avenue des Communes-Réunies - Lancy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

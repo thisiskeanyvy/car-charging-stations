@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Syndicat Départemental d'Énergie Des Côtes d'Armor (SDE22) - Plouguenast-Langast - Rue du Stade",
+    "address": "Rue du Stade - Plouguenast-Langast",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Ploeuc sur lié",
+    "address": "4 Rue Beaulieu - Plœuc-L'Hermitage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Place du Champ de Foire Uzel",
+    "address": "Place du Champ de Foire - Uzel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IECharge - Saint-Thelo - Le Clos de Devant",
+    "address": "Le Clos de Devant - Saint-Thelo",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sde22 - La Motte",
+    "address": "3 Rue Joseph Dupré - La Motte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Plessala",
+    "address": "Rue de Bel Air - Plessala",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Place de la Carrière",
+    "address": "4–5 Rue de la Hors Voie - Moncontour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le chaffaud - Loudeac",
+    "address": "20 Le chaffaud - Loudeac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Ionity - Loudéac",
+    "address": "7 Rue Daniel Gemy - Loudéac",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V4 - Loudéac",
+    "address": "7 Rue Daniel Gemy - Loudéac",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

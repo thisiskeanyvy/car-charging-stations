@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Maison de la Métropole (Privé)",
+    "address": "119 Avenue Charles de Gaulle - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue des Maraîchers - Tassin-la-Demi-Lune",
+    "address": "Rue des Maraîchers - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Tassin-La-Demi-Lune",
+    "address": "12 Avenue Victor Hugo - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "WAAT SAS - Tassin-la-Demi-Lune - 7-9-11 Chemin de la Raude",
+    "address": "7-9-11 Chemin de la Raude - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue des Cosmos - Tassin-la-Demi-Lune",
+    "address": "Avenue des Cosmos - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BeCharge - Lyon - Rue Jolie Curiot",
+    "address": "Rue Jolie Curiot - Lyon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Rue Joliot-Curie - Lyon",
+    "address": "96 Rue Joliot Curie - Lyon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Holiday Inn Lyon-Vaise (Tesla and others)",
+    "address": "13d Avenue Victor Hugo - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Grand Lyon - Rue Auguste Tramier - Écully",
+    "address": "2 Rue Auguste Tramier - Écully",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint network - 118 bis Rue Marietton - Écully",
+    "address": "118 bis Rue Marietton - Écully",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

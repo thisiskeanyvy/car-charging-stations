@@ -1,0 +1,146 @@
+[
+  {
+    "title": "RÉVÉO - Rue des Buissonnets Lespignan",
+    "address": "Rue des Buissonnets - Lespignan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Shell-Recharge - Brico Dépôt - Colombiers",
+    "address": "ZAE de Viargues - Colombiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Rue du Parc Nissan-lez-Enserune",
+    "address": "Rue du Parc - Nissan-lez-Enserune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "NW IEcharge - D609 Nissan-lez-Enserune",
+    "address": "Route Nationale - Nissan-lez-Enserune",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - ZAC Europa Ouest - Vendres",
+    "address": "Rue de Vienne - Vendres",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "REVEO - Parc Via Europa (Sortie 36)",
+    "address": "Rue de Vienne - Vendres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Route de Vendres - Béziers (Privé)",
+    "address": "Route de Vendres - Béziers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "BELECTRIC France",
+    "address": "3 rue de Stockholm - VENDRES",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeIT mobility (FR) - Rue de Stockholm - Vendres",
+    "address": "1 Rue de Stockholm - Vendres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Aire de covoiturage Béziers-Sud (Sortie 36)",
+    "address": "D64 - Béziers",
+    "connectors": [
+      "x1",
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Freshmile - Ballan-Miré - Rue Du Sirocco",
+    "address": "Rue Du Sirocco - Ballan-Miré",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Avenue Jean Mermoz - Ballan-Miré",
+    "address": "Avenue Jean Mermoz - Ballan-Miré",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEIL - Savonnières - Route de Tours",
+    "address": "6 Rue du Châtonnay - Savonnières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "La Maison Tourangelle",
+    "address": "9 Route des Grottes Petrifiantes - Savonnières",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Joué-lès-Tours",
+    "address": "18 Rue Joseph Cugnot - Joué-lès-Tours",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE VIANEO - B&B Hôtel Tours Sud - Joué-lès-Tours",
+    "address": "186 Boulevard Jean Jaurès - Joué-lès-Tours",
+    "connectors": [
+      "x6",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - La Casa del Arte - Joué-lès-Tours",
+    "address": "9 Rue Gutenberg - Joué-lès-Tours",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "RossiniEnergy - 32 Rue Gutenberg - Joué-lès-Tours",
+    "address": "32 Rue Gutenberg - Joué-lès-Tours",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Boulevard Jean Jaurès - Joué-lès-Tours",
+    "address": "195 Boulevard Jean Jaurès - Joué-lès-Tours",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEIL - Intermarché - Joué-lès-Tours",
+    "address": "40 Rue de la Gitonnière - Joué-lès-Tours",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

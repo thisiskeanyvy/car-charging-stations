@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Mouv'Oise - Amblainville",
+    "address": "51 Rue Nationale - Amblainville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Méru Amblainville",
+    "address": "D927 - Méru",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Bornel",
+    "address": "7C–11 Rue Gambetta - Bornel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant La Grange de Belle-Eglise",
+    "address": "28 Boulevard de Belle Église - Belle-Église",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Méru",
+    "address": "Rue Marcel Coquet - Méru",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Faurecia - 8 Rue Emile Zola - Méru (Privé)",
+    "address": "8 Rue Emile Zola - Méru",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile (FR*S60) - Belle-Église - 2 Rue Des Écoles",
+    "address": "2 Rue Des Écoles - Belle-Église",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Belle-Eglise - Rue Nationale (Privé)",
+    "address": "17 Rue Nationale - Belle-Église",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - L'Isle-Adam - Avenue du Chemin Vert",
+    "address": "Avenue du Chemin Vert - L'Isle-Adam",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - 2 Rue Raymond Poincaré - Parmain",
+    "address": "2 Rue Raymond Poincaré - Parmain",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

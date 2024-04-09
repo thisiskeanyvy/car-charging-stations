@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Izivia - Super U - Mirambeau",
+    "address": "107 Avenue de la République - Mirambeau",
+    "connectors": [
+      "x15",
+      "x15"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Mirambeau - Derrière la Mairie et l'église",
+    "address": "Rue des Ecoles - Mirambeau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Agent Peugeot - Avenue de Bordeaux - Saint-Genis-de-Saintonge",
+    "address": "89 Avenue de Bordeaux - Saint-Genis-de-Saintonge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Genis-de-Saintonge - Rue du Pont Bouchard",
+    "address": "13 Rue du Pont Bouchard - Saint-Genis-de-Saintonge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Port maubert - Maubert",
+    "address": "Chemin des chasseurs - Maubert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*SUN - Saint-Ciers-sur-Gironde - 10 Avenue Charles de Gaulle",
+    "address": "10 Avenue Charles de Gaulle - Saint-Ciers-sur-Gironde",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Château des Agouts",
+    "address": "Château des Agouts - Jonzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Rue Georges picotin Saint-Ciers-sur-Gironde",
+    "address": "1027 Rue Georges Picotin - Saint-Ciers-sur-Gironde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Aire de Ferchaud Les Fermenteaux - Saint-Caprais de blaye",
+    "address": "168 Les Fermenteaux - Saint-Caprais-de-Blaye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Gare de Jonzac",
+    "address": "2-12 Rue Alsace Lorraine - Jonzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

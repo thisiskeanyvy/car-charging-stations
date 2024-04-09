@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Zeborne - 34 Avenue de la Station",
+    "address": "34 Avenue de la Station - Villemomble",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 168 Grande Rue - Villemomble",
+    "address": "168 Grande Rue - Villemomble",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - rond-point de Montfermeil - Le Raincy",
+    "address": "rond-point de Montfermeil - Le Raincy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Neuilly-sur-Marne",
+    "address": "17 rue Robert schuman - Neuilly-sur-Marne",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Effia - Allée Auguste Perret Le Raincy",
+    "address": "Allée Auguste Perret - Le Raincy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 1 Avenue Outrebon - Villemomble",
+    "address": "1 Avenue Outrebon - Villemomble",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - 24 avenue de la résistance - Le Raincy",
+    "address": "24 Avenue de la Résistance - Le Raincy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - 61 avenue de la résistance - Le Raincy",
+    "address": "61 Avenue de la Résistance - Le Raincy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIGEIF - Mairie du Raincy",
+    "address": "121 Avenue de la Résistance - Le Raincy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - 29 avenue de Livry - Le Raincy",
+    "address": "29 avenue de Livry - Le Raincy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

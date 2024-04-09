@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SyDEV - rue Clemenceau Moutiers-les-Mauxfaits",
+    "address": "8 Avenue Georges Clemenceau - Moutiers-les-Mauxfaits",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEV - Rue Du Commerce - Angles",
+    "address": "1 Rue Du Commerce - Angles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEV - Longeville (Rue De Mal Foch)",
+    "address": "Place Clémenceau - Longeville Sur Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Château des aventuriers - Avrillé",
+    "address": "- Avrillé",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Le Petit Rocher",
+    "address": "1250 avenue du dr mathevet - longeville sur mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Camping Les Brunelles",
+    "address": "363 Chemin de la Parée - Longeville-sur-Mer",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 341 Chemin de la Parée - Longeville-sur-Mer",
+    "address": "341 Chemin de la Parée - Longeville-sur-Mer",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping les Brunelles - Longeville-sur-Mer (clients only)",
+    "address": "717 Chemin de la Parée - Longeville-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - La Tranche-sur-Mer SUPPRIMÉ",
+    "address": "Avenue du Général de Gaulle - La Tranche-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Tablier | Rue Principale 10",
+    "address": "10 Rue Principale Parking Communal - Le Tablier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

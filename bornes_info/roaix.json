@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Cabasse caveau viticole",
+    "address": "626 Chemin des Ramieres - Séguret",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "RAIDEN SAS (ChargeGuru)/FR*CG0/44.2496333/5.0270302",
+    "address": "1878 Route d'Orange - Roaix",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route d'Avignon 850 - Vaison la romaine",
+    "address": "Route d'Avignon 850 - Vaison la romaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rhonéa - Boutique de Rasteau",
+    "address": "Route des Princes d'Orange - Rasteau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Parking P2 - Place Jean Moulin - Seguret",
+    "address": "219 Chemin Sous Barry - Seguret",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Domaine de Cabasse (Tesla and others)",
+    "address": "547 Route de Sablet - Seguret",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vaison-la-Romaine",
+    "address": "315 Avenue Des Choralies - Vaison-la-Romaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SuperU - 10 Avenue Marcel Pagnol",
+    "address": "10 Avenue Marcel Pagnol - Vaison-la-Romaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - 7 Rue du Levant - Sablet",
+    "address": "7 Rue Du Levant - Sablet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intersport - Saint-Romain-en-Viennois",
+    "address": "105 Chemin de la Lauzerette - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

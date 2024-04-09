@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hôtel Edelweiss (Tesla et autres)",
+    "address": "Rue du Grand Chemin - La Grave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Salle Polyvalente - La Grave",
+    "address": "24 La Coinchette - La Grave",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syme05 - Parking de l'hôtel des Glaciers - Le Monêtier-les-Bains",
+    "address": "Le Lautaret - Le Monêtier-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LES VERNEYS - Rue du Pré Malin",
+    "address": "2171 Route du Galibier - Valloire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Le Monêtier (Tesla et autres) - Route de Grenoble - Le Monêtier-les-Bains",
+    "address": "376 Route de Grenoble - Le Monêtier-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de Grenoble - Le Monêtier-les-Bains",
+    "address": "520 Route de Grenoble - Le Monêtier-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking telecabine - Rue des Grandes Alpes - Valloire",
+    "address": "Rue des Grandes Alpes - Valloire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hameau de Valloire",
+    "address": "2 Chemin de la Curiaz - Valloire",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Mairie les deux alpes",
+    "address": "48 Avenue de la Muzelle - Les Deux Alpes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps - 76 Avenue de la Muzelle - Les Deux Alpes",
+    "address": "76 Avenue de la Muzelle - Les Deux Alpes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

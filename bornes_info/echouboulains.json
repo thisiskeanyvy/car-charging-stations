@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Place Mairie - Échouboulains",
+    "address": "3-5 Place de la Résistance - Échouboulains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco Charge 77/Coutençon/Rue de Montigny/",
+    "address": "165-201 Rue de Montigny - Coutençon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A5 - Aire des Jonchets-Les Récompenses (direction Paris)",
+    "address": "A5 - Forges",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FASTNED - A5 - Aire des Jonchets-La Grande Paroisse (direction Sens)",
+    "address": "A5 - Forges",
+    "connectors": [
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Mairie de Valence en brie",
+    "address": "4 Place de l'Église - Valence-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDESM - Rue de l'église - Forges",
+    "address": "4 Rue de l'Église - Forges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue des Clos - La Chapelle-rablais",
+    "address": "2 Rue des Clos - La Chapelle-Rablais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montereau-Fault-Yonne | Rue d'Enfer 1",
+    "address": "1 Rue d'Enfer - Montereau-Fault-Yonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue de Courcelles Salins",
+    "address": "6-12 Rue de Courcelles - Salins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Montereau-Fault-Yonne",
+    "address": "3 Rue André Thomas - Montereau-Fault-Yonne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

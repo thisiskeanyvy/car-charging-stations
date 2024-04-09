@@ -1,0 +1,128 @@
+[
+  {
+    "title": "TotalEnergies - Rue de la Liberté - LA COURTINE",
+    "address": "Rue de la Liberté - LA COURTINE",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - 1 Place des Arbres - Felletin",
+    "address": "1 Place des Arbres - Felletin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Place Marie-Thérèse Goumy - Crocq",
+    "address": "1 Place Marie-Thérèse Goumy - Crocq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat de la Diège – Place du Champ de Foire – Eygurande",
+    "address": "Place Champ de Foire - Eygurande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel les Gravades (Tesla and others)",
+    "address": "D1089 - Ussel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Ussel",
+    "address": "RN 89 - Ussel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Ussel - Peugeot",
+    "address": "Avenue de Clermont - Ussel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Vallon vert",
+    "address": "Combe Richard - Faux-la-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - IMP DES ROMAINS 2 - USSEL",
+    "address": "2 Impasse des Romains - Ussel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 24 Rue de l'Hôtel de Ville - Giat",
+    "address": "24 Rue de l'Hôtel de Ville - Giat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

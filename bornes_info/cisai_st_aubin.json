@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SE61 - Avenue de Tahiti - Gacé",
+    "address": "Avenue de Tahiti - Gacé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Place du Général de Gaulle",
+    "address": "Place Charles de Gaulle - Gacé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell France - A28 Aire Des Haras",
+    "address": "000 Les Maillottes A28 Aire Des Haras - Le Sap-André",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Route principale, St Evroult",
+    "address": "Rue Principale - Saint-Evroult-Notre-Dame-du-Bois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Rue de l'Ancienne Église - Sainte-Gauburge-Sainte-Colombe",
+    "address": "Rue de l'Ancienne Église - Sainte-Gauburge-Sainte-Colombe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Place de l'hôtel de ville - Le Merlerault",
+    "address": "Place de l'Hôtel de Ville - Le Merlerault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Les Bruyeres Saint Nicolas - Le hangar de Maxime",
+    "address": "41 Les Bruyeres Saint Nicolas - Couvains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Le Sap en Auge",
+    "address": "Place du Marché - Sap-en-Auge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Allée de Kerroch, La ferté Frenel",
+    "address": "Allée de Kerroch - La Ferté-Frênel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Le Pin au Haras",
+    "address": "Le Haras du Pin - Le Pin-au-Haras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

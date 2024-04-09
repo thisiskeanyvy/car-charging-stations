@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Ecar18 - Rue du Grand Meaulnes Nançay",
+    "address": "2–4 Rue du Grand Meaulnes - Nançay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Place de la Mairie - Neuvy-sur-Barangeon",
+    "address": "Place de la Mairie - Neuvy-sur-Barangeon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - A71 Aire de Salbris-La Loge (direction Orléans)",
+    "address": "A71 - Theillay",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - A71 Aire de Salbris-la Loge (Direction Orléans)",
+    "address": "A71 L'Arverne - Theillay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - A71 Aire de Salbris (Direction Vierzon) SUPPRIMÉ",
+    "address": "A71 L'Arverne - Theillay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - A71 Aire de Salbris-Theillay (direction Bourges)",
+    "address": "A71 - Theillay",
+    "connectors": [
+      "x2",
+      "x7",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Crematorium de theillay",
+    "address": "30 Route de Neuvy - Theillay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Theillay",
+    "address": "21 Rue de la Pierre - Theillay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIDELC - Avenue de la Résistance - Salbris",
+    "address": "49 Avenue de la Résistance - Salbris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIDELC - Salbris",
+    "address": "41 Rue De La Convention - Salbris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

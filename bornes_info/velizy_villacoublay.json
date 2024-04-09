@@ -1,0 +1,130 @@
+[
+  {
+    "title": "E55C - Parking le Mail - Vélizy-Villacoublay",
+    "address": "26 Le Mail - Vélizy-Villacoublay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E55C - Avenue Robert Wagner - Vélizy-Villacoublay",
+    "address": "17 Avenue Robert Wagner - Vélizy-Villacoublay",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Atelier Peugeot - Avenue Louis Breguet",
+    "address": "27 ter Avenue Louis Breguet - Vélizy-Villacoublay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Porsche Velizy",
+    "address": "21 Avenue Louis Breguet - Vélizy-Villacoublay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi - Vélizy-Villacoublay",
+    "address": "19 Avenue Louis Breguet - Vélizy-Villacoublay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - 8 Avenue du Capitaine Tarron",
+    "address": "8 Avenue du Capitaine Tarron - Vélizy-Villacoublay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - BMW - Vélizy",
+    "address": "39 Avenue Louis Breguet - Vélizy-Villacoublay",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A86 Aire de Vélizy Ouest",
+    "address": "A86 - AIRE DE VELIZY OUEST - VELIZY VILLACOUBLAY",
+    "connectors": [
+      "x1",
+      "x8",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A86 Aire de Clair Bois (direction Créteil)",
+    "address": "0\r\n A86\r\n - Jouy-en-Josas",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E55C - Avenue de Savoie - Vélizy-Villacoublay",
+    "address": "6 Avenue de Savoie - Vélizy-Villacoublay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

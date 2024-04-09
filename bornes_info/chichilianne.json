@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Hotel restaurant Chateau de Passières",
+    "address": "Passière - Chichilianne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gai soleil du Mont Aiguille",
+    "address": "L'Église - Chichilianne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Ferrat",
+    "address": "Bouthoui - Clelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Snack-Bar Piscine Ferrat",
+    "address": "Bouthoui - Clelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Snack Vercors - Quartier de la Gare - Clelles",
+    "address": "D1075 - Clelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Méca et Wheels",
+    "address": "835 Rte de Grenoble - Clelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gite de Mialaure",
+    "address": "Pouillane - Mens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Rue du Moulin Clelles",
+    "address": "Rue du Moulin - Clelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Mairie de Clelles",
+    "address": "Rue du Moulin - Clelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - RD 1075 (Les Chaux) - Aire du Triève",
+    "address": "D1075 - Le Monestier-du-Percy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

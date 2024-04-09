@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Renault - Clermont l'Herault",
+    "address": "Voie Ampère - Clermont l'Herault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hérault Energies (Révéo) - 5 Cours de la Chicane - Clermont-l'Hérault",
+    "address": "5 Cours de la Chicane - Clermont-l'Hérault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alize (Bouygues Energies et Services) - Clermont-l'Hérault - 1 Quai Carnot",
+    "address": "1 Quai Carnot - Clermont-l'Hérault",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Big Mat - Clermont-l'Hérault",
+    "address": "10 Rue Du Cardinal - Clermont-l'Hérault",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Intermarché - Clermont-l'Hérault",
+    "address": "2 Rue du Servent - Clermont-l'Hérault",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - parking salle des Fêtes - Cours de la Liberté",
+    "address": "29 Cours de la Liberté - Saint-André-de-Sangonis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "E.Leclerc - Clermont-l'Hérault (proche de la sortie 57 de l'A75)",
+    "address": "507 Chemin de la Salamane - Clermont-l'Hérault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint André de Sangonis",
+    "address": "6374F Route de Montpellier - Saint-André-de-Sangonis",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Reveo - Gignac (ZAC Cosmo)",
+    "address": "78 Rue de la Galaxie - Gignac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Mairie de Montpeyroux",
+    "address": "8 Avenue du Rosaire - Montpeyroux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

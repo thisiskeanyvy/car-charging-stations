@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Côté Lavande Mas des Escarabasses",
+    "address": "Route de Malaucène - Crestet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chene Bleu - La Verrière",
+    "address": "2820 Chemin de la Verriere - Crestet",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SuperU - 10 Avenue Marcel Pagnol",
+    "address": "10 Avenue Marcel Pagnol - Vaison-la-Romaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vaison-la-Romaine",
+    "address": "315 Avenue Des Choralies - Vaison-la-Romaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps - 786 Chemin du Plan - Entrechaux",
+    "address": "786 Chemin du Plan - Entrechaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Saint-Romain-en-Viennois",
+    "address": "105 Chemin de la Lauzerette - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - Saint-Romain-en-Viennois",
+    "address": "70 Route de Nyons - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Marcel Bio / King Jouet",
+    "address": "125 Route de Nyons - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché bis - Route de Vaison la Romaine - Saint-Romain-en-Viennois",
+    "address": "1620 Route de Vaison la Romaine - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Avenue des Princes d'Orange - Entrechaux",
+    "address": "Avenue des Princes d'Orange - Entrechaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEEG33 - École Municipale - Lestiac-sur-Garonne",
+    "address": "Chemin de l'église - Lestiac-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - 14 Thibeau ouest - Rions",
+    "address": "14 Thibeau ouest - Rions",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prises municipales - 3 Place du Doc Abaut",
+    "address": "3 Place du Doc Abaut - Langoiran",
+    "connectors": [
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place de la mairie - Langoiran",
+    "address": "Place de la Mairie - Langoiran",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Bricomarché - Langoiran",
+    "address": "Route de Créon - Langoiran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Podensac",
+    "address": "Unnamed Road - Podensac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie de Portets",
+    "address": "Rue du Maréchal Leclerc - Portets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Place Gambetta - Podensac",
+    "address": "15 Place Gambetta - Podensac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Rue de la Papeterie - Beautiran",
+    "address": "3 Rue de la Papeterie - Beautiran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Beguey",
+    "address": "69 Avenue de la Libération - Beguey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

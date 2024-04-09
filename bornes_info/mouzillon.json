@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDEGO - Place de la Vendée, 1 - Mouzillon",
+    "address": "1 Place de la Vendée - Mouzillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Vallet",
+    "address": "36 Avenue du Général Heurtaux - Vallet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue Emile Gabory - Vallet",
+    "address": "22 Rue Emile Gabory - Vallet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO - Boulevard Stéphane Pusterle, 11 - Vallet",
+    "address": "11 Boulevard Stéphane Pusterle - Vallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - LE PALLET",
+    "address": "3 Rue Etienne Sautejeau - Le Pallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Rue de la Roche, 6 - Gorges",
+    "address": "6 Rue de la Roche - Gorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Clisson - Espace Emeraude",
+    "address": "8 Rue de la Fontaine Calin - Clisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Clisson",
+    "address": "3 Rue des Malifestes - Clisson",
+    "connectors": [
+      "x16",
+      "x18"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault- Gorges",
+    "address": "route de Clisson - Gorges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue du Docteur Boutin, 12 - Clisson",
+    "address": "12 Rue du Docteur Boutin - Clisson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

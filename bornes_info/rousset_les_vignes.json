@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Domaine de Provensol",
+    "address": "670 Route de Vinsobres - Venterol",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Valréas - Rue De Chasse Coquins",
+    "address": "Rue De Chasse Coquins - Valréas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDED - Place du 11 Novembre Taulignan",
+    "address": "Place du 11 Novembre - Taulignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chateau MontPlaisir (Tesla and others)",
+    "address": "1 Chemin des Blagiers - Valréas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Nyons",
+    "address": "65 Route de Montélimar - Nyons",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 31 Avenue de Venterol - Nyons",
+    "address": "31 Avenue de Venterol - Nyons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Coopérative du Nyonsais - Nyons",
+    "address": "Coopérative du Nyonsais - Nyons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Avenue Frédéric Mistral - Nyons",
+    "address": "63 Avenue Frédéric Mistral - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Rue Ferdinand Fert, 245 - Nyons",
+    "address": "245 Rue Ferdinand Fert - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine le Pré Neuf",
+    "address": "Quartier Pré Neuf Pré Neuf - Vinsobres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Parking souterrain de la Mairie Verrières-le-Buisson",
+    "address": "4 Place Charles de Gaulle - Verrières-le-Buisson",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maréchal Foch - Verrières-le-Buisson",
+    "address": "56 boulevard du Maréchal Foch - Verrières-le-Buisson",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Verrières-le-Buisson - Rue Henri Bourrelier",
+    "address": "Rue Henri Bourrelier - Verrières-le-Buisson",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Carrefour de l'Europe - Verrières-le-Buisson",
+    "address": "Carrefour de l'Europe - Verrières-le-Buisson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Verrières-le-Buisson - Avenue de la République 20",
+    "address": "Avenue de la République 20 - Verrières-le-Buisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Rue d'Estienne d'Orves - Verrières-le-Buisson",
+    "address": "155 Rue d'Estienne d'Orves - Verrières-le-Buisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre de formation \"les Gatines\"",
+    "address": "167 Route des Gatines - Verrieres le buisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Joliot Curie - Massy",
+    "address": "9 Rue Joliot Curie - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Paris-Saclay Mobiélectrique - 108 Avenue de la Gare - Massy",
+    "address": "108 Avenue de la Gare - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Mairie de Massy",
+    "address": "1 Allée des Cadets de la France Libre - Massy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

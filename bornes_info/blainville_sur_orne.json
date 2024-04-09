@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiSDEC - BLAINVILLE SUR ORNE (Rue Lamberville)",
+    "address": "Rue Lamberville - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - BLAINVILLE SUR ORNE (Rue Maurice Hébert)",
+    "address": "Rue Maurice Hébert - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Super U - Blainville-sur-Orne",
+    "address": "1 Rue du Royal Norfolk - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - BIEVILLE BEUVILLE (Place de Margetshöchheim)",
+    "address": "Place de Margetshöchheim - Béville-beuville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - Place François Mitterrand - Colombelles",
+    "address": "12 Place de l'Hôtel de ville - Colombelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - restaurant la Palmeraie Bénouville",
+    "address": "2 D35C - Bénouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - Le Golf 2 - Biéville-Beuville",
+    "address": "Le Golf 2 - Biéville-Beuville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - Hotel Kyriad Hérouville",
+    "address": "Impasse des Ormes Hotel Kyriad - Hérouville-Saint-Clair",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Rue de la Vallée - Ranville",
+    "address": "Rue de la Vallée - Ranville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Hérouville",
+    "address": "1746 Le Bois Porte 17 - Hérouville-Saint-Clair",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

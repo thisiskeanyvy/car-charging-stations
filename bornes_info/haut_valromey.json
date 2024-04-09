@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Champdor-Corcelles | Rue du Pommier 900 RossiniEnergy (Privé)",
+    "address": "900 Rue du Pommier - Champdor-Corcelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Chemin de Jalavoir - Challonges",
+    "address": "281 Chemin de Jalavoir - Challonges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Route d'Aix-les-Bains - Seyssel",
+    "address": "8 Route d'Aix-les-Bains - Seyssel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Auberge d'Aranc - Rue du 7 février 1944 - Aranc",
+    "address": "Rue du 7 février 1944 - Aranc",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zephyre - Artemare - Garage Pochet",
+    "address": "9 Rue de Lyon - Artemare",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Centre sportif de la semine - Chêne-en-Semine",
+    "address": "37 Route de Marsin - Chêne-en-Semine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sowatt - 21 Route de Vouvray - Bellegarde",
+    "address": "21 Route de Vouvray - Bellegarde",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Carrefour Market Estaires - Valserhône - 69 Rue de la République,",
+    "address": "69 Rue de la République, - Valserhône",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Avenue Maréchal Leclerc - Bellegarde",
+    "address": "18 Avenue Maréchal Leclerc - Valserhône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Place Victor Bérard - Bellegarde-sur-Valserine",
+    "address": "7 Place Victor Bérard - Valserhône",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEDI - Route de Vienne - Chamagnieu",
+    "address": "56 Chemin du Chevalet - Chamagnieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Rue du 19 mars 1962 - Crémieu",
+    "address": "Rue du 19 Mars 1962 - Crémieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Veille Citoyenne BRD, Hôtel de Ville - Place De La Mairie - Tignieu-Jameyzieu",
+    "address": "Place De La Mairie - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial Place du Dauphiné",
+    "address": "9 Rue des Ardennes - Tignieu-Jameyzieu",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps S.L./7003",
+    "address": "192 Montée de Bouvaresse - Frontonas",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Tignieu-Jameyzieu - Leclerc",
+    "address": "37 Rue du Dauphiné - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre Commercial Place du Dauphiné (E. Leclerc) - Tignieu-Jameyzieu",
+    "address": "33 Rue des Ardennes - Tignieu-Jameyzieu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Tignieu Jameyzieu",
+    "address": "48 Route de Crémieu - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Tignieu-Jameyzieu",
+    "address": "111 Route de Crémieu - Tignieu-Jameyzieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat des Énergies du Département de l’Isère (SEDI) - Allée des Platanes - Satolas-et-Bonce",
+    "address": "Allée des Platanes - Satolas-et-Bonce",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

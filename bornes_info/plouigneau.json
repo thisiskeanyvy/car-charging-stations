@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Hôtel de Ville de Plouigneau",
+    "address": "Rue du 9 août - Plouigneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Brico Dépot - Plouigneau",
+    "address": "190 Rue des Frênes - Plouigneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plougonven (Rue de la Montagne)",
+    "address": "Place de la Mairie - Plougonven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plouégat Guérand (Place du Bourg)",
+    "address": "4 Place du Bourg - Plouégat-Guérand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Aire de covoiturage 4 chemins Plouégat-Moysan",
+    "address": "70 Les Quatre Chemins - Plouégat-Moysan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - La Croix Rouge - Morlaix",
+    "address": "La Croix Rouge - Morlaix",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Morlaix BodemerAuto",
+    "address": "28 Route de Paris - Morlaix",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plourin Lès Morlaix (Rue Guillaume Lezach)",
+    "address": "Rue Guillaume Lezach - Plourin-lès-Morlaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Lanmeur - Super U",
+    "address": "33 rue des quatre vents - Lanmeur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Place du Pouliet - Morlaix",
+    "address": "Place du Pouliet - Morlaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

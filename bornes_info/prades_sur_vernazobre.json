@@ -1,0 +1,138 @@
+[
+  {
+    "title": "TotalEnergies - Avenue de Béziers - Saint-Chinian",
+    "address": "Avenue de Béziers - Saint-Chinian",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo - Saint-Chinian",
+    "address": "Allée Gaubert - Saint-Chinian",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Rue des Saignes, 8 - Cessenon-sur-Orb",
+    "address": "8 Rue des Saignes - Cessenon-sur-Orb",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - Château Les Carrasses - Quarante",
+    "address": "Château Les Carrasses - Quarante",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Les Carrasses (Tesla and others)",
+    "address": "Route de Capestang - Quarante",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château les Carrasses - Quarante (Porsche)",
+    "address": "Lieu-dit La Bastide - Route de Capestang - Quarante",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Rue Pierre et Marie Curie, 3 - Cazouls-lès-Béziers",
+    "address": "3 Rue Pierre et Marie Curie - Cazouls-lès-Béziers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Allée des Tilleuls - Murviel-lès-Béziers",
+    "address": "Allée des Tilleuls - Murviel-lès-Béziers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Parking poste - Olargues",
+    "address": "1 Avenue de la Gare - Olargues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - D19 - Murviel-lès-Béziers",
+    "address": "D19 - Murviel-lès-Béziers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

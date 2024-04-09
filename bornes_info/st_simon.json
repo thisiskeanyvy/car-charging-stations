@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Belib - Rue Fabre d'Églantine - Paris",
+    "address": "Rue Fabre d'Églantine - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Paris 12",
+    "address": "48 Rue de Picpus - Paris",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saemes - Rue de Reuilly - Paris",
+    "address": "Rue de Reuilly - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 29 - Picpus-Diderot",
+    "address": "172 boulevard Diderot - Paris",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saemes Reuilly-Diderot",
+    "address": "34 Rue de Reuilly - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montgallet - Paris 12",
+    "address": "20 Rue Antoine-Julien Hénard - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 126 boulevard Diderot 75012 Paris",
+    "address": "126 Boulevard Diderot - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Belib - 3 Rue Antoine-Julien Hénard - Paris",
+    "address": "3 Rue Antoine-Julien Hénard - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "BUMP-CHARGE - 26 Avenue de Saint-Mandé - Paris",
+    "address": "26 Avenue de Saint-Mandé - Paris",
+    "connectors": [
+      "x3",
+      "x1",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Interparking - Paris Bercy Arena",
+    "address": "14 Rue Erard - Paris",
+    "connectors": [
+      "x69",
+      "x46",
+      "x23"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

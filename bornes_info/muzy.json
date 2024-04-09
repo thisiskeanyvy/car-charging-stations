@@ -1,0 +1,134 @@
+[
+  {
+    "title": "ChargePoint Network - Rue André Ravalee",
+    "address": "Rue André Ravalee - Dreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Dreux",
+    "address": "Rue des Bas Buissons - Dreux",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Dreux",
+    "address": "1 rue René Miet - Dreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Dreux",
+    "address": "1 Chemin de la Mare - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Léon - Dreux",
+    "address": "7 Rue de la Garenne - Dreux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Audi",
+    "address": "52 Avenue des Fenots - Dreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen – LECLUSE AUTOMOBILES",
+    "address": "4 Avenue des Bates - Dreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Dreux",
+    "address": "Rue de Bautzen - Dreux",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE28 - Vert-en-Drouais (Rue de l'Église)",
+    "address": "Rue de l'Église - Vert-en-Drouais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue des Fontaines - Dreux",
+    "address": "7 Rue des Fontaines - Dreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

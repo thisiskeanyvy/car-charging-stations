@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDET (RÉVÉO) - Place du Caducée Cuq-Toulza",
+    "address": "Place du Caducée - Cuq-Toulza",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 15 Avenue de Castres - Cuq Toulza",
+    "address": "15 Avenue de Castres - Cuq Toulza",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Lac de Crivito",
+    "address": "1 Route du Vaux - Caraman",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Caraman, Cimetière",
+    "address": "28 Avenue de Toulouse - Caraman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "address": "Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bourg-Saint-Bernard, Lieu dit le Pestre, Fournié Grospaud Réseau",
+    "address": "7 Route du Château d'Eau - Bourg-Saint-Bernard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Allée du Golf",
+    "address": "Allée du Golf - Fiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint Paul Cap De Joux",
+    "address": "Place de l'Hôtel de Ville - Saint-Paul-Cap-de-Joux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargepoint - Intermarché - Puylaurens",
+    "address": "Route de Revel - Puylaurens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Route de Revel - Puylaurens",
+    "address": "Route de Revel - Puylaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

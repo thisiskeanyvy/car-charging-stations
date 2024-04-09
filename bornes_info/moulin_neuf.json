@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIGEIF - Presles - 9 Rue de la République",
+    "address": "9 Rue de la République - Presles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Presles Eglise",
+    "address": "5-7 Rue de la République - Presles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Novotel - Maffliers",
+    "address": "Allée des Marronniers \r\n - Maffliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Nointel - Château de Nointel",
+    "address": "Château de Nointel - Nointel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - parking des tilleuls - Montsoult",
+    "address": "3 Rue des Tilleuls - Montsoult",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Nointel - D78, Rue Jeau Saunier",
+    "address": "D78, Rue Jeau Saunier - Nointel",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf de l'Isle-Adam",
+    "address": "1 Les Vanneaux - L'Isle-Adam",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking - Avenue Fernand Fourcade - Montsoult",
+    "address": "20 Avenue Fernand Fourcade - Montsoult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Parking relais Fourcade - Montsoult",
+    "address": "Parking relais Fourcade Parking relais Fourcade - Montsoult",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIGEIF - Route de Paris (2bis hameau du beau Jay) - Belloy-en-France",
+    "address": "2 hameau du beau Jay - Belloy-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEDA - Zone Artisanale du lac - Intermarché",
+    "address": "41 Chemin du Communal - La Fouillade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Place Du Sol Del Barry",
+    "address": "Rue du Sol de la Dime - D 39 - Najac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Saint Salvadou - D71 Parking La Poste",
+    "address": "D71 Parking La Poste - Saint Salvadou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Le Bas-Ségala - D530 Parking Stade/Salle des Fêtes",
+    "address": "D530 Parking Stade/Salle des Fêtes - Le Bas-Ségala",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Morlhon-le-Haut - Route du Lac",
+    "address": "Route du Lac - Morlhon-le-Haut",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SICEP - Rue du Moulin - Laguépie",
+    "address": "2 Rue du Moulin - Laguépie",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Laguépie - Place Du Foirail",
+    "address": "Place Du Foirail - Laguépie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Foirail",
+    "address": "5317A Rue du Moulin - Laguépie",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place André Calvignac",
+    "address": "Rue des Bruyères - La Salvetat-Peyralès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - La Capelle-Bleys - Le Bourg",
+    "address": "Le Bourg - La Capelle-Bleys",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

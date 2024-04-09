@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Château de Chapeau Cornu (Tesla et autres)",
+    "address": "312 Rue de la Garenne - Vignieu",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking chemin du ruisseau - Saint-Chef",
+    "address": "2 Chemin du Ruisseau - Saint-Chef",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Square Du 19 Mars 1962 - Rochetoirin",
+    "address": "10 Route du Village - Rochetoirin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Suzel",
+    "address": "267 route de Suzel - VIGNIEU",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Minapack",
+    "address": "141 Rue des Brosses - Vézeronce-Curtin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - La tour du Pin",
+    "address": "813 Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Jean-de-Soudain - Route de Lyon",
+    "address": "678 Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - St jean de soudain - Restaurant le Saint Jean",
+    "address": "Chemin du Chapon - St jean de soudain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Saint-Jean-de-Soudain",
+    "address": "Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'entrepot du Bricolage",
+    "address": "21 Rue Pierre Dupont - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

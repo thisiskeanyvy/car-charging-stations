@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Syane - Vallorcine",
+    "address": "D1506 - Vallorcine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Station-service Vérolet",
+    "address": "2 Route Cantonale - Le Châtelard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Supermarché - Le Châtelard-Frontière",
+    "address": "2 Route Cantonale - Le Châtelard-Frontière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chamonix Excelsior (Tesla and others)",
+    "address": "355 Chemin de la Tannerie - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Télécabine des Marécottes",
+    "address": "2 La Fontaine - Les Marécottes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Place Centrale - Martigny-Croix",
+    "address": "1 Place Centrale - Martigny-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage du Mont Blanc Moulin",
+    "address": "24 Route du Grand-Saint-Bernard - Martigny-Combe",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Les Marais - Salvan",
+    "address": "6 Les Marais - Salvan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Avenue du Grand St-Bernard - Martigny",
+    "address": "Avenue du Grand St-Bernard - Martigny",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare de Salvan",
+    "address": "2 La Gare - Salvan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

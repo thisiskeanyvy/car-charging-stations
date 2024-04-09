@@ -1,0 +1,126 @@
+[
+  {
+    "title": "FDE80 - Ault - Impasse Du Marché",
+    "address": "Impasse Du Marché - Ault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 1 Rue Eric Tabarly - Ault",
+    "address": "1 Rue Eric Tabarly - Woignarue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Relais du Silence le Cise",
+    "address": "2 Route de la plage - Ault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Cise, The Originals hotels Relais",
+    "address": "2 route de la falaise - Ault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du Général Leclerc - Friaucourt",
+    "address": "10 Place du Général Leclerc - Friaucourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue de l'Église - Saint-Quentin-la-Motte-Croix-au-Bailly",
+    "address": "159 Rue de l'Église - Saint-Quentin-la-Motte-Croix-au-Bailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 - Rue du Long Champ - Saint-Quentin-la-Motte-Croix-au-Bailly",
+    "address": "262 Rue du Long Champ - Saint-Quentin-la-Motte-Croix-au-Bailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Oust-Marest - CCI",
+    "address": "1 Rue des Énergies Nouvelles - Oust-Marest",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Eu",
+    "address": "23 Route de Mers - Eu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Mers les Bains",
+    "address": "0 Avenue Pierre et Marie Curie - Mers-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Neuf-Mesnil Eglise - Rue de Saint Amand",
+    "address": "Rue de Saint Amand - Neuf-Mesnil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Usine Renault - Feignies",
+    "address": "107 Avenue André Chausson - Feignies",
+    "connectors": [
+      "x24",
+      "x24",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Parc d'Activités de Douzies",
+    "address": "Parc d'Activités de Douzies - Maubeuge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Retail Group Maubeuge",
+    "address": "124 route de Valenciennes - Feignies",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Renault Occasion - Feignies",
+    "address": "136 Route de Valenciennes - Feignies",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Route de Valenciennes",
+    "address": "131\r\n Route de Valenciennes\r\n - Feignies",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Retail park - Boulevard John Cockerill - Hautmont",
+    "address": "Boulevard John Cockerill - Hautmont",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Citroen - 12 Rue Edouard Follens, - Feignies",
+    "address": "12 Rue Edouard Follens, - Feignies",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - ZA de Longenelles Nord, 10 Rue Édouard Follens, - Feignies",
+    "address": "ZA de Longenelles Nord, 10 Rue Édouard Follens, - Feignies",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Feignies",
+    "address": "34 Rue l'Empereur - Feignies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

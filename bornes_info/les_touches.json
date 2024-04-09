@@ -1,0 +1,130 @@
+[
+  {
+    "title": "NL*EVB - MAILLEBOIS - 50 rUE HUBERT LATHAM null",
+    "address": "50 rUE HUBERT LATHAM null - MAILLEBOIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Senonches - Brezolles",
+    "address": "1B Rue de Senonches - Brezolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue Notre Dame - Brézolles",
+    "address": "2–4 Rue de la Bahine - Brezolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Châteauneuf-en-Thymerais (Place des Halles)",
+    "address": "23 Rue Maurice Viollette - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "address": "Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Grande Rue - Tréon",
+    "address": "Grande Rue - Tréon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Pondation de Félicie",
+    "address": "8 les Epineraises - Le Mesnil-Thomas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Place de l'Eglise - La Saucelle",
+    "address": "Place de l'Eglise - La Saucelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour - Nonancourt",
+    "address": "1563 Avenue des Métiers - Nonancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Saint-Lubin-des-Joncherets",
+    "address": "16 Rue de la Baronnie - Saint-Lubin-des-Joncherets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

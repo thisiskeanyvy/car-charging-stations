@@ -1,0 +1,136 @@
+[
+  {
+    "title": "La Pat' de l'ours",
+    "address": "11 Place Charles Blétel - Corveissiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Champ de foire - VAL-REVERMONT",
+    "address": "11 Champ de foire - Treffort-Cuisiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "stade treffort",
+    "address": "71 Chemin du Mas Tabouret - Val-Revermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Ceyzériat - 259 Route des Soudanières",
+    "address": "259 Route des Soudanières - Ceyzériat",
+    "connectors": [
+      "x18",
+      "x20",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - U Express - Ceyzeriat",
+    "address": "Rue de jasseron - Ceyzeriat",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A40 - Aire de Bourg Jasseron (direction Lons-le-Saunier)",
+    "address": "A40 - Jasseron",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Vadea - A40 Aire de Bourg Teyssonge (direction Lyon)",
+    "address": "A40 - Jasseron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5",
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izernore | Route de Champ Biolay 420 RossiniEnergy (Privé)",
+    "address": "420 Route de Champ Biolay - Izernore",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Grande Rue - Izernore",
+    "address": "Grande Rue - Izernore",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "INTERMARCHÉ - Chemin de la Bergaderie - Saint-Étienne-du-Bois",
+    "address": "40 Chemin de la Bergaderie - Saint-Étienne-du-Bois",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

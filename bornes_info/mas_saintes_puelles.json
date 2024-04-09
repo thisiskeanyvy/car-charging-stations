@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Syaden - Gare de Castelnaudary",
+    "address": "2 Place de la Gare - Castelnaudary",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syaden - Boulevard Lapasset - Castelnaudary",
+    "address": "4 Boulevard Général Lapasset - Castelnaudary",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Place de la République - Castelnaudary",
+    "address": "18 Place de la République - Castelnaudary",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Castelnaudary - Rue de la Pomelle",
+    "address": "130 Rue de la Pomelle - Castelnaudary",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mc Donald's - Castelnaudary",
+    "address": "D6 - Castelnaudary",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Drop'N'Plug - Hotel Ibis Styles Castelnaudary",
+    "address": "Entrée Georges Freche - Castelnaudary",
+    "connectors": [
+      "x23",
+      "x23"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Maison Escudier - Avenue Des Pyrénées - Castelnaudary",
+    "address": "Avenue Des Pyrénées - Castelnaudary",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Avenue Georges Freche - Castelnaudary",
+    "address": "Avenue Georges Freche - Castelnaudary",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ANRAS FENDEILLE",
+    "address": "3 Rue Fanum - Fendeille",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Castelnaudary - Société Rivière",
+    "address": "57 Avenue Frédéric Passy - Castelnaudary",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

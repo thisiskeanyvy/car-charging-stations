@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Château d'Aigneville",
+    "address": "80 Rue de l'Église - Aigneville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Jean Jaurès - Feuquières-en-Vimeu",
+    "address": "14 Place Jean Jaurès - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du Maréchal Leclerc - Gamaches",
+    "address": "Place du Maréchal Leclerc - Gamaches",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Feuquières-en-Vimeu - AMSOM Habitat",
+    "address": "2 Rue du Maréchal Leclerc - Feuquières-en-Vimeu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Gamaches",
+    "address": "D 1015 - Gamaches",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Feuquières",
+    "address": "47 Rue Henri Barbusse - Feuquières-en-Vimeu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Avenue du Vimeu Vert",
+    "address": "1 Avenue du Vimeu Vert - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue de la Baie de Somme - Feuquières-en-Vimeu",
+    "address": "Avenue de la Baie de Somme - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Parking Mairie Fressenneville",
+    "address": "5 Rue Pasteur - Fressenneville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Kléber - Woincourt",
+    "address": "31 Rue Kléber - Woincourt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Bp - Villevaudé",
+    "address": "69B Grande Rue - Villevaudé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de Bordeaux - Villevaudé",
+    "address": "1-3 Place de Bordeaux - Villevaudé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "À L'Ombre du Pin - 10 Rue de Verdun (Tesla and others)",
+    "address": "10 Rue de Verdun - Le Pin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VERI - Veolia Recherche et Innovation - Hall d'essais Annet sur Marne",
+    "address": "Route Départementale - Annet-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shopping Promenade Park P2 - Route Nationale - Claye-Souilly",
+    "address": "Route Nationale - Claye-Souilly",
+    "connectors": [
+      "x7",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem.mobi : MLV 344 - Carnetin-Mairie",
+    "address": "38 Rue Albert Mattar - Carnetin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shopping Promenade - Parking P1 - RN 3 - Claye-Souilly",
+    "address": "Route Nationale - Claye-Souilly",
+    "connectors": [
+      "x34",
+      "x34",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shopping Promenade",
+    "address": "- Claye-Souilly",
+    "connectors": [
+      "x34",
+      "x34",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Claye-Souilly - Rue Jean Jaurès",
+    "address": "Rue Jean Jaurès - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Claye Souillly",
+    "address": "1 Rue Robert Schumann - Claye-Souilly",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

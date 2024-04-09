@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Mouv' Oise - rond point de branchu - Lierville",
+    "address": "D153 - Lierville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour Market - Magny-en-Vexin - Rue de Rouen,",
+    "address": "Rue de Rouen, - Magny-en-Vexin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Aventure Land - Magny en Vexin",
+    "address": "RD14 sortie 19 - Magny en Vexin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Magny-en-Vexin",
+    "address": "Route De Mantes - Magny-en-Vexin",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Avenue de la Gare - Chaumont en Vexin",
+    "address": "Avenue de la Gare - Chaumont en Vexin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Ruelle de la Foulerie - Chaumont en vexin",
+    "address": "6 Ruelle de la Foulerie - Chaumont-en-Vexin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TOYOTA GISORS 22KW AC",
+    "address": "3 Route de Boisgeloup - Gisors",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Librefruit - Gisors",
+    "address": "1214 D15B - Gisors",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IECharge - Trie la Ville",
+    "address": "1 Rue Nationale - Trie-la-Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Siege27 - Place de la mairie Gisors",
+    "address": "2 Rue de l'Annonciade - Gisors",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

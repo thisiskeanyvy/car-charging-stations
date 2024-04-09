@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hôtel d'Orbigny - Boulevard de la République - Châtelaillon-Plage (Privé)",
+    "address": "47 Boulevard de la République - Châtelaillon-Plage",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 122 Avenue d'Angoulins - Châtelaillon-Plage",
+    "address": "122 Avenue d'Angoulins - Châtelaillon-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVlink - Avenue de Strasbourg - Châtelaillon-Plage (privé)",
+    "address": "80 Avenue de Strasbourg - Châtelaillon-Plage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Châtelaillon-Plage - Haut-Rillon / accès RD137",
+    "address": "28 Avenue du Haut-Rillon - Châtelaillon-Plage",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 2B Square des Terriers - Châtelaillon-Plage",
+    "address": "2B Square des Terriers - Châtelaillon-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-bike - 10 Cours du Maréchal Juin",
+    "address": "10 Cours du Maréchal Juin - Châtelaillon-Plage",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BE CABLE - Ibis La Grande Terrasse - Châtelaillon-Plage",
+    "address": "Avenue de la Falaise - Châtelaillon-Plage",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Grande Terrasse (Tesla et autres)",
+    "address": "Avenue de la Falaise - Châtelaillon-Plage",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Côté Océan & Bistrot - Angoulins",
+    "address": "18 Avenue de Chatelaillon - Angoulins",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Châtelaillon-Plage - 1 Allée Bernard Moreau",
+    "address": "1 Allée Bernard Moreau - Châtelaillon-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

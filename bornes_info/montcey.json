@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SIED 70 - Frotey Les Vesoul - Eurotel",
+    "address": "1 Impasse Bel-air - Frotey-lès-Vesoul",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIED70 - Parking de Saulx - Saulx",
+    "address": "48 Grande Rue - Saulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Renault Sonodia",
+    "address": "4 bd Kennedy - Vesoul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Mairie - Frotey-lès-Vesoul",
+    "address": "24 Rue Auguste Guyard - Frotey-lès-Vesoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Cora - Vesoul",
+    "address": "Boulevard Kennedy - Vesoul",
+    "connectors": [
+      "x2",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Vesoul",
+    "address": "4 Boulevard Kennedy - Vesoul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "gendarmerie",
+    "address": "3 Rue du Maréchal Juin - Vesoul",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - VESOUL - 22 route de Paris",
+    "address": "22 route de Paris - VESOUL",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargeGuru - Vesoul - Audi",
+    "address": "Avenue Christian Colombet - Vesoul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - route de paris null - vesoul",
+    "address": "route de paris null - vesoul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

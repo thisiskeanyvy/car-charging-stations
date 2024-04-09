@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Ellon Park & Ride",
+    "address": "A920 - Ellon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Meldrum House Country Hotel & Golf Course (Tesla & others)",
+    "address": "Unnamed Road - Oldmeldrum",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Glen Gariouch distillery",
+    "address": "11 Distillery Road - Inverurie",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Andrew Cowie Construction",
+    "address": "Oldmeldrum - Inverurie,Aberdeenshire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exploration Drive, Bridge of Don",
+    "address": "Exploration Drive - Bridge of Don",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aberdeen Exhibition and Conference Centre",
+    "address": "Conference Way - Aberdeen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aberdeen Airport Car Park",
+    "address": "Brent Road - Dyce",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Burn Lane",
+    "address": "Burn Lane - Inverurie",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Burn Lane Car Park, Inverurie",
+    "address": "Burns Lane - Inverurie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Evyve - Aberdeen - Dyce Drive 1A",
+    "address": "Dyce Drive 1A - Aberdeen",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

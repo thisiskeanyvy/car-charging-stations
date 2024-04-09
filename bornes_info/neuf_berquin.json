@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Pass Pass - Rue Charles Capelle - Neuf-Berquin",
+    "address": "Rue Charles Capelle - Neuf-Berquin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - 7 Rue Jean Jaurès - Merville",
+    "address": "7 Rue Jean Jaurès - Merville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Merville - Avenue Clémenceau",
+    "address": "1-3 Avenue Clemenceau - Merville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Brasserie du pays Flamand",
+    "address": "83 Route de la Gorgue - Merville",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine l'ondine",
+    "address": "30 Rue Jacqueminemars - Estaires",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue de l’Ondine - Estaires",
+    "address": "Rue de l’Ondine - Estaires",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Gamm Vert - Estaires",
+    "address": "41 Rue Jacqueminemars - Estaires",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Carrefour Market - Estaires",
+    "address": "Rue de Merville - Estaires",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FR*H14 - Le Doulieu - 331 Grand Rue",
+    "address": "331 Grand Rue - Le Doulieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Place de l'Eglise - La Gorgue",
+    "address": "8 Rue de Verdun - La Gorgue",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

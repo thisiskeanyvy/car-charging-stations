@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Monta - Melsheim - 126 Rue Principale",
+    "address": "126 Rue Principale - Melsheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "6–9 Quai du Canal",
+    "address": "6–9 Quai du Canal - Waltenheim-sur-Zorn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - Morschwiller - Rue Principale 27",
+    "address": "Rue Principale 27 - Morschwiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Gare de Mommenheim",
+    "address": "Rue de la Gare - Mommenheim",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Peugeot PSA - Val-de-Moder",
+    "address": "1 Rue de Hanau - Val-de-Moder",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue de Saverne - Val-de-Moder",
+    "address": "Rue de Saverne - Val-de-Moder",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Parking de l'Orangerie - Bouxwiller",
+    "address": "7 Faubourg Saint-Georges - Bouxwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ets SCHERER",
+    "address": "2 Rue des Hêtres - Mommenheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maisons Hanau - Pfaffenhoffen",
+    "address": "17 Rue de Strasbourg - Pfaffenhoffen",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Place De La Republique - Uberach",
+    "address": "1 Place De La Republique - val de moder",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

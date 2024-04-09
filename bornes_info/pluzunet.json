@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Syndicat Départemental d'Énergie Des Côtes d'Armor (SDE22) - Tonquédec - Rue Angéla Duval",
+    "address": "Rue Angéla Duval - Tonquédec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Rue Maurice Denis Cavan",
+    "address": "Rue Maurice Denis - Cavan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bégard, place de l'église​",
+    "address": "Place du Centre - Bégard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Bégard",
+    "address": "Rue De Guingamp - Bégard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Bégard - Netto",
+    "address": "6 Hent Stank Névez - Bégard",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE22 - Le Vieux Marché",
+    "address": "Place Angela Duval - Le Vieux-Marché",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE22 - Plouaret",
+    "address": "Rue du Foyer - Plouaret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Gare de Plouaret-Trégor",
+    "address": "684 Rue de la Gare - Plouaret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison France Service - Plouaret",
+    "address": "Rue Louis Prigent - Plouaret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 Louargat",
+    "address": "Passage de la Mairie - Louargat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

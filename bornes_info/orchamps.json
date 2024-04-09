@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ENGIE Vianeo - A36 Aire de Dôle Romange (direction Beaune)",
+    "address": "A36 - Audelange",
+    "connectors": [
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A36 Aire de Dôle Audelange (direction Besançon)",
+    "address": "2 Rue Du Martinet - Audelange",
+    "connectors": [
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Colruyt Fraisans",
+    "address": "4 Rue de la Gare - Fraisans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Authume - 50 Rue Du Château",
+    "address": "50 Rue Du Château - Authume",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Dole",
+    "address": "Rue Léon Bel - Dole",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mc Donalds - Zone des Epenottes",
+    "address": "16 Rue François-Xavier Bichat - Dole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DS Store - Rue François-Xavier Bichat - DOLE",
+    "address": "Rue François-Xavier Bichat - DOLE",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint-Vit - Intermarché",
+    "address": "2 rue de Besançon - Saint-Vit",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Dole",
+    "address": "3 Rue Monge - Dole",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Lantenne Vertière - École",
+    "address": "Ecole - Lantenne Vertière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

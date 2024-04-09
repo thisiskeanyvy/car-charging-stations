@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE53 - Rue des Charmes - Vaiges",
+    "address": "4 Rue des Charmes - Vaiges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE53 - Rue de Soulge - Bazougers",
+    "address": "Rue de Soulge - Bazougers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue des Grottes - Saulges",
+    "address": "3 Rue des Grottes - Saulges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A81 Aire de la vallée de l'Evre (direction Le Mans)",
+    "address": "53270 L'Armoricaine - Thorigné-en-Charnie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - Impasse du Chaintre - Montsûrs",
+    "address": "Impasse du Chaintre - Montsûrs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 2 Impasse Emile Salle - Montsûrs",
+    "address": "2 Impasse Emile Salle - Montsûrs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Cimetière - Sainte Suzanne",
+    "address": "Place des Charrières - Sainte-Suzanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A81 Aire de Saint-Denis d'Orques (direction Laval)",
+    "address": "A81 - Saint-Denis-d'Orques",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Meslay du Maine",
+    "address": "Rue de laval - Meslay du maine",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE53 - Place de la Poste, 6 - Meslay-du-Maine",
+    "address": "6 Place de la Poste - Meslay-du-Maine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

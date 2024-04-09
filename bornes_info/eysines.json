@@ -1,0 +1,128 @@
+[
+  {
+    "title": "39 Rue des Vignes",
+    "address": "39 Rue des Vignes - Eysines",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Eysines - Intermarché",
+    "address": "Avenue du Taillan - Eysines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Avenue du Médoc - Eysines (acdf)",
+    "address": "144 Avenue du Médoc - Eysines",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi Cantinolle",
+    "address": "Avenue du Taillan - Eysines",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Eysines - Hôtel Première Classe",
+    "address": "74 avenue du Médoc - Eysines",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc-Relais Cantinolle - Le Haillan",
+    "address": "Accès parc-relais - Le Haillan",
+    "connectors": [
+      "x21"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Route du Médoc - Bruges",
+    "address": "469 Route du Médoc - Bruges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA - Bruges",
+    "address": "469 Route du Médoc - Bruges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "P+R hippodrome - Le Bouscat",
+    "address": "avenue d'Eysines - Le Bouscat",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ecomobiles 33 - Le Haillan",
+    "address": "84 bis Rue Jean Mermoz - Le Haillan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

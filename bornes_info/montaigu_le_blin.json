@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE03 - Saint-Gérand-le-Puy",
+    "address": "Rue Maurice Dupont - Saint-Gérand-le-Puy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Varennes-sur-Allier",
+    "address": "Place de l'Hôtel de ville - Varennes-sur-Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking CC VARENNES-FORTERRE",
+    "address": "5bis Rue du 4 Septembre - Varennes-sur-Allier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tables en fête",
+    "address": "23 Rue Jean Chaume - Varennes-sur-Allier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Agro-Service 2000 - Lapalisse",
+    "address": "1 rue de l'activité - Lapalisse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue de Chazeuil - Varennes-sur-Allier",
+    "address": "90 Avenue de Chazeuil - Varennes-sur-Allier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - RN7 L'Aire des Vérités - Lapalisse",
+    "address": "6 N7 - Lapalisse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aldi - Aire de vérités - Lapalisse",
+    "address": "Aire de vérités - Lapalisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Lapalisse",
+    "address": "avenue De Dompierre, - Lapalisse",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Lapalisse (Avenue Pasteur)",
+    "address": "1 Avenue Pasteur - Lapalisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

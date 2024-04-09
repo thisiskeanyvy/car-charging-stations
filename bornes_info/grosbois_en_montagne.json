@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Powerdot - Super U - Pouilly en Auxois",
+    "address": "8 Rue Sergent Stephane Mazeau - Pouilly-en-Auxois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A6 - Aire des Lochères (direction Auxerre)",
+    "address": "A6 - Eguilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Siceco - Mairie de Pouilly-en-Auxois",
+    "address": "2 Ruelle du Gué - Pouilly-en-Auxois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-Vadea - A6 Aire du Chien Blanc (direction Beaune)",
+    "address": "A6 - Aire du Chien Blanc - Gissey-le-Vieil",
+    "connectors": [
+      "x2",
+      "x2",
+      "x7",
+      "x5",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Volkswagen Garage Jeannin",
+    "address": "D18 - Pouilly-en-Auxois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Maison de Pays - Pouilly-en-Auxois",
+    "address": "1 d12 le seuil - Pouilly-en-Auxois",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - Rue Georges Besse - Créancey",
+    "address": "6 Za Les Portes De Bourgogne - Créancey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SICECO - Sombernon",
+    "address": "56 Avenue de la Brenne - Sombernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Route d'Avallon - Vitteaux",
+    "address": "D70 Route d'Avallon - Vitteaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Golf Château de Chailly (Tesla and others)",
+    "address": "1 Allée du Chateau - Chailly-sur-Armançon",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Pass Pass Electrique - Waziers - Rue de la Liberté",
+    "address": "Rue de la Liberté - Waziers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Waziers Lycée Paul Langevin",
+    "address": "213-281 Rue Paul Langevin - Waziers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Waziers",
+    "address": "270 Rue Paul Langevin - Waziers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint network - Route de Tournai - Douai",
+    "address": "Route de Tournai - Douai",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue de Belfort - Waziers",
+    "address": "30 Rue de Belfort - Waziers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Leroy-Merlin - Douai-Waziers",
+    "address": "avenue du Commerce et de l'Artisanat - Waziers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Douai | Rue François Pilatre de Rozier",
+    "address": "Rue François Pilatre de Rozier - Douai",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Parc Jacques VERNIER - Route de Tournai - Douai",
+    "address": "75 Route de Tournai - Douai",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Rue Gabriel Fauré - Douai",
+    "address": "2 Rue Gabriel Fauré - Douai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel d'entreprise - Siège CAD",
+    "address": "821-877 Rue Jean Perrin - Douai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

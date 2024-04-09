@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Salle des fêtes de Perrigny",
+    "address": "23 Rue de la Cour - Perrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Route de Perrigny",
+    "address": "74 Grande Rue - Saint-Georges-sur-Baulche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bureau Vallee - Perrigny",
+    "address": "1bis Allée Fontaine - Perrigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdey - Saint-Georges-sur-Baulche",
+    "address": "115 Rue de Bruxelles - Saint-Georges-sur-Baulche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Boulevard de Verdun - Auxerre",
+    "address": "Boulevard Gouraud - Auxerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - BMW - Auxerre",
+    "address": "3 Rue Louise Weiss, - Auxerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Groupe Jeannin Volkswagen - Avenue Charles de Gaulle",
+    "address": "40 Avenue Charles de Gaulle - Auxerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Monéteau",
+    "address": "850 Les Grandes Haies - Monéteau",
+    "connectors": [
+      "x1",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Auxerre",
+    "address": "36 Avenue Charles de Gaulle - Auxerre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi Auxerre",
+    "address": "36 Avenue Charles de Gaulle - Auxerre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

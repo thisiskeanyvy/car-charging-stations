@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Modulo-Energies - Sampigny",
+    "address": "7 Rue Raymond Poincaré - Sampigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Commercy - Centre des Roises",
+    "address": "14 Rue De La Gare - Commercy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Eglise - Rue jeanne d'arc",
+    "address": "4 Rue Jeanne d'Arc - Vignot",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Supermarché Match - Commercy",
+    "address": "4 Rue Elisabeth de Lorraine - Commercy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Modulo-Energies - Commercy - Clos Vert",
+    "address": "1 Rue du Clos Vert - Commercy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Commercy",
+    "address": "1 Rue Jean Moulin\r\n - Commercy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot France - COMMERCY (RUE D'EUVILLE) - 24 Rue d'Euville, 55200 Commercy, France",
+    "address": "24 Rue d'Euville, 55200 Commercy, France - COMMERCY (RUE D'EUVILLE)",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue du 155E Régiment Infanterie - Commercy",
+    "address": "Rue du 155E Régiment Infanterie - Commercy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "McDonald's - Rue de Lattre de Tassigny",
+    "address": "5 Rue de Lattre de Tassigny - Commercy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Commercy - AquaMosa",
+    "address": "1 Rue du Colonel Beltrame - Commercy",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

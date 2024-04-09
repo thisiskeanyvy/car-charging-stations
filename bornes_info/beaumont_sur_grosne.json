@@ -1,0 +1,128 @@
+[
+  {
+    "title": "FASTNED - A6 - Aire de Saint-Ambreuil (direction Beaune)",
+    "address": "A6 - Saint-Ambreuil",
+    "connectors": [
+      "x2",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - A6 Aire de la Ferté Saint-Ambreuil (direction Beaune)",
+    "address": "Aire de la Ferté, Saint-Ambreuil - Saint-Ambreuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A6 Aire de la Ferté (direction Mâcon)",
+    "address": "A6-Paris Lyon Autoroute du Soleil - Saint-Ambreuil",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Netto - Sennecey-le-Grand",
+    "address": "1 Allée du Carrouge - Sennecey-le-Grand",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au Crot Foulot (Tesla et autres)",
+    "address": "Lieu dit au Crot Foulot - Jugy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rainer THUMM",
+    "address": "3 Rue Jules l'Abbé - Gigny-sur-Saône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Route Nationale 6 - Saint Loup de Varennes",
+    "address": "Route Nationale 6 - Saint Loup de Varennes",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Sevrey",
+    "address": "Allée des Érables - Sevrey",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc Jardin - Allée Des Érables - Sevrey",
+    "address": "Allée Des Érables - Sevrey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Lux",
+    "address": "27 Rue Charles Dumoulin - Lux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "FDEL - Lalbenque",
+    "address": "D10 - Lalbenque",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDEL - Le foirail - Concots",
+    "address": "D911 - Concots",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Chemin du Foirail - Puylaroque",
+    "address": "9 Place de la Libération - Puylaroque",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Total Energies - A20 Aire Bois de Dourre (double sens)",
+    "address": "A20 Aire De Bois Dourre - Montalzat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - Mazda - Cahors",
+    "address": "Z.A. de Labastide - Cahors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Cahors - Carrefour giratoire du roc de l'agasse null",
+    "address": "Carrefour giratoire du roc de l'agasse null - Cahors",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue du 19 Mars 1962 Montpezat-de-Quercy",
+    "address": "Rue du 19 Mars 1962 - Montpezat-de-Quercy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Peugeot du Grand boulevard",
+    "address": "1050 Route de Toulouse - Cahors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Cahors",
+    "address": "240 Route de Toulouse - Cahors",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 1123 Avenue Anatole de Monzie - Cahors",
+    "address": "1123 Avenue Anatole de Monzie - Cahors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDE82 - Caussade (Place des Mûriers)",
+    "address": "Place des Mûriers - Caussade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue Moissagaise Caussade",
+    "address": "40 Rue Moissagaise - Caussade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Caussade",
+    "address": "12 Rue de Versailles - Caussade",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Caussade - Super U",
+    "address": "Route de Réalville - Caussade",
+    "connectors": [
+      "x8",
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Route des Pigeonniers Monteils",
+    "address": "410 Route des Pigeonniers - Monteils",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Caussade - 69 Avenue Edouard Heriot",
+    "address": "69 Avenue Edouard Herriot - Caussade",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Route De Negrepelisse - Caussade",
+    "address": "162 Route De Negrepelisse - Caussade",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Saint-Vincent-d'Autéjac - 1380 Rte du Galdassié",
+    "address": "1380 Rte du Galdassié - Saint-Vincent-d'Autéjac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT SAS - Septfonds - 12 Chemin de Luachos",
+    "address": "12 Chemin de Luachos - Septfonds",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - 30 rue des caussets 30 - saint cirq",
+    "address": "30 rue des caussets 30 - saint cirq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

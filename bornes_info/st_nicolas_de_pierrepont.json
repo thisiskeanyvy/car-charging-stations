@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FR*SEV - La Haye - D903 ZA de l'étrier",
+    "address": "D903 ZA de l'étrier - La Haye",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place du Champ de Foire - La Haye",
+    "address": "3 Place du Champ de Foire - La Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Rue du Vavasseur - La Haye",
+    "address": "Rue du Vavasseur - La Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - SAINT LO D OURVILLE - RUE DE LA MER 2",
+    "address": "RUE DE LA MER 2 - SAINT LO D OURVILLE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue Robert Asselin - Portbail",
+    "address": "1 Rue Robert Asselin - Portbail",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Place Auguste Cousin",
+    "address": "8 Place Auguste Cousin - Saint-Sauveur-le-Vicomte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La ferme des mares",
+    "address": "26 Rue des Mares - St.-Germain-sur-Ay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking - Place Saint-Cloud - Lessay",
+    "address": "34 Place Saint-Cloud - Lessay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking marché - Lessay",
+    "address": "2–4 Rue de la Poste - Lessay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route du Ferrage - Lessay",
+    "address": "21 Route du Ferrage - Lessay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

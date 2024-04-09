@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Rue Chevrière - Bouchemaine",
+    "address": "19 Rue Chevrière - Bouchemaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Bouchemaine - Rue Chevriere",
+    "address": "Rue Chevrière - Bouchemaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6606665",
+    "address": "2 Rue des Frères Gasnier - Bouchemaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue du Lac de Maine - Angers",
+    "address": "20 Route d'Angers - Bouchemaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - STE GEMMES SUR LOIRE - Place De La Mairie",
+    "address": "Place de la Mairie - Sainte-Gemmes-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEML - Angers - Place Jean XXIII",
+    "address": "Avenue Jean XXIII - Angers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "BMTI FRESHMILE - 2-4 Rue De L'ardelière - Beaucouzé (Privé)",
+    "address": "2-4 Rue De L'ardelière - Beaucouzé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Espace emeraude",
+    "address": "51 Avenue Amiral Chauvin - Les Ponts-de-Cé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Angers - 16 Rue du Grand Launay",
+    "address": "20 Rue du Grand Launay - Angers",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ethic-Etapes - Angers",
+    "address": "49 Avenue du Lac de Maine - Angers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

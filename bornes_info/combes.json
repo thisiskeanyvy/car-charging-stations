@@ -1,0 +1,146 @@
+[
+  {
+    "title": "TotalEnergies - A20 - Aire des Mille Étangs (direction Limoges)",
+    "address": "A20 - Luant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue de Chateauroux - Buxières d'Aillac",
+    "address": "11 bis de Chateauroux - Buxières-d'Aillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Energies de l'Indre (SDEI36) - Maillet - Rue de la Garenne",
+    "address": "Rue de la Garenne - Maillet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Rte de la Philippière - Chasseneuil",
+    "address": "2 Route de la Philippière - Chasseneuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Luant - Place de l'église",
+    "address": "4 Place de l'Église - Luant",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Eugène Delacroix - ARGENTON SUR CREUSE",
+    "address": "Rue Eugène Delacroix - ARGENTON SUR CREUSE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEI36 - Rue du clos st Joseph Argenton-sur-Creuse",
+    "address": "6 Rue de la Sablière - Argenton-sur-Creuse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Place Gérard Pornet - Saint-Marcel",
+    "address": "1 Place Gérard Pornet - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEI36 - Argenton-sur-Creuse",
+    "address": "10 Rue de la Gare - Argenton-sur-Creuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Place du champs de foire",
+    "address": "Rue du Champ de Foire - Argenton-sur-Creuse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  }
+]

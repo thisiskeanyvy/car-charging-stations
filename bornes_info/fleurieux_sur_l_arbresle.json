@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SYDER - Parking Benoit Dubost - Fleurieux-sur-l'Arbresle",
+    "address": "108 Rue Gabriel Combaudon - Fleurieux-sur-l'Arbresle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDER - Place de l'Eglise - Lentilly",
+    "address": "10 Place de l'Église - Lentilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault LAFAY (Privé)",
+    "address": "136 Chemin du Cornu - Fleurieux-sur-l'Arbresle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syder - 97 Rue Émile Zola",
+    "address": "97 Rue Émile Zola - L'Arbresle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - 118 Rue de l'Eglise - Éveux",
+    "address": "118 Rue de l'Eglise - Éveux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Mairie de Lozanne",
+    "address": "Route de Lyon Parking Mairie - Lozanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - Place Victor Hugo - L'Arbresle",
+    "address": "13 Rue du Docteur Dusserre - L'Arbresle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bar la baraque",
+    "address": "37 Rue de l'Entreprise - Lozanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bigmat Girardon (Privé)",
+    "address": "Allée des Boutons d'Or - Lentilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking B Hotel",
+    "address": "37 Rue de l entreprise - Lozanne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

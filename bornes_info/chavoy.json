@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEM50 - La Haye Pesnel",
+    "address": "2 Rue Claude Monet - La Haye-Pesnel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue de l'Église Sartilly",
+    "address": "3 Rue des Écoles - Angey",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Aire de Covoiturage - Sartilly",
+    "address": "Huche Pie - Sartilly",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Rue des Rouges Gorges",
+    "address": "4 Rue des Rouges Gorges - Sartilly-Baie-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Gare Folligny",
+    "address": "La Gare - Folligny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Repas - Folligny",
+    "address": "14 rue de paris - Folligny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*SEV - Saint-Planchers - 6 Les Pas",
+    "address": "6 Les Pas - Saint-Planchers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le domaine de Belleville, maison d'hôtes et gîtes",
+    "address": "11 Route de Saint Marc - Dragey-Ronthon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Avranches - Gare",
+    "address": "3 Place de la Gare - Avranches",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sevdec - McDonald's - Avranches",
+    "address": "Rond Point de Moncreton - Avranches",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

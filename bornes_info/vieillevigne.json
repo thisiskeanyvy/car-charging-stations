@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Powerdot - Intermarché - Vieillevigne",
+    "address": "14 Avenue Jules Verne - Vieillevigne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydego - Vieillevigne",
+    "address": "Rue du Pré du Bois - Vieillevigne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Vieillevigne",
+    "address": "Rue Eric Tabarly - Vieillevigne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Mairie - Saint André Treize Voies",
+    "address": "Rue De La Mairie - Saint-André-Treize-Voies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue du Stade - La Planche",
+    "address": "Rue du Stade - La Planche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 1 Parc Vendée Sud Loire - Montaigu-Vendée",
+    "address": "1 Parc Vendée Sud Loire - Montaigu-Vendée",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - 1 Rue du Fléchet - Montaigu-Vendée",
+    "address": "1 Rue du Fléchet - Montaigu-Vendée",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Hôtel Saint-James Montaigu-Vendée",
+    "address": "93 Rue Du Fléchet - Montaigu-Vendée",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SyDEV - Rue du Grand Moulin - Rocheservière",
+    "address": "Rue Du Grand Moulin - Rocheserviere",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bx one - Boufféré",
+    "address": "10 rue Augustin Fresnel - Boufféré",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

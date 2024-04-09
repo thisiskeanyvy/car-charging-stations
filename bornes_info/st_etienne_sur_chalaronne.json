@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FASTNED - A6 - Aire de Dracé (direction Lyon)",
+    "address": "A6 - Dracé",
+    "connectors": [
+      "x2",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Place du champ de foire - Châtillon-sur-Chalaronne",
+    "address": "100 Place du Champ de Foire - Châtillon-sur-Chalaronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - A6 Aire de Taponas (Direction Maçon)",
+    "address": "A 6 - Taponas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarche - Châtillon-sur-Chalaronne",
+    "address": "481 Avenue Jean Jaurès - Châtillon sur Chalaronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Chaneins - Saint-Trivier-sur-Moignans",
+    "address": "104 Route de Chaneins - Saint-Trivier-sur-Moignans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 1689 Route de Saint-Trivier Gîte La Tourelle - Francheleins",
+    "address": "1689 Route de Saint-Trivier Gîte La Tourelle - Francheleins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Romanèche-Thorins",
+    "address": "51 Les Etelles - Romanèche-Thorins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de la République - Belleville-en-Beaujolais",
+    "address": "1 Rue de la République - Belleville-en-Beaujolais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Rue de la Serve de Vignes - Belleville-en-Beaujolais",
+    "address": "Rue de la Serve de Vignes - Belleville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking hameau duboeuf",
+    "address": "796 Route de la Gare - Romaneche-Thorin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

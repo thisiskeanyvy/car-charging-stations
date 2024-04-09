@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SYDEC - Parking des arènes - Pontonx-sur-l'Adour",
+    "address": "Rue de Baluhecq - Pontonx-sur-l'Adour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEC - Mairie de Hinx",
+    "address": "Route du Port - Hinx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Avenue Jean Jaurès Montfort-en-Chalosse",
+    "address": "613 Avenue Jean Jaurès - Montfort-en-Chalosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne (ZTL) - Saint-Vincent-de-Paul - Route de Carrère",
+    "address": "Route de Carrère - Saint-Vincent-de-Paul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Carglass - Saint-Paul-lès-Dax",
+    "address": "1442 Boulevard Saint-Vincent-de-Paul - Saint-Paul-lès-Dax",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Mairie - Narrosse",
+    "address": "117 rue des Ecoles - Narrosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bump - Saint-Paul-lès-Dax - 980 Boulevard Saint-Vincent-de-Paul",
+    "address": "980 Boulevard Saint-Vincent-de-Paul - Saint-Paul-lès-Dax",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NL*EVB - Yzosse - route de Montfort 519",
+    "address": "route de Montfort 519 - Yzosse",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bump - Saint-Paul-lès-Dax - 980 Boulevard Saint-Vincent-de-Paul",
+    "address": "980 Boulevard Saint-Vincent-de-Paul - Saint-Paul-lès-Dax",
+    "connectors": [
+      "x8",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Tartas",
+    "address": "Le, Chem. du Claous, - Tartas",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

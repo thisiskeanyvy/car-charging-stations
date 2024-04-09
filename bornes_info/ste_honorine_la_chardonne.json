@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SE61 - Athis de l'orne, Rue guillaume le conquérant",
+    "address": "2 Rue Guillaume le Conquérant - Athis-de-l'Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Mairie Saint-Denis de Méré",
+    "address": "Rue des Rosiers - Saint Denis de Méré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - CONDÉ SUR NOIREAU (Rue Saint-Martin) SUPPRIMÉ",
+    "address": "Rue Saint-Martin - Condé-sur-Noireau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Condé sur Noireau (Rue des Prés Guillets",
+    "address": "10 Rue des Prés Guillets - Condé-sur-Noireau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Pont-d'Ouilly (parking de l'église)",
+    "address": "Rue de Bretagne - Pont-d'Ouilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SE61 - Le bourg - Caligny",
+    "address": "21 Le Bourg - Caligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Aubusson - Saint-Georges-des-Groseillers",
+    "address": "1134\r\n Rue Aubusson\r\n - Saint-Georges-des-Groseillers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sevdec - Ciriam - Caligny",
+    "address": "Ciriam - Caligny",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Germain-du-Crioult",
+    "address": "1 D184 - Saint-Germain-du-Crioult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - CLECY (Rue Arsène Delavigne)",
+    "address": "Rue Arsène Delavigne - Clécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

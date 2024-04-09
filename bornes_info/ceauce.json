@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SE61 - La veillotière Ceaucé",
+    "address": "5 Chemin de la Veillotière - Ceaucé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Saint-Fraimbault",
+    "address": "Place de l'Église - Saint-Fraimbault",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Halte de Saint-Front",
+    "address": "952 D962 - Domfront",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Yes55 - Passais - rue de la mairie",
+    "address": "rue de la mairie - Passais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place des justes - Passais-Villages",
+    "address": "13 Place Justes - Passais-Villages",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place Billard de Veaux - Ambrières",
+    "address": "6 Place Billard de Veaux - Ambrières-les-Vallées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Ambrières-les-Vallées - 1 Rue des Moulins",
+    "address": "1 Rue des Moulins - Ambrières-les-Vallées",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Domfront en Poiraie",
+    "address": "18 Rue du Mont Margantin, - Domfront en Poiraie",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Mairie de Juvigny-Sous-Andaine",
+    "address": "Place Saint-Michel - Juvigny-Sous-Andaine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue du Mont Saint-Michel - Domfront",
+    "address": "13 Rue du Mont Saint-Michel - Domfront",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

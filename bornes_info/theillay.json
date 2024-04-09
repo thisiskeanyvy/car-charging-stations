@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIDELC - Theillay",
+    "address": "21 Rue de la Pierre - Theillay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Crematorium de theillay",
+    "address": "30 Route de Neuvy - Theillay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - A71 Aire de Salbris-Theillay (direction Bourges)",
+    "address": "A71 - Theillay",
+    "connectors": [
+      "x2",
+      "x7",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - A71 Aire de Salbris (Direction Vierzon) SUPPRIMÉ",
+    "address": "A71 L'Arverne - Theillay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - A71 Aire de Salbris-la Loge (Direction Orléans)",
+    "address": "A71 L'Arverne - Theillay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "AVIA - A71 Aire de Salbris-La Loge (direction Orléans)",
+    "address": "A71 - Theillay",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ALGOSUP - Allée Georges Charpak",
+    "address": "Allée Georges Charpak - Vierzon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Pôle d'Activités - Vierzon",
+    "address": "Route de Vieilfond - Vierzon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Vierzon",
+    "address": "Le Batonet - Vierzon",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Monta - Vierzon - Rue Pierre et Jean Serpaud",
+    "address": "Rue Pierre et Jean Serpaud - Vierzon",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

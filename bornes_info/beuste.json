@@ -1,0 +1,118 @@
+[
+  {
+    "title": "L'Enclos Béarnais (Tesla et autres)",
+    "address": "87 Rue des Pyrénées - Bénéjacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - ZEborne - 132 Rue des Pyrénées - Benejacq",
+    "address": "132 Rue des Pyrénées - Benejacq",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MObiVE - 59 Rue des Pyrénées",
+    "address": "Impasse de la fontaine - Bénéjacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "36 Route de Bénéjacq",
+    "address": "36 Route de Bénéjacq - Coarraze",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Gare Nay-Coarraze",
+    "address": "64 Rue de la Gare - Coarraze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - 11 Cours Pasteur - Nay",
+    "address": "11 Cours Pasteur - Nay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Route de Lourdes - Bordes",
+    "address": "19 Rue de Lourdes - Bordes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Autorecharge - Bricomarché - Coarraze",
+    "address": "6 Rue Charles Péguy - Coarraze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Coarraze",
+    "address": "1 Avenue de la gare - Coarraze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiVE - Place du 8 Mai 1945 - Nay",
+    "address": "Place du 8 mai 1945 - Nay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

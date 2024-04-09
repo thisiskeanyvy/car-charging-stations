@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SEYMABORNE - Mairie de Limay",
+    "address": "14 Avenue du Président Wilson - Limay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Sangle - Mantes-la-Jolie",
+    "address": "Rue de la Sangle - Mantes-la-Jolie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*Y01 - Mantes-la-Jolie - 15 Boulevard des Cygnes",
+    "address": "15 Boulevard des Cygnes - Mantes-la-Jolie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Place Saint-Jacques - Mantes-la-Jolie",
+    "address": "Place Saint-Jacques - Mantes-la-Jolie",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Rue Gambetta - Mantes-la-Jolie",
+    "address": "Rue Gambetta - Mantes-la-Jolie",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Place Robespierre - Limay",
+    "address": "59 Place Maximilien de Robespierre - Limay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking mairie - Mantes-la-Jolie",
+    "address": "13 Place de la République - Mantes-la-Jolie",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Rue d'Alsace - Mantes-la-Jolie",
+    "address": "Rue d'Alsace - Mantes-la-Jolie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belbéoc'h",
+    "address": "8 Rue des Hauts Reposoirs - Limay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Limay",
+    "address": "Route de Meulan - LIMAY",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

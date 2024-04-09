@@ -1,0 +1,138 @@
+[
+  {
+    "title": "e-born - Place Général de Gaulle - La Valette-du-Var",
+    "address": "Place Général de Gaulle - La Valette-du-Var",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Collège Daudet - La Valette-du-Var",
+    "address": "83 Résidence les Mimosas - La Valette-du-Var",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Valette-du-Var, Opel - Fiat - Alfa",
+    "address": "Rue Paul Éluard - La Valette-du-Var",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Gemy - Toulon",
+    "address": "1261 Boulevard des Armaris - Toulon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Toulon",
+    "address": "539 Rue Henri Sainte-Claire Deville - Toulon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking Ange SICCARDI - Toulon",
+    "address": "Parking Ange SICCARDI - Toulon",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Garage Krantz",
+    "address": "1442 Avenue Colonel Picot - Toulon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 469 Rue Henri Sainte-Claire Deville - Toulon",
+    "address": "469 Rue Henri Sainte-Claire Deville - Toulon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eBorn - Avenue Amiral Krantz - Toulon",
+    "address": "280 Avenue Amiral Krantz - Toulon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Kia MAI Automobiles - Toulon",
+    "address": "411 Rue Henri Sainte-Claire Deville - Toulon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Prise de Nice - De Gaulle - Villefranche",
+    "address": "Avenue du Général de Gaulle - Villefranche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Garage de l'hotel",
+    "address": "3 Quai de l'Amiral Courbet - Villefranche-sur-Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVlink - Villefranche-sur-mer (Privé)",
+    "address": "17 Place Emmanuel Philibert - Villefranche-sur-Mer",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de nice - Port de la Darse - Villefranche-sur-Mer",
+    "address": "Quai de la Corderie - Villefranche-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Villefranche sur mer",
+    "address": "55 Boulevard de la Corne d'Or - Villefranche sur mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Col de Villefranche",
+    "address": "92 Corniche André de Joly - Nice",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Belvédère de Villefranche sur Mer",
+    "address": "91 Boukevard de la Corne d'Or - Villefranche-sur-mer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Nice",
+    "address": "2 bd de l'Armée des Alpes - Nice",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Kia - Nice",
+    "address": "5 Boulevard de l'Armée des Alpes - Nice",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice Saint Roch",
+    "address": "5 boulevard Saint Roch - Nice",
+    "connectors": [
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE53 - Rue de Soulge - Bazougers",
+    "address": "Rue de Soulge - Bazougers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Laval",
+    "address": "60 Avenue De La Communauté Européenne - Laval",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE53 - le Palyndrome - Laval",
+    "address": "25 Rue Albert Einstein - Laval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - 11 Rue de Bruxelles - Laval",
+    "address": "11 Rue de Bruxelles - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Hall au Sommeil - Laval",
+    "address": "64 Rue de Berlin - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue du Maine - Bonchamp-lès-Laval",
+    "address": "Rue du Maine - Bonchamp-lès-Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Laval | Aire de Laval la Mayenne",
+    "address": "A81 - Laval",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Ibis Budget Laval",
+    "address": "2 Bernard Palissy - Bonchamp-lès-Laval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Chemin des Marzelles",
+    "address": "2 Chemin des Marzelles - Argentré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Place d'Avesnières - Laval (privé)",
+    "address": "24 Place d'Avesnières - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Château de St Paul (Tesla)",
+    "address": "Lieu dit St Paul - Boudy-de-Beauregard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Jardin Public - Cancon",
+    "address": "19 Rue du Marché - Cancon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEE47 - Route de Cancon Monflanquin",
+    "address": "1 Route de Cancon - Monflanquin",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Place Yves Balségur Monflanquin",
+    "address": "53 Tour de Ville - Monflanquin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Club Les Ormes (Tesla et autres)",
+    "address": "Pré de Courbe - Saint-Etienne-de-Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "80A Fauquié Haut",
+    "address": "80A Fauquié Haut - Saint-Etienne-de-Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Avenue de la Gare",
+    "address": "2 Avenue de la Gare - Casseneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Parking Jeu de Boules",
+    "address": "9 Boulevard Alphonse de Poitiers - Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEE47 - Chemin de Pascalet",
+    "address": "22 Chemin de Pascalet - Casseneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue du Château d'eau",
+    "address": "5 Rue des Moulins - Monbahus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Camping le bois Guillaume",
+    "address": "191 Champ de Guillaume - Villeneuve-les-Genêts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Avenue Saint-Michel - Champignelles",
+    "address": "32 Avenue Saint-Michel - Champignelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Avenue de la Gare - Toucy",
+    "address": "37 Rue du Pont Capureau - Toucy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEY - Mairie de Moutiers-en-Puisaye",
+    "address": "Place De La Mairie - Moutiers-en-Puisaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Place du 11 Novembre Bléneau",
+    "address": "Place du 11 Novembre - Bléneau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping car - Bleneau (Réservé aux Camping Cars)",
+    "address": "Rue de l'Epalu - Bleneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile (FR*S89) - Sommecaise - Sommecaise, rue de l'Eglise",
+    "address": "Sommecaise, rue de l'Eglise - Sommecaise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "12X Rue Paul Arrighi",
+    "address": "12X Rue Paul-Arrighi - Moulins-sur-Ouanne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Intermarché - Charny",
+    "address": "- Chambeugle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW Iecharge - Diges - D159 Les Carreaux",
+    "address": "Les Carreaux - Diges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

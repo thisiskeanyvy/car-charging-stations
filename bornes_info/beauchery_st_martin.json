@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDESM - Place de la mairie- Villiers saint georges",
+    "address": "1 Rue de Provins - Villiers-Saint-Georges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Avenue Patton Saint-Brice",
+    "address": "46 Avenue Patton - Saint-Brice",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Route de Brangis - Montceaux les Provins",
+    "address": "2 Rue de Brangis - Montceaux-lès-Provins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Beauregard Chalautre-la-Grande",
+    "address": "6 Rue Beauregard - Chalautre-la-Grande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDESM - Rue du Petit Paraclet Sourdun",
+    "address": "8 Rue du Petit Paraclet - Sourdun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de l'église - Cerneux",
+    "address": "10 Rue de l'Église - Cerneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gare de Provins",
+    "address": "Avenue Jean Jaurès - Provins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Toyota - 26 Route de Champbenoist - Provins",
+    "address": "26 Route de Champbenoist - Provins",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Provins",
+    "address": "26 Route de Champbenoist - Provins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE-WATT Hopital Provins",
+    "address": "Route de Chalautre - Provins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

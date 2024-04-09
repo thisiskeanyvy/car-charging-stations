@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE65 - Parking public - Germ",
+    "address": "Station Versant Peyresourde - Germ",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEHG - Allée d'Etigny - Bagnères-de-Luchon",
+    "address": "18 Allée d'Etigny - Bagnères-de-Luchon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Rue Clément Ader - Bagnères-de-Luchon",
+    "address": "16A Rue Clément Ader - Bagnères-de-Luchon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Loudenvielle",
+    "address": "18 Chemin de Rioutor - Loudenvielle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Drop'n Plug - Hôtel Mercure - Loudenvielle",
+    "address": "Chemin de Rioutor - Loudenvielle",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE65 (REVEO) - Balnea - Loudenvielle",
+    "address": "Chemin du Lac - Loudenvielle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (Révéo) - Chemin des Badalans P4 - Loudenvielle",
+    "address": "1 Chemin des Badalans - Loudenvielle",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE65 - Parking carrefour market",
+    "address": "2 D116 - Bourisp",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Interski - Vielle-Aure",
+    "address": "1 Chemin de Saint-Lary - Vielle-Aure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 (Révéo) - Chemin de Saint-Lary - Vielle-Aure",
+    "address": "Chemin de Saint-Lary - Vielle-Aure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

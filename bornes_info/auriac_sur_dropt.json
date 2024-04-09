@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDEE47 - Place de l'Union - Duras",
+    "address": "8–14 Rue des Arbalétriers - Duras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Miramont-de-Guyenne",
+    "address": "720 Avenue Alfred Court - Miramont-de-Guyenne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiVE - Boulevard Aristide Briand - Miramont-de-Guyenne",
+    "address": "Boulevard Aristide Briand - Miramont-de-Guyenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT - Monségur - Les Jardins d'Éléonore",
+    "address": "2B Croix Haute - Monségur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue du 6 Juin 1944 - Eymet",
+    "address": "Avenue du 6 Juin 1944 - Eymet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Place du 8 Mai 1945 - Monségur",
+    "address": "Rue Robert Descorne - Monségur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE47 - Mairie - Virazeil",
+    "address": "D933 - Virazeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - Lieu dit Le Vigiers - Monestier",
+    "address": "172 Le Vigier - Monestier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Simonetto",
+    "address": "44 Route de Gontaud de Nogaret - Virazeil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Marmande",
+    "address": "6 Rue francois mauriac - Marmande",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

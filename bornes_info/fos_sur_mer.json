@@ -1,0 +1,120 @@
+[
+  {
+    "title": "McDonald's - Route des Plages - Fos-sur-Mer",
+    "address": "50 Avenue Jean Jaurès - Fos-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "larecharge - Avenue du Sable d'Or - Fos-sur-Mer",
+    "address": "230 Avenue du Sable d'Or - Fos-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Port de Fos sur mer (Privé)",
+    "address": "Chemin du Douanier - Fos-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Mairie de Fos-sur-Mer",
+    "address": "40 Allée Henri Barbusse - Fos-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Maison des Associations - Port-de-Bouc (Privé)",
+    "address": "Place Cyril Blaya - Port-de-Bouc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LaRecharge - Rue de la République - Port-de-Bouc",
+    "address": "12 Rue de la République - Port-de-Bouc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Port de Bouc",
+    "address": "568 Avenue Clément Mille - Port-de-Bouc",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Larecharge - Saint-Mitre-les-Remparts",
+    "address": "2 Place de la Manare - Saint-Mitre-les-Remparts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "larecharge - Istres - Complexe Sportif Davini",
+    "address": "Complexe Sportif Davini - Istres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - Istres - Route de la Cabane Noire",
+    "address": "Route de la Cabane Noire - Istres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Saujon - Place Richelieu",
+    "address": "Place Richelieu - Saujon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "HOTEL LE COMMERCE",
+    "address": "7 Rue de Saintonge - Saujon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Weldom - Saujon",
+    "address": "2 Rue de la Croix du Bourdon - Saujon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Saintes",
+    "address": "9 Route de Saintes - Saujon",
+    "connectors": [
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEER (MobiVE) - Rue Yves du Manoir - Saujon",
+    "address": "Rue Yves du Manoir - Saujon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Saujon",
+    "address": "Chemin Vert - Saujon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 80 Route de Saujon - Médis",
+    "address": "80 Route de Saujon - Médis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Royan Atlantique",
+    "address": "7-11 Route de Saujon - Médis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEER (MobiVE) - Le Gua - Rue Samuel Champlain",
+    "address": "Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proche Médiathèque - Rue Samuel Champlain Le Gua",
+    "address": "17 Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

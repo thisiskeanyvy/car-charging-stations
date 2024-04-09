@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SEYMABORNE - Neauphle-le-Château - Place aux Herbes",
+    "address": "Place aux Herbes - Neauphle-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEYMABORNE - Rue du Vieux Moulin - Neauphle-le-Château",
+    "address": "5 Rue du Vieux Moulin - Neauphle-le-Château",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Villiers-Saint-Frédéric",
+    "address": "6 Route de Saint-Germain, - Villiers-Saint-Frédéric",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEYMABORNE - Villiers-Saint-Frédéric - Route de Saint-Germain",
+    "address": "Route de Saint-Germain - Villiers-Saint-Frédéric",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Cimballe - Jouars-Pontchartrain",
+    "address": "4 Rue de la Cimballe - Jouars-Pontchartrain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Jouars-Pontchartrain | Route de Paris DOUBLON",
+    "address": "Route de Paris - Jouars-Pontchartrain",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Jouars-Pontchartrain - Rue Louis Phélypeaux",
+    "address": "Rue Louis Phélypeaux - Jouars-Pontchartrain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking gare villiers neauphle pontchartrain",
+    "address": "17–19 Rue de la Gare - Villiers-Saint-Fréderic",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault VSF (Privé)",
+    "address": "42 42 route de beynes - Villiers saint Frederic",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Neauphle-le-Vieux - Rue de la Libération",
+    "address": "Rue de la Libération - Neauphle-le-Vieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

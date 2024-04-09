@@ -1,0 +1,132 @@
+[
+  {
+    "title": "EVMap - Saint-André-lez-Lille - UCAR St André location",
+    "address": "20 Avenue de la Résistance - Saint-André-lez-Lille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 30 Rue Felix Faure - Saint-André-lez-Lille",
+    "address": "30 Rue Felix Faure - Marquette-lez-Lille",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 32 Rue Bernard Ruyant - La Madeleine (Privé)",
+    "address": "32 Rue Bernard Ruyant - La Madeleine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Boulevard Robert Schuman",
+    "address": "Boulevard Robert Schuman - La Madeleine",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Super U - La Madeleine",
+    "address": "36 Rue Gustave Scrive - La Madeleine",
+    "connectors": [
+      "x2",
+      "x18",
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Avenue Pierre Mauroy - Marcq-en-Barœul",
+    "address": "4 Av. Pierre Mauroy - Marcq-en-Barœul",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RossiniEnergy - 3 Rue Simon Vollant - Lambersart",
+    "address": "3 Rue Simon Vollant - Lambersart",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 41 Rue Simon Vollant - Lambersart",
+    "address": "41 Rue Simon Vollant - Lambersart",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 305 Rue Marie Curie - Wambrechies",
+    "address": "305 Rue Marie Curie - Wambrechies",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 75 Rue Marie Curie - Wambrechies",
+    "address": "75 Rue Marie Curie - Wambrechies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

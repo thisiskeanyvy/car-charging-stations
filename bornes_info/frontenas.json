@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Château de Bagnols",
+    "address": "au bourg - Bagnols",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - École - Bagnols",
+    "address": "Au Bourg - Bagnols",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Gamm Vert - Le Bois d'Oingt",
+    "address": "40 Rue Des Tourrières - Saint-Laurent-d'Oingt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Carrefour Contact - Val d'Oingt",
+    "address": "224 Chemin Rivière de la Cour - Val d'Oingt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Carrefour Market - Légny",
+    "address": "129 D 385 - Légny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pont Tarrets - Légny",
+    "address": "263 Pont Tarrets - Légny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER Légny Zac La gare",
+    "address": "Zac de la gare - Légny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SST informatique",
+    "address": "130 Route d'Anse - Marcy",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SyDER - Rue du Lavoir - Liergues",
+    "address": "Rue du Lavoir - Liergues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel-Restaurant LE CHATARD (privé)",
+    "address": "1bis Allée du Mas - Sarcey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

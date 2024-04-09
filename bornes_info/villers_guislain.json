@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Novafeed - Zone d'activite de gouzaucourt derriere gestam",
+    "address": "Zone d'activite de gouzaucourt derriere gestam - Gouzaucourt",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chevrerie de Bonne Enfance - Crevecoeur sur L'Escaut",
+    "address": "Bonne-Enfance - Crèvecoeur-sur-l'Escaut",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue Saint-Quentin - Villers-Faucon",
+    "address": "Rue Saint-Quentin - Villers-Faucon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue du moulin - Fins",
+    "address": "11 Rue du Pavé - Fins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Robert",
+    "address": "125 Route Nationale - Masnieres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Villers-Outréaux",
+    "address": "12 Place du Général de Gaulle - Villers-Outréaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A2 Aire d'Havrincourt (direction Cambrai)",
+    "address": "Relais de Havrincourt - Havrincourt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A2 - Aire de Havrincourt (direction Cambrai)",
+    "address": "A2 - Havrincourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A2 Aire de Graincourt (direction Paris)",
+    "address": "A2 - PARIS BRUXELLES - HAVRINCOURT",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDE80 - Hôtel de Ville de Roisel",
+    "address": "8 Place du Général Leclerc - Roisel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

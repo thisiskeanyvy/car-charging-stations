@@ -1,0 +1,138 @@
+[
+  {
+    "title": "sas chanoine automobiles",
+    "address": "Prefontaine - Mortagne-au-Perche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Mortagne-au-Perche - Bricomarché",
+    "address": "Rue de Chartrage - Mortagne-au-Perche",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Place de la République - Mortagne-au-Perche",
+    "address": "15 Place de la République - Mortagne-au-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Mortagne-au-Perche - Cour Blanche",
+    "address": "Cour Blanche - Mortagne-au-Perche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Rue Ferdinand de Boyeres Mortagne-au-Perche",
+    "address": "23-25 Rue Ferdinand de Boyeres - Mortagne-au-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - D938 - Saint-Langis-lès-Mortagne",
+    "address": "D938 - Saint-Langis-lès-Mortagne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Saint-Langis-lès-Mortagne",
+    "address": "Route d'Alençon - Saint-Langis-lès-Mortagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue Charles de Gaulle - Tourouvre SUPPRIMÉ",
+    "address": "667 Rue Charles de Gaulle - Tourouvre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place Saint-Laurent en l'Île d'Orle Tourouvre",
+    "address": "4 Place Saint-Laurent en l'Île d'Orle - Tourouvre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pré Gaudrin - Courgeoût",
+    "address": "Pré Gaudrin - Courgeoût",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

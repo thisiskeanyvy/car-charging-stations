@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Combas - Chemin De La Condamine",
+    "address": "Chemin De La Condamine - Combas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Parking route de Nimes",
+    "address": "Route de Nîmes - Saint-Mamert-du-Gard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMEG30 - RD999 - Vic-Le-Fesq",
+    "address": "La Nouvelle - Vic-le-Fesq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargePoint network - 80 Route de Langlade - Clarensac",
+    "address": "75 Route de Langlade - Clarensac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KEM ONE - Carrefour du caban D268",
+    "address": "Carrefour du caban D268 - Fos Sur Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Villevieille",
+    "address": "17 Rue Beausite - Villevieille",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de Pondres",
+    "address": "4 Allée du Pigeonnier - Villevieille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - parking chemin d'Azord - St Dionisy",
+    "address": "11 Chemin d'Azord - Saint-Dionisy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché Aujargues",
+    "address": "1370 Chemin Des Prairies - Aujargues",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Langlade",
+    "address": "Le Vignaud - Langlade",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

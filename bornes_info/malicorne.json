@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SIEGE27 - Bourth",
+    "address": "Rue de Chandai - Bourth",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Center Parc - Les Barils",
+    "address": "Unnamed Road - Les Barils",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Place Laffitte - Breteuil sur iton",
+    "address": "33 Place Laffitte - La Guéroulde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NW IEcharge - Verneuil d'Avre et d'Iton - Le Petit Mesnil",
+    "address": "Le Petit Mesnil - Verneuil d'Avre et d'Iton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE27 - Breteuil sur iton (Place Houdouard)",
+    "address": "Place Houdouard - Breteuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Route de crulai - D28 - Chandai",
+    "address": "1 Route de Crulai - Chandai",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Breteuil",
+    "address": "Rte de Conches, - Breteuil",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Verneuil d'Avre et d'Iton",
+    "address": "zone d'activité Du Point Rouge, Rue Félix Brard, - Francheville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE27 - Gare - Verneuil-sur-Avre",
+    "address": "160 Avenue Victor Hugo - Verneuil-sur-Avre",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Av. du Mal Joffre - côté monument aux morts",
+    "address": "Avenue du Maréchal Joffre - Verneuil-sur-Avre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "MObiVE SDEER17 - St-Aigulin - Rue Gambetta",
+    "address": "15B Rue Gambetta - Saint-Aigulin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - La Roche-Chalais",
+    "address": "59B Avenue d'Aquitaine - La Roche-Chalais",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 (MobiVE) - Place de L'Etoile - La Roche-Chalais",
+    "address": "Place de L'Etoile - La Roche-Chalais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta -  Vaures - Parcoul",
+    "address": "Vaures - Parcoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - La Cime du Pré, 7 - Saint-Christophe-de-Double",
+    "address": "7 La Cime du Pré - Saint-Christophe-de-Double",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - D21E1 - Le Fieu",
+    "address": "D21E1 - Le Fieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue Lucien Lacour, 44 - Les Peintures",
+    "address": "44 Rue Lucien Lacour - Les Peintures",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ivantout",
+    "address": "1-25 Les Grands Champs - Les Peintures",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place du Champ de Foire - Saint-Aulaye",
+    "address": "Place du Champ de Foire - Saint-Aulaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEG16 - Rue Alfred de Vigny - Chalais",
+    "address": "Rue Alfred de Vigny - Chalais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

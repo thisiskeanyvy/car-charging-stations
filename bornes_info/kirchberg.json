@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Möbel Pfister Alchenflüh-Lyssach",
+    "address": "52 Bernstrasse - Alchenflüh",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Move - Industrie Neuhof - Kirchberg",
+    "address": "1a Industrie Neuhof - Kirchberg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Swisscharge - Agrola - Lyssach",
+    "address": "39 Schachenstrasse - Lyssach",
+    "connectors": [
+      "x8",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ikea - Lyssach",
+    "address": "25 Bernstrasse - Lyssach",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "GOFAST Lyssach",
+    "address": "1 Kernenriedstrasse - Lyssach",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Migrol Service Burgdorf",
+    "address": "235 Kirchbergstrasse - Burgdorf BE",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eCarUp AG - Aefligen - Industrieweg 4",
+    "address": "Industrieweg 4 - Aefligen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Swisscharge - 219 Kirchbergstrasse - Burgdorf",
+    "address": "219 Kirchbergstrasse - Burgdorf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Härterei Blessing AG",
+    "address": "112 Buchmattstrasse - Burgdorf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Swisscharge - Utzenstorf - A1, Rastplatz Chölfeld",
+    "address": "A1, Rastplatz Chölfeld - Utzenstorf",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

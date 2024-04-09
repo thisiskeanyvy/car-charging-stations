@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Izivia - Super U - Bouaye",
+    "address": "53 Rue de Nantes - Bouaye",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de la Sénaigerie",
+    "address": "Rue de la Sénaigerie - Bouaye",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Kyriad - Restaurant Les Champs d'Avaux (Tesla)",
+    "address": "Lieu dit Les Champs d'Avaux - Bouaye",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Avenue de l'Europe 7 - La Montagne",
+    "address": "7 Avenue de l'Europe - La Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - La Montagne - Avenue de la liberation 10",
+    "address": "Avenue de la liberation 10 - La Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hyper U - Avenue de la Libération - La Montagne",
+    "address": "4 Avenue de la Libération - La Montagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - 60 Rue Du Drouillard - La Montagne INEXISTANT",
+    "address": "60 Rue Du Drouillard - La Montagne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue du Grand Pré, 1 - Port-Saint-Père",
+    "address": "1 Rue du Grand Pré - Port-Saint-Père",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mairie Saint Aignan de Grand Lieu",
+    "address": "6 Rue des Frères Rousseau - Saint-Aignan-Grandlieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Ecole Publique Paul et Madeleine DELAROCHE",
+    "address": "5 Rue des Chaponneries - Saint-Mars-de-Coutais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

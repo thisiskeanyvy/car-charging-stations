@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Clocheton - Rue Amiral Pierre DOUBLON",
+    "address": "30 Rue Amiral Pierre - Bourbonne-les-Bains",
+    "connectors": [
+      "x2",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Bourbonne Les Bains - Parking Clocheton",
+    "address": "Parking Clocheton - Bourbonne Les Bains",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Lamarche - Rue de Bellune",
+    "address": "Rue de Bellune - Lamarche",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Modulo Energies - Monthureux-sur-Saône - Place de la République",
+    "address": "Place de la République - Monthureux-sur-Saône",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*EFL - Melay - Rue de Moges 19",
+    "address": "Rue de Moges 19 - Melay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo - Gare de Martigny-les-Bains",
+    "address": "18 Avenue De La Gare - Martigny-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED 70 - Place du Général de Gaulle - CORRE",
+    "address": "12 Place Du General De Gaulle - Corre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*IEN - Dombrot-le-Sec - Le Sord Champ",
+    "address": "Le Sord Champ - Dombrot-le-Sec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - 3 Rue Stanislas - Darney",
+    "address": "3 Rue Stanislas - Darney",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDED52 - Place de l'Église - Varennes sur Amance",
+    "address": "Place de l'Église - Varennes sur Amance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

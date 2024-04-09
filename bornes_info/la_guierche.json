@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Mouv'nGo : Saint Jean d Assé",
+    "address": "2 Place de la Mairie - Saint-Jean-d'Assé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Le Mans Saint-Saturnin",
+    "address": "4 Rue Louis Chappee - Saint-Saturnin",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Atlante - Le Portofino Restaurant - Saint-Saturnin",
+    "address": "7 Rue Louis Chappee - Saint-Saturnin",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Be Cable - CGR - Saint-Saturnin",
+    "address": "6 Rue De Villeneuve - St.-Saturnin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Saint-Saturnin - Volvo",
+    "address": "2 Rue Jean de Vignolles - Saint-Saturnin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SGA Automation - Neuville-sur-Sarthe - Chemin de Chapeau",
+    "address": "Chemin de Chapeau - Neuville-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'nGo - Mairie de Ballon-Saint Mars (privé)",
+    "address": "7 Rue de Lansac Ouest - Ballon-Saint-Mars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A11 - Aire de la Sarthe-Sargé-Le Mans (direction Angers)",
+    "address": "A11 - Sargé-lès-le-Mans",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AFOREM Le Mans",
+    "address": "Le Bas Palluau – Les Vignes - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - A11 - Aire de la Sarthe-Sargé-Le Mans (direction Paris)",
+    "address": "A11 - Sargé-lès-le-Mans",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

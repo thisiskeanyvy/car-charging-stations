@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEF - Carantec (Mairie - Rue Duquesne)",
+    "address": "Rue Duquesne - Carantec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'Hôtel de Carantec**** Restaurant Nicolas Carro* - Carantec",
+    "address": "20 rue du Kelenn - Carantec",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Mouettes Yelloh!",
+    "address": "177 Ty Bihan - Carantec",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Rue de la Grève du Man - Saint-Pol-de-Léon",
+    "address": "Rue de la Grève du Man - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Pol-de-Léon",
+    "address": "110 Rue de Plouénan - Saint-Pol-de-Léon",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Rue Pen Ar Pont",
+    "address": "Rue pen ar pont - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Place de l'Evêché - Saint-Pol-de-Léon",
+    "address": "2 Place de l'Évêché - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint Pol de Leon - Super U",
+    "address": "1 Rue du Budou - Saint-Pol-de-Léon",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E Leclerc St.-Pol-de-Léon",
+    "address": "81 Rue De Brest - Saint-Pol-de-Léon",
+    "connectors": [
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Bricomarché - St.-Pol-de-Léon",
+    "address": "21 Rue Joseph Kersebet - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "IONITY - A84 - Aire de la Vallée de la Vire Gouvets (double sens)",
+    "address": "A84 - Gouvets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Rue des Anciennes Halles - Tessy-sur-Vire",
+    "address": "1 Rue des Anciennes Halles - Tessy-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Rue du Moulin de Haut - Percy",
+    "address": "1 Rue Dominique Lemonnier - Percy-en-Normandie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Boucherie Mauger",
+    "address": "2 rue de la mairie - Moyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Sever-Calvados",
+    "address": "Place de la Mairie - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - La Hervière - La Colombe",
+    "address": "42 La Hervière - La Colombe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - D974-Aire de covoiturage- Guilberville",
+    "address": "14 Le Petit Parc - Torigny-les-Villes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - SAINT SEVER CALVADOS (Rue du vieux Château)",
+    "address": "Route du Vieux Château - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - FONTENERMONT (Le Bourg)",
+    "address": "Le Bourg - Fontenermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - La Colombe - Garage Lesauvage",
+    "address": "8 Parc d'Activités - La Colombe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Remy - Saint-Maurice-Montcouronne",
+    "address": "3 Impasse du Bois - Saint-Maurice-Montcouronne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Berchevilliers - Saint-Maurice-Montcouronne",
+    "address": "6 bis Rue de Berchevilliers - Saint-Maurice-Montcouronne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Soucy - Fontenay-lès-Briis",
+    "address": "2 Allée des Marronniers - Fontenay-lès-Briis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue du Mont Louvet - Briis-Sous-Forge",
+    "address": "2-4 Rue du Mont Louvet - Fontenay-lès-Briis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bornes Solutions - 610 Rue de la Font de ville CCPL - Briis-sous-Forges",
+    "address": "610 Rue de la Fontaine de ville - Briis-sous-Forges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Place Edmond Vian - Saint-Chéron",
+    "address": "2 Place Edmond Vian - Saint-Chéron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Limours Briis-sous-Forges (direction Paris)",
+    "address": "A10 - Janvry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x3",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A10 - Aire de Limours-Janvry (direction Chartres/Orléans)",
+    "address": "A10 - Janvry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Saint-Chéron - 3 Avenue de Dourdan PRIVÉ",
+    "address": "3 Avenue de Dourdan \r\n - Saint-Chéron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Club Petanque - Saint-Chéron",
+    "address": "13 Rue du Fief - Saint-Chéron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

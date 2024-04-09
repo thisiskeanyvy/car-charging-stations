@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDESM - Rue Edouard Brigeon Chartrettes",
+    "address": "1 Rue Edouard Brigeon - Chartrettes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Place de la Gare - Bois-le-Roi",
+    "address": "Place de la Gare - Bois-le-Roi",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue de la seine",
+    "address": "5 Place Jeanne Platet - Bois-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Central - Fontaine-le-Port",
+    "address": "4 Rue de la Vieille Montagne - Fontaine-le-Port",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Garenne - Livry sur seine",
+    "address": "26-28 Rue de la Garenne - Livry-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Samois-sur-Seine - Route du Cèpe",
+    "address": "Route du Cèpe - Samois-sur-Seine",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Vaux-le-Pénil - Rue des Carouges",
+    "address": "Rue des Carouges - Vaux-le-Pénil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Vaux-le-Pénil - Rue des Carouges",
+    "address": "Rue des Carouges - Vaux-le-Pénil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sivry Courtry",
+    "address": "9 Domaine de la Belle Allée - Sivry-Courtry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "7–9 Rue de la Plaine de la Croix Besnard",
+    "address": "4 Rue de la Plaine de la Croix Besnard - Vaux-le-Pénil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

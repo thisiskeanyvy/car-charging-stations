@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Vénarey-les-Laumes",
+    "address": "4 Avenue de la Gare - Venarey-les-Laumes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bi1 - Avenue de Dijon - Venarey-les-Laumes",
+    "address": "40 Avenue de Dijon - Venarey-les-Laumes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Centre Hospitalier - Semur-en-Auxois",
+    "address": "3 Avenue Pasteur - Semur-en-Auxois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SICECO - 11 Rue Jean-Jacques Collenot",
+    "address": "11 Rue Jean-Jacques Collenot - Semur-en-Auxois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Zephyre - Route de Saulieu - Semur-en-Auxois",
+    "address": "Route de Saulieu - Semur-en-Auxois",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Siceco - Médiathèque - Espace Colisée - Passage Georges Brassens - Montbard",
+    "address": "11 Passage Georges Brassens - Montbard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue Voltaire - Montbard",
+    "address": "20 Rue Voltaire - Montbard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Rue de Quemigny - Baigneux-les-Juifs",
+    "address": "5 Rue de Quemigny - Baigneux-les-Juifs",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Route d'Avallon - Vitteaux",
+    "address": "D70 Route d'Avallon - Vitteaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place du General de Candras - 31 Rue des Forges",
+    "address": "Place du General de Candras - Époisses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

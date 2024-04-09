@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIED70 - Salle Polyvalente - Plancher-les-Mines",
+    "address": "5 Rue de France - Plancher-les-Mines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Territoire d'Energie 90 (TE90) - 12 Place de Gaulle - Giromagny",
+    "address": "12 Place de Gaulle - Giromagny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Faubourg de Belfort - Giromagny",
+    "address": "12 Faubourg de Belfort - Giromagny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MAISON DE SANTÉ",
+    "address": "75 Faubourg de belfort - Giromagny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue des Frères Renaud - Champagney",
+    "address": "23B Grande Rue - Champagney",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Rue de Lorraine - Saint-Maurice-sur-Moselle",
+    "address": "30 Rue de Lorraine - Saint-Maurice-sur-Moselle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TE90 - Avenue de Lattre de Tassigny - Rougegoutte",
+    "address": "1\r\n Avenue de Lattre de Tassigny\r\n - Rougegoutte",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - 34 Rue Charles de Gaulle - Le Thillot",
+    "address": "34 Rue Charles de Gaulle - Le Thillot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*S88 - Fresse-sur-Moselle - Rue du Général de Gaulle Parking de la Maison",
+    "address": "Rue du Général de Gaulle Parking de la Maison - Fresse-sur-Moselle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 20 Avenue de Verdun - Le Thillot",
+    "address": "20 Avenue de Verdun - Le Thillot",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

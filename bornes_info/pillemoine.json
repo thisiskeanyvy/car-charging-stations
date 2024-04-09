@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Parking Intersport",
+    "address": "Avenue de Lattre de Tassigny - Champagnole",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue René Cassin - Champagnole",
+    "address": "615 Rue René Cassin - Champagnole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Hotel Bois dormant",
+    "address": "443 Rue de Pontarlier - Champagnole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Champagnole - Hyper U",
+    "address": "Rue du Village - Champagnole",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gîte des planchettes - Marigny",
+    "address": "2 CHEMIN DE LA CRETINE - Marigny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Aux Truites bleues",
+    "address": "44 Le Bourg Derrière - Fort-du-Plasne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Relais de l'éventail Camping du Hérisson",
+    "address": "16 Val Dessus - Menétrux-en-Joux",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Coop de L'Espérance - Foncine-le-Haut",
+    "address": "6 bis Rue des Isles - Foncine-le-Haut",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Du Visenay - Mirebel",
+    "address": "Rue Du Visenay - Mirebel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Saint Laurent en Grandvaux",
+    "address": "4 Rue du Parc - Saint-Laurent-en-Grandvaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

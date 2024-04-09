@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEDI - Espace Marcel Noyer Saint-Maurice-l'Exil",
+    "address": "Espace Marcel Noyer - Saint-Maurice-l'Exil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell France - A7 Aire De Roussillon",
+    "address": "Autoroute du Soleil A7 Aire De Roussillon - Roussillon",
+    "connectors": [
+      "x2",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Place Charles de Gaulle - Saint-Clair-du-Rhône",
+    "address": "Place Charles de Gaulle - Saint-Clair-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - Route de Condrieu - Saint-Clair-du-Rhône",
+    "address": "10 Route de Condrieu - Saint-Clair-du-Rhône",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Chavanay - Zone D’Activite De Verlieu",
+    "address": "Zone D’Activite De Verlieu - Chavanay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Chavanay",
+    "address": "49-51 Route Nationale 86 - Chavanay",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - Avenue du Rhône Saint-Pierre-de-Bœuf",
+    "address": "Île Bugnon - Saint-Pierre-de-Boeuf",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Parking salle Dufeu",
+    "address": "125 Avenue Gabriel Péri - Le Péage-de-Roussillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "DRIVECO - 12 Chem. du Camping, - Condrieu",
+    "address": "12 Chem. du Camping, - Condrieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Beau Rivage (Tesla et autres)",
+    "address": "2 Rue Beau Rivage - Condrieu",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

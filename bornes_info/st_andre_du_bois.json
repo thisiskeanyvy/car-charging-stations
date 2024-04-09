@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEEG33 - Place du foirail Langon",
+    "address": "11 Place du Foirail - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Mairie - Langon",
+    "address": "18 Allée Jean Jaurès - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eco-lodges du Lac des Graves & Sauternais - Saint-Pardon-de-Conques (Porsche)",
+    "address": "5B Bruhon - Saint-Pardon-de-Conques",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place Kennedy - Langon",
+    "address": "4 Bis Place Kennedy - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nature et Partage - 121",
+    "address": "121 Avenue du Général de Gaulle - Gironde-sur-Dropt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - SDEEG33 - Toulenne",
+    "address": "98 Avenue du Huit Mai 1945 - Toulenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - ZI Des Dumes null - Langon (Privé)",
+    "address": "ZI Des Dumes null - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Château Respide - Langon",
+    "address": "Château Respide - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Centre commercial Moléon - Langon",
+    "address": "Centre commercial Moléon - Langon",
+    "connectors": [
+      "x4",
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Centre commercial Moléon - Langon",
+    "address": "Centre commercial Moléon - Langon",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

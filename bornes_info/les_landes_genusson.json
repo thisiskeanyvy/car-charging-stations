@@ -1,0 +1,126 @@
+[
+  {
+    "title": "BLS Notaire - La Gaubretière",
+    "address": "25 Rue du Boisy - La Gaubretière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Saint-Aubin-des-Ormeaux - 11 Route de la Verrie",
+    "address": "11 Route de la Verrie - Saint-Aubin-des-Ormeaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - LE LONGERON / SEVREMOINE - Rue Eugene Bonnet",
+    "address": "Rue Eugène Bonnet - Le Longeron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 2 rue des bois - TORFOU",
+    "address": "2 rue des bois - TORFOU",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Torfou - Place Clemenceau",
+    "address": "Place Clemenceau - Torfou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A87 Aire des Herbiers",
+    "address": "A87, Aire des Herbiers - Les Herbiers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aire de repos Les Herbiers",
+    "address": "A87 / D755 - Les Herbiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Saint-Herblain - 15 Rue de Saint-Nazaire",
+    "address": "15 Rue de Saint-Nazaire - Saint-Herblain",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Place des Marronniers, 5 - Boussay",
+    "address": "5 Place des Marronniers - Boussay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Les Herbiers",
+    "address": "Avenue de l'Arborescente - Les Herbiers",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

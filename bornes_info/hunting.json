@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Bridge Place",
+    "address": "Bridge Place - Huntingdonshire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Holiday Inn - Huntingdon Racecourse",
+    "address": "1 Unnamed Road - Brampton",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Huntingdon Racecourse 1",
+    "address": "Unnamed Road - Huntingdonshire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "11 Manor Gardens",
+    "address": "Great North Road, Buckden - St Neots",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Evology UK - St. Ives - The Dolphin Hotel",
+    "address": "The Dolphin Hotel - St. Ives",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Ives Cattlemarket",
+    "address": "10 Market Road - Saint Ives",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Ives Park & Ride 1",
+    "address": "Meadow Lane - St Ives",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Stocks Bridge Way",
+    "address": "Stocks Bridge Way - St Ives",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gridserve St Ives",
+    "address": "5 Harrison Way - St Ives",
+    "connectors": [
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morrison's St Ives",
+    "address": "3a Parsons Green - St Ives",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

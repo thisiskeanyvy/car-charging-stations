@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Thomas Apiculture - Fay-aux-Loges",
+    "address": "321 Rue Bernard de la Rochefoucault - Fay-aux-Loges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des loges - Fay aux loges",
+    "address": "ZAC des loges - Fay aux loges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Mardié",
+    "address": "D960 - Mardié",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orléans Métropole - Rue De Donnery - Mardié",
+    "address": "63 Rue De Donnery - Mardié",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Aeroport d'Orléans - Saint-Denis-de-l'Hôtel",
+    "address": "Zone des 4 vents - Saint-Denis-de-l'Hôtel",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le fournil de Vennecy",
+    "address": "137 Rue de Chécy - Vennecy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking souterrain Centre Leclerc",
+    "address": "Rue Louis Armand - Chécy",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Leclerc - Chécy",
+    "address": "Zac de la Guignadière - Chécy",
+    "connectors": [
+      "x8",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "U Express - Saint-Denis-de-l'Hôtel",
+    "address": "8 Impasse des Tilleuls - Saint-Denis-de-l'Hôtel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chécy - Biocoop",
+    "address": "Biocoop - Chécy",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

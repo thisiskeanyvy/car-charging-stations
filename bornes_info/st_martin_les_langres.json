@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Ibis Budget (Tesla and others)",
+    "address": "Place des États-Unis - Langres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Langres",
+    "address": "912 avenue de l'Europe - Langres",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED52 - Place Bel Air - Langres",
+    "address": "Place Bel Air - Langres",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE52 - Parking Sous-Bie - Langres",
+    "address": "6 Parking Sous-Bie - Langres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Trinquesse SARL",
+    "address": "2 Avenue de Verdun - Rolampont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Dijon - Saints-Geosmes",
+    "address": "34 Route de Dijon - Saints-Geosmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Route de Dijon - Langres INEXISTANT",
+    "address": "Route de Dijon - Langres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Saints-Geosmes - VW",
+    "address": "14 Route de Dijon - Saints-Geosmes",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED52 - Imp. de la Courvee Pôle socio-culturel - Saints-Geosmes",
+    "address": "3 Imp. de la Courvee Pôle socio-culturel - Saints-Geosmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Leclerc - Saints-Geosmes",
+    "address": "13 Rue de l'Avenir - Saints-Geosmes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sofitel Lyon Bellecour",
+    "address": "20 Quai Gailleton - Lyon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue Charles Biennier - Lyon",
+    "address": "Rue Charles Biennier - Lyon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Antonin Poncet",
+    "address": "Place Antonin Poncet - Lyon",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia Grand Lyon - Place Antoine Vollon",
+    "address": "4 place Antoine Vollon - Lyon",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IZIVIA Grand Lyon - 24 Pl. Carnot - Lyon",
+    "address": "24 Pl. Carnot - Lyon",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IZIVIA Grand Lyon - 2 Place Ollier - Lyon",
+    "address": "2 Place Ollier - Lyon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Indigo - Place Bellecour - Lyon",
+    "address": "Place Bellecour - Lyon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Grand Lyon - Lyon 7 - Chevreul",
+    "address": "7 Rue Chevreul - Lyon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Centre d'Echange de Perrache",
+    "address": "Cours de Verdun Gensoul - Lyon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saint Georges - Lyon",
+    "address": "6 place Benoit Crépu - Lyon",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

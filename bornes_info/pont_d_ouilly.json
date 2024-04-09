@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiSDEC - Pont-d'Ouilly (parking de l'église)",
+    "address": "Rue de Bretagne - Pont-d'Ouilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Au Domaine de La Pommeraye",
+    "address": "8032 La Couture - La Pommeraye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - CLECY (Rue Arsène Delavigne)",
+    "address": "Rue Arsène Delavigne - Clécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Mairie Saint-Denis de Méré",
+    "address": "Rue des Rosiers - Saint Denis de Méré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Athis de l'orne, Rue guillaume le conquérant",
+    "address": "2 Rue Guillaume le Conquérant - Athis-de-l'Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Condé sur Noireau (Rue des Prés Guillets",
+    "address": "10 Rue des Prés Guillets - Condé-sur-Noireau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - CONDÉ SUR NOIREAU (Rue Saint-Martin) SUPPRIMÉ",
+    "address": "Rue Saint-Martin - Condé-sur-Noireau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Thury-Harcourt",
+    "address": "24 Boulevard De La Flèche - Curcy-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Putanges-le-Lac - Lac de Rabodanges",
+    "address": "Lac de Rabodanges - Putanges-le-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - La Tour Domaine de la Tour - Saint-Pierre-Canivet",
+    "address": "La Tour Domaine de la Tour - Saint-Pierre-Canivet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

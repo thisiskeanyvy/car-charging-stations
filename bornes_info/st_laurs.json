@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Alterbase Séolis - Coulonges sur l'Autize - Les Halles",
+    "address": "Place des Halles - Coulonges-sur-l'Autize",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - 1 Rue Louis Pasteur - Coulonges-sur-l'Autize",
+    "address": "1 Rue Louis Pasteur - Coulonges-sur-l'Autize",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau AlterBase - Ardin - rue Alphonse Lavoix",
+    "address": "Rue Alphonse Lavoix - Ardin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A83 Aire de la Canepetière (direction Nantes)",
+    "address": "A83, Aire de la Canepetiere \r\n - Faye-Sur-Ardin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A83 Aire de la Chateaudrie (direction Niort)",
+    "address": "A83, Aire de la Chateaudrie \r\n - Villiers-en-Plaine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Alterbase Séolis - L'Absie - Place de la Mairie",
+    "address": "30 Place du 14 juillet 1836 - L'Absie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "garage beausoleil automobiles",
+    "address": "77 rue de la republique - l absie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Absie Voyages",
+    "address": "20 Rue dit de la Sauzaie - L'Absie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Villiers en Plaine - Ecole",
+    "address": "24 Rue du Commerce - Villiers-en-Plaine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sarl Garage de la Forêt",
+    "address": "34 route du lac - Mervent",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

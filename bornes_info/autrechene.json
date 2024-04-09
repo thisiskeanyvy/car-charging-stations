@@ -1,0 +1,136 @@
+[
+  {
+    "title": "TE90 - Rue Georges Helminger - Montreux-Château",
+    "address": "Rue Georges Helminger - Montreux-Château",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - lebetain - N19 commune de Lebtain",
+    "address": "N19 commune de Lebtain - lebetain",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Lieu-dit les Côtets - Meroux-Moval",
+    "address": "Lieu-dit les Côtets - Meroux-Moval",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Avenue de la Gare TGV - Meroux-Moval",
+    "address": "1 Avenue de la Gare TGV - Meroux-Moval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Parking gare de Morvillars",
+    "address": "2 Avenue du Général Leclerc - Morvillars",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TE90 - CC Bessoncourt",
+    "address": "Avenue du Tilleul - Bessoncourt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auchan - Bessoncourt",
+    "address": "Sous la ville - Bessoncourt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "R3 - Norauto - Bessoncourt",
+    "address": "38 Avenue du Tilleul - Bessoncourt",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Rue des Prérot",
+    "address": "Rue des Prerot - Sevenans",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Andelnans - Cora",
+    "address": "15 Rte de Montbéliard - Andelnans",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

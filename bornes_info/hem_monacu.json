@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Renault Gueudet - Péronne",
+    "address": "7 Rue de Rome - Péronne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue Candelier Combles",
+    "address": "4 Rue Candelier - Combles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Marie Blachère - Péronne",
+    "address": "3 Avenue de l'Europe - Péronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "EVBox - PERONNE - RUE DE MADRID 9",
+    "address": "RUE DE MADRID 9 - PERONNE",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Alfred Rey - Péronne",
+    "address": "1 Impasse du chaudron - Péronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place André Audinot - Péronne",
+    "address": "9 Place André Audinot - Péronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A1 Aire de Coeur des Hauts de France Est (direction Lille)",
+    "address": "1 A1 - Assevillers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x3",
+      "x11"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Avenue des Australiens - Péronne",
+    "address": "28 Avenue des Australiens - Péronne",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A1 Aire de Cœur des Hauts-de-France Ouest (direction Paris)",
+    "address": "1 Aire de Cœur des Hauts-de-France - Assevillers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecf pro - Rue Saint-sauveur",
+    "address": "36 Rue Saint-sauveur - Péronne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

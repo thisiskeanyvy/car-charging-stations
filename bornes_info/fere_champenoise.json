@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEM 51 - Rue de l'Eglise - Fere-Champenoise",
+    "address": "Rue de l'Eglise - Fere-Champenoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de la Libération",
+    "address": "2 Rue de la Libération - Fère-Champenoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hostellerie du Mont Aimé",
+    "address": "6 Rue de Vertus - Bergères-lès-Vertus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Bussy-Lettrée - Rue Louis Blériot Aéroport Paris Vatry",
+    "address": "Rue Louis Blériot Aéroport Paris Vatry - Bussy-Lettrée",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA 10/Villiers-Herbisse/Rue de la Crayère/1",
+    "address": "1 Rue de la Crayère - Villiers-Herbisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best western Relais du Vigneron",
+    "address": "2 Av. Louis Lenoir - Blancs-Coteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue du Colombier",
+    "address": "2 Rue du Colombier - Congy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Monument aux morts - Boulevard Jean Brion",
+    "address": "56 Boulevard Jean Brion - Blancs-Coteaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEA 10/Herbisse/Rue de la Gare/3",
+    "address": "3 Rue de la Gare - Herbisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau d'Etoges",
+    "address": "4 Rue Richebourg - Étoges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Monta - Blaesheim - Hôtel Restaurant Au Boeuf",
+    "address": "32 Rue du Maréchal Foch - Blaesheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue du Lavoir - Blaesheim",
+    "address": "1 Rue du Lavoir - Blaesheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de l'École - Duttlenheim",
+    "address": "1 Rue de l'École - Duttlenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de la Gare - Duppigheim",
+    "address": "18 Rue de la Gare - Duppigheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Saint-Cyriac - Altorf",
+    "address": "Place Saint-Cyriac - Altorf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - A355 Aire de la Bruche",
+    "address": "Grand Contournement Ouest - Duttlenheim",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - A355 Aire de la Bruche (double sens) DOUBLON",
+    "address": "Aire de la Bruche - Duppigheim",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electric'cars Loisirs CC",
+    "address": "2 a rue de l'artisanat - Duppigheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place André Malraux - Geispolsheim",
+    "address": "Place André Malraux - Geispolsheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de l'Église - Geispolsheim",
+    "address": "Rue de l'Église - Geispolsheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

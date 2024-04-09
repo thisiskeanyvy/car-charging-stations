@@ -1,0 +1,134 @@
+[
+  {
+    "title": "La Borne Bleue - 84 Rue Cartier Bresson - Pantin",
+    "address": "84 Rue Cartier Bresson - Pantin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - Pantin - Place du Président Salvador Allende",
+    "address": "Place du Président Salvador Allende \r\n - Pantin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Avenue Du Général Leclerc - Pantin",
+    "address": "Avenue Du Général Leclerc - Pantin",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Autorecharge - Avenue du Général Leclerc Local - Pantin",
+    "address": "100 Avenue du Général Leclerc Local 106 - Pantin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 34 Avenue du Cimetière Parisien - Pantin",
+    "address": "34 Avenue du Cimetière Parisien - Pantin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - 27 Rue de Presles - Aubervilliers (Privé)",
+    "address": "27 Rue de Presles - Aubervilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Pantin - 20 Rue du Congo",
+    "address": "20 Rue du Congo - Pantin",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "WAAT - 165 Avenue Jean Jaurès - Aubervilliers",
+    "address": "165 Avenue Jean Jaurès - Aubervilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Pantin",
+    "address": "13 Avenue du Général Leclerc - Pantin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 2 Rue Henri Barbusse - Aubervilliers",
+    "address": "2 Rue Henri Barbusse - Aubervilliers",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

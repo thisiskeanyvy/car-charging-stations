@@ -1,0 +1,122 @@
+[
+  {
+    "title": "larecharge - Mairie de Plan-de-Cuques",
+    "address": "964 Le Village Sud - Plan-de-Cuques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "evZen - Boulevard André Malraux - Plan-De-Cuques",
+    "address": "Boulevard André Malraux - Plan-De-Cuques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 18 Avenue plein Sud - Plan-de-Cuques",
+    "address": "18 Avenue plein Sud - Plan-de-Cuques",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau TCB FR - Plan-de-Cuques - 49 Avenue de la Liberté",
+    "address": "49 Avenue de la Liberté - Plan-de-Cuques",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Boulevard de la Résistance - Plan-de-Cuques",
+    "address": "1 Boulevard de la Résistance - Plan-de-Cuques",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zone commerciale Les Tourres - Plan-de-Cuques",
+    "address": "5 Place Marcel Pagnol - Plan-de-Cuques",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - avenue Georges Pompidou - Plan-de-Cuques",
+    "address": "2 avenue Georges Pompidou - Plan-de-Cuques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - 3 Rue du 14 Juillet - Plan-de-Cuques",
+    "address": "3 Rue du 14 Juillet - Plan-de-Cuques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking-Relais RTM Einstein",
+    "address": "rue Albert Einstein - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 602 Avenue du 7ème Régiment du Tirailleur Algériens (sous-terrain) - Allauch",
+    "address": "602 Avenue du 7ème Régiment du Tirailleur Algériens - Allauch",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

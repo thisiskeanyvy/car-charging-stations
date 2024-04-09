@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Hameau Des Pourcelles - Les Mées",
+    "address": "Hameau Des Pourcelles - Les Mées",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Mairie d'Oraison",
+    "address": "12 Boulevard des Frères Jaumary - Oraison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps S.L./6772",
+    "address": "1 Rue Emile Latil - Oraison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Mas Saint Pierre",
+    "address": "D907 - St Julien D'Asse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour Market (Sortie 19) - La Brillanne",
+    "address": "20 Route des Alpes - La Brillanne",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Route des Alpes, 15 - La Brillanne",
+    "address": "15 Route des Alpes - La Brillanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SGA Automation - La Brillanne - Bricorama",
+    "address": "Impasse des Romarins - La Brillanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LUMI'IN - Route de Valensole - Oraison",
+    "address": "Route de Valensole - Oraison",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Parking rue de l'Hôpital - Les Mées",
+    "address": "3 Rue de L Hôpital - Les Mées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Peyruis | Espace Saint-Pierre 11",
+    "address": "11 Espace Saint-Pierre - Peyruis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

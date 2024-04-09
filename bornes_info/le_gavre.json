@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SYDEGO - Station Le Gâvre",
+    "address": "4B Rue de l'Étang - Le Gavre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - 33 La Maillardais - Le Gavre",
+    "address": "33 La Maillardais - Le Gavre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Route de Plesse, 16 - Vay",
+    "address": "16 Route de Plesse - Vay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Mairie de Blain",
+    "address": "Rue Charles de Gaulle - Blain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Blain",
+    "address": "Impasse des Abattoirs - Blain",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Place Joallan de Clerville, 5 - Blain",
+    "address": "5 Place Joallan de Clerville - Blain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Place de la Poste - Blain",
+    "address": "Place de la Poste - Blain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Hyper U - Blain (Parking couvert)",
+    "address": "27 route de l'Isac - Blain",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Route de l'Océan, 20 - La Grigonnais",
+    "address": "20 Route de l'Océan - La Grigonnais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rue du Prieuré - Marsac sur Don",
+    "address": "Rue du Prieuré - Marsac-sur-Don",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

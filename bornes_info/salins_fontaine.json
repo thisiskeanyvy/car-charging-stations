@@ -1,0 +1,118 @@
+[
+  {
+    "title": "ChargeGuru - Place des Victoires - Moûtiers",
+    "address": "Place des Victoires - Moûtiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking de la cathédrale",
+    "address": "1 Place Saint-Pierre - Moûtiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Usine de MSSA (Privé)",
+    "address": "1 rue de la volta - Saint-Marcel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route du Villard, 1236 - Les Allues",
+    "address": "1236 Route du Villard - Les Allues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Mercure - Brides-les-Bains (Tesla et autres)",
+    "address": "6 Allée de la Source - Brides-les-Bains",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alticimes résidences",
+    "address": "2 Avenue des Marronniers - Brides-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-STATION / HOTEL OXYGENE - Route de la Charmette",
+    "address": "Route de la Charmette - Les Avanchers-Valmorel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Radiana",
+    "address": "Chemin des Marroniers - La Léchère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - La Léchère les Bains",
+    "address": "D 97 - La Léchère",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Club Med - Valmorel",
+    "address": "Lieu dit le Mottet - Valmorel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

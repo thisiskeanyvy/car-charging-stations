@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SyDEV - Rue de l'Église - Notre-Dame-de-Monts",
+    "address": "Rue de l'Église - Notre-Dame-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Virta - Camping Campéole Plage des Tonnelles - Saint-Jean-de-Monts",
+    "address": "18 Route de la Tonnelle - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Aux Coeurs Vendeens - Saint jean de monts",
+    "address": "251 Route de notre dame de monts - Saint jean de monts",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autorecharge - 248 Rue de Notre Dame - Saint-Jean-de-Monts",
+    "address": "248 Rue de Notre Dame - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WattzHub - Saint-Jean-de-Monts - 12 Avenue des Pays de Monts",
+    "address": "16 Avenue des Pays de Monts - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Saint-Jean-de-Monts, Camping Le Bois Joly",
+    "address": "46 Route De Notre-Dame-De-Monts - Saint-Jean-de-Monts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Route de Saint-Jean-de-Monts - La Barre-de-Monts",
+    "address": "85 Route de Saint-Jean de Monts - La Barre-de-Monts",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SyDEV - Chemin De Querry - La Barre de Monts",
+    "address": "Chemin De Querry - La Barre De Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ouest Charge - Place du 11 novembre Saint-Jean-de-Monts",
+    "address": "66 Rue du Général de Gaulle - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - La Barre-de-Monts - Camping la Grande Côte",
+    "address": "Route de la Grande Côte - La Barre-de-Monts",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

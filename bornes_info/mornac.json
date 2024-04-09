@@ -1,0 +1,130 @@
+[
+  {
+    "title": "AFPA Mornac",
+    "address": "104 Route du lac Merlot ZE la braconne - Mornac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du champ de mars",
+    "address": "Place du Champ de Mars - Ruelle-sur-Touvre",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Clos saint Georges",
+    "address": "102 Rue bel air - Magnac sur Touvre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Rue Anatole France - L'Isle-d'Espagnac",
+    "address": "Rue Anatole France - L'Isle-d'Espagnac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de co-voitureage - Rue de Bellevue",
+    "address": "1081 Rue de Bellevue - Garat",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "CNPA - Impasse de la Volute",
+    "address": "200 Impasse de la Volute - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Sportif des Montagnes - Champniers",
+    "address": "Rue de la Génoise - Champniers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Avenue du Général de Gaulle - Soyaux",
+    "address": "280 Avenue du Général de Gaulle - Soyaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Soyaux",
+    "address": "278B Avenue du Général de Gaulle - Soyaux",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Rue de l'Auvent - Champniers",
+    "address": "62 Rue de l'Auvent - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

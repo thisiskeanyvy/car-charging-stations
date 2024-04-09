@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SYDEC - Avenue du Général de Gaulle",
+    "address": "62 Avenue du Général de Gaulle - Tosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place des Marroniers - Tosse",
+    "address": "Place des Marroniers - Tosse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel **** - Les Echasses",
+    "address": "701 route de la bruyere - Saubion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route de l'étang blanc 2265 - SEIGNOSSE",
+    "address": "Route de l'étang blanc 2265 - SEIGNOSSE",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autorecharge - Seignosse - 1379 Route de l'Étang Blanc",
+    "address": "1379 Route de l'Étang Blanc - Seignosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "15 Rue de Mounsempes",
+    "address": "Rue Clairacq - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue du Grand Tourren",
+    "address": "Rue du Grand Tourren - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "STATIONS-E - Saint-Vincent-de-Tyrosse - Citroën",
+    "address": "205 Route de Bayonne - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - E.Leclerc - Saint-Vincent-de-Tyrosse",
+    "address": "1320 Route de Bordeaux - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x6",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SUPER U - Route de Saubion",
+    "address": "163 Route de Saubion - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Hotel Belle Vue",
+    "address": "1 Chez Saby - Les Ancizes-Comps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmmile - Rue du Pont du Bouchet",
+    "address": "1 Rue du Pont du Bouchet - Les Ancizes-Comps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eoliberty - Saint-Georges-de-Mons - Intermarché",
+    "address": "D19 - Saint-Georges-de-Mons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEG 63 - Rue De l'Egalité - Saint-Gervais-d'Auvergne",
+    "address": "2 Rue De l'Egalite - Saint-Gervais-d'Auvergne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Borne camping car - Saint-Gervais-d'Auvergne",
+    "address": "L'Étang Philippe - Saint-Gervais-d'Auvergne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le cuisinier en Combraille",
+    "address": "10 Vivier - Vergheas",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Avenue des Combrailles - Bromont-Lamothe",
+    "address": "58 Avenue des Combrailles - Bromont-Lamothe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Municipal - Pontgibaud",
+    "address": "La Palle - Pontgibaud",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Mathieu - Saint-Ours",
+    "address": "7 Chemin de Fougère - Saint-Ours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 21 Rue Victor Mazuel - Manzat",
+    "address": "21 Rue Victor Mazuel - Manzat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking du Centre",
+    "address": "80 Rue de la Mairie - Valros",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du Centre",
+    "address": "32 Grand Rue - Valros",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Jean Moulin - Valros",
+    "address": "Avenue Jean Moulin - Valros",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Place Edouard Barthe",
+    "address": "1905 Place Edouard Barthe - Montblanc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 31 Avenue d'Agde - Nézignan-l'Évêque SUPPRIMÉ",
+    "address": "31 Avenue d'Agde - Nézignan-l'Évêque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Mixte Hérault Énergies (SDE34) - Nézignan-l'Évêque - Avenue de Pézenas",
+    "address": "Avenue de Pézenas - Nézignan-l'Évêque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - D18 - Servian",
+    "address": "D18 D18 - Servian",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Super U - Chemin du mas viel",
+    "address": "1 Chemin du mas viel - Servian",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 1 Chemin du Mas Viel",
+    "address": "1 Chemin du Mas Viel - Servian",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Val d'Hérault Nature",
+    "address": "La Serre - Saint-Thibéry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Carrefour Market - Château-Landon",
+    "address": "12 Rue de Nisceville, - Château-Landon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDESM - Parking de l'Ecole communale des filles",
+    "address": "2-6 Rue du Gâtinais - Château-Landon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A19 Aire du Loiret (double sens)",
+    "address": "D 975 - Juranville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDESM - Parking Salle polyvalente - Beaumont-du-Gâtinais",
+    "address": "5 Rue du Mail Est - Beaumont-du-Gâtinais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Rue Prudent Harry - Corquilleroy",
+    "address": "17 Rue Prudent Harry - Corquilleroy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes du Martroy",
+    "address": "670 Impasse du Martroy - Nargis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Parking Mairie - Bougligny",
+    "address": "2 Allée du Parc - Bougligny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - 286 Rue Marcel Donette - Pannes",
+    "address": "286 Rue Marcel Donette - Pannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E-Totem - D240 Aire de Covoiturage - Cepoy",
+    "address": "24B Avenue du Château - Cepoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - 1 Chemin des Mariniers - Souppes-sur-Loing",
+    "address": "1 Chemin des Mariniers - Souppes-sur-Loing",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

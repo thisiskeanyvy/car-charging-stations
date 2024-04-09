@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Révéo - Rue Pierre Pascal - Caux",
+    "address": "Rue Pierre Pascal - Caux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SUPER U - Roujan",
+    "address": "Z C Avenue de Pézenas - Roujan",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alignan-du-Vent | Rue des Aires",
+    "address": "Rue des Aires - Alignan-du-Vent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Mixte Hérault Énergies (SDE34) - Paulhan - Rue Saint Sébastien",
+    "address": "Rue Saint Sébastien - Paulhan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Jean-Baptiste Salvaing et Jessica Schneider - Pézenas",
+    "address": "1 Avenue Jean-Baptiste Salvaing et Jessica Schneider - Pézenas",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Le Saint Germain",
+    "address": "6 Avenue Paul Vidal de la Blache - Pezenas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alize (Bouygues Energies et Services) - Pézenas - 3 Avenue Paul Vidal de la Blache",
+    "address": "3 Avenue Paul Vidal de la Blache - Pézenas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue François Hue - Pézenas",
+    "address": "Avenue François Hue - Pézenas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Distillerie de pezenas",
+    "address": "1 Impasse Calquières Hautes - Pézenas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Pézenas",
+    "address": "170 Avenue Général de Gaulle - Pézenas",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

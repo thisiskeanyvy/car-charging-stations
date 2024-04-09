@@ -1,0 +1,138 @@
+[
+  {
+    "title": "ZEborne - Toyota - 7 Rue de Vienne - Horbourg-Wihr",
+    "address": "7 Rue de Vienne - Horbourg-Wihr",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Sainte-Croix-en-Plaine - 2 Rue Jean Mermoz",
+    "address": "2 Rue Jean Mermoz - Sainte-Croix-en-Plaine",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Horbourg-Wihr",
+    "address": "12 Rue de Sélestat - Horbourg-Wihr",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Mulhouse - Horbourg-Wihr",
+    "address": "4 Rue de Mulhouse - Horbourg-Wihr",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Ibis Horbourg Wihr",
+    "address": "13 route de Neuf Brisach - Horbourg Wihr",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Monta - Colmar - Greet Hotel",
+    "address": "Route de Bâle 83 - Colmar",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Colmar",
+    "address": "156 Avenue d'Alsace - Colmar",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - CC La Péniche - Colmar",
+    "address": "5 Rue de L'Ill - Colmar",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Colmar Orangerie",
+    "address": "4 Allée de l'Orangerie - Colmar",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Colmar - Macif",
+    "address": "124 Rte de Neuf-Brisach - Colmar",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

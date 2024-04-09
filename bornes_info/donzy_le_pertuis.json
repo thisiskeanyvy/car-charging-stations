@@ -1,0 +1,124 @@
+[
+  {
+    "title": "La moutonnerie",
+    "address": "La Moutonnerie - Bray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Porte de Paris - Cluny",
+    "address": "22 Rue Porte de Paris - Cluny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Chateau d'Igé (Tesla et autres)",
+    "address": "Rue du Château - Igé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château d'Igé (Porsche)",
+    "address": "252 Rue Du Chateau - Igé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Lugny - 630 Chemin du Grand Bois",
+    "address": "630 Chemin du Bois du Devant - Lugny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ferme Taima",
+    "address": "2 Tillouzot - Taizé",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Pâquier - Lugny",
+    "address": "5 Place du Pâquier - Lugny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gamm Vert Lugny",
+    "address": "Rue De La Folie - Lugny",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cave Lugny",
+    "address": "944 Rue des Charmes - Lugny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Mâcon-St Albain (direction Mâcon)",
+    "address": "A6 - Saint-Albain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

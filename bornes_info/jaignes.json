@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDESM - Rue de l'abbaye - Jaignes",
+    "address": "18 Rue de l'Abbaye - Jaignes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Ussy-sur-Marne (direction Reims)",
+    "address": "2 Autoroute de l’Est - Ussy-sur-Marne",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Changis-sur-Marne (direction Paris)",
+    "address": "A4 - Ussy-sur-Marne",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eco Charge 77/Armentières-en-Brie/Rue des Vignettes/",
+    "address": "7B Rue des Vignettes - Armentières-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "A4 Aire de Changis sur Marne (direction Paris)",
+    "address": "A 4 - Ussy-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de Verdun Lizy-sur-Ourcq",
+    "address": "7 Place de Verdun - Lizy-sur-Ourcq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 10 Rue Marcel Neyrat - Changis-sur-Marne",
+    "address": "10 Rue Marcel Neyrat - Changis-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Rue de la Mairie - Changis-sur-Marne",
+    "address": "Rue de la Mairie - Changis-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - 12 Rue du Hainault",
+    "address": "12 Rue du Hainault - Sept-Sorts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Sept-Sorts - 9 Rue du Commerce",
+    "address": "9 Rue du Commerce - Sept-Sorts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

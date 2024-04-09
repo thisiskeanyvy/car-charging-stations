@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Station Intermarché Liffré",
+    "address": "Centre Commercial - Liffré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Liffré",
+    "address": "Place de la Mairie - Liffré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Rue de Rennes - Saint Aubin d'Aubigné",
+    "address": "Rue de Rennes - Saint-Aubin-d'Aubigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Saint-Aubin-du-Cormier",
+    "address": "4 La ville en Pierre - Saint-Aubin-du-Cormier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Sens-de-Bretagne - Place de la Gare",
+    "address": "Place de la Gare - Sens-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Saint-Aubin-du-Cormier",
+    "address": "Rue Leclerc - Saint-Aubin-du-Cormier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "OuestCharge - Rue Jean Marie Pavy (Parking Médiathèque) - La Bouëxière",
+    "address": "Rue Jean Marie Pavy - La Bouëxière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zephyre - 6 Rue de la Forge - Betton INEXISTANT",
+    "address": "6 Rue de la Forge - Betton",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Avenue d'Armorique - Betton",
+    "address": "2 Avenue d'Armorique - Betton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "RossiniEnergy - 14 Rue Louis Blériot - Thorigné-Fouillard",
+    "address": "14 Rue Louis Blériot - Thorigné-Fouillard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

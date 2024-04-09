@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Paris-Saclay - Saulx - Buhoterie",
+    "address": "8 Rue de la Buhoterie - Saulx-les-Chartreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Relais des chartreux",
+    "address": "11 Rue de la Cerisaie - Saulx-les-Chartreux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Villebon-sur-Yvette",
+    "address": "Avenue de la Plesse - Villebon-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Villebon-sur-Yvette - CC Auchan",
+    "address": "2 Rue du Regard - Villebon-sur-Yvette",
+    "connectors": [
+      "x6",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auchan - Villebon-sur-Yvette",
+    "address": "632 Chemin de Briis - Villebon-sur-Yvette",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - 1 Rue de l'Yvette - Champlan",
+    "address": "1 Rue de l'Yvette - Champlan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Marché Couvert Bretten - Longjumeau",
+    "address": "8 Place de Bretten - Longjumeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay-Mobielectrique - 8 Rue Jean Jaurès - Champlan",
+    "address": "8 Rue Jean Jaurès - Champlan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "paris saclay - Rue Léontine Sohier",
+    "address": "99 Rue Léontine Sohier - Longjumeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking parc urbain - Longjumeau",
+    "address": "1-5 Rue Léontine Sohier - Longjumeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

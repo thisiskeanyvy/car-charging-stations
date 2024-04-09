@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Modulo-Energies - Bussy-Lettrée - Rue Louis Blériot Aéroport Paris Vatry",
+    "address": "Rue Louis Blériot Aéroport Paris Vatry - Bussy-Lettrée",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell - A26/RN4 Aire de Sommesous (double sens)",
+    "address": "A26 - Sommesous",
+    "connectors": [
+      "x2",
+      "x12",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hostellerie du Mont Aimé",
+    "address": "6 Rue de Vertus - Bergères-lès-Vertus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Fagnières - E.Leclerc",
+    "address": "Route d'Epernay E.Leclerc - Fagnières",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Siem51 - Tissier 12",
+    "address": "12 Tissier - Fagnières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best western Relais du Vigneron",
+    "address": "2 Av. Louis Lenoir - Blancs-Coteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E.Leclerc - Fagnières",
+    "address": "39 Route d'Épernay - Fagnières",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Monument aux morts - Boulevard Jean Brion",
+    "address": "56 Boulevard Jean Brion - Blancs-Coteaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Nissan - ALLIANCE MOTORS 51 SAS - CHALONS EN CHAMPAGNE",
+    "address": "79 Route d'Epernay - Fagnières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Avenue Charles de Gaulle - Fagnières",
+    "address": "1A Avenue Charles de Gaulle - Fagnières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

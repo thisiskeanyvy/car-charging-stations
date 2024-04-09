@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - AS Hotel - Rue de Chartres",
+    "address": "29 Rue de Chartres - Artenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Rue Soeur Saint-Henri - Janville",
+    "address": "Rue Soeur Saint-Henri - Janville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue de la Bretonnerie - Janville",
+    "address": "Rue de la Bretonnerie - Janville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Terminiers",
+    "address": "Rue de Charrette - Terminiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour contact - Rue de Pithiviers",
+    "address": "Rue de Pithiviers - Bazoche-les-Gallerandes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stcm 2",
+    "address": "13 Rue de Pithiviers - Bazoches-les-Gallerandes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour proximité France - Bazoches-les-Gallerandes",
+    "address": "13 Rue de Pithiviers - Bazoches-les-Gallerandes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE28 - Rue de l'Arsenal - Orgères-en-Beauce",
+    "address": "2 Rue de l'Arsenal - Orgères-en-Beauce",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ChargePoint - Super U - Neuville-aux-Bois",
+    "address": "3 Rue des Selliers - Neuville-aux-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A10 Aire d'Orléans-Saran (Direction Orléans)",
+    "address": "A10 - AIRE D'ORLEANS SARAN - GIDY",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Mairie de Couchey",
+    "address": "Place Charles de Gaulle - Couchey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 1 Rue Bolotte - Perrigny-lès-Dijon",
+    "address": "1 Rue Bolotte - Perrigny-lès-Dijon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Perrigny-lès-Dijon - 2 Rue Bolotte",
+    "address": "2 Rue Bolotte - Perrigny-lès-Dijon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Novotel Dijon Sud - Marsannay-la-Côte",
+    "address": "11 Route de Beaune - Marsannay-la-Côte",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Route de Beaune - Marsannay-la-Côte",
+    "address": "9 Route de Beaune - Marsannay-la-Côte",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Perrigny-lès-Dijon - Cora",
+    "address": "8\r\n Impasse Du Rocher\r\n - Perrigny-lès-Dijon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x5",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell Recharge - 11 Rue Gustave Eiffel - Marsannay-la-Côte INEXISTANT",
+    "address": "11 Rue Gustave Eiffel - Marsannay-la-Côte",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au clos Napoléon",
+    "address": "4 Rue de la Perrière - Fixin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Porsche Dijon",
+    "address": "7 Rue Paul Langevin - Chenôve",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Chenove",
+    "address": "1 Rue Paul Langevin - Chenôve",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

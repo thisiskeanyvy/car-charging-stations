@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Vinci - Avenue des Princes d'Orange - Entrechaux",
+    "address": "Avenue des Princes d'Orange - Entrechaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - 786 Chemin du Plan - Entrechaux",
+    "address": "786 Chemin du Plan - Entrechaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - 2933 Chemin de l'Ancienne Voie Ferrée - Entrechaux",
+    "address": "2933 Chemin de l'Ancienne Voie Ferrée - Entrechaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - EHPAD Le Centenaire - Malaucène",
+    "address": "1254 route du hameau de veaux - Malaucène",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Côté Lavande Mas des Escarabasses",
+    "address": "Route de Malaucène - Crestet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Place du Monument aux Morts",
+    "address": "Les Parrans - Mollans-sur-Ouvèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Parking Cours des Isnards - Malaucene",
+    "address": "3 Traverse de l'Ancien Chemin d'Entrechaux - Malaucène",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Saint-Romain-en-Viennois",
+    "address": "70 Route de Nyons - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché bis - Route de Vaison la Romaine - Saint-Romain-en-Viennois",
+    "address": "1620 Route de Vaison la Romaine - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Saint-Romain-en-Viennois",
+    "address": "105 Chemin de la Lauzerette - Saint-Romain-en-Viennois",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SDEM50 - Parking de covoiturage",
+    "address": "Zone d'activité le Pont - Martinvast",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Place René Cassin - Cherbourg-en-Cotentin",
+    "address": "6 Rue des Armistices - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Place Alfred Rossel, 15 - Cherbourg-Octeville",
+    "address": "15 Place Alfred Rossel - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - la vallée - Couville",
+    "address": "D56 - Couville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue de l'Île de France, 1 - Cherbourg-Octeville",
+    "address": "1 Rue de l'Île de France - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur Cherbourg en Cotentin",
+    "address": "13 RN 13 - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Cherbourg",
+    "address": "28 Avenue de la Banque à Genêts - La Glacerie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Hôtel de ville de La Glacerie",
+    "address": "2 Rue de l'Hôtel de ville - La Glacerie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Cherbourg-Octeville",
+    "address": "Route des Fourches - Cherbourg-Octeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue Martin Luther King La Glacerie",
+    "address": "49 Rue Martin Luther King - La Glacerie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

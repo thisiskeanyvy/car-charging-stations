@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Rue de Sanerville",
+    "address": "4 Rue De Sannerville - Cuverville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue du Cimetiere",
+    "address": "18 Impasse des Sorbiers - Démouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Biscuiterie Jeannette 1850 - Colombelles",
+    "address": "10 Avenue Jean Jaurès - Colombelles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Démouville - Rue Gutenberg ZA Le Grand Champs",
+    "address": "Rue Gutenberg ZA Le Grand Champs - Démouville",
+    "connectors": [
+      "x5",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A13 Aire de Giberville-Nord (direction Caen)",
+    "address": "0 A13 - Démouville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Hotel Libera - Colombelles",
+    "address": "42 Rue Nelson Mandela - Colombelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Place François Mitterrand - Colombelles",
+    "address": "12 Place de l'Hôtel de ville - Colombelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Colombelles",
+    "address": "Impasse du Vexin - Colombelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FR*SEV - Giberville - 1 Avenue des Anglais",
+    "address": "1 Avenue des Anglais - Giberville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A13 - Aire de Giberville-Sud (direction Rouen)",
+    "address": "A13 - Giberville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

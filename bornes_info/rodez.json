@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Foch - Boulevard Gally",
+    "address": "Boulevard Gally - Rodez",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking - Rodez",
+    "address": "5 C Boulevard du 122 Régiment d'Infanterie - Rodez",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Drop'N'Plug - Ibis Budget Rodez",
+    "address": "4 Impasse du Prat Mouly - Rodez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Qovoltis - Rodez - Hotel Campanile",
+    "address": "1 Avenue de l'Entreprise Campanile Rodez - Rodez",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Inter-Hotel Les Peyrières",
+    "address": "1–5 Rue des Quatre Vents - Olemps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - ZC des Moutiers 2 - Rodez",
+    "address": "Avenue de l'Entreprise - Rodez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - ZC des Moutiers 1 (Rapide) - Rodez",
+    "address": "13 Avenue De l'Entreprise - Rodez",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Rue du docteur Théodore Mathieu - Rodez INEXISTANT",
+    "address": "190 Rue du D' Th. Mathieu - Rodez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel La Ferme de Bourran - rodez",
+    "address": "Rue de berlin - Rodez",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA - Parking relais de la Crouzette",
+    "address": "6 Rue des Cigales - Olemps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

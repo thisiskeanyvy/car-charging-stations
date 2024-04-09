@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SIEML - VIVY - Parking Des Deux Sœurs",
+    "address": "Avenue des Deux Surs - Vivy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rossini Energy - Vivy - Rue du Pont Grison",
+    "address": "Rue du Pont Grison - Vivy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mazda - Saumur",
+    "address": "3 Impasse du Pigeonnier - Saumur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel du Parc",
+    "address": "169 Avenue des Fusillés - Saumur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Saumur - 161 Rue de l'Oreau 1ere Classe Saumur",
+    "address": "161 Rue de l'Oreau 1ere Classe Saumur - Saumur",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico Dépôt - Saumur",
+    "address": "89 Boulevard Des Demoiselles - Saumur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Saumur - Action",
+    "address": "56 Boulevard Des Demoiselles - Saumur",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Nissan - Saumur",
+    "address": "124 Avenue des Fusillés - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Emmaus Saumur",
+    "address": "62 Rue Moïse Ossant - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saumur",
+    "address": "Boulevard Vallerots - Saumur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

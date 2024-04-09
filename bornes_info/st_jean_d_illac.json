@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEEG33 - Saint-Jean-d'Illac (Place de l'église)",
+    "address": "Place de l'Église - Saint-Jean-d'Illac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Giratoire de la fontaine",
+    "address": "Avenue des Chênes - Saint-Jean-d'Illac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GIFI - Rue André Marie Ampère - Saint-Jean-d'Illac",
+    "address": "25 Rue André Marie Ampère - Saint-Jean-d'Illac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Jean-d'Illac",
+    "address": "79 Avenue de Boulac - Saint-Jean-d'Illac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Detexial",
+    "address": "3284 Avenue de Pierroton - Saint-Jean-d'Illac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Mérignac - 211B Avenue de l'Argonne",
+    "address": "211B Avenue de l'Argonne - Mérignac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroport Bordeaux-P2 - Rue René Cassin - Mérignac",
+    "address": "Rue René Cassin - Mérignac",
+    "connectors": [
+      "x28",
+      "x28"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enterprise Rent a Car",
+    "address": "150 Avenue de l'Argonne - Mérignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Crna Sud-Ouest",
+    "address": "7 Rue Caroline Aigle - Mérignac",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Concession Peugeot Citroën et DS store - Avenue de l'argonne - Merignac",
+    "address": "78 Avenue de l'Argonne - Mérignac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

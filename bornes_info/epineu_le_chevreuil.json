@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Zephyre - 1 Rue des Bates Zone Artisanale les Bates - Loué",
+    "address": "1 Rue des Bates Zone Artisanale les Bates - Loué",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALIZE - Rue de la libération/hôtel Ricordeau",
+    "address": "9 Rue de la Libération - Loué",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Super U - Mareil-en-Champagne DOUBLON",
+    "address": "La Grange - Mareil-en-Champagne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Mareil-en-Champagne",
+    "address": "1 La Grange - Mareil-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 2 Rue Henri Vallée - Brulon",
+    "address": "2 Rue Henri Vallée - Brulon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rouez foyer logement",
+    "address": "Andrée Le Grou - Rouez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Z.A. des 4C - Conlie",
+    "address": "1 za 4c - Conlie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A81 Aire de Saint-Denis d'Orques (direction Laval)",
+    "address": "A81 - Saint-Denis-d'Orques",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarthe IRVE - Gare de Sillé-le-Guillaume",
+    "address": "Rue de la Gare - Sillé-le-Guillaume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv'nGo Fercé-sur-Sarthe",
+    "address": "13 Rue des Avelines - Fercé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

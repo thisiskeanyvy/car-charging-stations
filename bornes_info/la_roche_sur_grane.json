@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Le Prieuré des Sources (Tesla and others)",
+    "address": "585 Route d'Autichamp - La Répara-Auriples",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Utile - Montée du Beffroi",
+    "address": "2 Montée du Beffroi - Grane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Communauté de Communes Val de Drôme",
+    "address": "96 Ronde des alisiers - Eurre",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED26 - Avenue René Chartron",
+    "address": "Avenue René Chartron - Marsanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Crest - 8 Rue Gustave Eiffel",
+    "address": "8 Rue Gustave Eiffel - Crest",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Route de Bonlieu Cléon-d'Andran",
+    "address": "3 Place du Commerce - Cléon-d'Andran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D164 Aire de covoiturage de Saint Ferreol - Crest",
+    "address": "Aire Multimodale de Saint Ferreol - Crest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDED - Place de la Liberté - Crest",
+    "address": "4 Place de la Liberté - Crest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Avenue George Clémenceau - Crest",
+    "address": "Avenue George Clémenceau - Crest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking du kiosque - Crest",
+    "address": "10 Cours de Verdun - Crest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

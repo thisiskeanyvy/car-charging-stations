@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SYDEGO - Avenue Abbé Paul Mercier - Saint-Étienne-de-Montluc",
+    "address": "Avenue Abbé Paul Mercier - Saint-Étienne-de-Montluc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Place Foch, 3 - Saint-Étienne-de-Montluc",
+    "address": "3 Place Foch - Saint-Étienne-de-Montluc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super-U - Saint-Étienne-de-Montluc",
+    "address": "Route de Couëron - Saint-Étienne-de-Montluc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Le Pont de Pierre - Vigneux-de-Bretagne",
+    "address": "Le Pont de Pierre - Vigneux-de-Bretagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "VERT LEM",
+    "address": "Le Clair de Lune - Saint-Étienne-de-Montluc",
+    "connectors": [
+      "x5",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant La Cabane à Malte",
+    "address": "2 Rue Albert De Dion - Vigneux-de-Bretagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue Louis Girard - Le Temple-de-Bretagne",
+    "address": "Rue Louis Girard - Le Temple-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDEGO - Fontaine Saint Martin - Vigneux-de-Bretagne",
+    "address": "26 Rue Fontaine Saint-Martin - Vigneux-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO Station Cordemais (Avenue des Quatre Vents)",
+    "address": "7 Avenue des Quatre Vents - Cordemais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Cordemais - Rue des Sports",
+    "address": "Rue des Sports - Cordemais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

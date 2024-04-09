@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Izivia - Super U - Bonnétable",
+    "address": "45\r\n Avenue du 8 Mai 1945\r\n - Bonnétable",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Stations-e - Saint-Cosme-en-Vairais - Place Saint-Damien",
+    "address": "Place Saint-Damien - Saint-Cosme-en-Vairais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Planque en Perche",
+    "address": "La Buchère - Bellou-le-Trichard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'nGo : Marolles",
+    "address": "35 Place nationale - Marolles-les-Braults",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte de la Vieuxville",
+    "address": "La Vieux Ville - Beaufay",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Tuffé Val de la Chéronne - Rue de la Mairie 24 (privé)",
+    "address": "24 Rue de la Mairie - Tuffé Val de la Chéronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place Pierre Veau - Saint-Germain-de-la-Coudre",
+    "address": "14 Place Pierre Veau - Saint-Germain-de-la-Coudre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - La Ferté-Bernard - 1 Rue Alfred Marchand",
+    "address": "1 Rue Alfred Marchand - La Ferté-Bernard",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A11 - Aire de La Ferté-Bernard (direction Le Mans)",
+    "address": "A11 - Villaines-la-Gonais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A11 - Aire de Villaines la Gonais (direction Chartres)",
+    "address": "1 l'océane - Villaines-la-Gonais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

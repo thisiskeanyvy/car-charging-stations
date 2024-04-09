@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SyDEV - Rue des oiseaux - Mouilleron-le-Captif",
+    "address": "Rue Des Oiseaux - Mouilleron Le Captif",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Courtepaille - La Roche-sur-Yon",
+    "address": "208 Rue du Clair Bocage - Mouilleron-le-Captif",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Ibis La Roche sur Yon (Tesla and others)",
+    "address": "160 Rue du Clair Bocage - Mouilleron-le-Captif",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - BMW/Mini - La Roche-sur-Yon",
+    "address": "80 Rue de la Croisée - La Roche-sur-Yon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Mouilleron-le-Captif",
+    "address": "20 Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CLARA LA ROCHE SUR YON",
+    "address": "70 Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Hôtel Ibis Mouilleron-le-Captif",
+    "address": "160 Rue du Clair Bocage, 85000 Mouilleron-le- - Mouilleron-le-Captif",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Océane Automobiles - Hyundai_La Roche-sur-Yon",
+    "address": "3 Rue des Charmettes - Mouilleron-le-Captif",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mazda - Mouilleron-le-Captif",
+    "address": "112 Rue du Clair Bocage - Mouilleron-le-Captif",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Mouilleron-le-Captif",
+    "address": "3 Rue des Charmettes - Mouilleron-le-Captif",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDESM - Parking eglise",
+    "address": "11 Rue Maigrette - Flagy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de la Roche du Saut Villecerf",
+    "address": "2 Rue de la Roche du Saut - Villecerf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDESM - Mairie de Voulx",
+    "address": "2 Grande Rue - Voulx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Darvault - Rue de la Mairie",
+    "address": "Rue de la Mairie - Darvault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Darvault (direction Paris)",
+    "address": "A6 - Darvault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A6 - Aire de Nemours (direction Auxerre)",
+    "address": "A6 - Nemours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - Rue Gustave Eiffel - Nemours",
+    "address": "4 Rue Gustave Eiffel - Nemours",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem (FR*ETI) - Nemours - 1 Place des Moines",
+    "address": "1 Place des Moines - Nemours",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - DIANT",
+    "address": "Grande Rue  - Diant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEY - Intermarché - Chéroy",
+    "address": "3 Rue de Vauredenne - Chéroy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

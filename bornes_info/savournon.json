@@ -1,0 +1,134 @@
+[
+  {
+    "title": "e-born - Parking de Serres - Serres",
+    "address": "2 Avenue Marius Meyere - Serres",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syme05 - Aspremont",
+    "address": "D1075 - Aspremont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "HOTEL - Auberge de Lagrand (Privée)",
+    "address": "Auberge de lagrand - Lagrand",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Veynes - 1032 Chemin Du Plan D'eau Des Iscles",
+    "address": "1032 Chemin Du Plan D'eau Des Iscles - Veynes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Rives Du Lac",
+    "address": "Unnamed Road - Veynes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping solaire",
+    "address": "6610 Chemin de la Vieille Digue - Veynes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Office de Tourisme - Aspres-Sur-Buëch",
+    "address": "Office de Tourisme - Aspres-Sur-Buëch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue de la Concorde - Laragne-Montéglin",
+    "address": "25 Rue de la Concorde - Laragne-Montéglin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Parking de Veragne Laragne - Montéglin",
+    "address": "23 Avenue de Provence - Laragne-Montéglin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Syme05 - Parking de Veragne - Laragne-Montéglin",
+    "address": "165 Rue du Souvenir - Laragne-Montéglin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

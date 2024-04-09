@@ -1,0 +1,130 @@
+[
+  {
+    "title": "DRIVECO - Place du 8 Mai 1945 - Brignais",
+    "address": "2 Pl. du 8 Mai 1945, - Brignais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Gamm Vert - Brignais",
+    "address": "38 Rue Des Ronzières - Brignais",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Bâtiment OCW",
+    "address": "37 Rue Paul Bovier Lapierre - Brignais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brignais | Route de Lyon 3",
+    "address": "3 Route de Lyon - Brignais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exadys - 54 Route d'Irigny - Brignais INEXISTANT",
+    "address": "54 Route d'Irigny - Brignais",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exadys - Brignais - 54 Route d'Irigny",
+    "address": "54 Route d'Irigny - Brignais",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions - Rue de l'Industrie",
+    "address": "14 Rue de l'Industrie ZI les Vallières - Brignais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Planète environnement",
+    "address": "2 impasse du château rouge - Brignais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Be Cable - Mega CGR - Brignais (Sortie 7)",
+    "address": "Rue de l'Industrie - Brignais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "BeCharge - Vourles - Route de Lyon",
+    "address": "Route de Lyon - Vourles",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

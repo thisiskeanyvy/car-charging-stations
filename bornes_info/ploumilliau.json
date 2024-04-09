@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE22 - Rue Anatole le Bras - Ploumilliau",
+    "address": "Rue Anatole le Bras - Ploumilliau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 - Saint-Michel-en-Grève",
+    "address": "5 Route d'Arvor - Saint-Michel-en-Grève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Coat Aillis - Plestin-les-Grèves",
+    "address": "- Plestin-les-Grèves",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Ploubezre",
+    "address": "Place de la Poste - Ploubezre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Rue de la Bienfaisance Lannion",
+    "address": "13 Boulevard Louis Guilloux - Lannion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Crédit Agricole - Lannion",
+    "address": "10 Allée du Palais de Justice - Lannion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Office de tourisme - Lannion",
+    "address": "3 Quai de Viarmes - Lannion",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plestin-les-Grèves",
+    "address": "153–269 Route de Guergay - Plestin-les-Grèves",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking des Ursulines - 8 Rue du Petit Forlac'h",
+    "address": "8 Rue du Petit Forlac'h - Lannion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Lannion BodemerAuto (Privé)",
+    "address": "Route de Guingamp - Lannion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

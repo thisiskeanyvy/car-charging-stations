@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Domaine de Ouezy, ferme pédagogique",
+    "address": "22 rue Auguste Lemonnier - Ouézy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Mézidon-Canon (Place de la Résistance)",
+    "address": "Rue Voltaire - Mézidon-Canon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - D252 - Mézidon Vallée d'Auge",
+    "address": "D252 - Mézidon Vallée d'Auge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Rue du Pressoir - Valambray",
+    "address": "Rue du Pressoir - Valambray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - CROISSANVILLE (D613 / Mairie)",
+    "address": "17 Route Nationale 13 - Croissanville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "parking",
+    "address": "82 Lieu des Ifs - Le Mesnil-Mauger",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Méry-Corbon",
+    "address": "16 Place Saint-Martin - Méry-Corbon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Route de Paris - Moult-Chicheboville",
+    "address": "Route de Pzris - Moult-Chicheboville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E.Leclerc - Argences",
+    "address": "4 D613 - Argences",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centrakor - Rue Georges Lemesle (Privé)",
+    "address": "3 Rue Georges Lemesle - Argences",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

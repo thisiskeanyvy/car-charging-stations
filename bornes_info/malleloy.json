@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Vinci - Mairie de Malleloy",
+    "address": "1 Rue de la Mairie - Malleloy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE54 - D40 Aire de covoiturage - Custines",
+    "address": "D40 - Custines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Vinci - CC Bassin de Pompey",
+    "address": "112 rue des 4 éléments - Pompey",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Esso-Garage Maillefert",
+    "address": "91 rue de Metz - Frouard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint network - 56 Rue de la Zone Artisanale du Serroir du Haut - Lay-Saint-Christophe",
+    "address": "56 Rue de la Zone Artisanale du Serroir du Haut - Lay-Saint-Christophe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Belleville",
+    "address": "55 Route Nationale 57 - Belleville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Enerstock - Frouard - Leclerc",
+    "address": "2 Rue du Bois - Frouard",
+    "connectors": [
+      "x42"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Leclerc - Espace Commercial Grand Air - Frouard",
+    "address": "1 Espace Commercial Grand Air - Frouard",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station service Leclerc - Frouard",
+    "address": "2 Rue du Bois - Frouard",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ionity - Rue du Bois - Frouard",
+    "address": "2 Rue du bois - Frouard",
+    "connectors": [
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

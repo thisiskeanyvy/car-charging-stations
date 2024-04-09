@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Vinci - 23T Grande Rue - Hériménil",
+    "address": "23T Grande Rue - Hériménil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Brit",
+    "address": "17 Route Vosges - Rehainviller",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Pro & Cie - Lunéville",
+    "address": "1 Rue du Pré Contal - Lunéville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SGA Automation - 7 Avenue du 3ème Régiment de Cuirassiers - Moncel-lès-Lunéville",
+    "address": "7 Avenue du 3ème Régiment de Cuirassiers - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - 7 Avenue du 3ème Régiment de Cuirassiers - Moncel-lès-Lunéville",
+    "address": "7 Avenue du 3ème Régiment de Cuirassiers - Moncel-lès-Lunéville",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Speedy - Moncel-lès-Lunéville",
+    "address": "2 Rue Clément Ader - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Burger King - Moncel-lès-Lunéville",
+    "address": "01 Rue Clément Ader - Moncel-lès-Lunéville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sodial - Renault - Luneville",
+    "address": "95 Faubourg de Ménil - Luneville",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - BYMYCAR RENAULT - Lunéville",
+    "address": "70 Faubourg de Ménil - Lunéville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Cora - Moncel-lès-Lunéville",
+    "address": "Route Départementale 31 - Moncel-lès-Lunéville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

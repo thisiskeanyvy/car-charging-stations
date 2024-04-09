@@ -1,0 +1,124 @@
+[
+  {
+    "title": "FDEA - Place de l'Hôtel de Ville - HAYBES",
+    "address": "Place de l'Hôtel de Ville - HAYBES",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place Aristide Briand - Fumay",
+    "address": "1 Place Aristide Briand - Fumay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Cosy Hideaway",
+    "address": "267 Chemin des mélèzes - Oignies-en-Thierache",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "The Whisky Lodge",
+    "address": "265 Domaine Des Nobertins - Viroinval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "70 Avenue du Général de Gaulle (Privé)",
+    "address": "70 Avenue du Général de Gaulle - Vireux-Wallerand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Gare, Treignes 16 5670 Viroinval",
+    "address": "Rue de la Gare, Treignes 16 - Viroinval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Revin",
+    "address": "27 Avenue Jean Baptiste Clément - Revin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Emyon - Viroinval - 6 Rue de la Gendarmerie",
+    "address": "6 Rue de la Gendarmerie - Viroinval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Smappee - Treignes - Rue Grands Champs 5AB",
+    "address": "Rue Grands Champs 5AB - Treignes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - CNPE de Chooz - Chooz",
+    "address": "CNPE de Chooz - Chooz",
+    "connectors": [
+      "x114",
+      "x113",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

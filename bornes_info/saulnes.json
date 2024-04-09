@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Chargy - Place de Saintignon - Lasauvage",
+    "address": "Place de Saintignon - Lasauvage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Creos Luxembourg - Pétange - Rue de la Fonderie",
+    "address": "Rue de la Fonderie - Pétange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargy - 20 Rue de la Piscine - Rodange",
+    "address": "20 Rue de la Piscine - Rodange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargy - Rodange - Rue Jos Moscardo",
+    "address": "Rue Jos Moscardo - Rodange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargy - Avenue Dr Gaasch - Rodange",
+    "address": "Avenue Dr Gaasch - Rodange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Avenue de l'Europe - Mont Saint Martin",
+    "address": "1 Avenue de l'Europe - Mont-Saint-Martin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Mont Saint Martin",
+    "address": "10 Rue du Faisceau - Mont-St.-Martin",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargy - 2 Route de Luxembourg - Rodange",
+    "address": "2 Route de Luxembourg - Rodange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Creos Luxembourg - Rodange - 2 Rue de l'Industrie",
+    "address": "2 Rue de l'Industrie - Rodange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargy - Pétange - 11 Route de Luxembourg",
+    "address": "N 31 - Pétange",
+    "connectors": [
+      "x44"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

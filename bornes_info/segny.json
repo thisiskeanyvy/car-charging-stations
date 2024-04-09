@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Rue des Plantages - Segny",
+    "address": "Rue des Plantages - Segny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Segny",
+    "address": "5 Route Nationale - Ségny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Ségny DOUBLON",
+    "address": "5 Route Nationale - Ségny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Ségny",
+    "address": "RN 5 - Ségny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - RN 5 Chemin la Vie Haute - Ségny",
+    "address": "RN 5 Chemin la Vie Haute - Ségny",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Gex",
+    "address": "Route de Genève - Cessy",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Concession VW Jean Lain",
+    "address": "83 Rue de la Bergerie - Cessy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sowatt - 83 Rue de la Bergerie - Cessy",
+    "address": "83 Rue de la Bergerie - Cessy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Versonnex centre - Route de Divonne, Parking Vival",
+    "address": "31 Route de Collex Bossy - Versonnex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco (Peugeot ByMyCar)",
+    "address": "1040 rue de Gex - Ornex",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

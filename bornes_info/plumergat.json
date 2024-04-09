@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Borneco - Sainte-Anne-d'Auray - Hôtel Kara",
+    "address": "25 Rue de Vannes - Sainte-Anne-d'Auray",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - 56 Rue de Vannes - Sainte-Anne-d'Auray",
+    "address": "56 Rue de Vannes - Sainte-Anne-d'Auray",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - rue de Vannes",
+    "address": "17 Rue de Vannes - Sainte-Anne-d'Auray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zephyre - 8 Rue de Vannes - Sainte-Anne-d'Auray",
+    "address": "8 Rue de Vannes - Sainte-Anne-d'Auray",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue de la Poste - Grand-Champ",
+    "address": "9 Rue de la Résistance - Grand-Champ",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morbihan énergies- rue du Pont Douar - Brech",
+    "address": "Rue du Pont Douar - Brech",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "PowerDot - Super U - Pluvigner",
+    "address": "6 Rue Abbé le Maréchal - Pluvigner",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morbihan énergies- Place Saint Michel - Pluvigner",
+    "address": "Place Saint Michel - Pluvigner",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue Georges Cadoudal - Pluneret",
+    "address": "Rue Marie Curie - Pluneret",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - Rue Georges Pompidou - Pluneret",
+    "address": "Rue Georges Pompidou - Pluneret",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

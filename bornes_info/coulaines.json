@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Izivia - U Location - Saint-Pavace",
+    "address": "2 Route de Coulaines - Saint-Pavace",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Truffaut Saint-Pavace",
+    "address": "Boulevard du Maréchal de Lattre de Tassigny - Saint-Pavace",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Le Mans",
+    "address": "51 Avenue Georges Duhamel - Le Mans",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Le Mans - Route d'Alençon",
+    "address": "Route d'Alençon - Le Mans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Rue Thomas Edison - Le Mans",
+    "address": "2 Rue Thomas Edison - Le Mans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Le Mans",
+    "address": "8 Rue Thomas Edison - Le Mans",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electra - Le Mans - Parc Manceau",
+    "address": "Rue du Parc Manceau - Le Mans",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le Mans | Rue Hippolyte Foucault",
+    "address": "Rue Hippolyte Foucault - Le Mans",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Parking Quinconces souterrain Place des Jacobins - Le Mans",
+    "address": "8 Place des Jacobins - Le Mans",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "E-Totem - 9 Place des Jacobins - le Mans",
+    "address": "9 Place des Jacobins Parking Jacobins - Le Mans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

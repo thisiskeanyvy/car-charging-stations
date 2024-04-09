@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE03 - Bellenaves",
+    "address": "Avenue Michelet - Bellenaves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Rue de Bourgneuf - Chantelle",
+    "address": "Rue de Bourgneuf - Chantelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Ébreuil - D35 Garage Quantin",
+    "address": "D35, Route de Saint-Bonnet-de-Rochefort ZI Les Varennes - Ébreuil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Allée du Chemin de Fer Ébreuil",
+    "address": "10 Avenue de la Gare - Ebreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Gannat",
+    "address": "12 Avenue des Capucins - Gannat",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Musée Yves Machelon - Gannat",
+    "address": "6 Rue Hettier De Boislambert - Gannat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE03 - Place Pasteur - Gannat",
+    "address": "1 Cours de la République - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Broût-Vernet",
+    "address": "Rue de la Chaume - Broût-Vernet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Aldi - Gannat",
+    "address": "2 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Montmarault (Place du 8 mai 1945)",
+    "address": "Boulevard Tourret - Montmarault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

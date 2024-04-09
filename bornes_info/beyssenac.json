@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE24 - Place de la Poste Payzac",
+    "address": "7 Place de la Poste - Payzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - 1 Place du Château",
+    "address": "1 Place du Château - Arnac-Pompadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Labrot- Avenue du Limousin - Arnac-Pompadour",
+    "address": "14 Avenue du Limousin - Arnac-Pompadour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "moulin de la jarousse",
+    "address": "231 Moulin de la Jarousse - Angoisse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Route de Limoges - Saint-Yrieix-la-Perche",
+    "address": "99–101 Route de Limoges - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Lubersac",
+    "address": "Avenue du 8 Mai 1945 - Lubersac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE24 - Base de loisirs de Rouffiac",
+    "address": "142 Le Godoney - Angoisse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Chabrignac - Carrefour Contact",
+    "address": "Laschamps - Chabrignac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Rue de l'Hôpital",
+    "address": "9 Rue de l'Hôpital - Lubersac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEE19 (Mobive) - Rue du 11 Novembre - Lubersac",
+    "address": "Rue du 11 Novembre - Lubersac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

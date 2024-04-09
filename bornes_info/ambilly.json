@@ -1,0 +1,134 @@
+[
+  {
+    "title": "CITis - Avenue Émile Zola Annemasse (Privé)",
+    "address": "9 Avenue Émile Zola - Annemasse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Rue Louis Armand 4 - Annemasse",
+    "address": "Rue Louis Armand 4 - Annemasse",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Rue Fernand David - Annemasse",
+    "address": "1 Rue Fernand David - Annemasse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MOVE Mobility AG CCI - Thônex - Allée de belle-Terre",
+    "address": "Allée de belle-Terre - Thônex",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Frémis - Puplinge",
+    "address": "20 Rue de Frémis - Puplinge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Rue Pasteur - Ville-la-Grand",
+    "address": "21 Rue des Tournelles - Ville-la-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Annemasse",
+    "address": "18 Route des Vallées - Annemasse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syane (E-born) - Rue de Moellesulaz - Gaillard",
+    "address": "26-28 Rue de Moellesulaz - Gaillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Rue du 18 Août Gaillard",
+    "address": "7 Rue du 18 Août - Gaillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Toyota-Lexus - Gaillard",
+    "address": "8 Rue de l'Industrie - GAILLARD",
+    "connectors": [
+      "x7",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

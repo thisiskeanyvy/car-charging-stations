@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Powerdot - Pôle commercial l'Albizia - Montech",
+    "address": "4 rue de la Mouscane - Montech",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Netto - ZEborneMS - 15 Avenue de la Mouscane - Montech",
+    "address": "15 Avenue de la Mouscane - Montech",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Montech",
+    "address": "930 Avenue de Montauban - Montech",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montech",
+    "address": "85 Impasse Lacoste - Montech",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE82 - route de Toulouse - Escatalens",
+    "address": "1187 route de Toulouse - Escatalens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE82 - rue de la Gare - Montbartier",
+    "address": "171 Rue de la Gare - Montbartier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Route nationale - Finhan",
+    "address": "21 Route nationale - Finhan",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Mairie de Bourret",
+    "address": "19 Chem des Communaux - Bourret",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Place de la Mairie - Montbartier",
+    "address": "105 Chemin de Lapeyrière - Montbartier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE82 - Rue des Platanes - Saint-Porquier",
+    "address": "1 Rue des Platanes - Saint-Porquier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

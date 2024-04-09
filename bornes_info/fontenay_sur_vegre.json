@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Izivia - 2 Rue Henri Vallée - Brulon",
+    "address": "2 Rue Henri Vallée - Brulon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Sablé-sur-Sarthe",
+    "address": "5 Rue de la Tuilerie - Sablé-sur-Sarthe",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault Minute",
+    "address": "Rue de la tuilerie - Sablé sur sarthe",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paking La Maison point Fr",
+    "address": "17 Rue de la Tuilerie - Sablé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Mareil-en-Champagne",
+    "address": "1 La Grange - Mareil-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Super U - Mareil-en-Champagne DOUBLON",
+    "address": "La Grange - Mareil-en-Champagne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - Sablé-sur-Sarthe (GCA) - 22kW AC",
+    "address": "18 Route de la Flèche - Sablé-sur-Sarthe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Place de la République - Sablé-sur-Sarthe",
+    "address": "26 Rue Léon Legludic - Sablé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alizé - 7 Rue Michel Vielle - Sablé-sur-Sarthe",
+    "address": "7 Rue Michel Vielle - Sablé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ALIZE - Rue de la libération/hôtel Ricordeau",
+    "address": "9 Rue de la Libération - Loué",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

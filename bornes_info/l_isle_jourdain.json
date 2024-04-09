@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE32 - Place Saint Bertrand",
+    "address": "10 Place Saint-Bertrand - L'Isle-Jourdain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Super U - L'Isle-Jourdain",
+    "address": "3 Rue Jean Moulin - L'Isle-Jourdain",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Renault - L'Isle Jourdain",
+    "address": "ZAC du Pont Peyrin - L'isle jourdain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-E - Midas - L'Isle-Jourdain",
+    "address": "45 Route de Toulouse - L'Isle-Jourdain",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "mobilygreen - Carrefour - L'Isle-Jourdain",
+    "address": "19 Rue Colette Besson - L'Isle-Jourdain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Brico Marché - Rue Colette Besson",
+    "address": "22 Rue Colette Besson - L'Isle-Jourdain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - D257 Route du Calvaire - Monferran Savès",
+    "address": "1909 D257 - Monferran-Savès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IECharge - Pujaudran - A Nougaret",
+    "address": "A Nougaret - Pujaudran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie de Saiguède",
+    "address": "5 Rue du 8 Mai 1945 - Saiguède",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Caubiac, Village",
+    "address": "33 Le Village - Caubiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

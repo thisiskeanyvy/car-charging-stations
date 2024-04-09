@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEG 63 - 24 Rue de l'Hôtel de Ville - Giat",
+    "address": "24 Rue de l'Hôtel de Ville - Giat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sdec - Place Marie-Thérèse Goumy - Crocq",
+    "address": "1 Place Marie-Thérèse Goumy - Crocq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Hotel Belle Vue",
+    "address": "1 Chez Saby - Les Ancizes-Comps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Avenue des Combrailles - Bromont-Lamothe",
+    "address": "58 Avenue des Combrailles - Bromont-Lamothe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmmile - Rue du Pont du Bouchet",
+    "address": "1 Rue du Pont du Bouchet - Les Ancizes-Comps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Municipal - Pontgibaud",
+    "address": "La Palle - Pontgibaud",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat de la Diège – Place du Champ de Foire – Eygurande",
+    "address": "Place Champ de Foire - Eygurande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Rochefort Montagne",
+    "address": "Route Ancienne Route Nationale 89 - Rochefort-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Volca'lodges de Tournebise",
+    "address": "- Saint-Pierre-le-Chastel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - VVF VILLAGES - Eygurande",
+    "address": "Impasse des Libellules - Eygurande",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

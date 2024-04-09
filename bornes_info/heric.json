@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Sydego - Rue de l'Océan",
+    "address": "27 Rue de l'Océan - Héric",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ouest Charge - Heric - Saint-Jean",
+    "address": "2 Rue Saint-Jean - Héric",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Héric",
+    "address": "51 Rue de l'Océan - Héric",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Logis L'Abreuvoir",
+    "address": "La Croix Blanche - Heric",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Héric | Avenue des Frères Lumière",
+    "address": "Avenue des Frères Lumière - Héric",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - ZA de l'Erette - Lafon - Héric",
+    "address": "Avenue de L'Erette - Héric",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - 8 Rue Marie Curie - Grandchamps-des-Fontaines",
+    "address": "8 Rue Marie Curie - Grandchamps-des-Fontaines",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO - Place de l'Église - Notre-Dame-des-Landes",
+    "address": "32 Place de l'Église - Notre-Dame-des-Landes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Station Grandchamps des Fontaines \"La Vertière\"",
+    "address": "6 Rue de la Vertière - Grandchamps-des-Fontaines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Rue du Hameau de Galichet - Casson",
+    "address": "Rue du Hameau de Galichet - Casson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

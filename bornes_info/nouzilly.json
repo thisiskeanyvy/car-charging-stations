@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEIL - Rue du Prieuré - Nouzilly",
+    "address": "6 Rue du Prieuré - Nouzilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Impasse des loisirs - Saint-Laurent-en-Gâtines",
+    "address": "3 Allée des Fossettes - Saint-Laurent-en-Gâtines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Jean Baptiste Moreau - Monnaie",
+    "address": "Place Jean Baptiste Moreau - Monnaie",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEIL - Parking mairie Beaumont-la-Ronce",
+    "address": "1–1T Rue des Prés - Beaumont-la-Ronce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ulys - Vinci - A10 - L'Aquitaine (Nord",
+    "address": "L'Aquitaine - Monnaie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 - Aire de Tours-La Longue Vue (direction Tours)",
+    "address": "A10 - Monnaie",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Borne SIEIL - Rouzier de Touraine - Ecole Jean Maisonnave",
+    "address": "28 Rue du 11 Novembre - Rouziers-de-Touraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Tours Val de Loire (direction Blois)",
+    "address": "A10 - AIRE TOURS VAL DE LOIRE - MONNAIE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Chanceaux-sur-Choisille - 24 Rue de la Grande Ferme",
+    "address": "24 Rue de la Grande Ferme - Chanceaux-sur-Choisille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEIL - Notre Dame d'Oé - Nouvelle mairie",
+    "address": "place Louis de Marolles - Notre-Dame-d'Oé",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

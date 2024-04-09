@@ -1,0 +1,120 @@
+[
+  {
+    "title": "FR*Y01 - Poissy - Rue des Monts Chauvets",
+    "address": "Rue des Monts Chauvets - Poissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y01 - Poissy - Rue Voltaire",
+    "address": "Rue Voltaire - Poissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place Racine - Poissy",
+    "address": "Place Racine - Poissy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Porsche Paris Ouest",
+    "address": "1 Rte de Quarante Sous - Poissy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Tesla Supercharger V2 - Orgeval",
+    "address": "482 Route de Quarante Sous - Orgeval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Concession Tesla - Route De Mantes - Chambourcy",
+    "address": "103 Route de Mantes - Chambourcy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial Les vergers de la plaine",
+    "address": "Avenue de la Renaissance - Chambourcy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Golf de Bethemont",
+    "address": "12 Rue du Parc de Béthemont - Poissy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Allée du Marais - Aigremont",
+    "address": "1–3 Allée du Marais - Aigremont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Seymaborne - Complexe sportif Bretagne",
+    "address": "755 Rue Pasteur - Carrières-sous-Poissy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

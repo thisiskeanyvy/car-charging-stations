@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Révéo - Place Edouard Barthe",
+    "address": "1905 Place Edouard Barthe - Montblanc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - D18 - Servian",
+    "address": "D18 D18 - Servian",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - Avenue Jean Moulin - Valros",
+    "address": "Avenue Jean Moulin - Valros",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking du Centre",
+    "address": "32 Grand Rue - Valros",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Val d'Hérault Nature",
+    "address": "La Serre - Saint-Thibéry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du Centre",
+    "address": "80 Rue de la Mairie - Valros",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - A9 Aire de Béziers Montblanc Nord",
+    "address": "A9, Aire de Béziers Montblanc Nord - Montblanc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - 31 Avenue d'Agde - Nézignan-l'Évêque SUPPRIMÉ",
+    "address": "31 Avenue d'Agde - Nézignan-l'Évêque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - A9 Aire de Béziers Montblanc Sud",
+    "address": "A9, Aire de Béziers Montblanc Sud - Montblanc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Saint-Thibéry - 9 Avenue Troisième Millénaire",
+    "address": "9 Avenue Troisième Millénaire - Saint-Thibéry",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

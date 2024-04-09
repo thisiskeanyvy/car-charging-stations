@@ -1,0 +1,148 @@
+[
+  {
+    "title": "FDEL (Révéo) - Le Coustalou - Saint-Cirq-Souillaguet",
+    "address": "Le Coustalou - Saint-Cirq-Souillaguet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A20 - Aire Jardin des Causses du Lot (Double sens)",
+    "address": "A20 - Cœur de Causse",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEL - Place de la Mairie - Labastide-Murat",
+    "address": "Place de la Mairie - Cœur-de-Causse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Contact - Labastide-Murat",
+    "address": "11 route de gramat - Labastide-Murat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - D673 - Le Vigan",
+    "address": "D673 - Le Vigan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché Gourdon",
+    "address": "1320 Le Tustal - Gourdon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Gourdon",
+    "address": "route De Fumel Lieu Dit, Bouriat, - Gourdon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bricomarché - Gourdon",
+    "address": "D673 - Gourdon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Parking du Foirail - Gourdon",
+    "address": "3438 Le Foirail - Gourdon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DDA Renault",
+    "address": "Boulevard de la Madeleine - Gourdon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

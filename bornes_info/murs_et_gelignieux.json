@@ -1,0 +1,136 @@
+[
+  {
+    "title": "1024 Montée de la Saunière",
+    "address": "1024 Montée de la Saunière - Champagneux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Saint Genix les Villages - Parking Salle Jean Bouchard",
+    "address": "301 Route de l'Usine Électrique - Saint-Genix-les-Villages",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps S.L. - Aoste - 315 Rue Athéna Zone de l'Izelette",
+    "address": "315 Rue Athéna Zone de l'Izelette - Aoste",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Blanc-Jolicoeur - Aoste",
+    "address": "Place Blanc-Jolicoeur - Aoste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A43 Aire du Guiers (direction Lyon)",
+    "address": "A43, Aire du Guiers - Romagnieu",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Fastned - A43 Aire de Romagnieu (direction Chambéry)",
+    "address": "Aire de Romagnieu A43 - Romagnieu",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE - A43 Aire de Romagnieu (direction Chambéry)",
+    "address": "540 Chemin De Chanet - Romagnieu",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "991 Route de Soirin",
+    "address": "991 Route de Soirin - Traize",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Au Champ Meilleur - Chimilin",
+    "address": "730 Route des ternes - Chimilin",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue Jean Vittoz - Veyrins-Thuellin",
+    "address": "Rue Jean Vittoz - Veyrins-Thuellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

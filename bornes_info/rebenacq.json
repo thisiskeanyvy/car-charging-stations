@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Le jardin d'Alice",
+    "address": "chemin de Udée - Gan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambre d'hôtes Maison Perpigna",
+    "address": "7 Rue Villefranque - Buzy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 01 Place de la ville - Arudy",
+    "address": "01 Place de la ville - Arudy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Gan - Gamm Vert",
+    "address": "920 Rte d'Oloron - Gan",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA (MobiVE) - Avenue des Écoles - Arudy",
+    "address": "Avenue des Écoles - Arudy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MObiVE Bosdarros Route du Village 1011",
+    "address": "1011 Route du Village - Bosdarros",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Rue Louis Bidau - Gan",
+    "address": "Rue Louis Bidau - Gan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Avenue Messier - Izeste",
+    "address": "7 Avenue Messier - Izeste",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MObiVE/Ogeu-les-Bains/Avenue de Pau/",
+    "address": "Avenue de Pau - Ogeu-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "25 Chemin Lounibos",
+    "address": "25 Chemin Lounibos - Ogeu-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

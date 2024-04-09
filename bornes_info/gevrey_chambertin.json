@@ -1,0 +1,134 @@
+[
+  {
+    "title": "DRIVECO - Parking Gaston Roupnel - Gevrey Chambertin",
+    "address": "2 Rue Gaston Roupnel, - Gevrey-Chambertin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Mairie de Gevrey-Chambertin",
+    "address": "2 Rue Souvert, - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rotisserie de Chambertin",
+    "address": "4 Rue du Chêne - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - 21 Rue Mal de Lattre de Tassigny - Gevrey-Chambertin",
+    "address": "21 Rue Mal de Lattre de Tassigny - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alambic - Gevrey Chambertin",
+    "address": "24 Av. de la Gare, - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Mairie de Brochon",
+    "address": "RN 74 BROCHON - Brochon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - D31 Aire de covoiturage de Gevrey Chambertin",
+    "address": "ZA la Nouroy, - Gevrey-Chambertin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au clos Napoléon",
+    "address": "4 Rue de la Perrière - Fixin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gare SNCF - Gevrey Chambertin",
+    "address": "Gare SNCF - Gevrey-Chambertin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FASTNED - A31 - Aire de Gevrey-Chambertin (direction Beaune)",
+    "address": "A31 - Gevrey-Chambertin",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

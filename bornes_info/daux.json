@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking hotel restaurant Domaine de Peyrolade",
+    "address": "36d Rue de la Republique - Daux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Mondonville",
+    "address": "4 Rue de la Liberté - Mondonville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Mairie - Montaigut-sur-Save",
+    "address": "3 Impasse de la Save - Montaigut-sur-Save",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mervilles, Alouettes",
+    "address": "139-153 Rue des Alouettes - Merville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Saint Paul sur Save",
+    "address": "Impasse de Larcenne - Saint-Paul-sur-Save",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - Aussonne",
+    "address": "Place de la Mairie - Aussonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Clauses de la Filouse Bretx",
+    "address": "32 Clauses de la Filouse - Bretx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cinémotion",
+    "address": "3 Impasse Pierre Brossolette - Cornebarrieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo -Seilh",
+    "address": "Allée de l'Europe - Seilh",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Cornebarrieu",
+    "address": "Avenue Émile Dewoitine - Cornebarrieu",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

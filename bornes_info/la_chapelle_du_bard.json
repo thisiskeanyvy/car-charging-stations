@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Musée d'Allevard",
+    "address": "8 Rue de la Libération - Allevard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDES73 - La Rochette",
+    "address": "6 Avenue du Centenaire - Valgelon-La Rochette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel de Ville - Pontcharra",
+    "address": "95 Avenue De La Gare - Pontcharra",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Saint Pierre d'Allevard - Salle des fêtes",
+    "address": "78 Place du Foyer - Saint-Pierre-d'Allevard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Avenue de la Gare - Pontcharra",
+    "address": "1055 Avenue de la Gare - Pontcharra",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SoWatt - VW Jean Lain - Pontcharra",
+    "address": "935 Avenue Jean François Champollion - Pontcharra",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Villard-Sallet",
+    "address": "Garage Mosca - Villard-Sallet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "184 Voie Galilée Saint Hélène du Lac",
+    "address": "184 Voie Galilée - Saint Hélène du Lac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Schneider electric Alpes - Voie Isaac Newton - Porte-de-Savoie",
+    "address": "103 Avenue Ampère - Porte-de-Savoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Alpespace - Francin",
+    "address": "61 Voie Jean François Champolion - Porte-de-Savoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

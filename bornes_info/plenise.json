@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Ecophi - Super U - Baume-les-Dames",
+    "address": "12 Rue de Mi-Cour - Baume-les-Dames",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault - Baume-les-Dames",
+    "address": "10 Avenue du Général Leclerc - Baume-les-Dames",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - Baume-les-Dames - Quai du Canal INEXISTANT",
+    "address": "Quai du Canal - Baume-les-Dames",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Autechaux - Autechaux - ZA Europolys",
+    "address": "1 rue des épicéas - Autechaux",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecophi - Station service F3C - Baume-les-Dames",
+    "address": "58 Avenue du Président Kennedy - Baume-les-Dames",
+    "connectors": [
+      "x4",
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking la boutique du menuisier",
+    "address": "2b Vie de servin - Lanans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue Rosa Luxembourg - Baume-les-Dames",
+    "address": "12 Rue de Champvans - Baume-les-Dames",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Bricomarché - Baume-les-Dames",
+    "address": "2 Rue Rosa Luxembourg - Baume-les-Dames",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Tournans - D113",
+    "address": "D113 - Tournans",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Bois de Reveuge",
+    "address": "Rue du Reveuge - Huanne-Montmartin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

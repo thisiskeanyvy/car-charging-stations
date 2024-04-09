@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Powerdot - Rambervillers - Match",
+    "address": "15 Rue Charles Gratia, 88700 Rambervillers, F - Rambervillers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Domaine des Graminées - Jeanménil",
+    "address": "20B Rue de Moulins - Jeanménil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Rambervillers - D414 Route de Lunéville",
+    "address": "Route de Lunéville - Rambervillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parc Fraispertuis-City - Jeanménil",
+    "address": "50 Rue de la Colline des Eaux - Jeanménil",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de Fraispertuis-City",
+    "address": "52 Rue de la Colline des Eaux - Jeanménil",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "\"Le Prieuré\"",
+    "address": "2 Rue de la Mairie - Aydoilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Rue de la Mortagne - Roville-aux-Chênes",
+    "address": "Rue de la Mortagne - Roville-aux-Chênes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Car2Plug - Aydoilles - Gyrovosges",
+    "address": "6 Rue de la Haye - Aydoilles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Stanislas - Bruyères",
+    "address": "Place Stanislas - Bruyères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mairie annexe",
+    "address": "30 Rue Abbe Vincent - Thaon-les-Vosges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

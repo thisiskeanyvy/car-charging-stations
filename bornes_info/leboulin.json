@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEY - Place du 11 Novembre Bléneau",
+    "address": "Place du 11 Novembre - Bléneau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping car - Bleneau (Réservé aux Camping Cars)",
+    "address": "Rue de l'Epalu - Bleneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Mairie de Moutiers-en-Puisaye",
+    "address": "Place De La Mairie - Moutiers-en-Puisaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Parking Château de Guedelon - Treigny",
+    "address": "D955 - Treigny-Perreuse-Sainte-Colombe",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Avenue de la Gare - Saint-Amand-en-Puisaye",
+    "address": "5–7 Avenue de la Gare - Saint-Amand-en-Puisaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Camping le bois Guillaume",
+    "address": "191 Champ de Guillaume - Villeneuve-les-Genêts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Treigny - Rue du Champ de Foire",
+    "address": "3 Rue du Champ de Foire - Treigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Avenue Saint-Michel - Champignelles",
+    "address": "32 Avenue Saint-Michel - Champignelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Parking quai Sully - Rogny-les-Sept-Écluses",
+    "address": "Quai Sully - Rogny-les-Sept-Écluses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6543575",
+    "address": "14 Rue de la Champagne - Bonny-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

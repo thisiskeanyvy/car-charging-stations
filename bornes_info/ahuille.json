@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE53 - Rue de Concise, 79 - Ahuillé",
+    "address": "79 Rue de Concise - Ahuillé",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Corbusson",
+    "address": "2 Rue de Corbusson - Saint-Berthevin",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Saint Berthevin",
+    "address": "72 Boulevard des Loges - Saint-Berthevin",
+    "connectors": [
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - La Croix des Landes - Saint-Berthevin",
+    "address": "La Croix des Landes - Saint-Berthevin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de la Grenouillère",
+    "address": "1 Rue de la Grenouillère - Loiron-Ruillé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Hyundai - Laval",
+    "address": "19 Boulevard Lucien Daniel - Saint-Berthevin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Berthevin",
+    "address": "62 Boulevard Louis Armand - Saint-Berthevin",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Laval",
+    "address": "34 avenue de Paris - St Berthevin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking - EVLINK - Boulevard Louis Armand",
+    "address": "6622 Boulevard Louis Armand - Saint-Berthevin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - 31 Av. de Paris - Saint-Berthevin",
+    "address": "31 Av. de Paris - Saint-Berthevin",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Restaurant le Bar des Ailes - Albon-d'Ardèche",
+    "address": "1692 route N7 Nord Aérodrome du Creux de la Thine - Albon-d'Ardèche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Mairie de Mézilhac",
+    "address": "D102 - Mézilhac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE07 (E-born) - D 8 - Saint-Pierreville",
+    "address": "D 8 - Saint-Pierreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE07 - Place de la guinguette Le Cheylard",
+    "address": "1 Place de la Guinguette - Le Cheylard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE07 - Parking de la Libération Le Cheylard",
+    "address": "2 Passage Frédéric Vernet - Le Cheylard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Super U - Le Cheylard",
+    "address": "Chemin de Lapra - Le Cheylard",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 - Les Allevards Antraigues-sur-Volane",
+    "address": "Les Allevards - Antraigues-sur-Volane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 (e-born) - D215 - Saint-Martial",
+    "address": "D215 - Saint-Martial",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Les Sagnes Sagnes-et-Goudoulet",
+    "address": "Les Sagnes - Sagnes-et-Goudoulet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE07 - Grande Rue - Saint-Sauveur-de-Montagut",
+    "address": "62 Grande Rue - Saint-Sauveur-de-Montagut",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

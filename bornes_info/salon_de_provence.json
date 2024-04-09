@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Indigo - Parking Empéri - Salon-de-Provence",
+    "address": "130 Cours Gimon - Salon-de-Provence",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo Park - Boulevard Lamartine - Salon-de-Provence",
+    "address": "Boulevard Lamartine - Salon-de-Provence",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "TotalEnergies - Allée de la Liberté - Salon-de-Provence",
+    "address": "Allée de la Liberté - Salon-de-Provence",
+    "connectors": [
+      "x9",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - 284 Allée de Craponne",
+    "address": "284 Allée de Craponne - Salon-de-Provence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Nissan - Salon-de-Provence",
+    "address": "273 Rue Charloun Rieu - Salon-de-Provence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Salon de Provence",
+    "address": "269A Boulevard du Roi René - Salon-de-Provence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Salon-de-Provence - Rue César Bossy",
+    "address": "Rue César Bossy - Salon-de-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Boulevard du Roi René (Privé)",
+    "address": "666 Boulevard du Roi René - Salon-de-Provence",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Salon-de-Provence - Rue André Marie Ampère",
+    "address": "Rue André Marie Ampère - Salon-de-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - Salon-de-Provence - Avenue de Grans",
+    "address": "Avenue de Grans - Salon-de-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

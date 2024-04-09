@@ -1,0 +1,116 @@
+[
+  {
+    "title": "place de quievy",
+    "address": "1 Rue de la Place - Quiévy",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Caudry",
+    "address": "Boulevard Du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hypermarché E.Leclerc - Boulevard du 8 Mai 1945 - Caudry",
+    "address": "Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Caudry",
+    "address": "0 Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Bd du 8 Mai 1945 - Caudry",
+    "address": "Bd du 8 Mai 1945, - Caudry",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Georges Bizet - ,Solesmes",
+    "address": "9 Rue Georges Bizet - Solesmes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E.leclerc (Animaux) - Boulevard du 8 Mai 1945",
+    "address": "12 Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault minute - Caudry",
+    "address": "43 Rue de Valenciennes - Caudry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Caudry",
+    "address": "153 Rue de Bruxelles - Caudry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - SuperU - St Python",
+    "address": "34 Rue Suzanne Buisson - Solesmes",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

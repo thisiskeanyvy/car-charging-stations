@@ -1,0 +1,132 @@
+[
+  {
+    "title": "TaM Perols centre Tram 3 - Reveo",
+    "address": "34bis Rue Georges Barnoyer - Pérols",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Camping Siblun - Lattes",
+    "address": "Rte de Pérols, - Lattes",
+    "connectors": [
+      "x3",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Pérols",
+    "address": "Avenue de Bir-Hakeim - Pérols",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EUROTEL (Tesla and others)",
+    "address": "ZAC Le Fenouillet - Pérols",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Aéroport Montpellier Méditerranée - Mauguio",
+    "address": "Aéroport Montpellier Méditerranée - Mauguio",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroport international Montpellier Méditerranée (P2)",
+    "address": "P2 Jacqueline Auriol - Mauguio",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Ibis budget/styles - Avenue Jacqueline Auriol - Mauguio",
+    "address": "121 Avenue Jacqueline Auriol - Mauguio",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - Avenue Alfred Sauvy - Lattes",
+    "address": "125 Impasse Jean Baptiste Say - Pérols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - Avenue Alfred Sauvy - Lattes",
+    "address": "195 Rue Alfred Sauvy - Pérols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hôtel Neptune - Carnon Plage (Tesla & Others)",
+    "address": "239 rue de l'étang d'or - Carnon Plage",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Champagne Charles Heston",
+    "address": "20 D 330 - Villers-Franqueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Saint-Brice-Courcelles",
+    "address": "La Croix Maurencienne - Saint-Brice-Courcelles",
+    "connectors": [
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - Blu Hôtel - Saint-Brice-Courcelles",
+    "address": "1 Rue de Bernex - Saint-Brice-Courcelles",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint Brice",
+    "address": "12 Rue de la Croix Maurencienne - Saint-Brice-Courcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "JOLY SAS",
+    "address": "9 Rue Louise Michel - Reims",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Reims",
+    "address": "Z.A.C La Neuvillette - Reims",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nexans - Rue du 4 Août 1789",
+    "address": "Rue du 4 Août 1789 - Saint-Brice-Courcelles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - 4 août 1789 - St Brice Courcelles",
+    "address": "4 août 1789 - St Brice Courcelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Reims - KFC La Neuvillette",
+    "address": "1 rue André Chaillot - Reims",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM 51 - Rue de la Libération - Saint Brice Courcelles",
+    "address": "Rue de la Libération - Saint Brice Courcelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Château l'Hospitalet",
+    "address": "Route de Narbonne Plage - Narbonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Rue du Four à Chaux 44",
+    "address": "44 Rue du Four à Chaux - Vinassan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Rue de la Font - Vinassan",
+    "address": "Rue de la Font - Vinassan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A9 Aire de Narbonne-Vinassan Sud (direction Béziers)",
+    "address": "515 Combe Fourcade - Salles-d'Aude",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - A9 Aire de Narbonne-Vinassan Nord (direction Narbonne)",
+    "address": "A9 - Salles-d'Aude",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Socotec - 7 RUE DEMOGE 11100 NARBONNE - Narbonne INEXISTANT",
+    "address": "7 RUE DEMOGE 11100 NARBONNE - Narbonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 2 Rue Bader - Narbonne",
+    "address": "2 Rue Bader - Narbonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Kia - Narbonne",
+    "address": "27 Rue Bader - Narbonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - NARBONNE - 27 RUE BADER",
+    "address": "27 RUE BADER - NARBONNE",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Borne - Burger King - Narbonne",
+    "address": "8 Avenue de Creissel - Narbonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

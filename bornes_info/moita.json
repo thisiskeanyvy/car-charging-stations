@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MJT-90003 - Rua Manuel Neves Nunes de Almeida",
+    "address": "25 Rua Manuel Neves Nunes de Almeida - Montijo",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Iberdrola - Montijo - Mercadona",
+    "address": "- Via Circular Externa - EN4 - Pau Queimado - Montijo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Forum Montijo",
+    "address": "IC32 / Rua da Azinheira - Montijo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Praça Paulo VI - Barreiro",
+    "address": "1 Praça Paulo VI - Barreiro",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pingo Doce - Avenida Mto Jorge Peixinho",
+    "address": "Avenida Mto Jorge Peixinho - Montijo",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montijo",
+    "address": "Avenida olivença, corte das cheias - Montijo",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Galp - PCR A12 sentido N/S",
+    "address": "Ponte Vasco da Gama - Alcochete",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BP Cascalheira - Rua Gago Coutinho e Sacadura Cabral",
+    "address": "2 Rua Gago Coutinho e Sacadura Cabral - Pinhal Novo",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Estrada dos Fazendeiros",
+    "address": "Estrada dos Fazendeiros - Setúbal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PCR - Palmela (A2 - N/S) PLM-0002",
+    "address": "A2 - Palmela",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

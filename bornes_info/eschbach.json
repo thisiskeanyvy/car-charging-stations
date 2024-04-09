@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hotel Source des sens - Route de Haguenau - Durrenbach",
+    "address": "19 Route de Haguenau - Durrenbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison des services et des associations - Durrenbach (Privé)",
+    "address": "1 Route de Haguenau - Durrenbach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DE DIETRICH - Mertzwiller",
+    "address": "57 Rue de la Gare - Mertzwiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue de Niederbronn - Schweighouse sur Moder",
+    "address": "7 Rue de Niederbronn - Schweighouse-sur-Moder",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ART COLOR",
+    "address": "12 Rue de la Sablière - Schweighouse-sur-Moder",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEMENS Production Automatisation - Haguenau",
+    "address": "1 Chemin de la Sandlach - Haguenau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Schweighouse sur Moder",
+    "address": "21 Rue de la Sablière - Schweighouse-sur-Moder",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Schweighouse",
+    "address": "ZI de la Sablière - Schweighouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Haguenau",
+    "address": "2 Chem. de la Sandlach - Haguenau",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SFR - Allée Joseph Bumb",
+    "address": "12 Allée Joseph Bumb - Haguenau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

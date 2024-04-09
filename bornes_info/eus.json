@@ -1,0 +1,134 @@
+[
+  {
+    "title": "29 Rue Montorgueil",
+    "address": "29 Rue Montorgueil - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 58-60 Jean-Jacques Rousseau - Paris",
+    "address": "58-60 Jean-Jacques Rousseau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 38 Rue Étienne-Marcel - Paris",
+    "address": "38 Rue Étienne-Marcel - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - 101 Porte Berger Forum des Halles - Paris",
+    "address": "116 Rue Rambuteau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 44 rue Étienne Marcel 75002 Paris",
+    "address": "44 Rue Étienne Marcel - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ubeeqo - 31 rue du Louvre Paris",
+    "address": "31 rue du Louvre - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 52 rue Étienne Marcel 75002 Paris",
+    "address": "52 Rue Étienne Marcel - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Saemes (Souterrain) - Sainte Eustache",
+    "address": "44 Rue Coquillière - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - 149 Rue Saint-Denis - Paris",
+    "address": "149 Rue Saint-Denis - Paris",
+    "connectors": [
+      "x15"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clem' - Paris 01 - Bourse de Commerce",
+    "address": "7 rue du Colonel Driant - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

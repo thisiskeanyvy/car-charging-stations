@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEDI - Rue Général de Gaulle - Montbonnot-Saint-Martin",
+    "address": "685-783 Rue Général de Gaulle - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Pré Millet - Montbonnot-Saint-Martin",
+    "address": "1301 Avenue de l'europe - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - 10 Avenue Jean Kuntzmann - Montbonnot-Saint-Martin",
+    "address": "10 Avenue Jean Kuntzmann - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NEOXIA - Avenue Jean Kuntzmann",
+    "address": "53 Avenue Jean Kuntzmann - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 7A Chemin de la Dhuy - Meylan",
+    "address": "7A Chemin de la Dhuy - Meylan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - BOTANIC Montbonnot - Route de la Doux",
+    "address": "790 Rue Aristide Bergès - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x1",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Immeuble VISEO",
+    "address": "110 Rue Blaise Pascal - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Meylan - Chemin du Monarie",
+    "address": "Chemin du Monarie - Meylan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Super U - Biviers",
+    "address": "60 Chemin des Evequaux - Biviers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Grenoble Métropole - Allée des amphores - Meylan",
+    "address": "Allée des Amphores - Meylan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

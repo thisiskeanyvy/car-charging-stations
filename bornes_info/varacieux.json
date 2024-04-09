@@ -1,0 +1,136 @@
+[
+  {
+    "title": "e-born - Avenue de la Gare - Vinay",
+    "address": "20 Avenue de la Gare - Vinay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEDI - Parking Place Jean Vinay - L'Albenc",
+    "address": "1 Rue de la Gare - L'Albenc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEDI - Roybon (Allée du 19 Mars 1962)",
+    "address": "D20 - Roybon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Place du Champ de Mars - Saint-Marcellin",
+    "address": "Place du Champ de Mars - Saint-Marcellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Saint-Marcellin - Avenue de la santé",
+    "address": "Avenue de la santé - Saint-Marcellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Place de l'Église - Cognin-les-Gorges",
+    "address": "Place de l'Église - Cognin-les-Gorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "LIDL - St Marcellin",
+    "address": "3 Rue d'Arsonval - Saint-Marcellin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Le Bourg Saint-Antoine-l'Abbaye",
+    "address": "Le Bourg - Saint Antoine l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Avenue Marathon - Saint-Etienne-de-Saint-Geoirs",
+    "address": "26\r\n Avenue Marathon\r\n - Saint-Etienne-de-Saint-Geoirs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue du Stade - Saint-Siméon-de-Bressieux",
+    "address": "Rue du Stade - Saint-Siméon-de-Bressieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

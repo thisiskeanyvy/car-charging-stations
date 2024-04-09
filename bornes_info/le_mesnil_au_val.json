@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Brico-Dépôt - Tourlaville",
+    "address": "1 rue des pommiers - Tourlaville",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place des Résistants - Tourlaville",
+    "address": "Place des Résistants - Tourlaville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*SEV - Tourlaville - 567 Rue Jean Bouin",
+    "address": "567 Rue Jean Bouin - Tourlaville",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 270 Rue des Pommiers - Cherbourg-en-Cotentin",
+    "address": "270 Rue des Pommiers - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x21",
+      "x22",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aubert Automobiles KIA",
+    "address": "210 rue des Pommiers - TOURLAVILLE",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dess Automobiles - Tourlaville",
+    "address": "210 Rue des Pommiers - Tourlaville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue du Moulin Guibert - Tourlaville",
+    "address": "677 Rue du Moulin Guibert - Tourlaville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 161 Rue des Industries - Cherbourg-en-Cotentin",
+    "address": "161 Rue des Industries - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Cherbourg",
+    "address": "28 Avenue de la Banque à Genêts - La Glacerie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "BMW i Charge Now - Cherbourg-en-Cotentin",
+    "address": "255 Rue Pierre Brossolette - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

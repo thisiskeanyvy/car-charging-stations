@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Place des princes",
+    "address": "8-10 Place de la Maison des Princes - Pont-Scorff",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue Théophile Guyomar - Pont-Scorff",
+    "address": "11 Route de Lorient - Pont-Scorff",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Morbihan énergies - Rue Marc Le Floch - Calan",
+    "address": "36-38 Rue Marc le Floch - Calan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Morbihan Energies - Kerchopine",
+    "address": "Kerchopine - Cleguer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Carrefour Contact - Caudan",
+    "address": "2 Avenue Simone Veil - Caudan",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Morbihan énergies - place du presbytère - Caudan",
+    "address": "2 Rue de la Libération - Caudan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Morbihan énergies - Place du restaurant scolaire - Caudan",
+    "address": "Place du restaurant scolaire - Caudan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Dalkia - Caudan",
+    "address": "1124 RUE JEAN BATISTE MARTENOT - Caudan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Rédéné (Parking Médiathèque)",
+    "address": "Place de l'Eglise - Rédené",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mairie d'Arzano",
+    "address": "Place de la Mairie - Arzano",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

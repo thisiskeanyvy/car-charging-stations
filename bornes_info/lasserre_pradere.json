@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Révéo -Place du Vidalet - Brax",
+    "address": "Place du Vidalet - Brax",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-E - Midas - L'Isle-Jourdain",
+    "address": "45 Route de Toulouse - L'Isle-Jourdain",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IECharge - Pujaudran - A Nougaret",
+    "address": "A Nougaret - Pujaudran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Rue de la Bastide - Léguevin",
+    "address": "4 Rue de la Bastide - Léguevin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - L'Isle-Jourdain",
+    "address": "3 Rue Jean Moulin - L'Isle-Jourdain",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - route de Toulouse - Leguevin",
+    "address": "23 route de toulouse - Léguevin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Mairie - Montaigut-sur-Save",
+    "address": "3 Impasse de la Save - Montaigut-sur-Save",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Place Saint Bertrand",
+    "address": "10 Place Saint-Bertrand - L'Isle-Jourdain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEHG - Clauses de la Filouse Bretx",
+    "address": "32 Clauses de la Filouse - Bretx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché Saint Paul sur Save",
+    "address": "Impasse de Larcenne - Saint-Paul-sur-Save",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

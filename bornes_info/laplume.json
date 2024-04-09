@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Toyota - Montargis - 22kW AC",
+    "address": "39 Rue Nicéphore Niépce - Villemandeur",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Avenue de la Libération - Villemandeur",
+    "address": "16 Avenue de la Libération - Villemandeur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Villemandeur",
+    "address": "16 Rue des Frères Lumière - Villemandeur",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Brico Dépôt - Villemandeur",
+    "address": "22 Rue des Frères Lumière - Villemandeur",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TSOGBALÉ",
+    "address": "2 rue des pervenches - villemandeur",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - 879 Av. d'Antibes, - Amilly",
+    "address": "879 Av. d'Antibes, - Amilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Amilly",
+    "address": "1400 avenue d'Antibes - AMILLY",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-E - Nissan Basty - Amilly",
+    "address": "1400 Avenue d'Antibes - Amilly",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Burger King - Amilly",
+    "address": "753 Route de Saint-Firmin des Vignes - Amilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "garage Opel Amilly",
+    "address": "693 Route de Saint-Firmin des Vignes - Amilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

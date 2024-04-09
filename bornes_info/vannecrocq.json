@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEGE27 - Épaignes",
+    "address": "Place de la Mairie - Épaignes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Unknown - Unknown DOUBLON",
+    "address": "Unknown - Unknown",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - Beuzeville",
+    "address": "540 Rue des Prés Verts - Beuzeville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Weldom - Rue des Prés Verts",
+    "address": "455 Rue des Prés Verts - Beuzeville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Villa nouveau monde - Bonneville la louvet",
+    "address": "517 Route de cormeilles - Bonneville la louvet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint-Germain-Village",
+    "address": "Route d'Honfleur - Saint-Germain-Village",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Bonneville-la-Louvet",
+    "address": "2 Place Henri Louvet - Bonneville-la-Louvet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Beuzeville",
+    "address": "Rue du Coq - Beuzeville",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Total Energies - A13 Aire de Beuzeville Nord (direction Caen)",
+    "address": "A13 - Beuzeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Beuzeville Nord (direction Caen)",
+    "address": "A13, Aire de Beuzeville Nord - Beuzeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "L'Espitalet de Caux",
+    "address": "Domaine de l'Espitalet - Caux-et-Sauzens",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - La Halte Romaine - Villesèquelande",
+    "address": "12 Rue du Vinarium - Villesèquelande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - A61 - Aire d'Arzens Sud (direction Narbonne)",
+    "address": "A61 - Aire d'Arzens Sud - Carcassonne",
+    "connectors": [
+      "x2",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Avenue d'Occitanie - Pezens",
+    "address": "1 Avenue d'Occitanie - Pezens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - A61 - Aire d'Arzens Nord (direction Toulouse)",
+    "address": "A61 - Aire d'Arzens Nord - Arzens",
+    "connectors": [
+      "x1",
+      "x16",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DEBELEC - Boulevard François Xavier Fafeur - Carcassonne (Privé)",
+    "address": "2682 Boulevard François Xavier Fafeur - Carcassonne",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Rue Gustave Eiffel Promocash - Carcassonne",
+    "address": "Rue Gustave Eiffel Promocash - Carcassonne",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "METRO - Carcassonne",
+    "address": "460 Rue Gustave Eiffel - Carcassonne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA Tressol-Chabrier - Carcassonne (Privée)",
+    "address": "445 Rue Gustave Eiffel - Carcassonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - ZAC La Ferraudière 660 Rue Gustave Eiffel - Carcassonne",
+    "address": "ZAC La Ferraudière 660 Rue Gustave Eiffel - Carcassonne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

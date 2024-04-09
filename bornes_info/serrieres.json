@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE07 - quai Jules Roche Serrières",
+    "address": "56 Quai Jules Roche (Sud) - Serrières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEDI - Rue Gustave Toursier - Sablons",
+    "address": "Rue Gustave Toursier - Sablons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Tesla Supercharger V3 - Salaise-sur-Sanne",
+    "address": "N7 Green 7 - Salaise-sur-Sanne",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Green 7 - Salaise-sur-Sanne",
+    "address": "240 Route de Valence - Salaise-sur-Sanne",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Monta - Salaise-sur-Sanne - 35 Chemin de Gampaloup",
+    "address": "35 Chemin de Gampaloup - Salaise-sur-Sanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Chanas - Intermarché",
+    "address": "Parc du Soleil - Chanas",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Chanas - 39 Impasse De La Ripaille - Hôtel Mercure",
+    "address": "39 Impasse De La Ripaille - Chanas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint Network - 2 Rue du Revolon",
+    "address": "2 Rue du Revolon - Chanas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Chanas - Rue des Bourgeons",
+    "address": "Rue des Bourgeons - Chanas",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour - Salaise",
+    "address": "165, route nationale 7 - Salaise",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

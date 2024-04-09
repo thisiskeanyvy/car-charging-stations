@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Modulo Energies - Place de la Poste - Fussy",
+    "address": "15 Route de Paris - Fussy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Saint Germain du Puy - Place de l'église",
+    "address": "14 Rue Joliot Curie - Saint-Germain-du-Puy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Fun Sport Factory",
+    "address": "12 Rue du Pressoir - Saint-Germain-du-Puy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Kiabi - Saint-Germain-du-Puy",
+    "address": "Route de la Charité - Saint-Germain-du-Puy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mazda - Bourges - 22kW AC",
+    "address": "324 Avenue du Général Charles de Gaulle - Bourges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Basic Fit - City Park Route de la Charité",
+    "address": "9 Route de La Charité - Bourges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Asnières - Bourges",
+    "address": "37 Place du 14 Juillet - Bourges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - RENT A CAR_ALES - Rue Michel Faraday - Bourges",
+    "address": "Rue Michel Faraday - Bourges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Rue Mickael Faraday - Bourges",
+    "address": "8 Rue Mickael Faraday - Bourges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - KFC - Bourges",
+    "address": "59 Chau. de Chappe - Bourges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Lidl - Oberhoffen-sur-Moder",
+    "address": "10 Rue du Commerce - Oberhoffen-sur-Moder",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Mairie de Bischwiller",
+    "address": "Place de la Mairie - Bischwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Place de la Liberté - Bischwiller",
+    "address": "1 Place de la Liberté - Bischwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Gare de Bischwiller",
+    "address": "Rue du Maréchal Joffre - Bischwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 31 Rue du Général Leclerc",
+    "address": "31 Rue de la Pomme d'Or - Bischwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 5 Rue Georges Méliès - Haguenau",
+    "address": "03 Rue Georges Méliès - Haguenau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Cora - Haguenau",
+    "address": "Route du Rhin - Haguenau",
+    "connectors": [
+      "x1",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Haguenau",
+    "address": "1 Rue du Kestlerhof - Haguenau",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Zone commerciale TAUBENHOF 2 (parking Centrakor)",
+    "address": "2 Rue du Kestlerhof - Haguenau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale TAUBENHOF 2 (parking Maison Depôt)",
+    "address": "2 Ferme Kestler - Haguenau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

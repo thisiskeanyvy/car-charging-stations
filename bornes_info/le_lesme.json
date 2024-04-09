@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SIEGE27 - Route de Breteuil - Marbois",
+    "address": "Route de Breteuil - Marbois",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Le Chesne",
+    "address": "5 lieu dit bourg - Le Chesne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place Centre Ville",
+    "address": "Place de l'Église - La Neuve-Lyre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Breteuil",
+    "address": "Rte de Conches, - Breteuil",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Place Laffitte - Breteuil sur iton",
+    "address": "33 Place Laffitte - La Guéroulde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEGE27 - Breteuil sur iton (Place Houdouard)",
+    "address": "Place Houdouard - Breteuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Conches-en-Ouche",
+    "address": "13 Rue Jean Moulin, - Conches-en-Ouche",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Place Paul Doumer - Conches",
+    "address": "Rue Paul Doumer - Conches-en-Ouche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - 1 Rue Yves Montand - Conches-en-Ouche",
+    "address": "1 Rue Yves Montand - Conches-en-Ouche",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Intermarche - Conches-en-Ouche",
+    "address": "29 Rue Eugène Pottier - Conches-en-Ouche",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

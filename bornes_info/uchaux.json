@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Château de Massillan (Tesla and others)",
+    "address": "730 Chemin de Massillan - Uchaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Serignan du Comtat - Parking du Naturopteres",
+    "address": "949 Impasse Les Péssades - Sérignan-du-Comtat",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDED - Chemin de la Garde Paréol Rochegude",
+    "address": "Chemin de la Garde Paréol - Rochegude",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Rochegude",
+    "address": "Rochegude - Rochegude",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - impasse de Provence Piolenc",
+    "address": "6 Impasse de Provence - Piolenc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A7 Aire de Mornas-Village (direction Orange)",
+    "address": "A7 - Aire de Mornas-Village - Mornas",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire de Mornas-les-Adrets A7- E. Leclerc",
+    "address": "4 Avenue Jean Moulin - Mornas",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Avenue Jean Moulin - Mornas",
+    "address": "2 Avenue Jean Moulin - Mornas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "VINCI - A7 - Aire de Mornas-Les Adrets (direction Montélimar)",
+    "address": "A7 - Mornas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A7 Aire de Mornas-Les Adrets (direction Montélimar)",
+    "address": "A7 - Aire de Mornas-Les Adrets - Mornas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

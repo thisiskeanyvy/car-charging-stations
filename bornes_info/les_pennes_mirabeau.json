@@ -1,0 +1,134 @@
+[
+  {
+    "title": "larecharge - Les Pennes-Mirabeau - Parking D113",
+    "address": "Parking D113 - Les Pennes-Mirabeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Qovoltis - D113, Chemin de la Pourranque - Les Pennes-Mirabeau",
+    "address": "D113, Chemin de la Pourranque - Les Pennes-Mirabeau",
+    "connectors": [
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Basic-Fit Les Pennes Mirabeau",
+    "address": "2221 Avenue du Plan de Campagne - Les Pennes-Mirabeau",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Aix-Marseille Provence - Vieille Route de la Gavotte - Les Pennes-Mirabeau",
+    "address": "Vieille Route de la Gavotte - Les Pennes-Mirabeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "ZEborne - Rue des Rastoubles - Vitrolles",
+    "address": "Rue des Rastoubles - Vitrolles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Brit Hôtel Marseille Aéroport",
+    "address": "1 Avenue Jean Jaurès - Les Pennes-Mirabeau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vitrolles",
+    "address": "1 Avenue Jean Monnet - Vitrolles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "larecharge - Vitrolles - Allée de la Corvette 16",
+    "address": "Allée de la Corvette 16 - Vitrolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Les pennes mirabeau - Boconcept",
+    "address": "ZC PLAN DE CAMPAGNE - Les pennes mirabeau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - i-station Lidl - Les Pennes-Mirabeau",
+    "address": "704 Chemin Des Pennes Aux Pins - Les Pennes-Mirabeau",
+    "connectors": [
+      "x6",
+      "x1",
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

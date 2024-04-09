@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Hérault Energies (Révéo) - Avenue de Saint-Guilhem - Aniane",
+    "address": "26 Avenue de Saint-Guilhem - Aniane",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Saint-Jean-de-Fos - Impasse des Combals",
+    "address": "Impasse des Combals Parking École Maternelle - Saint-Jean-de-Fos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Rue Pierre Mendès France - Gignac",
+    "address": "Rue Pierre Mendès France - Gignac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Parc d'Activité de Camalcé RD32",
+    "address": "Parc d'Activité de Calmacé - Gignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Reveo - Gignac (ZAC Cosmo)",
+    "address": "72 Rue de la Galaxie - Gignac",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Mairie de Montpeyroux",
+    "address": "8 Avenue du Rosaire - Montpeyroux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo - Gignac (ZAC Cosmo)",
+    "address": "78 Rue de la Galaxie - Gignac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Place de l'Escoutaire - Vailhauquès",
+    "address": "Place de l'Escoutaire - Vailhauquès",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le domaine de Biar",
+    "address": "Chemin de Biar - Lavérune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Freshmile - Montarnaud",
+    "address": "100 Rue Nelson Mandela - Montarnaud",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

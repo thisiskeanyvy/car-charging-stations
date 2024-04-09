@@ -1,0 +1,138 @@
+[
+  {
+    "title": "E-born - Place du Marché - Colombier-le-Vieux",
+    "address": "Place du Marché - Colombier-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Place du Martouret Saint-Félicien",
+    "address": "1 Place du Martouret - Saint-Félicien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Église - Saint-Jean-de-Muzols",
+    "address": "Passage de l'Église - Saint-Jean-de-Muzols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge France - 9 Rue Centrale - Saint-Jean-de-Muzols",
+    "address": "9 Rue Centrale - Saint-Jean-de-Muzols",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Promenade Roche de France Tournon-sur-Rhône",
+    "address": "5 Promenade Roche de France - Tournon-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Logis Hôtel Restaurant Azalees",
+    "address": "6 Avenue de la Gare - Tournon-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Chemin de la Pichonnière 75 - Tournon-sur-Rhône",
+    "address": "Chemin de la Pichonnière 75 - Tournon-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Carnot - Tournon-sur-Rhône",
+    "address": "14 Place Carnot - Tournon-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - Chemin de Halage - Mauves",
+    "address": "Chemin de Halage - Mauves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place Taurobole - Tain-l'Hermitage",
+    "address": "Place Taurobole - Tain-l'Hermitage",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

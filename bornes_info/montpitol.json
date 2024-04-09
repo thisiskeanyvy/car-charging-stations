@@ -1,0 +1,128 @@
+[
+  {
+    "title": "La ferme de l'évasion - Azas",
+    "address": "1520 de guarrigues - Azas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Le jardin de l'esplanade",
+    "address": "Avenue du Mur de Ronde - Montastruc-la-Conseillère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Poste - Verfeil",
+    "address": "1 Place François Mitterrand - Verfeil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A68 Relais Portes du Tarn",
+    "address": "A68 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge - 1 Rte de Toulouse - Verfeil INEXISTANT",
+    "address": "1 Rte de Toulouse - Verfeil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 13 Rue Pierre et Marie Curie - Verfeil",
+    "address": "13 Rue Pierre et Marie Curie - Verfeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ALDI - Route de Roqueserière",
+    "address": "81 Route de Roqueserière - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Sulpice-la-Pointe - 1436 Avenue Des Terres Noires",
+    "address": "1436 Avenue Des Terres Noires - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Biocoop - Saint-Sulpice-la-Pointe",
+    "address": "VC15 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - Garidech - Intermarché",
+    "address": "4 Chemin du Chat - Garidech",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

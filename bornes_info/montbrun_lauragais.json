@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Donneville, Chemin Départemental 24",
+    "address": "20 Route Nationale - Donneville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A61 Aire de Toulouse Sud (direction Narbonne)",
+    "address": "A61, Aire de Toulouse Sud - Deyme",
+    "connectors": [
+      "x6",
+      "x11",
+      "x8",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Allego - A61 Aire de Deyme Toulouse-Sud (direction Toulouse)",
+    "address": "56b Aire De Deyme Toulouse Sud Sud - Deyme",
+    "connectors": [
+      "x2",
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mobilygreen - Montgiscard - 2 Place du Foirail",
+    "address": "2 Place du Foirail - Montgiscard",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Pompertuzat",
+    "address": "1 Av. Lauragais - Pompertuzat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Intermarché - Montgiscard",
+    "address": "En Rouzaud - Montgiscard",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Ayguesvives",
+    "address": "2 Labal Prioul - Ayguesvives",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Site Locadepots",
+    "address": "12 Route d'Escalquens - Castanet-Tolosan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autorecharge - SICOVAL - Belberaud",
+    "address": "7 Rue de Pierregrat - Belberaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Avenue du Mont-Frouzi - Venerque",
+    "address": "16 Avenue du Mont-Frouzi - Venerque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

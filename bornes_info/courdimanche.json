@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SEYMABORNE - Vauréal - Rue de la Sérénade",
+    "address": "Rue de la Sérénade - Vauréal",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Car2Plug - Vauréal - Intermarché",
+    "address": "1 Place du Rendez-Vous - Vauréal",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking 3 Gares Cergy-le Haut",
+    "address": "7 Rue de l'Embarquement - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de menucourt",
+    "address": "122 Rue Pasteur - Menucourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NAUTILUS - Cergy",
+    "address": "9 Boulevard des Explorateurs - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Rue de la Pompe 15 - CERGY SAINT CHRISTOPHE (privé)",
+    "address": "Rue de la Pompe 15 - CERGY SAINT CHRISTOPHE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Cour de la Chamade - Cergy",
+    "address": "3 Cour de la Chamade - Cergy",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aramis Auto - Puiseux-Pontoise",
+    "address": "1 Rue Traversière - Puiseux-Pontoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - rue de la Constellation 25 - Cergy ( parking privé )",
+    "address": "rue de la constellation 25 - cergy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Dalkia - Cergy",
+    "address": "18 Boulevard de la Paix - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

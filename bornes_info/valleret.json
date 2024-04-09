@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDED52 - Wassy - 23 Rue du Général de France",
+    "address": "23 Rue du Général de France - Wassy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Rue de le Marne - Chevillon",
+    "address": "Rue de le Marne - Chevillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDED52 - 7 Avenue Jacques Marcellot - Eurville-Bienville",
+    "address": "7 Avenue Jacques Marcellot - Eurville-Bienville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - INTERMARCHE - 24 Avenue de la Marne - Joinville",
+    "address": "24 Avenue de la Marne \r\n - Joinville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Public - Joinville",
+    "address": "Place de la Grève - Joinville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Joinville - Super U",
+    "address": "Av. de Lorraine - Joinville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDED52 - Rue de la Fontaine - Chamouilley",
+    "address": "13 Rue de la Fontaine - Chamouilley",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Saint-Dizier",
+    "address": "Avenue du Chêne Saint-Amand - St.-Dizier",
+    "connectors": [
+      "x10",
+      "x11"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDED52 - 2 Rue Lebon - Éclaron-Braucourt-Sainte-Livière",
+    "address": "2 Rue Lebon - Éclaron-Braucourt-Sainte-Livière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "D 384 - Éclaron-Braucourt-Sainte-Livière",
+    "address": "D 384 - Éclaron-Braucourt-Sainte-Livière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SE61 - Putanges-le-Lac - Lac de Rabodanges",
+    "address": "Lac de Rabodanges - Putanges-le-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Fromentel Autos - Pointel",
+    "address": "Fromentel Autos - Pointel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Briouze",
+    "address": "Place de l'Église - Briouze",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SE61 - Athis de l'orne, Rue guillaume le conquérant",
+    "address": "2 Rue Guillaume le Conquérant - Athis-de-l'Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place de l'hôtel de ville, Putanges",
+    "address": "Place de L Hôtel de ville - Putanges-Pont-Écrepin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Pont-d'Ouilly (parking de l'église)",
+    "address": "Rue de Bretagne - Pont-d'Ouilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SE61 - Route de sainte opportune",
+    "address": "9 Rue de la Glycine - Bellou-en-Houlme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Aubusson - Saint-Georges-des-Groseillers",
+    "address": "1134\r\n Rue Aubusson\r\n - Saint-Georges-des-Groseillers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Au Domaine de La Pommeraye",
+    "address": "8032 La Couture - La Pommeraye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SE61 - Boulangerie - Messei",
+    "address": "8 Rue Surville - Messei",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

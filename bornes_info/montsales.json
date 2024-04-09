@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEDA (Révéo) - Chemin des Fosses - Sainte-Croix",
+    "address": "Chemin des Fosses - Sainte-Croix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Murier de Viels",
+    "address": "Les Clauzels - Causse-et-Diège",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Villeneuve d'Aveyron",
+    "address": "5 D48 - Villeneuve",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "FDEL (Révéo) - Rue des Écoles, 12 - Cajarc",
+    "address": "12 Rue des Écoles - Cajarc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Logis la Peyrade",
+    "address": "52 Rue Lapeyrade - Cajarc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Auberge de la Diège (Tesla et autres)",
+    "address": "2 Route de la Diège - Capdenac-Gare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Figeac Aéro",
+    "address": "lieu dit Etemps - Figeac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Claux de Belvezet - Toulonjac",
+    "address": "Claux de Belvezet - Toulonjac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Capdenac-Gare",
+    "address": "37 Boulevard Paul Ramadier - Capdenac-Gare",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - L'Aiguille - Figeac",
+    "address": "L'Aiguille - Figeac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

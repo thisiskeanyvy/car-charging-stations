@@ -1,0 +1,152 @@
+[
+  {
+    "title": "SDEI36 - Chemin de la Fontaine",
+    "address": "1 Chemin de la Fontaine - Neuillay-les-Bois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Luant - Place de l'église",
+    "address": "4 Place de l'Église - Luant",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Rue Louis Girard Niherne",
+    "address": "7 Rue Louis Girard - Niherne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Place Saint-Jean",
+    "address": "2 Place Saint-Jean - Vendœuvres",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Villedieu sur indre",
+    "address": "43 Rue du Général de Gaulle - Villedieu-sur-Indre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A20 - Aire des Mille Étangs (direction Limoges)",
+    "address": "A20 - Luant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Château des Planches",
+    "address": "4 Rue de Niherne - Saint-Maur",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEI36 - Complexe Sportif",
+    "address": "20 Rue de Villers - Saint-Maur",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Rte de la Philippière - Chasseneuil",
+    "address": "2 Route de la Philippière - Chasseneuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Châteauroux",
+    "address": "108 avenue d'occitanie - St. Maur",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

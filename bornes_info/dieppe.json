@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Izivia - Grand Casino - Dieppe",
+    "address": "3 Boulevard de Verdun - Dieppe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Parking de la Barre (RDC) - Dieppe",
+    "address": "1 Rue Claude Groulard - Dieppe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Parking aérien et sous sol (-1) de l'hôtel de ville de Dieppe",
+    "address": "1 Rue Jules Ferry - Dieppe",
+    "connectors": [
+      "x14",
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Avenue Normandie Sussex - Dieppe",
+    "address": "14 Avenue Normandie Sussex - Dieppe",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - DIEPPE - Av. Normandie Sussex FORD",
+    "address": "Av. Normandie Sussex FORD - DIEPPE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Avenue Normandie-Sussex - Dieppe",
+    "address": "16 Avenue Normandie Sussex - Dieppe",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l'usine Alpine (Privé) - Rue Marcel Gamot - Dieppe",
+    "address": "Rue Marcel Gamot - Dieppe",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Rouxmesnil",
+    "address": "Avenue de breaute - Rouxmesnil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Auchan - Zone du Belvédère Dieppe",
+    "address": "Zone d'Aménagement Concerté du Belvédère - Dieppe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Dieppe - Auchan",
+    "address": "Avenue des Canadiens - Dieppe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

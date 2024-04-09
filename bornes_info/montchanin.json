@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Detang Automobiles",
+    "address": "156 Avenue de la République - Montchanin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Montchanin",
+    "address": "1 Avenue Des Mouettes - Montchanin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - 40 Avenue De La Libération - Montchanin",
+    "address": "40 Avenue De La Libération - Montchanin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - HOTEL EN BOURGOGNE - 56 Route du Pont Jeanne Rose - Montchanin",
+    "address": "56 Route du Pont Jeanne Rose - Montchanin",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Boucherie - Route du Pont Jeanne Rose",
+    "address": "Route du Pont Jeanne Rose - Montchanin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - N80 Rond point Pont Jeanne rose - Écuisses",
+    "address": "N80 Rond point Pont Jeanne rose - Montchanin",
+    "connectors": [
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Torcy",
+    "address": "3 Rue de la Grange aux Champs - Torcy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Gare du Creusot TGV",
+    "address": "La Sapinette - Torcy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Le Bois Morey - Torcy",
+    "address": "Le Bois Morey - Torcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gite du Moulin",
+    "address": "2 Moulin À Vent - Saint-Laurent-d'Andenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SYDEGO - Rue Joachim du Bellay - Saint-Joachim",
+    "address": "Rue Joachim du Bellay - Saint-Joachim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Mare Aux Oiseaux - Fedrun - Saint-Joachim",
+    "address": "221 Fedrun - Saint-Joachim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue Louise Michel - Saint-Malo-de-Guersac",
+    "address": "Rue Louise Michel - Saint-Malo-de-Guersac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO - Parking Plaisance",
+    "address": "19 Rue de l'Ancienne Gare - Crossac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO/Sainte-Reine-de-Bretagne/Rue René Guy Cadou/",
+    "address": "Rue René Guy Cadou - Sainte-Reine-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Trignac - 4 Route de Lonce",
+    "address": "4 Route de Lonce - Trignac",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Parking du gymnase - Montoir-de-Bretagne",
+    "address": "210 Avenue de l'Île de France - Montoir-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Château du deffay",
+    "address": "Le deffay - Sainte Reine de Bretagne",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NL*EVB - Sainte reine de Bretagne - le deffay 1",
+    "address": "le deffay 1 - Sainte reine de Bretagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de la Mairie, 17 - Trignac",
+    "address": "17 Rue de la Mairie - Trignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

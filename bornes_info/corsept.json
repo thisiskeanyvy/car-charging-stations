@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SYDEGO - Rue de la Mairie - Corsept",
+    "address": "Rue de la Mairie - Corsept",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydego Paimboeuf",
+    "address": "8 Quai Sadi Carnot - Paimbœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Rue du Parc des Sports - Saint-Viaud",
+    "address": "1 Rue du Parc des Sports - Saint-Viaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO - Place de la Gare, 6 - Donges",
+    "address": "6 Place de la Gare - Donges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO - Les Six Croix, 2 - Donges",
+    "address": "2 Les Six Croix - Donges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydégo - \"Estuaire\" D277 - St Brevin les Pins",
+    "address": "D277 - Saint-Brevin-les-Pins",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sydégo - Saint-Père-en-Retz",
+    "address": "21 Place du Marché - Saint-Père-en-Retz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Brevin-les-Pins",
+    "address": "1 Rue Paul Caniot - Saint-Brevin-les-Pins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Saint-Brevin-les-Pins (Station Total)",
+    "address": "Rond-Point du Normandie - Saint-Brevin-les-Pins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue Albert Chassagne - Saint-Brevin-les-Pins",
+    "address": "Rue Albert Chassagne - Saint-Brevin-les-Pins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

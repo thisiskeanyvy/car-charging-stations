@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEE47 - Place de l'Église Casteljaloux",
+    "address": "1 Place de l'Église - Casteljaloux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE-WATT - Casteljaloux - 16 Rue Pierre Dufiet",
+    "address": "16 Rue Pierre Dufiet - Casteljaloux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE47 - Boulevard Victor Hugo Casteljaloux",
+    "address": "20 Boulevard Victor Hugo - Casteljaloux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Enerstock - Casteljaloux - Leclerc",
+    "address": "3 Rue Henri Iv - Casteljaloux",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel du lac - Casteljaloux",
+    "address": "Unnamed Road - Casteljaloux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Lac de Clarens - Casteljaloux",
+    "address": "Lac de Clarens - Casteljaloux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Center parcs Domaine des Landes de Gascogne",
+    "address": "1295 route du pegean - Beauziac",
+    "connectors": [
+      "x5",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEE47 (MobiVE) - Le Clavier - Bouglon",
+    "address": "Le Clavier - Bouglon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A62 Le Mas-d'Agenais (double sens)",
+    "address": "A62 - Mas d'Agenais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Avenue de la Confluence - Damazan",
+    "address": "540 Avenue de la Confluence - Damazan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

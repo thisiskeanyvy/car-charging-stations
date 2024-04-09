@@ -1,0 +1,136 @@
+[
+  {
+    "title": "USEDA - Parking mairie - Crépy",
+    "address": "43 Rue Malézieux Briquet - Crépy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - DIRVE 02 - Rue de l'Aigle Noir Anizy-le-Château",
+    "address": "Rue de l'Aigle Noir - Anizy-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 30 Rue de Coucy - Anizy-le-Grand INEXISTANT",
+    "address": "30 Rue de Coucy - Anizy-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue du 7ème BCA - Pinon",
+    "address": "Rue du 7ème BCA - Pinon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "USEDA - Route de Besny - Laon",
+    "address": "23 Route de Besny - Laon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue du Maréchal Foch, 39 - Laon",
+    "address": "39 Avenue du Maréchal Foch - Laon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Rue Jules Ferry - Laon",
+    "address": "Rue Jules Ferry - Laon",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place Robert Aumont - Laon",
+    "address": "95 Rue Saint-Martin - Laon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Laon",
+    "address": "60 Rue Romanette - Laon",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "STATIONS-E - Pinon - Rue de la Vendée",
+    "address": "Rue de la Vendée  - Pinon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

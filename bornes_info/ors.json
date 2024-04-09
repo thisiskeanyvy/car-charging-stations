@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Paris-Saclay - Rue Archange - Orsay",
+    "address": "1 Rue Archange - Orsay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Paris -saclay",
+    "address": "Rue archange - Orsay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare Orsay-Dubreuil",
+    "address": "29 Boulevard Dubreuil - Orsay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay - gare Orsay-Ville",
+    "address": "41 Boulevard Dubreuil - Orsay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - 22 Rue Charles de Gaulle - Orsay",
+    "address": "22 Rue Charles de Gaulle - Orsay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Jean Teillac - Orsay",
+    "address": "99 Rue Jean Teillac - Orsay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Jerecharge - Orsay - 8 bis Boulevard Dubreuil",
+    "address": "8 bis Boulevard Dubreuil - Orsay",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Park'In Saclay DOUBLON",
+    "address": "Rue du Château - Orsay",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Rue du Doyen Georges Poitou Bibliothèque Universitaire - Orsay",
+    "address": "Rue du Doyen Georges Poitou Bibliothèque Universitaire - Orsay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris Saclay - Rue Jean Teillac - Orsay",
+    "address": "121 Rue Jean Teillac - Orsay",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

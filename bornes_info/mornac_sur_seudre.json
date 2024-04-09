@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MObiVE SDEER17 - St-Sulpice-de-Royan - Route de Saint-Palais",
+    "address": "12 Route de Saint-Palais - Saint-Sulpice-de-Royan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps S.L. - Le Gua - 2 Rue du Bassin",
+    "address": "2 Rue du Bassin - Le Gua",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi - Royan",
+    "address": "28 Rue Gustave Eiffel - Saint-Sulpice-de-Royan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VW - Rue Gustave Eiffel",
+    "address": "28 Rue Gustave Eiffel - Saint-Sulpice-de-Royan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CYCLE ELEC",
+    "address": "5 Route de Royan - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proche Médiathèque - Rue Samuel Champlain Le Gua",
+    "address": "17 Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEER (MobiVE) - Le Gua - Rue Samuel Champlain",
+    "address": "Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel B&B - Rue des Pâquerettes - Vaux-sur-Mer",
+    "address": "2 Rue des Pâquerettes - Vaux-sur-Mer",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta France - 15 Chemin de Chauchamp",
+    "address": "15 Chemin de Chauchamp - Vaux-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue du Commandant Jacques-Yves Cousteau",
+    "address": "5 Rue du Commandant Jacques-Yves Cousteau - Vaux-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDER - Route de Beaucaire - Loire-sur-Rhône",
+    "address": "3 Route de Beaucaire - Loire-sur-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IZIVIA Grand Lyon - 3 Rue des Verreries - Givors",
+    "address": "3 Rue des Verreries - Givors",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue Jacques Prévert - Givors",
+    "address": "Rue Jacques Prévert - Givors",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - 4 Route de Givors - Échalas",
+    "address": "100 Route de Givors - Échalas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Givors à déménagé",
+    "address": "2 Avenue Georges Charpak - GIVORS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RENAULT Givors",
+    "address": "2 Avenue Georges Charpak - Givors",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Route de Givors - Échalas",
+    "address": "Route de Givors - Échalas",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Givors - 7 Avenue Georges Charpak",
+    "address": "7 Avenue Georges Charpak - Givors",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Le pole automobile - 3 aveue Georges Charpark - GIVORS",
+    "address": "Le pole automobile - 3 aveue Georges Charpark - GIVORS",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Chasse-sur-Rhône - Kyriad Direct",
+    "address": "Zone de Charnevaux, Rue Pasteur - Chasse-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

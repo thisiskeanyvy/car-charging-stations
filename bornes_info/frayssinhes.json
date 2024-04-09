@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEDA (Révéo) - Route de Rodez - Pont-de-Salars",
+    "address": "Route de Rodez - Pont-de-Salars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Lande - Maison de santé",
+    "address": "Avenue de Rodez - Pont-de-Salars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Sainte-Radegonde - Le Champ du Moulin",
+    "address": "Le Champ du Moulin - Sainte-Radegonde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Médiathèque - Onet-le-Château",
+    "address": "33 Boulevard des Capucines - Onet-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Enerstock - E.Leclerc - Onet Le Château",
+    "address": "20T Route d'Espalion - Onet-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Mc Donald's - Onet-le-Château",
+    "address": "Parc Commercial Saint-Marc - Onet-le-Château",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - Mairie de Bertholène",
+    "address": "Rue de l'Aveyron Parking Mairie - Bertholène",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Galerie - Géant Rodez",
+    "address": "60\r\n Route d'Espalion\r\n - Onet-le-Château",
+    "connectors": [
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IZIVIA - Super U - Route d'Espalion - Onet-le-Château",
+    "address": "60 Route d'Espalion - Onet-le-Château",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Onet-le-Château",
+    "address": "47 Route d'Espalion - Onet-le-Château",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

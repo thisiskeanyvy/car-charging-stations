@@ -1,0 +1,128 @@
+[
+  {
+    "title": "USEDA - Place Bailly - Liesse-Notre-Dame",
+    "address": "22 Place Bailly - Liesse-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Allego - Laon - Nissan",
+    "address": "17 Rue Turgot, 02000 Laon - Laon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "groupe Colbeaux",
+    "address": "17 Turgot - laon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Turgot",
+    "address": "17 rue Turgot - Laon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - ZAC DU CHAMP DU ROY RUE TURGOT 15 - LAON",
+    "address": "ZAC DU CHAMP DU ROY RUE TURGOT 15 - LAON",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Audi - Laon",
+    "address": "6 Rue Turgot - Laon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LastMileSolutions - 2 Rue Turgot - Laon",
+    "address": "2 Rue Turgot - Laon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - N2/D977 Relais du Champs du Roy Laon - Laon",
+    "address": "Rue Voltaire - Laon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Première Classe Laon",
+    "address": "181 Avenue Charles de Gaulle - Laon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Laon - Au Bureau",
+    "address": "6 Rue Nicolas Appert - Laon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SYDED - bi1 - Mouthe",
+    "address": "32 bis Varée - Mouthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEL25 - Chemin de fourperet",
+    "address": "1 Chemin du Fourperet - Labergement-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL25 - Labergement-Sainte-Marie",
+    "address": "13 bis Avenue de la Gare - Labergement-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL25 - Rue du Crêt - Longevilles-Mont-d'Or",
+    "address": "16 Rue du Crêt - Longevilles-Mont-d'Or",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL25 - Rue des Crêts - Fourcatier-et-Maison-Neuve",
+    "address": "4 Rue les Crets Paris - Fourcatier-et-Maison-Neuve",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL25 - Mairie - Vaux-et-Chantegrue",
+    "address": "9 Rue des Marais - Vaux-et-Chantegrue",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT SAS - Malbuisson - 9 Rue de l'Église",
+    "address": "9 Rue de l'Église - Malbuisson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Green Motion - Vallorbe Grottes",
+    "address": "Route de la Raz - Vallorbe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Parking Eglise Les Charbonnières",
+    "address": "8 Rue du Mont d'Or - Les Charbonnières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Parking de la Gare",
+    "address": "1 Rue de la Gare - Le Pont",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

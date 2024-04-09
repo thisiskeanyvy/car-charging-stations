@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Hyper U - Parthenay",
+    "address": "1 Avenue François Mitterrand - Parthenay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Place de la Mairie - Parthenay",
+    "address": "5 Rue de la Citadelle - Parthenay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Parthenay - Place du Drapeau",
+    "address": "Place du Drapeau - Parthenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Réseau AlterBase - St Aubin le Cloud - Place de l'Eglise",
+    "address": "Rue Edouard Pied - Saint-Aubin-le-Cloud",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Rue Pierre-Gilles de Gennes - Châtillon sur Thouet",
+    "address": "4 Rue Pierre - Gilles de Gennes - Châtillon-sur-Thouet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Réseau AlterBase - Châtillon-sur-Thouet - Séolis",
+    "address": "7 Route de Thouars - Châtillon-sur-Thouet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Artipole - Route de Bressuire",
+    "address": "Route de Bressuire - Châtillon-sur-Thouet",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Rue Léonard de Vinci - Parthenay",
+    "address": "58 Rue Léonard de Vinci - Parthenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Centrakor - Avenue Aristide Briand",
+    "address": "195 Avenue Aristide Briand - Parthenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - Parthenay - 22kW AC G",
+    "address": "Boulevard du Parnasse - Châtillon-sur-Thouet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

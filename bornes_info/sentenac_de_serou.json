@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE09 - Parking près de la poste La Bastide-de-Sérou",
+    "address": "Avenue de La Gare - La Bastide-de-Sérou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - D211 La Basso Eco Golf - La Bastide-de-Sérou",
+    "address": "D211, La Basso Eco Golf - La Bastide-de-Sérou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE09 - Route de la Gare Rimont",
+    "address": "Route de la Gare - Rimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Place de l'Église Massat",
+    "address": "Place de l'Eglise - Massat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE09 - Le Mas-d'Azil",
+    "address": "18 Rue du Mouret - Le Mas-d'Azil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Eglise - Pailhes",
+    "address": "101-263 Lagal - Pailhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Commissariat de police - Foix",
+    "address": "26–28 Allées de Villote - Foix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Jardin botanique - Loubières",
+    "address": "Chemin des Fournasses - Loubières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Gare Multimodale de Foix",
+    "address": "1–3 Rue des Marchandises - Foix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE09 (Reveo) - Cours Gabriel Fauré, Foix",
+    "address": "1bis Cours Gabriel Fauré - Foix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

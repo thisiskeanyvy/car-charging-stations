@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDESM - Mairie - Le Mesnil-Amelot",
+    "address": "1 Rue du Chapeau - Le Mesnil-Amelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Roissy - Rue du Stade Sauvanet - Le Mesnil-Amelot",
+    "address": "3 Rue du Stade Sauvanet - Le Mesnil-Amelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CMH - Le Mesnil-Amelot",
+    "address": "Rue de la Fossette - Le Mesnil-Amelot",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Courtyard Paris Roissy CDG (Tesla and others)",
+    "address": "Rue de la Chapelle - Le Mesnil-Amelot",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroport Paris-Charles de Gaulle",
+    "address": "Unnamed Road - Mitry-Mory",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Aeroport CDG Parking G",
+    "address": "Unnamed Road - Mitry-Mory",
+    "connectors": [
+      "x19",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Paris Aéroport - CDG - Parking PEF Premium (-2)",
+    "address": "Aeroport de Roissy CDG - Roissy-en-France",
+    "connectors": [
+      "x5",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris Aéroport - CDG - Parking PEF (-2)",
+    "address": "1 Rue de New York - Le Mesnil-Amelot",
+    "connectors": [
+      "x32",
+      "x32"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking PN Air France (Uniquement pour le personnel)",
+    "address": "Place de Madrid - Tremblay-en-France",
+    "connectors": [
+      "x52"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Aéroport - CDG - BAT (réservé aux taxis parisiens)",
+    "address": "Route Périphérique Sud Base Arrière Taxi - Mitry-Mory",
+    "connectors": [
+      "x1",
+      "x9",
+      "x10",
+      "x9",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  }
+]

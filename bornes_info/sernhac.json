@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Domaine des Escaunes (Tesla)",
+    "address": "5 Rue des Bourgades - Sernhac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Mairie de Meynes",
+    "address": "18 Route de la Gare - Meynes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SMEG30 - Remoulins",
+    "address": "2 Avenue Geoffroy Perret - Remoulins",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMEG30 (Révéo) - Chemin de L'Esperel - Lédenon",
+    "address": "Chemin de L'Esperel - Lédenon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Remoulins",
+    "address": "95 Avenue Geoffroy Perret - Remoulins",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Rue du Moulin d'Aure - Remoulins",
+    "address": "Rue du Moulin d'Aure - Remoulins",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pont du Gard - Parking Rive Droite",
+    "address": "24 Avenue du Pont du Gard - Remoulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Camping BelleRive (Tesla and others)",
+    "address": "Cours Emile Antelme - Montfrin",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Pont du Gard - D981 - Vers-Pont-du-Gard",
+    "address": "D981 - Vers-Pont-du-Gard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Cours Emile Antelme",
+    "address": "Cours Emile Antelme - Montfrin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

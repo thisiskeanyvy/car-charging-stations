@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Thales CERY (Privé)",
+    "address": "Le Mont Jarret - Ymare",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropole Rouen Normandie - Rue de l'Eglise - Saint-Aubin-Celloville",
+    "address": "18 Rue De l'Eglise - Saint-Aubin-Celloville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Mairie de Gouy",
+    "address": "602-640 Rue des Canadiens - Gouy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Métropole Rouen Normandie - Rue de Paris - Boos",
+    "address": "Rue de Paris - Boos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Lidl - Pîtres",
+    "address": "Rue De La Salle - Pîtres",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Rue des forieres Alizay",
+    "address": "Rue des forieres - Alizay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Pîtres (Combo CCS)",
+    "address": "Rue Marie Curie - Pîtres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - Pîtres - 3 Rue Marie Curie",
+    "address": "3 Rue Marie Curie - Pîtres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Pitres",
+    "address": "ZA des Freni-Freneaux - Pitres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Super U - Franqueville-Saint-Pierre",
+    "address": "3 Rue des Terres Rouges - Franqueville-Saint-Pierre",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

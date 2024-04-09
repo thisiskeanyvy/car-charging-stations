@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Sigeif - Parking Espace Culturel Saint Exupéry - Wissous",
+    "address": "1 Voie du Bon Puits - Wissous",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - Rue Fernand Léger - Wissous",
+    "address": "1 Rue Fernand Léger - Wissous",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Metropolis Recharge - 6 Rue Alexis de Tocqueville - Antony",
+    "address": "6 Rue Alexis de Tocqueville - Antony",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ibis Massy",
+    "address": "6 Rue du Saule Trapu - Massy",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Hippopotamus - Massy",
+    "address": "283\r\n Avenue du Maréchal Leclerc\r\n - Massy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 15 Rue Du Jura - Rungis",
+    "address": "15 Rue Du Jura - Rungis",
+    "connectors": [
+      "x8",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vertical Art Rungis",
+    "address": "113 Rue des Solets - Rungis",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rungis, Hôtel La Maison Blanche",
+    "address": "8 Avenue De La Gare - Rungis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Communauté d'Agglomération Paris-Saclay - 4 Allée de la Sologne - Massy",
+    "address": "4 Allée de la Sologne - Massy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - Antony -Speedy",
+    "address": "71-73 Avenue de la Division Leclerc - Antony",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

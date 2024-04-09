@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Château de Sacy (Tesla and others)",
+    "address": "Rue des Croisettes - Sacy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - E.Leclerc (A4/N51) - Champfleury",
+    "address": "51 Route nationale - Champfleury",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EFFIA - Gare Champagne Ardenne TGV",
+    "address": "Nouvelle route de SACY - Bezannes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Golden Tulip Hôtel - Bezannes",
+    "address": "21 Rue Jean Dausset - Bezannes",
+    "connectors": [
+      "x9",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - Rue Paul Sabatier - Bezannes",
+    "address": "rue Paul Sabatier - Bezannes",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue Louis-Victor de Broglie - Bezannes",
+    "address": "25 Rue Louis Victor De Broglie - Bezannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Clinique Courlancy - Bezannes",
+    "address": "Rue Louis-Victor de Broglie - Bezannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEM51 - Place de la Gare",
+    "address": "Place de la Gare - Rilly-la-Montagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Akena (Clients only) (Tesla and others)",
+    "address": "79 Rue Alfred Kastler - Bezannes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Reims",
+    "address": "rue Fernand Brunet - Reims",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

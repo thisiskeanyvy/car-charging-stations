@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE28 - Tremblay-les-Villages",
+    "address": "Rue du Dc Taugourdeau - Tremblay-Les-Villages",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Grande Rue - Tréon",
+    "address": "Grande Rue - Tréon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE28 - Rue de la Libération - Villemeux-sur-Eure",
+    "address": "2 Rue de la Libération - Villemeux-sur-Eure",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE28 - Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "address": "Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Châteauneuf-en-Thymerais (Place des Halles)",
+    "address": "23 Rue Maurice Viollette - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Nogent-le-Roi (Route d'Ormoy)",
+    "address": "Route d'Ormoy - Nogent-le-Roi",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Modulo Energies - Mairie de Garnay",
+    "address": "place de la mairie - Garnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Nogent-le-Roi (Place du Marché aux Chevaux)",
+    "address": "Place du Marché aux Chevaux - Nogent-Le-Roi",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Vernouillet - Chemin de Blainville",
+    "address": "Chemin de Blainville - Vernouillet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centre commercial Plein Sud - Hyper U",
+    "address": "154 Rue de Bruxelles - Vernouillet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

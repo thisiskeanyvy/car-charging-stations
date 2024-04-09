@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Place de la Mairie - Saint-Michel-l'Observatoire",
+    "address": "262 Place du Serre - Saint-Michel-l'Observatoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Provence Vallée",
+    "address": "1138 Avenue de la Repasse - Manosque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Chemin des Ferrages",
+    "address": "Chemin des Ferrages - Pierrevert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Parking Guilhempierre - Manosque",
+    "address": "Rue Leon Mure - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Boulevard des Tilleuls",
+    "address": "34 Boulevard des Tilleuls - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking de la Villette",
+    "address": "1 Rue de la Tannerie - Manosque",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking Parc de Drouille Manosque",
+    "address": "7001 Avenue du Majoral Raoul Arnaud - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Manosque - Place du Dr Joubert",
+    "address": "Place du Dr Joubert - Manosque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking souterrain de la Poste",
+    "address": "de la Reine Jeanne - Manosque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking du Riou - Manosque",
+    "address": "5 Traverse De La Brise - Manosque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

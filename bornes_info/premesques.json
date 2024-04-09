@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Pass Pass - Eglise de Prémesques",
+    "address": "15 Place Jean-Baptiste Lebas - Prémesques",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Mairie Capinghem",
+    "address": "58bis Rue Poincaré - Capinghem",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Fabrique - Pérenchies",
+    "address": "2 ter Avenue du Parc de l'Horloge - Pérenchies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Lomme - P+R St Philibert Metro 2 Ilevia",
+    "address": "156 Rue du Grand But Lomme - Lille",
+    "connectors": [
+      "x11",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hôpital Saint Philibert (Parking Personnel) - Lille",
+    "address": "115 Voie Ctre Hospitalier St Philibert - Lille",
+    "connectors": [
+      "x11",
+      "x22"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IKEA Lille - Lomme",
+    "address": "105 Rue du Grand But - Lille",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "1bis Avenue du Kemmel",
+    "address": "1bis Avenue du Kemmel - Pérenchies",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "METRO - Rue du Château d'Isenghien",
+    "address": "70 Rue des Fusillés - Capinghem",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - KFC Englos - Lille",
+    "address": "352 route nationale - Ennetières-en-Weppes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Complexe sportif - Ennetières-en-Weppes",
+    "address": "13 Rue du Patronnage - Ennetières-en-Weppes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

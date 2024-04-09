@@ -1,0 +1,128 @@
+[
+  {
+    "title": "TotalEnergies - Dury - Rte d'Amiens",
+    "address": "Rte d'Amiens - Dury",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Opel Amiens (Privé)",
+    "address": "19 Route d'Amiens - Dury",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route D'Amiens - Dury",
+    "address": "52 Route D'amiens - Dury",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Salouël",
+    "address": "1 Avenue Albert Camus - Salouël",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "R3 - Norauto Dury les Amiens",
+    "address": "1 Allée des Fleurs - Dury",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EPLUG - Place Ginkgo",
+    "address": "3 Place Ginkgo - Dury",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - CHU Amiens Picardie - Pont-de-Metz",
+    "address": "1 Rond-Point du Professeur Christian Cabrol Cabrol - Pont-de-Metz",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan - Place Piétonne - Amiens",
+    "address": "5000 Place Piétonne - Dury",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Amiens",
+    "address": "5144A Route d'Amiens - Dury",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Buffalo Grill",
+    "address": "49 Avenue de Grèce - Amiens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Domaine du Revermont (Tesla et autres)",
+    "address": "600 Route du Revermont - Passenans",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le 49 Côté Parc",
+    "address": "49 Rue de la Belgique - Domblans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché POLIGNY",
+    "address": "83 RN 5 - Poligny",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LE RELAIS DE LA PERLE chambres d'hôte 184 route de Voiteur",
+    "address": "184 Route de Voiteur - Le Vernois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A39 - Aire du Jura (double sens)",
+    "address": "A39 - Arlay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V3 - Aire du Jura",
+    "address": "A9 - Arlay",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Poligny",
+    "address": "Route de Dole - Poligny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "S.A.P carrosserie Ferro - Poligny",
+    "address": "22 Route de Dole - Poligny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "fruitière des coteaux de seille",
+    "address": "114 Chemin du Pré Chenole - Le Vernois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Zugno (Porsche)",
+    "address": "Les Monts de Vaux - N5 - Barretaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

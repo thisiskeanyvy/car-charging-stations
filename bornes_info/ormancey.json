@@ -1,0 +1,138 @@
+[
+  {
+    "title": "GARAGE CARROSSERIE DU BARROIS",
+    "address": "4 Rue de la Clé des Champs - Bugnières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Trinquesse SARL",
+    "address": "2 Avenue de Verdun - Rolampont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - A31 Aire de Langres-Perrogney (direction Dijon)",
+    "address": "0 A31 - Perrogney-les-Fontaines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A31 - Aire de Langres-Perrogney (direction Dijon)",
+    "address": "0 A31 - Perrogney-les-Fontaines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A31 Aire de Langres-Noidant (direction Troyes)",
+    "address": "A31 - Noidant-le-Rocheux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ibis Budget (Tesla and others)",
+    "address": "Place des États-Unis - Langres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Place Bel Air - Langres",
+    "address": "Place Bel Air - Langres",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Langres",
+    "address": "912 avenue de l'Europe - Langres",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE52 - Parking Sous-Bie - Langres",
+    "address": "6 Parking Sous-Bie - Langres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Route de Dijon - Saints-Geosmes",
+    "address": "34 Route de Dijon - Saints-Geosmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

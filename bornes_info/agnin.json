@@ -1,0 +1,126 @@
+[
+  {
+    "title": "e-born - Rue des Enfants - Agnin",
+    "address": "10 Route du Pilat - Agnin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking",
+    "address": "19 Rue Pierre Avit Nicolas - Salaise-sur-Sanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Salaise",
+    "address": "Rue Jonchain Sud - Salaise-sur-Sanne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Chanas - Intermarché",
+    "address": "Parc du Soleil - Chanas",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour - Salaise",
+    "address": "165, route nationale 7 - Salaise",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Monta - Salaise-sur-Sanne - 35 Chemin de Gampaloup",
+    "address": "35 Chemin de Gampaloup - Salaise-sur-Sanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green 7 - Salaise-sur-Sanne",
+    "address": "240 Route de Valence - Salaise-sur-Sanne",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Salaise-sur-Sanne",
+    "address": "5000 Route Nationale 7 - Salaise-sur-Sanne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Salaise-sur-Sanne",
+    "address": "N7 Green 7 - Salaise-sur-Sanne",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint Network - 2 Rue du Revolon",
+    "address": "2 Rue du Revolon - Chanas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

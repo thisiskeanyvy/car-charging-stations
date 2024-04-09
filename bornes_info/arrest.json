@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Rossini Energy - Pendé - 8 Rue de Lanchéres",
+    "address": "8 Rue de Lanchéres - Pendé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Boismont",
+    "address": "route de Pinchefalise, - Boismont",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Cabinet Paramedical",
+    "address": "Rue Auguste Edith - Boismont",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Jean Jaurès - Friville-Escarbotin",
+    "address": "10 Place Jean Jaurès - Friville-Escarbotin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Avenue de la Baie de Somme - Feuquières-en-Vimeu",
+    "address": "Avenue de la Baie de Somme - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking des Corderies - Saint-Valery-sur-Somme",
+    "address": "Rue Saint-Pierre - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 - Avenue du Vimeu Vert",
+    "address": "1 Avenue du Vimeu Vert - Feuquières-en-Vimeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Quai Perrée - Saint-Valery-sur-Somme",
+    "address": "15 Quai Perrée - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Feuquières",
+    "address": "47 Rue Henri Barbusse - Feuquières-en-Vimeu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château du Romerel - Saint-Valery-sur-Somme (Tesla and others)",
+    "address": "15 Quai du Romerel - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

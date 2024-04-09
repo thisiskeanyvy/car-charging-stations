@@ -1,0 +1,134 @@
+[
+  {
+    "title": "compagnie de phalsbourg",
+    "address": "2B Rue d'Epiais - Osny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Osny",
+    "address": "13 Impasse des Hayettes - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Osny",
+    "address": "51 Route de Paris à Dieppe - Osny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Centre Hospitalier René-Dubos (Privé)",
+    "address": "Avenue de l’Île-de-France - Pontoise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Chemin du Poirier Charles Guérin - Osny",
+    "address": "4 Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Menuiserie Saint Antoine",
+    "address": "66 Chemin de la Chapelle Saint-Antoine - Ennery",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Osny - Norauto",
+    "address": "Parc d'activité de L'Oseraie - Osny",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre commercial Osny - Action",
+    "address": "Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial - Osny - Maxi Zoo",
+    "address": "Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centrakor ZAC l'oseraie",
+    "address": "1 rue du poirier Charles Guerin - osny",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

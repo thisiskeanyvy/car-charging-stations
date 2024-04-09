@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Parking de la mairie de Ceyreste",
+    "address": "2 Avenue eugene Julien - Ceyreste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Place des héros - Ceyreste",
+    "address": "10 Place des héros - Ceyreste",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVzen - Parking du Riau - Ceyreste",
+    "address": "10 Chemin Du Riau - Ceyreste",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "larecharge - Chemin de Saint-Antoine - Ceyreste",
+    "address": "Chemin de Saint-Antoine - Ceyreste",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - 5 Av. Eugène Julien - Ceyreste",
+    "address": "5 Av. Eugène Julien - Ceyreste",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking gare SNCF La Ciotat-Ceyreste",
+    "address": "177 Chemin Du Pareyraou - La Ciotat",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Gare de La Ciotat - Avenue de la Gare - La Ciotat",
+    "address": "866 Avenue de la Gare - La Ciotat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "LaRecharge - Parking SNCF La Ciotat",
+    "address": "886 Avenue de la Gare - La Ciotat",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Ciotat | Voie Antiope 785",
+    "address": "785 Voie Antiope - La Ciotat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - 165 Voie Antiope - La Ciotat",
+    "address": "165 Voie Antiope - La Ciotat",
+    "connectors": [
+      "x4",
+      "x14",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

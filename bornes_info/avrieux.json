@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ChargePoint - Parking du Coulomb",
+    "address": "48 Rue Meyer - Villarodin-Bourget",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Station de ski La Norma - Parking",
+    "address": "1-87 Rue des Terres - Villarodin-Bourget",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Maurienne French Alps - Place du marché - Modane",
+    "address": "Place du Marché - Modane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Haute Maurienne Vannoise",
+    "address": "9 Place Sommeiller - Modane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Fiat - 56 Avenue de la Liberté - Fourneaux",
+    "address": "56 Avenue de la Liberté - Fourneaux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IONITY - A43 - Aire de Freney - Autoport du Freney",
+    "address": "D1006 - Freney",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel l'outa",
+    "address": "2 Rue de savoie - Termignon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Recharger mon auto - Orelle - Rue de la Télécabine d'Orelle Télécabine 3 Vallées Express",
+    "address": "Rue de la Télécabine d'Orelle Télécabine 3 Vallées Express - Orelle",
+    "connectors": [
+      "x14",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Hôtel le Sherpa - 243 Rue de Gebroulaz - Les Belleville",
+    "address": "243 Rue de Gebroulaz - Saint-Martin-de-Belleville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Koh-I Nor - Val Thorens",
+    "address": "Rue de Gebroulaz - Saint-Martin-de-Belleville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

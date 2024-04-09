@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEGO - Mairie de Saint-Nicolas-de-Redon",
+    "address": "Rue d'Ahaut - Saint-Nicolas-de-Redon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Nicolas-de-Redon",
+    "address": "42 Avenue Jean Burel - Saint-Nicolas-de-Redon",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Rue Lucien Poulard - Redon",
+    "address": "Rue Lucien Poulard - Redon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Europcar - 69 Rue De La Châtaigneraie - Redon",
+    "address": "69 Rue De La Châtaigneraie - Redon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "OuestCharge - Rue Charles Sillard - Redon",
+    "address": "Rue Charles Sillard - Redon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Giratoire d'Aucfer - Rieux",
+    "address": "Route de Redon - Rieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Redon",
+    "address": "Route de Rennes, ZI de Briangaud - Redon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "10 Avenue Jean-Baptiste Lelièvre",
+    "address": "10 Avenue Jean-Baptiste Lelièvre - Redon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue de la Vieille Ville - Redon",
+    "address": "1 Rue de la Vieille ville - Redon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Ibis Budget Redon",
+    "address": "7 - Redon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

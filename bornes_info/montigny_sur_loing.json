@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Moret-Loing-et-Orvanne - Place de la Croix du Gué",
+    "address": "Place de la Croix du Gué - Moret-Loing-et-Orvanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau de Bourron",
+    "address": "16 avenue Blaise de Montesquiou - Bourron-Marlotte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Parking - Montcourt-Fromonville",
+    "address": "3 Route de Moret - Montcourt-Fromonville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Moret-Loing-et-Orvanne - Rue du Port",
+    "address": "Rue du Port - Moret-Loing-et-Orvanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Avenue de La Gare - Moret-Loing-et-Orvanne",
+    "address": "Avenue de La Gare - Moret-Loing-et-Orvanne",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Moret-Loing-et-Orvanne - Rue Montrichard",
+    "address": "Rue Montrichard - Moret-Loing-et-Orvanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Veneux-les-Sablons",
+    "address": "2 Avenue de la Gare - Veneux-les-Sablons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Moret-Loing-et-Orvanne - Rue Lemasson-Henrion",
+    "address": "Rue Lemasson-Henrion - Moret-Loing-et-Orvanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Nemours",
+    "address": "1 Rue Joseph Marie Jacquard - Nemours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Rue des Hauteurs du Loing - Nemours",
+    "address": "Rue des Hauteurs du Loing - Nemours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

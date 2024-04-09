@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Carrefour Market - Marines",
+    "address": "21 Boulevard Gambetta - Marines",
+    "connectors": [
+      "x3",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Leclerc Express Marines",
+    "address": "3 Rue de la Richarderie - Marines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aérodrome de Pontoise - Cormeilles-en-Vexin (Privé)",
+    "address": "Route de l'Aérodrome - Boissy-l'Aillerie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - 1 Rue Antoine Havard - Neuville-Bosc",
+    "address": "1 Rue Antoine Havard - Neuville-Bosc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Rouen - Vigny (Privé)",
+    "address": "Rue de Rouen 2 - Vigny",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clos des vignes",
+    "address": "17 Rue des Vignes - Neuville-Bosc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison du Parc - Théméricourt",
+    "address": "2 Rue du Moulin - Théméricourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centrakor ZAC l'oseraie",
+    "address": "1 rue du poirier Charles Guerin - osny",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial - Osny - Maxi Zoo",
+    "address": "Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial Osny - Action",
+    "address": "Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

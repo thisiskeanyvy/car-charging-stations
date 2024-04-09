@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Rue Du Général Leclerc - Ostwald",
+    "address": "1 Rue Du Général Leclerc - Ostwald",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de l'Île & Spa (Tesla et autres)",
+    "address": "4 Quai Heydt - Ostwald",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de l'Île des Pêcheurs - Ostwald",
+    "address": "1 Rue de l'Île des Pêcheurs - Ostwald",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - A35 Aire de Ostwald Ouest - Ostwald",
+    "address": "A35, Aire de Ostwald Ouest - Ostwald",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Shell-Recharge - M35 Aire d'Ostwald (direction Mulhouse)",
+    "address": "M35 (ex A35) - Ostwald",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Tesla Supercharger V2 - Strasbourg",
+    "address": "Rue du 23 Novembre - Ostwald",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Claudé",
+    "address": "139 route de Lyon - Illkirch-graffenstaden",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Ostwald",
+    "address": "2 Rue Alfred Kastler - Ostwald",
+    "connectors": [
+      "x12",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Parking Tram Alouettes - Lingolsheim",
+    "address": "Allée Pierre Pfimlin - Lingolsheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Allée François Mitterand - IIllkirch-Graffenstaden",
+    "address": "5 Allée François Mitterrand - Illkirch-Graffenstaden",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

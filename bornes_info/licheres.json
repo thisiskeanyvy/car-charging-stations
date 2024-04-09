@@ -1,0 +1,132 @@
+[
+  {
+    "title": "41 Rue du Commerce (Tesla and others)",
+    "address": "41 Rue du Commerce - Nitry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - D944 Nitry, Sud",
+    "address": "Nitry, Sud - Nitry",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Impasse du Petit Pontigny - Chablis",
+    "address": "2 Impasse du Petit Pontigny - Chablis",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Domaine Celine et Frederic Gueguen",
+    "address": "1 Rue de Reugny - Chablis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'HOSTELLERIE DES CLOS",
+    "address": "3 Rue de l'Hôpital - Chablis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Collet",
+    "address": "15 Avenue de la Liberte - CHABLIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place Saint-Martin - Chablis",
+    "address": "3 Place Saint-Martin - Chablis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia | FR*OTH - Chablis - Route d'Auxerre",
+    "address": "Route d'Auxerre - Chablis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEY - Rue de l'Église",
+    "address": "23 Rue de l'Église - Noyers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Gare - Vermenton",
+    "address": "6 Rue des Soupirs - Vermenton",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

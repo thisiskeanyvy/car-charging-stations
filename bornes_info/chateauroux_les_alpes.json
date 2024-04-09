@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Avenue du Général Nicolas - Embrun",
+    "address": "19 Avenue Gén Nicolas - Embrun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue de Lattre de Tassigny - Embrun",
+    "address": "6 Rue de Lattre de Tassigny - Embrun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Promenade de l'Archevêché - Embrun",
+    "address": "7 Promenade de l'Archevêché - Embrun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syme05 - Maison du Tourisme du Guillestrois",
+    "address": "Devant ville/N94 - Saint-Clément-sur-Durance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Rue de l'Hopital - Embrun",
+    "address": "4 Rue de l'Hopital - Embrun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel la Robeyere",
+    "address": "La Robèyere - Embrun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Embrun - 11 Avenue Justin Gras",
+    "address": "11 Avenue Justin Gras - Embrun",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue du Lac - Embrun",
+    "address": "148 Avenue du Lac - Embrun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - Camping le petit liou - Baratier",
+    "address": "- Baratier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Peugeot - Baratier (ne souhaite pas apparaitre sur la carte)",
+    "address": "ZA Les Portes du Lac - Baratier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

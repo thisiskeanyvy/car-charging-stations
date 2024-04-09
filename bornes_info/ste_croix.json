@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Borne de recharge Arnouville",
+    "address": "1 Allée des Mouettes - Arnouville",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Arnouville",
+    "address": "34 Avenue Paul Vaillant Couturier - Arnouville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HYUNDAI - Rue De La Liberté - Gonesse",
+    "address": "8 Rue De La Liberté - Gonesse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Gonesse",
+    "address": "1 Avenue Georges Pompidou - Gonesse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIGEIF - Allée Pierre Corneille - Villiers-le-Bel",
+    "address": "4 Allée Pierre Corneille - Villiers-le-Bel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Garges-lès-Gonesse - Cora",
+    "address": "1 Boulevard de la Muette - Garges-lès-Gonesse",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gare RER Garges - Sarcelles",
+    "address": "Boulevard Salvador Allende - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rond point du centre commercial du Pont de Pi - Garges-lès-Gonesse",
+    "address": "Rond point du centre commercial du Pont de Pi - Garges-lès-Gonesse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigidurs - Rue de l'Escouvrie - Sarcelles",
+    "address": "20 Rue de l'Escouvrier - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Première classe - Rue du Vignolle - Sarcelles",
+    "address": "1 Rue du Vignolle - Sarcelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

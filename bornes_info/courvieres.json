@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Izivia - Mairie de Courrières",
+    "address": "2 Place Jean Tailliez - Courrières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Mairie de Courrières",
+    "address": "Rue Emile Basly - Courrières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LastMileSolutions - Rue Raoul Briquet ZA du Chemy - Courrières INEXISTANT",
+    "address": "Rue Raoul Briquet ZA du Chemy - Courrières",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Opel - Rue Raoul Briquet - Courrières (Privé)",
+    "address": "5003F Rue Raoul Briquet - Courrières",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 2 Rue du Docteur Laennec - Courrières",
+    "address": "2 Rue du Docteur Laennec - Courrières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEN - Voie du Grand Large - DOURGES",
+    "address": "Voie du Grand Large - Dourges",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "RossiniEnergy - 40 Rue Charles Tellier - Carvin",
+    "address": "40 Rue Charles Tellier - Carvin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Carvin - 40 Rue Charles Tellier",
+    "address": "40 Rue Charles Tellier - Carvin",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco-pi - 40 Rue Charles Tellier - Carvin",
+    "address": "40 Rue Charles Tellier - Carvin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Carvin",
+    "address": "Route de Lens - Carvin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

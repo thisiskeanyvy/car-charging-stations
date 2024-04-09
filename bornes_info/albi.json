@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hotel Saint Antoine",
+    "address": "4 Rue Général Pont - Albi",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des Cordeliers Albi",
+    "address": "4 Rue des Septfonds - Albi",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - parking Le Lude - Albi",
+    "address": "15 Allée du Lude - Albi",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel campanile - Albi Centre",
+    "address": "4 Avenue Maréchal de Lattre de Tassigny - Albi",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - avenue Gambetta - Albi",
+    "address": "avenue Gambetta - Albi",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue de Castelviel - Albi",
+    "address": "2 Cité du Castelviel - Albi",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies Mercure Albi - Rue Porta",
+    "address": "Rue Porta - Albi",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "credit agricole - mobilygreen - 9 Boulevard Strasbourg - Albi",
+    "address": "9 Boulevard Strasbourg - Albi",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET - parking du Foirail Castelviel",
+    "address": "Place du Foirail du Castelviel - Albi",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Inter-Hotel Albi le Cantepau (Tesla and others)",
+    "address": "9 Rue Cantepau - Albi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

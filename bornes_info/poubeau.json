@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Belib - 59 Avenue Marceau - Paris",
+    "address": "59 Avenue Marceau - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 37 avenue d'Iéna 75016 Paris",
+    "address": "37 Avenue d'Iéna - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Q-Park - Avenue Marceau (Uniquement pour abonnés)",
+    "address": "77 Avenue Marceau - Paris",
+    "connectors": [
+      "x11",
+      "x11"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Belib - 63 Avenue d'Iéna - Paris",
+    "address": "63 Avenue d'Iéna - Paris",
+    "connectors": [
+      "x6",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - Avenue George V - Paris",
+    "address": "Avenue George V - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Fouquet's (Tesla)",
+    "address": "46 Avenue George V - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Fouquet's Barrière (Privé)",
+    "address": "46 Avenue George V - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc souterrain George V",
+    "address": "103 avenue des Champs Elysées - Paris",
+    "connectors": [
+      "x26",
+      "x26"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel The Peninsula Paris (Tesla)",
+    "address": "19 Avenue Kléber - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "43 Avenue George V",
+    "address": "43 Avenue George V - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

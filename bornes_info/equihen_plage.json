@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Pass Pass - Rue Charles Cazin - Équihen-Plage",
+    "address": "Rue Charles Cazin - Équihen-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Pass Pass - Eglise d'Equihen Plage",
+    "address": "37 Rue de l'Abbé Coppin - Équihen-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Pass Pass Electrique - Route d'Equihen - Saint-Étienne-au-Mont",
+    "address": "Route d'Equihen - Saint-Étienne-au-Mont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue des Bouleaux - Outreau",
+    "address": "10 Rue des Bouleaux - Outreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - 34 Rue Nobel - Saint-Léonard",
+    "address": "34 Rue Nobel - Saint-Léonard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Saint-Léonard - 7 Rue Louis Blériot",
+    "address": "7 Rue Louis Blériot - Saint-Léonard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Outreau",
+    "address": "Rue Edouard Vaillant \r\n - Outreau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "snab AUDi",
+    "address": "Boulevard de la Liane - Saint-Léonard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA motor - Saint-Léonard",
+    "address": "D901E3 - Saint-Léonard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 63 Boulevard de la Liane - Saint-Léonard",
+    "address": "63 Boulevard de la Liane - Saint-Léonard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

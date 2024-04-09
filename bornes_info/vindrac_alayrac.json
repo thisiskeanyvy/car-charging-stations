@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Promenade de l'autan",
+    "address": "5 Rue de l'Aurausse - Les Cabannes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Chemin de Saint-Jean - Les Cabannes",
+    "address": "Rue de l'Aurausse - Les Cabannes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - 9 Rue Notre Dame - Cordes-sur-Ciel",
+    "address": "9 Rue Notre Dame - Cordes-sur-Ciel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - avenue 8 Mai 1945 - Cordes-sur-Ciel",
+    "address": "Avenue du 8 Mai 1945 - Cordes-sur-Ciel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gite des Clauzels",
+    "address": "Chemin des forges - Roussayrolles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Vents Bleus",
+    "address": "Le Bourg - Route de Caussade - Donnazac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - 133 Chemin de la Rivière - Milhars",
+    "address": "133 Chemin de la Rivière - Milhars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Route de Cahuzac - Vieux",
+    "address": "Route de Cahuzac - Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cahuzac sur Vère - Camping Le Soleil des Bastides",
+    "address": "Route De Cordes - Cahuzac-sur-Vère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Revéo - RD 922 - Route de Gaillac",
+    "address": "Route de Gaillac - Cahuzac-sur-Vère",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  }
+]

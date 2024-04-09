@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ChargeGuru - Cabinet de dentistes - Audruicq",
+    "address": "211 Rue Carnot - Audruicq",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Audruicq",
+    "address": "1000 Av. des Alliés, - Audruicq",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Greenspot - Audruicq - Carrefour Market",
+    "address": "1000 Avenue des Alliés - Audruicq",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ALDI - Rue du Château d'Eau - Audruicq",
+    "address": "Rue du Château d'Eau - Audruicq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Audruicq",
+    "address": "777 Avenue des allies - Audruicq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Avenue des Alliés - Audruicq",
+    "address": "770 Avenue des Alliés - Audruicq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass Electrique - 2658 Route de Bourbourg - Cappelle-Brouck",
+    "address": "2658 Route de Bourbourg - Cappelle-Brouck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "mediatheque de capelle brouck",
+    "address": "route de bourbourg - Cappelle-Brouck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rossini Energy/Golf_Ruminghem",
+    "address": "1625 Rue Saint-Antoine - Ruminghem",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Bourbourg",
+    "address": "Chem. de la Vieille Colme, - Bourbourg",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

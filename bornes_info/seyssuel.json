@@ -1,0 +1,130 @@
+[
+  {
+    "title": "eborn - Rue du Château Picard - Seyssuel",
+    "address": "Rue du Château Picard - Seyssuel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Domaine des 7 fontaines (Tesla)",
+    "address": "622 Route des 7 Fontaines - Seyssuel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Route de chasse Z.I. du Triangle - Seyssuel",
+    "address": "Route de chasse Z.I. du Triangle - Seyssuel",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW - Seyssuel",
+    "address": "Route de Chasse Zone Industrielle de Seyssuel - Seyssuel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - 35/39 Rue Claude Bernard - Vienne INEXISTANT",
+    "address": "35/39 Rue Claude Bernard - Vienne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial Casino - Chasse-sur-Rhône",
+    "address": "1515 Avenue Frédéric Mistral - Chasse-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Tesla Supercharger V4 - Chasse-sur-Rhône",
+    "address": "1799 Avenue Frédéric Mistral - Chasse-sur-Rhône",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre commercial Chasse-Sud (Tesla and others)",
+    "address": "1515 Avenue Frédéric Mistral - Chasse-sur-Rhône",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Route de Beaucaire - Loire-sur-Rhône",
+    "address": "3 Route de Beaucaire - Loire-sur-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - VW ByMyCar - Saint-Romain-en-Gal",
+    "address": "zone Du, Le Trye, - Saint-Romain-en-Gal",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEGE27 - Rue Max Carpentier - Serquigny",
+    "address": "4 Rue Max Carpentier - Serquigny",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Éléphant Bleu - Beaumont-le-Roger",
+    "address": "13 Route de Bernay - Beaumont-le-Roger",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - RD 613 - Carrefour de Malbrouck - Carsix",
+    "address": "RD 613 - Carrefour de Malbrouck - Carsix",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place Carnot",
+    "address": "21 Boulevard Jean Pothin - Beaumont-le-Roger",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Relais Routier D613",
+    "address": "Malbrouck - Nassandres",
+    "connectors": [
+      "x19",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Salle des fêtes - Brionne",
+    "address": "1 Rue de la Soie - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Parking de la Gare - Brionne",
+    "address": "Rue du Général de Gaulle - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Brionne",
+    "address": "Rue A et J Renoir, Rue du Cimetière, - Brionne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Cuisinella - Picard",
+    "address": "Route de rouen - Menneval",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Menneval",
+    "address": "Route de Rouen - Menneval",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Migros Oron-la-Ville",
+    "address": "2 Route de Lausanne - Oron-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre sportif Oron-la-Ville",
+    "address": "Route de Lausanne - Oron-la-Ville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Swisscharge - Coop - Oron",
+    "address": "31 Route de Lausanne - Oron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking communal Servion",
+    "address": "Chemin du Centre - Servion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route des Cullayes 2",
+    "address": "2 Route des Cullayes - Servion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Garage Brender SA",
+    "address": "Route de Maracon 3\n - Maracon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Servion - 1 Chemin du Zoo",
+    "address": "1 Chemin du Zoo - Servion",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station service Avia Forel",
+    "address": "13 Route de Moudon - Forel (Lavaux)",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NewMotion CH - Jorat-Mézières - 34 Route de Servion",
+    "address": "34 Route de Servion - Jorat-Mézières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - 7 Route de la Croix d'Or - Mézières",
+    "address": "7 Route de la Croix d'Or - Mézières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

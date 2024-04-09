@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Work & Wall (Tesla)",
+    "address": "18 Porte du Grand Lyon - Neyron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Addama (Tesla et autres)",
+    "address": "29 Route du Fort - Neyron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Grand Lyon - Rillieux-la-Pape - 2871 Avenue de l'Europe",
+    "address": "2871 Avenue de l'Europe - Rillieux-la-Pape",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - Rilleux-la-Pape - Avenue de l'Europe",
+    "address": "1511 Chemin de la Teyssonnière - Rillieux-la-Pape",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Castorama - Rillieux-la-Pape",
+    "address": "Rue Louis Blériot - Rillieux-la-Pape",
+    "connectors": [
+      "x23",
+      "x23"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge - Rue Hélène Boucher - Rillieux-la-Pape",
+    "address": "55 Rue Hélène Boucher - Rillieux-la-Pape",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Grand Lyon - Rue Ampère - Rillieux-la-Pape",
+    "address": "54 Rue Ampère - Rillieux-la-Pape",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 3456 Rte de Strasbourg - Rillieux-la-Pape",
+    "address": "3456 Rte de Strasbourg - Rillieux-la-Pape",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 180 Rue Helene Boucher - Rillieux-la-Pape",
+    "address": "180 Rue Helene Boucher - Rillieux-la-Pape",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bouillet Chocolatier - Boutique Atelier",
+    "address": "114 Quai du Rhône - Miribel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

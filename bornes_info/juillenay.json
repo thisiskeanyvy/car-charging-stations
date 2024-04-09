@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Office du tourisme de Saulieu",
+    "address": "20 Rue d'Argentine - Saulieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Le relais Bernard Loiseau - clients uniquement",
+    "address": "8 Rue de l'Ingénieur Jean Bertin - Saulieu",
+    "connectors": [
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bourgogne Chic | Le Domaine des Prés Verts Spa (Tesla and others)",
+    "address": "7 Rue Saute Chien - Mont-Saint-Jean",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Route de Saulieu - Semur-en-Auxois",
+    "address": "Route de Saulieu - Semur-en-Auxois",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SICECO - 11 Rue Jean-Jacques Collenot",
+    "address": "11 Rue Jean-Jacques Collenot - Semur-en-Auxois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Centre Hospitalier - Semur-en-Auxois",
+    "address": "3 Avenue Pasteur - Semur-en-Auxois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Rossini Energy - Saint-Léger-Vauban - La Pierre Qui Viré \tAbbaye de la pierre qui vire",
+    "address": "La Pierre Qui Viré \tAbbaye de la pierre qui vire - Saint-Léger-Vauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A6 Aire du Chien Blanc (direction Beaune)",
+    "address": "A6 - Aire du Chien Blanc - Gissey-le-Vieil",
+    "connectors": [
+      "x2",
+      "x2",
+      "x7",
+      "x5",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Place du General de Candras - 31 Rue des Forges",
+    "address": "Place du General de Candras - Époisses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire des Lochères (direction Auxerre)",
+    "address": "A6 - Eguilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

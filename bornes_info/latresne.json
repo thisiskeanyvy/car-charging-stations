@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - 7 Clos De La Chapelle - Latresne",
+    "address": "7 Clos De La Chapelle - Latresne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Salle des fêtes - Latresne",
+    "address": "2 Rue de la Salargue - Latresne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - 23 CHE D'ARCINS PARC D'ACTIVITE TANESSE 23 - LATRESNE",
+    "address": "23 CHE D'ARCINS PARC D'ACTIVITE TANESSE 23 - LATRESNE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Brit Hotel Bordeaux Arena",
+    "address": "27 Chemin d'Arcins - Latresne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie de Camblanes-et-Meynac",
+    "address": "2 Route de Morillon - Camblanes-et-Meynac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge - Castorama - Villenave-d'Ornon",
+    "address": "1 Rue André Bourvil - Villenave-d'Ornon",
+    "connectors": [
+      "x20",
+      "x21"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hippopotamus - Villenave-d'Ornon",
+    "address": "11 Rue André Bourvil - Villenave-d'Ornon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - CTI Bègles HUB 1 - Rue Denis Papin",
+    "address": "14 rue Denis Papin - Bègles",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x4",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking InterSport Rives d'Arcin",
+    "address": "1 Rue Denis Papin - Bègles",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Carrefour - Bègles",
+    "address": "Les Rives d'Arcins_Centre Commercial Régional - Bègles",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

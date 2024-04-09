@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Clos des Terres Soudées",
+    "address": "25 Rue Saint-Vincent - Vrigny",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A4 - Aire de Vrigny (direction Reims)",
+    "address": "A4 - Vrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A4 - Aire de Gueux (direction Paris)",
+    "address": "A4 - Vrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM 51 - Place des Lacs - Gueux",
+    "address": "5 Place des Lacs - Gueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Sacy (Tesla and others)",
+    "address": "Rue des Croisettes - Sacy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambre d'hotes 1 Rue des Prés Lieux",
+    "address": "1 Rue des Prés Lieux - Rosnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Repplus S.A.S.",
+    "address": "1 Rue Constant Dugras - Rosnay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Complexe sportif - Route de Trigny - Muizon",
+    "address": "2 Route de Trigny - Muizon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Rue Saint-Laurent - Ville-en-Tardenois",
+    "address": "4 Rue Saint-Laurent - Ville-en-Tardenois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Champea Shopping Center",
+    "address": "D75 - Champigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

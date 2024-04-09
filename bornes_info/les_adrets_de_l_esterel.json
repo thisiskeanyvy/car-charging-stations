@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking du Pré - Les Adrets-de-l'Estérel",
+    "address": "42 Place de la Mairie - Les Adrets-de-l'Estérel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A8 Aire de l'Estérel",
+    "address": "A8 AIX EN PROVENCE Italie - FREJUS",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x15",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Car2Plug (Clicsysteme SAS) - Montauroux - 800 Chemin du Gabinet",
+    "address": "800 Chemin du Gabinet - Montauroux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BASTIDE DE L'OVALIE",
+    "address": "98 Impasse des Tubières - Bagnols-en-Forêt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Novotel Saint-Raphaël Valescure",
+    "address": "805 Boulevard Darby - Saint-Raphaël",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Communauté du pays de Fayence - Collège de Montauroux",
+    "address": "Avenue de Provence - Montauroux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Sandaya Douce Quiétude - Saint-Raphaël",
+    "address": "53 Impasse Des Althaeas - Saint-Raphaël",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - BMW (JPV) - Rue Hubert Masquefa - Fréjus",
+    "address": "Rue Hubert Masquefa - Fréjus",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - Toyota - Fréjus",
+    "address": "36 Rue Hubert Masquefa - Fréjus",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - KIA - Fréjus",
+    "address": "ZAC du Capitou - Fréjus",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

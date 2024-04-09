@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Maison Groleau",
+    "address": "49 Groleau-Ouest - Mombrier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie - Saint-Christoly-de-Blaye",
+    "address": "Le Bourg - Saint-Christoly-de-Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Savin - Place de la libération",
+    "address": "Place de la Libération  - Saint-Savin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Clos Marcamps (Tesla)",
+    "address": "2 Chemin des Carrières - Prignac-et-Marcamps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place de l'arc - Bourg sur Gironde",
+    "address": "10 Rue du Château Vieux - Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Ateliers municipaux - Cubnezais",
+    "address": "4-6 Rue de l'Abreuvoir - Cubnezais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "tutiac",
+    "address": "5 Rue des Vignerons - Saint-Laurent-d'Arce",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue du Collège Saint-Yzan-de-Soudiac",
+    "address": "1 1 Rue du Collège - Saint-Yzan-de-Soudiac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EDF AMT SO",
+    "address": "50 Rue Saint-Exupéry - Ambès",
+    "connectors": [
+      "x4",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Services techniques municipaux - Ambès",
+    "address": "Place du 11 Novembre - Ambès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

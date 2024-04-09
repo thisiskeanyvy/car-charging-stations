@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Place du Champ de foire - Mouthiers-sur-Boëme",
+    "address": "Place du Champ de Foire - Mouthiers-sur-Boëme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEG16 - Rue de Torsac - Vœuil-et-Giget",
+    "address": "Rue de Torsac - Vœuil-et-Giget",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Domaine de Roullet - Roullet-Saint-Estèphe",
+    "address": "16 Route de Mouthiers - Roullet-Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - La Couronne - Auchan",
+    "address": "Route de Bordeaux - La Couronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Angoulème",
+    "address": "Unnamed Road - La Couronne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Norauto - Angoulême",
+    "address": "Av. Itzehoe - La Couronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Puymoyen - FFF Nouvelle-Aquitaine",
+    "address": "102 Rue d'Angoulême - Puymoyen",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMile Solutions - AUTO SERVICE PLUS - Saint Michel",
+    "address": "2 Chemin du Grand Girac - Saint Michel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ESATEC  - Puymoyen",
+    "address": "155 Zone Artisanale des Brandeaux - Puymoyen",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Cave",
+    "address": "454 Avenue de Navarre - Angoulême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

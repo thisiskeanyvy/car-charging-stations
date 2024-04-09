@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE53 - Rue de Saint-Cenere Montsûrs",
+    "address": "126-316 Rue de Saint-Cenere - Montsûrs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 2 Impasse Emile Salle - Montsûrs",
+    "address": "2 Impasse Emile Salle - Montsûrs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - Impasse du Chaintre - Montsûrs",
+    "address": "Impasse du Chaintre - Montsûrs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Chemin des Marzelles",
+    "address": "2 Chemin des Marzelles - Argentré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Laval | Aire de Laval la Mayenne",
+    "address": "A81 - Laval",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de la Fontaine Saint-Georges, 2B - Martigné-sur-Mayenne",
+    "address": "2B Rue de la Fontaine Saint-Georges - Martigné-sur-Mayenne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Evron",
+    "address": "16 Impasse Mélusine - Évron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Evron",
+    "address": "2 route de Néau - Évron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A81 - Aire de la Mayenne (double sens)",
+    "address": "A81 - Bonchamp-lès-Laval",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE53 - Place de la Basilique - Évron",
+    "address": "15 Place de la Basilique - Évron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

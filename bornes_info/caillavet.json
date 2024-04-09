@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Beaugrenelle P2 Panoramic",
+    "address": "71 Quai de Grenelle - Paris",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking P1 Centre Commercial Beaugrenelle",
+    "address": "5 Quai André Citroën - Paris",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 4 Rue Beaugrenelle - Paris",
+    "address": "4 Rue Beaugrenelle - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clem' - Paris 37 - Beaugrenelle",
+    "address": "54 Rue Héricart - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 65 Avenue Emile-Zola - Paris",
+    "address": "65 Avenue Emile-Zola - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Indigo - Avenue du Président Kennedy",
+    "address": "116 Avenue du Président Kennedy - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 18 avenue Emile Zola 75015 Paris",
+    "address": "18 Avenue Emile Zola - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "UBEEQO - 6 avenue Emile Zola Paris",
+    "address": "6 avenue Emile Zola - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 77-81 Rue de Lourmel - Paris",
+    "address": "77-81 Rue de Lourmel - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ubeeqo - 10 Rue du Ranelagh - Paris",
+    "address": "10 Rue du Ranelagh - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Sigeif - parking des Acacias - Marcoussis",
+    "address": "4 Rue des Acacias - Marcoussis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif- Place de la République - Marcoussis",
+    "address": "2 Place de la République - Marcoussis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 5 rue Finot - Marcoussis",
+    "address": "5 Rue Finot - Marcoussis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay - Nozay-médiathèque",
+    "address": "1 Rue du Gros Chêne - Nozay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Paris-Saclay - Nozay - centre culturel R. Hossein",
+    "address": "27 Rue des Pylandries - Nozay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue du Clos Bouquet - Montlhéry",
+    "address": "14 Rue du Clos Bouquet - Montlhéry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Fief de Plainville - Linas",
+    "address": "7 Rue Fief de Plainville - Linas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Château d'Eau - Linas",
+    "address": "134 Rue de la Division Leclerc - Linas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IBis Hôtel - Route d'Orléans - Montlhéry",
+    "address": "64 Route d'Orléans - Montlhéry",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Blanche de Castille - Montlhéry",
+    "address": "1 Rue Blanche de Castille - Montlhéry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

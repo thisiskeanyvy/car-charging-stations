@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SIEG 63 - Rue aux Chevrils - Aigueperse",
+    "address": "24 Rue aux Chevrils - Aigueperse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEG 63 - Place de l'Europe",
+    "address": "Place de l'Europe - Combronde",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Total Energie - A71 - Aire des Volcans d'Auvergne (direction Paris)",
+    "address": "AIRE DES VOLCANS D AUVERGNE - SAINT AGOULIN",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eoliberty - Combronde - Intermarché",
+    "address": "131 Avenue Etienne Clémentel - Combronde",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - EHPAD les Orchis - Combronde",
+    "address": "3 Rue De La Barre - Combronde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A71 Aire des Volcans d'Auvergne Ouest (direction Clermont)",
+    "address": "Aire des volcans d'auvergne - Champs",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x13"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Intermarché - Gannat",
+    "address": "18 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Mc Donald's - Gannat",
+    "address": "20 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aldi - Gannat",
+    "address": "2 Avenue des Portes Occitanes - Gannat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Chemin des Peyrouses 2 - Surat",
+    "address": "Chemin des Peyrouses 2 - Surat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

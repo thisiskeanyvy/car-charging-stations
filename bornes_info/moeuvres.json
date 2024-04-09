@@ -1,0 +1,140 @@
+[
+  {
+    "title": "TotalEnergies - A2 Aire de Graincourt (direction Paris)",
+    "address": "A2 - PARIS BRUXELLES - HAVRINCOURT",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A2 - Aire de Havrincourt (direction Cambrai)",
+    "address": "A2 - Havrincourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A2 Aire d'Havrincourt (direction Cambrai)",
+    "address": "Relais de Havrincourt - Havrincourt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Rue Saint Georges - Baralle",
+    "address": "Rue Saint Georges - Baralle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/Peugeot_Baralle",
+    "address": "9 Rue Saint-Georges - Baralle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A26 - Aire de Baralle (direction Reims)",
+    "address": "A26 - Baralle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - A26 Aire de Rumaucourt (direction Arras)",
+    "address": "A26 - Rumaucourt",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc des marlettes - Rue du Stade - Sailly-lez-Cambrai",
+    "address": "5 Rue du Stade - Sailly-lez-Cambrai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone Actipôle de l'A2",
+    "address": "1533 Route d'Arras - Raillencourt-Sainte-Olle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 2 Avenue des Deux Vallées - Raillencourt-Sainte-Olle",
+    "address": "2 Avenue des Deux Vallées - Raillencourt-Sainte-Olle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

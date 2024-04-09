@@ -1,0 +1,128 @@
+[
+  {
+    "title": "34 Boulevard Pierre Mendès France",
+    "address": "34 Boulevard Pierre Mendès France - Mons-en-Barœul",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rollin - Mons en Baroeul",
+    "address": "34 Rue Rollin - Mons-en-Barœul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Partage Ma Borne - Marcq-en-Barœul - 393 Rue du Général de Gaulle",
+    "address": "393 Rue du Général de Gaulle - Marcq-en-Barœul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Mons-en-Baroeul - Hôtel Kyriad",
+    "address": "56 avenue Léon Blum - Mons-en-Baroeul",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan PGA - Villeneuve-d'Ascq DOUBLON",
+    "address": "21 Rue du Haut de la Cruppe - Villeneuve-d'Ascq",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Rue du Haut de la Cruppe - Villeneuve-d'Ascq",
+    "address": "21 Rue du Haut de la Cruppe - Villeneuve-d'Ascq",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BMW Lille - Autolille",
+    "address": "16 Rue du Haut de la Cruppe - Villeneuve-d'Ascq",
+    "connectors": [
+      "x2",
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Mons-en-Baroeul",
+    "address": "Rue Franklin - Mons-en-Barœul",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electra - Mons-en-Baroeul - Hôtel F1",
+    "address": "Avenue de la Sablière - Mons-en-Baroeul",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MINI Store Lille - Bayern by Autosphere",
+    "address": "16 Rue du Haut de la Cruppe - Villeneuve D'Ascq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

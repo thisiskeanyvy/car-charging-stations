@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SYDER - Rue des Varennes - Chazay-d'Azergues",
+    "address": "9 Rue des Varennes - Chazay-d'Azergues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Parking scolaire Marcilly",
+    "address": "303 Route de Neuville - Marcilly-d'Azergues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDER - Salle des sports - Civrieux d'Azergues",
+    "address": "300 Route de Marcilly - Civrieux-d'Azergues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDER - Rue de la Mairie - Civrieux-d'Azergues",
+    "address": "265 Rue de la Mairie - Civrieux-d'Azergues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Eglise Morancé",
+    "address": "35 Chemin de la Poyat - Morancé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ACOEM -Route de Marcilly (Privé)",
+    "address": "Route de Marcilly - Lissieu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon | Lissieu | Centre-Bourg",
+    "address": "Rue des Tours - Lissieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking B Hotel",
+    "address": "37 Rue de l entreprise - Lozanne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de la Poste - Les Chères",
+    "address": "1 Rue de la Poste - Les Chères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bar la baraque",
+    "address": "37 Rue de l'Entreprise - Lozanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

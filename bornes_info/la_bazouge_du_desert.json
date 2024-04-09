@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE53 - Le Bourg - Pontmain",
+    "address": "Le Bourg - Pontmain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Mairie de Louvigné-du-Désert",
+    "address": "Place De La Mairie - Louvigné-du-Désert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault Garage police",
+    "address": "3 Zone d'activité la Rouletière - Louvigné-du-Désert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Maison Felger",
+    "address": "4 rue Campello - Parigné",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambre d'hôtes \"Pierre-Feuille-Ciseaux\"",
+    "address": "La Janaie - Parigné",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place du Général de Gaulle, 6 - Fougerolles-du-Plessis",
+    "address": "6 Route de la Dorée - Fougerolles-du-Plessis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place de la Mairie - Montaudin",
+    "address": "Place de la Mairie - Montaudin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Volkswagen - Fougeres",
+    "address": "16 Boulevard Groslay - Fougeres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Ouest Charge - Rue de la forêt - Fougères",
+    "address": "Rue de la forêt - Fougères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Place des Marchés de Bretagne - Lécousse",
+    "address": "Place des Marchés de Bretagne - Lécousse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

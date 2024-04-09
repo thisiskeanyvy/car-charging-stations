@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SE60 - Andeville",
+    "address": "1 Rue Meurge - Andeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel de la Tabletterie",
+    "address": "51 bis Rue Roger Salengro - Méru",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - Rue Roger Salengro, 51 - Méru",
+    "address": "51 Rue Roger Salengro - Méru",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mouv’Oise - 64 Rue de Méru - Laboissière en Thelle",
+    "address": "64 Rue de Méru - Laboissière en Thelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'Oise - 1bis Rue de la Bienfaisance - Méru",
+    "address": "Rue Charles Boudeville - Méru",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mouv' Oise - Sainte Geneviève",
+    "address": "75 Route Nationale 1 - Sainte-Geneviève",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Super U - Sainte-Geneviève",
+    "address": "116 Route Nationale 1 - Sainte-Geneviève",
+    "connectors": [
+      "x9",
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Auchan - Méru",
+    "address": "Rue Marcel Coquet - Méru",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Faurecia - 8 Rue Emile Zola - Méru (Privé)",
+    "address": "8 Rue Emile Zola - Méru",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A16 Aire de Lormaison Est (direction Beauvais)",
+    "address": "Rue de la Reine Blanche - Lormaison",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE07 - Rue de l'Ancien Hospice Chomérac",
+    "address": "135 Rue de l'Ancien Hospice - Chomérac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - D86-1123 Le Pouzin",
+    "address": "1123 D86 - Le Pouzin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE07 - Place de la Mairie - Alissas",
+    "address": "Chier Blanc - Alissas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE07 (e-born) - D104 - Coux",
+    "address": "D104 - Coux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U Alissas - Clé du Sac",
+    "address": "Clé du Sac - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ChargePoint network - Chemin de Chamaras - Privas",
+    "address": "Chemin de Chamaras - Privas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Privas",
+    "address": "ZI du Lac, Route de Chamaras - Privas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Avenue de Provence Saulce-sur-Rhône",
+    "address": "1 Avenue de Provence - Saulce-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 (E-born) - Place René Cassin - Cruas",
+    "address": "Place René Cassin - Cruas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Chemin du camping - Privas",
+    "address": "Chemin du camping - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

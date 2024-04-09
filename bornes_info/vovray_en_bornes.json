@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Domaine Chateau des Avenieres - Cruseilles",
+    "address": "450 Rte Du Chateau - Cruseilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE - Beaumont - Grand Rue",
+    "address": "95 Grand Rue - Beaumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Saint-Blaise - 131 Route d'Annecy",
+    "address": "131 Route d'Annecy 74350 Saint-Blaise\r\n - Saint-Blaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYANE - Route d'Annecy - Cruseilles",
+    "address": "43-75 Route d'Annecy - Cruseilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Carrefour Market - Cruseilles",
+    "address": "629 Route d'Annecy - Cruseilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Chemin des Ruttets",
+    "address": "Chemin des Ruttets - Andilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Parking la Groisilienne - Groisy",
+    "address": "914 Rue de Boisy - Groisy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syane - Mairie - Neydens",
+    "address": "60 Chemin Neuf - Neydens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "FASTNED - A410 Aire de Groisy (direction Allonzier-la-Caille)",
+    "address": "A410 - Aire de Groisy - Groisy",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CNR - Route des Envignes Neydens",
+    "address": "Route des Envignes - Neydens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "e-born - Rue du 19 mars 1962 - Crémieu",
+    "address": "Rue du 19 Mars 1962 - Crémieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEDI - Trept",
+    "address": "13 Grande Rue - Trept",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEDI - Place du 8 Mai 1945 - Leyrieu",
+    "address": "Place du 8 Mai 1945 - Leyrieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ABS INFORMATIQUE - Soleymieu",
+    "address": "5 Place de Lancienne Gare - Soleymieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking rue des Violettes Saint-Romain-de-Jalionas",
+    "address": "10 Rue des Violettes - Saint-Romain-de-Jalionas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Tignieu-Jameyzieu",
+    "address": "111 Route de Crémieu - Tignieu-Jameyzieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Veille Citoyenne BRD, Hôtel de Ville - Place De La Mairie - Tignieu-Jameyzieu",
+    "address": "Place De La Mairie - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E2M électricité",
+    "address": "103 ZA DE LANCIN - Courtenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Tignieu Jameyzieu",
+    "address": "48 Route de Crémieu - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Tignieu-Jameyzieu - Leclerc",
+    "address": "37 Rue du Dauphiné - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

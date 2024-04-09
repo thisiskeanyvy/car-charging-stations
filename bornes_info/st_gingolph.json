@@ -1,0 +1,136 @@
+[
+  {
+    "title": "e-born - Quai André Chevallay - Saint-Gingolph",
+    "address": "1 Quai André Chevallay - Saint-Gingolph",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking de la Gare Le Bouveret",
+    "address": "6 Chemin du Vieux Port - Le Bouveret",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Performances-Cars-Suisse",
+    "address": "30 Route du Remonfin - Port-Valais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Migros - Le Bouveret",
+    "address": "En Bellossy - Port-Valais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Route du Fort à Culet - Bouveret Privé",
+    "address": "73 Route du Fort à Culet - Bouveret",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sherpa - Thollon-les-Mémises",
+    "address": "38 D24 - Thollon-les-Mémises",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Nestlé Suisse",
+    "address": "54 Route de Saint-Maurice - La Tour-de-Peilz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking hotel bon rivage",
+    "address": "18 Route de Saint-Maurice - La Tour-de-Peilz",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - 5 Grand-Rue - La Tour-de-Peilz",
+    "address": "5 Grand-Rue - La Tour-de-Peilz",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Green Motion - Parking des Remparts",
+    "address": "7 Place des Anciens-Fossés - La Tour-de-Peilz",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

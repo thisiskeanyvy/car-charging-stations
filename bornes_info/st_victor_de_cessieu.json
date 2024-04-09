@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SEDI - Passage des Papeteries - Saint-Victor-de-Cessieu",
+    "address": "60 Passage des Papeteries - Saint-Victor-de-Cessieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "VAIRAI TP - Saint-Victor-de-Cessieu",
+    "address": "1126 Route de Doissin - Saint-Victor-de-Cessieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 1320 Route de Doissin - Saint-Victor-de-Cessieu",
+    "address": "1320 Route de Doissin - Saint-Victor-de-Cessieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'entrepot du Bricolage",
+    "address": "21 Rue Pierre Dupont - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - La tour du Pin",
+    "address": "813 Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Jean-de-Soudain",
+    "address": "Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Jean-de-Soudain - Route de Lyon",
+    "address": "678 Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Chemin de l'Étang - Sainte-Blandine",
+    "address": "11-27 Chemin de l'Étang - Sainte-Blandine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - St jean de soudain - Restaurant le Saint Jean",
+    "address": "Chemin du Chapon - St jean de soudain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEDI - Square Du 19 Mars 1962 - Rochetoirin",
+    "address": "10 Route du Village - Rochetoirin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "HOPITAL FORCILLES PARKING OCEAN",
+    "address": "Lieu-dit Forcilles - Férolles-Attilly",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Lésigny - 2 Rue du Petit Parc",
+    "address": "2 Rue du Petit Parc - Lésigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Brie-Comte-Robert - Hyper U",
+    "address": "12 Rue Gustave Eiffel - Brie-Comte-Robert",
+    "connectors": [
+      "x1",
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - Brie-Comte-Robert - Hôtel Kyriad",
+    "address": "Rue Gustave Eiffel Hôtel Kyriad - Zone de la Haie Passart - Brie-Comte-Robert",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Express - Brie-Comte-Robert - Norauto",
+    "address": "Rue Gustave Eiffel ZA de la Haie Passart - Brie-Comte-Robert",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Marché Frais Géant - Servon",
+    "address": "9 chemin du marquis - Servon",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Servon - Allée du Noyer aux Perdrix",
+    "address": "Allée du Noyer aux Perdrix - Servon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nature O - Servon",
+    "address": "6 Rue Georges Truffaut - Servon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Ancienne Gare",
+    "address": "35 Rue de l'Industrie - Brie-Comte-Robert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Allego - Servon - N19 Avenue Pierre Guérin",
+    "address": "Route Nationale, Av. Pierre Guérin - Servon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

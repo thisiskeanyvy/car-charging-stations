@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE07 - Chemin d'Argevillières (Privé)",
+    "address": "283 Chemin d'Argevillières - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-born/Saint-Priest/Place Des Mineurs/79",
+    "address": "79 Place Des Mineurs - Saint-Priest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Place du Foiral Privas",
+    "address": "7-9 Place du Foiral - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Passage de la Place des Bœufs - Privas",
+    "address": "9 Cours Saint-Louis - Privas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Virta - Chemin du camping - Privas",
+    "address": "Chemin du camping - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue de l'Europe Unie - Privas",
+    "address": "Avenue de l'Europe Unie - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE07 - Place du Champ de Mars Privas",
+    "address": "Avenue Paul Riou - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Privas",
+    "address": "ZI du Lac, Route de Chamaras - Privas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - Chemin de Chamaras - Privas",
+    "address": "Chemin de Chamaras - Privas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U Alissas - Clé du Sac",
+    "address": "Clé du Sac - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

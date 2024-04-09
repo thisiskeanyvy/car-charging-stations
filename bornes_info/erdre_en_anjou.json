@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEML - Vern D'anjou - Place Des Halles",
+    "address": "Rue du Commerce - Vern-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - La Poueze - Place De L'union",
+    "address": "Place de l'Union - La Pouëze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "JM AUTOMOBILES - LE LION D ANGERS",
+    "address": "Les Chaussees - LE LION D ANGERS",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Segré-en-Anjou Bleu",
+    "address": "23bis Route de Segré - Segré-en-Anjou Bleu",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue Aristide Briand - Le Lion-d'Angers",
+    "address": "4 Place Gustave Trouvé - Grez-Neuville",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Le Louroux Beconnais - Rue Noel Pinot",
+    "address": "Rue Noël Pinot - Le Louroux-Béconnais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Le Louroux Beconnais",
+    "address": "36 Rue d'Angers - Val d'Erdre-Auxence",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Properphi - Val d'Erdre-Auxence - Garage Rongere",
+    "address": "11 Rue d'Angers - Val d'Erdre-Auxence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - LE LION D'ANGERS - Place Champ de Foire",
+    "address": "Place du Champ de Foire - Le Lion-d'Angers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - 1 Rue du Lionnais - Grez-Neuville",
+    "address": "1 Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

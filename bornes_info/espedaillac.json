@@ -1,0 +1,146 @@
+[
+  {
+    "title": "FDEL - D653 Livernon",
+    "address": "D653 - Livernon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MAS DEL LUM",
+    "address": "705 route de reyrevignes - Boussac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - ZI Quercypôle Pépinière d'Entreprise - Cambes",
+    "address": "ZI Quercypôle Pépinière d'Entreprise - Cambes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Route de Cahors - GRAMAT",
+    "address": "Route de Cahors - GRAMAT",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Rue des Remparts, 5258F - Lacapelle-Marival",
+    "address": "5258F Rue des Remparts - Lacapelle-Marival",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Contact - Labastide-Murat",
+    "address": "11 route de gramat - Labastide-Murat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Avenue du 8 Mai 1945 - Gramat",
+    "address": "Avenue du 8 Mai 1945 - Gramat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "FDEL - Place de la Mairie - Labastide-Murat",
+    "address": "Place de la Mairie - Cœur-de-Causse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FASTNED - A20 - Aire Jardin des Causses du Lot (Double sens)",
+    "address": "A20 - Cœur de Causse",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Gramat",
+    "address": "Chemin de Riounet - Gramat",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

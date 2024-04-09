@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Vinci - Rue du Mail - Savigny-sur-Orge",
+    "address": "2 Rue du Mail - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Vinci - Avenue du Bellay - Viry-Châtillon",
+    "address": "Avenue du Bellay - Viry-Châtillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "3 Avenue du Bellay",
+    "address": "3 Avenue du Bellay - Viry-Châtillon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Avenue Charles de Gaulle - Savigny-sur-Orge",
+    "address": "63 Avenue Charles de Gaulle - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SMOYS - Rue Henri Barbusse - Savigny Sur Orge",
+    "address": "24 Rue Henri Barbusse - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Rue Henri Dunant - Savigny-sur-Orge",
+    "address": "33 Rue Henri Dunant - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMOYS - Place du 19 Mars 1962 - Savigny-sur-Orge",
+    "address": "Place du 19 Mars 1962 - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - 2 Avenue de Gondrecourt",
+    "address": "2 Avenue de Gondrecourt - Viry-Châtillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Place Ferdinand Buisson - Morsang-sur-Orge",
+    "address": "8 Place Ferdinand Buisson - Morsang-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Morsang-sur-Orge",
+    "address": "Rue Jean Pierre Timbaud - Morsang-sur-Orge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

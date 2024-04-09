@@ -1,0 +1,120 @@
+[
+  {
+    "title": "MObiVE - ZAC - Laroque-Timbaut",
+    "address": "Place de L'Hôtel de Ville - Laroque-Timbaut",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gary - Laroque-Timbaut",
+    "address": "4 Rue du 19 Mars 1962 - Laroque-Timbaut",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue des Pyrénées 1230 - LA CROIX BLANCHE",
+    "address": "Avenue des Pyrénées 1230 - LA CROIX BLANCHE",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Route De Ferrié - Penne-d'Agenais",
+    "address": "198 Route De Ferrié - Penne-d'Agenais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Hôtel Campanile - Pujols",
+    "address": "50 Route de Lalande - Pujols",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Territoire d'Energie Lot-et-Garonne - Pujols - 36 Rue Louis Dajan",
+    "address": "36 Rue Louis Dajan - Pujols",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Capitainerie - Rue Bergantine",
+    "address": "Rue Bergantine - Penne-d'Agenais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6608185",
+    "address": "8 Rue Paul Langevin - Villeneuve-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Avenue Jean Moulin Saint-Sylvestre-sur-Lot",
+    "address": "12 Avenue Jean Moulin - Saint-Sylvestre-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Avenue de Saint-Antoine, 1 - Pujols",
+    "address": "1 Avenue de Saint-Antoine - Pujols",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

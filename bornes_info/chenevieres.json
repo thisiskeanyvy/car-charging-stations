@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Sigeif - 6 Avenue du Maréchal Leclerc - Chennevières-sur-Marne",
+    "address": "6 Avenue du Maréchal Leclerc - Chennevières-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - rue du Général De Gaulle - Chennevières-sur-Marne",
+    "address": "1 Rue du Général de Gaulle - Chennevières-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - 12 Rue des Fusillé de Chateaubriand - Chennevières-sur-Marne",
+    "address": "12 Rue des Fusillé de Chateaubriand - Chennevières-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 19 Place Mon Idée - Chennevières-sur-Marne",
+    "address": "121\r\n Rue Aristide Briand\r\n - Chennevières-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Z.I. les Bordes (Réservé aux employés)",
+    "address": "34 Rue Gay-Lussac - Chennevières-sur-Marne",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Chennevières",
+    "address": "Route de la Libération - Chennevières-sur-Marne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Route du Plessis-Trévise - Chennevières-sur-Marne",
+    "address": "13 Route du Plessis - Chennevières-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo Park - Saint-Maur-des-Fossés - 2 Avenue Marie Louise",
+    "address": "2 Avenue Marie Louise - Saint-Maur-des-Fossés",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAINT-MAUR-DES-FOSSÉS - Jardin des Facultés",
+    "address": "36 Rue Benjamin Franklin - Saint-Maur-des-Fossés",
+    "connectors": [
+      "x25",
+      "x25"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 35 Rue Gay Lussac - Chennevières-sur-Marne",
+    "address": "35 Rue Gay Lussac - Chennevières-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

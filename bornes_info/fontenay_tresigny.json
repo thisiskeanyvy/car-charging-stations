@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Fontenay-Trésigny - Rue d'Orly",
+    "address": "Rue d'Orly - Fontenay-Trésigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Fontenay-Trésigny - Avenue Pierre de Coubertin",
+    "address": "Avenue Pierre de Coubertin - Fontenay-Trésigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Fontenay-Trésigny - Rue Bertaux 114",
+    "address": "114 Rue Bertaux - Fontenay-Trésigny",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Fontenay-Trésigny",
+    "address": "7 Rue Margueritte Perey - Fontenay-Tresigny",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FR*IKA - Châtres - Avenue Louis Renault",
+    "address": "Avenue Louis Renault - Châtres",
+    "connectors": [
+      "x12",
+      "x12",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA Gare de Marles-en-Brie",
+    "address": "Chemin de fer - Marles-en-Brie",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Fontenay-Trésigny - Chemin D'écoublay",
+    "address": "Chemin D'écoublay - Fontenay-Trésigny",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sarreguemines - ZAC du Val Bréon - Châtres",
+    "address": "ZAC du Val Bréon - Châtres",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Dumont - Chaumes en brie",
+    "address": "7 Rue Dumont - Chaumes-en-Brie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Mairie de La Houssaye-en-Brie",
+    "address": "38 Place du Maréchal Augereau - La Houssaye-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Freshmile - Place Raoul Briquet - Givenchy-en-Gohelle",
+    "address": "Place Raoul Briquet - Givenchy-en-Gohelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A26 Aire d'Angres (direction Calais)",
+    "address": "A26 - REIMS CALAIS - ANGRES",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A26 Aire de Souchez (direction Arras)",
+    "address": "A26 - AIRE DE SOUCHEZ - SOUCHEZ",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Chargepoint - Skoda - Avion",
+    "address": "267 Boulevard Henri Martel - Avion",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Arthur Lamendin - Liévin",
+    "address": "Avenue Arthur Lamendin - Liévin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Liévin",
+    "address": "33 Rue Henri Martin - Liévin",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Liévin",
+    "address": "Boulevard du Maréchal Leclerc de Hauteclocque - Liévin",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto - Liévin",
+    "address": "8 Rond-Point De l'Europe - Liévin",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Liévin",
+    "address": "2 Rue de la Convention - Liévin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA LIEVIN",
+    "address": "2 Rue de l'Abregain - Liévin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

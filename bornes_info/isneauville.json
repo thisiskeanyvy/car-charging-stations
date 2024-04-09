@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Powerdot - Intermarché - Isneauville",
+    "address": "74 Route de Dieppe - Isneauville",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Ibis Budget - Isneauville",
+    "address": "140 Rue du Mont Perreux - Isneauville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "509 Route de Neufchâtel",
+    "address": "509 Route de Neufchâtel - Isneauville",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Route de Neufchâtel - Isneauville",
+    "address": "509 Route de Neufchâtel - Isneauville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "CEPPIC Formation - Centre de formation continue",
+    "address": "112 Rue de la Ronce - Isneauville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Artemys Normandie (employés uniquement)",
+    "address": "112 Rue de la Ronce - Isneauville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AXA - Rue de la Ronce Isneauville (privé)",
+    "address": "218 Rue de la Ronce - Isneauville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bulle de linge - Rue Édouard Delamare Deboutteville - Saint-Martin-du-Vivier",
+    "address": "232 Rue Édouard Delamare Deboutteville - Saint-Martin-du-Vivier",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Saint Martin du Vivier - 280 Rue Édouard Delamare Deboutteville",
+    "address": "280 Rue Édouard Delamare Deboutteville - Saint Martin du Vivier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Route des Sources - Fontaine-sous-Préaux",
+    "address": "Route des Sources - Fontaine-sous-Préaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

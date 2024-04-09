@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Les Rues - Torcé INEXISTANT",
+    "address": "Les Rues - Torcé",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place Caron de la Carrière - Domagné",
+    "address": "Place Caron de la Carrière - Domagné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions - Châteaubourg - Super U",
+    "address": "Avenue de la Bretonnière - Châteaubourg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Freshmile - Domagné - Za De La Fontenelle",
+    "address": "Za De La Fontenelle - Domagné",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Châteaubourg - Square Jean XXIII",
+    "address": "Square Jean XXIII - Châteaubourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Le Ronsseloux - Vitré",
+    "address": "0 Le Ronsseloux - Vitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Rue du Fougeray - Vitré",
+    "address": "2 Rue du Fougeray - Vitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "3M Le Bon Pain e-station",
+    "address": "9 Rue du Fougeray - Vitré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Bt blue - Rue Blaise Pascal",
+    "address": "30 Rue Blaise Pascal - Châteaubourg",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue des Acacias - Bais",
+    "address": "Rue des Acacias - Bais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

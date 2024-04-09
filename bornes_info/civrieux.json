@@ -1,0 +1,138 @@
+[
+  {
+    "title": "RSE - 30 Rue du Château",
+    "address": "30 Rue du Château - Civrieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le relais du Grand Logis",
+    "address": "- Civrieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des ecoles",
+    "address": "Rue du Vieux Chêne - Saint-Jean-de-Thurigneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A46 - Aire de Mionnay (Direction Mâcon)",
+    "address": "E15 Rocade Est - Mionnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A46 Aire de Saint-Galmier (direction Lyon)",
+    "address": "E15 / A46 - Mionnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mionnay - 107 Rue Principale",
+    "address": "107 Rue Principale - Mionnay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue des Maures - Montanay",
+    "address": "Rue des Maures - Montanay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "D88 - La Grande Farjonnière",
+    "address": "116 La Grande Farjonnière - Rancé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - 142 Avenue Lavoisier - Massieux",
+    "address": "142 Avenue Lavoisier - Massieux",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking chemin du port Bernalin - Reyrieux",
+    "address": "274 Chemin du Port Bernalin - Reyrieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

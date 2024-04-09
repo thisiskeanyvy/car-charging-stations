@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Restaurant Lamartine (Porsche)",
+    "address": "RN 504 - Route du Tunnel du Chat - Bourdeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Atmosphères - Le Bourget-du-Lac",
+    "address": "618 Route des Tournelles - Le Bourget-du-Lac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel ADELPHIA (Tesla et autres)",
+    "address": "215 Boulevard robert barrier - Aix les bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Cars",
+    "address": "5 Rue des Goélands - Aix-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Petit port (restaurant l'Aquarium) - Boulevard Robert Barrier - Aix-les-Bains",
+    "address": "200 Avenue du Petit Port - Aix-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour Market - Yenne",
+    "address": "615 Route de Chambéry, - Yenne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CNR - Avenue Daniel Rops Aix-les-Bains",
+    "address": "22 Avenue Daniel Rops - Aix-les-Bains",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Boulevard du Lac - Le Bourget-du-Lac",
+    "address": "174 Boulevard du Lac - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Les Suites du Lac (Porsche)",
+    "address": "84 Rte De Saint Innocent - Aix-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 (Eborn) - Le Bourget du Lac - Rue du Vert Village",
+    "address": "2 Rue du Vert Village - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

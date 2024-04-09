@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDESM - Allée André Benoist - Claye Souilly",
+    "address": "14 Allée André Benoist - Claye-Souilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Claye-Souilly - Rue Jean Jaurès",
+    "address": "Rue Jean Jaurès - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Claye-Souilly - 25 Rue Alexandre Chatrian",
+    "address": "25 Rue Alexandre Chatrian - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - 3 Rue Alexandre Chatrian - Claye-Souilly",
+    "address": "3 Rue Alexandre Chatrian - Claye-Souilly",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Claye Souilly",
+    "address": "10 Rue Ernest Saron - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Castorama - Claye-Souilly",
+    "address": "Rue jean monnet ZAC des sablons - Claye-Souilly",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Boulanger - Claye-Souilly",
+    "address": "20 Rue Jean Monnet - Claye-Souilly",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - Claye-Souilly - 26 Rue de la Biberonne",
+    "address": "26 Rue de la Biberonne - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Claye-Souilly | Rue Jean Monnet",
+    "address": "Rue Jean Monnet - Claye-Souilly",
+    "connectors": [
+      "x17",
+      "x1",
+      "x17"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Claye Souillly",
+    "address": "1 Rue Robert Schumann - Claye-Souilly",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

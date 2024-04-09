@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Syaden - Office de Tourisme - Leucate village",
+    "address": "1B Place Pierre Gonzales - Leucate",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "WAAT - 149 Avenue Malagaito - Leucate INEXISTANT",
+    "address": "149 Avenue Malagaito - Leucate",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Fun - Croix du Bayle - Fitou",
+    "address": "224 Croix du Bayle - Fitou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue des Tamarins la Franqui - Leucate",
+    "address": "21B Avenue du Languedoc la Franqui - Leucate",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Fitou - Spar",
+    "address": "29 Av. des Corbières - Fitou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Rue de l'Eguille, 3 - Caves",
+    "address": "3 Traverse du Tilleul - Caves",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - A9 Aire de La Palme-Est (direction Narbonne)",
+    "address": "_ A9 Aire de la Palme Est - La Palme",
+    "connectors": [
+      "x2",
+      "x2",
+      "x11",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Vadea - A9 Aire de la Palme-Ouest (direction Perpignan)",
+    "address": "A9 - La Palme",
+    "connectors": [
+      "x5",
+      "x2",
+      "x5",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syaden - Annexe collège de Port Leucate",
+    "address": "2 Rue de l'Estagnol - Leucate",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Leucate",
+    "address": "1 Avenue Des Roseaux - Leucate",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

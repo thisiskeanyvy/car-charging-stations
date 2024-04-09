@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Virta - 460 Grande Route - Berenx",
+    "address": "460 Grande Route - Berenx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MobiVE) - Place de la Mairie - Puyoo",
+    "address": "3 Place de la Mairie - Puyoo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E.Leclerc ORTHEZ",
+    "address": "50 Route de Bayonne - Orthez",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Amou",
+    "address": "375 Avenue de l'Océan - Amou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Rue la Barraque",
+    "address": "82 Rue la Barraque - Habas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Maison de la Santé - Amou",
+    "address": "80 Avenue de la Digue - Amou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot France - Orthez - Angle Rue du Viaduc et Rue de la Moutête, 64",
+    "address": "Angle Rue du Viaduc et Rue de la Moutête, 64 - Orthez",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Mairie - Pomarez",
+    "address": "12 Rue du Commerce - Pomarez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Place Brossers - Orthez",
+    "address": "17 Place Brossers - Orthez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Place d'Armes Orthez",
+    "address": "10 Place d'Armes - Orthez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

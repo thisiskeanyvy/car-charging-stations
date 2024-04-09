@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Ferme du Canard Argenté",
+    "address": "Route de Saales - Provenchères-sur-Fave",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Salle des Sports - Sainte-Maguerite",
+    "address": "146 Allee Des Sports - Sainte-Marguerite",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Chemin du Coucheux - Saint-Dié-des-Vosges",
+    "address": "1 Chemin du Coucheux - Saint-Dié-des-Vosges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Sainte-Marguerite",
+    "address": "183 Rue Ernest Charlier - Sainte-Marguerite",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargePoint network - 32 Rue du Nouvel-Hôpital P3 - Saint-Dié-des-Vosges",
+    "address": "32 Rue du Nouvel-Hôpital - Saint-Dié-des-Vosges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 32 Rue du Nouvel-Hôpital",
+    "address": "32 Rue du Nouvel-Hôpital - Saint-Dié-des-Vosges",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Norma - Sainte-Marguerite",
+    "address": "591 Rue Ernest Charlier - Sainte-Marguerite",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Dié-des-Vosges",
+    "address": "134-136 Rue d'Alsace - Saint-Dié-des-Vosges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel-Restaurant Les Bagenelles - Sainte Marie au Mines",
+    "address": "15 Petite Liepvre - Sainte-Marie-aux-Mines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel-Restaurant Les Bagenelles - Sainte-Marie-aux-Mines",
+    "address": "15 Petite Liepvre - Sainte-Marie-aux-Mines",
+    "connectors": [
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

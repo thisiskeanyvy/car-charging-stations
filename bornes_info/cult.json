@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Rossini Energy - 13 Rue Brantôme - Paris",
+    "address": "13 Rue Brantôme - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 36 Rue du Temple - Paris",
+    "address": "36 Rue du Temple - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Sebastopol - Les Halles",
+    "address": "37 boulevard de Sébastopol - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 43B Boulevard de Sébastopol - Paris",
+    "address": "43B Boulevard de Sébastopol - Paris",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 37 Rue Sainte-Croix de la Bretonnerie - Paris",
+    "address": "37 Rue Sainte-Croix de la Bretonnerie - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parc souterrain Rivoli Sébastopol",
+    "address": "1 Rue Pernelle - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 208-212 Rue Saint-Martin - Paris",
+    "address": "208-212 Rue Saint-Martin - Paris",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 101 Porte Berger Forum des Halles - Paris",
+    "address": "116 Rue Rambuteau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - Parking Lobau (-1) - Paris",
+    "address": "Rue de Lobau - Paris",
+    "connectors": [
+      "x7",
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Les Halles - Saint Eustache",
+    "address": "22 Rue des Halles - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

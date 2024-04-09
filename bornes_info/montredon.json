@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Total Energies - Marseille - Boulevard de la Grotte Rolland",
+    "address": "Boulevard de la Grotte Rolland - Marseille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 2 Avenue D'odessa - MARSEILLE-8E",
+    "address": "2 Avenue D'odessa - MARSEILLE-8E",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Réseau TCB FR - Marseille - 202 Avenue de la Madrague de Montredon",
+    "address": "202 Avenue de la Madrague de Montredon - Marseille",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 45 Avenue De La Pointe Rouge - MARSEILLE-8E",
+    "address": "45 Avenue De La Pointe Rouge - MARSEILLE-8E",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - Marseille-8E - Avenue André Zénatti",
+    "address": "Avenue André Zénatti - Marseille-8E",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVzen - Marseille 8 - Avenue Pierre Mendès France",
+    "address": "Avenue Pierre Mendès France - Marseille 8",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Le Drip's Hotel & Restaurant Marseille",
+    "address": "98 avenue Elsa Triolet - Marseille",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Avenue Elsa Triolet - Marseille",
+    "address": "46 Avenue Elsa Triolet - Marseille",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel golden tulip",
+    "address": "17 Place Louis Bonnefon - Marseille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Décathlon - Marseille",
+    "address": "13 Chemin du Roy d'Espagne - Marseille",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

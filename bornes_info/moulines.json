@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEML - Bauge En Anjou - Place Du Marche",
+    "address": "Place du Marché - Baugé-en-Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - Bauge En Anjou - Place De L'europe",
+    "address": "Rue Lemaignan - Baugé-en-Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "1 Les Borderais",
+    "address": "1 Les Borderais - Baugé-en-Anjou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - 22 Avenue Legoulz de la Boulaie",
+    "address": "22 Avenue Legoulz de la Boulaie - Baugé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - JARZE - Place Norbert d'Avignon",
+    "address": "Place Norbert Davignon - Jarzé Villages",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Bordé - Baugé en Anjou",
+    "address": "Bordé - Baugé en Anjou",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Super U - Durtal",
+    "address": "Rue Gustave Eiffel - Durtal",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - DURTAL - Rue du Camping",
+    "address": "16 Rue des Déportés - Durtal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Durtal - Ruelle de la Sablonnière",
+    "address": "Ruelle de la Sablonnière Parking Trivoli - Durtal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking zoo - la Fleche",
+    "address": "1080 Rue Jacques Bouillault - La Flèche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

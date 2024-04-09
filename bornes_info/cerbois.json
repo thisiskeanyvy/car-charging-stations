@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Ecar18 - Place de la Mairie - Mereau",
+    "address": "11 Avenue d'Issoudun - Mereau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Avenue Maréchal Foch - Massay",
+    "address": "45 Avenue Marechal Foch - Massay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecar18 - Foëcy",
+    "address": "8 Rue Gaston Cornavin - Foëcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Bourges DOUBLON",
+    "address": "Route de Bourges - Sainte Thorette",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO Kia - Avenue Maréchal Jean de Lattre de Tassigny",
+    "address": "63 Avenue Maréchal Jean de Lattre de Tassigny - Vierzon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - 1 Square du Huit Mai 1945 - Mehun-sur-Yèvre",
+    "address": "1 Square du Huit Mai 1945 - Mehun-sur-Yèvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Covoiturage - A71 - sortie 6 - Vierzon Est",
+    "address": "32 Route de Bourges - Vierzon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue Raoul Aladenize - Mehun-sur-Yèvre",
+    "address": "116 Avenue Raoul Aladenize - Mehun-sur-Yèvre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A71 - Aire de Bourges-Saintes Thorette (direction Bourges)",
+    "address": "A71 - Marmagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Rue Eugène Pottier - Vierzon",
+    "address": "6 Rue Eugène Pottier - Vierzon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

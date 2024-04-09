@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Place du marché - Tavey",
+    "address": "1 place de l'Europe - Héricourt",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Place De L'Europe - Héricourt",
+    "address": "13 Rue des Prés - Héricourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIED70 - Place Brossolette - Héricourt",
+    "address": "5-7 Place Brossolette - Héricourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking Gymnase du Champ de Foire - Héricourt",
+    "address": "10 Avenue Pierre Bérégovoy - Héricourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Héricourt - Basic Fit",
+    "address": "2 Rue Salamon, 70400 Héricourt, France - Héricourt",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "McDo Héricourt",
+    "address": "14 Rue du Chene Sec - Héricourt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Guinottes ECHENANS",
+    "address": "RD130 - Échenans-sous-Mont-Vaudois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat mixte d'Électricité du Doubs (SYDED) - Arcey - Arcey - Gymnase",
+    "address": "Arcey - Gymnase - Arcey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - route de Bethoncourt - Montbeliard",
+    "address": "136 route de Bethoncourt - Montbéliard",
+    "connectors": [
+      "x2",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - 38 Rue du Général Leclerc - Montbéliard",
+    "address": "38 Rue du Général Leclerc - Montbéliard",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

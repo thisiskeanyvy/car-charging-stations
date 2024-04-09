@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Sydego - Rue Du Parc",
+    "address": "96 Rue Du Parc - Loireauxence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Varades Loireauxence",
+    "address": "23 D723 - Loireauxence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Le bassin français - Loireauxence",
+    "address": "Rue de Madrid - Loireauxence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D28 Loireauxence",
+    "address": "CX64+WM - La Chapelle-Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - SAINT FLORENT LE VIEL - Parking La Chevalerie",
+    "address": "Z.I. de la Chevalerie - Saint-Florent-le-Vieil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "GCK Energy - A11 Aire de Varades-Pays d'Ancenis (direction Angers)",
+    "address": "Varades, Pays d'Ancenis - Varades",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A11 Aire de Varades-Pays d'Ancenis (direction Angers)",
+    "address": "11 A11 - Loireauxence",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A11 Aire de Varades Pays de Loire (direction Nantes)",
+    "address": ". L'Océane - Loireauxence",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Station St Herblon (Rue de Versailles)",
+    "address": "2 Rue de Versailles - Vair-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Route d'Ancenis - Anetz",
+    "address": "92 Route d'Ancenis - Anetz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

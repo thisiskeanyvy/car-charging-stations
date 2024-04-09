@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Syndicat Départemental d'Énergie Électrique de Gironde (SDEEG) - La Lande-de-Fronsac - 150 Route des Templiers",
+    "address": "150 Route des Templiers - La Lande-de-Fronsac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Office tourisme Fronsadais",
+    "address": "Avenue Charles de Gaulle - Saint-Germain-de-la-Rivière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie de Galgon",
+    "address": "D 128 - Galgon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Fabien Matériaux",
+    "address": "720 Avenue de l'Europe - Saint-André-de-Cubzac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Parking de la Barotte",
+    "address": "Impasse du Pas de Monnac - Saint-André-de-Cubzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Montaigne - Saint-Ciers-d'Abza",
+    "address": "13 Rue Montaigne - Saint-Ciers-d'Abzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-André-de-Cubzac",
+    "address": "1470-1520 Avenue de l'Europe - Saint-André-de-Cubzac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energies - A10 Aire de l'Estalot (direction Bordeaux)",
+    "address": "A10 L'Aquitaine - Saint-André-de-Cubzac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Atlante - A10 Aire de Meillac",
+    "address": "Autoroute A10, Aire de Meillac - Cubzac-les-Ponts",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ALDI - Saint André de Cubzac",
+    "address": "287 Rue nationale - Saint-André-de-Cubzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  }
+]

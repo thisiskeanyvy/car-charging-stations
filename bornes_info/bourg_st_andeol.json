@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - Place Du Champ De Mars - Bourg-Saint-Andéol",
+    "address": "1 Place Du Champ De Mars - Bourg-Saint-Andéol",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Quai du Docteur Tzelepogiou - Bourg-Saint-Andéol",
+    "address": "12 Quai Docteur Tzelepogiou - Bourg-Saint-Andéol",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Favre - Bourg-Saint-Andéol",
+    "address": "D4 - Bourg-Saint-Andéol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Pierrelatte",
+    "address": "4830 Route Nationale 7 - Pierrelatte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - RN 7 - Pierrelatte",
+    "address": "4830 Route Nationale 7 - Pierrelatte",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Hôtel Domaine des Oliviers",
+    "address": "4 rue Paul d’Allard  - Pierrelatte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Pierrelatte",
+    "address": "Rte des Blaches, - Pierrelatte",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aldi - Pierrelatte",
+    "address": "18 Rue Gaston Leroux - Pierrelatte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEDI - parking Moissan Pierrelatte",
+    "address": "3 Rue Jean Charcot - Pierrelatte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDED - La Poste - Pierrelatte",
+    "address": "9 Avenue Jean Perrin - Pierrelatte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

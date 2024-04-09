@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Lidl - Route de Thionville - Guénange",
+    "address": "D 60 - Guénange",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GROUPE COLISEE_FRANCE_LES TEMPLIERS_5924_Pext_E",
+    "address": "20 Rue de la Gare Les Templiers - Richemont",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Richemont - Route Nationale",
+    "address": "Route Nationale - Richemont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Centre Commercial - Illange",
+    "address": "4 Centre Commercial - Illange",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gandrange - Impasse Pierre de Coubertin",
+    "address": "Impasse Pierre De Coubertin - Gandrange",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Mondelange",
+    "address": "1 Rue de Bousse - Mondelange",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Hyundai - Thionville",
+    "address": "14 All. du Château de Gassion, - Thionville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Yutz - 40 Rue de la Pépinière",
+    "address": "40 Rue de la Pépinière - Yutz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking Jean Burger - Hagondange",
+    "address": "29 Rue Voltaire - Hagondange",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - 80 Route de Metz - Thionville",
+    "address": "80 Route de Metz - Thionville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

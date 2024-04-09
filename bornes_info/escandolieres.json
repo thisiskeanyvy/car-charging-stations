@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Jouani Villecomtal",
+    "address": "01 Jouani - Villecomtal",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Quai du Lot Estaing",
+    "address": "1 Quai du Lot - Estaing",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - parking Allée Denys Puech - Bozouls",
+    "address": "Allée Denys Puech - Bozouls",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché Bozouls",
+    "address": "741 Route de Rodez - Bozouls",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autisme Aveyron - Lotissement les Manharez - Sébazac-Concourès",
+    "address": "27 Lotissement les Manharez - Sébazac-Concourès",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - place Pierre Frontin",
+    "address": "Rue de l'Ouest - Espalion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Le Géant du Meuble - Sébazac-Concourès",
+    "address": "110 Avenue Joël Pilon - Sébazac-Concourès",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEDA - Le Bourg Golinhac",
+    "address": "Le Bourg - Golinhac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Sebazac Concoures - El Dorado",
+    "address": "10 avenue Joel Pilon Sebazac Concoures 12740 - Sebazac Concoures",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta -  ROUTE D'ESPALION LOT L'ASTRAGALE - ONET LE CHÂTEAU",
+    "address": "ROUTE D'ESPALION LOT L'ASTRAGALE - ONET LE CHÂTEAU",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

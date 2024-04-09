@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SyDEV - Rue Margerie - Dompierre-sur-Yon",
+    "address": "3 Rue De Margerie - Dompierre-sur-Yon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SGA Automation - Dompierre-sur-Yon - 14 Rue Eric Tabarly",
+    "address": "14 Rue Eric Tabarly - Dompierre-sur-Yon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Audi - Mouilleron-le-Captif",
+    "address": "85 Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Volvo - Mouilleron-le-Captif",
+    "address": "75 Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x4",
+      "x9",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Mouilleron-le-Captif - Rue de la Croisée",
+    "address": "Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Mouilleron-le-Captif",
+    "address": "3 Les Pointes - Mouilleron-le-Captif",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CLARA LA ROCHE SUR YON",
+    "address": "70 Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Mouilleron-le-Captif",
+    "address": "20 Rue de la Croisée - Mouilleron-le-Captif",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW/Mini - La Roche-sur-Yon",
+    "address": "80 Rue de la Croisée - La Roche-sur-Yon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mercedes Benz - Poiré sur Vie - 22kW AC",
+    "address": "La Flotterie - Le Poiré-sur-Vie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

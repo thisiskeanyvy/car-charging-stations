@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lidl - Étaples",
+    "address": "133 Route de Boulogne - Étaples",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare Etaples - Le Touquet",
+    "address": "11 Place de la Gare - Étaples",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel chez Gino - Rue du Rivage",
+    "address": "22 Rue du Rivage - Étaples",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre d'affaire - Étaples (Privé)",
+    "address": "95 Route d'Hilbert - Étaples",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Peugeot - Étaples",
+    "address": "5000 Boulevard Bigot-Descelers - Étaples",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Étaples",
+    "address": "15 Route Départementale 940 - Étaples",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Dream Energy - Brit Hotel le Touquet",
+    "address": "15 D 940 - Étaples",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Aéroport du Touquet Côte d’Opale",
+    "address": "8 Allée du Pré Catelan - Le Touquet-Paris-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Cucq - Match",
+    "address": "162 Chem. Montor, 62780 Cucq, France - CUCQ",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Easy Charge - Rue Jean Jaurès - Cucq",
+    "address": "Rue Jean Jaurès - Cucq",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Orléans Métropole - Mairie d'Olivet",
+    "address": "238 Rue du Général de Gaulle - Olivet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Orléans Métropole - Rue de l'Yvette - Olivet",
+    "address": "75 Rue de l'Yvette - Olivet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Olivet - Auchan",
+    "address": "600 Avenue de Verdun - Olivet",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "À Madagascar - Olivet",
+    "address": "315 Rue de la Reine Blanche - Olivet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Olivet",
+    "address": "20 Avenue de Verdun - Olivet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Burger King - Avenue de Verdun - Olivet",
+    "address": "742 Avenue de Verdun - Olivet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bouygues energies services - Rue Jean Moulin",
+    "address": "14 Rue Jean Moulin - Orléans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gauthier - Rue Jean-Baptiste Corot - Orléans",
+    "address": "3 Rue Jean-Baptiste Corot - Orléans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Rue Anthelme Brillat Savarin - Orléans SUPPRIMÉ",
+    "address": "Rue Anthelme Brillat Savarin - Orléans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Kiabi - Orléans",
+    "address": "20–30 Rue Anthelme Brillat-Savarin - Orléans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

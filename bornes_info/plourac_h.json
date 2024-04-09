@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDE22 Lohuec",
+    "address": "Route de Callac - Lohuec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Carnoët",
+    "address": "Place de la Mairie - Carnoët",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Intermarché - Callac",
+    "address": "32 Rue de Kerbuannec - Callac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 - Place Jean Auffret - Callac",
+    "address": "Place Jean Auffret - Callac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE 22 - Callac2",
+    "address": "Rue de la Gare - Callac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Scrignac (Place de la Mairie)",
+    "address": "Place de la Mairie - Scrignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 Duault",
+    "address": "Route des Manoirs - Duault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Hent Toull Kersers",
+    "address": "Hent Toull Kersers - Guerlesquin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Des Côtes d'Armor (SDE22) - Loguivy-Plougras - Place de la Mairie",
+    "address": "Place de la Mairie - Loguivy-Plougras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Kerahed - Guerlesquin",
+    "address": "n/a Kerahed - Guerlesquin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

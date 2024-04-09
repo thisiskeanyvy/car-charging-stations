@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDESM - Allée du Château Mauregard",
+    "address": "15-17 Allée du Château - Mauregard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Aéroport - CDG - Parking P1 (niveau bleu)",
+    "address": "Dépose Minute Terminal 1 Parking Pro (P1) - Mauregard",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aéroports de Paris - IMO CDG Dôme - Tremblay-en-France",
+    "address": "5 Rue de Copenhague - Tremblay-en-France",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking Pro (P1) - Mauregard",
+    "address": "Parking Pro (P1) - Mauregard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking PN Air France (Uniquement pour le personnel)",
+    "address": "Place de Madrid - Tremblay-en-France",
+    "connectors": [
+      "x52"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Baïkal (réservé employés du bâtiment)",
+    "address": "1 Rue Louis Couhé - Tremblay-en-France",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroports de Paris - Tremblay-en-France - Parking Baïkal",
+    "address": "1 Rue Louis Couhé - Tremblay-en-France",
+    "connectors": [
+      "x55"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Aéroports de Paris - IMO CDG Siège (visiteurs) - Tremblay-en-France",
+    "address": "7 Rue de Rome - Tremblay-en-France",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Novotel Paris Charles de Gaulle",
+    "address": "Route de l'Épinette - Roissypole",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroports de Paris - IMO CDG Siège - Tremblay-en-France",
+    "address": "1 Rue Louis Couhé - Tremblay-en-France",
+    "connectors": [
+      "x28",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

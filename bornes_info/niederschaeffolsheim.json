@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Hôtel Restaurant Au Boeuf Rouge (Tesla and others)",
+    "address": "39 Rue du Général de Gaulle - Niederschaeffolsheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking public Route de Strasbourg (entrée voie de liaison Sud)",
+    "address": "112 Route de Strasbourg - Haguenau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hôpital Civil - Haguenau",
+    "address": "64 Avenue du Professeur René Leriche - Haguenau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le CAIRE - Communauté d’agglomération de Haguenau",
+    "address": "84 Route de Strasbourg - Haguenau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Rue André Malraux - Brumath",
+    "address": "29 Rue André Malraux - Brumath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Monta - Bax Bowling - Brumath",
+    "address": "21 Rue de l'Industrie - Brumath",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - Bernolsheim - Super U",
+    "address": "20 Route de Brumath - Bernolsheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - Bernolsheim",
+    "address": "Route de Brumath - Bernolsheim",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Rue du Château - Brumath",
+    "address": "Rue du Château - Brumath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Brumath - Crédit Agricole",
+    "address": "8 Rue du Général de Gaulle - Brumath",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

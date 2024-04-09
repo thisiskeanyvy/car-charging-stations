@@ -1,0 +1,122 @@
+[
+  {
+    "title": "e-station - Place Delas - Le Lardin-Saint-Lazare",
+    "address": "6 Place Delas - Le Lardin-Saint-Lazare",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MObiVE - Place Heni Faure - Le Lardin-Saint-Lazare",
+    "address": "Place Henri Faure - Le Lardin-Saint-Lazare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - Condat-sur-Vézère",
+    "address": "1 Place des Écoles - Condat-sur-Vézère",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château La Fleunie Hôtel/Restaurant (Tesla)",
+    "address": "La Fleunie prés Lascaux - Condat-sur-Vézère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - 24 Place Yvon Delbos - Terrasson-Lavilledieu",
+    "address": "24 Place Yvon Delbos - Terrasson-Lavilledieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Terrasson-Lavilledieu",
+    "address": "Avenue Victor Hugo - Terrasson-Lavilledieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Place Marcel Paul",
+    "address": "Place Marcel Paul - Terrasson-Lavilledieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Parking Jeanne d'arc Terrasson-Lavilledieu",
+    "address": "Route de Fontaine Saint-Julien - Terrasson-Lavilledieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Gendarmerie - Thenon",
+    "address": "Avenue de la Libération - Thenon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Hotel restaurant de Bouilhac - Montignac (Privé)",
+    "address": "1006 Avenue Professeur Faurel - Montignac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

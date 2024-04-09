@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEDA (Révéo) - Sainte-Radegonde - Le Champ du Moulin",
+    "address": "Le Champ du Moulin - Sainte-Radegonde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Foch - Boulevard Gally",
+    "address": "Boulevard Gally - Rodez",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA - Médiathèque - Onet-le-Château",
+    "address": "33 Boulevard des Capucines - Onet-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Enerstock - E.Leclerc - Onet Le Château",
+    "address": "20T Route d'Espalion - Onet-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - SUPER U - Olemps",
+    "address": "103 La Mouline - Olemps",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Mc Donald's - Luc-la-Primaube",
+    "address": "8 rue de l'Aqueduc Romain - Luc-la-Primaube",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint Network - 214 Avenue de Rodez",
+    "address": "214 Avenue de Rodez - Luc-la-Primaube",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking - Rodez",
+    "address": "5 C Boulevard du 122 Régiment d'Infanterie - Rodez",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Onet-le-Château",
+    "address": "47 Route d'Espalion - Onet-le-Château",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEDA - Parking relais de la Crouzette",
+    "address": "6 Rue des Cigales - Olemps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

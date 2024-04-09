@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Place des Halles - Brie Comte Robert",
+    "address": "3 Place Des Halles - Brie-Comte-Robert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Brie-Comte-Robert",
+    "address": "2-4 Rue de Verdun - Brie-Comte-Robert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking place des fêtes - Brie-Comte-Robert",
+    "address": "26 Boulevard Jean Jaurès - Brie-Comte-Robert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place de l'Ancienne Gare",
+    "address": "35 Rue de l'Industrie - Brie-Comte-Robert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Renault Brie Comte Robert",
+    "address": "17 Rue du General Leclerc - Brie comte robert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Brie Comte Robert (Privé)",
+    "address": "2 Rue de Villemenon - Brie-Comte-Robert",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Brie-Comte-Robert - Mazda",
+    "address": "70 Rue du Général Leclerc - Brie-Comte-Robert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford - Brie-Comte-Robert",
+    "address": "70 Rue du Général Leclerc - Brie-Comte-Robert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne - 3 Rue Benjamin Franklin - Brie-Comte-Robert",
+    "address": "3 Rue Benjamin Franklin - Brie-Comte-Robert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Brie-Comte-Robert - Hôtel Kyriad",
+    "address": "Rue Gustave Eiffel Hôtel Kyriad - Zone de la Haie Passart - Brie-Comte-Robert",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

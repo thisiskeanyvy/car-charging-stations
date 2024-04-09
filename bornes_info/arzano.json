@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEF - Mairie d'Arzano",
+    "address": "Place de la Mairie - Arzano",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEF - Guilligomarc'h (Rue du Scorff)",
+    "address": "Rue du Scorff - Guilligomarc'h",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Rédéné (Parking Médiathèque)",
+    "address": "Place de l'Eglise - Rédené",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Locunolé (Mairie)",
+    "address": "2 Rue de Beg ar Roz - Locunolé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Rue du Faouët - Tréméven",
+    "address": "46 Rue du Faouët - Tréméven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford - Quimperlé",
+    "address": "NARA 1 - Quimperlé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - Kerchopine",
+    "address": "Kerchopine - Cleguer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Place des princes",
+    "address": "8-10 Place de la Maison des Princes - Pont-Scorff",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Place Hélène le Chaton - Plouay",
+    "address": "Rue du Général de Gaulle - Plouay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Morbihan énergies - Rue Théophile Guyomar - Pont-Scorff",
+    "address": "11 Route de Lorient - Pont-Scorff",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

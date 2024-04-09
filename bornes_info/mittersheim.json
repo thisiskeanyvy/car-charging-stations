@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Rue du Port - Mittersheim",
+    "address": "4 Rue du Port - Mittersheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mittersheim - Rue Du Lac",
+    "address": "Rue Du Lac - Mittersheim",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking des Remparts - Fénétrange",
+    "address": "- Fénétrange",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Animalier de Sainte-Croix (Tesla and others)",
+    "address": "Unnamed Road - Rhodes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Baerendorf - Rue Du 24 Novembre",
+    "address": "Rue Du 24 Novembre - Baerendorf",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Centre de bien-être de Langatte",
+    "address": "43–47 Rue des Cyclamens - Langatte",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auberge du Stock",
+    "address": "106 Stockseeb - Langatte",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auberge de St Ulrich",
+    "address": "Chemin de st ulrich - Haut clocher",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Les Bachats",
+    "address": "Route des Bachats Domaine Les Bachats - Rhodes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Phalsbourg - Sarre-Union",
+    "address": "55 Route de Phalsbourg - Sarre-Union",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

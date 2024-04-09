@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEI36 - Place du Champ de Foire",
+    "address": "Place du Champ de Foire - Écueillé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place des Anciens Combattants Loché-sur-Indrois",
+    "address": "Place des Anciens Combattants - Loché-sur-Indrois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue du Bourg Neuf, 3 - Beaumont-Village",
+    "address": "3 Rue du Bourg Neuf - Beaumont-Village",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Energies de l'Indre (SDEI36) - Faverolles - Rue de la Mairie",
+    "address": "Rue de la Mairie - Faverolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Champ de Foire",
+    "address": "25 Rue du Docteur Réau - Luçay-le-Mâle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Loché-sur-Indrois - D11",
+    "address": "D11 - Loché-sur-Indrois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Préaux | Route de Villedomain",
+    "address": "Route de Villedomain - Préaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - ZooParc de Beauval (parkind Sud)",
+    "address": "1 Moulin de Bout de Chien - Saint-Aignan",
+    "connectors": [
+      "x50",
+      "x50"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Parking Nord du Zoo de Beauval",
+    "address": "29 La Mifrerie - Saint-Aignan",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Les Pagodes de Beauval - Seigy (Tesla et autres)",
+    "address": "Rue des Jardins de Beauval - Saint-Aignan",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

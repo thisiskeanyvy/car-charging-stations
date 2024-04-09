@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE82 - Monbéqui",
+    "address": "Avenue de Toulouse - Monbéqui",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Route nationale - Finhan",
+    "address": "21 Route nationale - Finhan",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Place de la Mairie - Montbartier",
+    "address": "105 Chemin de Lapeyrière - Montbartier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE82 - rue de la Gare - Montbartier",
+    "address": "171 Rue de la Gare - Montbartier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 120 Rue du Colombier - Verdun-sur-Garonne",
+    "address": "120 Rue du Colombier - Verdun-sur-Garonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Verdun-sur-Garonne - Avenue Du Parc Des Sports",
+    "address": "Avenue Du Parc Des Sports - Verdun-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue des Écoles Verdun",
+    "address": "11-3 Rue Mangegats - Verdun-sur-Garonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarche - Verdun-sur-Garonne",
+    "address": "136 Chemin de la Fontaine de Paris - Verdun-sur-Garonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY Montbartier - A20-A62 (Double sens)",
+    "address": "Avenue du Pech - Labastide-Saint-Pierre",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Rue Raimon Jouan - Montbartier",
+    "address": "Rue Raimon Jouan - Montbartier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

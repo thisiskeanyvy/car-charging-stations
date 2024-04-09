@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Avenue de la Côté d'Argent Marcheprime",
+    "address": "14-20 Avenue de la Côté d'Argent - Marcheprime",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarche - Marcheprime",
+    "address": "15 Avenue de la Côté d'Argent - Marcheprime",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Gare de Marcheprime",
+    "address": "Rue de la Gare - Marcheprime",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - D5 Aire de covoiturage Lacanau de Mios",
+    "address": "D5 - Mios",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Last Mile Solutions - 1 Avenue du Médoc",
+    "address": "1 Avenue du Médoc - Le Barp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6599455",
+    "address": "22 Chemin de Cruque Pignon - Cestas",
+    "connectors": [
+      "x18"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Biganos",
+    "address": "557a Moulin de la Cassadote - Biganos",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking zone restauration Biganos",
+    "address": "2 Moulin De La Cassadote - Biganos",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking SOCOO",
+    "address": "106 Chemin des Trougnes - Biganos",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking plateforme Lidl - Cestas (Privé)",
+    "address": "Chemin St Eloi de Noyon - Cestas",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

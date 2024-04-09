@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Eglise Hantay",
+    "address": "9-11 Rue Mirabeau - Hantay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Marché - Bauvin",
+    "address": "75 bis Rue Jean Jaurès, - Bauvin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Rue Marcel Cabiddu - Douvrin",
+    "address": "64 Rue Marcel Cabiddu - Douvrin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Mairie Rue Pasteur - Salomé",
+    "address": "7 Rue Pasteur - Salomé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place Jean Jaurès",
+    "address": "Place jean jaures - Wingles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - 26 Rue Jules Guesde - Wingles",
+    "address": "26 Rue Jules Guesde - Wingles",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Rossini Energy - Rue André Pezé - Wingles",
+    "address": "19 Rue André Pezé - Wingles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Mirabeau - Meurchin",
+    "address": "10 Rue Mirabeau - Meurchin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de Marquillies",
+    "address": "Rue de la Bourse - Marquillies",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MacDo Illies",
+    "address": "Rue de l'Avenir - Illies",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

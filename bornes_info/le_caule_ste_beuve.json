@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE76 - Rue De l'Eglise - Nullemont",
+    "address": "25 Rue De l'Eglise - Nullemont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - 10 Rue Douce Foucarmont",
+    "address": "17 Rue Douce - Foucarmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Aumale (camping)",
+    "address": "Chemin du Grand Mail - Aumale",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Neuville-Ferrières",
+    "address": "1 Ctre Commercial Saint-Jean - Neuville-Ferrières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Aumale (CSP)",
+    "address": "Rue du Baillage - Aumale",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Aumale (Piscine)",
+    "address": "3 Avenue du Général de Gaulle - Aumale",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE76 - Rue Alfred Martel - Neufchâtel-en-Bray",
+    "address": "Rue Alfred Martel - Neufchâtel-en-Bray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Netto Gauville - rue du Viaduc - Gauville",
+    "address": "8 rue du Viaduc - Gauville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Action à Neufchâtel en Bray",
+    "address": "10 Rue la Grande Flandre - Neufchâtel-en-Bray",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Neufchatel en Bray",
+    "address": "5000A Rue de la Grande Flandre - Neufchâtel-en-Bray",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

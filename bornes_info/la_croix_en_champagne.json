@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Société DFI-ELEC",
+    "address": "8 Rue de Courtisols - Tilloy-et-Bellay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Valmy Orbeval (direction Metz)",
+    "address": "A4 - Valmy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Valmy Le Moulin (direction Reims)",
+    "address": "1 D 67 - Valmy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM51 - Place de I'Hôtel-de-Ville - Suippes",
+    "address": "13 Place de l'Hôtel de Ville - Suippes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Rue Mermoz - Courtisols",
+    "address": "2B Rue Mermoz - Courtisols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - 2 RUE DENIS PAPIN COURTISOLS",
+    "address": "2 RUE DENIS PAPIN - Courtisols",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Armes de Champagne (Tesla)",
+    "address": "31 Avenue du Luxembourg - L'Épine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Rue des Moissons - L'Epine",
+    "address": "2 Rue des Moissons - L'Épine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEM51 - Place d'Austerlitz - Sainte Menehould",
+    "address": "23 Place d'Austerlitz - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U & Drive - Sainte-Menehould",
+    "address": "Av. de la Gare - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

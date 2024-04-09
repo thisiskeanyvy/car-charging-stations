@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Rue du Général de Gaulle Fronsac",
+    "address": "Rue du Général de Gaulle - Fronsac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Fronsac - Rue Poitevine 5 (privé)",
+    "address": "Rue Poitevine 5 - Fronsac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Lieu-dit Château Gaby - Fronsac",
+    "address": "Lieu-dit Château Gaby - Fronsac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Arveyres",
+    "address": "21 Port Du Noyer Rotonde - Arveyres",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - Arveyres - Hotel Kyriad Libourne St Émilion",
+    "address": "8 Route de Jourdan - Arveyres",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Madison Nuggets",
+    "address": "Rue Michel Montaigne - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEEG33 - Robert Boulin Libourne",
+    "address": "25 Allée Robert Boulin - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Libourne - Leclerc",
+    "address": "6 Avenue de la Roudet - Libourne",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Électrique de Gironde (SDEEG) - Libourne - 71 Rue Jules Steeg",
+    "address": "71 Rue Jules Steeg - Libourne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Cours Tourny Libourne",
+    "address": "3 Cours Tourny - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

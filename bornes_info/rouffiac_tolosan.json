@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEHG - Rouffiac-Tolosan",
+    "address": "5 Allée des Platanes - Rouffiac-Tolosan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Route de Lapeyrouse - Castelmaurou",
+    "address": "Route de Lapeyrouse - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Rue des Roses - Saint-Jean",
+    "address": "Rue des Roses - Saint-Jean",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Métropole de Toulouse - Allée Victor Hugo - Saint-Jean",
+    "address": "Allée Victor Hugo - Saint-Jean",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Clinique Saint-Jean (parking)",
+    "address": "Boulevard de Ratalens\r\n - Saint-Jean",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bouygues Energies & Services (Uniquement pour les employés)",
+    "address": "1 Allée de Longueterre - Montrabé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarche - Saint-jean",
+    "address": "6 Avenue de la dancelle - Saint-jean",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Super U - Montrabé",
+    "address": "8 Chemin de Saint Jean zone de Marignac - Montrabé",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Super U - Montrabé",
+    "address": "Chemin de Saint-Jean Zone de, - Montrabé",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Union",
+    "address": "71 Avenue de Toulouse - Union",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

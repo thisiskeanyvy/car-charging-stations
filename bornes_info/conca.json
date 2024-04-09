@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEF - Concarneau (Quai d'Aiguillon)",
+    "address": "Quai d'Aiguillon - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Concarneau (Place du 8 Mai 1945)",
+    "address": "Place du 8 Mai 1945 - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Concarneau (Place Duquesne)",
+    "address": "Place Duquesne - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - 30 rue Claude Debussy - Concarneau",
+    "address": "30 Rue Claude Debussy - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Concarneau - Intermarché",
+    "address": "43 Rue de Lanriec, 29900 Concarneau, France - Concarneau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Concarneau - Leclerc",
+    "address": "Rue De Quimper - Concarneau",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - 89 Avenue du Cabellou - Concarneau",
+    "address": "89 Avenue du Cabellou - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Concarneau",
+    "address": "Rond-Point De Colguen - Concarneau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue Léopold Sédar Senghor - Concarneau",
+    "address": "6 Rue Léopold Sédar Senghor - Concarneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Concarneau BodemerAuto",
+    "address": "Route de Quimper - Concarneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

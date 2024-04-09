@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SEDI - Parking RD 215 - Corrençon-en-vercors",
+    "address": "D215 - Corrençon-en-Vercors",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hotel du golf - Corrençon-en-Vercors",
+    "address": "Les Ritons - Corrençon-en-Vercors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Les Playes - Villard-de-Lans",
+    "address": "1850 Route De La Côte 2000 - Villard-de-Lans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Le Val Lachard ****",
+    "address": "60 Chemin des Prés - Villard-de-Lans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gite des 4 vents",
+    "address": "Bois Barbu, les Olivers - Villard-de-Lans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Résidence Le Splendid (privé)",
+    "address": "129 Avenue du Professeur Nobécourt - Villard-de-Lans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Gare Routière de Villard-de-Lans",
+    "address": "101 Place Mûre Ravaud - Villard-de-Lans",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Dechetterie - Route des Jarrands - Villard-de-Lans",
+    "address": "1757 Route des Jarrands - Villard-de-Lans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Villard-de-Lans - Intermarché",
+    "address": "Rue des Machurons Intermarché, Les Geymonds - Villard-de-Lans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricomarché - Villard-de-Lans",
+    "address": "290 Rue Des Machurons - Villard-de-Lans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

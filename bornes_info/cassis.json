@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking des Mimosas - Cassis",
+    "address": "10 Avenue Augustin Isnard - Cassis",
+    "connectors": [
+      "x30",
+      "x10"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "larecharge - Quai Saint-Pierre - Cassis",
+    "address": "11 Quai Saint-Pierre - Cassis",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking de la viguerie",
+    "address": "30A Avenue de la Viguerie - Cassis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Larecharge - 11 Avenue Alphonse Daudet - Cassis",
+    "address": "11 Avenue Alphonse Daudet - Cassis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Bonne Accroche - Avenue Simon Laplace",
+    "address": "16 Avenue Simon Laplace - Carnoux-en-Provence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobileplug - Voie Ariane - La Ciotat",
+    "address": "50 Voie Ariane - La Ciotat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Vin Sobre - Voie Ariane - La Ciotat",
+    "address": "45 Voie Ariane - La Ciotat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - La Ciotat - 215 Chemin du Jonquet",
+    "address": "215 Chemin du Jonquet - La Ciotat",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Avenue de la Tramontane - La Ciotat",
+    "address": "Avenue de la Tramontane - La Ciotat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SGA Automation - 165 Voie Antiope - La Ciotat",
+    "address": "165 Voie Antiope - La Ciotat",
+    "connectors": [
+      "x4",
+      "x14",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Fréthun - 67 Rue De La Mairie",
+    "address": "67 Rue De La Mairie - Fréthun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking personnel Eurotunnel",
+    "address": "110 Avenue des Longues Pièces - Coquelles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Eurotunnel Flexiplus",
+    "address": "Flexiplus Lounge, Eurotunnel Le Shuttle Calai - Coquelles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V2 - Eurotunnel - Flexiplus Lounge - Boulevard de l'Europe - Coquelles",
+    "address": "Boulevard de l'Europe - Coquelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Coquelles - Channel Outlet",
+    "address": "Boulevard du Parc - Coquelles",
+    "connectors": [
+      "x1",
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Coquelles",
+    "address": "110 Route des Estuaires - Coquelles",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "L'Haut'Aile - Coquelles",
+    "address": "D243E4 - Coquelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 360 Boulevard du Parc - Coquelles",
+    "address": "360 Boulevard du Parc - Coquelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Coquelles - 30 Boulevard du Parc",
+    "address": "30 Boulevard du Parc - Coquelles",
+    "connectors": [
+      "x11"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Coquelles - Cité de l'Europe",
+    "address": "0 Cité de l'Europe_Boulevard de kent - Coquelles",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

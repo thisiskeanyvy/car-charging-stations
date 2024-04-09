@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Garage Renault Mazerand",
+    "address": "Route de Sarrebourg - Lixheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Gare - Réding",
+    "address": "9 Rue de la Gare - Réding",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Rue de Strasbourg - Phalsbourg",
+    "address": "Rue de Strasbourg - Phalsbourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue du Luxembourg - Phalsbourg",
+    "address": "Rue du Luxembourg - Phalsbourg",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Comptoir Électrique Sarrebourg",
+    "address": "1003 Zone d'activité Ariane - Buhl-Lorraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone Artisanale de la Bièvre - Sarrebourg",
+    "address": "14 Rue de Niderviller - Sarrebourg",
+    "connectors": [
+      "x1",
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue de Niderviller - Sarrebourg",
+    "address": "Rue de Niderviller - Sarrebourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Mephisto - Sarrebourg",
+    "address": "52 Rue De Sarreguemines - Sarrebourg",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Buhl Sarrebourg",
+    "address": "Zone d'activité Ariane - Buhl-Lorraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Phalsbourg - Holzinger",
+    "address": "13 Rue de l'Europe - Phalsbourg",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

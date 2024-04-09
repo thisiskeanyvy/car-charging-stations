@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Electromaps - Domaine de Fompeyre - Bazas",
+    "address": "Route de Mont de Marsan - Bazas",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Moulin de Laboirie",
+    "address": "1 Laboirie - Saint-Côme",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Bazas",
+    "address": "35 Route de Langon - Bazas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Citroën - Bazas - 1 Matiton",
+    "address": "1 Matiton - Bazas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place de l'Église - Captieux",
+    "address": "Place de l'Église - Captieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A65 - Aire du Cœur d'Aquitaine (double sens)",
+    "address": "A65 - Captieux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 (MObiVE) - Rue du Château d'Eau - Grignols",
+    "address": "Rue du Château d'Eau - Grignols",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Brico-Jardi Leclerc Mazeres",
+    "address": "2 Rue des platanes - Mazeres",
+    "connectors": [
+      "x2",
+      "x18",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - 11 Rue des Troenes - Mazères",
+    "address": "11 Rue des Troenes - Mazères",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Langon",
+    "address": "le passager Route de Bazas - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Mairie de Saint-André-d'Apchon",
+    "address": "6 Place de la Mairie - Saint-André-d'Apchon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Lentigny",
+    "address": "126 Rue des Orchidées - Lentigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Maison Troisgros - Ouches",
+    "address": "728 Route de Villerest - Ouches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 728 Route de Villerest - Ouches",
+    "address": "728 Route de Villerest - Ouches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking Robert Barathon",
+    "address": "307 Rue Robert Barathon - Renaison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking Place du 11 Novembre",
+    "address": "124 Place du 11 Novembre - Renaison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Tournus - 2 Avenue du Clos Mouron",
+    "address": "2 Avenue du Clos Mouron - Tournus",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel du golf",
+    "address": "1218 Route de Champlong - Villerest",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Champlong - chemin de la chapelle",
+    "address": "100 chemin de la chapelle - villerest",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place De Verdun - Saint-Haon-le-Châtel",
+    "address": "119 Place De Verdun - Saint-Haon-le-Châtel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

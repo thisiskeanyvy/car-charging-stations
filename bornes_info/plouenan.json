@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEF - Plouénan (Cité de Kermaria)",
+    "address": "Cité de Kermaria - Plouénan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Saint-Pol-de-Léon - McDonalds",
+    "address": "ZA de Kerranou - Saint-Pol-de-Léon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Saint-Pol-de-Léon",
+    "address": "110 Rue de Plouénan - Saint-Pol-de-Léon",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Les Mouettes Yelloh!",
+    "address": "177 Ty Bihan - Carantec",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Rue Pen Ar Pont",
+    "address": "Rue pen ar pont - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E Leclerc St.-Pol-de-Léon",
+    "address": "81 Rue De Brest - Saint-Pol-de-Léon",
+    "connectors": [
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Bricomarché - St.-Pol-de-Léon",
+    "address": "21 Rue Joseph Kersebet - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ouest Charge - Saint-Pol-de-Léon - Aire de Covoiturage Kerglaz Saint-Pol",
+    "address": "18 Rue de Kerglaz - Saint-Pol-de-Léon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Place de l'Evêché - Saint-Pol-de-Léon",
+    "address": "2 Place de l'Évêché - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plouvorn (Place du Marché)",
+    "address": "Place du Marché - Plouvorn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

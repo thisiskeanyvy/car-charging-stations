@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MobiSDEC - Chemin du puit",
+    "address": "Le Bourg - Marolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - MOYAUX (Rue Gustave Flaubert)",
+    "address": "Rue Gustave Flaubert - Moyaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Siège 27 Market Thiberville",
+    "address": "18 Route de Lieurey - Thiberville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Siege 27 - Place des écoles - Thiberville",
+    "address": "7 Place Des Ecoles - Thiberville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Gare du Safari Train - Hermival-les-Vaux",
+    "address": "Chemin Des Sept Voies - Hermival-les-Vaux",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chemin Des Sept Voies - Hermival-les-Vaux",
+    "address": "Chemin Des Sept Voies - Hermival-les-Vaux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y55 - Hermival-Les-Vaux - Route de Cormeilles",
+    "address": "Route de Cormeilles - Hermival-Les-Vaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hyundai - Glos",
+    "address": "351 Boulevard Jean-Charles Contel - Glos",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 70 Rue De L'abbaye - Cormeilles",
+    "address": "70 Rue De L'abbaye - Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Cormeilles",
+    "address": "24 Rue de l'Abbaye - Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

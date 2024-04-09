@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Hôtel La Chartreuse du Val Saint Esprit",
+    "address": "1 Rue de Fouquières - Gosnay",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue Achille Châtelet - Gosnay",
+    "address": "Rue Achille Châtelet - Gosnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Fouquières-lès-Béthune - 780 Rue Fernand Fanien",
+    "address": "780 Rue Fernand Fanien - Fouquières-lès-Béthune",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Fouquières-lès-Béthune",
+    "address": "Zone d'Activité Actipolis - Fouquières-lès-Béthune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ZAC Actipolis1 - Fouquières-lès-Béthune SUPPRIMÉ",
+    "address": "41 Zone d'activité Actipolis - Fouquières-lès-Béthune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Optical center - Fouquières-lès-Béthune",
+    "address": "2 Zone d'activité Actipolis - Fouquières-lès-Béthune",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Boulanger - Fouquières-lès-Béthune",
+    "address": "2 Zone d'activité Actipolis - Fouquières-lès-Béthune",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "E-Totem - Fouquières-lès-Béthune - Rapid'Eau",
+    "address": "Z.A. Actipolis - Fouquières-lès-Béthune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Avenue de Londres - Béthune",
+    "address": "Avenue de Londres - Béthune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan La Rotonde - Rue Benjamin Moloise - Béthune",
+    "address": "483 Rue Benjamin Moloise - Béthune",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

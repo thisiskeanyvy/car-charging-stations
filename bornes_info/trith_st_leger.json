@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Maing | Rue Jean Jaurès 61",
+    "address": "61 Rue Jean Jaurès - Maing",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PassPass - Technopole Transalley - Famars",
+    "address": "Technopôle Transalley - Famars",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ENGIE Vianeo - A2 - La Sentinelle Est (direction Belgique)",
+    "address": "A2\r\n - Trith-Saint-Léger",
+    "connectors": [
+      "x1",
+      "x1",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rossini Energy/Kiloutou_Sentinelle",
+    "address": "221 Rue Victor Hugo - La Sentinelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - 30 Chemin des Bourgeois - Aulnoy-Lez-Valenciennes",
+    "address": "Chemin des Bourgeois - Aulnoy-Lez-Valenciennes",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "R3 - Norauto - Aulnoy-les-Valenciennes",
+    "address": "3 P Rue des Bessemers - Aulnoy-Lez-Valenciennes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 6 Zone d’Activités les Poutrelles - Trith-Saint-Léger",
+    "address": "6 Zone d’Activités les Poutrelles - Trith-Saint-Léger",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue Marc Lefrancq - Prouvy",
+    "address": "Avenue Marc Lefrancq - Prouvy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PassPass - Michel Moriamez - Aulnoy-Lez-Valenciennes",
+    "address": "Rue Michel Moriamez - Aulnoy-Lez-Valenciennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Yellow Parc - Prouvy",
+    "address": "Route Nationale 30 - Prouvy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

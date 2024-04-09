@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDET - parking Allée Jean Jaurès",
+    "address": "Allée Jean Jaurès - Salvagnac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - D999 - Salvagnac",
+    "address": "D999 - Salvagnac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Base de Loisirs des Sourigous",
+    "address": "lac des tasconis - Salvagnac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "M. Lefebvre",
+    "address": "6 Lotissement de la Crabière - Saint-Urcisse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rabastens",
+    "address": "35 Route d'Albi - Rabastens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Le Cazal D8A - Puycelsi",
+    "address": "Le Cazal - Puycelsi",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Quai de la Libération Rabastens",
+    "address": "25-31 Quai de la Libération - Rabastens",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Boulevard de la Gare Monclar-de-Quercy",
+    "address": "5 Avenue du Lac - Monclar-de-Quercy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Jean Berenguier - Coufouleux",
+    "address": "Avenue Jean Berenguier - Coufouleux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET (Révéo) - D964 - Mairie de Larroque",
+    "address": "D964 - Larroque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEIL - Aire de Manthelan - Route de Tours",
+    "address": "15 Route de Tours - Manthelan",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue d'Ange d'Orsay - La Chapelle-Blanche-Saint-Martin",
+    "address": "Rue d'Ange d'Orsay - La Chapelle-Blanche-Saint-Martin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo SIEIL - Place de la Paix - Bossée",
+    "address": "4 Place de la Paix - Bossée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEIL - Place de la Paix - Bossée",
+    "address": "4 Place de la Paix - Bossée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue Principale Bournan",
+    "address": "24 Rue Principale - Bournan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEIL - Avenue de la Foire",
+    "address": "Avenue de la Foire - Saint-Branchs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Allée des Cyclamens - Ligueil",
+    "address": "Allée des Cyclamens - Ligueil",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Ateliers municipaux - Sepmes",
+    "address": "78 Rue de la République - Sepmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEIL - Rue Jean Michaud, 2 - Cussay",
+    "address": "2 Rue Jean Michaud - Cussay",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 - Aire de La Fontaine Colette (direction Tours)",
+    "address": "A10 - Saint-Épain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

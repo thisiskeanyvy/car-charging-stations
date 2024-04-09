@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Révéo - Rond Point rue des Troenes / rue des Tamaris",
+    "address": "6 Rue des Troenes - Milhaud",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Route de Montpellier - Milhaud",
+    "address": "1100 Route de Montpellier - Milhaud",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Milhaud - Loc +",
+    "address": "67 Rte de Nîmes, - Milhaud",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - 3315 Route de Montpellier - Nîmes",
+    "address": "3315 Route de Montpellier - Nîmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volvo - Nîmes - 22kW AC",
+    "address": "27 Rue du Pied Ferme - Nîmes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Nîmes - Rue Du Pied Fermé",
+    "address": "Rue Du Pied Fermé - Nîmes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - On Air Fitness - Nîmes",
+    "address": "- On Air Fitness - Chemin Jules Lissajous - Nîmes",
+    "connectors": [
+      "x6",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Umarex Lenoir - 222 Rue Etienne Lenoir - Nîmes",
+    "address": "222 Rue Etienne Lenoir - Nîmes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Parking Bureau de Poste - Bld Charles Mourier - Bernis",
+    "address": "16B Boulevard Charles Mourier - Bernis",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SKODA Espace Automobile Nimois (Privée)",
+    "address": "route de Montpellier 2210 - NIMES",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Parking - Avenue de Toulouse - Aucamville",
+    "address": "11 Avenue de Toulouse - Aucamville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Launac, Foirail",
+    "address": "31330 Place de la Halle - Launac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDE82 - Rue Camp Del Barrou - Savenès",
+    "address": "Rue Bellevue - Savenès",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarche - Verdun-sur-Garonne",
+    "address": "136 Chemin de la Fontaine de Paris - Verdun-sur-Garonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Rue Chaupy - Grenade",
+    "address": "Rue Chaupy - Grenade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE82 - Rue des Écoles Verdun",
+    "address": "11-3 Rue Mangegats - Verdun-sur-Garonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Super U - Grenade",
+    "address": "253 Chemin de Montagne - Grenade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 120 Rue du Colombier - Verdun-sur-Garonne",
+    "address": "120 Rue du Colombier - Verdun-sur-Garonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Verdun-sur-Garonne - Avenue Du Parc Des Sports",
+    "address": "Avenue Du Parc Des Sports - Verdun-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Clauses de la Filouse Bretx",
+    "address": "32 Clauses de la Filouse - Bretx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

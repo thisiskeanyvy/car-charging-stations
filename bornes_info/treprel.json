@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Au Domaine de La Pommeraye",
+    "address": "8032 La Couture - La Pommeraye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Pont-d'Ouilly (parking de l'église)",
+    "address": "Rue de Bretagne - Pont-d'Ouilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - La Tour Domaine de la Tour - Saint-Pierre-Canivet",
+    "address": "La Tour Domaine de la Tour - Saint-Pierre-Canivet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Tour (Tesla) - St.-Pierre-Canivet",
+    "address": "1 La Tour - St.-Pierre-Canivet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - CLECY (Rue Arsène Delavigne)",
+    "address": "Rue Arsène Delavigne - Clécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Ibis Rouge Falaise",
+    "address": "Rue Louis Rochet - FALAISE",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Route de Caen - Falaise",
+    "address": "Route de Caen - Falaise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NL*EVB - FALAISE - BD DU PAYS DE FALAISE ZONE EXPANSIA 2",
+    "address": "BD DU PAYS DE FALAISE ZONE EXPANSIA 2 - FALAISE",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Falaise (Place du Docteur H Cailloué)",
+    "address": "Place du Docteur H Cailloué - Falaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mobisdec - FALAISE (passage des templiers)",
+    "address": "24 Rue Trinité - Falaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "WAAT - 43 Rue du Parc - Épinay-sur-Orge",
+    "address": "43 Rue du Parc - Épinay-sur-Orge",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Épinay-sur-Orge - Gare RER",
+    "address": "3-5 Rue Pasteur - Épinay-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SMOYS - Épinay-sur-Orge - Parking des Templiers",
+    "address": "1 Rue de la Croix Ronde - Épinay-sur-Orge",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Vinci - Villemoisson-sur-Orge - Parking des Fougères",
+    "address": "23\r\n Avenue du Grand Orme\r\n - Villemoisson-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Rue Henri Barbusse - Savigny Sur Orge",
+    "address": "24 Rue Henri Barbusse - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Gare RER de Gravigny-Balizy - Longjumeau",
+    "address": "10 Rue des Templiers - Longjumeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Rue Henri Dunant - Savigny-sur-Orge",
+    "address": "33 Rue Henri Dunant - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMOYS - Avenue Charles de Gaulle - Savigny-sur-Orge",
+    "address": "63 Avenue Charles de Gaulle - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Paris-Saclay Mobiélectrique - Gymnase de Ballainvilliers",
+    "address": "12 Chemin de la Guy - Ballainvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Avenue de l'Armée Leclerc - Savigny-sur-Orge",
+    "address": "102 Avenue de l'Armée Leclerc - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

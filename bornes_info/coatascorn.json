@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDE22 Plouëc du Trieux",
+    "address": "Rue de la Mairie - Plouëc-du-Trieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bégard, place de l'église​",
+    "address": "Place du Centre - Bégard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Pommerit-Jaudy",
+    "address": "4 Rue de la Gare - Pommerit-Jaudy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Bégard",
+    "address": "Rue De Guingamp - Bégard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 Kermoroch",
+    "address": "Place de l'Église - Kermoroc'h",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Bégard - Netto",
+    "address": "6 Hent Stank Névez - Bégard",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking - Cour Saint-Martin",
+    "address": "7 Rue du Quai - Pontrieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Rue Maurice Denis Cavan",
+    "address": "Rue Maurice Denis - Cavan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Rue de l'Hôpital - la Roche Derrien",
+    "address": "Parking Rue de l'Hôpital - La Roche-Derrien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Saint-Clet - Rue du Tregor",
+    "address": "Rue du Tregor - Saint-Clet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

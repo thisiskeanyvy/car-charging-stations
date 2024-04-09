@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SIEIL - Rue Michel Debré",
+    "address": "Rue Michel Debré - Chargé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Chargé - Château de Pray",
+    "address": "10 Rue Du Cèdre - Chargé",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NW IECharge - Chargé - 293 rue de la Musse",
+    "address": "293 rue de la Musse - Chargé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Rue Abel Gody",
+    "address": "296 Rue Abel Gody - Amboise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue André Huard - Amboise",
+    "address": "Rue André Huard - Amboise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Clos du Potager - Pocé-sur-Cisse",
+    "address": "12 Clos du Potager - Pocé-sur-Cisse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Route des Industries - Pocé-sur-Cisse",
+    "address": "10 Route des Industries - Pocé-sur-Cisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Amboise",
+    "address": "Avenue Léonard de Vinci - Amboise",
+    "connectors": [
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia-Express - Avenue Léonard de Vinci - Amboise",
+    "address": "Avenue Léonard de Vinci  - Amboise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Rue du Seuvrage, La Ramée - Pocé-sur-Cissé",
+    "address": "La Ramée - Pocé-sur-Cisse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

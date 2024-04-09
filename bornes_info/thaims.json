@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SunXLium - Meursac - 12 Rue des Écoles",
+    "address": "12 Rue des Écoles - Meursac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEER17 MobiVE - Cozes - Route de Talmont",
+    "address": "5 Impasse de l'École Privée - Cozes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SunXLium - Cozes - Impasse des Petits Fossés (PRIVATE)",
+    "address": "Impasse des Petits Fossés - Cozes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SAS LA SERPAUDERIE",
+    "address": "1 Hameau de la Serpauderie - Saint-André-de-Lidon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - 24 Rue du Chagnaud - Rioux",
+    "address": "24 Rue du Chagnaud - Rioux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Pisany - Allée des Sports (mairie / pharmacie)",
+    "address": "Allée des Sports - Pisany",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Gémozac",
+    "address": "Pied Sec - Gémozac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Super U - Gémozac",
+    "address": "5 Pied Sec Route de Saintes ZA - Gémozac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Poste Tesson",
+    "address": "6 Avenue De l'Estuaire - Tesson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MObiVE SDEER17 - Gémozac - Place de Verdun",
+    "address": "1 Place de Verdun - Gémozac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

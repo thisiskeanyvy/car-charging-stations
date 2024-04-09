@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEHG - Miramont-de-Comminges",
+    "address": "Rue de Verdun - Miramont-de-Comminges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Escarreres - Encausse-les-Thermes",
+    "address": "19 Carrère d'Argus - Encausse-les-Thermes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Avenue du Pic du Midi, ZAC des Landes - Estancarbon",
+    "address": "Avenue du Pic du Midi, ZAC des Landes - Estancarbon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Estancarbon",
+    "address": "rue du Pic du midi - Estancarbon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Ibis Budget - Estancarbon",
+    "address": "3 Avenue du Pic du Midi Ibis Budget - Estancarbon",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electromaps - 2 Avenue du Cagire - Estancarbon",
+    "address": "2 Avenue du Cagire - Estancarbon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Autorama Sud Ouest - Estancarbon",
+    "address": "Bd des Landes - Estancarbon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Saint-Gaudens",
+    "address": "4 Rue Jean Suberville - Saint-Gaudens",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Hyundai Innovation Automobile - Estancarbon",
+    "address": "Boulevard des Landes - Estancarbon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Bricomarché - Estancarbon",
+    "address": "Avenue du Cagire - Estancarbon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

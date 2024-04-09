@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Zephyre - 1641 Avenue du Mesnil Gremichon",
+    "address": "1641 Avenue du Mesnil Gremichon - Saint-Martin-du-Vivier",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Route des Sources - Fontaine-sous-Préaux",
+    "address": "Route des Sources - Fontaine-sous-Préaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - 296 Avenue des Hauts Grigneux - Bihorel",
+    "address": "296 Avenue des Hauts Grigneux - Bihorel",
+    "connectors": [
+      "x2",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Saint Martin du Vivier - 280 Rue Édouard Delamare Deboutteville",
+    "address": "280 Rue Édouard Delamare Deboutteville - Saint Martin du Vivier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bulle de linge - Rue Édouard Delamare Deboutteville - Saint-Martin-du-Vivier",
+    "address": "232 Rue Édouard Delamare Deboutteville - Saint-Martin-du-Vivier",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREAVENIR / parking collège Léonard de Vinci - Bois-Guillaume",
+    "address": "Avenue Persée - Bois-Guillaume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharg - Rue du Soleil Levant - Bois-Guillaume",
+    "address": "Rue du Soleil Levant 1 - Bois-Guillaume",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Bois-Guillaume-Bihorel (Parking-relais des Rouges Terres)",
+    "address": "4772 Route de Neufchâtel - Bois-Guillaume",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Budget - Isneauville",
+    "address": "140 Rue du Mont Perreux - Isneauville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CREA - Route de Neufchâtel - Isneauville",
+    "address": "509 Route de Neufchâtel - Isneauville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  }
+]

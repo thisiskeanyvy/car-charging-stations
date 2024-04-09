@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE07 - Place des brassierres",
+    "address": "6 Place des Brassières - Rochemaure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue Chevriere - Meysse",
+    "address": "Rue Chevrière - Meysse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - 9 Rue de la Pradal - Montélimar",
+    "address": "9 Rue de la Pradal - Montélimar",
+    "connectors": [
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montélimar",
+    "address": "14 Rue Roger Morin - Montélimar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché - Chemin du Dépot - Le Teil",
+    "address": "Chemin du Dépot - Le Teil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Teil - Intermarché",
+    "address": "Chemin Du Dépôt - Le Teil",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Nissan - Montélimar",
+    "address": "102 route de Valence - Montélimar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Montélimar",
+    "address": "102 route de Valence - Montélimar",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Place René Montérémal - Le Teil",
+    "address": "Place René Montérémal - Le Teil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Villa Magnolia Parc (Tesla and others)",
+    "address": "18 Avenue de Rochemaure - Montélimar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

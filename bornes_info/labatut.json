@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SYDEC - Rue la Barraque",
+    "address": "82 Rue la Barraque - Habas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MobiVE) - Place de la Mairie - Puyoo",
+    "address": "3 Place de la Mairie - Puyoo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zeborne/FRLKMF7ZSELMZ4",
+    "address": "160 Route d'Estibeaux - Pouillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue des écoles Pouillon",
+    "address": "46 Rue des Écoles - Pouillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Peugeot - Pouillon",
+    "address": "865 Boulevard Des Sports - Pouillon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - Cauneille",
+    "address": "25 Chemin de Laregle - Cauneille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Cauneille - Intermarché",
+    "address": "25 Chemin de la Règle - Cauneille",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEC (MObiVE) - Rue Amédée Labarthe Peyrehorade",
+    "address": "135 Rue Amédée Labarthe - Peyrehorade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue Gabriel Graner - Salies-de-Béarn",
+    "address": "Avenue Gabriel Graner - Salies-de-Béarn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lumi'in - Brit Hotel Le Lodge Du Golf - Salies-de-Béarn",
+    "address": "Chemin de Labarthe Brit Hotel Le Lodge Du Golf - Salies-de-Béarn",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

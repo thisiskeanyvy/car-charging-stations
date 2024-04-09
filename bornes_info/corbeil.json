@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Cogelum Citeos - Corbeil-Essonnes - Place Galignani",
+    "address": "Place Galignani - Corbeil-Essonnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mairie - Saint-Germain-lès-Corbeil",
+    "address": "2 Route de Lieusaint - Saint-Germain-lès-Corbeil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Auchan - Saint-Germain-lès-Corbeil",
+    "address": "3 Place de l'Europe - Saint-Germain-lès-Corbeil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Place Victor Hugo - Saint-Germain-lès-Corbeil",
+    "address": "Place Victor Hugo - Saint-Germain-lès-Corbeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Cogelum Citeos - Corbeil-Essonnes - 49 Rue du Bas Coudray",
+    "address": "49 Rue du Bas Coudray - Corbeil-Essonnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Cogelum Citeos - Corbeil-Essonnes - 30 Place Léon Casse",
+    "address": "30 Place Léon Casse - Corbeil-Essonnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*JRC - Corbeil-Essonnes - 87 Rue Émile Zola",
+    "address": "87 Rue Émile Zola - Corbeil-Essonnes",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Shell-Recharge - Ave du Gal De Gaulle - Saint-Pierre-du-Perray",
+    "address": "Ave du Gal De Gaulle - Saint-Pierre-du-Perray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Kia - ZEborneMS - 33 Avenue du 8 Mai 1945 - Corbeil-Essones",
+    "address": "33 Avenue du 8 Mai 1945 - Corbeil-Essones",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Saintry-sur-Seine - 57 Grande Rue Charles de Gaulle",
+    "address": "57 Grande Rue Charles de Gaulle - Saintry-sur-Seine",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

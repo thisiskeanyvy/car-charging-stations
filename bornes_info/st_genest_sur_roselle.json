@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Izivia - Super U - Saint-Hilaire-Bonneval",
+    "address": "11\r\n Rue du Commerce\r\n - Saint-Hilaire-Bonneval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Place de l'Église - Saint-Paul",
+    "address": "Place de l'Église - Saint-Paul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auberge Dupuytren",
+    "address": "24 Avenue de la République - Pierre-Buffière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Avenue des Tilleuls - Saint-Jean-Ligoure",
+    "address": "5170J Avenue des Tilleuls - Saint-Jean-Ligoure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE/FR*S87*PMB87*23",
+    "address": "Place du 8 Mai 1945 - Saint-Germain-les-Belles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Rue de la Tour - Boisseuil",
+    "address": "Rue de la Tour - Boisseuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Limoges Boisseuil",
+    "address": "Rue de la Tour - Boisseuil",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVzen - Norauto - Le Vigen",
+    "address": "Rue de la Tour - Le Vigen",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sure Hotel by best western - rue de l'essart",
+    "address": "rue de l'essart - Feytiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Mairie de Châteauneuf la Forêt",
+    "address": "8 Place du 8 Mai 1945 - Châteauneuf-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

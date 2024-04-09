@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Grenoble Métropole - Place de Lavalette",
+    "address": "10 Place de Lavalette - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Parking du Musée",
+    "address": "50 Avenue Maréchal Randon - Grenoble",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Parking Lafayette (-1) - Grenoble",
+    "address": "16 Rue Raoul Blanchard - Grenoble",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Quai stéphane Jay - Grenoble",
+    "address": "Quai Stéphane Jay - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 2 Place de Verdun - Grenoble",
+    "address": "2 Place de Verdun - Grenoble",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Grenoble Métropole - Place Jean Achard",
+    "address": "3 Place Jean Achard - Grenoble",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EFFIA - Parking Indigo Philippeville - Grenoble",
+    "address": "5 Rue de Belgrade - Grenoble",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel Le Patricia",
+    "address": "2Bis Rue Marcel Deprez - Grenoble",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Place Dr Léon Martin",
+    "address": "Place Dr Léon Martin - Grenoble",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RockyPop Grenoble",
+    "address": "9 Rue de Strasbourg - Grenoble",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

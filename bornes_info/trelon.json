@@ -1,0 +1,124 @@
+[
+  {
+    "title": "EZ Charge - Momignies - Zone Industrielle 3",
+    "address": "Zone Industrielle 3 - Momignies",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand-Place - Momignies",
+    "address": "1 Grand-Place - Momignies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "11 Rue Mahy Momignies",
+    "address": "11 Rue Mahy - Momignies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Rue de Grenoble 21 - Fourmies",
+    "address": "21 Rue de Grenoble - Fourmies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Château de la Motte-Liessies (Tesla)",
+    "address": "14 Rue de la Motte - Liessies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Château de la Marlière (Tesla)",
+    "address": "62/64 Rue Théophile Legrand - Fourmies",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Fourmies - But",
+    "address": "zone d'activité La Marlière - Fourmies",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Fourmies",
+    "address": "65 Rue Marceau Batteux - Fourmies",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Parking Ibis - Rue des Étangs - Fourmies",
+    "address": "Rue des Étangs - Fourmies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Écomusée de l'Avesnois - Fourmies",
+    "address": "Place Maria Blondeau - Fourmies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

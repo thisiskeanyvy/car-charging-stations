@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Syndicat Départemental d'Electricité et de Gaz de Charentes (SDEG16) - Place Du Pigeonnier - Marthon",
+    "address": "Place Du Pigeonnier - Marthon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Intermarché - Place de l'Hôtel de Ville - Montbron",
+    "address": "Place de l´Hôtel de Ville - Montbron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - 4 Pl. de l'Hotel de Ville - Montbron",
+    "address": "4 Pl. de l'Hotel de Ville - Montbron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 (MobiVE) - Javerlhac-et-la-Chapelle-Saint-Robert - Place du 8 Mai 1945",
+    "address": "Place du 8 Mai 1945 - Javerlhac-et-la-Chapelle-Saint-Robert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Rouzède - 26 Domaine de la Haute Preze",
+    "address": "26 Domaine de la Haute Preze - Rouzède",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Car - Busserolles",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du bourg",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Les Petits Moulins - Saint-Estèphe",
+    "address": "25 Les Petits Moulins - Saint-Estèphe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Route De Riberac - La Rochebeaucourt-et-Argentine",
+    "address": "64-68 Rue de Ribérac - La Rochebeaucourt-et-Argentine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE24 - Saint-Estèphe - Route du Grand Étang",
+    "address": "Route du Grand Étang - Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

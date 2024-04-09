@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SyDEV - Place Saint Harmand - Sainte-Hermine",
+    "address": "4 Route de la Rochelle - Sainte-Hermine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A83 - Aire de la Vendée (double sens)",
+    "address": "A83 - Sainte-Hermine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - A83 Aire de la Vendée (direction Niort)",
+    "address": "A83 - Sainte-Hermine",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aire de la Vendée",
+    "address": "Aire de la vendée - Saint-Hermine",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Corbe - Bournezeau",
+    "address": "105 La Corbedomere - Bournezeau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "atlantic modulaire",
+    "address": "51 Rue Archereau - Bournezeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot France - Chantonnay - 54 Av. Georges Clemenceau",
+    "address": "54 Av. Georges Clemenceau - Chantonnay",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Melon Céleste - Sainte-Gemme-la-Plaine",
+    "address": "- Sainte-Gemme-la-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Jeanne d'Arc - CHANTONNAY",
+    "address": "Place Jeanne D'Arc - Chantonnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Georges Clémenceau - BAZOGES EN PAREDS",
+    "address": "Rue Georges Clémenceau - Bazoges-En-Pareds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

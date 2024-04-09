@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Truffaut Saint-Pavace",
+    "address": "Boulevard du Maréchal de Lattre de Tassigny - Saint-Pavace",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - U Location - Saint-Pavace",
+    "address": "2 Route de Coulaines - Saint-Pavace",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SGA Automation - Neuville-sur-Sarthe - Chemin de Chapeau",
+    "address": "Chemin de Chapeau - Neuville-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Le Mans - Parc Manceau",
+    "address": "Rue du Parc Manceau - Le Mans",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Castorama - le Mans",
+    "address": "0 Z.a. de l'ardoise route d'alençon72021 - LE MANS - Le Mans",
+    "connectors": [
+      "x27",
+      "x27"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Intermarché - Le Mans",
+    "address": "51 Avenue Georges Duhamel - Le Mans",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Le Mans - Route d'Alençon",
+    "address": "Route d'Alençon - Le Mans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Mans | Rue Hippolyte Foucault",
+    "address": "Rue Hippolyte Foucault - Le Mans",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Rue Thomas Edison - Le Mans",
+    "address": "2 Rue Thomas Edison - Le Mans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Tesla Supercharger V2 - Le Mans",
+    "address": "6-24 Rue de la Rivière - La Chapelle-Saint-Aubin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

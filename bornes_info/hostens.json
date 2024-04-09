@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Intermarché - Route des Prés",
+    "address": "25 Route des Prés - Belin-Béliet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Place Michelet - Saint-Symphorien",
+    "address": "2 Place Michelet - Saint-Symphorien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 (MObiVE) - Rue de la Carreyre Le Barp",
+    "address": "Rue de la Carreyre - Le Barp",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - D834 Moustey",
+    "address": "D834 - Moustey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge France - 25 Rte du Béguey - Salles INEXISTANT",
+    "address": "25 Rte du Béguey - Salles",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place de Salles",
+    "address": "30 Rue Va aux Champs - Salles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - La Poste - Sore",
+    "address": "Place de la République - Sore",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour market Salles",
+    "address": "6 Route de Minoy - Salles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Place de l'Estonnac - Landiras",
+    "address": "Place de l'Église - Landiras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Last Mile Solutions - 1 Avenue du Médoc",
+    "address": "1 Avenue du Médoc - Le Barp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Freshmile - Place Henri Salvador - lixing les saint avold",
+    "address": "place henri Salvador - lixing les saint avold",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Gare de Valmont St-Avold",
+    "address": "44 Rue de la Gare - Valmont",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Avold",
+    "address": "Rue du Wenheck - Valmont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CONTROLE TECHNIQUE DU ROND POINT - AUTOSECURITE",
+    "address": "44 Avenue Foch - Folschviller",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Valmont Mairie",
+    "address": "13 Rue de la Mairie - Valmont",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - B'Est - Farébersviller",
+    "address": "D29 - Farébersviller",
+    "connectors": [
+      "x34",
+      "x31",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Folschviller mairie",
+    "address": "1 Rue d'Usson du Poitou - Folschviller",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Farébersviller - CC B'Est",
+    "address": "61 Avenue Saint-Jean - Farébersviller",
+    "connectors": [
+      "x34"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Francaltroff - 1 Rue De Dieuze",
+    "address": "1 Rue De Dieuze - Francaltroff",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ionity - Farébersviller",
+    "address": "Centrz commercial B'EST - Farébersviller",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

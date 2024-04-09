@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Soregies - Parking écoles - Leigné-les-Bois",
+    "address": "2-8 Rue des Écoles - Leigné-les-Bois",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase - Sorégies - Parking de l'église - Pleumartin",
+    "address": "Parking de l'église - Pleumartin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Sorégies - Rue de Guerstling - Chenevelles",
+    "address": "15 Rue de Guerstling - Chenevelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IECharge - Pleumartin - D3",
+    "address": "D3 - Pleumartin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place palousier - Senillé",
+    "address": "10 Rue Berry - Senillé",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stade de Saint-Sauveur",
+    "address": "22 Route de la Croix Blanche - Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Appartements Les Cerisiers (Tesla et autres)",
+    "address": "1 Rue des Cerisiers - La Roche-Posay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterbaseSoregies - Rue Pierre Nonnet - La Roche-Posay",
+    "address": "1 Rue Pierre Nonnet - La Roche-Posay",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Logis Hôtel-Restaurant Au Clos Paillé",
+    "address": "4 Rue du Clos Paille - La Roche-Posay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route de Lesigny - La Roche-Posay",
+    "address": "route de lesigny - La Roche-Posay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

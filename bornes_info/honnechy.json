@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Pass pass électrique - Rue Miroux",
+    "address": "3 Rue Miroux - Clary",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Biesse",
+    "address": "8 Route de Clary - Montigny en Cambrésis",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Espace Santé",
+    "address": "28 Boulevard Paturle - Le Cateau-Cambrésis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 45 Rue de Landrecies - Le Cateau-Cambrésis (Privé)",
+    "address": "45 Rue de Landrecies - Le Cateau-Cambrésis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue de la Gare",
+    "address": "1 Rue de la Gare - Caudry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Le Cateau-Cambrésis",
+    "address": "43 Av Mal Leclerc De Hauteclocque - Le Cateau-Cambrésis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hypermarché E.Leclerc - Boulevard du 8 Mai 1945 - Caudry",
+    "address": "Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E.leclerc (Animaux) - Boulevard du 8 Mai 1945",
+    "address": "12 Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Caudry",
+    "address": "Boulevard Du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "R3 - Norauto - Caudry",
+    "address": "0 Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

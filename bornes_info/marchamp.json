@@ -1,0 +1,136 @@
+[
+  {
+    "title": "CNPE Creys Malville (Privé)",
+    "address": "D14A - Creys-Mépieu",
+    "connectors": [
+      "x4",
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Val escale",
+    "address": "14 Allée de l'Abreuvoir - Rossillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Les Vercheres - Briord",
+    "address": "340 Les Vercheres - Briord",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Montalieu-Vercieu - Impasse Du Port",
+    "address": "Impasse Du Port - Montalieu-Vercieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D52 Route du Revolon - Montalieu-Vercieu",
+    "address": "9\r\n Route du Revolon\r\n - Montalieu-Vercieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour Market - Montalieu-Vercieu",
+    "address": "151 RN, 75 Grande Rue, - Montalieu-Vercieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue du Besset - Montalieu-Vercieu",
+    "address": "Rue du Besset - Montalieu-Vercieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montalieu-Vercieu",
+    "address": "Chemin D'anclenoux - Montalieu-Vercieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IEcharge - Saint-Victor-de-Morestel - D60 Route de Thuile",
+    "address": "Chemin de Varsin - St.-Victor-de-Morestel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FR*LDL - Montalieu-Vercieu - Chemin d’Anclenoux",
+    "address": "Chemin d’Anclenoux - Montalieu-Vercieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

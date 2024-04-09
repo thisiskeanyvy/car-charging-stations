@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Prise Green Up - Avenue de la Vistrenque",
+    "address": "135 Avenue de la Vistrenque - Caissargues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - A54 Parking Relais - Nîmes",
+    "address": "Rond-Point de la 1ère Division Française Libre - Nîmes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Route de Saint-Gilles - Nîmes",
+    "address": "1545 Route de Saint-Gilles - Nîmes",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x3",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - BMW - Nîmes",
+    "address": "1550 Route De Saint - Gilles - Nîmes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Route de St Gilles 1500 - NIMES",
+    "address": "Route de St Gilles 1500 - NIMES",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Nimes Carré Sud",
+    "address": "148 Rue Jean Lauret - Nimes",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Atol les Opticiens - Nîmes Carré Beauté",
+    "address": "120 Rue Paul Laurent - Nîmes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Nimes - Union Matériaux",
+    "address": "160 Rue Michel Debre - Nimes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Géant Casino Cap Costières - Nîmes",
+    "address": "770 Chemin de la Fabrique Dezaga - Nîmes",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Rue Michel Debré",
+    "address": "153 Rue Michel Debré - Nîmes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Parking Les Granges de Bigose",
+    "address": "Lieu-dit, Bigose - Rimeize",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Peyre en Aubrac - Logis Hotel chez Camillou",
+    "address": "10 Route du Languedoc - Peyre en Aubrac",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel Chez Camillou (pour Tesla and others)",
+    "address": "8 Route Du Languedoc - Javols",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Spar - Saint-Alban-sur-Limagnole",
+    "address": "6346 Avenue de Saint-Chély d'Apcher - Saint-Alban-sur-Limagnole",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEE48 - Place Du Foirail - Aumont-Aubrac",
+    "address": "2 Place du Foirail - Peyre en Aubrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEE48 (Révéo) - Place du Foirail - Monts-de-Randon",
+    "address": "Place du Foirail - Monts-de-Randon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Salle des fêtes - Rieutort-de-Randon",
+    "address": "Route de Charpal - Monts-de-Randon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEE48 - Place du Foirail Saint-Chély-d'Apcher",
+    "address": "27 Place du Foirail - Saint-Chély-d'Apcher",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEE48 - Saint-Chély-d'Apcher",
+    "address": "13 Rue du Pontet - Saint-Chély-d'Apcher",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEE48 - Route de Saugues Le Malzieu-Ville",
+    "address": "Route de Saugues - Le Malzieu-Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

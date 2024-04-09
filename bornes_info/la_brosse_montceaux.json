@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Salle Polyvalente - La Brosse-Montceaux",
+    "address": "34 Rue Grande - La Brosse-Montceaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brico Dépôt - Cannes-Écluse",
+    "address": "3 Rue des Tournesols - Cannes-Écluse",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rue de la Vallée - Villeneuve-la-Guyard",
+    "address": "6 Rue de la Vallée - Villeneuve-la-Guyard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Villeneuve la Guyard - Parking de la gare Nord",
+    "address": "Villeneuve la Guyard, Parking de la gare - Villeneuve la Guyard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Villeneuve La Guyard, Parking de la gare sud",
+    "address": "Villeneuve La Guyard, Parking de la gare - Villeneuve-la-Guyard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Cannes-Écluse - RN6",
+    "address": "RN6 - Cannes-Écluse",
+    "connectors": [
+      "x16",
+      "x16",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Blanchard - Marolles sur seine",
+    "address": "1 Rue Blanchard - Marolles-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hotel de ville - Saint-Agnan",
+    "address": "2 Rue Paul Grappillard - Saint-Agnan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route du Petit Fossard - Esmans",
+    "address": "52 Route Du Petit Fossard - Esmans",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Poivre rouge - Varennes-sur-Seine (Privé)",
+    "address": "37 Route du Petit Fossard - Esmans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEEG33 - Place de l'arc - Bourg sur Gironde",
+    "address": "10 Rue du Château Vieux - Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château Dauzac (Tesla)",
+    "address": "1 Avenue Georges Johnston - Labarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Siran - Avenue du Comté Lynch",
+    "address": "13 Avenue du Comté Lynch - Labarde",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Groleau",
+    "address": "49 Groleau-Ouest - Mombrier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Desmirail",
+    "address": "28 Avenue de la 5ème République - Margaux-Cantenac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Palmer - Cantenac",
+    "address": "14 Avenue Pierre Chardon - Cantenac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 10 Route de Giscours - Labarde",
+    "address": "10 Route de Giscours - Labarde",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDF AMT SO",
+    "address": "50 Rue Saint-Exupéry - Ambès",
+    "connectors": [
+      "x4",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Services techniques municipaux - Ambès",
+    "address": "Place du 11 Novembre - Ambès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Borne Ludon Médoc",
+    "address": "Place Jean Jaurès - Ludon-Médoc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

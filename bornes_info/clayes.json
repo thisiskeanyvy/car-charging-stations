@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Alizé - Avenue Jules Ferry - Les Clayes-sous-Bois",
+    "address": "Avenue Jules Ferry - Les Clayes-sous-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Alizé - Chemin des Vignes - Les Clayes-sous-Bois",
+    "address": "Chemin des Vignes - Les Clayes-sous-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alizé - Avenue de Touraine - Villepreux",
+    "address": "26 Avenue de Touraine - Villepreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Carrefour Market - Villepreux",
+    "address": "Lieu-dit 'Le Val Joyeux' - Rue Georges Nagelmackers, - Villepreux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - One Nation - Les Clayes-sous-Bois",
+    "address": "Avenue du Président John Fitzgerald Kennedy - Les Clayes-sous-Bois",
+    "connectors": [
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Mairie de Villepreux",
+    "address": "2 Avenue du Général de Gaulle - Villepreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alizé - Avenue du Grand Canal - Villepreux",
+    "address": "21 Avenue du Grand Canal - Villepreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Les-clayes-sous-Bois - 3 Rue des entrepreneurs",
+    "address": "3 Rue des entrepreneurs - Les-clayes-sous-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Alpha Park II",
+    "address": "80 avenue Henri Barbusse - Les Clayes-sous-Bois",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking souterrain Alinéa - Avenue Henri Barbusse",
+    "address": "80 Avenue Henri Barbusse - Les Clayes-sous-Bois",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

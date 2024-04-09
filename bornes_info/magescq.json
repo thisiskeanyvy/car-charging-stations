@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SYDEC - Magescq",
+    "address": "Avenue de la Chalosse - Magescq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Pailotte",
+    "address": "66 Route des Campings - Azur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TAXI SMS (Tesla)",
+    "address": "Route de Magescq - Saint-Paul-lès-Dax",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint Geours de Marremne - ZAC Atlantisud",
+    "address": "183 Rue Du Pays d'Orthe - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 5 Allée de Cèrés - Saint-Geours-de-Maremne",
+    "address": "5 Allée de Cèrés - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Piscine de Saint-Geours-de-Maremne",
+    "address": "Rue du Gave (Aygue Blue) - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Netto de Soustons",
+    "address": "9 Avenue de Cramat - Soustons",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Boulevard Darrigade - Soustons",
+    "address": "Boulevard Darrigade - Soustons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Avenue de Labouyrie - Soustons",
+    "address": "Avenue de Labouyrie - Soustons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "edenauto renault",
+    "address": "maoucout - soustons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

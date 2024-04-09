@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SYDER - Médiathèque d'Arnas",
+    "address": "2 Rue du Beaujolais - Arnas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la passerelle - Arnas",
+    "address": "226 Ancienne Route de Beaujeu - Arnas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Gleize - GHT Hôpital - Parking Salarié 1",
+    "address": "Route d'Epinay - Gleize",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking personnel Hôpital Nord Ouest (Private)",
+    "address": "695 Rue des Moineaux - Gleize",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Gleize",
+    "address": "100 Rue du Tacot Beaujolais - Gleizé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Gleize - ZA d'Epinay, Le Village Beaujolais, D35",
+    "address": "ZA d'Epinay, Le Village Beaujolais, D35 - Gleize",
+    "connectors": [
+      "x2",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - Gleize - Rue des Moineaux",
+    "address": "Rue des Moineaux - Gleize",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Autobernard - Mercedes - 300 Av. de Joux, - Arnas",
+    "address": "300 Av. de Joux, - Arnas",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Renault Trucks - Villefranche-sur-Saône",
+    "address": "290 Av. de Joux, - Villefranche-sur-Saône",
+    "connectors": [
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Saint-Georges-de-Reneins",
+    "address": "Rue de l'Industrie - Saint-Georges-de-Reneins",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

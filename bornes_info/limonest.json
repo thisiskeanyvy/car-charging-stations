@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Route du Mont-Verdun Parking Valantin - Limonest",
+    "address": "Route du Mont-Verdun Parking Valantin - Limonest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZE Watt - ARC Europe Parc des Tuileries - Limonest (Privé)",
+    "address": "349 Sentier des Tuileries - Limonest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MEA Energies - Restaurant Del Arte - Dardilly",
+    "address": "1 Avenue de la Porte de Lyon - Dardilly",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Dardilly - RN 6 - Lieu dit la Garde - Limonest",
+    "address": "1859 N6 - Limonest",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia Grand Lyon - Camping Internationnal de Lyon - Dardilly",
+    "address": "1 Allée du Camping international - Dardilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "la maison de Karen Chocolat",
+    "address": "95 sentier du puy d'or - Limonest",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Dardilly",
+    "address": "5 Allée du Camping international - Dardilly",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Allée des Frènes - Limonest",
+    "address": "Allée des Frènes - Limonest",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Qovoltis - Lissieu - 29 Chemin de Fromenteau Espaces Verts des Monts d'Or",
+    "address": "29 Chemin de Fromenteau Espaces Verts des Monts d'Or - Lissieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Grand Lyon - Dardilly - 2 Allée de l'Esplanade",
+    "address": "2 Allée de l'Esplanade - Dardilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

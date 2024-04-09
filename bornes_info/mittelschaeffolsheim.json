@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Freshmile - 2 Rue Principale - Mittelschaeffolsheim",
+    "address": "2 Rue Principale - Mittelschaeffolsheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel-restaurant à l'Etoile (Tesla and others)",
+    "address": "21 rue de la Hey - Mittelhausen",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de l'Hippodrome - Eckwersheim",
+    "address": "Rue de l'Hippodrome - Eckwersheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A4 Aire de Brumath Ouest (direction Strasbourg)",
+    "address": "A4 - Brumath",
+    "connectors": [
+      "x9",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IZIVIA - A4 Aire de Brumath-Est (direction Metz)",
+    "address": "A4 - Brumath",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A4 Aire de Brumath-Est (direction Metz)",
+    "address": "A4 - Brumath",
+    "connectors": [
+      "x9",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Norma - Brumath",
+    "address": "182 Avenue de Strasbourg - Brumath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A4/D263 Relais Herrenwald - Brumath",
+    "address": "209 Avenue de Strasbourg - Brumath",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ÉS/ GARE DE BRUMATH",
+    "address": "16 Rue de la Gare - Brumath",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Couronne - Truchtersheim",
+    "address": "1 de la Couronne - Truchtersheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

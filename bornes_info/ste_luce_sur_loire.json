@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDEGO - Place du Général de Gaulle",
+    "address": "8 Place du Général de Gaulle - Sainte-Luce-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Autorecharge - Nantes - 13 Rue du Bois Briand",
+    "address": "13 Rue du Bois Briand - Nantes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Citroën - Nantes",
+    "address": "14 Rue du Marché Commun - Nantes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Production 44 - Nantes",
+    "address": "9 Rue de Bruxelles - Nantes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nantes | Rue d'Italie 3",
+    "address": "3 Rue d'Italie - Nantes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Nantes - 7 Rue de la Rainière",
+    "address": "5 Rue de la Rainière - Nantes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault retail group Carquefou",
+    "address": "Rue de la Métallurgie - Carquefou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Best Western Nantes Beaujoire - Sure Hotel",
+    "address": "rue du Chemin Rouge - Nantes",
+    "connectors": [
+      "x8",
+      "x8",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Nissan et DAF",
+    "address": "3 Rue de Pologne - Nantes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Carquefou - Wurth",
+    "address": "28B Route de Paris - Carquefou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

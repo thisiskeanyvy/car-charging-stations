@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Rue Émile Dourdet - Sauviat-sur-Vige",
+    "address": "2 Rue Émile Dourdet - Sauviat-sur-Vige",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEHV - Champnétery - D13 Aire de Covoiturage",
+    "address": "D13 - Champnétery",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place du Champ de Mars - Saint-Léonard-de-Noblat",
+    "address": "3 Place du Champ de Mars - Saint-Léonard-de-Noblat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sdec - Route de la Cascade - Bourganeuf",
+    "address": "Route de la Cascade - Bourganeuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Rue de l'Étang - Bourganeuf",
+    "address": "Rue de l'Étang - Bourganeuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Office du tourisme - Bourganeuf",
+    "address": "8 Place du Champ de Foire - Bourganeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auberge st Martin",
+    "address": "1 Le Bourg - Saint-Martin-Terressus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte Le Déserteur Saint Martin Terresus",
+    "address": "11 Le Bost - Saint-Martin-Terressus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis/443",
+    "address": "Le Vignaud du Haut - La Jonchère-Saint-Maurice",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Gare d'Ambazac",
+    "address": "1 Place de la Gare - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

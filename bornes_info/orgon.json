@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Intermarché - Orgon",
+    "address": "Avenue Jean Moulin - Orgon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - Orgon - Restaurant les Arcades",
+    "address": "5043 Route de Plan d'Orgon - Orgon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Mercure Ibis - Cavaillon",
+    "address": "601 Avenue Boscodomini - Cavaillon",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CMBC - Avenue Pierre Grand (Privé)",
+    "address": "363 Avenue Pierre Grand - Cavaillon",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plan-d'Orgon",
+    "address": "7 Route de Carques - Plan-d'Orgon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Route de Cavaillon - Plan-d'Orgon",
+    "address": "804 Route de Cavaillon - Plan-d'Orgon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Simone13 - Route de Cavaillon - Plan-d'Orgon",
+    "address": "Route de Cavaillon - Plan-d'Orgon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mairie - Route de Cavaillon - Plan-d'Orgon",
+    "address": "266 Route de Cavaillon - Plan-d'Orgon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Mairie de Plan-d'Orgon",
+    "address": "36 Rue du 19 Mars 1962 - Plan-d'Orgon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Proviridis - Avenue des Vergers - Plan-d'Orgon",
+    "address": "557 Avenue des Vergers - Plan-d'Orgon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

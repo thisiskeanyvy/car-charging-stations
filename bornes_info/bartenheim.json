@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Hôtel Au Lion Rouge",
+    "address": "1 Rue du Général de Gaulle - Bartenheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gare - Bartenheim",
+    "address": "49 Rue de la Gare - Bartenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Bartenheim",
+    "address": "2 Rue Jean Monnet - Bartenheim",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Chemin Tafelweg - Sierentz",
+    "address": "1 Chemin Tafelweg - Sierentz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Blotzheim - Hôtel Mercure Bâle Mulhouse Aéroport",
+    "address": "3a Rue de l'Industrie - Blotzheim",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Restaurant track",
+    "address": "3 Rue Pierre Clostermann - Blotzheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Grand Canal d'Alsace - Kembs",
+    "address": "Grand Canal d'Alsace - Kembs",
+    "connectors": [
+      "x16",
+      "x4",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Sierentz - Weldom",
+    "address": "Rue Poincaré Route Nationale, - Sierentz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie - Rosenau",
+    "address": "5 Rue de Kembs - Rosenau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mac Donald - Sierentz",
+    "address": "15 Rue du Capitaine Dreyfus - Sierentz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Lidl - Route de Paris - Yvré-l'Évêque",
+    "address": "23 Route de Paris - Yvré-l'Évêque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking du Stade de Fontenelles",
+    "address": "40 Rue du Taillis - Le Mans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Le Mans - 34 rue de Douce Amie",
+    "address": "34 rue de Douce Amie - Le Mans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking - Gymnase COSEC",
+    "address": "9 Rue Louison Bobet - Changé",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "la Pommeraie",
+    "address": "314 Rue de l'Éventail - Le Mans",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "See You Sun - Rue des Cyclamens - Le Mans",
+    "address": "1 Rue des Cyclamens - Le Mans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auberge de bagatelle - 489 avenue Bollée",
+    "address": "489 avenue Bollée - le mans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Super U - Changé",
+    "address": "Route du Tertre - Changé",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MMA - Le mans (Privé)",
+    "address": "227 Henri champion - Le mans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Le Mans Country Club (Tesla and others) - Yvré-l'Évêque",
+    "address": "Chemin de la Ragotterie - Yvré-l'Évêque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

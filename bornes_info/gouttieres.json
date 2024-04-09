@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SIEGE27 - Mesnil-en-Ouche",
+    "address": "Rue Gustave Mée - Mesnil-en-Ouche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Route de la Barre - Mesnil-en-Ouche",
+    "address": "11 Route de la Barre - Mesnil-en-Ouche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Éléphant Bleu - Beaumont-le-Roger",
+    "address": "13 Route de Bernay - Beaumont-le-Roger",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Place Carnot",
+    "address": "21 Boulevard Jean Pothin - Beaumont-le-Roger",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Rue Max Carpentier - Serquigny",
+    "address": "4 Rue Max Carpentier - Serquigny",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - La Barre-en-Ouche",
+    "address": "1 Grande Rue - La Barre-en-Ouche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Mc Donald's - Bernay",
+    "address": "2 Boulevard Sylla Lefèvre - Bernay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEGE27 - Place Lobrot - Bernay",
+    "address": "Place Lobrot Rue Judith de Bretagne - Bernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Gare de Bernay",
+    "address": "6 Rue Bernard Gombert - Bernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place Centre Ville",
+    "address": "Place de l'Église - La Neuve-Lyre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

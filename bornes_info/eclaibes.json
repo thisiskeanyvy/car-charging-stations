@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Mairie d'Eclaibes",
+    "address": "Chemin Margot - Éclaibes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Chemin des Paquiers - Saint-Remy-du-Nord",
+    "address": "Chemin des Paquiers - Saint-Remy-du-Nord",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Mairie de Saint-Rémy-du-Nord",
+    "address": "Rue de la Place - Saint-Remy-du-Nord",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de la Victoire - Bachant",
+    "address": "Rue Alphonse Polvent - Bachant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eglise Boussières-sur-Sambre",
+    "address": "Rue de l'Église - Boussières-sur-Sambre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - 10–14 Rue du Cimetière - Hautmont",
+    "address": "10–14 Rue du Cimetière - Hautmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Saint-Aubin",
+    "address": "Rue de Saint-Aubin - Saint-Rémy-Chaussée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Auchan - Louvroil",
+    "address": "9005 Rue de l'Espérance - Louvroil",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Bachant",
+    "address": "3 Rue de Maubeuge - Bachant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Retail park - Boulevard John Cockerill - Hautmont",
+    "address": "Boulevard John Cockerill - Hautmont",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

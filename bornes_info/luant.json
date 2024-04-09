@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDEI36 - Luant - Place de l'église",
+    "address": "4 Place de l'Église - Luant",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A20 - Aire des Mille Étangs (direction Limoges)",
+    "address": "A20 - Luant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Chemin de la Fontaine",
+    "address": "1 Chemin de la Fontaine - Neuillay-les-Bois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Châteauroux",
+    "address": "108 avenue d'occitanie - St. Maur",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Saint Maur - Leclerc",
+    "address": "// Boulevard du Franc - Saint Maur",
+    "connectors": [
+      "x22"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Maur",
+    "address": "1071 Boulevard Du Franc - Saint-Maur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zeborne - Toyota - Saint-Maur",
+    "address": "76 Avenue d'Occitanie - Saint-Maur",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Château des Planches",
+    "address": "4 Rue de Niherne - Saint-Maur",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EVBox - Web Auto - Avenue d'Occitanie - Saint-Maur",
+    "address": "Avenue d'Occitanie, 36250 Saint-Maur 68 - Saint-Maur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Av. d'Occitanie - St Maur",
+    "address": "118 Avenue d'Occitanie - Saint-Maur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

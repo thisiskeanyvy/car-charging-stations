@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SCIC Sempin E-STATION - Avenue Marcel Dassault",
+    "address": "Avenue Marcel Dassault - Montfermeil",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Chelles",
+    "address": "67 Route de Montfermeil - Chelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "La poste - Avenue des sciences",
+    "address": "128 Avenue des sciences - Chelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 18 Allée Romain Rolland - Clichy-sous-Bois",
+    "address": "18 Allée Romain Rolland - Clichy-sous-Bois",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Metropolis Recharge - 8B Rue Raoul Larche - Coubron",
+    "address": "8B Rue Raoul Larche - Coubron",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Chelles - 1 Rue du Valengelier",
+    "address": "1 Rue du Valengelier - Chelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 1 Place du 11 Novembre 1918 - Clichy-sous-Bois",
+    "address": "1 Place du 11 Novembre 1918 - Clichy-sous-Bois",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Avenue de Louvois - Chelles",
+    "address": "40 Avenue De Louvois - Chelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking public a cote de Lidl",
+    "address": "6 Rue de la Régalle - Courtry",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Courtry",
+    "address": "Rue Louis Osteng - Courtry",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

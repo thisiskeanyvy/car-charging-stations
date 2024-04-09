@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Domaine des 7 fontaines (Tesla)",
+    "address": "622 Route des 7 Fontaines - Seyssuel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Route de Lyon - Simandres",
+    "address": "Route de Lyon - Simandres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue du Château Picard - Seyssuel",
+    "address": "Rue du Château Picard - Seyssuel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - A46 Aire de Communay Sud (direction Lyon)",
+    "address": "A 46 - AIRE DE COMMUNAY SUD - COMMUNAY",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energie - A46 Aires de Service de Communay-Nord (direction Givors)",
+    "address": "A46 - Communay",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Place du Champ de Mars - Marennes",
+    "address": "Place du Champ de Mars - Marennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Route de chasse Z.I. du Triangle - Seyssuel",
+    "address": "Route de chasse Z.I. du Triangle - Seyssuel",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 35/39 Rue Claude Bernard - Vienne INEXISTANT",
+    "address": "35/39 Rue Claude Bernard - Vienne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW - Seyssuel",
+    "address": "Route de Chasse Zone Industrielle de Seyssuel - Seyssuel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Centre Commercial Casino - Chasse-sur-Rhône",
+    "address": "1515 Avenue Frédéric Mistral - Chasse-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1.5
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Freshmile - Roulans - 4 Rue Des Epicéas",
+    "address": "4 Rue Des Epicéas - Roulans",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Tournans - D113",
+    "address": "D113 - Tournans",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Rue des Halles Montbozon",
+    "address": "1 Rue des Halles - Montbozon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Baume-les-Dames",
+    "address": "2 Rue Rosa Luxembourg - Baume-les-Dames",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A36 Aire de Besancon Champoux (direction Besançon)",
+    "address": "Aire de Besancon Champoux - Champoux",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue Rosa Luxembourg - Baume-les-Dames",
+    "address": "12 Rue de Champvans - Baume-les-Dames",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-Vadea - A36 Aire de Besancon Marchaux (direction Belfort)",
+    "address": "A36 - Marchaux",
+    "connectors": [
+      "x4",
+      "x5",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Intermarché - Rue de la Grappe - Marchaux-Chaudefontaine",
+    "address": "Rue de la Grappe - Marchaux-Chaudefontaine",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A36 - Aire de Besançon Marchaux (direction Montbéliard)",
+    "address": "A36 - Marchaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Ecophi - Station service F3C - Baume-les-Dames",
+    "address": "58 Avenue du Président Kennedy - Baume-les-Dames",
+    "connectors": [
+      "x4",
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

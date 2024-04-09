@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEEG33 - Place Michelet - Saint-Symphorien",
+    "address": "2 Place Michelet - Saint-Symphorien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - La Poste - Sore",
+    "address": "Place de la République - Sore",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Route des Prés",
+    "address": "25 Route des Prés - Belin-Béliet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEC - D834 Moustey",
+    "address": "D834 - Moustey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place de l'Estonnac - Landiras",
+    "address": "Place de l'Église - Landiras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Sauternes - Place de la Mairie",
+    "address": "Place de la Mairie - Sauternes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Guiraud (Tesla et autres)",
+    "address": "Château Guiraud - Sauternes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Lafaurie-Peyraguey",
+    "address": "- Bommes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau d'Yquem",
+    "address": "4–8 Château Yquem - Sauternes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 (MObiVE) - Rue de la Carreyre Le Barp",
+    "address": "Rue de la Carreyre - Le Barp",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

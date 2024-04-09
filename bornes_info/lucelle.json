@@ -1,0 +1,118 @@
+[
+  {
+    "title": "HOTEL RESTAURANT LE PETIT KOHLBERG",
+    "address": "le petit kohlberg - Lucelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Restaurant Les Rangiers",
+    "address": "42 Haut du village - Asuel",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "CJ - P1 Online - Vendlincourt",
+    "address": "Chemin de la Gare - Vendlincourt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maurice Montavon SA",
+    "address": "41 Route de Delémont - Develier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Maurice Montavon SA - CCS",
+    "address": "74 Route de Delémont - Develier",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pierre Steulet SA",
+    "address": "2 Route de Delémont - Develier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FESP - Courgenay",
+    "address": "1 Les Pâles - Courgenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Bonfol - Rue de la Gare",
+    "address": "Rue de la Gare - Bonfol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de repos - Bassecourt",
+    "address": "Transjurane - Bassecourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'étang",
+    "address": "Place de l'Étang - Delémont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDEA - Rue de l'Hôtel de ville Mussy-sur-Seine",
+    "address": "1 Rue Bulland - Mussy-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - 6 Route départementale 671 - Plaines-Saint-Lange",
+    "address": "6 Route départementale 671 - Plaines-Saint-Lange",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA 10/Courteron/Rue de l'Église/4",
+    "address": "4 Rue de l'Église - Courteron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 1 Place de la Mairie - Gyé-sur-Seine",
+    "address": "1 Place de la Mairie - Gyé-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - RD671 - Gyé sur Seine",
+    "address": "RD671 - Gyé sur Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Volkswagen - Z.I. Route de Troyes - Châtillon-sur-Seine",
+    "address": "9005A Avenue Noël Navoizat - Châtillon-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route de Tonnerre - Les Riceys",
+    "address": "Route de Tonnerre - Les Riceys",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEA - Rue du Parc Saint Vincent - Les Riceys",
+    "address": "Rue du Parc Saint Vincent - Les Riceys",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Châtillon-sur-Seine | Rue Marie Curie 27",
+    "address": "27 Rue Marie Curie - Châtillon-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Châtillon-sur-Seine",
+    "address": "1T Avenue de la Gare - Châtillon-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

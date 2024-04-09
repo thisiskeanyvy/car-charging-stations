@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SDED - Valentin",
+    "address": "6-8 Chemin du Valentin - Bourg-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Avenue Jean Moulin - Bourg-lès-Valence",
+    "address": "8 Avenue Jean Moulin - Bourg-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking du Théâtre le Rhône - Bourg-Les-Valence",
+    "address": "Parking du Théâtre le Rhône - Bourg-Les-Valence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Bourg-lès-Valence - Hôtel Kyria Direct Valence Nord",
+    "address": "100 Allée André Revol - Bourg-lès-Valence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED (E-born - Place du 11 Novembre - Valence",
+    "address": "Place du 11 Novembre - Valence",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison de la Pra",
+    "address": "6 Rue de l'Équerre - Valence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue du Président Herriot - Valence",
+    "address": "31 Avenue du Président Herriot - Valence",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - Valence - Relais Valence Dame Blanche",
+    "address": "Boulevard Gustave André - Valence",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electra - Bourg-lès-Valence - Hôtel Campanile",
+    "address": "Route de teauneuf - Bourg-lès-Valence",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Noemys - Valence Nord",
+    "address": "50 Allée Ninon Vallin - Bourg-lès-Valence",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

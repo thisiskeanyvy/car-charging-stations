@@ -1,0 +1,136 @@
+[
+  {
+    "title": "E-born - Route Du Frou - Saint-Pierre-d'Entremont",
+    "address": "8 Route Du Frou - Saint-Pierre-d'Entremont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "e-born - Église de Chapareillan",
+    "address": "150 Avenue du granier - Chapareillan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ChargeGuru - Rue de Longifan - Chapareillan",
+    "address": "Rue de Longifan - Chapareillan",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt - VW Jean Lain - Pontcharra",
+    "address": "935 Avenue Jean François Champollion - Pontcharra",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEDI - Avenue de la Gare - Pontcharra",
+    "address": "1055 Avenue de la Gare - Pontcharra",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EI-sacem - Saint-Baldoph",
+    "address": "504 Route d'Apremont - Saint-Baldoph",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Entre deux Guiers",
+    "address": "111 Avenue du 8 Mai 1945 - Entre-Deux-Guiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDES73 - Place de la Mairie Les Marches",
+    "address": "90 Place de la Mairie - Porte-de-Savoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue des Tenettes - Saint-Baldoph",
+    "address": "54-51 Rue des Tenettes - Saint-Baldoph",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur - Aire du Granier",
+    "address": "A43 - Saint-Jeoire-Prieuré",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Essay - Rue Roederer",
+    "address": "Rue Roederer - Essay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Place charles de Gaulle - Le Mêle-sur-Sarthe",
+    "address": "Place du Gén de Gaulle - Le Mêle-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A28 Aire de la Dentelle d'Alençon (double sens)",
+    "address": "4 Aire de la Dentelle - Valframbert",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Saint-Julien-sur-Sarthe - 30 Rue de Paris",
+    "address": "30 Rue de Paris - Saint-Julien-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Avenue Résidence du Lac - Coulonges-sur-Sarthe",
+    "address": "Avenue Résidence du Lac - Coulonges-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargeguru - BMW Mercure Automobiles - Valframbert",
+    "address": "1 Impasse Joan Miro - Valframbert",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault Alençon",
+    "address": "3 Impasse Joan Miro - Valframbert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Alençon",
+    "address": "Rue de l'Industrie Zat du Londeau - Cerisé",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan Alençon Groupe Espace 3",
+    "address": "zac du londeau Rue de l'Expansion - Cerisé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai Poirier Automobiles - Rue de l'Expansion",
+    "address": "5 Rue de l'Expansion - Cerisé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

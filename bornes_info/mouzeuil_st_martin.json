@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SyDEV - Parking rue du 8 Mai - Chaille les Marais",
+    "address": "12 ter Rue du 8 Mai - Chaillé-les-Marais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - D137 - Les Quatre Chemins - Sainte-Gemme-la-Plaine",
+    "address": "D137 - Sainte-Gemme-la-Plaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Leclerc - Luçon",
+    "address": "Route De Fontenay-Le-Comte - Luçon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Leclerc - Luçon",
+    "address": "Route de Fontenay - Luçon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Luçon",
+    "address": "6-24 Rue des Blés d'Or - Luçon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Place Saint Harmand - Sainte-Hermine",
+    "address": "4 Route de la Rochelle - Sainte-Hermine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - 4 Rue du Dr René Laforge - Fontenay-le-Comte",
+    "address": "4 Rue du Dr René Laforge - Fontenay-le-Comte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Fontenay-le-Comte - Mr Bricolage",
+    "address": "Avenue Du Général De Gaulle - Fontenay-le-Comte",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Fontenay le comte",
+    "address": "Avenue du Général de Gaulle - Fontenay-le-Comte",
+    "connectors": [
+      "x4",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Melon Céleste - Sainte-Gemme-la-Plaine",
+    "address": "- Sainte-Gemme-la-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "MobiVE - Rue de la Gare - Brossac",
+    "address": "Rue de la Gare - Brossac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEG16 - Rue Alfred de Vigny - Chalais",
+    "address": "Rue Alfred de Vigny - Chalais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Avenue de la Gare - Chalais",
+    "address": "Avenue de la Gare - Chalais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta -  Vaures - Parcoul",
+    "address": "Vaures - Parcoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - 6 Place du Champ de Foire - Aubeterre-sur-Dronne",
+    "address": "6 Place du Champ de Foire - Aubeterre-sur-Dronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiVE - 3 Rue Henri Dunant - Montmoreau-Saint-Cybard",
+    "address": "3 Rue Henri Dunant - Montmoreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Guerin philippe",
+    "address": "8 Rue du Bujateau - Montmoreau-Saint-Cybard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Electricité et de Gaz de Charentes (SDEG16) - 5 Rue de la Tude - Montmoreau-Saint-Cybard",
+    "address": "5 Rue de la Tude - Montmoreau-Saint-Cybard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - St-Aigulin - Rue Gambetta",
+    "address": "15B Rue Gambetta - Saint-Aigulin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place du Champ de Foire - Saint-Aulaye",
+    "address": "Place du Champ de Foire - Saint-Aulaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

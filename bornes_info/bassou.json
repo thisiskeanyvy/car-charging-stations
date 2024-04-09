@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEY - Route de Lyon - Charmoy",
+    "address": "1 Route de Lyon - Charmoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEY - Parking marché - Migennes",
+    "address": "3 Place de la République - Migennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mairie - Rue Georges Guyot - Laroche-Saint-Cydroine",
+    "address": "4 Rue Georges Guyot - Laroche-Saint-Cydroine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rue Jean Jaurès - CHEMILLY-SUR-YONNE (89)",
+    "address": "Rue Jean Jaurès - CHEMILLY-SUR-YONNE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Eglise - Ormoy",
+    "address": "4 Rue du 11 Novembre - Ormoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEY - Grande Rue Champlay",
+    "address": "54bis Grande Rue - Champlay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Route de Chablis - Hauterive",
+    "address": "23 Route de Chablis - Hauterive",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Parking mairie - Rue de la Petite Motte - Fleury-la-Vallée",
+    "address": "2 Rue de la Petite Motte - Fleury-la-Vallée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue des Saules - Esnon",
+    "address": "4 Rue des Saules - Esnon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - Appoigny - Hôtel Kyriad Direct Auxerre",
+    "address": "D319, Rue du Fossé du Bois - Appoigny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

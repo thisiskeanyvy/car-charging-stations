@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Orléans Métropole - Parking École Maternelle",
+    "address": "Allée Claude Bernard - Saran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel ibis - Saran",
+    "address": "131 Chemin des Sablons - Saran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Ibis Orleans Nord Saran",
+    "address": "131 Chemin des Sablons - Saran",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Saran",
+    "address": "131 Chemin des Sablons - Saran",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Exia - Rue Fabrice Perin",
+    "address": "500 Rue Fabrice Perin - Saran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EGTH (Electricité Génèrale Thierry Hénault)",
+    "address": "85 Rue du Chêne Vert - Saran",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aire de Covoiturage - Saran Nord",
+    "address": "39 Rue Henri Becquerel - Saran",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - Saran - D2701",
+    "address": "39 Rue Henri Becquerel - Saran",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue Nationale - Saran",
+    "address": "1653 Rue Nationale - Saran",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Citroen - Saran",
+    "address": "1754 Rue Nationale 20 - Saran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

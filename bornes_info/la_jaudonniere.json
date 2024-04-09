@@ -1,0 +1,136 @@
+[
+  {
+    "title": "JM AUTOMOBILES - LE LION D ANGERS",
+    "address": "Les Chaussees - LE LION D ANGERS",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - LE LION D'ANGERS - Place Champ de Foire",
+    "address": "Place du Champ de Foire - Le Lion-d'Angers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue Aristide Briand - Le Lion-d'Angers",
+    "address": "4 Place Gustave Trouvé - Grez-Neuville",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - ELIVIA, Z.I. La Coudère - Le Lion d'Angers",
+    "address": "ELIVIA, Z.I. La Coudère - Le Lion d'Angers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "le lion d'Angers",
+    "address": "champ de foire - Le Lion Lion d'Angers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 1 Rue du Lionnais - Grez-Neuville",
+    "address": "1 Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Rue du Lionnais - Grez-Neuville",
+    "address": "Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U le Lion Chargepoint",
+    "address": "1 Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Vern D'anjou - Place Des Halles",
+    "address": "Rue du Commerce - Vern-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - LA MEMBROLLE SUR LONGUENEE - Parking Du Cimetiere",
+    "address": "Parking du Cimetière - La Membrolle sur Longuenée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

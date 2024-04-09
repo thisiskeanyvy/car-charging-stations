@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Megarama - Franconville",
+    "address": "3 Rue Jacques Daguerre - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x17",
+      "x18"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia-Express - Montigny-lès-Cormeilles - Norauto",
+    "address": "39 Boulevard Victor Bordier - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Rue Vincent Van Gogh - Montigny-lès-Cormeilles",
+    "address": "3 Rue Vincent Van Gogh - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Place Eugene Delacroix - Montigny-les-Cormeilles",
+    "address": "2 Rue Auguste Renoir - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT - Montigny-lès-Cormeilles - Speedy",
+    "address": "142 Boulevard Victor Bordier - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Chemin de la Mare Épineuse - Franconville",
+    "address": "346-368 Chemin de la Mare Épineuse - Franconville",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Quai des marques - Franconville",
+    "address": "231 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Five Guys - Franconville",
+    "address": "326 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIGEIF - Val Parisis - Grande rue de Cormeilles",
+    "address": "10 Passage de la Grande Cour - Montigny-lès-Cormeilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Val Parisis - Stade municipal Gaston FRÉMONT",
+    "address": "4 Route Stratégique - Cormeilles-en-Parisis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

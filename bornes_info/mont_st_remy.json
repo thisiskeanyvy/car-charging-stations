@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Place de la Mairie - Machault",
+    "address": "1B Rue Alexandre Hazeaux - Machault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fédération Départementale d'Energie des Ardennes - Avenue de Quimper - JUNIVILLE",
+    "address": "Avenue de Quimper - JUNIVILLE",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1 Rue Verlaine",
+    "address": "1 Rue Verlaine - Attigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du 8 Mai 1945 - Betheniville",
+    "address": "3 Place Du 8 Mai 1945 - Bétheniville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Ponfaverger Moronvillers",
+    "address": "Le Chemin d'Hauvine - Pontfaverger-Moronvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Rethel - Peugeot",
+    "address": "ZI DE PARGNY, Chem. de la Comtesse, - Rethel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare Lucquy",
+    "address": "10 Place de la Gare - Lucquy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Rue de la gare - Pontfaverger",
+    "address": "Rue de la gare - Pontfaverger-Moronvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pays Rethelois Gare Rethel",
+    "address": "1 Rue Achille Berquet - Rethel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - Ford - rue Achille Berquet 3 - RETHEL",
+    "address": "rue Achille Berquet 3 - RETHEL",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

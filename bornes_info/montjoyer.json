@@ -1,0 +1,138 @@
+[
+  {
+    "title": "eborn - Rue Raymond Grosset - Espeluche",
+    "address": "Rue Raymond Grosset - Espeluche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Place de la Halle - La Touche",
+    "address": "Place de la Halle - La Touche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking autogrill - A7 (Direction Sud-Nord)",
+    "address": "parking - Allan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A7 Aire de Montélimar-Est (direction Valence)",
+    "address": "A7 - Allan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché (Virta) - 900 route de Montélimar - Grignan",
+    "address": "900 Route de Montélimar - Grignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A7 Aire de Montélimar Ouest (direction Orange)",
+    "address": "A7 - Allan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - La Bastide de Grignan - 120 Chemin De Bessas - Grignan",
+    "address": "120 Chemin De Bessas - Grignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Autogrill A7 - direction Nord-Sud",
+    "address": "A7 - Allan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Ferme Chapouton - Grignan",
+    "address": "200 Route de Montélimar - Grignan",
+    "connectors": [
+      "x4",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - Place Nicolas Appert - Valaurie",
+    "address": "Place Nicolas Appert - Valaurie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

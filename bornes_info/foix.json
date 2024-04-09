@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking Delessert - Paris (Privé. Réservé au personnel)",
+    "address": "Avenue de la Nouvelle Pitié - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôpital Pitié Salpêtrière, AP-HP - Boulevard de l'Hôpital (Privé)",
+    "address": "83 Boulevard de l'Hôpital - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eole - Hôpitaux Universitaires Pitié Salpêtrière - Paris",
+    "address": "Allée Le Vau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 160 Rue Jeanne D'Arc - Paris",
+    "address": "160 Rue Jeanne D'Arc - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "157 Rue Jeanne d'Arc",
+    "address": "157 Rue Jeanne d'Arc - Paris",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pinel - Rue de l'Infirmerie",
+    "address": "Rue de l'Infirmerie - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Boulevard de l'Hôpital - Paris",
+    "address": "Boulevard de l'Hôpital - Paris",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 137 boulevard Vincent Auriol 75013 Paris",
+    "address": "137 Boulevard Vincent Auriol - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 141 Bd Vincent Auriol - Paris",
+    "address": "141 Bd Vincent Auriol - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TOYOTA PARIS 5 - 24KW DC",
+    "address": "58 Boulevard Saint-Marcel - Paris",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

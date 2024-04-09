@@ -1,0 +1,120 @@
+[
+  {
+    "title": "VALLIERE - ROUTE DE BANIZE",
+    "address": "4 Route de Banize - Vallière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sdec - Place Saint-Blaise - Pontarion",
+    "address": "Place Saint-Blaise - Pontarion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Pierre Mendès France - Royère-de-Vassivière",
+    "address": "Mendès france Place Pierre Mendès France - Royère-de-Vassivière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sdec - Fransèches - Masgot",
+    "address": "Masgot - Fransèches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Route de la Cascade - Bourganeuf",
+    "address": "Route de la Cascade - Bourganeuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Office du tourisme - Bourganeuf",
+    "address": "8 Place du Champ de Foire - Bourganeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Rue de l'Étang - Bourganeuf",
+    "address": "Rue de l'Étang - Bourganeuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Maison bleue - gite rural",
+    "address": "11 Lieu- dit Ribeyrolle - SARDENT",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vallon vert",
+    "address": "Combe Richard - Faux-la-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 14 Rue des Fusillés - Aubusson",
+    "address": "14 Rue des Fusillés - Aubusson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

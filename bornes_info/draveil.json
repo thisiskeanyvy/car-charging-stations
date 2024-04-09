@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Stations-e - Mairie de Draveil",
+    "address": "3 Avenue de Villiers - Draveil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-E - Parking centre administratif - Draveil",
+    "address": "120 Boulevard du Général de Gaulle - Draveil",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Station-e - Théâtre Donald Cardwell - Draveil",
+    "address": "9 Avenue de Villiers - Draveil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "GROUPE COLISEE DRAVEIL_7494_Pext_E",
+    "address": "Allée du Clos Fleuri CLOS FLEURI - Draveil",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Draveil",
+    "address": "92 Avenue Henri Barbusse - Draveil",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - Gymnase Citadelle - Draveil",
+    "address": "32 Rue de la Citadelle - Draveil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Vigneux-sur-Seine PRIVE",
+    "address": "Avenue Henri Barbusse - Vigneux-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Piscine Caneton - Draveil",
+    "address": "51 Rue Ferdinand Buisson - Draveil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Système U - Draveil",
+    "address": "15 Avenue de l'Europe - Draveil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Stations-e - Aqua Sénart 3 - Draveil",
+    "address": "Allée Jacques Mayol - Draveil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

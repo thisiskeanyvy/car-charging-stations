@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Révéo - Parking place de la République - Firmi",
+    "address": "Rue de l'Étang - Firmi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cransac | Rue du Général Louis Artous",
+    "address": "Rue du Général Louis Artous - Cransac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 11 Rue du Général Louis Artous - Cransac",
+    "address": "11 Rue du Général Louis Artous - Cransac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les halles de la Découverte",
+    "address": "1 Zone Industrielle de Fontvergnes - Decazeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6582395",
+    "address": "20 Zone Industrielle de Fontvergnes - Decazeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Decazeville - Super U",
+    "address": "Rue de la Renaissance - Decazeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Decazeville - Place Decazes",
+    "address": "Place Decazes - Decazeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Avenue du 10 Août (Les Usines) Decazeville",
+    "address": "9001A Avenue du 10 Août - Decazeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Mc Donald's - Decazeville",
+    "address": "D840 - Decazeville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Aubin - Place Jean Jaurès",
+    "address": "Place Jean Jaurès - Aubin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

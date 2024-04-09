@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Hôtel Le Chalet",
+    "address": "22 rue des Gabares - Cabariot",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Avenue Charles de Gaulle - Tonnay-Charente",
+    "address": "1 Avenue Charles de Gaulle - Tonnay-Charente",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Tonnay-Charente",
+    "address": "Rue Louis Pasteur ZAC de la Varenne - Tonnay-Charente",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TRZ GROUPE_COLISEE_FRANCE_7688_TRIZAY_Pext_E",
+    "address": "4 Impasse Bouju Les Jardins des Tilleuls - Trizay",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Tonnay-Charente",
+    "address": "Avenue du Pont Neuf - Tonnay-Charente",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarreguemines - 1 avenue du Pont-Neuf - Tonnay-Charente",
+    "address": "1 avenue du Pont-Neuf - Tonnay-Charente",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue William Fuller - Rochefort",
+    "address": "25 Avenue William Fuller - Rochefort",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rochefort - Pôle Habitat",
+    "address": "3 Impasse de Fichemore - Rochefort",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Beurlay - Place de la Mairie",
+    "address": "23 Rue du Général de Gaulle - Beurlay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Quai Le Moyne de Sérigny",
+    "address": "Quai Le Moyne de Sérigny - Rochefort",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

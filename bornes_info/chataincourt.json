@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE28 - Grande Rue - Tréon",
+    "address": "Grande Rue - Tréon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE28 - Saint-Rémy-sur-Avre",
+    "address": "9 Rue de France - Saint-Rémy-sur-Avre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour - Nonancourt",
+    "address": "1563 Avenue des Métiers - Nonancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Saint-Lubin-des-Joncherets",
+    "address": "16 Rue de la Baronnie - Saint-Lubin-des-Joncherets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Mairie de Garnay",
+    "address": "place de la mairie - Garnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - 4 Rue Charles Renard - Saint-Lubin-des-Joncherets",
+    "address": "4 Rue Charles Renard - Saint-Lubin-des-Joncherets",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Place Alsace Lorraine",
+    "address": "2 Ruelle De La Herse - Nonancourt",
+    "connectors": [
+      "x5",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE28 - Vert-en-Drouais (Rue de l'Église)",
+    "address": "Rue de l'Église - Vert-en-Drouais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - La Madeleine-de-Nonancourt",
+    "address": "1 Rue de la Mairie - La Madeleine-de-Nonancourt",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Siege27 - Route de Merville - La Madeleine-de-Nonancourt",
+    "address": "14 Route de Merville - La Madeleine-de-Nonancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

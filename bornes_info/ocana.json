@@ -1,0 +1,134 @@
+[
+  {
+    "title": "13 Av. de José Antonio Ocaña",
+    "address": "13 Av. de José Antonio - Ocaña",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Wenea - Restaurante Martín - Ocaña",
+    "address": "4 Cr Cabañas - Ocaña",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IBERDROLA CLIENTES - 57 AUTOVIA A-4 - OCAÑA",
+    "address": "57 AUTOVIA A-4 - OCAÑA",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Wenea - 36 Calle Hospital - Ontígola",
+    "address": "36 Calle Hospital - Ontígola",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDP Comercializadora - Ontígola - 1 Carretera de Aranjuez",
+    "address": "1 Carretera de Aranjuez - Ontígola",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDP Comercializadora - Aranjuez - Glorieta De La Musica",
+    "address": "Glorieta De La Musica - Aranjuez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leroy Merlin - Aranjuez",
+    "address": "1 Calle de Gonzalo Chacón - Aranjuez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Calle de Gonzalo Chacón",
+    "address": "57 Calle de Gonzalo Chacón - Aranjuez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Autosae Aranjuez",
+    "address": "44 Carretera de Andalucía - Aranjuez",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centro Comercial Leclerc",
+    "address": "11 Paseo del Deleite - Aranjuez",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

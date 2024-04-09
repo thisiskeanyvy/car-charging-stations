@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MobiVE - Rue du Stade - Pontacq",
+    "address": "6 Rue Du Stade - Pontacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GCK Energy - A64 Aire des Pyrénées (direction Tarbes)",
+    "address": "Aire des Pyrénées - Pontacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A64 Aire des Pyrénées (double sens)",
+    "address": "0 A64 - AIRE DES PYRENEES - GER",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA - Route du Hameau Espoey",
+    "address": "3 Route du Hameau - Espoey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - 59 Rue des Pyrénées",
+    "address": "Impasse de la fontaine - Bénéjacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'Enclos Béarnais (Tesla et autres)",
+    "address": "87 Rue des Pyrénées - Bénéjacq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle Polyvalente - Ger",
+    "address": "Place du Foyer - Ger",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE65 (Révéo) - Rue Ampère ZI de SAUX - Lourdes",
+    "address": "Rue Ampère ZI de SAUX - Lourdes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Rue Annette Montaut",
+    "address": "Rue Annette - Montaut",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 - Aéroport Tarbes Lourdes Pyrénées",
+    "address": "parking aéroport - JUILLAN",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEM50 - D974-Aire de covoiturage- Guilberville",
+    "address": "14 Le Petit Parc - Torigny-les-Villes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEM50 - Rue du Saussey, 2 - Guilberville",
+    "address": "2 Rue du Saussey - Guilberville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - 12 Place de l'Orangerie - Torigny-les-Villes",
+    "address": "12 Place de l'Orangerie - Torigny-les-Villes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue des Anciennes Halles - Tessy-sur-Vire",
+    "address": "1 Rue des Anciennes Halles - Tessy-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Amand-Villages",
+    "address": "29 Rte de Saint-Lô - Saint-Amand-Villages",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - 31 Avenue de la Gare - Saint-Amand-Villages",
+    "address": "31 Avenue de la Gare - Saint-Amand-Villages",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route du mesnil",
+    "address": "Route du Mesnil - Condé-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - route Neuve - conde sur vire",
+    "address": "route Neuve - conde sur vire",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue St Martin - Condé-sur-Vire",
+    "address": "Rue Saint-Martin - Condé-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Boucherie Mauger",
+    "address": "2 rue de la mairie - Moyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

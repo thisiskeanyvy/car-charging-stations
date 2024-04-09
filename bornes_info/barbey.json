@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Rue Blanchard - Marolles sur seine",
+    "address": "1 Rue Blanchard - Marolles-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Villeneuve la Guyard - Parking de la gare Nord",
+    "address": "Villeneuve la Guyard, Parking de la gare - Villeneuve la Guyard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Villeneuve La Guyard, Parking de la gare sud",
+    "address": "Villeneuve La Guyard, Parking de la gare - Villeneuve-la-Guyard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rue de la Vallée - Villeneuve-la-Guyard",
+    "address": "6 Rue de la Vallée - Villeneuve-la-Guyard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle Polyvalente - La Brosse-Montceaux",
+    "address": "34 Rue Grande - La Brosse-Montceaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place de la Mairie - Villeblevin",
+    "address": "35 Grande Rue - Villeblevin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Brico Dépôt - Cannes-Écluse",
+    "address": "3 Rue des Tournesols - Cannes-Écluse",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Route de Vinneuf - Gravon",
+    "address": "1 Route de Vinneuf - Gravon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile (FR*S89) - Vinneuf - Rue Du Général De Gaulle",
+    "address": "Rue Du Général De Gaulle - Vinneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Cannes-Écluse - RN6",
+    "address": "RN6 - Cannes-Écluse",
+    "connectors": [
+      "x16",
+      "x16",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

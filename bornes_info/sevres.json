@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Q-Park Sèvres Théâtre Europe",
+    "address": "4 Rue Lecointre - Sèvres",
+    "connectors": [
+      "x15"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 53 Grande Rue - Sèvres",
+    "address": "53 Grande Rue - Sèvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - rue Bonnefous - Sèvres",
+    "address": "26 Rue Georges Bonnefous - Sèvres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 123 Grande Rue - Sèvres",
+    "address": "123 Grande Rue - Sèvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - 2 Avenue de la Cristallerie - Sèvres",
+    "address": "2 Avenue de la Cristallerie - Sèvres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - Rue Riocreux - Sèvres",
+    "address": "3–3Bis Rue Riocreux - Sèvres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Malenfer - Sèvres",
+    "address": "6 Rue de Wolfenbuttel - Sèvres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Parking Marcel Allegot - Meudon",
+    "address": "17 Rue Marcel Allégot - Meudon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Chemin Desvallières - Ville-d'Avray",
+    "address": "28 Chemin Desvallières - Ville-d'Avray",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sigeif - 80 rue de Sèvres - Boulogne-Billancourt",
+    "address": "80a Rue de Sèvres - Boulogne-Billancourt",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  }
+]

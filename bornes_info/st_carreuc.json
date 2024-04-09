@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE22 - Plédran",
+    "address": "Place Julien Tanguy - Plédran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Ploeuc sur lié",
+    "address": "4 Rue Beaulieu - Plœuc-L'Hermitage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Quessoy",
+    "address": "2 Rue de l'Argentaie - Quessoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Quessoy",
+    "address": "23 Rue de l'Argentaie - Quessoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Place du Général de Gaulle - Plaintel",
+    "address": "Place du Général de Gaulle - Plaintel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Plaintel",
+    "address": "849 Rue de la ville Gourelle - Plaintel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine du Grenier",
+    "address": "Route de la Croix Bertrand - Yffiniac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Place de la Carrière",
+    "address": "4–5 Rue de la Hors Voie - Moncontour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Mairie de Saint-Julien",
+    "address": "Rue de Sainte-Anne - Saint-Julien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - ZA du Perray à Tregueux",
+    "address": "2 Rue louis Paturel - Trégueux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

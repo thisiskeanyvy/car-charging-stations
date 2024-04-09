@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Hôtel Castel Burgond (Tesla)",
+    "address": "3 Route de Troyes - Daix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avenue Général Canzio - Talant",
+    "address": "2 Rue des Moulissards - Talant",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - 54 Rue de Dijon - Daix",
+    "address": "54 Rue de Dijon - Daix",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Gare SNCF - Dijon",
+    "address": "21 Cour de la Gare - Dijon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc Bio - Boulevard des Allobroges",
+    "address": "10 Boulevard des Allobroges - Dijon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fontaine-lès-Dijon | Rue des Cortots 7",
+    "address": "7 Rue des Cortots - Fontaine-lès-Dijon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Grand Hôtel La Cloche - Place Darcy (Porsche)",
+    "address": "14 Place Darcy - Dijon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand Hotel La Cloche (Tesla et autres)",
+    "address": "14 Place Darcy - Dijon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Parking Darcy-Liberté - Dijon",
+    "address": "Rue Docteur Chaussier - Dijon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EFFIA - Parking Condorcet - Dijon",
+    "address": "28 Rue Condorcet - Dijon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

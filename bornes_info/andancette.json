@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SDE07 - Place Maxime Chantier",
+    "address": "Route du Saint Joseph - Andance",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Station Service Robert Cheval",
+    "address": "N7 National 7 - Albon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecophi -  Route Nationale 7 - Albon",
+    "address": "230 N7 - Albon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Rue Lamartine - Champagne",
+    "address": "Rue Lamartine - Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A7 Aire de Saint-Rambert-d'Albon Ouest (direction Valence)",
+    "address": "A7 - Aire de Saint-Rambert-d'Albon - Saint-Rambert-d'Albon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A7 - Aire de Saint-Rambert-d'Albon (direction Lyon)",
+    "address": "A7 - Saint-Rambert-d'Albon m",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Rambert-d'Albon",
+    "address": "44A Chemin de Milan - Saint-Rambert-d'Albon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CNR - La Croix des Mailles Laveyron",
+    "address": "123 La Croix des Mailles - Laveyron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "eborn - Rue Neuve - Saint-Rambert-d'Albon",
+    "address": "Rue Neuve - Saint-Rambert-d'Albon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 - Place Jean Moulin Sarras",
+    "address": "3 Rue du Champ de l'Homme - Sarras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

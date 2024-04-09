@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Parking Moulin Cotant",
+    "address": "39 Rue de la Chenale - Fontenoy-le-Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - La Vôge-les-Bains - Gymnase",
+    "address": "46 Rue du Chesnois - La Vôge-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de la fête - Bains-les-Bains",
+    "address": "3 Rue des Anciens Moulins - Bains-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - La Vôge-les-Bains - Médiathèque",
+    "address": "5 Rue Général Leclerc - Bains-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne - 48 Rue d'Epinal",
+    "address": "48 Rue d'Epinal - La Vôge-les-Bains",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - D164 La Verrière - La Vôge-les-Bains",
+    "address": "La Verrière - La Vôge-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - rue de la Grande Fontaine - Vauvillers",
+    "address": "3 Rue de la Grande Fontaine - Vauvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking mairie - Saint-Loup-sur-Semouse",
+    "address": "7 Rue Henri Guy - Saint-Loup-sur-Semouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Territoire d'énergie",
+    "address": "7 Rue Henri Guy - Saint-Loup-sur-Semouse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 1 Avenue Jacques Parisot - Saint-Loup-sur-Semouse",
+    "address": "1 Avenue Jacques Parisot - Saint-Loup-sur-Semouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

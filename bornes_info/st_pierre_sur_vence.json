@@ -1,0 +1,132 @@
+[
+  {
+    "title": "A34/D35 - Aire de covoiturage - La Francheville",
+    "address": "4 Route de Paris - La Francheville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 044 - La Francheville - Route de Paris",
+    "address": "2 Route de Paris - La Francheville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 042 - La Francheville - Pl de la Mairie",
+    "address": "Les Enclos - La Francheville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - La Francheville - Les Enclos",
+    "address": "Les Enclos - La Francheville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 004 - Balaives et Butz - Grand Rue",
+    "address": "13 Gr Grande Rue - Balaives-et-Butz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 043 - La Francheville - Rue des Roses",
+    "address": "20 Pont Thalis - La Francheville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - VW - Rue Paulin Richier 21 bis - CHARLEVILLE MEZIERES",
+    "address": "Rue Paulin Richier 21 bis - CHARLEVILLE MEZIERES",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Charleville-Mézières",
+    "address": "23 Rue Paulin Richier, - Charleville-Mézières",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - ZAC La Croisette, 1 Rue Jules Fuzelier - Charleville-Mezières",
+    "address": "ZAC La Croisette, 1 Rue Jules Fuzelier - Charleville-Mezières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Rue Paulin Richier - Charleville-Mézières",
+    "address": "23 Rue Paulin Richier - Charleville-Mézières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

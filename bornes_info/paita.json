@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Mall de Sol",
+    "address": "Mall de Sol - Atarazana",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "calle irlanda",
+    "address": "683 Todas Las Sangres - Santa Anita",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Universidad Icesi (Celsia)",
+    "address": "Calle 20 - Cali",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Celsia Unicenteo",
+    "address": "5-6–5-76 Carrera 100 - Cali",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Al toque Chusaca Terpel",
+    "address": "#26 Sur-784 Granada-Soacha - Soacha",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "C.C Mercurio",
+    "address": "32-63 Carrera 7 - Soacha",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "C.C Ventura Terreros",
+    "address": "250052 Avenida Terreros - Soacha",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Barrelec Movilidad 2",
+    "address": "40-31 Carrera 86 - Bogotá",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Soluciones Electric Bike",
+    "address": "38d Sur-34 Carrera 86 - Bogotá",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Soluciones Electric Bike 2",
+    "address": "95b-59 Calle 42b Sur - Bogotá",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

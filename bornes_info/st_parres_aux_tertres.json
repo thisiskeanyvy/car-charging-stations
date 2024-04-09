@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FR*WA5 - Saint-Parres-aux-Tertres - 2 Mail Paul Gauguin",
+    "address": "2 Mail Paul Gauguin - Saint-Parres-aux-Tertres",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Freshmile - Saint-Parres-aux-Tertres",
+    "address": "3 Rue Jean Moulin - Saint-Parres-aux-Tertres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Tesla Superchargers V2-V3 - Saint-Parres-aux-Tertres",
+    "address": "21 Rue des Acacias - Saint-Parres-aux-Tertres",
+    "connectors": [
+      "x26",
+      "x10"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "QoWatt - Hotel Ibis Budget Troyes Est",
+    "address": "5 Rue la Perrière - Saint-Parres-aux-Tertres",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Fiesta - Troyes",
+    "address": "25 Rue Edmond Fariat - Troyes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Stade de l'Aube P2 - Avenue Robert Schumann - Troyes",
+    "address": "Stade de l'Aube - P2, Avenue Robert Schumann - Troyes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Troyes",
+    "address": "6 Avenue Maréchal de Lattre de Tassigny - Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Actual - Saint-Julien-les-Villas",
+    "address": "10A Rue de la Haute Moline - Saint-Julien-les-Villas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking Bistrot du Pont - Pont-Sainte-Marie",
+    "address": "1 Place Charles de Gaulle - Pont-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Parking cinéma culturel - Pont Sainte Marie",
+    "address": "Parking cinéma culturel - Pont Sainte Marie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

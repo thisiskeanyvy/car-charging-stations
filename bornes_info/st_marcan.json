@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Vitra",
+    "address": "3 Rue des 4 Salines - Roz-sur-Couesnon",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Saint-Georges-de-Gréhaigne",
+    "address": "9 Parc d'Activités Point du Jour - Saint-Georges-de-Gréhaigne",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Ibis Mont Saint-Michel - Saint-Georges-de-Gréhaigne",
+    "address": "4 Le Bas de Saint-Georges - Saint-Georges-de-Gréhaigne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Kyriad (Tesla and others)",
+    "address": "28 Rue de la Rouelle - Dol-de-Bretagne",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenyellow - Dol-de-Bretagne",
+    "address": "1 La Janaie - Dol-de-Bretagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Dol-de-Bretagne",
+    "address": "1 Rue de la Rouelle - Dol-de-Bretagne",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "OuestCharge - Rue de Rennes - Pleine-Fougères",
+    "address": "3 Rue de Rennes - Pleine-Fougères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint network - 12 Rue de l'Armée Patton - Dol-de-Bretagne",
+    "address": "12 Rue de l'Armée Patton - Dol-de-Bretagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Dol",
+    "address": "17 Rue de l'Armée Patton - Dol-de-Bretagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - BRICOMARCHE - D4 - Pleine-Fougères",
+    "address": "D4 - Pleine-Fougères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

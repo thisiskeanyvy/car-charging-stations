@@ -1,0 +1,132 @@
+[
+  {
+    "title": "U Express - Rue du Levant - Calvisson",
+    "address": "Rue du Levant - Calvisson",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BewweB",
+    "address": "78 chemin de vergeze - Calvisson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chemin des Fumeras Nages-et-Solorgues",
+    "address": "Chemin des Fumeras - Nages-et-Solorgues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Cent Noyers",
+    "address": "De la cave - Congénies",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "810 Chemin de Cardione",
+    "address": "810 Chemin de Cardione - Aubais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - parking chemin d'Azord - St Dionisy",
+    "address": "11 Chemin d'Azord - Saint-Dionisy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Langlade",
+    "address": "Le Vignaud - Langlade",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMEG30 (Révéo) - 35 Chemin des Aires - Langlade",
+    "address": "35 Chemin des Aires - Langlade",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Mairie d'Aubais",
+    "address": "Avenue Emile Léonard - Aubais",
+    "connectors": [
+      "x2",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 80 Route de Langlade - Clarensac",
+    "address": "75 Route de Langlade - Clarensac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

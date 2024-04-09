@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Belib - 37 Rue Sainte-Croix de la Bretonnerie - Paris",
+    "address": "37 Rue Sainte-Croix de la Bretonnerie - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 36 Rue du Temple - Paris",
+    "address": "36 Rue du Temple - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - Parking Lobau (-1) - Paris",
+    "address": "Rue de Lobau - Paris",
+    "connectors": [
+      "x7",
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Paris - SAG Parking Lobau -4 Rue Lobau",
+    "address": "SAG Parking Lobau -4 Rue Lobau - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 4 Rue de Lobau - Paris DOUBLON",
+    "address": "4 Rue de Lobau - Paris",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Vinci - Rue de Lobau 4 - Paris",
+    "address": "4 Rue de Lobau - Paris",
+    "connectors": [
+      "x7",
+      "x5",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAGS - Rue de Lobau - Parking souterrain",
+    "address": "4 Rue de Lobau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc souterrain Rivoli Sébastopol",
+    "address": "1 Rue Pernelle - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parc souterrain Hôtel de ville",
+    "address": "Quai de Gesvres - Paris",
+    "connectors": [
+      "x6",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy - 13 Rue Brantôme - Paris",
+    "address": "13 Rue Brantôme - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

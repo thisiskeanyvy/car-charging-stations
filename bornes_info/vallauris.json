@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking Indigo Espace Loisir - Avenue Henri Pourtalet",
+    "address": "9 Avenue Henri Pourtalet - Vallauris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WiiiZ - Parking Mairie - Vallauris",
+    "address": "12 Avenue de l'Hopital - Vallauris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WiiZ - Avenue du Stade - Valauris",
+    "address": "2-4 Avenue du Stade - Vallauris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl Vallauris",
+    "address": "18 Avenue du Tapis Vert - Vallauris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Route de Cannes - Vallauris",
+    "address": "117 Route de Cannes - Vallauris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WiiiZ - Rue du cherche midi - Mougins",
+    "address": "4 Rue du Cherche Midi - Mougins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WiiiZ - 5 Rue de la Petite Colline - Mougins",
+    "address": "5 Rue de la Petite Colline - Mougins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Total Energies - A8 Aire de la Côte d'Azur (direction Nice)",
+    "address": "1211 Chemin du Ferrandou - Mougins",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x9",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A8 - Aire des Bréguières-Nord (direction Fréjus)",
+    "address": "A8 - Mougins",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WiiiZ - Rue Alexandre Louce, 1 - Vallauris",
+    "address": "1 Rue Alexandre Louce - Vallauris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking proche mairie - Bellegarde",
+    "address": "14 Rue des Pervenches - Bellegarde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "André Peinture Décoration",
+    "address": "Bellevue - CHAILLY EN GATINIAS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lorris - Place Du Gâtinais",
+    "address": "58 Gr Grande Rue - Lorris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Place du Mail - Lorris",
+    "address": "Place du Mail - Lorris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Route de Montargis - Thimory",
+    "address": "9 Rue de Montargis - Thimory",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Place de l'eglise - Chevillon-sur-Huillard",
+    "address": "Grande Rue - Chevillon-sur-Huillard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route d'Oussoy - Lombreuil",
+    "address": "10 Route d'Oussoy - Lombreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - 1401–1557 Route d'Orléans",
+    "address": "1401–1557 Route d'Orléans - Bray-Saint-Aignan",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A19 Aire du Loiret (double sens)",
+    "address": "D 975 - Juranville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Ibis Styles Montargis Arboria - Pannes",
+    "address": "805 Avenue des Platanes - Pannes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

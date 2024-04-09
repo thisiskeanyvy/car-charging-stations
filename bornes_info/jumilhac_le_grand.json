@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE24 - Place du Château Jumilhac-le-Grand",
+    "address": "3-12 Place du Château - Jumilhac-le-Grand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - École primaire - Coquille",
+    "address": "Place Boyer Laveyssière - La Coquille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge (FR) - Le Bas Sinsac 0 - Nanthiat",
+    "address": "Le Bas Sinsac 0 - Nanthiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place de la Nation - Saint-Yrieix-la-Perche",
+    "address": "20 Place de la Nation - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "moulin de la jarousse",
+    "address": "231 Moulin de la Jarousse - Angoisse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Gare Saint Yrieix la Perche",
+    "address": "2 Avenue de la Gare - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE24 - Base de loisirs de Rouffiac",
+    "address": "142 Le Godoney - Angoisse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Route de Limoges - Saint-Yrieix-la-Perche",
+    "address": "99–101 Route de Limoges - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Eglise St Pierre",
+    "address": "1 Rue du Pont Lasveyras - Lanouaille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 (MobiVE) - Place de la Libération, 495 - Thiviers",
+    "address": "495 Place de la Libération - Thiviers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

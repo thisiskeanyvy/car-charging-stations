@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SYDEGO - Chemin de Criboeuf, 1 - Pontchâteau",
+    "address": "1 Chemin de Criboeuf - Pontchâteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IEcharge - D16 Pontchateau",
+    "address": "24 Route de Crossac - Pontchâteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Boulevard de Villeneuve - Pontchâteau Villeneuve",
+    "address": "2 Boulevard de Villeneuve - Pontchâteau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Pontchâteau",
+    "address": "2154 La Cadivais - Pontchâteau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - PontChâteau",
+    "address": "Lieu dit La Hirtais - Pontchâteau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Leclerc auto - Pont Chateau",
+    "address": "D33 - Sainte-Anne-sur-Brivet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CC Rives-Sud - Lieu Dit la Hirtais - Sainte-Anne-sur-Brivet",
+    "address": ". zac de la hirtais - Sainte-Anne-sur-Brivet",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Rue du Pont Neuf, 4 - Besne",
+    "address": "4 Rue du Pont Neuf - Besne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château du deffay",
+    "address": "Le deffay - Sainte Reine de Bretagne",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NL*EVB - Sainte reine de Bretagne - le deffay 1",
+    "address": "le deffay 1 - Sainte reine de Bretagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

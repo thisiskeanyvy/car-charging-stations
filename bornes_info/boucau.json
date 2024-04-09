@@ -1,0 +1,120 @@
+[
+  {
+    "title": "MobiVE - Place Pierre Semard - Boucau",
+    "address": "12 Place Pierre Semard - Boucau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "CBE",
+    "address": "23 Rue Hélène Boucher - Tarnos",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - BRICOMARCHE - 2 Rue de Castillon - Tarnos",
+    "address": "2 Rue de Castillon - Tarnos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Rue Hélène Boucher - Tarnos (Privé)",
+    "address": "Rue Hélène Boucher - Tarnos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking de la Barre",
+    "address": "7 Avenue de l'Adour - Anglet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Baskoto - Bayonne",
+    "address": "Chemin de Sabalce - Bayonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Credit Agricole - Impasse Lahounit - Tarnos",
+    "address": "3 Impasse Lahounit - Tarnos",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking public de la Chambre de Commerce et d'Industrie Bayonne Pays Basque (CCI BPB)",
+    "address": "50/51 Allées Marines - Bayonne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CCI Bayonne",
+    "address": "allées marines - Bayonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Rue Ernest Lannebere - Anglet",
+    "address": "22 Rue Ernest Lannebere - Anglet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

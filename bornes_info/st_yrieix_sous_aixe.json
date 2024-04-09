@@ -1,0 +1,126 @@
+[
+  {
+    "title": "EVBox - La Croix De Lavergne - Saint-Victurnien",
+    "address": "12 La Croix De Lavergne - Saint-Victurnien",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT - Super U - Aixe-sur-Vienne",
+    "address": "Rue René Dumont - Aixe-sur-Vienne",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mc Donald - Aixe sur Vienne",
+    "address": "Rue de Cognac - Aixe-sur-Vienne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Parking Guillaume Lemaistre",
+    "address": "38 Avenue du Président Wilson - Aixe-sur-Vienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Aixe-sur-Vienne",
+    "address": "30 Avenue Jean Rebier - Aixe-sur-Vienne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEHV - Gare d'Aixe-sur-Vienne",
+    "address": "Rue de l'Abreuvoir - Aixe-sur-Vienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Oradour-sur-Glane",
+    "address": "PLACE DE L'EUROPE Rue de l'Europe - Oradour-sur-Glane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place de l'Europe - Oradour-sur-Glane",
+    "address": "2 Rue de l'Europe - Oradour-sur-Glane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - U expresss - Oradour sur glane",
+    "address": "De la lande - Oradour sur glane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA -Boulevard de la Borie Limoges",
+    "address": "100 Boulevard de la Borie - Limoges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

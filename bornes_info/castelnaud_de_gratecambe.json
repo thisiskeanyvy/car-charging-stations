@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Château de St Paul (Tesla)",
+    "address": "Lieu dit St Paul - Boudy-de-Beauregard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Jardin Public - Cancon",
+    "address": "19 Rue du Marché - Cancon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEE47 - Avenue de la Gare",
+    "address": "2 Avenue de la Gare - Casseneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Chemin de Pascalet",
+    "address": "22 Chemin de Pascalet - Casseneuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE47 - Route de Cancon Monflanquin",
+    "address": "1 Route de Cancon - Monflanquin",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Place Yves Balségur Monflanquin",
+    "address": "53 Tour de Ville - Monflanquin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Hotel Mercure Villeneuve sur Lot",
+    "address": "Rte Casseneuil, - Villeneuve-sur-Lot",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEE47 - Rue de l'Hôtel de ville Bias",
+    "address": "3 Rue de l'Hôtel de ville - Bias",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Avenue Robert Labessan - Villeneuve-sur-Lot",
+    "address": "Avenue Robert Labessan - Bias",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Boulevard Georges Leygues - Villeneuve-sur-Lot",
+    "address": "47 Boulevard Georges Leygues - Villeneuve-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

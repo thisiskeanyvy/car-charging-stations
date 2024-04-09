@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SIEML - CHEMILLE-MELAY - Place Des Perrocheres",
+    "address": "Place des Pérrochères - Chemillé-en-Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - CHEMILLE-MELAY - Place St Pierre",
+    "address": "4 Rue du Mail - Chemillé-Melay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Super U - Chemillé-en-Anjou",
+    "address": "1 Rue Des Côteaux De Chizé (Chemillé) - Sainte-Christine",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le clos du marais",
+    "address": "6 Chemin du Marais - Chemillé-Melay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Chemille",
+    "address": "ZA des 3 Routes - Chemillé-en-Anjou",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - Valanjou - Rue De La Mairie",
+    "address": "56 Rue de la Mairie - Valanjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - JALLAIS - Place Des Combattants",
+    "address": "Place des Combattants - Beaupréau-en-Mauges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Trementines - Rue Maurice Ravel",
+    "address": "Rue Maurice Ravel - Trémentines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A87 Aire de Trémentines (double sens)",
+    "address": "A87 - Aire de Trémentines - Trémentines",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Coron - Rue Eole",
+    "address": "Rue Eole - Coron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

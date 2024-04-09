@@ -1,0 +1,138 @@
+[
+  {
+    "title": "AlterBase Séolis - Mairie de Prahecq",
+    "address": "Place de l'Église - Prahecq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Poitou-Charente (direction Poitiers)",
+    "address": "A10 - Vouillé",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cabinet paramedical de celles sur belle (Privé)",
+    "address": "13 Rue des Mésanges - Celles-sur-Belle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Niort",
+    "address": "Aire du Poitou-Charentes A10 - Vouillé",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A10 Aire de Poitou Charentes (direction Saintes)",
+    "address": "A10 - L'Aquitaine - Vouillé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour la Creche",
+    "address": "101 Avenue de Paris - La Crèche",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - La Crèche - La Gare",
+    "address": "30 Avenue de la Gare - La Crèche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Régional des Énergies renouvelables",
+    "address": "8 Rue Jacques Cartier - La Crèche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis – La Crèche – Bibliothèque",
+    "address": "87 Avenue de Paris - La Crèche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Chauray (privée réservée à la concession)",
+    "address": "Rue des Guillées - Chauray",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

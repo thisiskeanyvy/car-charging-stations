@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDEF - Fouesnant (Parking La Garenne)",
+    "address": "Rue des îles - Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Fouesnant (Rue des Sports)",
+    "address": "Rue des Sports - Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Norauto - Pôle Commercial Cascade",
+    "address": "7 Pôle Commercial Cascade - Fouesnant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CC Leclerc - Pleuven",
+    "address": "Zac De Penhoat Salaun Pole Commercial Quai 29 - Pleuven",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Hent Kersentic - Fouesnant INEXISTANT",
+    "address": "Hent Kersentic - Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pleuven (Route de Quimper)",
+    "address": "2 Le Bourg Route de Quimper - Pleuven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Baie - Place Baie",
+    "address": "Place Baie - La Forêt-Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Clohars Fouesnant (Place Hent Kastell)",
+    "address": "Place de la Mairie - Clohars-Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint-Evarzec (Rue de la Liberté)",
+    "address": "Rue de la Liberté - Saint-Évarzec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Clohars-Fouesnant",
+    "address": "2 Ménez Saint-Jean - Clohars-Fouesnant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

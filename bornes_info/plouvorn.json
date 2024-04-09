@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEF - Plouvorn (Place du Marché)",
+    "address": "Place du Marché - Plouvorn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plougourvest (Place de l'Eglise)",
+    "address": "D35 - Plougourvest",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plouzévédé (Place du Champ de Foire)",
+    "address": "Place du Champ de Foire - Plouzévédé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plouénan (Cité de Kermaria)",
+    "address": "Cité de Kermaria - Plouénan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 3 An Traon - Saint-Vougay",
+    "address": "3 An Traon - Saint-Vougay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Gare Routière de Landivisiau",
+    "address": "Gare Routiere - Landivisiau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - Landivisiau",
+    "address": "Rue Du Vallon - Landivisiau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - e-station Lidl - Landivisiau",
+    "address": "137 Avenue Maréchal Foch - Landivisiau",
+    "connectors": [
+      "x4",
+      "x4",
+      "x6",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Landivisiau (Place Lyautey)",
+    "address": "Place Lyautey - Landivisiau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Landivisiau (Place des Halles)",
+    "address": "Rue de la Tour d'Auvergne - Landivisiau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

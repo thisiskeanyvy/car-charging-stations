@@ -1,0 +1,160 @@
+[
+  {
+    "title": "FDEL - Place du Foirail Latronquière",
+    "address": "Place du Foirail - Latronquière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Rue des Remparts, 5258F - Lacapelle-Marival",
+    "address": "5258F Rue des Remparts - Lacapelle-Marival",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEL - Côte du Ségala Bagnac-sur-Célé",
+    "address": "3 Côte du Ségala - Bagnac-sur-Célé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - Rue du 8 Mai 1945 - Maurs",
+    "address": "9 Rue du 8 Mai 1945 - Maurs",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Saint-Étienne-de-Maurs",
+    "address": "8 Route d'Aurillac - Saint-Étienne-de-Maurs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Maurs - 3 Calsacy",
+    "address": "3 Calsacy - Maurs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FDEL - D48 - Leyme",
+    "address": "20 D48 - Leyme",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue des Carmes - Figeac",
+    "address": "7 Avenue des Carmes - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL (Révéo) - Boulevard du Colonel Teulie - Figeac",
+    "address": "24 Boulevard du Colonel Teulié - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "FDEL (Révéo) - Parking Jean Jaures - Figeac",
+    "address": "6 Avenue Jean Jaurès - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

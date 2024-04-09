@@ -1,0 +1,142 @@
+[
+  {
+    "title": "e-born - Avenue de la Libération - Tourves",
+    "address": "941 Avenue de la Libération - Tourves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine de l'Escarelle (Tesla and others)",
+    "address": "Route de la Roquebrussanne - La Celle",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A8 - Aire de Cambarette (direction Aix-en-Provence)",
+    "address": "A8 - Brignoles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - A8 Aire de Cambarette Nord (direction Aix)",
+    "address": "Autoroute A8 - Brignoles",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A8 - Aire des terrasses de Provence (direction Brignoles)",
+    "address": "A8 - Brignoles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - Concession Citroën - ST MAXIMIN",
+    "address": "17 ancien chemin de Tourves - ST MAXIMIN",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SymielecVar - Rougiers - Parking des Rousses",
+    "address": "10-14 Rue de la Rousse - Rougiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue de la Glacière - Saint-Maximin-la-Sainte-Baume",
+    "address": "147 Rue de la Glacière - Saint-Maximin-la-Sainte-Baume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Chemin de Réal - Saint-Maximin-la-Sainte-Baume",
+    "address": "Chemin de Réal - Saint-Maximin-la-Sainte-Baume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Saint-Maximin-La-Sainte-Baume - parking Pré de Foire",
+    "address": "parking Pré de Foire - Saint-Maximin-La-Sainte-Baume",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

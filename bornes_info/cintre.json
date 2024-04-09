@@ -1,0 +1,132 @@
+[
+  {
+    "title": "LastMile Solutions - Foire-Fouille - Mordelles",
+    "address": "Rue Hedy Lamarr - Mordelles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Mordelles",
+    "address": "6 avenue des Platanes - MORDELLES",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SuperU - ZeborneMS - 1 Avenue des Platanes - Mordelles",
+    "address": "1 Avenue des Platanes - Mordelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Mordelles",
+    "address": "31 Avenue Du Maréchal Leclerc - Mordelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "OuestCharge - Rue de la Hattais - Breteil",
+    "address": "Rue de la Hattais - Breteil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SuperU - ZeborneMS - 450 Avenue des Lots Za - L'Hermitage",
+    "address": "60 Rue de Rennes - L'Hermitage",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Mairie de Le Rheu",
+    "address": "1 Rue du Docteur Wagner - Le Rheu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Le Rheu",
+    "address": "Avenue des Acquêts - Le Rheu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SUPER U - Impasse de l'Ebranchoir - Montfort-sur-Meu",
+    "address": "13 Impasse de l'Ebranchoir - Montfort-sur-Meu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue De La Petite Motte - Bréal-sous-Montfort",
+    "address": "30 Rue De La Petite Motte - Bréal-sous-Montfort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

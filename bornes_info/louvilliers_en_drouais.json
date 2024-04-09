@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE28 - Vert-en-Drouais (Rue de l'Église)",
+    "address": "Rue de l'Église - Vert-en-Drouais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Vernouillet (av. Marc Chappey)",
+    "address": "16 Avenue Marc Chappey - Vernouillet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen – LECLUSE AUTOMOBILES",
+    "address": "4 Avenue des Bates - Dreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vernouillet",
+    "address": "2 Rue Joseph Bulet - Vernouillet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Dreux",
+    "address": "1 rue René Miet - Dreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Saint-Rémy-sur-Avre",
+    "address": "9 Rue de France - Saint-Rémy-sur-Avre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi",
+    "address": "52 Avenue des Fenots - Dreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Dreux",
+    "address": "1 Chemin de la Mare - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Dreux",
+    "address": "Rue de Bautzen - Dreux",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Cora - Dreux",
+    "address": "Rue des Bas Buissons - Dreux",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

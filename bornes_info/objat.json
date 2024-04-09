@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Place de l'Esplanade / Place Charles De Gaulle - Objat",
+    "address": "Place de l'Esplanade - Objat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Objat",
+    "address": "46 Avenue Raymond Poincaré - Objat",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Objat",
+    "address": "avenue Raymond Poincaré, Av. Raymond Poincaré, - Objat",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Allassac - Intermarché",
+    "address": "Avenue du Midi - Allassac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - 4 Place Allègre - Allassac",
+    "address": "4 Place Allègre - Allassac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel - rue du Pontel - Saint-Viance",
+    "address": "25 rue du Pontel - Saint-Viance",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Route du Soulet - Ayen",
+    "address": "Route du Soulet - Ayen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Varetz - 1, avenue du 11 novembre",
+    "address": "1, avenue du 11 novembre - Varetz",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Chabrignac - Carrefour Contact",
+    "address": "Laschamps - Chabrignac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Varetz - 349 Route Roland Garros",
+    "address": "349 Route Roland Garros - Varetz",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

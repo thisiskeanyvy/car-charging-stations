@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SEDI - Isère - Rue du Marais - Bas -En-Basset",
+    "address": "35 Boulevard de la Sablière - Bas-en-Basset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place Du Pré Clos - Beauzac",
+    "address": "Place Du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Beauzac",
+    "address": "Place du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Rue du Pêcher - Monistrol sur Loire",
+    "address": "Rue du Pêcher - Monistrol-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Gamm Vert - Monistrol-sur-Loire",
+    "address": "8 Rue du Pêcher - Monistrol-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE43 - Place Marechal Jourda de Vaux - Monistrol-Sur-Loire",
+    "address": "1–2 Place du Maréchal Noël Jourda de Vaux - Monistrol-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Monistrol sur Loire - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Monistrol sur Loire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Retournac",
+    "address": "Rue Jean Baptiste Ribeyron - Retournac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Rue Jean-Baptiste Robeyron - 40917",
+    "address": "Rue Jean-Baptiste Robeyron - 40917",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Souvenir - Usson-en-Forez",
+    "address": "8 Place du Souvenir - Usson-en-Forez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

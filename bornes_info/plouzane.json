@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Parking de la Mairie",
+    "address": "Rue du 8 Mai 1945 - Plouzané",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Locamaria Plouzané (Rue de la Fontaine)",
+    "address": "497 Rue de la Fontaine - Locmaria-Plouzané",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Contact - Locmaria-Plouzané",
+    "address": "380–480 Place Michel Lareur - Locmaria-Plouzané",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plouzané - Route de Tremaidic",
+    "address": "Route de Tremaidic - Plouzané",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Contact - Locmaria-Plouzané",
+    "address": "26 Route de Pen ar Ménez - Locmaria-Plouzané",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Carrefour - Plouzané",
+    "address": "Rue des Myosotis - Plouzané",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Plouzané - CEREMA",
+    "address": "155 Rue Pierre Bouguer - Plouzané",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brest Métropole - Avenue Alexis de Rochon - Plouzané",
+    "address": "349-437 Avenue Alexis de Rochon - Plouzané",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Carrefour ZAC de Kerzouar - Saint-Renan",
+    "address": "Rue de Kerzouar ZAC de Kerzouar - Saint-Renan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Ty Colo Route de Gouesnou Guilers",
+    "address": "Route de Gouesnou - Guilers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

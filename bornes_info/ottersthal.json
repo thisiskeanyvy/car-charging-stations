@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Freshmile - A4 Aire de Saverne Monswiller (direction Strasbourg)",
+    "address": "Aire de Saverne Monswiller, Eckartswiller - Eckartswiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Saverne-Monswiller (direction Strasbourg)",
+    "address": "A4 - Eckartswiller",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Saverne-Eckartswiller (direction Metz)",
+    "address": "A4 - Eckartswiller",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de la Gare - Saverne",
+    "address": "7 Rue de la Gare - Saverne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel-Restaurant Kleiber (Tesla)",
+    "address": "37 Grand Rue - Monswiller",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du Général de Gaulle - Saverne",
+    "address": "4 Rue Dagobert Fischer - Saverne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - 1 Place des Dragons - Saverne",
+    "address": "1 Place des Dragons - Saverne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Place Saint-Nicolas - Saverne",
+    "address": "4 Place Saint-Nicolas - Saverne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Burger King - Saverne",
+    "address": "91 Rue De Dettwiller - Saverne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Renault Dacia - Saverne",
+    "address": "95 Rue de Dettwiller - Saverne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

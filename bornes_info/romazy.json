@@ -1,0 +1,136 @@
+[
+  {
+    "title": "OuestCharge - Sens-de-Bretagne - Place de la Gare",
+    "address": "Place de la Gare - Sens-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue De La Poterie - Bazouges-la-Pérouse",
+    "address": "2 Rue De La Poterie - Bazouges-la-Pérouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Rue de Fougères - Antrain",
+    "address": "9 Rue de Fougères - Antrain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint-Étienne-en-Coglès - Système U",
+    "address": "Rue d'Antrain Zac De, La Croix Rouge - Saint-Étienne-en-Coglès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Rue de la Marre - Maen Roch",
+    "address": "Rue de la Marre - Maen Roch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Hôtel Le Lion d'Or",
+    "address": "7 Rue de Saint-Ouen - Maen Roch",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place du Champ de Foire - Saint-Brice-en-Coglès",
+    "address": "2 Place du Champ de Foire - Saint-Brice-en-Coglès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Parc d'Activité Saint Eustache - Saint-Étienne-en-Coglès",
+    "address": "Parc d'Activité Saint Eustache - Saint-Étienne-en-Coglès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint-Aubin-du-Cormier",
+    "address": "4 La ville en Pierre - Saint-Aubin-du-Cormier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Saint-Aubin-du-Cormier",
+    "address": "Rue Leclerc - Saint-Aubin-du-Cormier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

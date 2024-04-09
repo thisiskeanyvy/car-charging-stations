@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Vinci - 23 Rue Clemenceau - Tucquegnieux",
+    "address": "23 Rue Clemenceau - Tucquegnieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Mont-Bonvillers",
+    "address": "5 D952 - Mont-Bonvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Landres",
+    "address": "2 Rue du 22 Aout 1914 - Landres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - D156 Chemin départemental - Landres",
+    "address": "143 D156 Chemin départemental - Landres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole du Grand Nancy - Rue de la Mine Aire de covoiturage - Parking Piscine - Landres",
+    "address": "Rue de la Mine Aire de covoiturage - Parking Piscine - Landres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Landres",
+    "address": "39 Rue de Verdun - Landres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 2 rue Du Colonel Fabien - Piennes",
+    "address": "2 rue Du Colonel Fabien - Piennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ST2B - Mairie Piennes",
+    "address": "Place Lucien Caro - Piennes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Mairie de Trieux",
+    "address": "Square des Tilleuls - Trieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - Netto - Trieux",
+    "address": "70 Avenue de la Libération - Trieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

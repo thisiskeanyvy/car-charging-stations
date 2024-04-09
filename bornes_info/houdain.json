@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lidl - Houdain",
+    "address": "122 Rue Du Docteur Bonduelle - Houdain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass Electrique - Place de la Marne",
+    "address": "Place de la Marne - Houdain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Alfred Buquet - Divion",
+    "address": "8\r\n Rue Alfred Buquet\r\n - Divion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Raoul Briquet - Bruay-la-Buissière",
+    "address": "23 Rue Raoul Briquet - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pass Pass - D301/D941 Aire de covoiturage de Divion",
+    "address": "Avenue Paul Plouvier - Divion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Rue Pasteur - Divion",
+    "address": "47B Rue Pasteur - Divion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue Franklin - Bruay-la-Buissière",
+    "address": "80 Rue Franklin - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Rue de Béthune - Ruitz",
+    "address": "Rue de Béthune - Ruitz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue Léo Lagrange - Fresnicourt-le-Dolmen",
+    "address": "Rue Léo Lagrange - Fresnicourt-le-Dolmen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue de Caucourt - Gauchin-Légal",
+    "address": "40 Rue de Caucourt - Gauchin-Légal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

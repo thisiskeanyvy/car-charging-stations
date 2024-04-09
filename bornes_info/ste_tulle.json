@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE04 - Place du Théatre Sainte-Tulle",
+    "address": "1-79 Rue Gabriel Péri - Sainte-Tulle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco campus provence formation",
+    "address": "445 Rue Gabriel Besson - Sainte-Tulle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Manosque",
+    "address": "Route de Marseille - Manosque",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Chemin des Ferrages",
+    "address": "Chemin des Ferrages - Pierrevert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "L'Occitane en Provence - Manosque - Magasin d'usine",
+    "address": "ZI Saint Maurice - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 580 Avenue de la Libération",
+    "address": "580 Avenue de la Libération - Manosque",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LUMI'IN - Route de la Durance Le Provence",
+    "address": "Route de la Durance Le Provence - Manosque",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE04 - Z.A des Près Combaux (Sortie 18)",
+    "address": "52 Avenue des Près Combaux - Manosque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Manosque - SCI Spelmam",
+    "address": "Avenue De La Libération - Manosque",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proviridis - Avenue Saint-Maurice - Manosque",
+    "address": "597 Avenue Saint-Maurice - Manosque",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "title": "SYDEC - Parking de covoiturage - Ychoux",
+    "address": "Place Franck Lahary - Ychoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEC - Place de la Mairie - Ychoux",
+    "address": "3 Place de la Mairie - Ychoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A63 - Aire de Porte des Landes-Ouest (direction Bayonne)",
+    "address": "A63 - Saugnacq-et-Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "AVIA - A63 - Aire de la Porte des Landes-Est (direction Bordeaux)",
+    "address": "A63 / E5 - Saugnacq-et-Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ZEBorne - Super U - Parentis-en-Borne",
+    "address": "606 Avenue Brémontier - Parentis-en-Born",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC - Allées Malichecq Parentis-en-Born",
+    "address": "Allées Malichecq - Parentis-en-Born",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Mairie de Parentis-en-Born",
+    "address": "2-4 Avenue Germinal - Parentis-en-Born",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Renault - Parentis-en-Born",
+    "address": "71 Route de Pontenx - Parentis-en-Born",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LastMileSolutions - 135 Route de Pontenx - Parentis-en-Born",
+    "address": "135 Route de Pontenx - Parentis-en-Born",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Triscos Automobiles",
+    "address": "71 Route de Pontenx - Parentis-en-Born",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

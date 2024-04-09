@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sigeif - Rue du Docteur Demirleau - Montmorency",
+    "address": "Rue du Docteur Demirleau - Montmorency",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Sigeif - Rue Charles De Gaulle - Deuil-la-barre",
+    "address": "6 Rue Charles De Gaulle - Deuil-la-Barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge France - 36 Rue Charles de Gaulle - Deuil-la-Barre SUPPRIMÉ",
+    "address": "36 Rue Charles de Gaulle - Deuil-la-Barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Piscine - Montmorency",
+    "address": "4 Rue jean monnet - Montmorency",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Rue de la Barre - Deuil-la-Barre",
+    "address": "62 Rue de la Barre - Deuil-la-Barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Avenue de la division Leclerc - Enghien-les-Bains",
+    "address": "139 Avenue de la Division Leclerc - Enghien-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - Rent A Car - Soisy-sous-Montmorency",
+    "address": "75 Avenue du Général Leclerc - Soisy-sous-Montmorency",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - 11 Rue Blanche - Enghien-les-Bains",
+    "address": "11 Rue Blanche - Enghien-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Avenue de la 1ère Armée Française - Montmorency",
+    "address": "23 Avenue de la 1ère Armée Française - Montmorency",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - place Albert 1er - Enghien-les-Bains",
+    "address": "19 Rue de l'Arrivée - Enghien-les-Bains",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

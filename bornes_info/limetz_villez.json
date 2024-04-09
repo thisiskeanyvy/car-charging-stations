@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEGE27 - Parking central Giverny",
+    "address": "43 Le Clos Morin - Giverny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Rue du Port - Bonnières-sur-Seine",
+    "address": "Rue du Port - Bonnières-sur-Seine",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de la Libération Bonnières-sur-Seine",
+    "address": "Place de la Libération - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEY Ma Borne - 7 Rue des Caboches - Bonnières-sur-Seine",
+    "address": "Chemin de la Forêt - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rue Charles de Gaulle - Freneuse",
+    "address": "2Bis Rue Charles de Gaulle - Freneuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Centre-ville de Freneuse",
+    "address": "Rue Charles de Gaulle - Freneuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Route Nationale - La Villeneuve-en-Chevrie",
+    "address": "Route Nationale - La Villeneuve-en-Chevrie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Bonnières-sur-Seine",
+    "address": "1 Rue Jean François Feugere - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE 27 - Cours du marché aux chevaux - Vernon",
+    "address": "8 Boulevard du Maréchal Leclerc - Vernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Vernon - Place de Paris",
+    "address": "Place de Paris - Vernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

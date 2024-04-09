@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Syaden - Avenue des Condamines Lagrasse",
+    "address": "15 Avenue des Condamines - Lagrasse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Parking route de Ribaute D212 - Lagrasse",
+    "address": "14 D212 - Lagrasse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syaden (Révéo) - Avenue de La Mer - Ferrals-les-Corbières",
+    "address": "7 Rue Des Ecoles - Ferrals-les-Corbières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Douzens (Avenue des Corbières)",
+    "address": "1 Avenue des Corbières - Douzens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Capendu",
+    "address": "D6113 - Capendu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pôle santé",
+    "address": "Rue du Cers - Capendu",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A61 - Aires de Corbières-Nord (direction Carcassonne)",
+    "address": "3 Aire des Corbieres Sud - Capendu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A61 - Aires de Corbières-Sud (direction Narbonne)",
+    "address": "A61 Autoroute des Deux Mers - Capendu",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Croix Blanche Lézignan-Corbières face au magasin ACTION",
+    "address": "Chemin de la Croix Blanche - Lézignan-Corbières",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syaden - Route de Marseillette Capendu",
+    "address": "2 Route de Marseillette - Capendu",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

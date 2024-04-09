@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Syane - Avenue de la Plage Excenevex",
+    "address": "10 Avenue de la Plage - Excenevex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Chemin de Feycler - Yvoire",
+    "address": "244 Chemin de Feycler - Yvoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel villa cecile",
+    "address": "156 Route de Messery - Yvoire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtellerie du Château de Coudrée",
+    "address": "1 Avenue Bartholoni - Sciez",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Route d'Excenevex Sciez",
+    "address": "60 Route d'Excenevex - Sciez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Route Des Mouettes - Séchex",
+    "address": "1 Route Des Mouettes - Séchex",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Recharger mon auto - Margencel - Restaurant Le Jolla",
+    "address": "Route des Mouettes Le Jolla - Margencel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Mairie de Massongy",
+    "address": "4 Route de l'Église - Massongy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SoWatt Solutions - Margencel - 1 Rue de la Résidence",
+    "address": "1 Rue de la Résidence - Margencel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 73 Route du Crêt Gojon - Margencel",
+    "address": "73 Route du Crêt Gojon - Margencel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SYDEC - Rue du Magenta - Moliets-et-Maa",
+    "address": "111 Rue du Magenta - Moliets-et-Maa",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - VVF VILLAGES - Moliets-et-Maa",
+    "address": "Rue Chambrelent Le Huchet - Moliets-et-Maa",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Club House - Moliets-et-Maa",
+    "address": "1 Route du Club - Moliets-et-Maa",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf de Moliets",
+    "address": "1 Route du Club - Moliets-et-Maa",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Avenue de l'Océan - Moliets-et-Maa",
+    "address": "Avenue de l'Océan - Moliets-et-Maa",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - Hôtel de l'Océan - Moliets-et-Maa",
+    "address": "4 Rue de la Balise - Moliets-et-Maa",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Routes des Lacs Messanges",
+    "address": "59 Route des Lacs - Messanges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEC - Mairie de Léon",
+    "address": "72 Place de l'Abbé Dulong - Léon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "chemin de la cote 361 40660 Messanges",
+    "address": "chemin de la cote 361 - Messanges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CAMPING CLUB FAMILLE LOU PIGNADA - Route des Lacs",
+    "address": "Route des Lacs - Messanges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Rambouillet Territoires - Mairie d'Orcemont",
+    "address": "6 Rue de la Mairie - Orcemont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - RN 10 Aire de l'Abbé",
+    "address": "RN 10 HAMEAU DE L'ABBE - Prunay-en-Yvelines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rambouillet Territoires - Orphin Grande rue",
+    "address": "24 Grande rue - Orphin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6651895",
+    "address": "3B Rue Barthélémy Thimonnier - Rambouillet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rambouillet Territoires - Rue Gustave Eiffel",
+    "address": "14 Rue Gustave Eiffel - Gazeran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - GAZERAN - Hélène BOUCHER 1",
+    "address": "Hélène BOUCHER 1 - GAZERAN",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 1 Rue Jacqueline Auriol - Gazeran",
+    "address": "1 Rue Jacqueline Auriol - Gazeran",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - 35 Rue Gustave Eiffel - Rambouillet",
+    "address": "35 Rue Gustave Eiffel - Rambouillet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Rambouillet",
+    "address": "- Rambouillet",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Carrefour - Rambouillet",
+    "address": "14 Rue d'Orphin - Rambouillet",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

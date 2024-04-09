@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Révéo - Grand rue - Mauguio",
+    "address": "122–194 Rue de la République - Mauguio",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Mauguio",
+    "address": "42 Route de Baillargues - Mauguio",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Mauguio - Route de Baillargues",
+    "address": "Route de Baillargues - Mauguio",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "6 Enerstock - Rue de la garrigue Mudaison",
+    "address": "6 Enerstock - Rue de la garrigue - Mudaison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rue François Perroux Parc D'Activite Aftalion - Baillargues",
+    "address": "Rue François Perroux Parc D'Activite Aftalion - Baillargues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo- parc Activités Aftalion",
+    "address": "1 Rue Alfred Sauvy - Baillargues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEENCO e-mobility - Saint-Aunès - 97 Rue des Lauriers Zone Ecoparc",
+    "address": "97 Rue des Lauriers Zone Ecoparc - Saint-Aunès",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Mudaison",
+    "address": "4 Avenue des Saladelles - Mudaison",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - D26E1 - Baillargues",
+    "address": "D26E1 - Baillargues",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volkswagen Utilitaires",
+    "address": "2 Place Bertrand Nogaro - Baillargues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

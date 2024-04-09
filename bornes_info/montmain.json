@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Métropole Rouen Normandie - Rue de Paris - Boos",
+    "address": "Rue de Paris - Boos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CREA - Allée des Roses - Saint-Aubin-Épinay",
+    "address": "122 Allée des Roses - Saint-Aubin-Épinay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Maison des Associations - Franqueville-Saint-Pierre",
+    "address": "17 President Coty - Franqueville-Saint-Pierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Super U - Franqueville-Saint-Pierre",
+    "address": "3 Rue des Terres Rouges - Franqueville-Saint-Pierre",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Franqueville-Saint-Pierre - 2 Place Haut Hubert",
+    "address": "2 Place Haut Hubert - Franqueville-Saint-Pierre",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Métropole Rouen Normandie - 1 Rue des Champs - Saint-Léger-du-Bourg-Denis",
+    "address": "1 Rue des Champs - Saint-Léger-du-Bourg-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CREA - Route de Paris - Le Mesnil-Esnard",
+    "address": "Route de Paris - Le Mesnil-Esnard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Pôle Formation UIMM Rouen Dieppe - Le Mesnil-Esnard",
+    "address": "19 Rue D'anjou - Le Mesnil-Esnard",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUROD'OC",
+    "address": "2 Rue Richard Waddington - Darnétal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Salle des fêtes - Mesnil Esnard",
+    "address": "Rue des Perets - Mesnil Esnard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

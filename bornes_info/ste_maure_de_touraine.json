@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Modulo Energies - Rue du Docteur Patry - Sainte-Maure-de-Touraine",
+    "address": "Rue du Docteur Patry - Sainte-Maure-de-Touraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Sainte-Maure-de-Touraine - Logis Hostellerie du Cheval Blanc",
+    "address": "55 Avenue du Général de Gaulle - Sainte-Maure-de-Touraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI marché - Sainte-Maure-de-Touraine",
+    "address": "D108 - Sainte-Maure-de-Touraine",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Sortie A10 -Sainte-Maure-de-Touraine",
+    "address": "L'aquitaine Sainte-Maure-de-Touraine - Sainte-Maure-de-Touraine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Modulo Energies - Ateliers municipaux - Sepmes",
+    "address": "78 Rue de la République - Sepmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Borne SIEIL - Salle socioculturelle - Draché",
+    "address": "Rue du Breuil - Draché",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 - Aire de La Fontaine Colette (direction Tours)",
+    "address": "A10 - Saint-Épain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A10 Aire Sainte Maure de Touraine (direction Poitiers)",
+    "address": "423 Aire de Sainte Maure de Touraine - Saint-Épain",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEIL - Rue de la Gare",
+    "address": "9 Rue De La Gare - Maillé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEIL - Allée Alfred Bureau - Saint-Épain",
+    "address": "2 Allée Alfred Bureau - Saint-Épain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

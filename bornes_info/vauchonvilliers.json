@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEA - Place René Pietremont Amance",
+    "address": "2 Place René Pietremont - Amance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Gare - Vendeuvre-sur-Barse",
+    "address": "20 Avenue de la République - Vendeuvre-sur-Barse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Avenue de la République - Vendeuvre sur Barse",
+    "address": "20 Avenue de la republique - Vendeuvre sur Barse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Devant l'église",
+    "address": "3 Rue de la Fontaine Saint-Pierre - Jessains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*WA6 - Vendeuvre-sur-Barse - 1 Rue Pataut",
+    "address": "1 Rue Pataut - Vendeuvre-sur-Barse",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nigloland - 27 Rue de la Vall. du Landion",
+    "address": "38-, 40 Rue de la Vallée du Landion - Dolancourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nigloland - Dolancourt",
+    "address": "40 Rue de la Vallée du Landion - Dolancourt",
+    "connectors": [
+      "x45"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "moulin du landion",
+    "address": "5 Rue Saint-Léger - Dolancourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - 81 Route nationale - Arsonval",
+    "address": "81 Route nationale - Arsonval",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - 5 Rue Tantane - Arsonval",
+    "address": "5 Rue Tantane - Arsonval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

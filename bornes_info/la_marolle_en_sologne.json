@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SIDELC - Rue Henri De Geoffre - Neung-sur-Beuvron",
+    "address": "78 Rue Henri De Geoffre - Neung-sur-Beuvron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sidelc - la Ferté Beauharnais",
+    "address": "34 Rue du Gen Alexandre de Beauharnais - La Ferté-Beauharnais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Modulo Energies - Yvoy-le-Marron - Place du Cheval Blanc",
+    "address": "Place du Cheval Blanc - Yvoy-le-Marron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Salle des Fêtes - Dhuizon",
+    "address": "7 Rue de la Ferté Saint-Cyr - Dhuizon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIDELC - Chaumont sur tharonne",
+    "address": "4 Place Robert Mottu - Chaumont-sur-Tharonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - église St Martin - Ligny le Ribault",
+    "address": "115 Place De l'Église - Ligny-le-Ribault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Borne camping car",
+    "address": "Alfred Menart - La Ferté-Saint-Cyr",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place de l'Eglise - Vernou-en-Sologne",
+    "address": "Place de l'Eglise - Vernou-en-Sologne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Center Parcs/Les Hauts de Bruyère - Rue Lamotte - Chaumont-sur-Tharonne",
+    "address": "Rue de Lamotte - Chaumont-sur-Tharonne",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BeCharge - A71 Aire de Chaumont-sur-Tharonne",
+    "address": "AUTOROUTE A71 AIRE DE CHAUMONT SUR THARONNE - Chaumont-sur-Tharonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

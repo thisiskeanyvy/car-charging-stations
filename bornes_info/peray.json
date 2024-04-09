@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SMOYS - Paray Centre - Paray-Vieille-Poste",
+    "address": "78 Avenue Victor Hugo - Paray-Vieille-Poste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SMOYS - Rue Paul Demange",
+    "address": "Rue Paul Demange - Paray-Vieille-Poste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Athis-Mons",
+    "address": "10 Rue Camille Flammarion - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Professionnel Entreprise - ZEborneMS - 37 Route de Fontainebleau N7 - Paray-Vieille-Poste",
+    "address": "37 Route de Fontainebleau - Paray-Vieille-Poste",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IMO ORY - MdE",
+    "address": "Rue du Musée - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Athis-Mons",
+    "address": "59 Avenue François Mitterrand - Athis-Mons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Morangis",
+    "address": "81 Avenue Charles De Gaulle - Morangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Paris Aéroport - Orly - Parking P4A (-1)",
+    "address": "Orly 4 - Orly",
+    "connectors": [
+      "x5",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Aéroport - Orly - Parking P3 Silo Niveau 4",
+    "address": "2 Rue des Transporteurs - Paray-Vieille-Poste",
+    "connectors": [
+      "x14",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aéroports de Paris - Parking P3 Silo Niveau 2",
+    "address": "2 Rue des Transporteurs - Paray-Vieille-Poste",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Route de Chasselay - Quincieux",
+    "address": "Route de Chasselay - Quincieux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking chemin du port Bernalin - Reyrieux",
+    "address": "274 Chemin du Port Bernalin - Reyrieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Place de la Poste - Trévoux",
+    "address": "23 Boulevard des Combattants - Trévoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du quai de Saone - Avenue du Docteur Bollet - Trévoux",
+    "address": "2 Chemin du Camping - Trévoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 142 Avenue Lavoisier - Massieux",
+    "address": "142 Avenue Lavoisier - Massieux",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Hôtel Les Pierres Dorées (Tesla et autres)",
+    "address": "4 Rue de la Mairie - Ambérieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bump-Charge - Logis Contact Hôtel Les Pierres Dorées",
+    "address": "4 Rue de la Mairie - Ambérieux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "agence Renault FB Autos",
+    "address": "8 rue de la poste - les chères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de la Poste - Les Chères",
+    "address": "1 Rue de la Poste - Les Chères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire des Chères Est (direction Villefranche-sur-Saône)",
+    "address": "A6, Aire des Chères Est - Les Chères",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

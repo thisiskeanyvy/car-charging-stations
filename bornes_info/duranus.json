@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Prise de Nice/FR*M06*PNICE*189",
+    "address": "Place Saint Michel - Duranus",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Avenue Louis Thaon - Utelle",
+    "address": "Avenue Louis Thaon - Utelle",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "St jean la riviere - Utelle",
+    "address": "- Utelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Parking Public de Levens - Niveau le plus haut du parking",
+    "address": "667 Avenue Edouard Baudoin - Levens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Prise de Nice - Levens - 645 Avenue Général de Gaulle",
+    "address": "645 Avenue Général de Gaulle - Levens",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Utelle - 39 Figaret",
+    "address": "39 Figaret - Utelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Utelle - M6202 Le Chaudan",
+    "address": "M6202 Le Chaudan - Utelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pont Durandy",
+    "address": "- Plan du Var",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du stade - Bonson",
+    "address": "1 Boulevard Albert Martiny - Bonson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Tournefort - Route de la Tinée",
+    "address": "Route de la Tinée - Tournefort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

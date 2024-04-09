@@ -1,0 +1,128 @@
+[
+  {
+    "title": "CNR - Route d'Aix-les-Bains - Seyssel",
+    "address": "8 Route d'Aix-les-Bains - Seyssel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Borne de recharge de vélos électriques et appareils USB",
+    "address": "295 Rue Notre Dame des Victoires - Ruffieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Route de Mijoux - Ruffieux",
+    "address": "Route de Mijoux - Ruffieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Béon",
+    "address": "2 Rue Des Roselières - Béon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage des Fours - Culoz",
+    "address": "4 Rue des Roselières - Culoz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pôle multimodal - Place Pierre Semard - Culoz",
+    "address": "87 Place Pierre Semard - Culoz",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Edf - 750 route du barrage - Vallieres PRIVÉE",
+    "address": "750 route du barrage - Vallieres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Artemare - Garage Pochet",
+    "address": "9 Rue de Lyon - Artemare",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du personnel de la résidence de Baufort (Privé)",
+    "address": "25 Avenue Edouard André - Rumilly",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du personnel des résidences des Cèdres et Coquelicots (Privé)",
+    "address": "21 Route de Beaufort - Rumilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

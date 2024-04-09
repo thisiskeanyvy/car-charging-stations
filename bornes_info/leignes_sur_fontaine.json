@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Soregies - Place rue Saint Hilaire",
+    "address": "14 Rue Saint-Hilaire - Leignes-sur-Fontaine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "AlterBase - Sorégies - Le Bourg - Pindray",
+    "address": "Le Bourg - Pindray",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6644645",
+    "address": "2 Rue du Servon - Chapelle-Viviers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Place de la République - Saint-Savin",
+    "address": "12 Place de la République - Saint-Savin",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-e - Civaux - Route du Fond d’Orveau",
+    "address": "Route du Fond d’Orveau - Civaux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sorégies - Rue René Cassin - Valdivienne",
+    "address": "2 Rue René Cassin - Valdivienne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Route de la Centrale Nucléaire - Civaux",
+    "address": "Route de la Centrale Nucléaire - Civaux",
+    "connectors": [
+      "x154",
+      "x154",
+      "x2",
+      "x2",
+      "x50",
+      "x50"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EDF - Centrale de Civaux / Bornes camping-car",
+    "address": "Centrale nucléaire de Civaux - Civaux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Route de la Centrale Nucléaire - Civaux",
+    "address": "Rue De La Bourbonnerie - Civaux",
+    "connectors": [
+      "x48",
+      "x48",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sorégies - Civaux - Mairie",
+    "address": "4 Place de Gomelange - Civaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

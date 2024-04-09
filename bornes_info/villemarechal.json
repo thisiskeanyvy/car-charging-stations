@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDESM - Parking eglise",
+    "address": "11 Rue Maigrette - Flagy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de la Roche du Saut Villecerf",
+    "address": "2 Rue de la Roche du Saut - Villecerf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDESM - Mairie de Voulx",
+    "address": "2 Grande Rue - Voulx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Place de l'eglise",
+    "address": "2 Place de l'Église - Ville-Saint-Jacques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Eglise Noisy",
+    "address": "5 Rue de Dormelles - Noisy-Rudignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - DIANT",
+    "address": "Grande Rue  - Diant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Rue Grande - Montarlot",
+    "address": "5 Rue Grande - Montarlot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Moret-Loing-et-Orvanne - Place de la Croix du Gué",
+    "address": "Place de la Croix du Gué - Moret-Loing-et-Orvanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Darvault - Rue de la Mairie",
+    "address": "Rue de la Mairie - Darvault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Darvault (direction Paris)",
+    "address": "A6 - Darvault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

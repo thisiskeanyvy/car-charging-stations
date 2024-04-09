@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Metropolis Recharge - 15 Avenue de l'Aérodrome - Orly",
+    "address": "15 Avenue de l'Aérodrome - Orly",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Leclerc - Orly",
+    "address": "8 Place Gaston Viens - Orly",
+    "connectors": [
+      "x6",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 1-3 Rue des Hautes Bornes - Orly",
+    "address": "1-3 Rue des Hautes Bornes - Orly",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Villeneuve-le-Roi",
+    "address": "Cours de Verdun - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ikea - Thiais (retrait de marchandises)",
+    "address": "3 Rue des Oliviers - Orly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 1",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La borne bleue - Thiais - 55 Rue Jean François Marmontel",
+    "address": "55 Rue Jean François Marmontel - Thiais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Avenue Paul Vaillant-Couturier - Villeneuve-le-Roi",
+    "address": "18 Avenue Paul Vaillant-Couturier - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "E-Totem - Mercedes ZI de la Senia - Thiais",
+    "address": "17 Rue des Alouettes ZI de la Senia - Thiais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - 17 Rue des Alouettes - Thiais",
+    "address": "17 Rue des Alouettes - Thiais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SMOYS - Gare RER C - Villeneuve-le-Roi",
+    "address": "Place de la gare - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

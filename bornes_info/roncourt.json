@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Restaurant La Tour",
+    "address": "3 Rue du Gen de Gaulle - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Amnéville - 2 Rue Adalbéron",
+    "address": "2 Rue Adalbéron - Amnéville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Metz-Saint-Privat (double sens)",
+    "address": "A4 - Aire de Metz-Saint-Privat - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Avenue Gambetta - Sainte-Marie-aux-Chênes",
+    "address": "Avenue Gambetta - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - A4 Aire de Metz St Privat (double sens) SUPPRIMÉ",
+    "address": "Aire de Metz St Privat, St-Privat-la-Montagne - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Sainte-Marie-aux-Chênes - Rue de Briey",
+    "address": "Rue de Briey Zone Commerciale du Sauceu - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Homécourt - 127 Avenue De La République",
+    "address": "127 Avenue De La République - Homécourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Sainte-Marie-aux-Chênes",
+    "address": "643 Rue de la Moselle - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x1",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue de Gasseville - Sainte-Marie-aux-Chênes",
+    "address": "1 Rue de Gasseville - Ste.-Marie-aux-Chênes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ST2B - Place de l'Hôtel de ville - Jœuf",
+    "address": "30 Place de l'Hôtel de ville - Jœuf",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

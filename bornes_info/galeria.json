@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Indigo - Parking Haussmann - Boulevard Haussmann - Paris",
+    "address": "31Bis Boulevard Haussmann - Paris",
+    "connectors": [
+      "x28",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - 16 Rue des Mathurins - Paris",
+    "address": "16 Rue des Mathurins - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - avenue de Provence - Paris (Privée)",
+    "address": "avenue de Provence - Paris",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - Rue de la Chaussée d'Antin - Paris",
+    "address": "Rue de la Chaussée d'Antin - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Meyerbeer-Opéra",
+    "address": "3 Rue de la Chaussée d'Antin - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 7 boulevard des Capucines 75002 Paris",
+    "address": "7 Boulevard des Capucines - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Belib - 19 Rue Tronchet - Paris",
+    "address": "19 Rue Tronchet - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Clem' - Paris 22 - Trinité/Estienne d'Orves",
+    "address": "6 rue de Londres - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 20 - Haussmann",
+    "address": "61 boulevard Haussmann - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 20-24 Rue de la Paix - Paris",
+    "address": "20-24 Rue de la Paix - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

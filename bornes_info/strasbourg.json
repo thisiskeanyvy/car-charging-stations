@@ -1,0 +1,134 @@
+[
+  {
+    "title": "INDIGO - Parking gare courte durée - Strasbourg",
+    "address": "Place de la Gare - Strasbourg",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SCI particuliers",
+    "address": "15A Rue Thiergarten - Strasbourg",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Kageneck - Strasbourg",
+    "address": "13 Rue Kageneck - Strasbourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - Parking Wodli",
+    "address": "5a Boulevard du Président-Wilson - Strasbourg",
+    "connectors": [
+      "x6",
+      "x2",
+      "x38"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Parking Ste Aurélie - Strasbourg",
+    "address": "1 Boulevard de Metz - Strasbourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Strasbourg - Parcus P3 Wilson",
+    "address": "17 rue des Halles - Strasbourg",
+    "connectors": [
+      "x28",
+      "x28"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - Parking Kléber - Strasbourg",
+    "address": "Place Kléber - Strasbourg",
+    "connectors": [
+      "x2",
+      "x2",
+      "x21"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Place de la Porte Blanche - Strasbourg",
+    "address": "Rue de Wasselonne - Strasbourg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Parking Centre historique Petite France - Strasbourg",
+    "address": "Rue de Molsheim - Strasbourg",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place du Cygne - Strasbourg",
+    "address": "Place du Cygne - Strasbourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

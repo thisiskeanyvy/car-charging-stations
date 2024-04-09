@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Pass Pass - Rue Adam de la Halle - Anzin-Saint-Aubin",
+    "address": "18 Rue Adam de la Halle - Anzin-Saint-Aubin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Best Western - Rue Briquet-Taillandier - Anzin-Saint-Aubin",
+    "address": "1000 Rue Briquet-Taillandier - Anzin-Saint-Aubin",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stade de foot - Anzin-Saint-Aubin",
+    "address": "535 Rue Des Filatiers - Anzin-Saint-Aubin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CRHF - Place Verlaine",
+    "address": "9 Rue Jean Racine - Arras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Sainte-Catherine - 24 Route De Béthune",
+    "address": "24 Route De Béthune - Sainte-Catherine",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Ancien Parking de la Poste - Route de Lens",
+    "address": "78 Route Nationale Résidence Eaux Vives - Sainte-Catherine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Route De Béthune - Sainte Catherine",
+    "address": "97 Route De Béthune - Sainte-Catherine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DDTM - CVRH Arras",
+    "address": "100 Avenue Winston Churchill - Pas-de-Calais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - 3 brasseurs - Arras",
+    "address": "1 Rue Ampère - Arras",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Arras",
+    "address": "193 Avenue Winston Churchill - Arras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

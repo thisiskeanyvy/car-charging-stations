@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEML - St Leger Des Bois - Rue Des Ferrieres",
+    "address": "Rue des Ferrières - Saint-Léger-des-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Saint-Jean-de-Linières",
+    "address": "54 Rue de la Liberté - Saint-Jean-de-Linières",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEML - St Martin Du Fouilloux - Parking Mairie",
+    "address": "Rue du Petit Anjou - Saint-Martin-du-Fouilloux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - St Lambert La Potherie - Rue De L'aubriaie",
+    "address": "Rue de l'Aubriaie - Saint-Lambert-la-Potherie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Parking - Saint-Jean-de-Linières",
+    "address": "Route nationale - Saint-Jean-de-Linières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rossini Energy/AIS_Securite",
+    "address": "8 Chemin de la Maladrie - Saint-Léger-de-Linières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Beaucouze - Parking Salle Le Domino",
+    "address": "Chemin de la Houssaye - Beaucouzé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Beaucouzé - 6 Avenue du Pin",
+    "address": "6 Avenue du Pin - Beaucouzé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Beaucouzé - Parking rue des Ifs",
+    "address": "Parking rue des Ifs - Beaucouzé",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Super U - Beaucouze",
+    "address": "Rue du Bourg de Paille - Beaucouze",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

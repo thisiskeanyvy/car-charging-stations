@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEER (MobiVE) - Le Gua - Rue Samuel Champlain",
+    "address": "Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proche Médiathèque - Rue Samuel Champlain Le Gua",
+    "address": "17 Rue Samuel Champlain - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Weldom - Saujon",
+    "address": "2 Rue de la Croix du Bourdon - Saujon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Saintes",
+    "address": "9 Route de Saintes - Saujon",
+    "connectors": [
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CYCLE ELEC",
+    "address": "5 Route de Royan - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HOTEL LE COMMERCE",
+    "address": "7 Rue de Saintonge - Saujon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Saujon - Place Richelieu",
+    "address": "Place Richelieu - Saujon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Corme-Royal - Résidence les Ormeaux",
+    "address": "Résidence les Ormeaux - Corme-Royal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Le Gua - 2 Rue du Bassin",
+    "address": "2 Rue du Bassin - Le Gua",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avia - Champ Devant Nouvelle-Aquitaine - Corme-Royal",
+    "address": "Champ Devant Nouvelle-Aquitaine - Corme-Royal",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

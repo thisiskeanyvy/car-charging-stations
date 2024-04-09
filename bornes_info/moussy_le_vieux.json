@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Tereos",
+    "address": "Chemin des vignettes - Moussy-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de Lamaze Moussy",
+    "address": "2 Rue de Lamaze - Moussy-le-Neuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Moussy-le-Neuf - 16 Avenue des 22 Arpents",
+    "address": "16 Avenue des 22 Arpents - Moussy-le-Neuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Longperrier",
+    "address": "3\r\n Rue De Maincourt\r\n - Longperrier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Courtyard Paris Roissy CDG (Tesla and others)",
+    "address": "Rue de la Chapelle - Le Mesnil-Amelot",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Allée du Château Mauregard",
+    "address": "15-17 Allée du Château - Mauregard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - 2 Rue de maincourt - Longperrier",
+    "address": "1 Route De Longperrier - Dammartin-en-Goële",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Mairie - Le Mesnil-Amelot",
+    "address": "1 Rue du Chapeau - Le Mesnil-Amelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Roissy - Rue du Stade Sauvanet - Le Mesnil-Amelot",
+    "address": "3 Rue du Stade Sauvanet - Le Mesnil-Amelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Saint Mard",
+    "address": "20 Av. de la Font du Berger - Saint Mard",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

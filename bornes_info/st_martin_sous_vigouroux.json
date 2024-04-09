@@ -1,0 +1,140 @@
+[
+  {
+    "title": "RÉVÉO - Le Bourg Parking Salles des Fêtes",
+    "address": "Le Bourg Parking Salles des Fêtes - Brommat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Salle des Fêtes - Argences-en-Aubrac",
+    "address": "D900 - Sainte-Geneviève sur Argence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Rue des Écoles",
+    "address": "Rue des Écoles - Mur-de-Barrez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Foirail - Rue de la Briquetterie",
+    "address": "Rue de la Briquetterie - Mur-de-Barrez",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alizé - Rue Max Mabit Fournier - Vic-sur-Cère",
+    "address": "Rue Max Mabit Fournier - Vic-sur-Cère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aire de service camping-car de Chaudes Aigues",
+    "address": "38 Avenue Georges Pompidou - Chaudes-Aigues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Relais & Châteaux Serge Vieira (Tesla & autres)",
+    "address": "Le Couffour - Chaudes-Aigues",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone boulodrome",
+    "address": "11 Rue des Roses - Lacroix-Barrez",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Murat",
+    "address": "33 N122 - Murat",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Evadea - Murat - Place du 19 mars 1962",
+    "address": "Place du 19 mars 1962 - Murat",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  }
+]

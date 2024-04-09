@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Lidl - Amiens",
+    "address": "avenue de la défense passive - Amiens",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Amiens DOUBLON",
+    "address": "50 Avenue de la Défense Passive - Rivery",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan Groupe Gueudet - Avenue de la Défense Passive - Amiens",
+    "address": "87 Avenue de la Défense Passive - Amiens",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne (ZPE) - Amiens - 15 Rue Marivaux",
+    "address": "15 Rue Marivaux - Amiens",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW - Amiens",
+    "address": "1 Avenue De La Défense Passive - Amiens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rivery - Point P",
+    "address": "216 Avenue De La Défense Passive - Rivery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne (ZPE) - Camon - 13 Rue de la Tourelle",
+    "address": "13 Rue de la Tourelle - Camon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug (Clicsysteme SAS) - Camon - 180 Rue Emile Zola",
+    "address": "180 Rue Emile Zola - Camon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue de la Vallée - Amiens",
+    "address": "80 Rue de la Vallée - Amiens",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDE80 - 30 Boulevard d'Alsace - Lorraine - Amiens",
+    "address": "30 Boulevard d'Alsace - Lorraine - Amiens",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

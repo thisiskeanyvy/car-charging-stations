@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Leuc | Avenue de Carcassonne",
+    "address": "Avenue de Carcassonne Site Parking Communal Ecole - Leuc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syaden (Révéo) - Rue de la Gare, 8 - Pomas",
+    "address": "8 Rue de la Gare - Pomas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Parking du Stade - Mauzac",
+    "address": "35 Rue du Mauzac - Cépie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syaden - Rue du Lotissement - Saint-Hilaire",
+    "address": "1 Rue du Lotissement - Saint-Hilaire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine d'Auriac - Relais & Châteaux (Tesla et autres)",
+    "address": "2535 Route de Saint-Hilaire - Carcassonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Carcassonne",
+    "address": "800 avenue Paul-Henri Monton - Carcassonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - ZAC La Ferraudière 660 Rue Gustave Eiffel - Carcassonne",
+    "address": "ZAC La Ferraudière 660 Rue Gustave Eiffel - Carcassonne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA Tressol-Chabrier - Carcassonne (Privée)",
+    "address": "445 Rue Gustave Eiffel - Carcassonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Carcassonne - 195 Chemin de Maquens",
+    "address": "D 6161 - Carcassonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "METRO - Carcassonne",
+    "address": "460 Rue Gustave Eiffel - Carcassonne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

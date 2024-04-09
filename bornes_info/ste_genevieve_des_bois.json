@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SMOYS - Mairie de Sainte-Geneviève-des-Bois",
+    "address": "1-3 Rue Marc Sangnier - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargeGuru - Volkswagen - Sainte-Geneviève-des-Bois",
+    "address": "107 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Audi - 2–6 Impasse de l'Éperon",
+    "address": "2–6 Impasse de l'Éperon - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Sainte-Geneviève-des-Bois",
+    "address": "1-9 Avenue de l'Éperon - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Ste Geneviève des Bois",
+    "address": "110 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sodetrel rue Blerioz",
+    "address": "11 Rue Berlioz - Saint-Michel-sur-Orge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Sainte-Geneviève-des-Bois",
+    "address": "Rue Du Plessis - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - Avenue Gabriel Péri - Sainte-Geneviève-des-Bois",
+    "address": "67 Avenue Gabriel Péri - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ZEborne - 13-19 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "address": "13-19 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Rue de Saint-Exupéry",
+    "address": "1 Rue de Saint-Exupéry - Saint-Michel-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

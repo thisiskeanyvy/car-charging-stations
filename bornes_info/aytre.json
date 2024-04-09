@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Bella Donna",
+    "address": "66 Avenue Edmond Grasset - Aytré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Porsche La Rochelle",
+    "address": "Rue Pythagore - Aytré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Castorama",
+    "address": "6 Rue Franklin - Aytré",
+    "connectors": [
+      "x27"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Rue Pythagoer - Zone Belle Aire Sud - Aytré",
+    "address": "Rue Pythagoer - Zone Belle Aire Sud - Aytré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Seat - Hyundai - Aytré",
+    "address": "28 Rue Gay Lussac - Aytré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Atoplexi - Aytré",
+    "address": "2 Rue Lavoisier - Aytré",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NewMotion FR - Aytré - 25 Rue Copernic",
+    "address": "25 Rue Copernic - Aytré",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Pique-Fesse - La Jarne",
+    "address": "Route de Pique-Fesse - La Jarne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Brit hôtel Périgny",
+    "address": "2 Rond-Point de la République - Perigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Renault - La Rochelle",
+    "address": "161 Avenue Jean-Paul Sartre - La Rochelle",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

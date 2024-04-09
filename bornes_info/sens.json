@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SDEY - 11 Boulevard des Frères Garibaldi",
+    "address": "11 Boulevard des Garibaldi - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEY - Rue André Gâteau Sens",
+    "address": "Place des Jacobins - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEY - Place Victor Hugo - Sens",
+    "address": "32 Place Victor Hugo - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEY - Quai Ernest Landry - Sens",
+    "address": "89 Quai Ernest Landry - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Place des Héros Sens",
+    "address": "20 Place des Héros - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Colruyt - Rue du Général Leclerc",
+    "address": "54 Rue du Général Leclerc - Sens",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Boulevard de Verdun - Sens (Réservée aux clients de la marque)",
+    "address": "3bis Boulevard de Verdun - Sens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Auto Prestige - Sens",
+    "address": "5 Boulevard De Verdun - Sens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Alizé - Colruyt - Sens",
+    "address": "16 Boulevard du Président Kennedy - Sens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Boulevard de la Convention - Sens",
+    "address": "107 Rue Émile Zola - Sens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

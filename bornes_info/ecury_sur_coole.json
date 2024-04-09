@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEM 51 - rue de l'église - Parking Salle des fêtes - Sarry",
+    "address": "rue de l'eglise - Sarry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Centre Commercial du Verbeau - Châlons-en-Champagne",
+    "address": "6 Rue Georges Barbier - Châlons-en-Champagne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Châlons-en-Champagne",
+    "address": "4 Rue Romain Rolland - Châlons-en-Champagne",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "R3 - Châlons-en-Champagne - Leclerc Drive",
+    "address": "13-15 Avenue Winston Churchill - Châlons-en-Champagne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Champagne Joseph Perrier",
+    "address": "69 Avenue de Paris - Châlons-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Châlons-en-Champagne",
+    "address": "74 Avenue du Président Roosevelt - Châlons-en-Champagne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Virta - 36 Avenue Winston Churchill - Châlons-en-Champagne",
+    "address": "36 Avenue Winston Churchill - Châlons-en-Champagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Saint-Memmie - 77 Avenue du Président Roosevelt",
+    "address": "77 Avenue du Président Roosevelt - Saint-Memmie",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Avenue de Paris - Chalons-en-Champagne",
+    "address": "129bis Avenue de Paris - Chalons-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Châlons-en-Champagne - 116 Avenue De Paris",
+    "address": "116 Avenue De Paris - Châlons-en-Champagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

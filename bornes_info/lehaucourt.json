@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Powerdot - Cora - Saint-Quentin",
+    "address": "182 Rue Georges Pompidou - Saint-Quentin",
+    "connectors": [
+      "x7",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Réseau TCB FR - Saint-Quentin - 1 Av. Michel de l'Hospital BP 608",
+    "address": "1 Av. Michel de l'Hospital BP 608 - Saint-Quentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Place de la Citoyenneté - Saint-Quentin",
+    "address": "60 Robert Schumann - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi - Rue Du Pdt J Fitzgerald Kennedy - Saint-Quentin",
+    "address": "177 Rue Du Pdt J Fitzgerald Kennedy - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue des Marlettes - Fayet",
+    "address": "106 Rue des Marlettes - Fayet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SOS Médecins - Rue d'Epargnemailles",
+    "address": "10 Rue d'Epargnemailles - Saint-Quentin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Saint-Quentin",
+    "address": "4c Rue des Marlettes - Fayet",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "USEDA - Avenue Archimède (Privé)",
+    "address": "6 Avenue Archimède - Saint-Quentin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Avenue Archimède - Saint-Quentin",
+    "address": "Avenue Archimède - Saint-Quentin",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue Archimède - Saint-Quentin",
+    "address": "Avenue Archimède - Saint-Quentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

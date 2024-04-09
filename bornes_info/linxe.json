@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Camping des Lilas",
+    "address": "190 route de Mixe Lieu-dit Grand Jean - Linxe",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Mairie de Léon",
+    "address": "72 Place de l'Abbé Dulong - Léon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parkeren eurosol camping",
+    "address": "Route de la Jaouque - Vielle-Saint-Girons",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Mairie de Castets",
+    "address": "53 Rue des Forges - Castets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la plage - Saint Girons plage",
+    "address": "parking de plage - Saint Girons Plage",
+    "connectors": [
+      "x40",
+      "x20"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta -  Route de la plage - Vielle Saint Girons (Privé)",
+    "address": "4756 Route de la Plage - Vielle-Saint-Girons",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Green - Impasse du Basile",
+    "address": "Impasse du Basile - Castets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A63/D947 Relais de Castets",
+    "address": "Route de Dax - Castets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - Route du cap de l homy 1545 - Lit-et-Mixe",
+    "address": "Route du cap de l homy 1545 - Lit-et-Mixe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue du Magenta - Moliets-et-Maa",
+    "address": "111 Rue du Magenta - Moliets-et-Maa",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

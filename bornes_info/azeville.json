@@ -1,0 +1,134 @@
+[
+  {
+    "title": "H2oelec",
+    "address": "19 Village des saints - Yvetot bocage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E. Leclerc - Valognes",
+    "address": "7 Route de Montebourg - Valognes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EVBox - Hôtel restaurant l'Epicurien - Valognes",
+    "address": "16 rue Léopold Delisle Hôtel restaurant l'Epicurien - Valognes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place du Château - Valognes",
+    "address": "13 Place du Château - Valognes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking Skate parc, Bus, Camping car",
+    "address": "38 Rue Mauquet de la Motte - Valognes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Valognes",
+    "address": "34bis Boulevard Félix Buhot - Valognes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IECharge - Négreville - 1366 Rue Saint-Clair",
+    "address": "1366 Rue Saint-Clair - Négreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Mairie de Saint-Joseph",
+    "address": "2 Le Bourg - Saint-Joseph",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Montebourg Place Albert Pèlerin",
+    "address": "41 Place Albert Pèlerin - Montebourg",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEM50 - Rue de l'Ancienne Gare - Sottevast",
+    "address": "Rue de l'Ancienne Gare - Sottevast",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

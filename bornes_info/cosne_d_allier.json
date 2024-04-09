@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE03 - Rue du Marché - Cosne-d'Allier",
+    "address": "Rue du Marché - Cosne-d'Allier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Villefranche-d'Allier",
+    "address": "Rue des Fossés - Villefranche-d'Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Parking place des Mineurs - Buxières-les-Mines",
+    "address": "Route de Chavenon - Buxières-les-Mines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A71 Aire de l'Allier Saulzet (direction Montluçon)",
+    "address": "A71 - Doyet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Avia - A71/E62 Aire de l'Allier Doyet",
+    "address": "A71/E62, Aire de l'Allier Doyet - Doyet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A71 Aire de l'Allier Saulzet (direction Montmarault)",
+    "address": "A71, Aire de l'Allier Saulzet - Doyet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chateaux d'Ygrande",
+    "address": "Le Château du Mont - Ygrande",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Cérilly",
+    "address": "Place du Champ de Foire - Cérilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Vallon-en-Sully",
+    "address": "Route de Nassigny - Vallon-en-Sully",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Saint-Victor - 6 Route De Paris",
+    "address": "6 Route De Paris - Saint-Victor",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "FR*WA5 - La Bussière - La Bertholière",
+    "address": "La Bertholière - La Bussière",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Parking de l'étoile - Saint-Pierre-de-Maillé",
+    "address": "1-2 Auberge de l'Étoile - Saint-Pierre-de-Maillé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterbaseSorégies - Rue Charles Clerté - Archigny",
+    "address": "Rue Charles Clerté - Archigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase - Sorégies - Parking de l'église - Pleumartin",
+    "address": "Parking de l'église - Pleumartin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Soregies - Ville haute Chauvigny - cimetiere",
+    "address": "Rue Porte Chevreau - Chauvigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place du Marché",
+    "address": "Place du Marché - Chauvigny",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Rue du Banfora - Chauvigny",
+    "address": "Rue du Banfora - Chauvigny",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AirBnB les chambres des Vigealieres",
+    "address": "2 Les Vigealieres - Bonnes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Soregies - Parking salle des fêtes - Angles-sur-l'Anglin",
+    "address": "14 Rue des Frères - Angles-sur-l'Anglin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Pleumartin - D3",
+    "address": "D3 - Pleumartin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

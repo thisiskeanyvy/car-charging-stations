@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Lidl - Rue de Rennes",
+    "address": "19 Rue de Rennes - Châteaugiron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Châteaugiron | Rue de Rennes",
+    "address": "Rue de Rennes - Châteaugiron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Boulevard Pierre et Julien Gourdel - Châteaugiron",
+    "address": "16A Boulevard Pierre et Julien Gourdel - Châteaugiron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Action - Châteaugiron",
+    "address": "Le Petit Launay - Châteaugiron",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "INNOVAL",
+    "address": "44 Chaumiere - Noyal-sur-Vilaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Parking L'Intervalle - Noyal-sur-Vilaine",
+    "address": "Rue De La Motte - Noyal-sur-Vilaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Vern-sur-Seiche",
+    "address": "Place de la Mairie - Vern-sur-Seiche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Zeborne (ZPE) - Servon-sur-Vilaine - Olivet Parc Activités Olivet Nord",
+    "address": "Olivet Parc Activités Olivet Nord - Servon-sur-Vilaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Noyal-sur-Vilaine",
+    "address": "Zac, Le Chêne Joli - Noyal-sur-Vilaine",
+    "connectors": [
+      "x4",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargePoint - 22 Rue de la Rigourdière",
+    "address": "22 Rue de la Rigourdière - Cesson-Sévigné",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

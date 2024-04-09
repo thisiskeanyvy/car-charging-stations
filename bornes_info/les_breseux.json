@@ -1,0 +1,128 @@
+[
+  {
+    "title": "TotalEnergies - Maiche - Garage du Lion",
+    "address": "3 Rue Malseigne - Maîche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Saint-Michel - Maîche",
+    "address": "30 Saint-Michel - Maîche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Maîche - Aux Aiges",
+    "address": "Aux Aiges - Maîche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Esplanade des Fêtes - Saint-Hippolyte",
+    "address": "Esplanade des Fêtes - Saint-Hippolyte",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Saint-Hippolyte",
+    "address": "1 Rue du Clos Pascal - Saint-Hippolyte",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Taillard (Tesla et autres)",
+    "address": "3 Route de la Corniche - Goumois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Rue de la Combe - Belleherbe",
+    "address": "1 Rue de la Combe - Belleherbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "12 Le Boéchet Les Bois INEXISTANT",
+    "address": "12 Le Boéchet - Les Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fondation du Musée du Ski",
+    "address": "12 Le Boéchet - Les Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CJ - gare",
+    "address": "Rue de la Gare - Le Noirmont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

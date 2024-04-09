@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Belib - 2 Rue Valette - Paris",
+    "address": "2 Rue Valette - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - Rue Clovis - Paris",
+    "address": "Rue Clovis - Paris",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 17 place du Panthéon 75005 Paris",
+    "address": "17 Place du Panthéon - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Clem' - Paris 11 - Monge-Ecoles",
+    "address": "19 rue des Ecoles - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 23 rue des Bernardins Paris",
+    "address": "23 rue des Bernardins - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc souterrain Maubert Collège des Bernardins",
+    "address": "39 boulevard St Germain - Paris",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 7 Rue Paul Painlevé - Paris",
+    "address": "7 Rue Paul Painlevé - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SAEMES - 19 Rue Lagrange - Paris",
+    "address": "19 Rue Lagrange - Paris",
+    "connectors": [
+      "x15",
+      "x6",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 34 rue Saint-Jacques 75005 Paris",
+    "address": "34 Rue Saint-Jacques - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Indigo - Parking Soufflot-Panthéon (sous-terrain) - Paris",
+    "address": "22 Rue Soufflot - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  }
+]

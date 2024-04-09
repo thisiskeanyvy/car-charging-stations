@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE22 - Rue de la Poste - Coatreven",
+    "address": "Rue de la Poste - Coatréven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Camlez",
+    "address": "Place du 19 Mars - Camlez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Langoat",
+    "address": "D72 - Langoat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - BMW - Lannion",
+    "address": "Rue Paul Fleuriot de Langle, - Lannion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Rue de l'Hôpital - la Roche Derrien",
+    "address": "Parking Rue de l'Hôpital - La Roche-Derrien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Lannion BodemerAuto (Privé)",
+    "address": "Route de Guingamp - Lannion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Skill Telecom - Lannion",
+    "address": "6 rue saint-marc - Lannion",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Lannion - Netto",
+    "address": "Rue du Pouldiguy - Lannion",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking entreprise Open et Ericsson",
+    "address": "4 Rue Joseph Libois - Lannion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "4 Rue Gaspard Monge (Tesla and others)",
+    "address": "6 Rue Gaspard Monge - Lannion",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

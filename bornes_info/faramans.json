@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Grand Rue - Bressolles",
+    "address": "32 Impasse de la Cure - Bressolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue des Stades - Meximieux",
+    "address": "3 Rue des Stades - Meximieux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "ZEborne - Intermarché - Meximieux",
+    "address": "10 Chemin des Écureuils - Meximieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT - Béligneux - 37 Rue Professeur Robert Hugonot",
+    "address": "37 Rue Professeur Robert Hugonot - Béligneux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SPIE Nucléaire - Béligneux",
+    "address": "380 Rue de Dérontet - Béligneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "INOUid - Meximieux - 1394 Route de Charnoz",
+    "address": "1394 Route de Charnoz - Meximieux",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Super U - Montluel",
+    "address": "16 Cours de la Portelle - Montluel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 85 Chemin de la Portelle - Montluel",
+    "address": "Chemin de la Portelle - Montluel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ZEborne - Dagneux - Toyota",
+    "address": "1247 Rue des Chartinières - Dagneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A42 - Aire de Lyon-Montluel (direction Lyon)",
+    "address": "A42 - Dagneux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

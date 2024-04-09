@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDESM - Solers - Rue de la Tournelle",
+    "address": "15 Rue de la Tournelle - Solers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Champeaux\t- Soignolles en brie",
+    "address": "11 Rue de Champeaux - Soignolles-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue de Constantine",
+    "address": "Rue de Constantine - Coubert",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue Jean-Jaurès",
+    "address": "Rue Jean-Jaurès - Coubert",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Ozouer-le-Voulgis - Rue Renard",
+    "address": "Rue Renard - Ozouer-le-Voulgis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDESM - Place Roger Chauveau - Lissy",
+    "address": "9 Place Roger Chauveau - Lissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESm - Avenue de la Gare - Yèbles",
+    "address": "15 Avenue de la Gare - Yèbles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Grisy-Suisnes - Complexe Sportif",
+    "address": "6 Rue des Bois - Grisy-Suisnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Grisy-Suisnes - 2 Rue de la Légalité",
+    "address": "2 Rue de la Légalité - Grisy-Suisnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Rue de la Fraternité D619 - Yèbles",
+    "address": "1 Rue de la Fraternité - Yèbles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "HOTEL LE PRIVILEGE",
+    "address": "RDPT Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Boulevard de l'Europe - Haudainville",
+    "address": "Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto Verdun Houdainville",
+    "address": "Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Verdun - Cora",
+    "address": "1 Route de Metz - Verdun",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Haudainville",
+    "address": "12 Route de Metz - Verdun",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Buffalo Verdun, Avenue de Metz",
+    "address": "54 Avenue De Metz - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "14 Allée du Pré l'Évêque - Verdun (Privé)",
+    "address": "14 Allée du Pré l'Évêque - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Verdun - Anthouard",
+    "address": "1-5 Cité d'Anthouard - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo-Energies - Verdun - Tanneries",
+    "address": "14 Rue des Tanneries - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Verdun - 8 Mai",
+    "address": "4 Impasse du Stade - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

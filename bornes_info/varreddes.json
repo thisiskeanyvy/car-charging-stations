@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Camping Varreddes",
+    "address": "- Varreddes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Germigny-l'Évêque - Allée des Noyers",
+    "address": "Allée des Noyers - Germigny-l'Évêque",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chambry - 10 Rue De La Ville",
+    "address": "10 Rue De La Ville - Chambry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Congis sur therouanne",
+    "address": "43 Rue de la Poste - Congis-sur-Thérouanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Meaux - 1 Rue Jehan de Brie",
+    "address": "1 Rue Jehan de Brie - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue des Carrouges - Crégy-lès-Meaux",
+    "address": "Rue des Carrouges - Crégy-lès-Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Meaux - 17 Rue des Soldats de la Marne",
+    "address": "17 Rue des Soldats de la Marne - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Meaux",
+    "address": "3 Rue Georges Claude - Meaux",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Meaux",
+    "address": "Avenue de la Victoire - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia-Express - Meaux - Norauto",
+    "address": "Rue Georges Claude - Meaux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  }
+]

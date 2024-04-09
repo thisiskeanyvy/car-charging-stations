@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Aaire de covoiturage Vinci A81/D901 - Louverné",
+    "address": "Maison Neuve - Louverné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - B&B Hôtel Laval Changé",
+    "address": "Rue Louis de Broglie B&B Laval - Changé",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel IBIS - Changé",
+    "address": "69 Boulevard de Buffon - Changé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V4 - Rue Ferdinand Buisson - Campanile",
+    "address": "21 Rue Ferdinand Buisson - Changé",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Destination Charging - Impasse Louis Neel - Changé",
+    "address": "Impasse Louis Neel - Changé",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 76 Boulevard de Buffon - Laval",
+    "address": "76 Boulevard de Buffon - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue Albert Einstein - Changé",
+    "address": "Rue Albert Einstein - Changé",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Rexel - Boulevard Denis Papin",
+    "address": "160 Boulevard Denis Papin - Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue Auguste Renoir - Louverné",
+    "address": "Rue Auguste Renoir - Louverné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Laval",
+    "address": "6 avenue de la Mayenne - Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

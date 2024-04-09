@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Ad Quotidien 82 (privé)",
+    "address": "7 Rue des Chênes - Campsas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY Montbartier - A20-A62 (Double sens)",
+    "address": "Avenue du Pech - Labastide-Saint-Pierre",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Rue Raimon Jouan - Montbartier",
+    "address": "Rue Raimon Jouan - Montbartier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue d'occitanie - Labastide-Saint-Pierre",
+    "address": "Rue d'occitanie - Labastide-Saint-Pierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "175 Impasse de Fontanilles",
+    "address": "175 Impasse de Fontanilles - Bressols",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Place de la Mairie - Montbartier",
+    "address": "105 Chemin de Lapeyrière - Montbartier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE82 - rue de la Gare - Montbartier",
+    "address": "171 Rue de la Gare - Montbartier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue du Stade - Corbarieu",
+    "address": "Rue du Stade - Corbarieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Reynies",
+    "address": "2 Rue Albert de Reyniès - Reyniès",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A20 Aire de Nauze vert (direction Toulouse)",
+    "address": "95\r\n Camions\r\n - Bressols",
+    "connectors": [
+      "x8",
+      "x1",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

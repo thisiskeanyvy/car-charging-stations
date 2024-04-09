@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Place du General de Candras - 31 Rue des Forges",
+    "address": "Place du General de Candras - Époisses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Maison Dieu (direction Auxerre)",
+    "address": "A6 - Guillon-Terre-Plaine",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A6 Aire de la Chaponne (direction Chalon sur Saône)",
+    "address": "81 Autoroute du Soleil - Sceaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEY - Parking covoiturage (Sortie 22)",
+    "address": "D646 - Sauvigny-le-Bois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Avallon",
+    "address": "33 Rue de la Bergerie - Magny",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Ibis Avallon - Rue de la Bergerie",
+    "address": "406 Pâtis des Îles - Magny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place du Bicentenaire - Sauvigny-le-Bois",
+    "address": "Place du Bicentenaire - Sauvigny-le-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - 5 Avenue du Parc -L'Isle-sur-Serein",
+    "address": "7 Avenue du Parc - L'Isle-sur-Serein",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - L'Isle-sur-Serein - Place Saint-Georges",
+    "address": "Place Saint-Georges - L'Isle-sur-Serein",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Route de Sauvigny - Avallon",
+    "address": "Route de Sauvigny - Avallon",
+    "connectors": [
+      "x5",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

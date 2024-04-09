@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDEEL66 - Hotel de Ville de Pollestres",
+    "address": "Esplanade de L'Europe\r\n - Pollestres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Pollestres",
+    "address": "2 Rue Ludovic Masse - Pollestres",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Pollestres - Intermarché",
+    "address": "6 Rue Ludovic Masse - Pollestres",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "STATIONS-E - Pollestres - 3 Rue Alfred Sauvy",
+    "address": "3 Rue Alfred Sauvy - Pollestres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sud CC - Rue Alfred Sauvy - Pollestres",
+    "address": "1 ZAC Creu Blanca - Pollestres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nord Centre commercial - Rue Alfred Sauvy",
+    "address": "1 Alfred Sauvy - Pollestres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Brit hôtel porte d'Espagne - Perpignan",
+    "address": "336 Chemin du Mas Palègry - Perpignan",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Kyriad Sud - Perpignan",
+    "address": "28 Rue Du Docteur Koch - Perpignan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Pollestres",
+    "address": "Route de Pollestres - Bages",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy Merlin - Rte d'espagne - Perpignan",
+    "address": "Rte d'espagne - Perpignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

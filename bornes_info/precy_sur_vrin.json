@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEY - Place de la mairie - La Celle-Saint-Cyr",
+    "address": "1 Place de la Mairie - La Celle-Saint-Cyr",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - D943 - Sepeaux",
+    "address": "D943 - Sépeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - A6 Aire de la Couline DOUBLON",
+    "address": "Précy-sur-Vrin, Aire de la Couline - Précy-sur-Vrin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - A6 Aire de la Couline (direction Paris)",
+    "address": "Bidart, Aire de Bidart OUEST - Bidart",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IONITY - A6 - Aire de la Réserve (direction Auxerre)",
+    "address": "A6 - Précy-sur-Vrin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A6 - Aire de la Couline (direction Paris)",
+    "address": "1 A6 - Précy-sur-Vrin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Station - Château du Fey",
+    "address": "Le Château du Fey - Villecien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue des Entrepreneurs Parc commercial de la petite ile - JOIGNY",
+    "address": "Rue des Entrepreneurs Parc commercial de la petite ile - JOIGNY",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Joigny",
+    "address": "Rue des Entrepreneurs - Joigny",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Rue d'Île-de-France - Armeau",
+    "address": "27 Rue d'Île-de-France - Armeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

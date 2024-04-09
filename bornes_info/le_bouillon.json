@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Carrefour Market - Marines",
+    "address": "21 Boulevard Gambetta - Marines",
+    "connectors": [
+      "x3",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Leclerc Express Marines",
+    "address": "3 Rue de la Richarderie - Marines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - rond point de branchu - Lierville",
+    "address": "D153 - Lierville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mouv’Oise - 1 Rue Antoine Havard - Neuville-Bosc",
+    "address": "1 Rue Antoine Havard - Neuville-Bosc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clos des vignes",
+    "address": "17 Rue des Vignes - Neuville-Bosc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Fleury",
+    "address": "114 Rue du Moulin - Fleury",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de Rouen - Vigny (Privé)",
+    "address": "Rue de Rouen 2 - Vigny",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison du Parc - Théméricourt",
+    "address": "2 Rue du Moulin - Théméricourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - Rue de la Commanderie, 44 - Ivry-le-Temple",
+    "address": "44 Rue de la Commanderie - Ivry-le-Temple",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc Aventure Land - Magny en Vexin",
+    "address": "RD14 sortie 19 - Magny en Vexin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

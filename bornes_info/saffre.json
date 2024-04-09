@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Rue du Manoir - Saffré",
+    "address": "Rue du Manoir - Saffré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sydego - Mairie d'Abbaretz",
+    "address": "11 Rue de la Mairie - Abbaretz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO - Route de l'Océan, 20 - La Grigonnais",
+    "address": "20 Route de l'Océan - La Grigonnais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Impasse des Terrasses de la Chesnaie - Nozay",
+    "address": "2 Impasse des Terrasses de la Chesnaie - Nozay",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Station Nozay",
+    "address": "3 Impasse du Lavoir - Nozay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Nozay",
+    "address": "15 Boulevard du Petit Versailles - Nozay",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDEGO - La Chenuetière - Nozay",
+    "address": "La Chenuetière - Nozay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Station Nort sur Erdre \"Champ de Foire\"",
+    "address": "10 Place du Champ de Foire - Nort-sur-Erdre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Logis L'Abreuvoir",
+    "address": "La Croix Blanche - Heric",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydego - Nort sur Erdre",
+    "address": "Rue de Touraine - Nort-sur-Erdre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Grenoble Métropole - Rue Arago - Grenoble",
+    "address": "Rue Arago - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Felix Esclangon - Grenoble",
+    "address": "75 Rue Félix Esclangon - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Grenoble Métropole - Grenoble - Avenue des Martyrs",
+    "address": "Avenue des Martyrs - Grenoble",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CEA-Cambridge - Avenue des Martyrs - Grenoble (Citiz)",
+    "address": "82 Avenue des Martyrs - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 50 Avenue des Martyrs - Grenoble",
+    "address": "50 Avenue des Martyrs - Grenoble",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Station GEG - Rue Felix Esclangon - Grenoble",
+    "address": "49 Rue Felix Esclangon - Grenoble",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Grenoble Métropole - rue de la Frise",
+    "address": "15 rue de la Frise - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Quai stéphane Jay - Grenoble",
+    "address": "Quai Stéphane Jay - Grenoble",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Le Patricia",
+    "address": "2Bis Rue Marcel Deprez - Grenoble",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Parking Indigo Philippeville - Grenoble",
+    "address": "5 Rue de Belgrade - Grenoble",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

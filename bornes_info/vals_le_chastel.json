@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Lugeastre Bas - St.-Didier-sur-Doulon",
+    "address": "Lugeastre Bas - St.-Didier-sur-Doulon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis hôtel la crèche",
+    "address": "Les Chaussades - La Chomette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Saint Roch",
+    "address": "Pradous - Salzuit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Lafayette - Paulhaguet",
+    "address": "25 Place Lafayette - Paulhaguet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Auvergne naturelle",
+    "address": "Moulin de Diat - Laval-sur-Doulon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Route de Brugerolles - Vieille-Brioude",
+    "address": "Route de Brugerolles - Vieille-Brioude",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citroen - Vieille-Brioude",
+    "address": "D 912 - Vieille-Brioude",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Station service - Champagnac-le-Vieux",
+    "address": "D588 - Champagnac-le-Vieux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Place de la Liberté - Brioude",
+    "address": "18–27 Place de la Liberté - Brioude",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Parking centre historique - Brioude",
+    "address": "63 Avenue de Lamothe - Brioude",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

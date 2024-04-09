@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SIDELC - St Gervais rue de la poissonnière",
+    "address": "2 Rue de la Poissonnière - Saint-Gervais-la-Forêt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIDELC - Route de Chambord",
+    "address": "1 Route de Chambord - Saint-Gervais-la-Forêt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Rue des Clouseaux",
+    "address": "241 Rue des Clouseaux - Saint-Gervais-la-Forêt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Noz - Rue Georges Méliès",
+    "address": "325 Rue Georges Méliès - Saint-Gervais-la-Forêt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Gervais-la-Forêt",
+    "address": "565 Rue Georges Méliès - Saint-Gervais-la-Forêt",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Patapain - Route Nationale",
+    "address": "138 Route Nationale - Saint-Gervais-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Vineuil - Auchan",
+    "address": "99 Rue Pierre Gilles de Gennes \r\n - Vineuil",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Place du 11 Novembre 1918-rue Gaspard imbert",
+    "address": "16 Place Du 11 Novembre - Vineuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Office Notarial - 1 Rue de la Creusille - Blois",
+    "address": "1 Rue de la Creusille - Blois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue des Alliés - Blois",
+    "address": "Rue des Alliés - Blois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

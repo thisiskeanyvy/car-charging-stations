@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Vinci - 2 Rue General Leclerc - Damelevières",
+    "address": "2 Rue General Leclerc - Damelevières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'hôtes La Tuilerie",
+    "address": "26 Avenue Pierre Sémard - Blainville-sur-l'Eau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - 2 Rue de la Gare - Virecourt",
+    "address": "2 Rue de la Gare - Virecourt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place de Lorraine - Rue Maréchal Leclerc - Blainville-sur-l'Eau",
+    "address": "4 Rue Maréchal Leclerc - Blainville-sur-l'Eau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue Principale - Lamath",
+    "address": "8 Rue Principale - Lamath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Dombasle-sur-Meurthe",
+    "address": "37 Avenue de Rosières - Dombasle-sur-Meurthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Communauté Urbaine du Grand Nancy - 10 Rue de l'Église - Franconville",
+    "address": "10 Rue de l'Église - Franconville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole du Grand Nancy - 36 Rue des Généraux Mangin - Xermaménil",
+    "address": "36 Rue des Généraux Mangin - Xermaménil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking covoiturage - Ceintrey",
+    "address": "D6/D913 Parking covoiturage - Ceintrey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking BasicFit - Saint-Nicolas-de-Port",
+    "address": "Route de Ville en Vermois\r\n - Saint-Nicolas-de-Port",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

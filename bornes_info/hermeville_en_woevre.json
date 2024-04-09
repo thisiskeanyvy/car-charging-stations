@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Modulo-Energies - Étain",
+    "address": "Place Jean Baptiste Rouillon - Étain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Châtillon-sous-les-Côtes, Rue du Pressoir",
+    "address": "2 Rue Du Pressoir - Châtillon-sous-les-Côtes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A4 Aire de Verdun-Saint Nicolas-Nord (direction Paris)",
+    "address": "A4 - Haudiomont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A4 Aire de Verdun-Saint Nicolas-Sud (direction Metz)",
+    "address": "A4 - Haudiomont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Fresnes en Woevre",
+    "address": "6 Place Clemenceau - Fresnes-en-Woëvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mémorial de Verdun",
+    "address": "1 avenue du Corps Europeen - Fleury-devant-Douaumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking hotel les Orchidées",
+    "address": "368 Rue Robert Schumann - Verdun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - 368 Rue Robert Schumann - Verdun",
+    "address": "368 Rue Robert Schumann, zi de tavannes - VERDUN",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Verdun",
+    "address": "33B Avenue d'Étain - Verdun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Renault - Verdun",
+    "address": "23 Avenue d'Étain - Verdun",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

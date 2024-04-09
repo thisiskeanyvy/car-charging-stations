@@ -1,0 +1,126 @@
+[
+  {
+    "title": "EVBox - Ford Zelus - Montgeron",
+    "address": "Rue du Bourbonnais - Montgeron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Villeneuve Saint Georges",
+    "address": "188 Rue de Paris - Villeneuve-Saint-Georges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 188 Rue De Paris - Villeneuve-Saint-Georges INEXISTANT",
+    "address": "188 Rue De Paris - Villeneuve-Saint-Georges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 32B Route de Villeneuve - Ablon-sur-Seine",
+    "address": "32B Route de Villeneuve - Ablon-sur-Seine",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "E Leclerc - Montgeron",
+    "address": "72 avenue Jean Jaurès - Montgeron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Jean Jaurès - Crosne",
+    "address": "54 Avenue Jean Jaurès - Crosne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Villeneuve-le-Roi - Impasse de la Darse",
+    "address": "Impasse de la Darse - Villeneuve-le-Roi",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - ZA de la Plaine Haute - Crosne",
+    "address": "Rue du Carnaval - Crosne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cimetiere intercommunal de Valenton",
+    "address": "15 Avenue de la fontaine saint martin - Valenton",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Parc en Seine",
+    "address": "19 Avenue du Maréchal de Turenne - Villeneuve-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

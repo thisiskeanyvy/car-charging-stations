@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Manoir du Rigourdain",
+    "address": "32 La Caillibotais - Plouër-sur-Rance",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Super U - Plouër-sur-Rance",
+    "address": "3 Rue des Charpentiers de Marine - Plouër-sur-Rance",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Rue de la Poste - Plouër-sur-Rance",
+    "address": "9 Rue de la Poste - Plouër-sur-Rance",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22- Pleslin-Trigavou",
+    "address": "21 Rue Des Mégalithes - Pleslin-Trigavou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Espace Delta - Rue Ransbach Baumbach - Pleurtuit",
+    "address": "Rue Ransbach Baumbach - Pleurtuit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Saint-Malo - Rue de la Passagère",
+    "address": "Rue de la Passagère - Saint-Malo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue Du Val Du Moulin - Saint-Jouan-des-Guérets",
+    "address": "2 Rue Du Val Du Moulin - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Rue des Marais - Châteauneuf-d'Ille-et-Vilaine",
+    "address": "Rue des Marais - Châteauneuf-d'Ille-et-Vilaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super U - Rue des Terre-Neuvas",
+    "address": "8–12 Rue des Terre-Neuvas - Pleurtuit",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Saint-Jouan-des-Guérets, Garage Lucas",
+    "address": "2 Rue De Saint-Malo - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

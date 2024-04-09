@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SEW USOCOME",
+    "address": "01 Technopôle Forbach Sud - Oeting",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Mercure Forbach",
+    "address": "70 Rue Félix Barth - Forbach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking du Conservatoire - Forbach",
+    "address": "2 Rue Thérèse - Forbach",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mairie de Behren-lès-Forbach",
+    "address": "91 Rue de la Liberté - Behren-lès-Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Parking Place Johann Fischart - Forbach",
+    "address": "3 Place Johann Fischart - Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Forbach - 208 Rue Nationale",
+    "address": "208 Rue Nationale - Forbach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rent A Car - Forbach",
+    "address": "52 Avenue Saint-Rémy - Forbach",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue du Château - Forbach",
+    "address": "Rue du Château - Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Powerdot - Cora - Forbach",
+    "address": "59 Avenue de l'Europe - Forbach",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Entreprise JECA",
+    "address": "11 Rue Laplace - Behren-lès-Forbach",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Dammarie - Pl. Eglise - SDE28",
+    "address": "1 Place De L'Eglise - Dammarie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Barjouville (Porte de Chartres)",
+    "address": "1 Rue des Orvilles - Barjouville",
+    "connectors": [
+      "x10",
+      "x46"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Hyundai - Luisant (Privé)",
+    "address": "18 Rue Jean Perrin - Luisant",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Chartres (Luisant)",
+    "address": "8 Rue Jean Perrin - Luisant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Easy Charge Services - Barjouville",
+    "address": "1 Rue Des Orvilles - Barjouville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel/restaurant Orée de Chartres (Tesla)",
+    "address": "41 Rue des Pierres Missigault - Barjouville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Norauto - Barjouville",
+    "address": "30 Rue des Pierres Missigault - Barjouville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Rue Perrin - Luisant",
+    "address": "23 Rue Jean Perrin - Luisant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Barjouville",
+    "address": "09 Rue des Orvilles - Barjouville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Opel Rent Fontenay Sur Eure",
+    "address": "11 Avenue du Val de l'Eure - Fontenay-sur-Eure",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

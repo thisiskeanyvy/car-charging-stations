@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEPA (MObiVE) - Route d'Arraioa - Ascain",
+    "address": "Route d'Arraioa - Ascain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Renault - Saint-Pée-sur-Nivelle",
+    "address": "420 Rue De Errota Berria - St.-Pée-sur-Nivelle",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Saint-Pée-sur-Nivelle",
+    "address": "6568 Zone Artisanale de Lissard - Saint-Pée-sur-Nivelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AMDIDOUCHE SYLVIE - Chemin de Lizardia - Saint-Pée-sur-Nivelle",
+    "address": "379 Chemin de Lizardia - Saint-Pée-sur-Nivelle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA5 - Sare - Omordiko Karrika",
+    "address": "Omordiko Karrika - Sare",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - D4 - Sare",
+    "address": "D4 - Sare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Avenue François Miterrand - Ciboure",
+    "address": "Avenue François Mitterrand - Ciboure",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA (MObiVE) - Saint-Jean-de-Luz - Avenue Pierre Larramendy",
+    "address": "Avenue Pierre Larramendy - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MObiVE - Parking des Pyrénées - Saint-Jean-de-Luz",
+    "address": "31 Boulevard du Commandant Passicot - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - D810 - Urrugne",
+    "address": "D810 - Urrugne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

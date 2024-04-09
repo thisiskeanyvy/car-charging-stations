@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEY - Route du Miroir Theil-sur-Vanne",
+    "address": "2A Route du Miroir - Theil-sur-Vanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Chigy - Rue des Vieilles Chenevières",
+    "address": "34 Rue des Vieilles Chenevières - Les Vallées de la Vanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Place église - Cerisiers",
+    "address": "50 Place de L Hôtel de ville - Cerisiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Parking zone résidentielle - Malay-Le-Grand",
+    "address": "10 Rue de Sens - Malay-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1–5 Rue du Gué - Saligny",
+    "address": "1–5 Rue du Gué - Saligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Malay-le-Grand - Hôtel Kyriad Sens Haut",
+    "address": "Les Bas Musats - Malay-le-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Malay-le-Grand - Hôtel Kyriad Sens Bas",
+    "address": "Les Bas Musats - Malay-le-Grand",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Parking Hélix",
+    "address": "33 Route Nationale n'6 - Rosoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Allego - Sens - Route de Maillot",
+    "address": "Route de Maillot - Sens",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Dixmon - Rue de l'Eglise",
+    "address": "Dixmon, rue de l'Eglise - Dixmon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

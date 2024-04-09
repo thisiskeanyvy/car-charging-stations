@@ -1,0 +1,136 @@
+[
+  {
+    "title": "EVzen - Parking des Victoires - Gorbio",
+    "address": "40 Chemin de Peille - Gorbio",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CARF - Sainte Agnes, Route de Saint Jean (Parking Mairie)",
+    "address": "248 Route de Saint Jean (Parking Mairie) - Ste.-Agnès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CARF - Sainte Agnes, Square Sainte Agnes",
+    "address": "Square Sainte Agnes - Ste.-Agnès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CARF - Gorbio, Place Des Victoires",
+    "address": "Place Des Victoires - Gorbio",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A8 Aire Via Julia Augusta (direction Nice)",
+    "address": "1400bis Chemin De La Cruella - La Turbie",
+    "connectors": [
+      "x7",
+      "x10",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Vadea - A8 Aire de Beausoleil (direction Italie)",
+    "address": "1836 Route Grande Corniche - La Turbie",
+    "connectors": [
+      "x5",
+      "x5",
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT/FRWATL2L69NXHS",
+    "address": "29 Route du Mont-Agel - La Turbie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CARF - Sainte Agnes, Avenue Saint Michel",
+    "address": "103 Avenue Saint Michel - Ste.-Agnès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CARF - Roquebrune Cap Martin, Avenue Raymond Poincaré",
+    "address": "Avenue Raymond Poincaré - Roquebrune-Cap-Martin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "365 Chemin de St-Roch",
+    "address": "365 Chemin de St-Roch - La Turbie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

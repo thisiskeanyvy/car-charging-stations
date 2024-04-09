@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Chateau De Boissey Le Châtel",
+    "address": "43 Allée de Tilly - Boissey-le-Châtel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A28 Aire du Domaine d'Harcourt (double sens)",
+    "address": "A28 - Malleville-sur-le-Bec",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Le Pont Joly - Saint-Philbert-sur-Risle",
+    "address": "Le Pont Joly - Saint-Philbert-sur-Risle",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Saint-Anselme - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Pierre Mendès France - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie de Bosrobert",
+    "address": "9 Route de la Mairie - Bosrobert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue de Quicangrogne - Bourg-Achard",
+    "address": "Rue de Quicangrogne - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Bourg-Achard",
+    "address": "Place de la Mairie - Bourg-Achard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mr Bricolage - Bourg-Achard",
+    "address": "395 Rue des Portes - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour Market - Bourg-Achard",
+    "address": "74 Allée de la Reine Mathilde - Bourg-Achard",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

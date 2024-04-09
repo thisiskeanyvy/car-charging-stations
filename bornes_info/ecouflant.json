@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEML - Ecouflant - Promenade Vieille Maine",
+    "address": "Promenade de la Vieille Maine - Écouflant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Verrières-en-Anjou - Les Loges",
+    "address": "Les Loges - Verrières-en-Anjou",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Siège Social - Écouflant",
+    "address": "12 Route De La Confluence - Écouflant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - Cantenay Epinard - Rte D'angers",
+    "address": "Rue d'Angers - Cantenay-Épinard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - Angers - Chemin du Port de l'Île",
+    "address": "Chemin du Port de l'Île - Angers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - BioCoop - 50 Boulevard du Doyenné - Angers",
+    "address": "50 Boulevard du Doyenné - Angers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Avia - A11 Aire de Portes d'Angers Nord (direction Angers)",
+    "address": "A11\r\n - Verrières-en-Anjou",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A11 Aire des Portes d'Angers (Direction Le Mans)",
+    "address": "A11 L'Océane - Saint-Sylvain-d'Anjou",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - La Béchalière - Verrières-en-Anjou",
+    "address": "La Béchalière - Verrières-en-Anjou",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Terra botanica - Angers",
+    "address": "Unnamed Road - Angers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEM 51 - 2 Place de la République - Anglure",
+    "address": "2 Place de la République - Anglure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEM 51 -  Parking de l'Eglise - St Just St Sauvage",
+    "address": "Parking de l'Eglise - St Just St Sauvage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Leclerc - Route de Troyes",
+    "address": "Route de Troyes - Sézanne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc Drive Sézanne (Privé)",
+    "address": "Zone Industrielle du Petit Étang - Sézanne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'auto leclerc - Sézanne",
+    "address": "Route de Troyes - Sézanne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA- Plancy l'Abbaye",
+    "address": "3 Place Maréchal Foch - Plancy-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Place du Champ Benoist - Sézanne",
+    "address": "9 Place du Champ Benoist - Sézanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEA - Rue de la République Maizières-la-Grande-Paroisse",
+    "address": "6 Rue de la République - Maizières-la-Grande-Paroisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Stade Bardin Gousserey",
+    "address": "5 Avenue Jules Jacquemin - Romilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEM 51 - 1 Avenue Marechal Leclerc - Conflans sur Seine",
+    "address": "1 Avenue du Maréchal Leclerc - Conflans-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

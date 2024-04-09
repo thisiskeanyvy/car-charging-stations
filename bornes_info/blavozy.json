@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Kia - 67–81 Rue Jean Monnet",
+    "address": "67–81 Rue Jean Monnet - Saint-Germain-Laprade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "B&C Informatique",
+    "address": "Maurice Schuman - Saint-Germain-Laprade",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 829 Rue Jean-Baptiste Lamarck - Saint-Germain-Laprade",
+    "address": "829 Rue Jean-Baptiste Lamarck - Saint-Germain-Laprade",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan France - Rue Jean Baptiste Lamarck - Saint-Germain-Laprade",
+    "address": "107 Rue Lamarck Jean Baptiste - Saint-Germain-Laprade",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Bombe - Saint-Germain-Laprade",
+    "address": "Bombe - Saint-Germain-Laprade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 416 rue Lamarck Jean-Baptiste - Saint-Germain-La-Prade",
+    "address": "416 rue Lamarck Jean-Baptiste - Saint-Germain-La-Prade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place de l'europe - Saint Germain Laprade",
+    "address": "Place de l'europe - Saint Germain Laprade",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place Blanche - Brives-Charensac",
+    "address": "Place Blanche - Brives-Charensac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Brives-Charensac",
+    "address": "125 Avenue Charles Dupuy - Brives-Charensac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Velay",
+    "address": "30 Route de Coubon - Brives-Charensac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

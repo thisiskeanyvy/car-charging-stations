@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Le Plessis",
+    "address": "2 Rue de l'Église - Broye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BeCharge - Route de Montcenis - Le Creusot",
+    "address": "75 Route de Montcenis - Le Creusot",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydesl - Parking Cimetière - Saint Sernin",
+    "address": "2120 Route de Saint-Sernin - Saint-Sernin-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kévin DUMAY Ostéopathe",
+    "address": "2 Rue Bellevue - Saint-Sernin-du-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDESL - Place Schneider - Le Creusot",
+    "address": "71 Place Schneider - Le Creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydesl - Rue Mamby - Le Creusot",
+    "address": "Rue Mamby - Le Creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Piscine du parc - Promenade du Midi - Le Creusot",
+    "address": "Promenade du Midi - Le Creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Framatome Le Creusot Forge",
+    "address": "5 Allée Jean Perrin - Le Creusot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - rue de Pologne - Le Creusot",
+    "address": "3 rue de pologne - Le creusot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "mairie La Tagniere",
+    "address": "Le Bourg - La Tagnière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

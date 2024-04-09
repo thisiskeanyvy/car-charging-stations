@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE76 - Rue Robert Dubuc - Saint-Romain-de-Colbosc",
+    "address": "9 Rue Robert Dubuc - Saint-Romain-de-Colbosc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Saint-Romain-de-Colbosc - Rue Du Grosmesnil",
+    "address": "1 Rue Du Grosmesnil - St.-Romain-de-Colbosc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Super U - Saint-Romain-de-Colbosc",
+    "address": "Avenue Mal de Lattre de Tassigny - Saint-Romain-de-Colbosc",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint-Romain-de-Colbosc - Mr Bricolage",
+    "address": "xx avenue Maréchal de Lattre de Tassigny - Saint-Romain-de-Colbosc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE76 - Rue des Châtaigniers - La Remuée",
+    "address": "Rue des Châtaigniers - La Remuée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE76 - Route de la Gare, 452 - Étainhus",
+    "address": "452 Route de la Gare - Étainhus",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Mairie de La Cerlangue",
+    "address": "2 Route de Saint-Romain - La Cerlangue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubitricity - Sandouville - 44 Rue du Camp Romain",
+    "address": "44 Rue du Camp Romain - Sandouville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue de la Libération - Gainneville",
+    "address": "262 Rue de la Libération - Gainneville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ubitricity - Sainneville - Place du Cèdre bleu",
+    "address": "Place du Cèdre bleu - Sainneville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

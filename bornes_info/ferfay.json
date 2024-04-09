@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Pass Pass - Mairie de Cauchy a la Tour",
+    "address": "2 Rue de Floringhem - Cauchy-à-la-Tour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pass Pass - Piscine d'Auchel",
+    "address": "18 Rue Léon Blum - Auchel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Auchel",
+    "address": "Rue d'Allouagne, - Auchel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*WA6 - Pernes - Rue de Blaringhem",
+    "address": "Rue de Blaringhem - Pernes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Pernes",
+    "address": "D70 - Pernes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*H13 - Camblain-Châtelain - Rue Jean Jaurès",
+    "address": "Rue Jean Jaurès - Camblain-Châtelain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass électrique - La Ferme de Philiomel",
+    "address": "D69/La Ferme de Philiomel - Lillers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Calonne-Ricouart",
+    "address": "102 Rue de la Marne - Calonne-Ricouart",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Chaussée Brunehaut - Auchy-au-Bois",
+    "address": "3 Chaussée Brunehaut - Auchy-au-Bois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "les Hortensias",
+    "address": "67B Rue du Pont de Fer - Lillers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

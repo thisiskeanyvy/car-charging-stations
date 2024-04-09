@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Route de Barranquet - Lapeyrouse-Fossat",
+    "address": "28 Route de Barranquet - Lapeyrouse-Fossat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Route de Lapeyrouse - Castelmaurou",
+    "address": "Route de Lapeyrouse - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Castelmaurou - 1 Route de Cepet",
+    "address": "1 Route de Cepet - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue des Roses - Saint-Jean",
+    "address": "Rue des Roses - Saint-Jean",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Rouffiac-Tolosan",
+    "address": "5 Allée des Platanes - Rouffiac-Tolosan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Métropole de Toulouse - Allée Victor Hugo - Saint-Jean",
+    "address": "Allée Victor Hugo - Saint-Jean",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEHG - Rue Marie GOUZE Montberon",
+    "address": "1 Rue Marie GOUZE - Montberon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Pechbonnieu (DVAR)",
+    "address": "21 Route de Bessières - Pechbonnieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Union",
+    "address": "71 Avenue de Toulouse - Union",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Route de Gratentour",
+    "address": "Route de Gratentour - Pechbonnieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

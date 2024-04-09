@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Mairie Le Chesne",
+    "address": "1 Place de la Mairie (le Chesne) - Louvergny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lac de Bairon",
+    "address": "43–49 Les Margots - Le Chesne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEA 08 - Rue du Champ de Foire - Vouziers N°2",
+    "address": "25 Rue du Champ de Foire - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Tribunal - Rue Gambetta",
+    "address": "34 Rue Gambetta - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "1 Rue Verlaine",
+    "address": "1 Rue Verlaine - Attigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping La Samaritaine",
+    "address": "3 Allée des Étangs - Buzancy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - grande rue Sapogne-et-Feuchères",
+    "address": "23 grande rue - Sapogne-et-Feuchères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Ardenne Métropole : AM 068 - Sapogne et Feucheres - Grand Rue",
+    "address": "41 Grand Rue - Sapogne-et-Feuchères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 065 - Saint Aignan - Place de la Mairie",
+    "address": "2 Rue de Bayonne - Saint Aignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Saint-Aignan - Rue de Bayonne",
+    "address": "Rue de Bayonne - Saint-Aignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

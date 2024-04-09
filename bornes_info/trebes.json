@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Syaden - Cité du 1er Mai Trèbes",
+    "address": "1 Rond-point de l'Europe - Trèbes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Le stade - Trèbes",
+    "address": "Le Stade - Trèbes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Super U - Trèbes",
+    "address": "Route de Narbonne N113 - Trèbes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "TotalEnergies - TREBES - Peugeot",
+    "address": "rond point de l'europe - TREBES",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chocolaterie Nougalet - Allée De Beragne - Trèbes",
+    "address": "Allée De Beragne - Trèbes",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Hôpital de Carcassonne",
+    "address": "115 Chemin de la Madeleine - Carcassonne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SGA Automation - Hyundai - Carcassonne",
+    "address": "5000F Avenue du 3ème Rpima - Carcassonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - BMW - Carcassonne",
+    "address": "Avenue du 3eme Rpima - Carcassonne",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Carcassonne",
+    "address": "4 Avenue du Souvenir Français - Carcassonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Carcassonne - Jardiland",
+    "address": "RUE JEAN MONNET, Carcasonne - Carcassonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

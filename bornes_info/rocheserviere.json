@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SyDEV - Rue du Grand Moulin - Rocheservière",
+    "address": "Rue Du Grand Moulin - Rocheserviere",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place du Pont de l'Issoire - Mormaison",
+    "address": "Place du Pont de l'Issoire - Mormaison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Corcoué sur Logne",
+    "address": "3 Rue du Huit Mai - Corcoué-sur-Logne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Vieillevigne",
+    "address": "14 Avenue Jules Verne - Vieillevigne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydego - Vieillevigne",
+    "address": "Rue du Pré du Bois - Vieillevigne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de la Mairie - Saint André Treize Voies",
+    "address": "Rue De La Mairie - Saint-André-Treize-Voies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Rue Jean-Claude Grassineau - Legé",
+    "address": "26 Rue Jean-Claude Grassineau - Legé",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Vieillevigne",
+    "address": "Rue Eric Tabarly - Vieillevigne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - 21 Rue Jean-Claude Grassineau - Legé DOUBLON",
+    "address": "21 Rue Jean-Claude Grassineau - Legé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Legé",
+    "address": "32 Rue de la Chaussée - Legé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

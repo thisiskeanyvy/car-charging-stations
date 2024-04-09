@@ -1,0 +1,120 @@
+[
+  {
+    "title": "La Poste - Creysse",
+    "address": "46 Grand Rue - Creysse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Avenue de la Roque Creysse",
+    "address": "154 Avenue de la Roque - Creysse",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6668835",
+    "address": "6 Rue Gustave Eiffel - Bergerac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lieu- dit Les Roussilloux, La grande lisse LAMONZIE-MONTASTRUC",
+    "address": "Lieu- dit Les Roussilloux, La grande lisse - LAMONZIE-MONTASTRUC",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Bergerac",
+    "address": "47 Avenue Marceau Feyry - Bergerac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Aire de covoiturage Pombonne",
+    "address": "6 Rue du Coulobre - Bergerac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E.Leclerc - 101 Avenue Pasteur - Bergerac",
+    "address": "101 Avenue Pasteur - Bergerac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue Pasteur 28 - Bergerac",
+    "address": "28 Avenue Pasteur - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Bergerac (Gare de Bergerac)",
+    "address": "9 Avenue du 108ème Régiment d'Infanterie - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiVE - Place du foirail - Bergerac",
+    "address": "1B Rue Prosper Faugère - Bergerac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

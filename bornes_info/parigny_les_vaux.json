@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Intermarché - Guérigny",
+    "address": "5 Rue de Lanessan - Guérigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEEEN - Parking Mairie Pougues-les-Eaux",
+    "address": "2 Rue de Bel air - Pougues-les-Eaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - KIA - Varennes-Vauzelles",
+    "address": "10 Route de Paris - Varennes-Vauzelles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Varennes-Vauzelles",
+    "address": "1 Rue Léonard De Vinci - Varennes-Vauzelles",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Simmoneau Automobiles",
+    "address": "2 Rue Léonard de Vinci - Varennes-Vauzelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Varennes-Vauzelles",
+    "address": "1 Route de Paris - Varennes-Vauzelles",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico Dépôt - 1 Rue Louise Michel - Varennes-Vauzelles",
+    "address": "1 Rue Louise Michel - Varennes-Vauzelles",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Champ de la Porte - Coulanges Les Nevers",
+    "address": "Champ de la Porte - Coulanges Les Nevers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 8 Impasse André-Marie Ampère - Varennes-Vauzelles",
+    "address": "8 Impasse André-Marie Ampère - Varennes-Vauzelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - 10 Imp. André Marie Ampère, - Varennes-Vauzelles",
+    "address": "10 Imp. André Marie Ampère, - Varennes-Vauzelles",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

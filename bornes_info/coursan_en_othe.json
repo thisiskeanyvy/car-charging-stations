@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEY - Grande Rue",
+    "address": "11 Grande Rue - Neuvy-Sautour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Beugnon - Rue Neuve",
+    "address": "Rue Neuve - Beugnon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 1 Rue du Tré - Ervy-le-Châtel",
+    "address": "1 Rue du Tré - Ervy-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Intermarché - Auxon",
+    "address": "468 Grande Rue - Parking Intermarché - Auxon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEA - Rue des Buchettes Auxon",
+    "address": "71 Rue des Buchettes - Auxon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue du Moulin Jacotot",
+    "address": "4 Rue du Moulin Jacotot - Chessy-les-Prés",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue de Geneve 13 - Saint-Florentin",
+    "address": "Avenue de Geneve 13 - Saint-Florentin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Florentin - Rue Du Faubourg Du Pont",
+    "address": "Rue Du Faubourg Du Pont - Saint-Florentin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Saint-Florentin - Place Du Port",
+    "address": "Place Du Port - Saint-Florentin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Rue des Combattants en Afrique du Nord",
+    "address": "3 Rue des Combattants en Afn - Saint-Phal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

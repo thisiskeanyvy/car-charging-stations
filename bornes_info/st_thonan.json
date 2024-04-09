@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Route de Plabennec, 6 - Kersaint-Plabennec",
+    "address": "6 Route de Plabennec - Kersaint-Plabennec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - N12 Aire de covoiturage Saint Eloi - Ploudaniel",
+    "address": "Rest - Ploudaniel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Leclerc - Landerneau",
+    "address": "46 Route du Quinquis Leck - Landerneau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Ploudaniel",
+    "address": "5 Kerneyen - Ploudaniel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - La Forest-Landerneau (Rue de la Mairie)",
+    "address": "Rue de la Croix de Mission - La Forest-Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Gare de Landerneau",
+    "address": "Rue de la Fontaine Blanche - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ploudaniel Saint-Eloi",
+    "address": "Le REst - Ploudaniel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brest Métropole - Place Saint Éloi - Guipavas",
+    "address": "Place Saint Éloi - Guipavas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Landerneau (Le Calvaire St Ernel)",
+    "address": "4 Rue Saint-Ernel - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Ploudaniel (Place Saint Yves)",
+    "address": "Place Saint-Yves - Ploudaniel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

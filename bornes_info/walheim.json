@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Renault - Altkirch",
+    "address": "29 rue du 3e Zouave - Altkirch",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Xavier Jourdain - Altkirch",
+    "address": "3 Place De La Halle Aux Bles - Altkirch",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi - Carspach",
+    "address": "66 Av.du 8\"RH - Carspach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auberge Sundgovienne (Tesla and others)",
+    "address": "1 Route de Belfort - Carspach",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eichestuba - Hirsingue",
+    "address": "28 Rue Raoul Lang - Hirsingue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte \"Les Sabots de Paille\"",
+    "address": "4 Rue des prés - Ballersdorf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Heimsbrunn - Rue de la Forêt (Privé)",
+    "address": "5 Rue De La Forêt - Heimsbrunn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PANORAMA - 10 Avenue de Bruxelles",
+    "address": "10 Avenue de Bruxelles - Brunstatt-Didenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ikea - Morschwiller-le-Bas (parking clients)",
+    "address": "Place du Renne - Morschwiller-le-Bas",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IKEA - Morschwiller-le-Bas SUPPRIMÉ",
+    "address": "0 Daniel Schoen - Morschwiller-le-Bas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

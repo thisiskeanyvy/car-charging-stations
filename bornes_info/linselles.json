@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Linselles | Rue Robert Descamps 109 INEXISTANT",
+    "address": "109 Rue Robert Descamps - Linselles",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT SAS - Bondues - 24C Rue du Fort Debout",
+    "address": "24C Rue du Fort Debout - Bondues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Rue Pavé du Bas chemin - Bondues",
+    "address": "Rue Pavé du Bas chemin - Bondues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Dacia Renault - Roncq",
+    "address": "147B Rue du Dronckaert - Roncq",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Bousbecque - Intermarché",
+    "address": "Rue Auger - Bousbecque",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Kia - Roncq",
+    "address": "66 Rue du Dronckaert - Roncq",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Roncq",
+    "address": "53 Rue du Dronckaert - Roncq",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue Saint-Joseph - Bousbecque",
+    "address": "14 Rue Saint-Joseph - Bousbecque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Skoda Valauto - Roncq (Privé)",
+    "address": "29 Boulevard d'Halluin - Roncq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RossiniEnergy - Avenue de l'Europe - Bousbecque",
+    "address": "Avenue de l'Europe - Bousbecque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

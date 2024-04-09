@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Alterbase Séolis - Boismé - Mairie",
+    "address": "Rue Jeanne d'Arc - Boismé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau Alterbase - Courlay - Salle des Fêtes",
+    "address": "Place de la Solidarité - Courlay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Mairie de Moncoutant",
+    "address": "2 Place de l'Hôtel de ville - Moncoutant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Hôtel Restaurant Le Saint Pierre",
+    "address": "Rue de la Barillère - Moncoutant-sur-Sèvre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Bressuire (St Sauveur) - Salle Omnisports",
+    "address": "Rue de Palveau - Bressuire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Réseau Alterbase - Bressuire (St Sauveur) - Mairie annexe",
+    "address": "Allée des Thuyas - Bressuire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 5 Rue du Moulin Jacquet - Bressuire",
+    "address": "5 Rue du Moulin Jacquet - Bressuire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BR AUTO",
+    "address": "57 Route de Nantes - Bressuire",
+    "connectors": [],
+    "types": [],
+    "reputation": 3.5
+  },
+  {
+    "title": "Alterbase Séolis - Bressuire - Place St Jacques",
+    "address": "4 Place Saint-Jacques - Bressuire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Bressuire",
+    "address": "41 bis Boulevard de Poitiers - Bressuire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

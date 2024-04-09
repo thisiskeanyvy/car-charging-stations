@@ -1,0 +1,132 @@
+[
+  {
+    "title": "La cour de Rémi",
+    "address": "1 Rue Baillet - Bermicourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Circuit de Croix en Ternois",
+    "address": "La Plaine du Bois Capendu - Croix-en-Ternois",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - 8 Rue d'Hesdin - Auchy-lès-Hesdin",
+    "address": "8 Rue d'Hesdin - Auchy-lès-Hesdin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - D939 - Croix-en-Ternois",
+    "address": "D939 - Croix-en-Ternois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco-pi - Croix-en-Ternois - 39 Route Nationale",
+    "address": "39 Route Nationale - Croix-en-Ternois",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Contact-AUCHY LES HESDIN",
+    "address": "1 rue wattinne bossut - Hesdin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Anvin - Parking la poste",
+    "address": "274 Rue d'Hesdin - Anvin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Maison de Santé Pluridisciplinaire Léonard de Vinci - Saint-Pol-sur-Ternoise",
+    "address": "176 Rue d'Hesdin - Saint-Pol-sur-Ternoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de co-voiturage de Saint-Pol sud",
+    "address": "D916 - Ramecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Herlin-le-Sec - Leclerc",
+    "address": "350 Rue de Saint-Pol - Herlin-le-Sec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

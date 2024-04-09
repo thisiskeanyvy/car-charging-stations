@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Rue Jean Roux",
+    "address": "15 Rue Jean Roux - Saint-Sauveur-en-Rue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel du lac - Savas (Tesla et autres)",
+    "address": "Le Ternay - Savas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place de l'Église - Vocance",
+    "address": "Place de l'Église - Vocance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IVECO BUS",
+    "address": "25 Avenue Ferdinand Janvier - Annonay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Annonay - Place du Champ de Mars",
+    "address": "Place du Champ de Mars - Annonay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking hotel de ville - Annonay (Privé)",
+    "address": "2 Rue de l'Hôtel de ville - Annonay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Super U - Annonay",
+    "address": "50 Avenue De l'Europe - Annonay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-born - Le Grand Chemin - Roiffieux",
+    "address": "229 Le Grand Chemin - Roiffieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking La Valette (RDC) - Annonay",
+    "address": "2 Rue de la Valette - Annonay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Avenue de la Gare - Annonnay",
+    "address": "6 Avenue de la Gare - Annonnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

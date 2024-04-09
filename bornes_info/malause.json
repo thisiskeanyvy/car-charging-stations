@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE82 - Rue des Acacias Malause",
+    "address": "Rue des Acacias - Malause",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Pommevic (Ancienne Ecole)",
+    "address": "Rue de l'Ancienne École - Pommevic",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Base de Plein Air et de Loisirs",
+    "address": "23 Avenue du Plan d'Eau - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Saint-Nicolas-de-la-Grave",
+    "address": "2 Boulevard du Tour de Ronde - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Boulevard de la Papayette - Auvillar",
+    "address": "9 Boulevard de la Papayette - Auvillar",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Rue de la Razère",
+    "address": "Avenue Jean Baylet - Valence d'Agen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy/Vitrauto_ValenceDAgen",
+    "address": "39 Boulevard Victor Guilhem - Valence d'Agen",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - A62 Aire de Garonne (direction Bordeaux)",
+    "address": "A62 - Aire de Garonne - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electra - A62 Aire de Garonne (direction Toulouse)",
+    "address": "A62 - Aire de Garonne - Saint-Nicolas-de-la-Grave",
+    "connectors": [
+      "x1",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Valence",
+    "address": "136 Avenue Du Quercy - Valence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

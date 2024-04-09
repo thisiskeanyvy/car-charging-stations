@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDE22 - Plaine-Haute",
+    "address": "Place de la Mairie - Plaine-Haute",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 Plouvara",
+    "address": "Rue de la Mairie - Plouvara",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brev'Car - Place de la Mairie - Le Fœil",
+    "address": "Place de la Mairie - Le Fœil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Mairie de Saint-Julien",
+    "address": "Rue de Sainte-Anne - Saint-Julien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Croix Tual",
+    "address": "15 Rue du Plan - Ploufragan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Rue du Buchon - Trémuson",
+    "address": "1 Rue du Buchon - Trémuson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Trémuson",
+    "address": "14 Rue Simone de Beauvoir - Trémuson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Mauguerand - Le Fœil",
+    "address": "Mauguerand - Le Fœil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Zoopole Ploufragan",
+    "address": "6 Rue Camille Guérin - Ploufragan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Rond point du Grimolet",
+    "address": "1 Rue Marcel Cosson - Ploufragan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SYDEEL66 - Parking des Ecoles",
+    "address": "D79 - Latour-de-France",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 - Latour-de-France - Avenue du Général de Gaulle",
+    "address": "Avenue du Général de Gaulle - Latour-de-France",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 - Croisement Rue Jaurès/ rte de Lesquerde",
+    "address": "97 Avenue Jean Jaurès - Maury",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 - Montner",
+    "address": "4 Rue des Écoles - Montner",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ensto industrie",
+    "address": "RD916 - Néfiach",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Office du tourisme - Cucugnan",
+    "address": "Route de Padern - Cucugnan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - 25 Rue Alphonse Daudet - Cucugnan",
+    "address": "25 Rue Alphonse Daudet - Cucugnan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 - Avenue jean Moulin - St -Paul-de-Fenouillet",
+    "address": "Avenue Jean Moulin - Saint-Paul-de-Fenouillet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Ille auto",
+    "address": "ZA, Camp Llarg, 66130 Ille-sur-Têt - Ille-sur-Têt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Centre Commercial Le Riberal, Camí Camp Llarg - Ille-sur-Têt",
+    "address": "Centre Commercial Le Riberal, Camí Camp Llarg - Ille-sur-Têt",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

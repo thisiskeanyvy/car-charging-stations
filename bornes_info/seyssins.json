@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Grenoble Métropole - Allée Roger Rahon - Seyssins",
+    "address": "Allée Roger Rahon - Seyssins",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Seyssinet-Pariset",
+    "address": "20 Avenue de Grenoble - Seyssinet-Pariset",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - BOTANIC Seyssins - Rue Dr Schweizer",
+    "address": "16 Rue du Docteur Schweitzer - Seyssins",
+    "connectors": [
+      "x6",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - Seyssins",
+    "address": "Avenue du Général de Gaulle - Seyssins",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Centre Porsche Grenoble (Privée)",
+    "address": "2a Avenue Pierre de Coubertin - Seyssinet-Pariset",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Porsche - Avenue Pierre de Coubertin 2b - Seyssinet-Pariset",
+    "address": "Avenue Pierre de Coubertin 2b - Seyssinet-Pariset",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Échirolles - KFC",
+    "address": "1 rue de Comboire - Échirolles",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - KFC - 1 rue de Comboire - Echirolles",
+    "address": "1 rue de Comboire - Echirolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Entrepôt du Bricolage - Seyssins",
+    "address": "2 Rue du Drac - Seyssins",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Toyota - 2 Av. du Général de Gaulle - Seyssinet-Pariset (Privé)",
+    "address": "2 Av. du Général de Gaulle - Seyssinet-Pariset",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

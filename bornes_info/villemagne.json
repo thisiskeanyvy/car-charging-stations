@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Boulevard Ravel de Malval - Saint-Héand",
+    "address": "Boulevard Ravel de Malval - Saint-Héand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarche - Saint-Héand",
+    "address": "Les Chirottes - Saint-Héand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking Fariner - L'Etrat",
+    "address": "2a Allée des Lilas - L'Etrat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - La Fouillouse - D1082",
+    "address": "D1082 - La Fouillouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - CC L'Arche - La Fouillouse",
+    "address": "Centre commercial L'Arche - 37 - La Fouillouse",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "St Etienne Métropole - Avenue Mendes France - Saint-Priest-en-Jarez",
+    "address": "Avenue Mendes France - Saint-Priest-en-Jarez",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-Totem Saint Etienne Métropole - 102 Avenue Albert Raimond - Saint-Priest-en-Jarez",
+    "address": "102 Avenue Albert Raimond - Saint-Priest-en-Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Etienne Métropole - Avenue Albert Raimond - Saint-Priest-en-Jarez",
+    "address": "102 Avenue Albert Raimond - Saint-Priest-en-Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - La Fouillouse - Parking rue centrale",
+    "address": "Parking rue centrale - La Fouillouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - KFC - Villars",
+    "address": "Chem. du Vieux Château - Villars",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

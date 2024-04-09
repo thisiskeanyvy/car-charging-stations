@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEEG33 - Avenue de la Tour - Sallebœuf",
+    "address": "1 Avenue de la Tour - Sallebœuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge - 32 Avenue de la Tour - Sallebœuf",
+    "address": "32 Château Pey La Tour - Salleboeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Place de l'Entre-Deux Mers - Pompignac",
+    "address": "7 Place de l'Entre-Deux Mers - Pompignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Burger King - Beychac-et-Caillau",
+    "address": "25 Le Barbut - Beychac-et-Caillau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Bourg Fargues-Saint-Hilaire",
+    "address": "3 Avenue de la Laurence - Fargues-Saint-Hilaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Super U - Fargues-Saint-Hilaire",
+    "address": "Avenue du bois menu - Fargues-Saint-Hilaire",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ECOPARK - Avenue du Périgord",
+    "address": "31 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps S.L. - Pompignac - 25 Avenue du Périgord",
+    "address": "25 Avenue du Périgord - Pompignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - 7 Rue de la Mairie - Croignon",
+    "address": "7 Rue de la Mairie - Croignon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Beychac-et-Caillau - Route du Fileur",
+    "address": "Route du Fileur - Beychac-et-Caillau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

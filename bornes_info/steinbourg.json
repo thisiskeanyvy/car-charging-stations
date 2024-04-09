@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Espace Aubade Siehr Steinbourg",
+    "address": "35 Route de Saverne - Steinbourg",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Écluse 34 - Rue Rohan - Steinbourg",
+    "address": "Rue Rohan - Steinbourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Pierre Lannier - Ernolsheim-lès-Saverne",
+    "address": "16 Rue de Dossenheim, - Ernolsheim-lès-Saverne",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Saverne-Eckartswiller (direction Metz)",
+    "address": "A4 - Eckartswiller",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Concession Kia - Rue de Dettwiller",
+    "address": "1001 Rue de Dettwiller - Monswiller",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Opel - Rue de Dettwiller",
+    "address": "1001 Rue de Dettwiller - Monswiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford Alliance Automobiles - Monswiller",
+    "address": "d 421 d421 - Monswiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "REUTENAUER Pâtisserie boulangerie",
+    "address": "2 Nicolas Volcyr, - Saverne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Renault Dacia - Saverne",
+    "address": "95 Rue de Dettwiller - Saverne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Saverne-Monswiller (direction Strasbourg)",
+    "address": "A4 - Eckartswiller",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

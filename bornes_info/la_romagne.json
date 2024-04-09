@@ -1,0 +1,142 @@
+[
+  {
+    "title": "8 Place Aristide Briand",
+    "address": "8 Place Aristide Briand - Signy-l'Abbaye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Place de la Mairie - Liart",
+    "address": "9\r\n Place de la Mairie\r\n - Liart",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "USEDA - Rozoy-sur-Serre",
+    "address": "10 Rue Gérard Adolphe Martin - Rozoy-sur-Serre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Place de Mai 1940 Brunehamel",
+    "address": "Place de Mai 1940 - Brunehamel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Avenue Louis Joly - Launois sur Vence",
+    "address": "1–9 Avenue Louis Joly - Launois-sur-Vence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - A34/D951 Aire de repos des Ardennes Woinic",
+    "address": "A34 - Saulces-Monclin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A34 Aire des Ardennes Woinic (double sens)",
+    "address": "Aire des Ardennes Woinic - Saulces-Monclin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue de Rozoy sur Serre - Chéry-lès-Rozoy",
+    "address": "2 Rue de Rozoy sur Serre - Chéry-lès-Rozoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grande Rue - Rouvroy sur Aubry",
+    "address": "Grande Rue - Rouvroy sur Aubry",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Rethel",
+    "address": "1111 Rue Roger Sommer - Rethel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

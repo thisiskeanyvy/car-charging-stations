@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Parking - Saint-Christophe",
+    "address": "Rue Fidèle Lehoucq - Tourcoing",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Hôtel de Ville - Tourcoing",
+    "address": "29 Rue de la Bienfaisance - Tourcoing",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Parking Miss Cavell - Tourcoing",
+    "address": "Avenue Salvador Allende - Tourcoing",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Rent A Car - Tourcoing",
+    "address": "51 Place de la Victoire - Tourcoing",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "4 Quai du Havre",
+    "address": "1 Quai du Havre - Tourcoing",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Rue d'Austerlitz - Tourcoing",
+    "address": "Rue d'Austerlitz - Tourcoing",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/SARLGUYPLOUVIER",
+    "address": "34 Rue d'Hondschoote - Tourcoing",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/NEOFIX",
+    "address": "13-15 Rue des Cinq Voies - Tourcoing",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Tourcoing - Action",
+    "address": "185 rue du Touquet - Tourcoing",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Tourcoing",
+    "address": "Rue du Levant - Tourcoing",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

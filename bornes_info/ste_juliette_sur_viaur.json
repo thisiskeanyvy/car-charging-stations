@@ -1,0 +1,128 @@
+[
+  {
+    "title": "RÉVÉO/Cassagnes-Bégonhès/Avenue de Lodeve/",
+    "address": "24 Avenue de Lodève - Cassagnes-Bégonhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA (Révéo) - Chemin de Pinson - Calmont",
+    "address": "Chemin de Pinson - Calmont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Luc-la-Primaube - Rue de l'Esplanade",
+    "address": "Rue de l'Esplanade - Luc-la-Primaube",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Place Saint Jean - Luc-la-Primaube",
+    "address": "2 Rue Saint-Jean - Luc-la-Primaube",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place de l'Étoile",
+    "address": "2 Place de l'Étoile - Luc-la-Primaube",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - place René Cassin Baraqueville",
+    "address": "place René Cassin - Baraqueville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Mercedes Benz - 135 Avenue de Rodez - Luc-la-Primaube",
+    "address": "135 Avenue de Rodez - Luc-la-Primaube",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 214 Avenue de Rodez",
+    "address": "214 Avenue de Rodez - Luc-la-Primaube",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Mc Donald's - Luc-la-Primaube",
+    "address": "8 rue de l'Aqueduc Romain - Luc-la-Primaube",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Route De La Creyssilie - garage municipal - Arvieu",
+    "address": "Route de la Creyssilie - Arvieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

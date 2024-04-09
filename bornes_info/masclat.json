@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiVE - Avenue du Sénateur Labrousse - Turenne",
+    "address": "273 Avenue du Sénateur Labrousse - Turenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VVF VILLAGES_COLLOGES-LA-ROUGE_5858_Pext",
+    "address": "La Vignotte - Collonges-la-Rouge",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - 514 Boulevard du Quercy - Meyssac",
+    "address": "514 Boulevard du Quercy - Meyssac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "STATIONS-E - Le Vignon-en-Quercy - Carrefour Contact",
+    "address": "Barrat - Le Vignon-en-Quercy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A20 Aire de Pech-Montat Est (direction Limoges)",
+    "address": "A20 L'Occitane - Cressensac-Sarrazac",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A20 Aire de Pech Montat Ouest (direction Cahors)",
+    "address": "A20, Aire de service de Pech Montat Ouest - Cressensac-Sarrazac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RÉVÉO - Cressensac-Sarrazac",
+    "address": "D820 - Cressensac-Sarrazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1437 Route de Feneyrolles Chauffour-sur-velle",
+    "address": "1437 Route de Feneyrolles - Chauffour-sur-velle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A20/D920 Relais de La Croix Blanche",
+    "address": "14 La Croix Blanche - Nespouls",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEE19 (Mobive) - La Croix Blanche - Nespouls",
+    "address": "10 La Croix Blanche - Nespouls",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

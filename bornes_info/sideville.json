@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SDEM50 - Parking de covoiturage",
+    "address": "Zone d'activité le Pont - Martinvast",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Route des Pelles Acqueville",
+    "address": "1 Route des Pelles - Acqueville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - la vallée - Couville",
+    "address": "D56 - Couville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place René Cassin - Cherbourg-en-Cotentin",
+    "address": "6 Rue des Armistices - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Place Alfred Rossel, 15 - Cherbourg-Octeville",
+    "address": "15 Place Alfred Rossel - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IECharge - Virandeville - La Grande Point",
+    "address": "La Grande Point - Virandeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue de l'Île de France, 1 - Cherbourg-Octeville",
+    "address": "1 Rue de l'Île de France - Cherbourg-Octeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Cherbourg-Octeville",
+    "address": "Route des Fourches - Cherbourg-Octeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue Louise Michel - Cherbourg-en-Cotentin",
+    "address": "Rue Louise Michel - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Superchargeur Cherbourg en Cotentin",
+    "address": "13 RN 13 - Cherbourg-en-Cotentin",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

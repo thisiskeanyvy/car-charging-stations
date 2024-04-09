@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Motel des Landes",
+    "address": "1064 route de bayonne - Bénesse-Maremne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Bénesse-Maremne",
+    "address": "1453 Route de Capbreton - Bénesse-Maremne",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDEC - Benesse Maremne (Sortie 8)",
+    "address": "47 Chemin du Bayonnais - Bénesse-Maremne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bordeaux)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Route de Bellevue Saubrigues",
+    "address": "34 Route de Bellevue - Saubrigues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bayonne)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MObiVE - rue du Presbytère (derrière l'église) - Labenne",
+    "address": "rue du Presbytère - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta France/FRE10LNTGNCFAK",
+    "address": "Avenue des Biches - Capbreton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Route de Tyrosse Lieu-dit Saubiole - Angresse",
+    "address": "Route de Tyrosse Lieu-dit Saubiole - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SUPER U - Route de Saubion",
+    "address": "163 Route de Saubion - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

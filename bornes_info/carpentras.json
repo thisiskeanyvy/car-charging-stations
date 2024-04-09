@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Au Bord De L'Auzon",
+    "address": "62 chemin du moulin des vignes - carpentras",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Carpentras",
+    "address": "Boulevard Alfred Naquet - Carpentras",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vauclu'Elec - Gare de Carpentras - Boulevard Pasteur - Carpentras",
+    "address": "251 Boulevard Pasteur - Carpentras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Vauclus'Elec - 1171 Avenue du Mont Ventoux - Carpentras",
+    "address": "1171 Avenue du Mont Ventoux - Carpentras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - VW ByMyCar - Carpentras",
+    "address": "1210 Av. Dwight Eisenhower, - Carpentras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6509805",
+    "address": "1210 Av. Dwight Eisenhower - Carpentras",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ford- 60 Rue Eugène Guérin - Carpentras",
+    "address": "60 Rue Eugène Guérin - Carpentras",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Carpentras",
+    "address": "1620 Av Dwight Eisenhower - Carpentras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "HYUNDAI",
+    "address": "1703 Route De Pernes - Carpentras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Carpentras",
+    "address": "310 Chemin De Monteux - Carpentras",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

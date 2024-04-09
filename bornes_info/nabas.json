@@ -1,0 +1,120 @@
+[
+  {
+    "title": "IONITY - O Corgo Norte",
+    "address": "3 Lugar San Bartolomeu - San Bartolomeu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - O Corgo Sur",
+    "address": "Autovía del Noroeste - Corgo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IBERDROLA CLIENTES - TABOADA - 45 CARRETERA 540",
+    "address": "45 CARRETERA 540 - TABOADA",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Monumento Pazo de Orbán (Tesla)",
+    "address": "6 Travesía Miño - Lugo",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "135 Rúa Camiño Real Lugo",
+    "address": "135 Rúa Camiño Real - Lugo",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Casa do Deporte",
+    "address": "Avenida Infanta Elena Duquesa de Lugo - Lugo",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Iberdrola Clientes - Centro Comercial As Termas",
+    "address": "213 INFANTA ELENA - Lugo",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V2- Lugo",
+    "address": "Rúa Veiga Grande - Lugo",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CC As Termas (Tesla and others)",
+    "address": "213 Carretera de Lugo - Lugo",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Gasoleos Ceao",
+    "address": "1 Avenida Benigno Rivera - Lugo",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

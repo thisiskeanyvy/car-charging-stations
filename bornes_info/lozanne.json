@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Bar la baraque",
+    "address": "37 Rue de l'Entreprise - Lozanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking B Hotel",
+    "address": "37 Rue de l entreprise - Lozanne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Mairie de Lozanne",
+    "address": "Route de Lyon Parking Mairie - Lozanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - Rue de la Mairie - Civrieux-d'Azergues",
+    "address": "265 Rue de la Mairie - Civrieux-d'Azergues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Salle des sports - Civrieux d'Azergues",
+    "address": "300 Route de Marcilly - Civrieux-d'Azergues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDER - Route des Bois La Ferme du Prost - Dommartin",
+    "address": "Route des Bois La Ferme du Prost - Dommartin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue des Varennes - Chazay-d'Azergues",
+    "address": "9 Rue des Varennes - Chazay-d'Azergues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie de Dommartin - Place de la Mairie",
+    "address": "4 Place de la Mairie - Dommartin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDER - Place de la Mairie - Dommartin",
+    "address": "Place de la Mairie - Dommartin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "SYDER - Parking Benoit Dubost - Fleurieux-sur-l'Arbresle",
+    "address": "108 Rue Gabriel Combaudon - Fleurieux-sur-l'Arbresle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

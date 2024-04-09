@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Anvin - Parking la poste",
+    "address": "274 Rue d'Hesdin - Anvin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La cour de Rémi",
+    "address": "1 Rue Baillet - Bermicourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "charge éolienne 6",
+    "address": "6 sans nom - feifs",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Éolienne 5",
+    "address": "1 Route sans nom - Fiefs",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Eoliennes de Fiefs",
+    "address": "D71 - Sains-lès-Pernes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eolienne - Sains-lès-Pernes",
+    "address": "Chemin d'exploitation - Sains-lès-Pernes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EDF - éolienne (3)",
+    "address": "Chemin d'exploitation - Fiefs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "charge éolienne 1",
+    "address": "1 sans nom - Fiefs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Circuit de Croix en Ternois",
+    "address": "La Plaine du Bois Capendu - Croix-en-Ternois",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - D939 - Croix-en-Ternois",
+    "address": "D939 - Croix-en-Ternois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

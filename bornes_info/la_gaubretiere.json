@@ -1,0 +1,122 @@
+[
+  {
+    "title": "BLS Notaire - La Gaubretière",
+    "address": "25 Rue du Boisy - La Gaubretière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A87 Aire des Herbiers",
+    "address": "A87, Aire des Herbiers - Les Herbiers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aire de repos Les Herbiers",
+    "address": "A87 / D755 - Les Herbiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Saint-Aubin-des-Ormeaux - 11 Route de la Verrie",
+    "address": "11 Route de la Verrie - Saint-Aubin-des-Ormeaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Les Herbiers",
+    "address": "Avenue de l'Arborescente - Les Herbiers",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Les Herbiers",
+    "address": "9 Avenue de l'Arborescente - Les Herbiers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel B&B Avenue de l'Arborescente",
+    "address": "Avenue de l'Arborescente - Les Herbiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel la verriaire - Chanverrie",
+    "address": "1 rue Louis Pasteur - Chanverrie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cadetel - Rue De La Gradine",
+    "address": "5 Rue De La Gradine - Les Herbiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 24 Avenue Du Bocage - Les Herbiers",
+    "address": "24 Avenue Du Bocage - Les Herbiers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

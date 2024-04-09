@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking covoiturage - Fuveau",
+    "address": "20 Avenue du Maréchal Leclerc - Fuveau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FREDERIC MICHEL - Résidence les Pradeaux",
+    "address": "109 Résidence les Pradeaux - Gréasque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Boulevard Salvadore Allende - GREASQUE",
+    "address": "Boulevard Salvadore Allende - GREASQUE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine Rampale",
+    "address": "Chemin de Fina - Fuveau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf Sainte-Victoire (Tesla and others)",
+    "address": "Domaine Château l'Arc - Fuveau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DREAM ENERGY - ARTEPARC Fuveau",
+    "address": "11 Allee Des Muriers - Fuveau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "larecharge - Belcodène - Avenue de la Sainte-Victoire",
+    "address": "Avenue de la Sainte-Victoire - Belcodène",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rousset",
+    "address": "16 Avenue Georges Vacher - Rousset",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie - Place Auguste Baret - Châteauneuf-le-Rouge",
+    "address": "3 Place Auguste Baret - Châteauneuf-le-Rouge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Quartier Bachasson - Meyreuil",
+    "address": "Quartier Bachasson - Meyreuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

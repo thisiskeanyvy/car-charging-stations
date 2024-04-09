@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEY - Elephant bleu - Chemin Neuf/Avenue Aristide Briand - Paron",
+    "address": "6 Chemin Neuf - Paron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Boulevard de la Convention - Sens",
+    "address": "107 Rue Émile Zola - Sens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Sens",
+    "address": "Route de Voulx - Sens",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEY - Quai Ernest Landry - Sens",
+    "address": "89 Quai Ernest Landry - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Rue André Gâteau Sens",
+    "address": "Place des Jacobins - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEY - Place Victor Hugo - Sens",
+    "address": "32 Place Victor Hugo - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alizé - Colruyt - Sens",
+    "address": "16 Boulevard du Président Kennedy - Sens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 11 Boulevard des Frères Garibaldi",
+    "address": "11 Boulevard des Garibaldi - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Sens",
+    "address": "170 Avenue de Sénigallia - Sens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Colruyt - Rue du Général Leclerc",
+    "address": "54 Rue du Général Leclerc - Sens",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

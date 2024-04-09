@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE03 - Place de Bendorf - Yzeure",
+    "address": "Place de Bendorf - Yzeure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Moulins (Avenue de la République)",
+    "address": "Avenue de la République - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "hotel restaurant du parc",
+    "address": "31 Avenue Général Leclerc - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Moulins (Préfecture)",
+    "address": "6 Rue Michel de l'Hospital - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Yzeure (Rond-Point Liberté)",
+    "address": "Rond-Point Liberté - Yzeure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Moulins (Parking Vigenère)",
+    "address": "5 Rue Vigenere - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Rue Pierre Ardillon - Moulins",
+    "address": "3 Rue Pierre Ardillon - Moulins",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour Market - Yzeure",
+    "address": "La Plaine Bodin, D12, - Yzeure",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Moulins (Rue Achille Roche)",
+    "address": "Rue Achille Roche - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Moulins (Place Jean Moulin)",
+    "address": "Place Jean Moulin - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

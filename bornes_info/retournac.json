@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Eborn - SDE43 - Avenue de la gare - Retournac",
+    "address": "Avenue de la Gare - Retournac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Retournac",
+    "address": "Rue Jean Baptiste Ribeyron - Retournac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Rue Jean-Baptiste Robeyron - 40917",
+    "address": "Rue Jean-Baptiste Robeyron - 40917",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CosyCamp (Tesla and others)",
+    "address": "Les Ribes - Chamalières-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Chamalières-sur-Loire - Cosycamp",
+    "address": "Les Ribes - Chamalières-sur-Loire",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Du Pré Clos - Beauzac",
+    "address": "Place Du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Beauzac",
+    "address": "Place du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route De Retournac - Yssingeaux",
+    "address": "Route De Retournac - Yssingeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Intermarché - Yssingeaux",
+    "address": "135 Rue de la Voie Ferrée - Yssingeaux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Parking de l'Antreuil - Yssingeaux",
+    "address": "5bis Rue des Alliés - Yssingeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

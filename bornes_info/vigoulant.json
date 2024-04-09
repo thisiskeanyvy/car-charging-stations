@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEI36 - Pouligny-Notre-Dame",
+    "address": "7 Allée de la Fontvieille - Pouligny-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sdec - 2 Route de la Châtre - Genouillac",
+    "address": "2 Route de la Châtre - Genouillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de Poinsouze",
+    "address": "3 Poinsouze - Boussac-Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route De Bétête - Malleret-Boussac",
+    "address": "Route De Bétête - Malleret-Boussac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue des Écoles - Préveranges",
+    "address": "1 Rue des Écoles - Préveranges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - 8 Impasse du Collège - Boussac",
+    "address": "8 Impasse du Collège - Boussac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - La Châtre",
+    "address": "ZA de Belleplace Route de Guéret - La Châtre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Chateaumeillant",
+    "address": "2 Les Giverlais - Châteaumeillant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricomarché - Le Magny",
+    "address": "20 Rue des Ajoncs - Le Magny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue d'Auvergne - La Châtre",
+    "address": "Avenue d'Auvergne - La Châtre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

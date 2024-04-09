@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Magasin Vert - Marly",
+    "address": "Rue de la Belle Fontaine - Marly",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai Metz",
+    "address": "81 rue Adrienne Bolland, - Augny",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi Quattromotors",
+    "address": "3 Rue des Becottes - Augny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - 1 Avenue Belle Fontaine",
+    "address": "1 Avenue Belle Fontaine - Marly",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 31 Rue du Bois d'Orly - Augny",
+    "address": "31 Rue du Bois d'Orly - Augny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Arthur Bonnet - Augny",
+    "address": "24 Rue Du Bois D'orly - Augny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Castorama - Jouy-aux-Arches",
+    "address": "78 Rue de Metz - Jouy-aux-Arches",
+    "connectors": [
+      "x29",
+      "x31"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Atlante - METZ-AUGNY - Zone Actisud Augny (Sortie 30)",
+    "address": "900 Rue Des Gravières - Augny",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto - Metz Augny",
+    "address": "Rue des Gravières - Augny",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V3 - Metz Sud",
+    "address": "1 Chemin de la Pie Grièche - Moulins-lès-Metz",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

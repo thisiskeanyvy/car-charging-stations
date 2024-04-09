@@ -1,0 +1,144 @@
+[
+  {
+    "title": "8 Avenue de la Vauve",
+    "address": "8 Avenue de la Vauve - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Thomas Gobert Ouest - Palaiseau",
+    "address": "Thomas Gobert Ouest - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - 22 Rue Charles de Gaulle - Orsay",
+    "address": "22 Rue Charles de Gaulle - Orsay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "France Telecom - Boulevard Thomas Gobert Palaiseau",
+    "address": "27 Boulevard Thomas Gobert - Palaiseau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Pacilly Ouest - Palaiseau",
+    "address": "Pacilly Ouest - Palaiseau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Avenue de la Vauve - Palaiseau",
+    "address": "13 Avenue de la Vauve - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - EDF Lab Paris-Saclay (visiteurs)",
+    "address": "13 Boulevard Gaspard Monge - Palaiseau",
+    "connectors": [
+      "x52",
+      "x49",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EDF Lab Saclay",
+    "address": "2-4 Rue Rosalind Franklin - Palaiseau",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Paris -saclay",
+    "address": "Rue archange - Orsay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay - Rue Archange - Orsay",
+    "address": "1 Rue Archange - Orsay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

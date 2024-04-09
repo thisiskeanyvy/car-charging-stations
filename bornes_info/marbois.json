@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SIEGE27 - Carrefour Market - Damville",
+    "address": "Rue de Verneuil - Damville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bibliothèque Municipale - Damville",
+    "address": "3 Rue du Champ de Foire - Damville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Parking service public - Damville",
+    "address": "46 Route De Saint-andré - Mesnils-sur-Iton",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEGE27 - Le Chesne",
+    "address": "5 lieu dit bourg - Le Chesne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Route de Breteuil - Marbois",
+    "address": "Route de Breteuil - Marbois",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Condé-sur-Iton",
+    "address": "11 Rue de la Poste - Condé-sur-Iton",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Breteuil",
+    "address": "Rte de Conches, - Breteuil",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Breteuil sur iton (Place Houdouard)",
+    "address": "Place Houdouard - Breteuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Intermarche - Conches-en-Ouche",
+    "address": "29 Rue Eugène Pottier - Conches-en-Ouche",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEGE27 - Place Laffitte - Breteuil sur iton",
+    "address": "33 Place Laffitte - La Guéroulde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

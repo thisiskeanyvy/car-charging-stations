@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Les Quais de Lutece (Privé)",
+    "address": "1 Le Parc Astérix - Plailly",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel des Trois Hiboux - Parc Astérix (réservée aux clients de l'hôtel)",
+    "address": "Tonnerre de Zeus - Plailly",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Astérix Hotel La cité suspendue (Privé)",
+    "address": "Unnamed Road - Plailly",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE60 - Thiers sur Theve",
+    "address": "13-25 Rue du Gén de Gaulle - Thiers-sur-Thève",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Hôtel Mont Royal Chantilly - La Chapelle-en-Serval (Porsche)",
+    "address": "Route de Chantilly - La Chapelle-en-Serval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'Oise - Place de l’Église Pontarmé",
+    "address": "Place de l’Église - Pontarmé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Plailly",
+    "address": "1 Rue des Vergers - Plailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'Oise - Rue Dauphiné - La Chapelle-en-Serval",
+    "address": "102 Rue Dauphiné - La Chapelle-en-Serval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv’Oise - 1 Rue Verte - Plailly",
+    "address": "1 Rue Verte - Plailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 37 Place des Fêtes Henri Delaunay - Orry-la-ville",
+    "address": "37 Place des Fêtes Henri Delaunay - Orry-la-ville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Carrefour Market - Saint-Calais - ZA du Pressoir, 10 Rue du Champ de la Croix,",
+    "address": "ZA du Pressoir, 10 Rue du Champ de la Croix, - Saint-Calais",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Chemin de la Noé",
+    "address": "1 Rue du Champ de la Croix - Saint-Calais",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping du Lac - Saint-Calais",
+    "address": "Rue du Lac - Saint-Calais",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Savigny",
+    "address": "5 Avenue de la Braye - Savigny-sur-Braye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Bessé-sur-Braye",
+    "address": "43 Rue du Onze Novembre 1918 - Bessé-sur-Braye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Bessé-sur-Braye - Place Jean Dufournier",
+    "address": "Place Jean Dufournier - Bessé-sur-Braye",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIDELC - Mondoubleau",
+    "address": "9 Place Saint-Denis - Mondoubleau",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Mairie d'Épuisay",
+    "address": "Rue des Bleuets - Épuisay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Avia - Mondoubleau - Garage Bellanger",
+    "address": "52 Rue Leroy - Mondoubleau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Super U - Mondoubleau",
+    "address": "Route de Cloyes - Mondoubleau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

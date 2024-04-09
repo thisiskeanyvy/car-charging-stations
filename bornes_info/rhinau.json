@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Super U - Boofzheim",
+    "address": "Route de Rhinau - Boofzheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lindenplatz",
+    "address": "Löwenstraße - Kappel-Grafenhausen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rheinstrasse / Löwenstrasse - Kappel-Grafenhausen",
+    "address": "Rheinstrasse - Kappel-Grafenhausen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Europapark - Rheinweg - Rust",
+    "address": "5 Rheinweg - Rust",
+    "connectors": [
+      "x18"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Has To Be - Rust - Europa-Park 23 Rheinweg",
+    "address": "Rheinweg - Rust",
+    "connectors": [
+      "x22"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Europa-park parking",
+    "address": "1 Allmendweg - Rust",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EnBW - Europa Park",
+    "address": "2 Rheinweg - Rust",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Has.to.be - Rust - 22 Austraße",
+    "address": "22 Austraße - Rust",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Europa Park Parking",
+    "address": "2 Rheinweg - Rust",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EnBW - 51 Fischerstr. - Rust",
+    "address": "51 Fischerstraße - Rust",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

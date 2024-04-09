@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Leclerc - Rezé",
+    "address": "1 Rue Ordronneau - Rezé",
+    "connectors": [
+      "x7",
+      "x24",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia-Express - Rezé - Norauto",
+    "address": "Rue Ordronneau Centre Commercial Leclerc - Rezé",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NewMotion FR - Rezé - 5 Rue du Seil",
+    "address": "5 Rue du Seil - Rezé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue de l'Île Macé - Rezé",
+    "address": "6 Rue de l'Île Macé - Rezé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 8 Rue Saint Domingue - Nantes",
+    "address": "10 Rue Saint-Domingue - Nantes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sobreda - Chemin de la Vaserie (Privé)",
+    "address": "1 Chemin de la Vaserie - Bouguenais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des Nefs - Boulevard de la prairie au duc",
+    "address": "61 Boulevard de la prairie au duc - Nantes",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - CCI Nantes Saint-Nazaire",
+    "address": "17 Quai Ernest Renaud - Nantes",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Rezé",
+    "address": "22 Rue de la galrniere - Rezé",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Parking les Machines - Nantes",
+    "address": "42 Rue la Tour d'Auvergne - Nantes",
+    "connectors": [
+      "x16",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

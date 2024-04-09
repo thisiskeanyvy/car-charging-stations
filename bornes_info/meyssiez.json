@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SEDI (E-born) - D37 - Cour-et-Buis",
+    "address": "347 D37 - Cour-et-Buis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Moidieu-Détourbe",
+    "address": "Mouterle - Moidieu-Détourbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Jean Moulin - Saint Jean de Bounay",
+    "address": "Route de Lyon - Saint-Jean-de-Bournay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Géant Casino - ZI du Pré de la Barre - ST JEAN DE BOURNAY SUPPRIME",
+    "address": "ZI du Pré de la Barre - ST JEAN DE BOURNAY",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.A. Champ Mouton - Charantonnay",
+    "address": "440 Route de l'Amballon - Charantonnay",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Septème - Parking salle polyvalente",
+    "address": "68-170 Route de la Pivollee - Septème",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Revel-Tourdan - 67 Chemin de l'Étang Girard",
+    "address": "67 Chemin de l'Étang Girard - Revel-Tourdan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Pont-Évêque - 250 Rue Louis Bréguet",
+    "address": "250 Rue Louis Breguet - Pont-Évêque",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Pont-Évêque - 250 Rue Louis Breguet",
+    "address": "250 Rue Louis Breguet - Pont-Évêque",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Montée de Malissol - Vienne",
+    "address": "Montée de Malissol - Vienne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

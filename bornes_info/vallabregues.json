@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Reveo - Vallabregues",
+    "address": "Boulevard Émile Jamais - Vallabrègues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMED13 - Place Georges de Régis - Saint-Pierre-de-Mézoargues",
+    "address": "Place Georges de Régis - Saint-Pierre-de-Mézoargues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Cours Emile Antelme",
+    "address": "Cours Emile Antelme - Montfrin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Beaucaire",
+    "address": "495 Route de Nîmes - Beaucaire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Beaucaire",
+    "address": "Chemin des Romains - Beaucaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping BelleRive (Tesla and others)",
+    "address": "Cours Emile Antelme - Montfrin",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La bastide de Boulbon",
+    "address": "2309F Chemin de la Lone - Boulbon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Chemin de la Lone",
+    "address": "Chemin de la Lone - Boulbon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMEG30 - Cour Sadi Carnot Beaucaire",
+    "address": "10 Cour Sadi Carnot - Beaucaire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Avenue Jean Moulin Aramon",
+    "address": "186 Avenue Jean Moulin - Aramon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hôtel Baladins - Portes-lès-Valence",
+    "address": "135 Rue Pierre Seghers - Portes-lès-Valence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Soyons - 296 Rue Marcel Astier",
+    "address": "296 Rue Marcel Astier - Soyons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Portes-lès-Valence",
+    "address": "3 Rue Mal de Lattre de Tassigny - Portes-lès-Valence",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Valence | Avenue de Marseille 40",
+    "address": "40 Avenue de Marseille - Valence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ibis Budget - Rue de Chantecouriol",
+    "address": "61 Rue de Chantecouriol - Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Be Charge - Rue Jean Jaurès - Portes-lès-Valence",
+    "address": "15 Rue Jean Jaurès - Portes-lès-Valence",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Valence | Avenue de Marseille 45",
+    "address": "45 Avenue de Marseille - Valence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue Émile Zola - Portes-lès-Valence",
+    "address": "3 Rue Émile Zola - Portes-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - KFC Les Aureats - Valence (Sortie 15)",
+    "address": "Impasse des Auréats - Valence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - A7 Aire de Porte Les Valences (direction Valence)",
+    "address": "A7 - Autoroute du Soleil - Portes-lès-Valence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

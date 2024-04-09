@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Au clos Napoléon",
+    "address": "4 Rue de la Perrière - Fixin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mairie de Brochon",
+    "address": "RN 74 BROCHON - Brochon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Parking Gaston Roupnel - Gevrey Chambertin",
+    "address": "2 Rue Gaston Roupnel, - Gevrey-Chambertin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rotisserie de Chambertin",
+    "address": "4 Rue du Chêne - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Reine de Dijon - Fleurey-sur-Ouche",
+    "address": "Au Bas des Combets - Fleurey-sur-Ouche",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Mairie de Gevrey-Chambertin",
+    "address": "2 Rue Souvert, - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - 21 Rue Mal de Lattre de Tassigny - Gevrey-Chambertin",
+    "address": "21 Rue Mal de Lattre de Tassigny - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Mairie de Couchey",
+    "address": "Place Charles de Gaulle - Couchey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alambic - Gevrey Chambertin",
+    "address": "24 Av. de la Gare, - Gevrey-Chambertin",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place Saint Vincent - Morey St Denis",
+    "address": "41 Place Saint-Vincent - Morey-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

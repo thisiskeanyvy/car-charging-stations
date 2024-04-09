@@ -1,0 +1,136 @@
+[
+  {
+    "title": "TotalEnergies - A72 Relais des Coquelicots - Andrézieux-Bouthéon",
+    "address": "Impasse Dieudonné Coste - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - KFC - Andrézieux-Bouthéon",
+    "address": "6 Rue des Essarts - Andrézieux-Bouthéon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E.leclerc - Andrézieux-Bouthéon",
+    "address": "6 Avenue Hélène Boucher - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Andrézieux-Bouthéon - Leclerc",
+    "address": "4 Boulevard Charles Voisin\r\n - Andrézieux-Bouthéon",
+    "connectors": [
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "E-Totem - Impasse Saint-Exupéry - Andrézieux-Bouthéon",
+    "address": "Impasse Saint-Exupéry - Andrézieux-Bouthéon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Saint-Etienne-Métropole - eTotem - impasse Saint Exupéry - Andrézieux-Bouthéon",
+    "address": "impasse saint exupéry - Andrézieux-Bouthéon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarche - Saint-Héand",
+    "address": "Les Chirottes - Saint-Héand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Brico E. Leclerc - Andrézieux-Bouthéon",
+    "address": "Rue Du 18 Juin 1827 - Andrézieux-Bouthéon",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Boulevard Ravel de Malval - Saint-Héand",
+    "address": "Boulevard Ravel de Malval - Saint-Héand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "hotel Bestwestern",
+    "address": "2 Boulevard Pierre Desgranges - Andrézieux-Bouthéon",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

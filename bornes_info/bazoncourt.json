@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Aérodrome de Pontoise - Cormeilles-en-Vexin (Privé)",
+    "address": "Route de l'Aérodrome - Boissy-l'Aillerie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Leclerc Express Marines",
+    "address": "3 Rue de la Richarderie - Marines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Marines",
+    "address": "21 Boulevard Gambetta - Marines",
+    "connectors": [
+      "x3",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centrakor ZAC l'oseraie",
+    "address": "1 rue du poirier Charles Guerin - osny",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial - Osny - Maxi Zoo",
+    "address": "Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial Osny - Action",
+    "address": "Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Chemin du Poirier Charles Guérin - Osny",
+    "address": "4 Chemin du Poirier Charles Guérin - Osny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia-Express - Osny - Norauto",
+    "address": "Parc d'activité de L'Oseraie - Osny",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Cergy puiseux",
+    "address": "21 Rue du Petit Albi - Osny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aramis Auto - Puiseux-Pontoise",
+    "address": "1 Rue Traversière - Puiseux-Pontoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

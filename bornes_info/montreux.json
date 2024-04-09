@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Green Motion - Parking du Marché-Forum",
+    "address": "Grand'Rue 28 - Montreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Grand-Rue - Montreux",
+    "address": "27 Grand-Rue - Montreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking de la Gare",
+    "address": "72 Avenue des Alpes - Montreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MOVE Mobility AG - 9 Rue du Théâtre - Montreux",
+    "address": "9 Rue du Théâtre - Montreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gare de Montreux - MoB",
+    "address": "Avenue des Alpes - Montreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Green Motion - Parking du Parc Donner",
+    "address": "2 Rue Carlo-Boller - Montreux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Eurotel Montreux",
+    "address": "81 Grand Rue - Montreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - Montreux - Le Pertit Lac, A9",
+    "address": "Le Pertit Lac, A9 - Montreux",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Montreux Palace Privé (Tesla)",
+    "address": "2 Avenue Claude-Nobs - Montreux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montreux Palace Parking",
+    "address": "Rue Alexandre-Emery - Montreux",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

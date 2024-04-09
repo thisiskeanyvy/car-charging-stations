@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Mairie de Hem",
+    "address": "42 Rue Du Général Leclerc - Hem",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Hem",
+    "address": "346 Rue Jules Guesde - Hem",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bluelib - Gorghemetz - Hem",
+    "address": "2 Avenue Gorghemetz - Hem",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Pergola - Forest-sur-Marque",
+    "address": "2 Rue du Petit Marais - Forest-sur-Marque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Roubaix",
+    "address": "Rue Horace Vernet - Roubaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Okaidi Sas - Roubaix",
+    "address": "162 Boulevard des Fourmies - Roubaix",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Avenue de la Reconnaissance - Villeneuve-d'Ascq",
+    "address": "22 Avenue de la Reconnaissance - Villeneuve-d'Ascq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centrale d’Auchan France - parking Colibri",
+    "address": "191 Chemin de la Note Bleue - Villeneuve-d'Ascq",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centrale Auchan - Villeneuve-d'Ascq (Employés uniquement)",
+    "address": "200 Rue de la Recherche - Villeneuve-d'Ascq",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Jules Guesde - Lys-lez-Lannoy",
+    "address": "1ter Rue Jules Guesde - Lys-lez-Lannoy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

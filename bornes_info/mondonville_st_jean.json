@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE28 - Ouarville",
+    "address": "Rue de la République - Ouarville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Place Farcot - Sainville",
+    "address": "Place Farcot - Sainville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Gommerville",
+    "address": "65 Route de Voves - Gommerville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 Aire des Plaines de Beauce (direction Orléans)",
+    "address": "A10,\tAire des Plaines de Beauce - Fresnay-l'Évêque",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - A10 Aire des Plaines de Beauce Ouest",
+    "address": "6 Chemin Ablis - Fresnay-l'Évêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Boisville",
+    "address": "Rue de la République - Boisville-la-Saint-Père",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IONITY - A10 Aire de Val Neuvy (direction Paris)",
+    "address": "A10, Aire de Val Neuvy - Fresnay-l'Évêque",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge - A10 Aire de Val Neuvy (direction Paris)",
+    "address": "A10, Aire de Val Neuvy, Sens Orléans Paris - Fresnay-l'Évêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place Du Marche- Auneau",
+    "address": "2 Place Du Marche - Auneau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Auneau (rue Pasteur) DOUBLON",
+    "address": "26 bis Rue Pasteur - Auneau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

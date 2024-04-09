@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Rue Henri Chivaley Quinsac",
+    "address": "4 Rue Henri Chivaley - Quinsac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie de Camblanes-et-Meynac",
+    "address": "2 Route de Morillon - Camblanes-et-Meynac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Roberie - Cambes",
+    "address": "24 Route de Saint-Caprais - Cambes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Cadaujac",
+    "address": "Rue du Port de Grima - Cadaujac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 450 Avenue du Général de Gaulle - Cadaujac",
+    "address": "450 Avenue du Général de Gaulle - Cadaujac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Salle des fêtes - Latresne",
+    "address": "2 Rue de la Salargue - Latresne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 7 Clos De La Chapelle - Latresne",
+    "address": "7 Clos De La Chapelle - Latresne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tradition et Terroir du Sud Ouest",
+    "address": "9 Chemin Touton - Villenave-d'Ornon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Martillac",
+    "address": "20 Chemin De Lagrange - Martillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie d'Ayguemorte les graves",
+    "address": "20 avenue Général de Gaulle - Ayguemorte Les Graves",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

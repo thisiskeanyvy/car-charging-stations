@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Révéo - Rue Saint-Vincent - Tavel",
+    "address": "Rue Saint-Vincent - Tavel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A9 - Aire de Tavel-Nord (direction Nimes)",
+    "address": "A9 - Tavel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A9 - Aire de Tavel-Sud (direction Orange/Lyon)",
+    "address": "A9 - Tavel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Belly Ouest - Rochefort-du-Gard",
+    "address": "Belly Ouest - Rochefort-du-Gard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route d'Orange - Rochefort du Gard",
+    "address": "71 Route d'Orange - Rochefort-du-Gard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Cimetière de Rochefort-du-Gard",
+    "address": "Route d'Avignon - Rochefort-du-Gard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Révéo - parking centre socio-culturel - St Laurent des Arbres",
+    "address": "Rue du Baron le Roy - Saint-Laurent-des-Arbres",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - parking du 8 Mai - St Geniès-de-Comolas",
+    "address": "Place du 8 Mai 1945 - Saint-Geniès-de-Comolas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Place du marché - Pujaut",
+    "address": "5254A Rue du 8 Mai - Pujaut",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage Renault - rue St marc",
+    "address": "4 rue St marc - Pujaut",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Decré-Bouffay - Rue du Moulin",
+    "address": "18 Rue du Moulin - Nantes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allée Duquesne Nantes",
+    "address": "9 Allée Duquesne - Nantes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Talensac - Place Saint-Similien - Nantes",
+    "address": "Place Saint-Similien - Nantes",
+    "connectors": [
+      "x7",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking de la tour de bretagne - Place de Bretagne - Nantes",
+    "address": "1 Place de Bretagne - Nantes",
+    "connectors": [
+      "x2",
+      "x8",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Cathédrale - Nantes",
+    "address": "10 Rue Sully - Nantes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Feydeau - Cours Commandant d'Estienne d'Orves - Nantes",
+    "address": "Cours Commandant d'Estienne d'Orves - Nantes",
+    "connectors": [
+      "x6",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EFFIA - Gare Nord Nantes (longue durée)",
+    "address": "27 Boulevard de Stalingrad - Nantes",
+    "connectors": [
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking commerce nantes",
+    "address": "3 Rue Thurot - Nantes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Nantes",
+    "address": "20 Rue Pitre Chevalier - Nantes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NGE - Parking Graslin - Nantes",
+    "address": "Rue du Chapeau Rouge - Nantes",
+    "connectors": [
+      "x10",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

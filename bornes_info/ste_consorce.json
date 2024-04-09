@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Izivia - 3 Rue des Marronniers Z.A. du Clapeloup - Sainte-Consorce",
+    "address": "3 Rue des Marronniers Z.A. du Clapeloup - Sainte-Consorce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Marcy-L'Etoile - 261 Allée de Grande Croix",
+    "address": "261 Allée de Grande Croix - Marcy-L'Etoile",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Villa 444",
+    "address": "444 Route de Sain Bel - Lentilly",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Parc Lacroix Laval - Marcy-l'Étoile",
+    "address": "1494 Route de Sain-Bel - Marcy-l'Étoile",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 163 Chemin des Presles - Pollionnay",
+    "address": "163 Chemin des Presles - Pollionnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Mairie de Grezieu La Varenne",
+    "address": "11 Avenue Émile Évellier - Grézieu-la-Varenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Grand Lyon la métropole - av Marcel Merieux - Saint-Genis-les-Ollières",
+    "address": "av marcel merieux - Saint-Genis-les-Ollières",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Rue du Chapoly - Saint-Genis-les-Ollières",
+    "address": "Rue du Chapoly - Saint-Genis-les-Ollières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Allée des Chênes - Saint-Genis-les-Ollières",
+    "address": "Allée des Chênes - Saint-Genis-les-Ollières",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Place Marsonnat - Charbonnières-les-Bains",
+    "address": "Place Marsonnat - Charbonnières-les-Bains",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "7 Boulevard Willy Stein",
+    "address": "7 Boulevard Willy Stein - Saint-James",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue du Presbytère - St james",
+    "address": "Rue du Presbytère - Saint-James",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE35 - Les Portes du Coglais - Montours",
+    "address": "2 Rue de Quincampoix - Montours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue de Quincampoix - Montour",
+    "address": "Rue de Quincampoix - Montour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Rue de la Marre - Maen Roch",
+    "address": "Rue de la Marre - Maen Roch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "OuestCharge - Place Alexandre Dubois - Saint-Georges-de Reintembault",
+    "address": "Place Alexandre Dubois - Saint-Georges-de-Reintembault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Hôtel Le Lion d'Or",
+    "address": "7 Rue de Saint-Ouen - Maen Roch",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint-Étienne-en-Coglès - Système U",
+    "address": "Rue d'Antrain Zac De, La Croix Rouge - Saint-Étienne-en-Coglès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Place du Champ de Foire - Saint-Brice-en-Coglès",
+    "address": "2 Place du Champ de Foire - Saint-Brice-en-Coglès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Parc d'Activité Saint Eustache - Saint-Étienne-en-Coglès",
+    "address": "Parc d'Activité Saint Eustache - Saint-Étienne-en-Coglès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

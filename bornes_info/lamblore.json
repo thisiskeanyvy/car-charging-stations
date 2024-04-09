@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Lamblore | Le Plessis",
+    "address": "Le Plessis - Lamblore",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - La Ferté-Vidame",
+    "address": "Place de la Mairie - La Ferté-Vidame",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Recharge en cas d'urgence uniquement",
+    "address": "2 Route de Morvilliers - LA CHAPELLE-FORTIN",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Place de l'Eglise - La Saucelle",
+    "address": "Place de l'Eglise - La Saucelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - D 616 Neuilly-sur-Eure/",
+    "address": "D 616 - Neuilly-sur-Eure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - 54 Route de la Ferté Vidame - Senonches",
+    "address": "54 Route de la Ferté Vidame - Senonches",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE28 - Senonches (Rue de Verdun)",
+    "address": "18 Rue de Verdun - Senonches",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Senonches (Rue du Four Banal)",
+    "address": "Rue du Four Banal - Senonches",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché Verneuil sur Avre (Tesla et autres)",
+    "address": "460 Route de Mortagne - Verneuil-sur-Avre",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Verneuil sur Avre",
+    "address": "460 Route de Mortagne - Verneuil-sur-Avre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

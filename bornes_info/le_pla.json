@@ -1,0 +1,130 @@
+[
+  {
+    "title": "START SQY - Parking Centre Commercial Sourderie",
+    "address": "93 bld rené Descartes - Montigny-le-Bretonneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "START SQY - PARKING PROVIDENCE",
+    "address": "PLACE CHARLES DE GAULLE - Voisins-le-Bretonneux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Alizé - Avenue de la Grande Île - Voisins-le-Bretonneux",
+    "address": "55–59 Avenue de la Grande Île - Voisins-le-Bretonneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "START SQY - Boulevard Vauban",
+    "address": "67 Boulevard Vauban - Montigny-le-Bretonneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Voisins-le-Bretonneux",
+    "address": "26 Rue aux Fleurs - Voisins-le-Bretonneux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Europcar International - rue René Caudron - Voisins le bretonneux (privé)",
+    "address": "2 rue René Caudron - Voisins le bretonneux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Avenue Roger Hennequin - Trappes",
+    "address": "2 Avenue Roger Hennequin - Trappes",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Guyancourt - McDonalds",
+    "address": "12 Avenue de l'Europe - Guyancourt",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Trappes, Geodis (Privé)",
+    "address": "Rue Albert Einstein - Trappes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CC Espace Saint Quentin - Montigny-le-Bretonneux",
+    "address": "1 Avenue de la Source de la Bièvre - Montigny-le-Bretonneux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

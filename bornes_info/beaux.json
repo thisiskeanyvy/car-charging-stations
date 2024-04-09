@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Hôtel La Maison Champs Elysées",
+    "address": "8 Rue Jean Goujon - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Avenue Matignon Face Au 3 - Paris",
+    "address": "Avenue Matignon Face Au 3 - Paris",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 12 Rue François 1er - Paris DOUBLON",
+    "address": "12 Rue François 1er - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 10 Rue François 1er - Paris",
+    "address": "10 Rue François 1er - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - Rue Francois 1er - Paris",
+    "address": "Rue Francois 1er - Paris",
+    "connectors": [
+      "x7",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 2 Avenue Matignon - Paris",
+    "address": "2 Avenue Matignon - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking souterrain la Tour Maubourg",
+    "address": "43 Quai d'Orsay - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Q-Park Paris La Tour Maubourg",
+    "address": "45 Quai d'Orsay - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Effia - Avenue Franklin Roosevelt Paris",
+    "address": "45-47 Avenue Franklin Roosevelt - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Assemblée Nationale - Cours Montesquieu",
+    "address": "128 Rue de l'université - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

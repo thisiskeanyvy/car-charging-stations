@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Chateau sainte colombe",
+    "address": "D105 - Saint-Geniès-des-Mourgues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Bres",
+    "address": "486 Avenue de Nîmes - Saint-Bres",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking salle des fêtes",
+    "address": "Chemin des Cazals - Valergues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Lunel-Viel - N113,",
+    "address": "N113, - Lunel-Viel",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 590 Avenue du Roucagnier - Lunel-Viel",
+    "address": "590 Avenue du Roucagnier - Lunel-Viel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "7 ter Avenue de la Coopérative",
+    "address": "7 ter Avenue de la Coopérative - Castries",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Devant boulodrome et arènes",
+    "address": "175 Rue André Auguste - Lunel-Viel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Gare de Baillargues",
+    "address": "Route de la Gare - Baillargues",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - D26E1 - Baillargues",
+    "address": "D26E1 - Baillargues",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Intermarché - Baillargues",
+    "address": "103 avenue de la biste - Baillargues",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

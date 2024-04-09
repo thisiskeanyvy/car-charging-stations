@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - ZA la Balorais - Saint-Pierre-la-Cour",
+    "address": "20 Zone Artisanale - Saint-Pierre-la-Cour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de la Grenouillère",
+    "address": "1 Rue de la Grenouillère - Loiron-Ruillé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Saint-Pierre-la-Cour - 1 Rte de la Mine",
+    "address": "1 Rte de la Mine - Saint-Pierre-la-Cour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - N157 Aire de Mondevert (direction Laval)",
+    "address": "8 N157 - Erbrée",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - N157 Aire d'Erbrée (Direction Rennes)",
+    "address": "8 AIRE D'ERBREE -RN 157 - ERBREE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Place de l'Église, 7 - Le Genest-Saint-Isle",
+    "address": "7 Place de l'Église - Le Genest-Saint-Isle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Rue des Étangs - Argentré du Plessis",
+    "address": "3 Rue des Étangs - Argentré-du-Plessis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Place de l'Église - Saint-Ouën-des-Toits",
+    "address": "7 Place de l'Église - Saint-Ouën-des-Toits",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NVH - Saint-Ouën-des-Toits - 42 Rue du Maine",
+    "address": "42 Rue du Maine - Saint-Ouën-des-Toits",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Corbusson",
+    "address": "2 Rue de Corbusson - Saint-Berthevin",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

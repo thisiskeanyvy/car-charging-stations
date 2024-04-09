@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Restaurant l'Ambroisie",
+    "address": "64 Route du Lac - Saint-Didier-de-la-Tour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - St Clair de la Tour - Weldom",
+    "address": "1785 Avenue de Savoie 38110 St Clair de la To - St Clair de la Tour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEDI - Rue de l'Hôtel de ville - La Tour-du-Pin",
+    "address": "10 Rue de l'Hôtel de ville - La Tour-du-Pin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - St jean de soudain - Restaurant le Saint Jean",
+    "address": "Chemin du Chapon - St jean de soudain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Saint-Jean-de-Soudain - Route de Lyon",
+    "address": "678 Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Jean-de-Soudain",
+    "address": "Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'entrepot du Bricolage",
+    "address": "21 Rue Pierre Dupont - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Comptoir de Campagne",
+    "address": "place des écoliers - Faverges-de-la-Tour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chateauform Faverges de la Tour - 1 Rue De La Rolandière - Faverges-de-la-Tour",
+    "address": "1 Rue De La Rolandière - Faverges-de-la-Tour",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - La tour du Pin",
+    "address": "813 Route de Lyon - Saint-Jean-de-Soudain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

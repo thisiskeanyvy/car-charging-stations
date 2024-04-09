@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Révéo - Place de la République - Cers",
+    "address": "12 Place de la République - Cers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota Avenir Auto - Avenue des Amandiers - Villeneuve-lès-Béziers",
+    "address": "Avenue des Amandiers - Villeneuve-lès-Béziers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Villeneuve-lès-Béziers",
+    "address": "Avenue Jean Monnet - Villeneuve-lès-Béziers",
+    "connectors": [
+      "x6",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge - Decathlon - Villeneuve-lès-Béziers",
+    "address": "Avenue Jean Monnet - Villeneuve-lès-Béziers",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Béziers",
+    "address": "Avenue Jean Monnet - Villeneuve-lès-Béziers",
+    "connectors": [
+      "x24"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RÉVÉO - Place des Anciennes Écoles - Villeneuve-lès-Béziers",
+    "address": "17 Rue Léon Lagarde - Villeneuve-lès-Béziers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "mobilygreen - Portiragnes - 1b Avenue du Stade",
+    "address": "1b Avenue du Stade - Portiragnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Béziers",
+    "address": "3 Avenue du Viguier - Villeneuve-lès-Béziers",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Promocash - Rue de l'Acropole - Béziers",
+    "address": "4 Rue de l'Acropole - Béziers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue de l'Égalité - Portiragnes",
+    "address": "4 Avenue de l'Égalité - Portiragnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

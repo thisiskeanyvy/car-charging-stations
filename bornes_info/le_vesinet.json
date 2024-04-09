@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - Bd Carnot - Mairie Le Vesinet",
+    "address": "60 Boulevard Carnot - Le Vésinet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - Relais des Tilleuls - Chatou",
+    "address": "133 Avenue du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue Alexandre Dumas - Le Vésinet",
+    "address": "15 Rue Alexandre Dumas - Le Vésinet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - LS Group - Chatou",
+    "address": "119 Avenue Du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Parking du rond point - Le Vésinet",
+    "address": "Boulevard Carnot - Le Vésinet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rond point du Pecq",
+    "address": "11 Rue Circulaire - Le Vésinet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Chatou",
+    "address": "40 Avenue du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Parc les Erables (Privé)",
+    "address": "66 Route de Sartrouville - Le Pecq",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Suez Environnement - Centre International de Recherche Sur l’Eau et l’Environnement",
+    "address": "38 Rue du Président Wilson - Le Pecq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - avenue du Général De Gaulle - Croissy-sur-Seine",
+    "address": "22 Avenue du Général de Gaulle - Croissy-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

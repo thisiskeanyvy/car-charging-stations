@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEYMABORNE - Parking mairie de Porcheville",
+    "address": "29 Boulevard de la République - Yvelines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Rue Maurice Fricotte - Mézières-sur-Seine",
+    "address": "Rue Maurice Fricotte - Mézières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Gare - Issou",
+    "address": "48 Rue de la Gare - Issou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VERI - Veolia Recherche et Innovation - Centre de recherche de Limay (Privé)",
+    "address": "291 Avenue Daniel Dreyfous Ducas - LIMAY",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Mézières-sur-Seine",
+    "address": "5 Rue des Maraîchers - Mézières-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SARP Industries - Zone Portuaire de Limay",
+    "address": "1–727 Route du Hazay - Limay",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vieux Chemin de Paris - Guitrancourt",
+    "address": "Vieux Chemin de Paris - Guitrancourt",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre d'Affaire des Ardilles - Borne Eco-Pi",
+    "address": "22 Chemin des Ardiles - Epone",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Mezières sur Seine",
+    "address": "6 avenue de la gare - Mezières sur Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - 22 Chemin des Ardilles - Épône",
+    "address": "22 Chemin des Ardilles - Épône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

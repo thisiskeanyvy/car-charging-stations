@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE03 - Saint-Germain-des-Fossés",
+    "address": "Rue de Vichy - Saint-Germain-des-Fossés",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Yesss Electrique",
+    "address": "Rue de l'Industrie - Creuzier-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Creuzier-le-Vieux",
+    "address": "Place des Guinards - Creuzier-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allier Le Département",
+    "address": "Rue de Vichy - Saint-Rémy-en-Rollat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allier Le Département - Saint-Rémy-en-Rollat",
+    "address": "- Saint-Rémy-en-Rollat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cusset | Rue de Sanssat 1",
+    "address": "1 Rue de Sanssat - Cusset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Saint-Gérand-le-Puy",
+    "address": "Rue Maurice Dupont - Saint-Gérand-le-Puy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Cusset",
+    "address": "6 Rte de Charmeil, - Cusset",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Cusset",
+    "address": "44 boulevard Jean Lafaure - Cusset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Cusset - Nissan",
+    "address": "44 Bd Jean Lafaure - Cusset",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

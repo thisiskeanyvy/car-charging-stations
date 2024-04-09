@@ -1,0 +1,142 @@
+[
+  {
+    "title": "MobiSDEC - BIEVILLE BEUVILLE (Place de Margetshöchheim)",
+    "address": "Place de Margetshöchheim - Béville-beuville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "EVBox - Le Golf 2 - Biéville-Beuville",
+    "address": "Le Golf 2 - Biéville-Beuville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - BLAINVILLE SUR ORNE (Rue Maurice Hébert)",
+    "address": "Rue Maurice Hébert - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "MobiSDEC - BLAINVILLE SUR ORNE (Rue Lamberville)",
+    "address": "Rue Lamberville - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Blainville-sur-Orne",
+    "address": "1 Rue du Royal Norfolk - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*SEV - Hérouville-Saint-Clair - 2 Av. de la 3ème Division d'Infanterie Britannique",
+    "address": "2 Av. de la 3ème Division d'Infanterie Britannique - Hérouville-Saint-Clair",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia Herouville Saint Clair",
+    "address": "424 Rue Marie Curie - Hérouville-Saint-Clair",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Avenue de Garbsen - Hérouville-Saint-Clair",
+    "address": "1 Avenue De Garbsen - Hérouville-Saint-Clair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Volvo - Boulevard Suffolk - Bieville-Beuville",
+    "address": "Boulevard Suffolk - Bieville-Beuville",
+    "connectors": [
+      "x2",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "JFC Normandie Caen",
+    "address": "Rue de Sufolk - Biéville-Beuville",
+    "connectors": [
+      "x5",
+      "x5",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

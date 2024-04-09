@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SYDEC - Place Salle Isidore Sainte-Marie-de-Gosse",
+    "address": "56 Place Isidore Salles - Sainte-Marie-de-Gosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A64 Aire Hastingues Nord",
+    "address": "A64, Aire Hastingues Nord - Hastingues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A64 Aire de Hastingues Sud",
+    "address": "A64, Aire de Hastingues Sud - Hastingues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Place du marché - Urt",
+    "address": "Place du Marché - Urt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Route de Bellevue Saubrigues",
+    "address": "34 Route de Bellevue - Saubrigues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC - D466/135 - Josse",
+    "address": "Route de Boulins - Josse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Shell Recharge - Carrefour Market - Peyrehorade",
+    "address": "22 Rue de l'Arriou - Peyrehorade",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Weldom",
+    "address": "58 Impasse des Lilas - Peyrehorade",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Parking du stade - Bardos",
+    "address": "1867 Le Bourg - Bardos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route De Bayonne - Peyrehorade",
+    "address": "204 Route De Bayonne - Peyrehorade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDE82 - Boulevard de la Gare Monclar-de-Quercy",
+    "address": "5 Avenue du Lac - Monclar-de-Quercy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - La salvetat belmontet",
+    "address": "313 D8 - La Salvetat-Belmontet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "M. Lefebvre",
+    "address": "6 Lotissement de la Crabière - Saint-Urcisse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue du Village Vaïssac",
+    "address": "Rue du Village - Vaïssac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Base de Loisirs des Sourigous",
+    "address": "lac des tasconis - Salvagnac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - D999 - Salvagnac",
+    "address": "D999 - Salvagnac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - parking Allée Jean Jaurès",
+    "address": "Allée Jean Jaurès - Salvagnac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Place Charles Ourgaut - Villemur-sur-Tarn",
+    "address": "50 Rue des Huguenots - Villemur-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - D964 - Mairie de Larroque",
+    "address": "D964 - Larroque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Leojac",
+    "address": "Route de Saint-Etienne-de-Tulmont - Léojac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

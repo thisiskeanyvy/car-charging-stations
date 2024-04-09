@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Gémozac - Place de Verdun",
+    "address": "1 Place de Verdun - Gémozac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Gémozac",
+    "address": "5 Pied Sec Route de Saintes ZA - Gémozac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Gémozac",
+    "address": "Pied Sec - Gémozac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SAS LA SERPAUDERIE",
+    "address": "1 Hameau de la Serpauderie - Saint-André-de-Lidon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Poste Tesson",
+    "address": "6 Avenue De l'Estuaire - Tesson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E55C - A10 Aire de Saint-Léger (direction Bordeaux)",
+    "address": "A10 - Saint-Léger",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Atlante - A10 Aire de Saint-Léger (direction Bordeaux)",
+    "address": "2 L'Aquitaine - Saint-Léger",
+    "connectors": [
+      "x5",
+      "x6",
+      "x5",
+      "x21",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A10 - Aire de Saint-Léger (direction Niort)",
+    "address": "A10 - Saint-Léger",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pôle Médical - Tesson",
+    "address": "44 Avenue de Saintonge - Tesson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - 24 Rue du Chagnaud - Rioux",
+    "address": "24 Rue du Chagnaud - Rioux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

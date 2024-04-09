@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Sigeif - Maison du temps libre - Rue de Meaux - Vaujours",
+    "address": "78 Rue de Meaux - Vaujours",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - place des fêtes - Vaujours",
+    "address": "23 Avenue du Maréchal de Lattre de Tassigny - Vaujours",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Toyota - Livry Gargan (GCA) - 22 kW AC",
+    "address": "135 Boulevard Robert Schuman - Livry-Gargan",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Livry-Gargan - Norauto",
+    "address": "16 Allée Jean Coulon - Livry-Gargan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - 55 Avenue Lucie Aubrac - Livry-Gargan",
+    "address": "55 Avenue Lucie Aubrac - Livry-Gargan",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Livry-Gargan - Point P",
+    "address": "51 Boulevard Robert Schuman - Livry-Gargan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Livry-Gargan - 60 Avenue Lucie Aubrac",
+    "address": "60 Avenue Lucie Aubrac - Livry-Gargan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 42 Boulevard Robert Schuman - Livry-Gargan",
+    "address": "42 Boulevard Robert Schuman - Livry-Gargan",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Metropolis Recharge - 36 Avenue du Rêve - Villepinte",
+    "address": "36 Avenue du Rêve - Villepinte",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - 23 place de la Libération - Livry-Gargan",
+    "address": "23 Place de la Libération - Livry-Gargan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

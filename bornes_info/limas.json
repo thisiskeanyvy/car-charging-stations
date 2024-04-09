@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Parc Depagneux",
+    "address": "61 Rue Henri Depagneux - Limas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MEA ENERGIES - 119 Rue Michel Aulas - Limas",
+    "address": "119 Rue Michel Aulas - Limas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Limas",
+    "address": "200 Rue des Chantiers du Beaujolais - Limas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Villefranche-sur-Saône",
+    "address": "1197 Rue de Tarare - Villefranche-sur-Saône",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Inter Beaujolais",
+    "address": "210 Boulevard Victor Vermorel - Villefranche-sur-Saône",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue Léon Weber - Villefranche-sur-Saône",
+    "address": "39 Rue Léon Weber - Villefranche-sur-Saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - Parking Chasset",
+    "address": "66 Rue Chasset - Villefranche-sur-Saône",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Place de la Gare - Villefranche-sur-Saône",
+    "address": "Place de la Gare - Villefranche-sur-Saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDER - Allée de Ry - Gleizé",
+    "address": "Allée de Ry - Gleizé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - 41 Avenue Saint-Exupéry - Villefranche-sur-Saône",
+    "address": "41 Avenue Saint-Exupéry - Villefranche-sur-Saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

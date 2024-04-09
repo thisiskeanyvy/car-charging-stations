@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Sigeif - Rue du Général Leclerc - Franconville",
+    "address": "106 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Rue du Saut du Loup - Franconville",
+    "address": "117 Rue du Saut du Loup - Franconville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue de l'Église - Franconville",
+    "address": "10 Rue de l'Église - Franconville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Piscine Municipale de Franconville",
+    "address": "25 Avenue des Marais - Franconville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Gare de Franconville Plessis Bouchard",
+    "address": "6 Rue Charles Burger - Franconville",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electra - Sannois - Hôtel Kyriad",
+    "address": "19 Rue des Loges - Sannois",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Rent A Car - Sannois",
+    "address": "165 Boulevard Gambetta - Sannois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Ermont",
+    "address": "1 Avenue Georges Pompidou - Ermont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Collège Jean Moulin - Sannois",
+    "address": "79 Rue du Poirier Baron - Sannois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ikea (zone clients 1) - Franconville",
+    "address": "337 Rue du Général Leclerc - Franconville",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

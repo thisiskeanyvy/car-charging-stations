@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE22 - Rue des Granits - Le Hinglé",
+    "address": "Rue des Granits - Le Hinglé",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Calorguen",
+    "address": "Route de Dinan - Calorguen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supercharger Tesla V4 - Dinan",
+    "address": "Rue de Saint-Suliac - Dinan",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc - Lehon",
+    "address": "21 Rue de Saint-Suliac - Léhon",
+    "connectors": [
+      "x6",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Dinan - Aire de camping car",
+    "address": "17 Rue des Salles - Dinan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - 13 Rue de Cassepot - Quévert",
+    "address": "13 Rue de Cassepot - Quévert",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Abbaye Saint-Magloire de Léhon",
+    "address": "Place d'Abstatt - Dinan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel du Château Dinan",
+    "address": "5 Rue du Guichet - Dinan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Place Du Guesclin - Dinan",
+    "address": "111 rue du château - Dinan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Hôtel Arvor - Dinan",
+    "address": "5 Rue Auguste Pavie - Dinan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

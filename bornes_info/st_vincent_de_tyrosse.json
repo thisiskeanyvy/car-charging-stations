@@ -1,0 +1,136 @@
+[
+  {
+    "title": "15 Rue de Mounsempes",
+    "address": "Rue Clairacq - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Saint-Vincent-de-Tyrosse - Citroën",
+    "address": "205 Route de Bayonne - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue du Grand Tourren",
+    "address": "Rue du Grand Tourren - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - E.Leclerc - Saint-Vincent-de-Tyrosse",
+    "address": "1320 Route de Bordeaux - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x6",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place des Marroniers - Tosse",
+    "address": "Place des Marroniers - Tosse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Avenue du Général de Gaulle",
+    "address": "62 Avenue du Général de Gaulle - Tosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel **** - Les Echasses",
+    "address": "701 route de la bruyere - Saubion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SUPER U - Route de Saubion",
+    "address": "163 Route de Saubion - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Route de Tyrosse Lieu-dit Saubiole - Angresse",
+    "address": "Route de Tyrosse Lieu-dit Saubiole - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Route de Bellevue Saubrigues",
+    "address": "34 Route de Bellevue - Saubrigues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE76 - 54 Rue du S - Quincampoix",
+    "address": "54 Rue du Sud - Quincampoix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Fontaine-le-Bourg",
+    "address": "757 Rue Delamare Deboutteville - Fontaine-le-Bourg",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Isneauville",
+    "address": "74 Route de Dieppe - Isneauville",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE76 - 1 Rue Grande Rue - Cailly",
+    "address": "1 Rue Grande Rue - Cailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Rue du Petit Prés - Morgny-la-Pommeraye",
+    "address": "Rue du Petit Prés - Morgny-la-Pommeraye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Place du Pratelli - Préaux",
+    "address": "Rue du Stade - Préaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Ibis Budget - Isneauville",
+    "address": "140 Rue du Mont Perreux - Isneauville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "509 Route de Neufchâtel",
+    "address": "509 Route de Neufchâtel - Isneauville",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Route de Neufchâtel - Isneauville",
+    "address": "509 Route de Neufchâtel - Isneauville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "CEPPIC Formation - Centre de formation continue",
+    "address": "112 Rue de la Ronce - Isneauville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

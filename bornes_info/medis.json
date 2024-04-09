@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Renault Royan Atlantique",
+    "address": "7-11 Route de Saujon - Médis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 80 Route de Saujon - Médis",
+    "address": "80 Route de Saujon - Médis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - Royan - 22kW AC",
+    "address": "40 Rue Antoine-Laurent de Lavoisier - Royan",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hyundai - Médis",
+    "address": "3 Rue Marco Polo - Médis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre auto E.Leclerc - Rue Antoine-Laurent de Lavoisier",
+    "address": "20 Rue Antoine-Laurent de Lavoisier - Royan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc CC (souterrain) - Royan",
+    "address": "2 Rue Antoine-Laurent de Lavoisier - Royan",
+    "connectors": [
+      "x3",
+      "x2",
+      "x5",
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Intermarché - Saujon",
+    "address": "Chemin Vert - Saujon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue Louis Bouchet - Royan",
+    "address": "72 Avenue Louis Bouchet - Royan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Royan",
+    "address": "rue Jean Delay - Royan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monsieur Bricolage - Rue Jean Delay",
+    "address": "1 Lotissement Quai Ouest - Rue Jean Delay - Royan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

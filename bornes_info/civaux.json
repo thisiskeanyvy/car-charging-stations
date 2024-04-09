@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Sorégies - Civaux - Mairie",
+    "address": "4 Place de Gomelange - Civaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "CIVAUX Centre Bourg",
+    "address": "Place de Gomelange - Civaux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Civaux - Route du Fond d’Orveau",
+    "address": "Route du Fond d’Orveau - Civaux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "EDF - Centrale de Civaux",
+    "address": "EDF Centrale de Civaux - Civaux",
+    "connectors": [
+      "x10",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EDF - Centrale de Civaux / Bornes Rapides Tritium & Nissan",
+    "address": "EDF CNPE CIVAUX - CIVAUX",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EDF - Centrale de Civaux / Bornes camping-car",
+    "address": "Centrale nucléaire de Civaux - Civaux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Route de la Centrale Nucléaire - Civaux",
+    "address": "Rue De La Bourbonnerie - Civaux",
+    "connectors": [
+      "x48",
+      "x48",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Route de la Centrale Nucléaire - Civaux",
+    "address": "Route de la Centrale Nucléaire - Civaux",
+    "connectors": [
+      "x154",
+      "x154",
+      "x2",
+      "x2",
+      "x50",
+      "x50"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "LUMELEC - Mazerolles",
+    "address": "39 Route de Poitiers - Mazerolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Place des Tilleuls - LHOMMAIZÉ",
+    "address": "Place des Tilleuls - LHOMMAIZÉ",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

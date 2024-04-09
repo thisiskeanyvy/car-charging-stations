@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEM50 - Rue St Martin - Condé-sur-Vire",
+    "address": "Rue Saint-Martin - Condé-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - route Neuve - conde sur vire",
+    "address": "route Neuve - conde sur vire",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route du mesnil",
+    "address": "Route du Mesnil - Condé-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Amand-Villages",
+    "address": "29 Rte de Saint-Lô - Saint-Amand-Villages",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - 31 Avenue de la Gare - Saint-Amand-Villages",
+    "address": "31 Avenue de la Gare - Saint-Amand-Villages",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - 12 Place de l'Orangerie - Torigny-les-Villes",
+    "address": "12 Place de l'Orangerie - Torigny-les-Villes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Kia - Saint-Lô",
+    "address": "1149 Rue de Torigni - Saint-Lô",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - IBIS - 562 Rue Jules Vallès - Saint-Lô",
+    "address": "562 Rue Jules Vallès - Saint-Lô",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW Envergure - Saint Lô",
+    "address": "Rond point de Baudre - Saint Lô",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Saint-Lô - 898 Rue Jules Vallès ZA de la Chevalerie",
+    "address": "898 Rue Jules Vallès ZA de la Chevalerie - Saint-Lô",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

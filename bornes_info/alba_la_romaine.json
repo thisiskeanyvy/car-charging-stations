@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE07 - rue de l’Helvie",
+    "address": "rue de l’Helvie - Alba-la-Romaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 - Place des Crottes",
+    "address": "7 Les Crottes - Saint-Thomé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Saint-Jean-le-Centenier | Route de Mirabel",
+    "address": "Route de Mirabel - Saint-Jean-le-Centenier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place du Cimetière - Le Teil",
+    "address": "Place du Cimetière - Le Teil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - Place René Montérémal - Le Teil",
+    "address": "Place René Montérémal - Le Teil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Villeneuve de Berg",
+    "address": "1065 Pommiers - Villeneuve-de-Berg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Entree camping le pommier",
+    "address": "N102 - Villeneuve-de-Berg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Teil - Intermarché",
+    "address": "Chemin Du Dépôt - Le Teil",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - Chemin du Dépot - Le Teil",
+    "address": "Chemin du Dépot - Le Teil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Place des combettes Villeneuve-de-Berg",
+    "address": "Voie de Combette - Villeneuve-de-Berg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

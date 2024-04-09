@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - Rue Du Ruxelier - Cheniménil",
+    "address": "Rue Du Ruxelier - Cheniménil",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Bruyères",
+    "address": "6 Rue 5E Bcp - Bruyères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc - station de lavage - Rue de Gérardmer - Bruyères",
+    "address": "8T Rue de Gérardmer - Bruyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Nids des Vosges - Cabanes dans les arbres",
+    "address": "46 Route de Laveline du Houx - Champdray",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l'hotel Les Hauts Jardins",
+    "address": "43 Le Village - Rehaupal",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Stanislas - Bruyères",
+    "address": "Place Stanislas - Bruyères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "\"Le Prieuré\"",
+    "address": "2 Rue de la Mairie - Aydoilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Aydoilles - Gyrovosges",
+    "address": "6 Rue de la Haye - Aydoilles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue de la Gare - Pouxeux",
+    "address": "1324 Rue de la Gare - Pouxeux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Pouxeux - Super U",
+    "address": "Rue de la Moselle, Route de Remiremont ZA - Pouxeux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

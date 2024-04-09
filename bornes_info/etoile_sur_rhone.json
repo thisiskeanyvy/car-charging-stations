@@ -1,0 +1,140 @@
+[
+  {
+    "title": "eborn - Chemin de la Côte Chaude - Étoile-sur-Rhône",
+    "address": "Chemin de la Côte Chaude - Étoile-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Intermarché - Étoile-sur-Rhône",
+    "address": "65 Rue de la Raye - Étoile-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Brico Dépôt - Rue des Bosses - Étoile-sur-Rhône",
+    "address": "315 Rue des Bosses - Étoile-sur-Rhône",
+    "connectors": [
+      "x16",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hotel \"sous les pins \"",
+    "address": "95 Rue Marcel Champion - Étoile-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDED Parc de Lorient",
+    "address": "417 Laye - Montéléger",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Total Energies A7 Aire de Portes-lès-Valence (direction Valence)",
+    "address": "Station Total Energie aire de Portes-les-Valence (Sud-Nord) - Portes-les-Valence",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A7 - Aire de Portes-lès-Valence (direction Montélimar)",
+    "address": "A7 - Portes-lès-Valence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - A7 Aire de Porte Les Valences (direction Valence)",
+    "address": "A7 - Autoroute du Soleil - Portes-lès-Valence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Rue Émile Zola - Portes-lès-Valence",
+    "address": "3 Rue Émile Zola - Portes-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Parking Train Théatre Cinéma",
+    "address": "Avenue de la Résistance - Portes-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

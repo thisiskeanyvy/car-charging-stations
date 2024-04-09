@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Ecar18 - Veaugues - Place de l'église",
+    "address": "2 Place de l'Église - Veaugues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Peugeot - 1 Avenue de Verdun - Sancerre",
+    "address": "1 Avenue de Verdun - Sancerre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "les remparts - rem des abreuvoird",
+    "address": "rem des abreuvoird - SANCERRE",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Sancerre",
+    "address": "Rue Creuse, - Sancerre",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine Joseph Mellot",
+    "address": "Route de Ménétréol - D920 - Sancerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - 8 rue de la Resistance",
+    "address": "10A Rue de la Résistance - Saint-Satur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE18 - Route de Sancerre - Henrichemont",
+    "address": "22 Route de Sancerre - Henrichemont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Au Grés des Ouches (Tesla)",
+    "address": "2 Grande rue - Morogues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "place de la mairie - Route de Chevaise - Assigny",
+    "address": "18 Route de Chevaise - Assigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energie - A77 Aire des Vignobles (double sens)",
+    "address": "A77 - Tracy sur loire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

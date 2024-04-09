@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Powaa Montaigut",
+    "address": "5 Rue saint roch - Montaigut",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Éloy-les-Mines",
+    "address": "4 Rue du Puits du Manoir - Saint-Éloy-les-Mines",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 167 Rue Jean Jaurès",
+    "address": "167 Rue Jean Jaurès - Saint-Éloy-les-Mines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE03 - Commentry",
+    "address": "Rue Auguste Blanqui - Commentry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Lavoisier - Commentry",
+    "address": "Rue Lavoisier - Commentry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 25 Route de la Brande - Malicorne",
+    "address": "25 Route de la Brande - Malicorne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Montmarault (Place du 8 mai 1945)",
+    "address": "Boulevard Tourret - Montmarault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargepoint - Hôtel de France - Montmarault",
+    "address": "1 Rue Marx Dormoy - Montmarault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Pionsat",
+    "address": "21 Route Lafayette - Pionsat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hostellerie du Centrotel et Spa - Montmarault",
+    "address": "26 Route de Moulins - Montmarault",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

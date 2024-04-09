@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - Rue Émile Dourdet - Sauviat-sur-Vige",
+    "address": "2 Rue Émile Dourdet - Sauviat-sur-Vige",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Qovoltis/443",
+    "address": "Le Vignaud du Haut - La Jonchère-Saint-Maurice",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auberge st Martin",
+    "address": "1 Le Bourg - Saint-Martin-Terressus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place du 8 Mai 1945 - Saint-Sulpice-Laurière",
+    "address": "Place du 8 Mai 1945 - Saint-Sulpice-Laurière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte Le Déserteur Saint Martin Terresus",
+    "address": "11 Le Bost - Saint-Martin-Terressus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue du Général de Gaulle - Ambazac",
+    "address": "55 Avenue du Général de Gaulle - Ambazac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Gare d'Ambazac",
+    "address": "1 Place de la Gare - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Place du 19 Mars 1962",
+    "address": "5 Avenue Général de Gaulle - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sdec - Rue de l'Étang - Bourganeuf",
+    "address": "Rue de l'Étang - Bourganeuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Route de la Cascade - Bourganeuf",
+    "address": "Route de la Cascade - Bourganeuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

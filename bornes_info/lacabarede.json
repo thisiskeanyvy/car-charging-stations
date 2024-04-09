@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDET (Révéo) - Avenue de la Ribaute - Albine",
+    "address": "Avenue de la Ribaute - Albine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET (Révéo) - Boulevard Carnot - Labastide-Rouairoux",
+    "address": "Boulevard Carnot - Labastide-Rouairoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allée de la Traverse - Saint-Amans-Soult",
+    "address": "Allée de la Traverse - Saint-Amans-Soult",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET - Anglès",
+    "address": "D 52 - Angles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "LE SOMAIL",
+    "address": "2 Avenue de Castres - Saint-Pons-de-Thomières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Foiralet - Saint-Pons-de-Thomières",
+    "address": "Rue du Foiralet - Saint-Pons-de-Thomières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo Pont de Larn",
+    "address": "Place du Moulin - Pont-de-Larn",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "King jouet - Bout-du-Pont-de-Larn",
+    "address": "Route de Toulouse À Agde - Bout-du-Pont-de-Larn",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - E. Leclerc - Bout-du-Pont-de-Larn",
+    "address": "D 54 - Bout-du-Pont-de-Larn",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre Auto E.Leclerc - RN 112 - Bout-du-Pont-de-Larn",
+    "address": "- Centre Auto E.Leclerc - RN 112 - Bout-du-Pont-de-Larn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

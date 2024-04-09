@@ -1,0 +1,134 @@
+[
+  {
+    "title": "PassPass - Parking la poste",
+    "address": "18 Rue des Frères Roucheau - Marpent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electromaps S.L. - Jeumont - 324 Rue Gabriel Péri",
+    "address": "324 Rue Gabriel Péri - Jeumont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Mairie - Jeumont PassPass",
+    "address": "Résidence Foch Rue Latérale - Jeumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Mairie de Jeumont Site Espace Jacques Brel - Jeumont - 81 Rue des Anciens d'Afrique du Nord",
+    "address": "81 Rue des Anciens d'Afrique du Nord - Jeumont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Intermarché - Jeumont SUPPRIMÉ",
+    "address": "818 Rue du Maréchal Leclerc - Jeumont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Jeumont",
+    "address": "201bis Rue Victor Basch - Jeumont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "PassPass - Mairie de Boussois",
+    "address": "3 Rue du Ponceau - Boussois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Place de Nice - Recquignies",
+    "address": "Place de Nice - Recquignies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'europe - Colleret",
+    "address": "Place de l'Europe - Colleret",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Chemin de Merbes-Sainte-Marie - Erquelinnes",
+    "address": "1 Chemin de Merbes-Sainte-Marie - Erquelinnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

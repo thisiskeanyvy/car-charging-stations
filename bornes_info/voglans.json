@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SoWatt - Aéroport de Voglans",
+    "address": "260 Route de l'Aéroport - Voglans",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Metro - Rue de la Dent du Chat - Voglans",
+    "address": "88 Rue de la Dent du Chat - Voglans",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ASL SUPERNOV - La Motte-Servolex",
+    "address": "128 Avenue du Lac Léman - La Motte-Servolex",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SoWatt - MG Motors - Chambéry",
+    "address": "11 Rue de la Dent du Chat - Voglans",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDES73 - Avenue du Lac Léman La Bourget du Lac",
+    "address": "1 Avenue du Lac Léman - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Maurice Herzog - Mery",
+    "address": "101 Rue Maurice Herzog - Mery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking savoie technolac",
+    "address": "1 Avenue du Lac Léman - Le Bourget-du-Lac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.I. la Françon-Prégaut",
+    "address": "256 Rue Pré Gaut - Voglans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 1 Allée du Lac de Tignes - La Motte-Servolex",
+    "address": "1 Allée du Lac de Tignes - La Motte-Servolex",
+    "connectors": [
+      "x40",
+      "x40"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Mazda - Voglans",
+    "address": "Rue de la Prairie - Voglans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

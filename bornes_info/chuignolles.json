@@ -1,0 +1,136 @@
+[
+  {
+    "title": "FDE80 - Rue de Mesmy Harbonnières",
+    "address": "18 Rue de Mesmy - Harbonnières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 - 17 rue de Moreuil - Sailly-Laurette",
+    "address": "17 rue de Moreuil - Sailly-Laurette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Ruelle de Berny - Estrées-Deniécourt",
+    "address": "4 Ruelle de Berny - Estrées-Deniécourt",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A1 Aire des Cœurs de Hauts de France Ouest",
+    "address": "7 D 4164 - Assevillers",
+    "connectors": [
+      "x4",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - A1 Aire de Cœur des Hauts-de-France Ouest (direction Paris)",
+    "address": "1 Aire de Cœur des Hauts-de-France - Assevillers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A1 Aire de Coeur des Hauts de France Est (direction Lille)",
+    "address": "1 A1 - Assevillers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x3",
+      "x11"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Route de la Gare - Estrées-Deniécourt",
+    "address": "Route de la Gare - Estrées-Deniécourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDE80 - Rue Curie - Rosières-en-Santerre",
+    "address": "Rue Curie - Rosières-en-Santerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne - Place du Maréchal Leclerc",
+    "address": "13 Place du Maréchal Leclerc - Rosières-en-Santerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Route de Morlancourt - Méaulte",
+    "address": "2a Route de Morlancourt - Méaulte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

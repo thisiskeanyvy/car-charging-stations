@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Lidl - Hettange-Grande",
+    "address": "5 Rue Charles Ferdinand - Hettange-Grande",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "E-Totem - Thionville - Rue des Tisserands",
+    "address": "Rue des Tisserands - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôpital mère enfants- Bel Air - Thionville",
+    "address": "3 Rue du Friscaty - Thionville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Rue du Friscaty - Thionville",
+    "address": "1 Rue du Friscaty - Thionville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EFFIA - Taxi Bel Air - Thionville",
+    "address": "2 Rue du Friscaty - Thionville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Thionville",
+    "address": "5 Chaussee d'Amerique - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Thionville - 12 Rue Molière",
+    "address": "12 Rue Molière - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Thionville - 4 Avenue de Douai Parking du cimetière",
+    "address": "4 Avenue de Douai Parking du cimetière - Thionville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - CNPE de Cattenom (Parking Chadwick 1)",
+    "address": "CNPE de Cattenom - Cattenom",
+    "connectors": [
+      "x9",
+      "x3",
+      "x48",
+      "x48",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - CNPE de Cattenom (Parking Chadwick 2)",
+    "address": "CNPE de Cattenom - Cattenom",
+    "connectors": [
+      "x48",
+      "x48",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

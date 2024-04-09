@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SymielecVar - Impasse des Romarins - Pourrieres",
+    "address": "30 Impasse des Romarins - Pourrières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Pourcieux - Gustave Aubert",
+    "address": "49 Rue de la Gare - Pourcieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - Parking Les Vertus",
+    "address": "place des vertus - Puyloubier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA6 - Trets - Chemin de la Seignière RESIDENCE OLYMPE",
+    "address": "Chemin de la Seignière RESIDENCE OLYMPE - Trets",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Trets - Place de la Libération",
+    "address": "Place de la Libération - Trets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargeGuru - Centre Médical de la Burlière - Trets",
+    "address": "5 ZAC la Burlière - Trets",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - A8 Aire de l'Arc (direction Cannes)",
+    "address": "0 La Provençale - Trets",
+    "connectors": [
+      "x3",
+      "x3",
+      "x7",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare routière - Avenue René Cassin - Trets",
+    "address": "7 Avenue René Cassin - Trets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A8 Aire de Rousset (direction Aix-en Provence)",
+    "address": "A8, Aire de Rousset - Rousset",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking - Rue Fabre - Rousset",
+    "address": "1–26 Rue Fabre - Rousset",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

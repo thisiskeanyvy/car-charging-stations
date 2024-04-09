@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Impasse du Pré Barthélémy - Épierre",
+    "address": "38 Impasse du Pré Barthélémy - Épierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Cernay",
+    "address": "Le Cernay - Montsapey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt Solutions - Carrefour Contact - Val-d'Arc",
+    "address": "97 Grande Rue - Val-d'Arc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Aiton - Pont d'Aiton Bourgneuf",
+    "address": "D925 - Bourgneuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Maurienne French Alps - Saint-François-Longchamp en face du centre balnéaire",
+    "address": "35 Rue des 4 Vallées - Saint-François-Longchamp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - D204 Chamousset",
+    "address": "2 D204 - Chamousset",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Villard-Sallet",
+    "address": "Garage Mosca - Villard-Sallet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CHEZ JOGO",
+    "address": "41 chemin du mollard - CHAMOUSSET",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A43 - Aire d'Arclusaz (direction Montmelian)",
+    "address": "Aire d'Arclusaz - Châteauneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - A43 - Val Gelon (direction Albertville)",
+    "address": "13 E70 - Chateauneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

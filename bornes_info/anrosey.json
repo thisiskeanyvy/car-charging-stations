@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDED52 - Place de l'Église - Varennes sur Amance",
+    "address": "Place de l'Église - Varennes sur Amance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Grande Rue - Fayl-Billot",
+    "address": "34 Gr Grande Rue - Fayl-Billot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Taxi Jacquinot Jean - Montigny-lès-Cherlieu",
+    "address": "Grande Rue - Montigny-lès-Cherlieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*EFL - Melay - Rue de Moges 19",
+    "address": "Rue de Moges 19 - Melay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clocheton - Rue Amiral Pierre DOUBLON",
+    "address": "30 Rue Amiral Pierre - Bourbonne-les-Bains",
+    "connectors": [
+      "x2",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Bourbonne Les Bains - Parking Clocheton",
+    "address": "Parking Clocheton - Bourbonne Les Bains",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borne camping car - Jussey",
+    "address": "17 Rue de l'Hospice - Jussey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Place du Champ de foire - Jussey",
+    "address": "2 Place du Champ de Foire - Jussey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat d'Energie et des Déchets de Haute Marne (SDED52) - Rue Diderot - Chalindrey",
+    "address": "Rue Diderot - Chalindrey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A31 Aire du Val de Meuse (direction Nancy)",
+    "address": "A31, Aire du Val de Meuse - Val-de-Meuse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

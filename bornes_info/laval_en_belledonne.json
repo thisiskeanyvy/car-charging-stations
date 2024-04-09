@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEDI - Parking de la Mairie - Rd 59 Laval",
+    "address": "54 rue de la mairie - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "avenue de la Chantourne 10 38190 VILLARD-BONNOT",
+    "address": "avenue de la Chantourne 10 - VILLARD-BONNOT",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Les Adrets-Village",
+    "address": "D250 - Les Adrets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mairie - Les Adrets",
+    "address": "1 Unnamed Road - Les Adrets",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Casino Supermarché - Crolles",
+    "address": "1824 rue de belledone - Crolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Espace Aragon - Villard-Bonnot",
+    "address": "Boulevard Jules Ferry - Villard-Bonnot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "VW Jean Lain",
+    "address": "967 Avenue Ambroise Croizat - Crolles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Crolles",
+    "address": "431 Avenue Ambroise Croizat - Crolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Biocoop - 276 Rue du Pré Blanc",
+    "address": "276 Rue du Pré Blanc - Crolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Crolles",
+    "address": "12-130 Rue du Moulin - Crolles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

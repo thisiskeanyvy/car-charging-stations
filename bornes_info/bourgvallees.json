@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEM50 - Rue de Carbonnel - Canisy",
+    "address": "18 Rue de Carbonnel - Canisy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Boucherie Mauger",
+    "address": "2 rue de la mairie - Moyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Saint-Lô - Maison du Département",
+    "address": "59 Voie de la Liberté - Saint-Lô",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Saint-Lô - 715 Rue Henri Dunant",
+    "address": "715 Rue Henri Dunant - Saint-Lô",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Lô | Rue de Normandie 74",
+    "address": "74 Rue de Normandie - Saint-Lô",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Agneaux",
+    "address": "1 Parc de L'Odyssee - Agneaux",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - BMW Envergure - Saint Lô",
+    "address": "Rond point de Baudre - Saint Lô",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEM50 - Rue St Martin - Condé-sur-Vire",
+    "address": "Rue Saint-Martin - Condé-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sevdec - McDonald's - Saint Lô",
+    "address": "69 Rue Jean Monnet - Saint-Lô",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - route Neuve - conde sur vire",
+    "address": "route Neuve - conde sur vire",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

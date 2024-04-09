@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Proviridis - Rue de l'Argentique - Fragnes-la-Loyère",
+    "address": "14 Rue de l'Argentique - Fragnes-la-Loyère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Proviridis - Fragnes-La Loyère - 14 Rue de l'Argentique",
+    "address": "14 Rue de l'Argentique - Fragnes-La Loyère",
+    "connectors": [
+      "x1",
+      "x6",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mairie de Gergy",
+    "address": "41 Grande Rue - Gergy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proviridis - Chalon-sur-Saône - Pâte à Choux",
+    "address": "7 Rue Paul Sabatier - Chalon-sur-Saône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 9 rue Paul Sabatier - Chalon-sur-Saône",
+    "address": "9 rue Paul Sabatier - Chalon-sur-Saône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Chalon-sur-Saône",
+    "address": "6 Rue Paul Sabatier - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Chalon-sur-Saône",
+    "address": "2 Rue Benjamin Baillaud - Chalon-sur-Saône",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Netto - Châtenoy-en-Bresse",
+    "address": "Zone Activité Champ Chassy - Châtenoy-en-Bresse",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Départementale des Solidarités Chalon Est",
+    "address": "52 Rue Pierre Deliry - Chalon-sur-Saône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Hotel Ibis Chalon Nord",
+    "address": "Rue Paul Vachet - Chalon-sur-Saône",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

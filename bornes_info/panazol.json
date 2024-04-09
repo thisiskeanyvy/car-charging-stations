@@ -1,0 +1,136 @@
+[
+  {
+    "title": "TotalEnergies - PANAZOL - Renault",
+    "address": "2 AVENUE PIERRE COT - PANAZOL",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue d'Eymoutiers - Feytiat",
+    "address": "1 Carr Fernand Malinvaud - Feytiat",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - Hôtel Kyriad Limoges Feytiat",
+    "address": "2 Rue Louis Blériot Hôtel Kyriad Limoges Feytiat - Feytiat",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Allego - Géant Casino - Limoges",
+    "address": "38 Avenue des Casseaux - Limoges",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Rue de Feytiat - Limoges",
+    "address": "111 Rue de Feytiat - Limoges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.A.E. de Bellevue",
+    "address": "111 Rue de Feytiat - Limoges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Limoges",
+    "address": "123 Rue de Feytiat - Limoges",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Chez Sylvain - Feytiat",
+    "address": "2 Allée d'Italie - Feytiat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hotel Kyriad Limoges Centre Gare",
+    "address": "22 Allée de Séto - Limoges",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Super U (parking aérien) - Feytiat",
+    "address": "Rue Frédéric Legrand - Feytiat",
+    "connectors": [
+      "x5",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

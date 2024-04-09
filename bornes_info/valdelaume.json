@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Alterbase - Bouin - Grande rue",
+    "address": "Grande Rue - Bouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Chef Boutonne - Mairie",
+    "address": "Place Cail - Chef-Boutonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "AlterBase Séolis - Chef Boutonne - Stade",
+    "address": "Avenue du Président Kennedy - Chef-Boutonne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FR*LDL - La Chataigneraie - Avenue du Gén de Gaulle",
+    "address": "Avenue du Gén de Gaulle - La Chataigneraie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau AlterBase - Aubigné - Mairie",
+    "address": "Rue Saint Cybard le Bourg - Aubigné",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis – Sauzé-Vaussais – Pôle Médical",
+    "address": "45 Rue Treille Bourgeau - Sauzé-Vaussais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "AlterBase Séolis - Clussais la Pommeraie - Salle des Fêtes",
+    "address": "D948 - Clussais-la-Pommeraie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Electricité et de Gaz de Charentes (SDEG16) - Rue du Chant du Coq - Saint-Fraigne",
+    "address": "Rue du Chant du Coq - Saint-Fraigne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Marcillé - 2 Rue De La Mairie",
+    "address": "2 Rue De La Mairie - Marcillé",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Place de L'Ancienne Mairie - Courcôme",
+    "address": "Place de L'Ancienne Mairie - Courcôme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

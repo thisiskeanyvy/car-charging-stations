@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEHG - Foirail - Aurignac",
+    "address": "Traverse du Foirail - Aurignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Ecole Boussens",
+    "address": "4 Avenue du Pré Commun - Boussens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Maison d’hôtes l’Escalère",
+    "address": "1 L'Escalere - Arnaud-Guilhem",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Martres-Tolosane - Super U",
+    "address": "62 Avenue Des Pyrénées - Martres-Tolosane",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Super U Martres-Tolosane",
+    "address": "Avenue des Pyrénées - Martres-Tolosane",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Netto - Saint-Martory",
+    "address": "807 Avenue des Époux Saint-Martin Latrille - Saint-Martory",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie - Martres-Tolosane",
+    "address": "2B Rue du Pages - Martres-Tolosane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEHG - Beauchalot PdCD (PLWY)",
+    "address": "Le Village - Beauchalot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V3 - Saint-Gaudens",
+    "address": "14 Avenue du Crabere - Estancarbon",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc - Estancarbon",
+    "address": "19 Boulevard des Landes - Estancarbon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

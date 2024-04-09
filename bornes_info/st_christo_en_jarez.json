@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Parking salle saint louis - Saint-Christo-en-Jarez",
+    "address": "7 Place de la Liberté - Saint-Christo-en-Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Guichard",
+    "address": "106 route de la Combe - Saint-Christo-en-Jarez",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mobiloire - Rue Suel Picat",
+    "address": "100 Rue Suel Picat - Saint-Romain-en-Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking MJC centre de Fontanes",
+    "address": "2 Chemin du Cadran Solaire - Fontanes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place de Verdun - Cellieu",
+    "address": "6 Place de Verdun - Cellieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A47 Aire du Pays du Giers",
+    "address": "A47 - AIRE DU PAYS DU GIERS - SAINT CHAMOND",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - Saint-Chamond - Campanile",
+    "address": "A47, Aire du Pays du Gier ZAC du Bourbon, Sortie n°15 - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-Totem - A47 Aire du Pays du Gier - Saint-Chamond",
+    "address": "A47 Aire du Pays du Gier - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking Sorbiers bourg",
+    "address": "2 Rue Claudius Remilleux - Sorbiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking val d'Onzon - Sorbiers",
+    "address": "23 Rue des Roseaux - Sorbiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

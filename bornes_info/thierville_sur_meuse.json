@@ -1,0 +1,128 @@
+[
+  {
+    "title": "EVBox - Artech RJ55 Route de Varennes 6 - Thierville-sur-Meuse",
+    "address": "Route de Varennes 6 - Thierville-sur-Meuse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - ZEI DU WAMEAU null - BELLEVILLE SUR MEUSE",
+    "address": "ZEI DU WAMEAU null - BELLEVILLE SUR MEUSE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Belleville-sur-Meuse",
+    "address": "2 Rue Jean-Claude Duret - Belleville-sur-Meuse",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "groupe MORETTO - Belleville-sur-Meuse",
+    "address": "1 Rue Jean-Claude Duret - Belleville-sur-Meuse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FFB55 - Avenue Du Général De Gaulle",
+    "address": "26 Avenue Du Général De Gaulle - Verdun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA - Belleville-sur-Meuse - Francis BELIME",
+    "address": "2 Rue du Bataillon 12 - Belleville-sur-Meuse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Belleville sur Meuse - Maginot",
+    "address": "23 Rue du Général de Gaulle - Belleville-sur-Meuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Belleville-sur-Meuse",
+    "address": "Rue du Bataillon 12 - Belleville-sur-Meuse",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Verdun - Leclerc",
+    "address": "5 Avenue Du Colonel Driant - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - 5 Avenue du Colonel Driant - Verdun",
+    "address": "8 Rue des Cosaques - Verdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

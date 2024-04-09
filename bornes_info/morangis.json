@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Salle Mairie",
+    "address": "12 Avenue de la République - Morangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 2 Rue de l'Église - Morangis",
+    "address": "2 Rue de l'Église - Morangis",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking Mairie Morangis",
+    "address": "2 Rue du Général Leclerc - Morangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Services techniques municipaux",
+    "address": "20 Rue de Wissous - Morangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - parking Cosec - Morangis",
+    "address": "8 rue Colette Besson (en face du) - Morangis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - Ford - AVENUE CHARLES DE GAULLE 65 - MORANGIS",
+    "address": "AVENUE CHARLES DE GAULLE 65 - MORANGIS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIGEIF - Avenue Aristide Briand - Morangis",
+    "address": "88 Avenue Aristide Briand - Morangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Morangis",
+    "address": "81 Avenue Charles De Gaulle - Morangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMOYS - Mairie de Chilly-Mazarin",
+    "address": "7 Avenue Charles de Gaulle - Chilly-Mazarin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sport 2000 - Avenue Evariste Gallois",
+    "address": "2 Avenue Evariste Gallois - Morangis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

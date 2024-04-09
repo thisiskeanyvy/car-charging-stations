@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEGO - Station Frossay \"Mairie\"",
+    "address": "2 Rue du Cap Robert Martin - Frossay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Cordemais - Rue des Sports",
+    "address": "Rue des Sports - Cordemais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue du Parc des Sports - Saint-Viaud",
+    "address": "1 Rue du Parc des Sports - Saint-Viaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO Station Cordemais (Avenue des Quatre Vents)",
+    "address": "7 Avenue des Quatre Vents - Cordemais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Domaine de Port Sinan",
+    "address": "Port Sinan - Rouans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO - Route de Pazanne, 1 - Rouans",
+    "address": "2 Route de Pazanne - Rouans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sydego Paimboeuf",
+    "address": "8 Quai Sadi Carnot - Paimbœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sydégo - Saint-Père-en-Retz",
+    "address": "21 Place du Marché - Saint-Père-en-Retz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de la Mairie - Corsept",
+    "address": "Rue de la Mairie - Corsept",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - D78, Petite Mouchefaite - Saint-Père-en-Retz",
+    "address": "5 La Cagassais - Saint-Père-en-Retz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

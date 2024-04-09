@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Essay - Rue Roederer",
+    "address": "Rue Roederer - Essay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Place de la 2ème DB Sées",
+    "address": "Place de la 2ème Db - Sées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage Citroën Provost",
+    "address": "1 Rue des Sainfoins - Courtomer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place charles de Gaulle - Le Mêle-sur-Sarthe",
+    "address": "Place du Gén de Gaulle - Le Mêle-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Place de l'église - Mortrée",
+    "address": "6 Place de l'Église - Mortrée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SE61 - Avenue Résidence du Lac - Coulonges-sur-Sarthe",
+    "address": "Avenue Résidence du Lac - Coulonges-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place de la Mairie - Courtomer",
+    "address": "Place de la Mairie - Courtomer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Saint-Julien-sur-Sarthe - 30 Rue de Paris",
+    "address": "30 Rue de Paris - Saint-Julien-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A28 Aire de la Dentelle d'Alençon (double sens)",
+    "address": "4 Aire de la Dentelle - Valframbert",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargeguru - BMW Mercure Automobiles - Valframbert",
+    "address": "1 Impasse Joan Miro - Valframbert",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

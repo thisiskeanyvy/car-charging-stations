@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - 18 Route des Côtes - L'Horme",
+    "address": "18 Route des Côtes - L'Horme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Saint Chamond",
+    "address": "18 Boulevard de Fonsala - Saint-Chamond",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Boulevard de Fonsala - Saint-Chamond",
+    "address": "18 Boulevard de Fonsala - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco pour Fiat - 14 Rue du Garat - L'Horme",
+    "address": "14 Rue du Garat - L'Horme",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ICAR PEUGEOT - Saint-Chamond",
+    "address": "1 Rue de la Maladière - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - A47 Aire du Pays du Gier - Saint-Chamond",
+    "address": "A47 Aire du Pays du Gier - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - A47 Aire du Pays du Giers",
+    "address": "A47 - AIRE DU PAYS DU GIERS - SAINT CHAMOND",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - Saint-Chamond - Campanile",
+    "address": "A47, Aire du Pays du Gier ZAC du Bourbon, Sortie n°15 - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint-Chamond",
+    "address": "4 Rue de la Réclusière - Saint-Chamond",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue des Anciens Combattants - Saint-Paul-en-Jarez",
+    "address": "4 Place du Suel - Saint-Paul-en-Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

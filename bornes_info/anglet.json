@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEPA (MobiVE) - Parking Services Municipaux",
+    "address": "5 Rue du 8 Mai - Anglet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place de Quintaou - Anglet",
+    "address": "Allée de Quintaou - Anglet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Kyriad - Altica Bayonne - Allée du Cadran - Anglet",
+    "address": "10 Allée du Cadran - Anglet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "89 Rue des Cinq Cantons",
+    "address": "89 Rue des Cinq Cantons - Anglet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Anglet - Novotel",
+    "address": "68 Avenue D' Espagne - Anglet",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia-Express - Leclerc - Anglet",
+    "address": "52 Rue Du Bois Belin - Anglet",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA (MobiVE) - 21 Avenue du Polo - Bayonne",
+    "address": "21 Avenue du Polo - Bayonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Leclerc Location Anglet",
+    "address": "7 Rue de Loustalot - Anglet",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Anglet",
+    "address": "Av. Jean Léon Laporte - Anglet",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEPA (MobiVE) - 4 Rue Paul Courbin - Anglet",
+    "address": "4 Rue Paul Courbin - Anglet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

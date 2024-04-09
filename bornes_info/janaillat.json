@@ -1,0 +1,120 @@
+[
+  {
+    "title": "La Maison bleue - gite rural",
+    "address": "11 Lieu- dit Ribeyrolle - SARDENT",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Place Saint-Blaise - Pontarion",
+    "address": "Place Saint-Blaise - Pontarion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Place de Villers - Bénévent-l'Abbaye",
+    "address": "10 Avenue de la Marche - Bénévent-l'Abbaye",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Bénévent-l'Abbaye - 10 Place de Villers",
+    "address": "10 Place de Villers - Bénévent-l'Abbaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Office du tourisme - Bourganeuf",
+    "address": "8 Place du Champ de Foire - Bourganeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Rue de l'Étang - Bourganeuf",
+    "address": "Rue de l'Étang - Bourganeuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Route de la Cascade - Bourganeuf",
+    "address": "Route de la Cascade - Bourganeuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc des loups de chabrières",
+    "address": "Badant - Sainte-Feyre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LE GRAND BOURG - PLACE DU CHAMP DE FOIRE",
+    "address": "D4 - Le Grand-Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Base de loisirs de Courtille - Guéret",
+    "address": "28 D914 - Guéret",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

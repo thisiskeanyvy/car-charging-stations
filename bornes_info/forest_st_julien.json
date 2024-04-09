@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Syme05 - Haute plaine - Chabottes",
+    "address": "Route d'Orcières - Chabottes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place des Fayores",
+    "address": "Chemin du pinauteau - Saint Michel de Chaillol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - N 85 Route de Grenoble - La Fare-en-Champsaur",
+    "address": "Route de Grenoble - La Fare-en-Champsaur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Rue du 11 Novembre - Saint-Bonnet-en-Champsaur",
+    "address": "Rue du 11 Novembre - Saint-Bonnet-en-Champsaur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syme05 - Parking rue Faudon",
+    "address": "12B Rue Faudon - Saint-Bonnet-en-Champsaur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Rue de l'École - Ancelle",
+    "address": "Rue de l'École - Ancelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Suzuki - Gap",
+    "address": "109 Route de Briançon - Gap",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Ford - 105 Route de Briançon - Gap",
+    "address": "105 Route de Briançon - Gap",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox camping Alpes Dauphiné",
+    "address": "1 La Descente - Gap",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Pont du Fossé - Saint-Jean-Saint-Nicolas",
+    "address": "Pont du Fossé - Saint-Jean-Saint-Nicolas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

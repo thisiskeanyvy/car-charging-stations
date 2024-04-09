@@ -1,0 +1,138 @@
+[
+  {
+    "title": "DRIVECO - Allée de Ninu - Bastia",
+    "address": "Allée de Ninu - Bastia",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 1",
+      "Type 3C",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - Furiani",
+    "address": "Centre commercial la Rocade RN 193, - Furiani",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Géant Casino - Furiani",
+    "address": "522 Chemin de Monte Carlo - Furiani",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Motum - Géant Casino - Furiani",
+    "address": "1 Route du Village - Furiani",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mercedes - Furiani",
+    "address": "2286 Avenue Sampiero Corso - Furiani",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ets BIANCHI - Furiani (Privé)",
+    "address": "2552 Avenue Sampiero Corso - Furiani",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hôtel Restaurant Ostella - Bastia",
+    "address": "Avenue Sampiero Corso - bastia",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc Grand Bastia Montesoro",
+    "address": "1370 Avenue Sampiero Corso - Bastia",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Kia RN 193 - Furiani",
+    "address": "RN 193 Arsillone - Furiani",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Avenue Sampiero Corso - Furiani",
+    "address": "1502 Avenue Sampiero Corso - Furiani",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

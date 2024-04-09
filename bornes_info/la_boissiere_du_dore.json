@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEML - Landemont - Rte De St Sauveur",
+    "address": "Route de Saint-Sauveur - Landemont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Place Saint-Joseph, 11 - La Regrippière",
+    "address": "11 Place Saint-Joseph - La Regrippière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - 20 Rue des Mauges - Orée d'Anjou",
+    "address": "20 Rue des Mauges - Orée d'Anjou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - SAINT LAURENT DES AUTELS - Rue Du Maroni",
+    "address": "2 Rue du Maroni - Saint-Laurent-des-Autels",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue des Petites Noues, 3 - Barbechat",
+    "address": "3 Rue des Petites Noues - Barbechat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - Rue des Moulins, 13 - Le Landreau",
+    "address": "13 Rue des Moulins - Le Landreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Boulevard Stéphane Pusterle, 11 - Vallet",
+    "address": "11 Boulevard Stéphane Pusterle - Vallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Rue Emile Gabory - Vallet",
+    "address": "22 Rue Emile Gabory - Vallet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault Vallet",
+    "address": "36 Avenue du Général Heurtaux - Vallet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - LE FUILET - Parking Huit à Huit",
+    "address": "Rue des Mauges - Montrevault-sur-Èvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

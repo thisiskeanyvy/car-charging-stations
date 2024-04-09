@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Ecar18 - Rue de la Gaucherie Vierzon",
+    "address": "8-34 Rue de la Gaucherie - Vierzon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Arche Hotel - Rue du 11 Novembre - Vierzon",
+    "address": "13 Rue du 11 Novembre 1918 - Vierzon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Gare de Vierzon",
+    "address": "Place de la gare - Vierzon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - 39 avenue Jean Jaurès - Vierzon",
+    "address": "39 avenue Jean Jaurès - Vierzon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vierzon - Leclerc",
+    "address": "1 Rue Du Mouton - Vierzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO Kia - Avenue Maréchal Jean de Lattre de Tassigny",
+    "address": "63 Avenue Maréchal Jean de Lattre de Tassigny - Vierzon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue Eugène Pottier - Vierzon",
+    "address": "6 Rue Eugène Pottier - Vierzon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Pôle d'Activités - Vierzon",
+    "address": "Route de Vieilfond - Vierzon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Vierzon",
+    "address": "Le Batonet - Vierzon",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Monta - Vierzon - Rue Pierre et Jean Serpaud",
+    "address": "Rue Pierre et Jean Serpaud - Vierzon",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

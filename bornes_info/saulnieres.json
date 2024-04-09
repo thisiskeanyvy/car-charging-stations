@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE28 - Grande Rue - Tréon",
+    "address": "Grande Rue - Tréon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Modulo Energies - Mairie de Garnay",
+    "address": "place de la mairie - Garnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Place du 8 Mai 1945 - Vernouillet",
+    "address": "Place du 8 Mai 1945 - Vernouillet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Châteauneuf-en-Thymerais (Place des Halles)",
+    "address": "23 Rue Maurice Viollette - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Esplanade du 8 mai 1945 - Vernouillet",
+    "address": "Esplanade du 8 mai 1945 - Vernouillet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Vernouillet (av. Marc Chappey)",
+    "address": "16 Avenue Marc Chappey - Vernouillet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "address": "Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre commercial Plein Sud - Hyper U",
+    "address": "154 Rue de Bruxelles - Vernouillet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Vernouillet (Rue de Rome)",
+    "address": "1 Rue de Rome - Vernouillet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vernouillet",
+    "address": "2 Rue Joseph Bulet - Vernouillet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

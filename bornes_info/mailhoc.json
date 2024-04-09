@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Les2cabanes - Chemin de la Garriguié - Labastide-Gabausse",
+    "address": "1235 Chemin de la Garriguié - Labastide-Gabausse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Place Émile Grand - Cagnac-les-Mines",
+    "address": "Place Émile Grand - Cagnac-les-Mines",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - Avenue d'Albi - Blaye-les-Mines",
+    "address": "154 Avenue d'Albi - Blaye-les-Mines",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U Blaye les mines",
+    "address": "150 Avenue d'Albi - Blaye-les-Mines",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - 2 Route de Villeneuve",
+    "address": "2 Route de Villeneuve - Cestayrols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - rue Sicard Alaman - RD1 côté Albi",
+    "address": "Rue Sicard Alaman - Castelnau-de-Lévis",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - parking place du Foirail - Monestiés",
+    "address": "Place du Foirail - Monestiés",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Najeti - ZI du Pré Grand Chemin des Acacias - Carmaux",
+    "address": "ZI du Pré Grand Chemin des Acacias - Carmaux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Réserve (Tesla)",
+    "address": "81 Route de Cordes - Albi",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Boulevard Augustin Malroux - Carmaux",
+    "address": "60 Boulevard Augustin Malroux - Carmaux",
+    "connectors": [
+      "x5",
+      "x4",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

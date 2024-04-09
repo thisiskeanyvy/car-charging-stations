@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEF - Cléder (Place Charles de Gaulle)",
+    "address": "Rue du Plouescat - Cléder",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "6 bis Rue Creac'h Piquet",
+    "address": "6 bis Rue Creac'h Piquet - Cléder",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Rue du Port Sibiril",
+    "address": "685 Rue du Port - Sibiril",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ouest Charge - Venelle du Mechou - Plouescat",
+    "address": "Venelle du Mechou - Plouescat",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDEF - Plouzévédé (Place du Champ de Foire)",
+    "address": "Place du Champ de Foire - Plouzévédé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Santec (Place de Mescren)",
+    "address": "1 Place Mescren - Santec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Saint-Pol-de-Léon - McDonalds",
+    "address": "ZA de Kerranou - Saint-Pol-de-Léon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ouest Charge - Saint-Pol-de-Léon - Aire de Covoiturage Kerglaz Saint-Pol",
+    "address": "18 Rue de Kerglaz - Saint-Pol-de-Léon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - E Leclerc St.-Pol-de-Léon",
+    "address": "81 Rue De Brest - Saint-Pol-de-Léon",
+    "connectors": [
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Bricomarché - St.-Pol-de-Léon",
+    "address": "21 Rue Joseph Kersebet - Saint-Pol-de-Léon",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

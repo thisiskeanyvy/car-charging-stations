@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE07 - Place Andre Pic - Saint-Péray",
+    "address": "1B Place André Pic - Saint-Péray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*WA5 - Saint-Péray - 14 Avenue du 11 Novembre",
+    "address": "14 Avenue du 11 Novembre - Saint-Péray",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Aire de covoiturage la Maladière",
+    "address": "2 Rue Roland Garros - Saint-Péray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "eborn - Avenue du Colonel Rousset - Cornas",
+    "address": "Avenue du Colonel Rousset - Cornas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Auchan - Avenue de la République - Valence",
+    "address": "1449 Avenue de la République - Guilherand-Granges",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Garage Philippe",
+    "address": "Chemin des Mulets - Guilherand-Granges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Avenue Georges Clemenceau - Guilherand-Granges",
+    "address": "Avenue Georges Clemenceau - Guilherand-Granges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CNR - Route de Valence Soyons",
+    "address": "Rue des Sabotiers - Soyons",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CNR - Route de la Roche de Glun - Bourg-les-Valence",
+    "address": "91 Route de la Roche de Glun - Bourg-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Boulevard Charles de Gaulle - Guilherand-Granges",
+    "address": "Boulevard Charles de Gaulle - Guilherand-Granges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Nissan - Montélimar",
+    "address": "102 route de Valence - Montélimar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Montélimar",
+    "address": "102 route de Valence - Montélimar",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Montélimar",
+    "address": "14 Rue Roger Morin - Montélimar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Montélimar",
+    "address": "Avenue Des Catalins - Montélimar",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue Chevriere - Meysse",
+    "address": "Rue Chevrière - Meysse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Avenue du Verseau - Centre Nucléaire de Cruas-Meysse",
+    "address": "D 86 - Cruas",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 9 Rue de la Pradal - Montélimar",
+    "address": "9 Rue de la Pradal - Montélimar",
+    "connectors": [
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saint Martin",
+    "address": "Avenue du 45e Régiment de Transmissions - Montélimar",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - 2 Boulevard du Pêcher - Montélimar",
+    "address": "2 Boulevard du Pêcher - Montélimar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Beausoleil",
+    "address": "14bis Boulevard du Pêcher - Montélimar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

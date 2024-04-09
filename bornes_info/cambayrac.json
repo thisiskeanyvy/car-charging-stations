@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE82 - Place du foirail, 4 - Parisot",
+    "address": "4 Place du foirail - Parisot",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Place Du Sol Del Barry",
+    "address": "Rue du Sol de la Dime - D 39 - Najac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEDA - Zone Artisanale du lac - Intermarché",
+    "address": "41 Chemin du Communal - La Fouillade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Villefranche-de-Rouergue",
+    "address": "Route De Montauban - Villefranche-de-Rouergue",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Villefranche de Rouergue",
+    "address": "Route de Montauban - Villefranche-de-Rouergue",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Place de la Bascule Caylus",
+    "address": "3 Place de la Bascule - Caylus",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Villefranche De Rouergue",
+    "address": "670 route Montauban - Villefranche De Rouergue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Varen",
+    "address": "1860 D958 - Varen",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA - Parking des Ruelles - Villefranche-de-Rouergue",
+    "address": "17 Traverse des Ruelles - Villefranche-de-Rouergue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Morlhon-le-Haut - Route du Lac",
+    "address": "Route du Lac - Morlhon-le-Haut",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

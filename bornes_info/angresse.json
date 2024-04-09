@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Izivia - Route de Tyrosse Lieu-dit Saubiole - Angresse",
+    "address": "Route de Tyrosse Lieu-dit Saubiole - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SUPER U - Route de Saubion",
+    "address": "163 Route de Saubion - Angresse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Soorts-Hossegor - Impasse Des Rémouleurs",
+    "address": "Impasse Des Rémouleurs - Soorts-Hossegor",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 148 Avenue des Sabotiers - Soorts-Hossegor",
+    "address": "148 Avenue des Sabotiers - Soorts-Hossegor",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Z.A. de Pedebert - Soorts-Hossegor",
+    "address": "73 Avenue des Charpentiers - Soorts-Hossegor",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel **** - Les Echasses",
+    "address": "701 route de la bruyere - Saubion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Motel des Landes",
+    "address": "1064 route de bayonne - Bénesse-Maremne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Bénesse-Maremne",
+    "address": "1453 Route de Capbreton - Bénesse-Maremne",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDEC - Benesse Maremne (Sortie 8)",
+    "address": "47 Chemin du Bayonnais - Bénesse-Maremne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel 202 - Soorts-Hossegor (Tesla and others)",
+    "address": "202 Avenue du Golf - Soorts-Hossegor",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

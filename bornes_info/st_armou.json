@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEPA - Ecole - Navailles-Angos",
+    "address": "Rue du Bourg - Navailles-Angos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Bourg",
+    "address": "Place du Docteur Duboué - Saint-Castin",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking - Chemin Lanots",
+    "address": "6 Allée des Églantiers - Montardon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Rue du Béarn Sauvagnon",
+    "address": "Rue du Béarn - Sauvagnon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking Carrefour - Serres-Castet",
+    "address": "13 Chemin de Liben - Serres-Castet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEPA - Parking place de la Tour",
+    "address": "Place de la Tour - Morlaas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Morlaas - Intermarché",
+    "address": "Rue Baratnau - Morlaas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Serres-Castet - Route de l'aéroport",
+    "address": "Route de l'aéroport - Serres-Castet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Intermarché - Serres-Castet",
+    "address": "Rue de Fabrègues - Serres-Castet",
+    "connectors": [
+      "x5",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue du Valentin -Serres-Castet",
+    "address": "315 Rue du Valentin - Serres-Castet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

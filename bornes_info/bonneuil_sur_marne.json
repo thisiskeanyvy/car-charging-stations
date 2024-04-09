@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Shell-Recharge (FR) - Rue d'Estienne d'Orves 7 - Bonneuil-sur-Marne",
+    "address": "7 Rue d'Estienne d'Orves - Bonneuil-sur-Marne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - 23 avenue du Colonel Fabien - Bonneuil-sur-Marne",
+    "address": "23 avenue du Colonel Fabien - Bonneuil-sur-Marne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - 27 Avenue du Maréchal Leclerc - Bonneuil-sur-Marne",
+    "address": "27 Avenue du Maréchal Leclerc - Bonneuil-sur-Marne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Galaxya (Entreprise)",
+    "address": "3 Avenue des Lys - Bonneuil-sur-Marne",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricoman - Bonneuil-sur-Marne",
+    "address": "5 avenue des Marguerites - Bonneuil-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia-Express - Route du Fief Cordelier - Bonneuil-sur-Marne",
+    "address": "50 Route du Fief Cordelier - Bonneuil-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Wallbox - POINT SMOKE - Bonneuil-sur-Marne",
+    "address": "1 Avenue Des Marguerites - Bonneuil-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZAC des petits carreaux - Avenue des Roses - Bonneuil-sur-Marne",
+    "address": "5 Avenue des Roses - Bonneuil-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Bonneuil-sur-Marne",
+    "address": "3 Avenue du Bicentenaire 1789-1989 - Bonneuil-sur-Marne",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Intersport - Avenue des Roses - Bonneuil-sur-Marne",
+    "address": "5 Avenue des Roses - Bonneuil-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

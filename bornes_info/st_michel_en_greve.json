@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE22 - Saint-Michel-en-Grève",
+    "address": "5 Route d'Arvor - Saint-Michel-en-Grève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Rue Anatole le Bras - Ploumilliau",
+    "address": "Rue Anatole le Bras - Ploumilliau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Coat Aillis - Plestin-les-Grèves",
+    "address": "- Plestin-les-Grèves",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plestin-les-Grèves",
+    "address": "153–269 Route de Guergay - Plestin-les-Grèves",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network - Super U - Plestin-les-Grèves",
+    "address": "Rue des Clos - Plestin-les-Grèves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Grand Hôtel des bains (Privé)",
+    "address": "15 rue de l'église - locquirec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Place du 19 mars 1962 - Plestin-les-Grèves",
+    "address": "Place du 19 mars 1962 - Plestin-les-Grèves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Office de tourisme - Plestin Les Greves",
+    "address": "Place du 19 mars 1962 - Plestin les Greves",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "See You Sun - Locquirec - 54B Route de Plestin",
+    "address": "54B Route de Plestin - Locquirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "See You Sun - Locquirec - 41 Route de Morlaix",
+    "address": "41 Route de Morlaix - Locquirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

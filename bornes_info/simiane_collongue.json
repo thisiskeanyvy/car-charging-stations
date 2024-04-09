@@ -1,0 +1,124 @@
+[
+  {
+    "title": "larecharge - Simiane-Collongue - Rue lambert 4",
+    "address": "Rue lambert 4 - Simiane-Collongue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "larecharge - 643 Boulevard Montesquieu - Bouc-Bel-Air",
+    "address": "643 Boulevard Montesquieu - Bouc-Bel-Air",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Gardanne",
+    "address": "Route départementale D60 - Gardanne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place De Biver - GARDANNE",
+    "address": "Place De Biver - GARDANNE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Place de l'Hôtel de Ville - Bouc-Bel-Air",
+    "address": "8 Avenue du Général de Gaulle - Bouc-Bel-Air",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Gardanne",
+    "address": "30 Avenue d'Arménie - Gardanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Super U - Avenue de Violési - Bouc-Bel-air",
+    "address": "687 Avenue de Violési - Bouc-Bel-air",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "larecharge - Gardanne - Avenue D'Arménie Semag",
+    "address": "Avenue D'Arménie Semag - Gardanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire des Chabauds (direction Aix en Provence)",
+    "address": "1376 Rond-Point Hrant Dink - Bouc-Bel-Air",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RTE - GMR Provence Alpes du Sud (Employés uniquement)",
+    "address": "251 Rue Louis Lépine - Bouc-Bel-Air",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

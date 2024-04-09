@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SMOYS - Parking esplanade de la Republique",
+    "address": "Esplanade de la République - Les Ulis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Parking piscine - Les Ulis",
+    "address": "Avenue de l'Aubrac - Les Ulis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Parking Gymnase Courdimanche",
+    "address": "1 Rue de l'Aube - Les Ulis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial ULIS 2 - Saint-Jean-de-Beauregard",
+    "address": "3 D35B2 - Les Ulis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Fitness-Park - Les Ulis",
+    "address": "2 Avenue de l'Aubrac - Les Ulis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia- Carrefour les Ulis (2ème point de charge) - Avenue de l'aubrac - Les Ulis",
+    "address": "Allée 11-12 - Les Ulis",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Indigo - Rue Charles de Gaulle - Bures-sur-Yvette",
+    "address": "7 Rue du général Leclerc - Bures-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Jerecharge - Orsay - 8 bis Boulevard Dubreuil",
+    "address": "8 bis Boulevard Dubreuil - Orsay",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Charles de Gaulle - Bures-sur-Yvette",
+    "address": "69 Rue Charles de Gaulle - Bures-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Volvo - Les Ulis",
+    "address": "8 Avenue des Andes - Les Ulis",
+    "connectors": [
+      "x4",
+      "x10",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

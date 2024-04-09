@@ -1,0 +1,130 @@
+[
+  {
+    "title": "TotalEnergies - Route Nationale 6 - Saint Loup de Varennes",
+    "address": "Route Nationale 6 - Saint Loup de Varennes",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Église de Saint-Marcel",
+    "address": "Place De L'église - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Netto - Châtenoy-en-Bresse",
+    "address": "Zone Activité Champ Chassy - Châtenoy-en-Bresse",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rainer THUMM",
+    "address": "3 Rue Jules l'Abbé - Gigny-sur-Saône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Suzuki - Hall de l'automobile - Chalon sur Saône - Groupe Guillet",
+    "address": "18 Avenue de l'Automobile - Saint-Marcel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc Jardin - Allée Des Érables - Sevrey",
+    "address": "Allée Des Érables - Sevrey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Toyota - Sevrey",
+    "address": "Allée des Érables - Sevrey",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Seat - Avenue de l'Automobile - Chalon-sur-Saône",
+    "address": "16 Avenue de l'Automobile - Chalon-sur-Saône",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Chalon/Saône",
+    "address": "12 Rue Louis Alphonse Poitevin - Saint-Marcel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - St-Marcel",
+    "address": "12 Rue Louis Alphonse Poitevin - Saint-Marcel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDED - Impasse de la Tube Vassieux-en-Vercors",
+    "address": "67 Impasse de la Tube - Vassieux-en-Vercors",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Ferme du Pré",
+    "address": "Le Clos et le Pré - Vassieux-en-Vercors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Die",
+    "address": "1 Avenue de la Résistance - Die",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gite les Carlines",
+    "address": "Rochebonne - Vassieux-en-Vercors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Die, Impasse Du Pont Neuf",
+    "address": "135 Impasse Du Pont Neuf - Die",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Super U - Die",
+    "address": "5 Rue Auguste Simon - Die",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Kiska-Vercors",
+    "address": "Le souillet - Vassieux-en-Vercors",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Office du Tourisme du Diois",
+    "address": "Rue Félix Germain - Die",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-born - Rue de Pluvianne",
+    "address": "Rue de Pluvianne - Die",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Garage Favier",
+    "address": "Route des Alpes - Die",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

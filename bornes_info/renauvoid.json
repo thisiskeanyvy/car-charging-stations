@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ENGIE Vianeo - Chaumousey - Réservoir de Bouzey",
+    "address": "233 Chemin des Plages - Chaumousey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Chantraine - Maison de Santé",
+    "address": "Allée Paul Decauville - Chantraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Chantraine - Place de l'église",
+    "address": "12 Place de l'Église - Chantraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - Impasse Payonne - Chantraine",
+    "address": "2 Impasse Payonne - Chantraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - Uxegney - Stade Pierre Pretot",
+    "address": "Rue de Sanchey Stade Pierre Pretot - Uxegney",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge - Rue de l'Aérostation - Golbey",
+    "address": "25 Rue de l'Aérostation - Golbey",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue d'Alsace - Épinal",
+    "address": "58 Rue d'Alsace - Épinal",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Épinal - Rue Marie Marvingt",
+    "address": "Rue Marie Marvingt - Épinal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi - Rue de Remiremont - Épinal",
+    "address": "59 Rue de Remiremont - Épinal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Halle des sports",
+    "address": "47 Rue De Remiremont - Épinal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

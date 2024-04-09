@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Burger king Nimes",
+    "address": "1 Rue de l'Hôtel de ville - Nîmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 5 Boulevard de Bruxelles - Nîmes",
+    "address": "5 Boulevard de Bruxelles - Nîmes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3",
+      "x11"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SMEG30 - Rue Bridaine Nîmes",
+    "address": "4 Rue Bridaine - Nîmes",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Arènes",
+    "address": "4 Rue Briçonnet - Nîmes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking des arenes",
+    "address": "1 rue notre dame - Nimes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking sous terrain hotel Atria",
+    "address": "2–6 Rue Monjardin - Nîmes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - Hôtel Kyriad - Nîmes",
+    "address": "9 rue roussy - Nîmes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "INDIGO - Maison Carrée",
+    "address": "3 Quai de la Fontaine - Nîmes",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMEG30 - Rue Auguste Nîmes",
+    "address": "20 Rue Auguste - Nîmes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Place Hubert Rouger - Nîmes",
+    "address": "3 Place Hubert Rouger - Nîmes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Parking Tralenta - Parc National de la Vanoise",
+    "address": "133 Route du Tralenta - Bonneval-sur-Arc",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue du Fornet - Val-d'Isère",
+    "address": "Rue du Fornet - Val-d'Isère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'atelier d'Edmond (Tesla et autres)",
+    "address": "Rue du Fornet - Val-d'Isère",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "nexteneo - Club Med - Val-d'Isère",
+    "address": "Rue de la Legettaz - Val-d'Isère",
+    "connectors": [
+      "x12",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel avancher - Val d’Isere (Tesla et autres)",
+    "address": "57 Avenue du Prariond - Val-d'Isère",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Mont Blanc",
+    "address": "65 Rue des Célibataires - Val-d'Isère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Aigle des Neiges Hôtel (Tesla and others)",
+    "address": "Rue de l'Église - Val-d'Isère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la face de Bellevarde",
+    "address": "Rue de la Face - Val-d'Isère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAGS Parkings - Val-d'Isère",
+    "address": "91 Rue du Parc des Sports - Val-d'Isère",
+    "connectors": [
+      "x28",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Val-d'Isère - Montée du Thovex Mairie de Val d'Isère",
+    "address": "46 Rue du Coin - Val-d'Isère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

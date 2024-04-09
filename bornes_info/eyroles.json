@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDED - D186 - Saint-Ferréol-Trente-Pas",
+    "address": "D186 - Saint-Ferréol-Trente-Pas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED Sahune",
+    "address": "575 Route de Nyons - Sahune",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lumi'in - Camping Les Ramieres - Sahune",
+    "address": "2235 Les Hermasses - Sahune",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Les Ramieres - Curnier",
+    "address": "2002–2364 Chemin du Moulin - Curnier",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Promenade de la Digue Nyons",
+    "address": "68 Promenade de la Digue - Nyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "quartier prieuré - Ste.-Jalle",
+    "address": "120 quartier prieuré - Ste.-Jalle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Nyon - Promenade de la Digue Ouest",
+    "address": "Promenade de la Digue Ouest - Nyon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Coopérative du Nyonsais - Nyons",
+    "address": "Coopérative du Nyonsais - Nyons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Nyons",
+    "address": "65 Route de Montélimar - Nyons",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping Municipal les Aires",
+    "address": "Les Aires - Rémuzat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Freshmile - Intermarché - Mareil-sur-Mauldre",
+    "address": "2 Avenue de Chavoye - Mareil-sur-Mauldre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Chemin Latéral - Mareil-sur-Mauldre",
+    "address": "Chemin Latéral - Mareil-sur-Mauldre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Montainville - Place de la Mairie",
+    "address": "Place de la Mairie - Montainville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Herbeville - Ruelle Gallo",
+    "address": "Ruelle Gallo - Herbeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Maule - 6 Rue du Plat d'Étain",
+    "address": "6 Rue du Plat d'Étain - Maule",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Maule - Place du Général de Gaulle",
+    "address": "Place du Général de Gaulle - Maule",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Chaussee St Vincent - Maule",
+    "address": "Chaussee St Vincent - Maule",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEYMABORNE - Bazemont - Rue des Sablons",
+    "address": "Rue des Sablons - Bazemont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Bazemont",
+    "address": "1b Rue D Aulnay Abd - Bazemont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEYMABORNE - Rue Saint-Pierre - Les Alluets-le-Roi",
+    "address": "Rue Saint-Pierre - Les Alluets-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

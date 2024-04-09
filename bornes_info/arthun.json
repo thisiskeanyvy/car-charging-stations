@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Parking de la mairie - Boën-sur-Lignon",
+    "address": "2 Place Emile Mandrillon - Boën-sur-Lignon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Garage Sorlon",
+    "address": "1139 La Bouteresse - Sainte-Agathe-la-Bouteresse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Montverdun - L'Etang Brenot",
+    "address": "L'Etang Brenot - Montverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Garage Cote Dominique",
+    "address": "45 chemin d'Urfé - Saint Germain Laval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking hotel - Marcilly le chatel",
+    "address": "2 Du pavé - Marcilly le chatel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eas Alarme Services",
+    "address": "lieu dit BUY - Amions",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Cleppé - 343 Route des Etangs",
+    "address": "343 Route des Etangs - Cleppé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place de Verdun - Balbigny",
+    "address": "3 Place de Verdun - Balbigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "L'Orée des 2 Monts",
+    "address": "4794 Route de Saint-Martin - Vêtre-sur-Anzon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A72 Aire de Service de la Plaine du Forez Ouest (direction St Étienne)",
+    "address": "A72, Aires de Service de la Plaine du Forez Ouest - Magneux-Haute-Rive",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

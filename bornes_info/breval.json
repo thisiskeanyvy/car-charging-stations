@@ -1,0 +1,120 @@
+[
+  {
+    "title": "FR*Y03 - Bréval - Rue du Général Patton",
+    "address": "Rue du Général Patton - Bréval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*Y03 - Neauphlette - Rue des Loges",
+    "address": "Rue des Loges - Neauphlette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Ménerville - Place de la Gare",
+    "address": "Place de la Gare - Ménerville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Primard",
+    "address": "1 Rue de Bueil - Guainville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Bueil",
+    "address": "Rue de Milval - Bueil",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare de Bueil",
+    "address": "18 Rue de la Gare - Bueil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*Y01 - Perdreauville - Rue des Écoles",
+    "address": "Rue des Écoles - Perdreauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "WAAT/FRWATLXTTABXWA",
+    "address": "1 Route de Bueil - Guainville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Dammartin-en-Serve - Rue Yolande Morice",
+    "address": "Rue Yolande Morice - Dammartin-en-Serve",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Place de l'Eglise- La Chaussée-d'Ivry",
+    "address": "Place de l'Eglise - La Chaussée-d'Ivry",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

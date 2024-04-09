@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Vulaines, Halte des Joncs",
+    "address": "Rue Zae Les Joncs - Vulaines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Route nationale 60 Vulaines",
+    "address": "32 Route nationale 60 - Vulaines",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEY - Place de la Liberté - Villeneuve-l'Archevêque",
+    "address": "Place de la Liberté - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Carrefour Contact - Villeneuve-l'Archevêque",
+    "address": "1 Avenue de la Gare - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A5 Aire de Villeneuve l'Archevêque (direction Langres)",
+    "address": "A5 - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Talvat - Agent Ranault",
+    "address": "18 Route nationale - Molinons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A5 Aire de Villeneuse Vauluisant (direction Paris)",
+    "address": "A5, Aire de Villeneuse Vauluisant - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Mairie St Benoist sur Vanne",
+    "address": "21 Route nationale - Saint-Benoist-sur-Vanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 1 Chemin du Moulin - Berulle",
+    "address": "1 Chemin du Moulin - Berulle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place des déportés Courgenay",
+    "address": "22 Place des Déportés - Courgenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

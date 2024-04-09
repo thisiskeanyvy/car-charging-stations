@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEF - Moëlan-sur-Mer (Rue des Plages)",
+    "address": "Rue des Plages - Moëlan-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Rue de Doelan - Clohars-Carnoët",
+    "address": "8 Rue de Doelan - Clohars-Carnoët",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Baye (Place de Saint Eloi)",
+    "address": "50 Impasse Saint-Eloi - Baye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-Totem - Carrefour Market - Riec sur Bélon",
+    "address": "3 Rue de Quimperlé - Riec-sur-Belon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Place Ilminster - Riec-sur-Belon",
+    "address": "Rue de la Paix - Riec-sur-Bélon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Ibis Quimperlé",
+    "address": "15 Rue Albert Schweitzer - Quimperlé",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rent a car",
+    "address": "4 Rue Eric Tabarly - Quimperlé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mellac - Rue Ferdinand Buisson Kervidanou Maison de l'Économie",
+    "address": "Rue Albert Schweitzer - Mellac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mellac - Kervidanou",
+    "address": "3 Pole d'Activites Kervidanou 3 - Mellac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - 15 Rue des Ajoncs - Clohars-Carnoët",
+    "address": "15 Rue des Ajoncs - Clohars-Carnoët",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

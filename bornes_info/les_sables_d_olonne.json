@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SyDEV - Cours Dupont - Les Sables d'Olonne",
+    "address": "2 Cours Dupont - Les Sables-d'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - 2 Rue de l'Amiral Vaugiraud - Les Sables-d'Olonne",
+    "address": "2 Rue de l'Amiral Vaugiraud - Les Sables-d'Olonne",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SyDEV - Les Sables d'Olonne (Rue Nicot)",
+    "address": "41 Rue Nicot - Les Sables-d'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sydev - parking de l'espace Audubon",
+    "address": "60 Bd Pasteur - Les Sables d'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sydev - Les Sables-d'Olonne (Place Maraud - Quai des Boucaniers)",
+    "address": "Quai Des Boucaniers - Les Sables D'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Quai Albert Prouteau - Les Sables d'Olonne",
+    "address": "27 Quai Albert Prouteau - Les Sables-d'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SyDEV - Les Sables d'Olonne (Olonnespace - Allée des Cèdres)",
+    "address": "Allée des Cèdres - Olonne Sur Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U la Chaume",
+    "address": "68 rue Joseph Benatier - Les Sables d'Olonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEV - CC Leclerc - Olonne-Sur-Mer",
+    "address": "87 Avenue François Mitterrand - Les Sables-d'Olonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Les Sables d'Olonne",
+    "address": "41 Rue des Ajoncs - Les Sables d'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

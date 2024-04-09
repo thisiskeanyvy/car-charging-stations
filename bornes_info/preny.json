@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SE60 - Précy sur Oise",
+    "address": "Rue Gaston Wateau - Précy-sur-Oise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Villers-Sous-Saint-Leu",
+    "address": "Rue de Précy, - Villers-Sous-Saint-Leu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Villers sous Saint Leu",
+    "address": "12 Rue des Primevères - Villers-sous-Saint-Leu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping de l'Abbatiale",
+    "address": "39 Rue Salvador Allende - Saint-Leu-d'Esserent",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Gouvieux",
+    "address": "Place Amic - Gouvieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Saint Leu d'Esserent",
+    "address": "2 Rue de la République - Saint-Leu-d'Esserent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Boran sur Oise",
+    "address": "13 Rue Auchois Dupont - Boran-sur-Oise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau de la Tour Gouvieux (Tesla and others )",
+    "address": "Chemin de Chaumont À Chantilly - Gouvieux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Golf du Lys Chantilly",
+    "address": "Rond Point du Grand Cerf - Lamorlaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Campus CapGemini",
+    "address": "67 Route de Chantilly - Gouvieux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

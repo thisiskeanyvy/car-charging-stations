@@ -1,0 +1,132 @@
+[
+  {
+    "title": "ENGIE Vianeo - A26 Aire Mont de Nizy (direction Reims)",
+    "address": "Autoroute des Anglais - Juvincourt-et-Damary",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A26 Aire de Champ Roland (direction Amiens)",
+    "address": "20 Autoroute des Anglais - Guignicourt",
+    "connectors": [
+      "x7",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue des Ecoles - Berry-au-Bac",
+    "address": "Rue des Écoles - Berry-au-Bac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Rue Pierre Curtil - Guignicourt",
+    "address": "18 Rue Pierre Curtil - Guignicourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Qovoltis - Intermarché Super - Saint-Erme-Outre-et-Ramecourt",
+    "address": "Route de Liesse Intermarché Super - Saint-Erme-Outre-et-Ramecourt",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Grange B&B",
+    "address": "6 Impasse des Prés - Cuiry-lès-Chaudardes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Oulches-la-Vallée-Foulon",
+    "address": "Chemin des Dames - Oulches-la-Vallée-Foulon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pays Rethelois - Brienne sur Aisne - La bonne volonté",
+    "address": "La bonne volonté - Brienne sur Aisne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chateau d'Hermonville",
+    "address": "9 Rue Visin - Hermonville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue Des Vieux Moulins - Sissonne",
+    "address": "Rue Des Vieux Moulins - Sissonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

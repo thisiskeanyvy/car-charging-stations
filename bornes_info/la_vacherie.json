@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Rue de l'Hôpital - La Roche-Guyon",
+    "address": "6 Rue Justinien Blazy - La Roche-Guyon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Route de Fourges - Gasny",
+    "address": "4 Route de Fourges - Gasny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FR*Y03 - Moisson - Route de Lavacourt",
+    "address": "Route de Lavacourt - Moisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Gasny",
+    "address": "26 Rue William Dian - Gasny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Centre-ville de Freneuse",
+    "address": "Rue Charles de Gaulle - Freneuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Rue Charles de Gaulle - Freneuse",
+    "address": "2Bis Rue Charles de Gaulle - Freneuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Centrale - Vétheuil",
+    "address": "Place Jean Moulin - Vétheuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue du Port - Bonnières-sur-Seine",
+    "address": "Rue du Port - Bonnières-sur-Seine",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de la Libération Bonnières-sur-Seine",
+    "address": "Place de la Libération - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEYMABORNE - Chemin de la Désirée - Saint-Martin-la-Garenne",
+    "address": "Chemin de la Désirée - Saint-Martin-la-Garenne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

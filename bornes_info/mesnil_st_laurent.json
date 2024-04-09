@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Brico Dépôt - Harly",
+    "address": "1973 Rue de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Harly - Brico-Dépôt",
+    "address": "300 Rue de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Harly",
+    "address": "ZAC Le Contoy Route de Guise - Harly",
+    "connectors": [
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "USEDA - Rue Neuve - Itancourt",
+    "address": "1 Rue Neuve - Itancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Avenue Pierre Choquart",
+    "address": "Avenue Pierre Chocquart - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NewMotion FR - Harly - 300 Rue de Guise",
+    "address": "300 Rue de Guise - Harly",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Netto - Saint-Quentin",
+    "address": "106 Rue de la Fère - Saint-Quentin",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aldi - Saint-Quentin",
+    "address": "60bis Rue de la Fère - Saint-Quentin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue de la Fere - Saint-Quentin",
+    "address": "Rue de la Fère - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue Léo Lagrange Saint-Quentin",
+    "address": "5 Avenue Léo Lagrange - Saint-Quentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

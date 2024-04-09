@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SYDEC - Rue de Gascogne Saint-Martin-de-Seignanx",
+    "address": "Rue de Gascogne - Saint-Martin-de-Seignanx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "clinique Saint Martin de Seignanx",
+    "address": "275 Route de Northon - Saint-Martin-de-Seignanx",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Place Richard Feuillet",
+    "address": "Place Richard Feuillet - Ondres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bordeaux)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bayonne)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions/89192858",
+    "address": "15 Avenue Salvador Allende - Tarnos",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Credit Agricole - Impasse Lahounit - Tarnos",
+    "address": "3 Impasse Lahounit - Tarnos",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - BRICOMARCHE - 2 Rue de Castillon - Tarnos",
+    "address": "2 Rue de Castillon - Tarnos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Commerces Lahonce",
+    "address": "Place Louis Lafargue - Lahonce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Bayonne",
+    "address": "90 Avenue Henri de Navarre - Bayonne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

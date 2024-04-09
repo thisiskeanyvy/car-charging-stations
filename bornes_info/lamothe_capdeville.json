@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE82 - Lamothe",
+    "address": "Grand Rue d'Ardus - Lamothe-Capdeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Loubéjac - SDE82",
+    "address": "chemin de Biscardel - L'Honor-de-Cos",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cicerone",
+    "address": "495 Impasse des Tamaris - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Du nord - Montauban",
+    "address": "446 Du nord - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Montauban",
+    "address": "2 rue Les Prades - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot macard",
+    "address": "1825 Route du Nord - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kyriad - Montauban (Tesla and others)",
+    "address": "1 Impasse des Tamaris - Montauban",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IECharge - Montauban B - 1301 Avenue de Cos",
+    "address": "1301 Avenue de Cos - Montauban B",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - E.Leclerc - Route du Nord - Montauban",
+    "address": "445 Route du Nord - Montauban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Montauban | Rue Aristide Berges 9",
+    "address": "9 Rue Aristide Berges - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ZEborne - 2 rue des bois - TORFOU",
+    "address": "2 rue des bois - TORFOU",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Torfou - Place Clemenceau",
+    "address": "Place Clemenceau - Torfou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - LE LONGERON / SEVREMOINE - Rue Eugene Bonnet",
+    "address": "Rue Eugène Bonnet - Le Longeron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO - Place des Marronniers, 5 - Boussay",
+    "address": "5 Place des Marronniers - Boussay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rossini Energy - Saint-Aubin-des-Ormeaux - 11 Route de la Verrie",
+    "address": "11 Route de la Verrie - Saint-Aubin-des-Ormeaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - LA ROMAGNE - Rue Nationale",
+    "address": "Rue nationale - La Romagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Saint-Herblain - 15 Rue de Saint-Nazaire",
+    "address": "15 Rue de Saint-Nazaire - Saint-Herblain",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BLS Notaire - La Gaubretière",
+    "address": "25 Rue du Boisy - La Gaubretière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - MONTFAUCON MONTIGNE - Place St Maurice",
+    "address": "Place Saint-Maurice - Montfaucon-Montigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - La Romagne - Rue de Touraine",
+    "address": "Rue de Touraine - La Romagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

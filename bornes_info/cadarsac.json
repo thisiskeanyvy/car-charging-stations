@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Virta - Hôtel Château Fage - Arveyres",
+    "address": "Lieu dit Fage - Arveyres",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Peytot - Arveyres",
+    "address": "13 Rue de Peytot - Arveyres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Contact - Saint-Germain-du-Puch",
+    "address": "5 Route de Libourne - Saint-Germain-du-Puch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Gare - Vayres",
+    "address": "51-55 Avenue de Libourne - Vayres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "BUMP-CHARGE - Arveyres - Hotel Kyriad Libourne St Émilion",
+    "address": "8 Route de Jourdan - Arveyres",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Arveyres",
+    "address": "21 Port Du Noyer Rotonde - Arveyres",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Libourne - 6 Rue de Montaudon",
+    "address": "6 Rue de Montaudon - Libourne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Libourne",
+    "address": "15 Avenue du Parc des Sports - Libourne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - 7 Rue de la Mairie - Croignon",
+    "address": "7 Rue de la Mairie - Croignon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Biocoop Saison Bio - Libourne",
+    "address": "39 Avenue de Verdun - Libourne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

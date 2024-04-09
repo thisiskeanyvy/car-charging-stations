@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SunXLium - 8 Rue de la Gîte - Montils",
+    "address": "8 Rue de la Gîte - Montils",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue Charles de Gaulle - Chaniers",
+    "address": "20 Avenue Charles de Gaulle - Chaniers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sarreguemines - Rue de la Bonne Fin - Salles-d'Angles",
+    "address": "Rue de la Bonne Fin - Salles-d'Angles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Chais Monnet (Tesla)",
+    "address": "50 Avenue Paul Firino Martell - Cognac",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*SUN - Pons - Le Chail Zone Industrielle du Chail",
+    "address": "Le Chail Zone Industrielle du Chail - Pons",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Oliveraie - Place de la gare",
+    "address": "6-8 place de la gare - cognac",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Quai des pontis - Cognac",
+    "address": "16 Rue des Pontis - Cognac",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Saint-Césaire - Les Bujoliers (étang de la Brèche)",
+    "address": "10 Route de la Vallée - Saint-Césaire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Le Cheval Blanc",
+    "address": "6 Place Bayard - Cognac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Francois Premier",
+    "address": "3 Place francois premier - Cognac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

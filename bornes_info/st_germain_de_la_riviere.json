@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEEG33 - Office tourisme Fronsadais",
+    "address": "Avenue Charles de Gaulle - Saint-Germain-de-la-Rivière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie - Izon",
+    "address": "207 Avenue du Général de Gaulle - Izon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA5 - Izon - 139 Avenue de Portes LES JARDINS DE JEANNE",
+    "address": "139 Avenue de Portes LES JARDINS DE JEANNE - Izon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Lieu-dit Château Gaby - Fronsac",
+    "address": "Lieu-dit Château Gaby - Fronsac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Électrique de Gironde (SDEEG) - La Lande-de-Fronsac - 150 Route des Templiers",
+    "address": "150 Route des Templiers - La Lande-de-Fronsac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Fronsac - Rue Poitevine 5 (privé)",
+    "address": "Rue Poitevine 5 - Fronsac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue du Général de Gaulle Fronsac",
+    "address": "Rue du Général de Gaulle - Fronsac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Gare - Vayres",
+    "address": "51-55 Avenue de Libourne - Vayres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEEG33 - Mairie de Galgon",
+    "address": "D 128 - Galgon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Les Dagueys - Libourne",
+    "address": "3 Rue de Schwandorf - Libourne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

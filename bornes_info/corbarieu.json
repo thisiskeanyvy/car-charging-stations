@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE82 - Rue du Stade - Corbarieu",
+    "address": "Rue du Stade - Corbarieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Rue d'occitanie - Labastide-Saint-Pierre",
+    "address": "Rue d'occitanie - Labastide-Saint-Pierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE82 - Rue des Écoles - Bressols",
+    "address": "6 Rue Des Ecoles - Bressols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ENGIE Vianeo - A20 Aire de Nauze vert (direction Toulouse)",
+    "address": "95\r\n Camions\r\n - Bressols",
+    "connectors": [
+      "x8",
+      "x1",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "175 Impasse de Fontanilles",
+    "address": "175 Impasse de Fontanilles - Bressols",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Reynies",
+    "address": "2 Rue Albert de Reyniès - Reyniès",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6620845",
+    "address": "150 Rue des Frères Montgolfier - Montauban",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 1699 Avenue d'Italie - Montauban",
+    "address": "1699 Avenue d'Italie - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 495 Route d'Albi - Saint-Nauphary",
+    "address": "495 Route d'Albi - Saint-Nauphary",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - KIA - Montauban",
+    "address": "1661 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

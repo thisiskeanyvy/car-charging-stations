@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDEPA - Rue du Stade Uzein",
+    "address": "Rue du Stade - Uzein",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Vival - Mazerolles",
+    "address": "D32 - Mazerolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Circuit Européen Pau-Arnos",
+    "address": "1 1 camin deu circuit - Arnos",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MObiVE) - Rue de la Poste Denguin",
+    "address": "Rue de la Poste - Denguin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Rue Principale Poey-de-Lescar",
+    "address": "2 Rue Principale - Poey-de-Lescar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Rue du Béarn Sauvagnon",
+    "address": "Rue du Béarn - Sauvagnon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Serres-Castet - Route de l'aéroport",
+    "address": "Route de l'aéroport - Serres-Castet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDEPA - Parking Carrefour - Serres-Castet",
+    "address": "13 Chemin de Liben - Serres-Castet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEPA - Place de la Mairie - Arbus",
+    "address": "2-6 Rue du Gén Pommies - Arbus",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A64 - Aire de Lacq-Audéjos (direction Bayonne)",
+    "address": "A64 - Lacq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

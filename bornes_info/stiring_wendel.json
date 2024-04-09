@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Freshmile - Rue-Saint-François - Stiring-Wendel",
+    "address": "Rue-Saint-François - Stiring-Wendel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Église Sainte-Marthe - Stiring-Wendel",
+    "address": "10 Place Sainte Marthe - Stiring-Wendel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Berwald - Rue Robert Schuman - Stiring-Wendel (Privé)",
+    "address": "8 Rue Robert Schuman - Stiring-Wendel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stiring_Mequisa",
+    "address": "14 Rue Robert Schuman - Stiring-Wendel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stiring_Ford_Lehmann",
+    "address": "143 Rue Nationale - Stiring-Wendel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Forbach - Testo Industrial Services",
+    "address": "3 Rue Jules Verne - Forbach",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tegometall - Forbach",
+    "address": "1 Rue Jules Verne - Forbach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking du Conservatoire - Forbach",
+    "address": "2 Rue Thérèse - Forbach",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Parking Place Johann Fischart - Forbach",
+    "address": "3 Place Johann Fischart - Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Gare SNCF - Forbach",
+    "address": "Place Robert Schuman - Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

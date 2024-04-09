@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Rue d'Alzing - Bouzonville",
+    "address": "2 Rue d'Alzing - Bouzonville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Bouzonville - Place du Marché",
+    "address": "Place du mlarché - Bouzonville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Vaudreching - Rue Bernanos",
+    "address": "Rue Bernanos  - Vaudreching",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Bouzonville - Rue Saint-Hubert",
+    "address": "Rue Saint-Hubert - Bouzonville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Falck - 1 Rue de la Gare",
+    "address": "1 Rue de la Gare - Falck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Rue Robert Schuman - Freistroff",
+    "address": "68c Rue Robert Schuman - Freistroff",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "innogy SE - 101 Rathausstraße - Überherrn-Bisten",
+    "address": "101 Rathausstraße - Überherrn-Bisten",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Überherrn",
+    "address": "6 Langwies - Überherrn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "innogy SE - Am alten Bahnhof - Überherrn",
+    "address": "Am alten Bahnhof - Überherrn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "chargeIT mobility DE - Neuhofstr. 1 - Saarlouis",
+    "address": "Neuhofstr. 1 - Saarlouis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

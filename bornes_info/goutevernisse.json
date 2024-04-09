@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEHG - Montesquieu-Volvestre, Esplanade Nord",
+    "address": "19 Esplanade Nord - Montesquieu-Volvestre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Promenade du Préau - Rieux-Volvestre",
+    "address": "3 Promenade du Préau - Rieux-Volvestre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Promenade du Préau - Rieux-Volvestre",
+    "address": "Promenade du Préau - Rieux-Volvestre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge/19B91237",
+    "address": "31 Route des Mandillets - Le Plan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - 3 Route de Latrape - Rieux-Volvestre",
+    "address": "3 Route de Latrape - Rieux-Volvestre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Lavelanet-de-Comminges (DTQW)",
+    "address": "72 Village - Lavelanet-de-Comminges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Frédéric Tourte - Cazères",
+    "address": "6 Rue Frédéric Tourte - Cazères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Davezac",
+    "address": "1045 Chemin des entrepreneurs - Lavelanet-de-Comminges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "63 Avenue Pasteur",
+    "address": "63 Avenue Pasteur - Cazères",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Rue Ernest Renan",
+    "address": "Rue Ernest Renan - Cazères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

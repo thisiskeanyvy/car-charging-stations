@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SEHV - Route de la Gare - Peyrilhac",
+    "address": "Route de la Gare - Peyrilhac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MObiVE - Place du 8 Mai 1945",
+    "address": "Place du 8 Mai 1945 - Cieux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - U expresss - Oradour sur glane",
+    "address": "De la lande - Oradour sur glane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place de l'Europe - Oradour-sur-Glane",
+    "address": "2 Rue de l'Europe - Oradour-sur-Glane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Oradour-sur-Glane",
+    "address": "PLACE DE L'EUROPE Rue de l'Europe - Oradour-sur-Glane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine lac saint Pardoux - Puy de la Lande - Razès",
+    "address": "Puy de la Lande - Razès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - D44A3 Maison du Lac - Razès",
+    "address": "D44A3 Maison du Lac - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Mairie de Bellac",
+    "address": "12 Rue Denfert Rochereau - Bellac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - La Croix De Lavergne - Saint-Victurnien",
+    "address": "12 La Croix De Lavergne - Saint-Victurnien",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEHV - N145, Aérodrome de Bellac - Blanzac",
+    "address": "- Blanzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

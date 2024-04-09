@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Métropole Rouen Normandie - 3 Route de l'Abbaye - Saint-Martin-de-Boscherville",
+    "address": "3 Route de l'Abbaye - Saint-Martin-de-Boscherville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargeGuru - Quevillon - 31 Route de Belaitre",
+    "address": "31 Route de Belaitre - Quevillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Rue du Stade - Hénouville",
+    "address": "4 Rue du Stade - Hénouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel le relais de montigny",
+    "address": "250 Rue du Lieutenant Aubert - Montigny",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Chemin de la Garderie - Yville-sur-Seine",
+    "address": "Chemin de la Garderie - Yville-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Duclair bord de Seine",
+    "address": "Avenue du President Coty - Duclair",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Duclair - Avenue du Président Coty",
+    "address": "Avenue du Président Coty - Duclair",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Rue Paul Ducros",
+    "address": "107–117 Rue Paul Ducrocq - Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Rue des Champs - Montigny INEXISTANT",
+    "address": "Rue des Champs - Montigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Chemin Du Catel - Duclair",
+    "address": "51 Chemin Du Catel - Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

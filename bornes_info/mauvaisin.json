@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE82 - Parking promenade de chateau",
+    "address": "22 Promenade du Château - Castelsarrasin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Rue Neuve des Capucins Castelsarrasin",
+    "address": "2B Rue Neuve des Capucins - Castelsarrasin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Castelsarrasin (Sortie 9)",
+    "address": "1 Chemin de l'Hippodrome - Castelsarrasin",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché - Castelsarrasin",
+    "address": "D118 - Castelsarrasin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Port du canal - Castelsarrasin",
+    "address": "1 Allée de Verdun - Castelsarrasin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Gare SNCF de Castelsarrasin",
+    "address": "21 Avenue Jean Moulin - Castelsarrasin",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rossini Energy/FPB_Castelsarrasin DOUBLON",
+    "address": "Route de Moissac - Castelsarrasin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Castelsarrasin",
+    "address": "2 Route de Toulouse - Castelsarrasin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage France Pare-Brise - Castelsarrasin",
+    "address": "1377 route de moissac - Castelsarrasin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chemin de Ronde - Castelmayran",
+    "address": "Chemin de Ronde - Castelmayran",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

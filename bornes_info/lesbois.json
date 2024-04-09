@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEYMABORNE - Rue Saint-Pierre - Les Alluets-le-Roi",
+    "address": "Rue Saint-Pierre - Les Alluets-le-Roi",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de Morainvilliers",
+    "address": "6 Allée des Tilleuls - Morainvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Ecquevilly - Rue Des Alluets",
+    "address": "Rue Des Alluets - Ecquevilly",
+    "connectors": [
+      "x4",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Herbeville - Ruelle Gallo",
+    "address": "Ruelle Gallo - Herbeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Wallbox Maison individuelle",
+    "address": "11 rue de Morainvilliers - ECQUEVILLY",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de Fresnes - Ecquevilly",
+    "address": "Place de Fresnes - Ecquevilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Sud (vers Paris)",
+    "address": "315\r\n Route De Vernouillet\r\n - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Nord (direction Rouen)",
+    "address": "0 autoroute A13 - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Bazemont - Rue des Sablons",
+    "address": "Rue des Sablons - Bazemont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Bazemont",
+    "address": "1b Rue D Aulnay Abd - Bazemont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

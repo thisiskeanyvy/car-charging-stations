@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Modulo-Energies - Étain",
+    "address": "Place Jean Baptiste Rouillon - Étain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Place Lénine - Bouligny",
+    "address": "Place Lénine - Bouligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la mairie de Joudreville",
+    "address": "25 Rue Victor Hugo - Joudreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Abbéville-lès-Conflans - Lieu-dit La Pièce Girard",
+    "address": "Lieu-dit La Pièce Girard - Abbéville-lès-Conflans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 2 rue Du Colonel Fabien - Piennes",
+    "address": "2 rue Du Colonel Fabien - Piennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ST2B - Mairie Piennes",
+    "address": "Place Lucien Caro - Piennes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Spincourt",
+    "address": "5 Chemin du Mont - Spincourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole du Grand Nancy - Rue de la Mine Aire de covoiturage - Parking Piscine - Landres",
+    "address": "Rue de la Mine Aire de covoiturage - Parking Piscine - Landres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Conflans-en-Jarnisy",
+    "address": "54 Rue de Verdun - Conflans-en-Jarnisy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Conflans-en-Jarnisy",
+    "address": "Rue de Verdun - Conflans-en-Jarnisy",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

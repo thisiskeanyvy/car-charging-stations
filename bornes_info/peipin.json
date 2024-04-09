@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Intermarché - Peipin",
+    "address": "1 Chemin du Frigouras - Peipin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire de Aubignosc Ouest",
+    "address": "A51, Aire de Aubignosc Ouest - Aubignosc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire de Aubignosc Est",
+    "address": "A51, Aire de Aubignosc Est - Aubignosc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault-Dacia Sisteron",
+    "address": "6 Route de Marseille - Sisteron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - 5 Place Charles de Gaulle - Volonne",
+    "address": "5 Place Charles de Gaulle - Volonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "U Express - Sisteron",
+    "address": "9 Avenue des Plantiers - Sisteron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sunelia Hippocamp",
+    "address": "7024 Chemin de la Novieille - Volonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug (Clicsysteme SAS) - 7 Rue de la Durance - Volonne",
+    "address": "7 Rue de la Durance - Volonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Allée de la Libération - Sisteron",
+    "address": "Avenue de la Libération - Sisteron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 20 Avenue de la Libération - Sisteron",
+    "address": "20 Avenue de la Libération - Sisteron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

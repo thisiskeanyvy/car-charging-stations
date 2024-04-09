@@ -1,0 +1,126 @@
+[
+  {
+    "title": "La Borne Bleue - 9 Rue Robert Marchand - Gentilly",
+    "address": "9 Rue Robert Marchand - Gentilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Borne Bleue - Avenue Jean Jaurès - Gentilly",
+    "address": "Avenue Jean Jaurès - Gentilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Charléty Coubertin",
+    "address": "17 avenue Pierre de Coubertin - Paris",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 80 Rue Benoît Malon - Gentilly",
+    "address": "80 Rue Benoît Malon - Gentilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "78 Avenue Raspail - Paris (Privé)",
+    "address": "78 Avenue Raspail - Gentilly",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 109 Avenue Raspail - Gentilly",
+    "address": "109 Avenue Raspail - Gentilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - Rue Gouthière - Paris",
+    "address": "Rue Gouthière - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIGEIF - 12 Avenue du Docteur Antoine Lacroix - Le Kremlin-Bicêtre",
+    "address": "12 Avenue du Docteur Antoine Lacroix - Le Kremlin-Bicêtre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "ZEborne - 38 Rue de la Convention - Le Kremlin-Bicêtre SUPPRIMÉ",
+    "address": "38 Rue de la Convention - Le Kremlin-Bicêtre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 77 rue de l'Amiral Mouchez - Paris 13",
+    "address": "77 Rue de l'Amiral Mouchez - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

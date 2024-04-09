@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Hotel l'Arc de Tilles (Tesla et autres)",
+    "address": "6 Allée des Platanes - Arc-sur-Tille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Arc-sur-Tille",
+    "address": "52 Rue des Chézeaux - Arc-sur-Tille",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Arc Sur Tille",
+    "address": "1 Route nationale - Arc-sur-Tille",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Vinci - Chevigny-Saint-Sauveur - Rue du Point du Jour",
+    "address": "Rue du Point du Jour - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Renault Dacia - Chevigny-Saint-Sauveur",
+    "address": "1 BOULEVARD KENNEDY - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour market",
+    "address": "1 de la Petite Fin - Saint-Julien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Chevigny-Saint-Sauveur",
+    "address": "Route de Dijon - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Basic Fit - Chevigny-Saint-Sauveur",
+    "address": "12 Rue Nicolas de Condorcet - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Quetigny",
+    "address": "Rue des Chalands - Quetigny",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Carrefour - Grand Quétigny",
+    "address": "999 Rue des Chalands - Quetigny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

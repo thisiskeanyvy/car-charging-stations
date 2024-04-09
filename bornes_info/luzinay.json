@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Pl. Camille Gallon / Rue Gaston Perrier",
+    "address": "145 Rue Gaston Perrier - Saint-Just-Chaleyssin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Chaponnay - 9 Rue de la Résistance",
+    "address": "9 Rue de la Résistance - Chaponnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Place du 19 Mars 1962 - Chaponnay",
+    "address": "Place du 19 Mars 1962 - Chaponnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Place du Champ de Mars - Marennes",
+    "address": "Place du Champ de Mars - Marennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Septème - Parking salle polyvalente",
+    "address": "68-170 Route de la Pivollee - Septème",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEDI - Route de Lyon, Valencin",
+    "address": "Route de Lyon - Valencin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage DELAROCHE",
+    "address": "500 Rue Juliette Récamier - Chaponnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - 24bis Rue Etienne Perrot - Pont-Évêque (Privé)",
+    "address": "24bis Rue Etienne Perrot - Pont-Évêque",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chaponnay - ZA Chapotin",
+    "address": "250 Avenue du Professeur Marcel Dargent - Chaponnay",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "PowerDot - Hôtel Mercure Lyon Est Chaponnay",
+    "address": "565 Rue Tony Garnier - Chaponnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEER (MobiVE) - Coux - Avenue de la République",
+    "address": "Avenue de la République - Coux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "See You Sun - Le Terrier - Léoville",
+    "address": "Le Terrier - Léoville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - boulevard de saintonge - montendre",
+    "address": "6043 Boulevard de Saintonge - Montendre",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Avenue de la République - Montendre",
+    "address": "9 Avenue de la République - Montendre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Résidence Les Coteaux de Jonzac",
+    "address": "3 Zone d'aménagement concerté du Val de Seugne - Jonzac",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "parc Val de Seugne",
+    "address": "3 Rue des Caraibes - Jonzac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Pierre&Vacances Les Rives de la Seugne - Jonzac",
+    "address": "- Jonzac",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Gare de Jonzac",
+    "address": "2-12 Rue Alsace Lorraine - Jonzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ombrières - Jonzac",
+    "address": "Avenue Chanzy - Jonzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Château des Agouts",
+    "address": "Château des Agouts - Jonzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

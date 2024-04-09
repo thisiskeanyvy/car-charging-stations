@@ -1,0 +1,144 @@
+[
+  {
+    "title": "IONITY - A40 - Aire de Ceignes Haut-Bugey (direction Lyon)",
+    "address": "A40 - Ceignes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - U Express - Ceyzeriat",
+    "address": "Rue de jasseron - Ceyzeriat",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Aire de Ceigne Cerdon - Ceignes",
+    "address": "Aire de Ceigne Cerdon - Ceignes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A40 - Aire de Ceignes Cerdon (direction Genève)",
+    "address": "A40 - Ceignes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Ceyzériat - 259 Route des Soudanières",
+    "address": "259 Route des Soudanières - Ceyzériat",
+    "connectors": [
+      "x18",
+      "x20",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Avenue du Parc - Poncin",
+    "address": "Avenue Du Parc - Poncin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Pat' de l'ours",
+    "address": "11 Place Charles Blétel - Corveissiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Bourg-en-Bresse",
+    "address": "101 Chemin du Champ de Chaux - Tossiat",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - A40 - Aire de Bourg Jasseron (direction Lons-le-Saunier)",
+    "address": "A40 - Jasseron",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Vadea - A40 Aire de Bourg Teyssonge (direction Lyon)",
+    "address": "A40 - Jasseron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5",
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

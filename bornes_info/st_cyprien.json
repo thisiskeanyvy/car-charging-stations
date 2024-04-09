@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Hôtel Le Belvédère",
+    "address": "1B Rue Pierre Benoît - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Latour-Bas-Elne",
+    "address": "13 D40 - Latour-Bas-Elne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEEL66 - Saint-Cyprien - Rue Lanoux",
+    "address": "Rue Lanoux \r\n - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Office de tourisme - St Cyprien",
+    "address": "1 Quai Arthur Rimbaud - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDEEL66 (Révéo) - Quai Arthur Rimbaud - Saint-Cyprien",
+    "address": "5000F Quai Arthur Rimbaud - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Elne - 10 Bd Jacques Albert",
+    "address": "10 Bd Jacques Albert - Elne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "hotel île de la lagune",
+    "address": "Boulevard de l'Almandin - Saint-Cyprien",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Rue Auguste Rodin",
+    "address": "8 Rue Auguste Rodin - Saint-Cyprien",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel Les Bulles de Mer",
+    "address": "28 Avenue Armand Lanoux - Saint-Cyprien",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 (Révéo) - ELNE - Rue du Marché",
+    "address": "Rue du Marché - ELNE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

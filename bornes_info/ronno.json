@@ -1,0 +1,124 @@
+[
+  {
+    "title": "hébergement (ferme)",
+    "address": "La Fécule - Cublize",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lac des Sapins (Parking côté plage)",
+    "address": "Parking côté plage - Cublize",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lac des Sapins",
+    "address": "265 La Fécule - Cublize",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Lepine",
+    "address": "6 Route de Cublize - Amplepuis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Amplepuis",
+    "address": "69 Av. Jean Moos, - Amplepuis",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Driveco pour PSA - ZI DE - Saint-Jean-la-Bussière",
+    "address": "ZI DE - Saint-Jean-la-Bussière",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking en face de l'entrée de l'hôpital et de l'école Primaire publique Mathilde Ovize",
+    "address": "6 La Platière - Thizy-les-Bourgs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Place rouget de l'isle - Thizy-les-Bourgs",
+    "address": "15 Rue Rouget de Lisle - Thizy-les-Bourgs",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PIERREFEU ÉLECTRICITÉ - Impasse de la Rivière - Thizy-les-Bourgs",
+    "address": "66 Impasse de la Rivière - Thizy-les-Bourgs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Thizy-les-Bourgs",
+    "address": "110 Rue du Bois Brochet - Thizy-les-Bourgs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

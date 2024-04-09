@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE22 - St Jouan de l'Isle",
+    "address": "D46 - Saint-Jouan-de-l'Isle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - N12 ZA de Kergoët (double-sens) - Saint-Jouan-de-l'Isle",
+    "address": "D46 - Saint-Jouan-de-l'Isle",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE22 - Caulnes",
+    "address": "5 Rue de L Hôpital - Caulnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Caulnes - 4 Rue du 19 Mars 1962",
+    "address": "4 Rue du 19 Mars 1962 - Caulnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Rue Maurice- Saint-Méen-le-Grand",
+    "address": "Rue Maurice - Saint-Méen-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - St Méen le Grand",
+    "address": "Rue louis Pasteur - Saint-Méen-le-Grand",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Mr Bricolage - Saint-Méen-le-Grand",
+    "address": "Rue Louis Pasteur - Saint-Méen-le-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Parc d'Activité du Chalet 33 - Broons",
+    "address": "Parc d'Activité du Chalet 33 - Broons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Yvignac la tour",
+    "address": "Rue de la Fontaine de l'Osier - Yvignac-la-Tour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Broons",
+    "address": "Z.A. du Chalet - Broons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

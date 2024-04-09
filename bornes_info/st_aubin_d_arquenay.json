@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Rue du Caprice - Saint-Aubin-d'Arquenay",
+    "address": "Rue du Caprice - Saint-Aubin-d'Arquenay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - restaurant la Palmeraie Bénouville",
+    "address": "2 D35C - Bénouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Ouistreham",
+    "address": "Rue de Caen - Ouistreham",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "P-14150",
+    "address": "- Ouistreham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Ouistreham",
+    "address": "26 Rue Charles Baudelaire - Ouistreham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Ouistreham (Avenue du Maréchal Foch)",
+    "address": "94 Avenue du Maréchal Foch - Ouistreham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Auchan - Colleville-Montgomery",
+    "address": "9 Rue des Rosiers - Colleville-Montgomery",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Hermanville/Mer - Place de la Liberté",
+    "address": "41 Grande Rue - Hermanville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Blainville-sur-Orne",
+    "address": "1 Rue du Royal Norfolk - Blainville-sur-Orne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "92 Avenue Général Leclerc",
+    "address": "92 Avenue Général Leclerc - Ouistreham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

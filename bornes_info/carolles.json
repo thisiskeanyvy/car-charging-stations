@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Stations-e - Jullouville - 11 Rue du Mont Dol",
+    "address": "11 Rue du Mont Dol - Jullouville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Office du Tourisme de Jullouville",
+    "address": "11 Avenue du Maréchal Leclerc - Jullouville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel des bains (Tesla and others)",
+    "address": "8 Allée Clemenceau - Saint-Jean-le-Thomas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Allée Clemenceau - Saint-Jean-le-Thomas",
+    "address": "Allée Clemenceau - Saint-Jean-le-Thomas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Château de Lez-Eaux - Saint-Aubin-des-Préaux",
+    "address": "La Huberdière - Saint-Aubin-des-Préaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le domaine de Belleville, maison d'hôtes et gîtes",
+    "address": "11 Route de Saint Marc - Dragey-Ronthon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Aire de Covoiturage - Sartilly",
+    "address": "Huche Pie - Sartilly",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Avenue Léon Jozeau-Marigne - Saint-Pair-sur-Mer",
+    "address": "70 Avenue Léon Jozeau-Marigne - Saint-Pair-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super U - Rue des Rouges Gorges",
+    "address": "4 Rue des Rouges Gorges - Sartilly-Baie-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Rue de l'Église Sartilly",
+    "address": "3 Rue des Écoles - Angey",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

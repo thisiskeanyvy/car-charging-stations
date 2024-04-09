@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Paris-Saclay mobiélectrique - Mairie de Vauhallan",
+    "address": "1 Allée des Écoles - Vauhallan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue Jules Ferry - Igny",
+    "address": "35 Rue Jules Ferry - Igny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Paris Saclay mobiélectrique - Gymnase Kervadec",
+    "address": "6 Rue de l'Or Mété - Igny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Avenue de la Division Leclerc - Igny",
+    "address": "Avenue de la Division Leclerc - Igny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Gare de Bièvres",
+    "address": "Place de la Gare - Bièvres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EDF Lab Saclay",
+    "address": "2-4 Rue Rosalind Franklin - Palaiseau",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Etablissement Public d’Aménagement de Paris-Saclay - Palaiseau - Cour Vaneau École Polytechnique",
+    "address": "Cour Vaneau École Polytechnique - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - EDF Lab Paris-Saclay (visiteurs)",
+    "address": "13 Boulevard Gaspard Monge - Palaiseau",
+    "connectors": [
+      "x52",
+      "x49",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Golf de Verrières (uniquement pour les employés)",
+    "address": "Voie de la vallée de la bières - Verrières-le-Buisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Parking Victor Hugo - Bièvres",
+    "address": "1 Place De La Mairie - Bièvres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

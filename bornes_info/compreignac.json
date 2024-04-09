@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Piscine lac saint Pardoux - Puy de la Lande - Razès",
+    "address": "Puy de la Lande - Razès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - D44A3 Maison du Lac - Razès",
+    "address": "D44A3 Maison du Lac - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MObiVE - Rue De La Libération - Razès",
+    "address": "30 Rue De La Libération - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Route de la Gare - Peyrilhac",
+    "address": "Route de la Gare - Peyrilhac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "mobilygreen - Ambazac - Mr Bricolage",
+    "address": "23 Avenue de la Libération - Ambazac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place du 19 Mars 1962",
+    "address": "5 Avenue Général de Gaulle - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - Avenue du Général de Gaulle - Ambazac",
+    "address": "55 Avenue du Général de Gaulle - Ambazac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Limoges - CC Family Village",
+    "address": "30 rue Amédée Gordini - Limoges",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial CORNUDE - Allée de la Cornude - Limoges",
+    "address": "4 Allée de la Cornude - Limoges",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Gare d'Ambazac",
+    "address": "1 Place de la Gare - Ambazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

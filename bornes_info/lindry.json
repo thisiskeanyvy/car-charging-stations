@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDEY - 17 Rue du 14 Juillet - Lindry",
+    "address": "17 Rue du 14 Juillet - Lindry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Deharbe - Charbuy",
+    "address": "2 Chemin des Hantés - Charbuy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - CHARBUY",
+    "address": "50 Grande Rue - Charbuy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Rue de la Maîtrise - Pourrain",
+    "address": "28 Rue de la Maîtrise - Pourrain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Parking mairie - Rue de la Petite Motte - Fleury-la-Vallée",
+    "address": "2 Rue de la Petite Motte - Fleury-la-Vallée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdey - Saint-Georges-sur-Baulche",
+    "address": "115 Rue de Bruxelles - Saint-Georges-sur-Baulche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Route de Perrigny",
+    "address": "74 Grande Rue - Saint-Georges-sur-Baulche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fêtes de Perrigny",
+    "address": "23 Rue de la Cour - Perrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market Estaires - Auxerre - 97 Av. de Saint-Georges,",
+    "address": "97 Av. de Saint-Georges, - Auxerre",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rue de la Halle - Aillant-sur-Tholon",
+    "address": "11 Rue de la Halle - Aillant-sur-Tholon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

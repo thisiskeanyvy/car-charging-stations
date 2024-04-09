@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Au Domaine de La Pommeraye",
+    "address": "8032 La Couture - La Pommeraye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Super U - Thury-Harcourt",
+    "address": "24 Boulevard De La Flèche - Curcy-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - THURY HARCOURT (Zone de Beauvoir)",
+    "address": "Zone de Beauvoir - Thury-Harcourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Thury Harcourt (Place du général de Gaulle)",
+    "address": "Place du Général de Gaulle - Thury-Harcourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - CLECY (Rue Arsène Delavigne)",
+    "address": "Rue Arsène Delavigne - Clécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - THURY HARCOURT (Avenue du Général Lyne)",
+    "address": "24 Avenue du Général Lyne - Thury-Harcourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - Pont-d'Ouilly (parking de l'église)",
+    "address": "Rue de Bretagne - Pont-d'Ouilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Saint-Germain-le-Vasson",
+    "address": "25 D237 - Saint-Germain-le-Vasson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - TROIS MONTS (Le bourg)",
+    "address": "La Croix Onfroy - Trois-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Mairie Saint-Denis de Méré",
+    "address": "Rue des Rosiers - Saint Denis de Méré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

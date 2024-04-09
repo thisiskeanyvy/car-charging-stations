@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Fastned - A1 Aire de Wancourt Est (direction Lille)",
+    "address": "A 1 - Wancourt",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BP - A1 Aire de Wancourt Est",
+    "address": "A1 - Monchy-le-Preux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 30 Allée d'Irlande - Feuchy (Private)",
+    "address": "30 Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Allée d'Irlande - Feuchy",
+    "address": "Allée d'Irlande - Feuchy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "address": "26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Boulangerie patisserie Salomé (privé)",
+    "address": "1 Grand place - Croisilles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A26 Aire de Rumaucourt (direction Arras)",
+    "address": "A26 - Rumaucourt",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Première Classe Arras",
+    "address": "27 Avenue d'Immercourt Première Classe Arras - Tilloy-lès-Mofflaines",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D 950 - Fresnes-lès-Montauban",
+    "address": "D 950 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Fastned - A1 Aire de Saint Léger (direction Paris)",
+    "address": "00 Autoroute du Nord - Saint-Léger",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDED52 - 9 Rue Memasse - Biesles",
+    "address": "9 Rue Memasse - Biesles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Avia - Nogent - Rue de Mandres",
+    "address": "Rue de Mandres - Nogent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Nogent - Super U",
+    "address": "Rue Ambroise Paré - Nogent",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking CIC - 13 place du General de Gaulle",
+    "address": "13 Place Charles de Gaulle - Nogent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - 7 Rue des Cerisiers - Rimaucourt",
+    "address": "7 Rue des Cerisiers - Rimaucourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chargeur reservé a la clientelle du magasin piscine service 52",
+    "address": "72 Route nationale 19 - Foulain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Chaumont",
+    "address": "Fbg du Moulin Neufont - Chaumont",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Qovoltis - Mr Bricolage - Chaumont",
+    "address": "Faubourg du Moulin Neuf Mr Bricolage - Chaumont",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Chaumont",
+    "address": "2 Rue du Fer À Cheval - Chaumont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Chaumont",
+    "address": "Route de Langres - Chamarandes-Choignes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

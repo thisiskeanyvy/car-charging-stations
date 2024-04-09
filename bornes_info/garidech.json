@@ -1,0 +1,142 @@
+[
+  {
+    "title": "mobilygreen - Garidech - Intermarché",
+    "address": "4 Chemin du Chat - Garidech",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Castelmaurou - 1 Route de Cepet",
+    "address": "1 Route de Cepet - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Le jardin de l'esplanade",
+    "address": "Avenue du Mur de Ronde - Montastruc-la-Conseillère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Route de Lapeyrouse - Castelmaurou",
+    "address": "Route de Lapeyrouse - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Route de Barranquet - Lapeyrouse-Fossat",
+    "address": "28 Route de Barranquet - Lapeyrouse-Fossat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Rouffiac-Tolosan",
+    "address": "5 Allée des Platanes - Rouffiac-Tolosan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Rue Marie GOUZE Montberon",
+    "address": "1 Rue Marie GOUZE - Montberon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Rue des Roses - Saint-Jean",
+    "address": "Rue des Roses - Saint-Jean",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Métropole de Toulouse - Allée Victor Hugo - Saint-Jean",
+    "address": "Allée Victor Hugo - Saint-Jean",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEHG - Parking - Montjoire",
+    "address": "141 Route de Toulouse - Montjoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

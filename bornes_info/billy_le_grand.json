@@ -1,0 +1,136 @@
+[
+  {
+    "title": "TotalEnergies - A4 Aire de Reims Champagne Sud (direction Metz)",
+    "address": "A4 - AIRE DE REIMS CHAMPAGNE SUD - LES PETITES-LOGES",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations BP - BP CHAMPAGNE SUD - LES PETITES-LOGES - A4 (Sens Est) DOUBLON",
+    "address": "A4 Le Mont de Billy - Les Petites-Loges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Reims Champagne Nord (direction Reims)",
+    "address": "A4 - AIRE DE REIMS CHAMPAGNE NORD - LES PETITES-LOGES",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations BP CHAMPAGNE NORD - LES PETITES-LOGES - A4 (Direction Nord) - Billy-le-Grand",
+    "address": "A4 Autoroute de l'Est - Billy-le-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Reims Champagne (Direction Nord)",
+    "address": "A4 Aire de Reims-Champagne-Sud - Les Petites-Loges",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vaudemange - 2 Chemin Du Bas Du Moulin",
+    "address": "2 Chemin Du Bas Du Moulin - Vaudemange",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chanpagne Philippe Hautem",
+    "address": "La Varde - Vaudemange",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "CHAMPAGNE SOUTIRAN - Rue de Crilly",
+    "address": "3 Rue de Crilly - Ambonnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Champagne Paul Déthune (Tesla)",
+    "address": "2 Rue du Moulin - Ambonnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - 30 Rue Chanzy - VERZY",
+    "address": "30 Rue Chanzy - Verzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

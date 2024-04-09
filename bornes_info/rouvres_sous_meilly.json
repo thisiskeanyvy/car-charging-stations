@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Datcha Bourguignonne",
+    "address": "4 Impasse L’Echellee - Maconge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - Rue Georges Besse - Créancey",
+    "address": "6 Za Les Portes De Bourgogne - Créancey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Maison de Pays - Pouilly-en-Auxois",
+    "address": "1 d12 le seuil - Pouilly-en-Auxois",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Volkswagen Garage Jeannin",
+    "address": "D18 - Pouilly-en-Auxois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Sainte Sabine (Tesla et autres)",
+    "address": "8 Route de Semur - Sainte Sabine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Sunelia Lac de Panthier",
+    "address": "1 chemin du Lac - Vandenesse-en-Auxois",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Grande Rue - Chateauneuf-en-Auxois",
+    "address": "Rue grande rue - Chateauneuf-en-Auxois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Grande Rue - Chateauneuf-En-Auxois",
+    "address": "Rue Grande Rue - Chateauneuf-En-Auxois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Siceco - Mairie de Pouilly-en-Auxois",
+    "address": "2 Ruelle du Gué - Pouilly-en-Auxois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Pouilly en Auxois",
+    "address": "8 Rue Sergent Stephane Mazeau - Pouilly-en-Auxois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

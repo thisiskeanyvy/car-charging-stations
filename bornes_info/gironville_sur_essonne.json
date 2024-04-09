@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Gare Boigneville",
+    "address": "7 Place de la Gare - Boigneville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MILLY AUTOMOBILES",
+    "address": "3 RUE DES PINS - Milly-la-Forêt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Milly-la-Forêt",
+    "address": "4 Rue des Ornes - Milly-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Oncy-sur-École - Intermarché",
+    "address": "Grande Rue Intermarché - Oncy-sur-École",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Mairie Noisy sur Ecole",
+    "address": "5 Rue du Pont de l'Arcade - Noisy-sur-École",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-e - Bouville - Rue de la Mairie",
+    "address": "Rue de la Mairie - Bouville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDESM - Allée des Marronniers Boulancourt",
+    "address": "2 Allée des Marronniers - Boulancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Parking Graine de Café - Achères-la-Forêt",
+    "address": "51 Rue du Closeau - Achères-la-Forêt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Augerville-la-Rivière - Place Du Château",
+    "address": "Place Du Château - Augerville-la-Rivière",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Arbonne-la-Forêt - Avenue de la Libération",
+    "address": "Avenue de la Libération - Arbonne-la-Forêt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

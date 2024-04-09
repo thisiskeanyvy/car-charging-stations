@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Mairie - Rue d'Alsace - Bussang",
+    "address": "2 Rue d'Alsace - Bussang",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Allée du Casino - Bussang",
+    "address": "9 Allée du Casino - Bussang",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - Rue Larcenaire - Bussang",
+    "address": "2 Rue De Larcenaire - Bussang",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Modulo-Energies - Rue de Lorraine - Saint-Maurice-sur-Moselle",
+    "address": "30 Rue de Lorraine - Saint-Maurice-sur-Moselle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*S88 - Fresse-sur-Moselle - Rue du Général de Gaulle Parking de la Maison",
+    "address": "Rue du Général de Gaulle Parking de la Maison - Fresse-sur-Moselle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Là-Haut & Spa",
+    "address": "2 Chemin du Haut Riant - Ventron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Le Thillot - Intermarché",
+    "address": "Route du Ménil - Le Thillot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Le Thillot",
+    "address": "Route du ménil - Le Thillot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Église - Ventron",
+    "address": "2 Place de l'Église - Ventron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - 34 Rue Charles de Gaulle - Le Thillot",
+    "address": "34 Rue Charles de Gaulle - Le Thillot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

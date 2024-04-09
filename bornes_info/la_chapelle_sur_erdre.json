@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Izivia-Express - Norauto - La Chapelle-sur-Erdre",
+    "address": "1 rue d'Utrecht - La Chapelle-sur-Erdre",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Westotel Nantes Atlantique - Rue de la Vrière",
+    "address": "34 Rue de la Vrière - La Chapelle-sur-Erdre",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - La Chapelle-sur-Erdre",
+    "address": "34 Rue de la Vrière - La Chapelle-sur-Erdre",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Best Western Plus Hôtel de la Régate (Tesla et autres)",
+    "address": "155 Route de Gachet - Nantes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "la banque postale",
+    "address": "57 Rue de Leinster - La Chapelle-sur-Erdre",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Microchip Technology",
+    "address": "Route de Gachet - Nantes",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Nantes - 3 Rue Alfred Kastler",
+    "address": "3 Rue Alfred Kastler - Nantes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Odeco - Treillières",
+    "address": "8 Rue des Frères Lumière - Treillières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 14 Rue Descartes - Treillières (PRIVATE)",
+    "address": "31 Rue Pasteur - Treillières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Carquefou",
+    "address": "Avenue du Souchais - Carquefou",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Carrefour - Lesparre-Médoc",
+    "address": "32 Rue du Docteur Bos - Lesparre-Médoc",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Avenue de Bordeaux - Lesparre-Médoc",
+    "address": "40 Avenue de Bordeaux - Lesparre-Médoc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Lesparre-Médoc",
+    "address": "RD, 1215 ZAC Belloc - Lesparre-Médoc",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "sarl Lesparre auto services agent renault",
+    "address": "4 rue des forgerons - Lesparre-Médoc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Saint-Estèphe - 29 Route des Ormes",
+    "address": "29 Route des Ormes - Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Saint-Vivien-de-Médoc - 22 Cours Pierre Lassalle",
+    "address": "22 Cours Pierre Lassalle - Saint-Vivien-de-Médoc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Port maubert - Maubert",
+    "address": "Chemin des chasseurs - Maubert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Les Nouvelles Possessions, 2 - Braud-et-Saint-Louis",
+    "address": "2 Les Nouvelles Possessions - Braud-et-Saint-Louis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Hourtin-Ducasse (Tesla et autres)",
+    "address": "Route d'Hourtin - Saint-Sauveur",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - CNPE Le Blayais - Braud-et-Saint-Louis",
+    "address": "CNPE Le Blayais - Braud-et-Saint-Louis",
+    "connectors": [
+      "x100",
+      "x100"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

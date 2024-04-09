@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Metropolis Recharge - 2 Rue du Réveillon - Villecresnes",
+    "address": "2 Rue du Réveillon - Villecresnes",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Marché de la Ferme - Boissy-Saint-Léger",
+    "address": "6 Rue de Sucy - Boissy-Saint-Léger",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Driveco pour Renault - 51 Avenue du Général Leclerc - Boissy-Saint-Léger",
+    "address": "51 Avenue du Général Leclerc - Boissy-Saint-Léger",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Villecresnes - Intermarché",
+    "address": "Rue du Salle - Villecresnes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Boissy-Saint-Léger",
+    "address": "3t Rue De Paris - Boissy-Saint-Léger",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la Gare - Boissy-Saint-Léger",
+    "address": "11 Boulevard de la Gare - Boissy-Saint-Léger",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Cimetière d'Yerres",
+    "address": "57 Rue René Coty - Yerres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIPPEREC - Brunoy - 17 Rue de Verdun",
+    "address": "17 Rue de Verdun - Brunoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La borne bleue - 139 Route de Brie - Brunoy",
+    "address": "Résidence de la Sabliere, 139 Route de Brie - Brunoy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Limeil Brévannes",
+    "address": "8 Avenue de Valenton - Limeil-Brévannes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

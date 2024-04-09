@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sigeif - 1 rue Marcel Monge - Suresnes",
+    "address": "1 Rue Marcel Monge - Suresnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking cap Gemini (visiteurs uniquement)",
+    "address": "7 Rue Frédéric Clavel - Suresnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hippodrome Longchamp (VAE/EDPM uniquement)",
+    "address": "Avenue de l'Hippodrome - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant La Grande Cascade - L'Auberge du Bonheur (Tesla and others)",
+    "address": "Allée de Longchamp - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Suresnes - Hôtel Campanile",
+    "address": "15 boulevard Henri Sellier - Suresnes",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - rue Charles Peguy - Suresnes",
+    "address": "1 Rue Charles Péguy - Suresnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EFFIA - 20 Rue Etienne Dolet - Suresnes",
+    "address": "20 Rue Etienne Dolet - Suresnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIGEIF - 37 bd Sénard - Saint-Cloud",
+    "address": "37 Boulevard Sénard - Saint-Cloud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Place Henri IV Suresnes",
+    "address": "16 Place Henri IV - Suresnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Effia - Rue Jules Ferry - Suresnes",
+    "address": "1-12 Rue Jules Ferry - Suresnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

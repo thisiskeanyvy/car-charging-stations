@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Carrefour Marché - Bauvin",
+    "address": "75 bis Rue Jean Jaurès, - Bauvin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Rue Mirabeau - Meurchin",
+    "address": "10 Rue Mirabeau - Meurchin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - 71 Rue nationale - Annœullin",
+    "address": "71 Rue nationale - Annœullin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eglise Hantay",
+    "address": "9-11 Rue Mirabeau - Hantay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass Electrique - Eglise Annoeulin",
+    "address": "144 Rue du Huit Mai 1945 - Annœullin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Roger Salengro - Annoeullin",
+    "address": "71 Rue Roger Salengro - Annœullin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue Roger Salengro - Annoeullin",
+    "address": "71 Rue Roger Salengro - Annoeullin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Annoeullin - Mr Bricolage",
+    "address": "11 Rue Lavoisier - Annoeullin",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Rue Marcel Cabiddu - Douvrin",
+    "address": "64 Rue Marcel Cabiddu - Douvrin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Jean Jaurès",
+    "address": "Place jean jaures - Wingles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

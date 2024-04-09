@@ -1,0 +1,142 @@
+[
+  {
+    "title": "FR*SUN - Pons - Le Chail Zone Industrielle du Chail",
+    "address": "Le Chail Zone Industrielle du Chail - Pons",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château le Gibeau",
+    "address": "Le Gibaud Sud - Marignac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Pons - Place de la République",
+    "address": "Place de la République - Pons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SunXLium - 8 Rue de la Gîte - Montils",
+    "address": "8 Rue de la Gîte - Montils",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aeropôle Antoine de Saint-Exupéry",
+    "address": "L'Aérodrome - Saint-Germain-de-Lusignan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Cierzac - D731",
+    "address": "D731 - Cierzac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sarreguemines - Rue de la Bonne Fin - Salles-d'Angles",
+    "address": "Rue de la Bonne Fin - Salles-d'Angles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 - Aire de Saint-Léger (direction Niort)",
+    "address": "A10 - Saint-Léger",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Archiac - Rue de la Part des Anges (aire de covoiturage)",
+    "address": "100 Route de Cognac - Archiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Atlante - A10 Aire de Saint-Léger (direction Bordeaux)",
+    "address": "2 L'Aquitaine - Saint-Léger",
+    "connectors": [
+      "x5",
+      "x6",
+      "x5",
+      "x21",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

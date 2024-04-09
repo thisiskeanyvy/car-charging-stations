@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Syndicat Départemental d’Énergie et d’Équipement du Finistère (SDEF) - Landeleau - Place de l'Église",
+    "address": "Place de l'Église - Landeleau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d’Énergie et d’Équipement du Finistère (SDEF) - Spézet - Rue du Stade",
+    "address": "Rue du Stade - Spézet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Collorec - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Collorec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Plonévez du Faou (Place de la Résistance)",
+    "address": "Place de la Résistance - Plonévez-du-Faou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Châteauneuf-du-Faou - ZI de Kroaz Lesneven",
+    "address": "ZI de Kroaz Lesneven - Châteauneuf-du-Faou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Châteauneuf-du-Faou",
+    "address": "Rue de Morlaix - Châteauneuf-du-Faou",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Châteauneuf-du-Faou (Impasse de la Gare)",
+    "address": "Impasse de la Gare - Châteauneuf-du-Faou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ouest Charge - Châteauneuf-du-Faou - Pont du Roi",
+    "address": "Pont du Roi - Châteauneuf-du-Faou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Plouyé - KERGADIOU",
+    "address": "KERGADIOU - Plouyé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint-Goazec - Rue de la Mairie",
+    "address": "Rue de la Mairie - Saint-Goazec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

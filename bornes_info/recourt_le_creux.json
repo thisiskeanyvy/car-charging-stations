@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Chateau Hotel des Monthairons",
+    "address": "26 Rue de Verdun - Les Monthairons",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Woimbey - Che Des Vignerons",
+    "address": "Che Des Vignerons - Woimbey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Dieue sur Meuse",
+    "address": "4 Route des Dames - Dieue-sur-Meuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Souilly",
+    "address": "77 Voie-Sacrée - Souilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Destination Charging - le relais de la voie sacree - Les Trois-Domaines",
+    "address": "Rue de la Voie Sacrée - Les Trois-Domaines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Meuse-TGV",
+    "address": "D190 - Les Trois-Domaines",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Lacroix sur Meuse",
+    "address": "2 Rue Tourbon - Lacroix-sur-Meuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia | FR*OTH - Chauvoncourt - 4 Au Champ Thumaux",
+    "address": "4 Au Champ Thumaux - Chauvoncourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "HOTEL LE PRIVILEGE",
+    "address": "RDPT Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Boulevard de l'Europe - Haudainville",
+    "address": "Boulevard de l'Europe - Haudainville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

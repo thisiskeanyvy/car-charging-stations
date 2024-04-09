@@ -1,0 +1,120 @@
+[
+  {
+    "title": "OuestCharge - Mairie de Sizun",
+    "address": "D764 - Sizun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint-Sauveur - Rue de Lampaul Guimiliau",
+    "address": "Rue de Lampaul Guimiliau - Saint-Sauveur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Commana (Place de la Mairie)",
+    "address": "5 Place de la Mairie - Commana",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Hanvec (Place du Marché)",
+    "address": "7-9 Place du Marché - Hanvec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Guimiliau - Rue du Calvaire (car sharing only)",
+    "address": "Rue du Calvaire - Guimiliau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Irvillac (Route de Daoulas)",
+    "address": "Route de Daoulas - Irvillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.leclerc - Landivisiau",
+    "address": "44 Boulevard de la République - Landivisiau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Landivisiau",
+    "address": "Boulevard de la République - Landivisiau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Landivisiau - Avenue de Coat-Meur",
+    "address": "Avenue de Coat-Meur - Landivisiau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEF - Landivisiau (Place des Halles)",
+    "address": "Rue de la Tour d'Auvergne - Landivisiau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "E-Born - Office du Tourisme (centre ville)",
+    "address": "40 Rue Fontaine - Divonne-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Divonne (Tesla et autres)",
+    "address": "214 Avenue des Thermes - Divonne-les-Bains",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Poste - Place de l'Église - Divonne-les-Bains",
+    "address": "97 Place de l'Église - Divonne-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Esplanade du lac côté piscine - Divonne-les-Bains",
+    "address": "181 Avenue de la Plage - Divonne-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SoWatt - L'Accord Parfait - Route de Gex",
+    "address": "5638 Route de Gex - Divonne-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Divonne-les-Bains",
+    "address": "691 Avenue du Crêt d'Eau - Divonne-les-Bains",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Divonne 4",
+    "address": "2 Route De Divonne - Chavannes-de-Bogis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Manor Chavannes",
+    "address": "1 Chemin industriel - Chavannes de Bogis",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking manor chavannes",
+    "address": "1 Chemin Industriel - Chavannes-de-Bogis",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Green Motion - Manor - Chavannes-de-Bogis",
+    "address": "Chemin Industriel - Chavannes-de-Bogis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

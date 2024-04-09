@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hotel restaurant Yoann Conte Bord du lac",
+    "address": "13 Vieille Route des Pensières - Veyrier-du-Lac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Avenue Général Doyen - Veyrier-du-Lac",
+    "address": "18 Avenue Général Doyen - Veyrier-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bleu 1801",
+    "address": "97 Route d'Annecy - Veyrier-du-Lac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking hotel Encore ou Ancor",
+    "address": "61 Rue Centrale - Annecy-le-Vieux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 691 Route d'Albertville - Sevrier",
+    "address": "691 Route d'Albertville - Sevrier",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Beauregard - Restaurant La Boussole (Tesla)",
+    "address": "691 Route d'Albertville - Sévrier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rivage hôtel et spa - Avenue du Petit Port - Annecy-le-Vieux",
+    "address": "33 Avenue du Petit Port - Annecy",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel les tresoms Lake and Spa",
+    "address": "15 Boulevard de la Corniche - Annecy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Les Trésoms (Tesla)",
+    "address": "15 Boulevard de la Corniche - Annecy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue du Petit Port Annecy-le-Vieux",
+    "address": "9 Avenue du Petit Port - Annecy-le-Vieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

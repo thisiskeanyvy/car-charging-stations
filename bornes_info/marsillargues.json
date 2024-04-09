@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Renault - Lunel",
+    "address": "Route de la Mer - Lunel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aimargues, Route des Plages",
+    "address": "Route Des Plages 1 - Aimargues",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Leclerc - Lunel",
+    "address": "Rue du Levant - Lunel",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pharmacie du Vidourle - Lunel - 22kW AC",
+    "address": "391 Boulevard de Sainte-Claire - Lunel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Boulevard Sainte-Claire - Lunel",
+    "address": "Boulevard Sainte-Claire - Lunel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zephyre - Hôtel Kyriad Montpellier est Lunel",
+    "address": "177 Avenue Louis Lumière - Lunel",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SMEG30 - Avenue Des Anciens Combattants - Aimargues",
+    "address": "42 Avenue Des Anciens Combattants - Aimargues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - VW - Lunel",
+    "address": "180 Rue Thomas Edison - Lunel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Reveo - Lunel centre",
+    "address": "162 Quai Voltaire - Lunel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 (RÉVÉO) - Lotissement d'Aoû Fare - Saint-Laurent-d'Aigouze",
+    "address": "Lotissement d'Aoû Fare - Saint-Laurent-d'Aigouze",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

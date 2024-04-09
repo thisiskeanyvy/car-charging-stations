@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDESM - Allée du Château Mauregard",
+    "address": "15-17 Allée du Château - Mauregard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Roissy - Rue du Stade Sauvanet - Le Mesnil-Amelot",
+    "address": "3 Rue du Stade Sauvanet - Le Mesnil-Amelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Courtyard Paris Roissy CDG (Tesla and others)",
+    "address": "Rue de la Chapelle - Le Mesnil-Amelot",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Mairie - Le Mesnil-Amelot",
+    "address": "1 Rue du Chapeau - Le Mesnil-Amelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CMH - Le Mesnil-Amelot",
+    "address": "Rue de la Fossette - Le Mesnil-Amelot",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking PN Air France (Uniquement pour le personnel)",
+    "address": "Place de Madrid - Tremblay-en-France",
+    "connectors": [
+      "x52"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroports de Paris - IMO CDG Dôme - Tremblay-en-France",
+    "address": "5 Rue de Copenhague - Tremblay-en-France",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Air France - rue de Paris",
+    "address": "45 rue de Paris - Tremblay-en-France",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pégase Air France",
+    "address": "1 Rue de Paris - Tremblay-en-France",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Novotel Paris Charles de Gaulle",
+    "address": "Route de l'Épinette - Roissypole",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

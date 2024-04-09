@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDED - 4 Rue de Surotte - Thoraise",
+    "address": "4 Rue de Surotte - Thoraise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Mairie de Boussières",
+    "address": "9ter Rue du Centre - Boussières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Vit",
+    "address": "6018 Rue des Champs de Tenne - Saint-Vit",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SuperU - ZeborneMS - Rue des Belles Ouvrières - Saint-Vit",
+    "address": "16 Rue des Belles Ouvrières - Saint-Vit",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Saint-Vit - Intermarché",
+    "address": "2 rue de Besançon - Saint-Vit",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Driveco pour PSA - 1 Impasse Gougeot - Franois",
+    "address": "1 Impasse Gougeot - Franois",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco pour Fiat - 1 Impasse Gougeot - Franois",
+    "address": "1 Impasse Gougeot - Franois",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Games Factory - Besançon",
+    "address": "15 Rue Guillaume Apollinaire - Besançon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Espace 3000 - Rue Joachim du Bellay - Besançon",
+    "address": "1 Rue Joachim du Bellay - Besançon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Besançon Châteaufarine",
+    "address": "4 Rue Louis Aragon Hôtel Campanile Besançon Châteaufarine - Besançon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

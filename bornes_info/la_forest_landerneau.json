@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEF - La Forest-Landerneau (Rue de la Mairie)",
+    "address": "Rue de la Croix de Mission - La Forest-Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Landerneau (Le Calvaire St Ernel)",
+    "address": "4 Rue Saint-Ernel - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Dirinon (Place François-Marie Coatalem)",
+    "address": "Place Coatalem - Dirinon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Loperhet",
+    "address": "Route de Dirinon - Loperhet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - RUE ALAIN BOMBARD -ZAC TY AR MENEZ 15 - PLOUGASTEL-DAOULAS",
+    "address": "RUE ALAIN BOMBARD -ZAC TY AR MENEZ 15 - PLOUGASTEL-DAOULAS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Gare de Landerneau",
+    "address": "Rue de la Fontaine Blanche - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Quai de Léon - Landerneau",
+    "address": "30 Quai de Léon - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Plougastel-Daoulas",
+    "address": "100 Rue Daniel Gilard - Plougastel-Daoulas",
+    "connectors": [
+      "x5",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Plougastel-Daoulas-Menez, ZAC Ty Ar Menez -3049",
+    "address": "ZAC Ty Ar Menez - PLOUGASTEL DAOULAS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre Porsche Brest - Plougastel-Daoulas",
+    "address": "84 Rue Alain Colas - Plougastel-Daoulas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

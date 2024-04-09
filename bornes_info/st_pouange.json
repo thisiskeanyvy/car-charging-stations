@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEA - Rue De L'église - Saint-Léger-près-Troyes",
+    "address": "Rue De L'église - Saint-Léger-près-Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Resort Résidence Pierre (Tesla and others)",
+    "address": "25 Rue Pierre Curie - Rosières-prés-Troyes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking Place Charles De Gaulle - Rosières-prés-Troyes",
+    "address": "Parking Place Charles De Gaulle - Rosières-prés-Troyes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Rosières-prés-Troyes - Intermarché",
+    "address": "208 Rte d'Auxerre - Rosières-prés-Troyes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "130 Avenue du Maréchal Leclerc (Privé)",
+    "address": "130 Avenue du Maréchal Leclerc - Bréviandes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue du Champ Pile - Bouilly",
+    "address": "3 Rue du Champ Pile - Bouilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Audi - Saint-André-les-Vergers",
+    "address": "136 Route d'Auxerre - Saint-André-les-Vergers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rosières-près-Troyes - 12 Rue Marie Curie",
+    "address": "12 Rue Marie Curie - Rosières-près-Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Troyes Sud",
+    "address": "24-52 Avenue des Martyrs du 24 Août Hôtel Campanile - Buchères",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue de la Mairie, 1 - Buchères",
+    "address": "1 Rue de la Mairie - Buchères",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

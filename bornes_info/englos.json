@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Pass Pass - Englos - Rue Paul Procureur",
+    "address": "30 Rue Paul Procureur - Englos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AREA ENGLOS",
+    "address": "5 Allée du Progrès - Englos",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - AREA Santé - 5 Allée du Progrès - Englos",
+    "address": "5 Allée du Progrès - Englos",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Castorama - Englos",
+    "address": "6 Centre Commercial - Englos",
+    "connectors": [
+      "x19",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Concession Kia Opel englos",
+    "address": "352 Ctre Commercial - Englos",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial d'Englos les géants - Sequedin",
+    "address": "Boulevard du Commerce - Sequedin",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Boulanger Englos - Sequedin",
+    "address": "Rue Des Champs - Sequedin",
+    "connectors": [
+      "x6",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Sequedin",
+    "address": "Avenue de la Boutillerie - Sequedin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Centre Commercial - Englos",
+    "address": "Centre Commercial - Englos",
+    "connectors": [
+      "x26",
+      "x23",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ze watt - Auchan - Englos",
+    "address": "194 Galerie Marchande Auchan - Englos",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

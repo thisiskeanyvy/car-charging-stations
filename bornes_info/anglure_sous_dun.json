@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Freshmile - Médiathèque de Chauffailles",
+    "address": "4 Rue Élie Maurette - Chauffailles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "St Clément de Vers - Le Bourg",
+    "address": "Le Bourg - Saint-Clément-de-Vers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Chauffailles - Chemin Des Butteries",
+    "address": "Chemin Des Butteries - Chauffailles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*IEN - Chauffailles - La Bruyère",
+    "address": "La Bruyère - Chauffailles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Route de Mâcon",
+    "address": "3 Route de Mâcon - Varennes-sous-Dun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Mairie de Belmont De La Loire",
+    "address": "Place de l'église - Belmont De La Loire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Place de la Poste - La Clayette",
+    "address": "2 Rue Centrale - La Clayette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Societe ALHENA - Châteauneuf",
+    "address": "Le Bourg - Châteauneuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Saint-Christophe - Monsols",
+    "address": "82 Place de la Fontaine - Deux-Grosnes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "place du village",
+    "address": "30 Place de la Fontaine - Deux-Grosnes",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

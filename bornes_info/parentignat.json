@@ -1,0 +1,148 @@
+[
+  {
+    "title": "SIEG63 - Route du Vernet la Varenne - Parentignat",
+    "address": "7 Place du Château - Parentignat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Issoire",
+    "address": "Zac Des Prés A r Jean Bigot - Issoire",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Ibis Budget Issoire",
+    "address": "4 Avenue du Docteur Bienfait - Issoire",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Allego - Issoire - Zac Des Prés A r Jean Bigot",
+    "address": "Zac Des Prés A r Jean Bigot - Issoire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Atlante - Chapeau rouge",
+    "address": "113 Route de Saint Germain - Issoire",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Robert Schumann - Issoire",
+    "address": "14 Rue Robert Schumann - Issoire",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Issoire - Gedimat",
+    "address": "7 Rue Robert Schuman - Issoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Issoire",
+    "address": "2 Avenue Pierre Mendès-France - Issoire",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Zone commerciale des Listes - Issoire",
+    "address": "5 Avenue Pierre et Marie Curie - Issoire",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEG63 - 12 Place du Foirail - Issoire",
+    "address": "12 Place du Foirail - Issoire",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

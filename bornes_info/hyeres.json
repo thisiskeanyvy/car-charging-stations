@@ -1,0 +1,128 @@
+[
+  {
+    "title": "INDIGO - Place Clémenceau",
+    "address": "37 Place Georges Clemenceau - Hyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Avenue Ambroise Thomas - Hyères",
+    "address": "Avenue Ambroise Thomas - Hyères",
+    "connectors": [
+      "x20",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE83 - Place Clemémenceau (Parking extérieur)",
+    "address": "51 Avenue Alphonse Denis - Hyères",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "INDIGO - Rue du Soldat Bellon - Hyères",
+    "address": "2 Rue du Soldat Bellon - Hyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Place Gabriel Peri (parking ext) - Hyères",
+    "address": "2 Passage Sainte-Croix - Hyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE83 - Place Louis Versin (Parking exterieur)",
+    "address": "Place Louis Versin - Hyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Castel sainte claire (Privé)",
+    "address": "89 Allée Castel Sainte-Claire - Hyères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Rue Edouard Branly - Hyères",
+    "address": "1 Rue Edouard Branly - Hyères",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Quartier La Blocarde - Hyères",
+    "address": "Quartier La Blocarde - Hyeres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE83 - Piscine municipale Olbius Riquier (Parking exterieur)",
+    "address": "37 Avenue Ambroise Thomas - Hyères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

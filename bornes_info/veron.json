@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEY - Parking Hélix",
+    "address": "33 Route Nationale n'6 - Rosoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Villeneuve-sur-Yonne | Faubourg Saint Nicolas 1",
+    "address": "1 Faubourg Saint Nicolas - Villeneuve-sur-Yonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Faubourg Saint-Nicolas - Villeneuve-sur-Yonne",
+    "address": "28 Faubourg Saint-Nicolas - Villeneuve-sur-Yonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Contre Allée Boulevard Marceau - VILLENEUVE SUR YONNE (89)",
+    "address": "Contre Allée Boulevard Marceau - VILLENEUVE SUR YONNE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - Parking Rue Saint-Jean - VILLENEUVE SUR YONNE (89)",
+    "address": "Parking Rue Saint-Jean - VILLENEUVE SUR YONNE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rousson",
+    "address": "Rue de la Maison d'École - Rousson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Pôle commercial - Gron",
+    "address": "15B Grande Rue - Gron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Sens",
+    "address": "Rue Victor Schoelcher - Sens",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking KFC - Boulevard des Champs Captants",
+    "address": "Boulevard des Champs Captants - Sens",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ZC Sud D3 - Sens",
+    "address": "Boulevard Toussaint Louverture - Sens",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

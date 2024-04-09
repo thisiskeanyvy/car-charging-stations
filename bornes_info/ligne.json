@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDESM - Place de l'église - Beton-Bazoches",
+    "address": "5 Place de l'Église Saint-Denis - Beton-Bazoches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Rue de la Légende - Bezalles",
+    "address": "8 Rue de la Légende - Bezalles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Eglise de Boisdon",
+    "address": "4 Rue de l'Église - Boisdon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego (France) - OCPI - Sens - 2, rue Henri Montassier",
+    "address": "2, rue Henri Montassier - Sens",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de l'église - Cerneux",
+    "address": "10 Rue de l'Église - Cerneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sap Labs France (SLF) - Chemin de Choisy Aérodrome - La Ferté-Gaucher",
+    "address": "Chemin de Choisy Aérodrome - La Ferté-Gaucher",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Circuit de la Ferté Gaucher (Tesla)",
+    "address": "D204 - Saint-Mars-Vieux-Maisons",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher",
+    "address": "Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher INEXISTANT",
+    "address": "Aérodrome Ancien Chemin de Choisy - La Ferté-Gaucher",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Église Choisy en Brie",
+    "address": "48 Grande Rue - Choisy-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

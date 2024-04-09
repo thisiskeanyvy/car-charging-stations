@@ -1,0 +1,128 @@
+[
+  {
+    "title": "IZIVIA - Parking P1 - Stéphane Dechant - La Mulatière",
+    "address": "10 Rue Stéphane Dechant - La Mulatière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Tony Garnier (Niveau -1)",
+    "address": "16 avenue Tony Garnier - Lyon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Chemin de la Bastéro - La Mulatière",
+    "address": "Chemin de la Bastéro - La Mulatière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "la maison",
+    "address": "4 Rue Jonas Salk - Lyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel mob (Tesla et autres)",
+    "address": "305 Rue Hrant Dink - Lyon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Grand Lyon - Halle Tony Garnier",
+    "address": "3 Avenue Debourg - Lyon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Kyriad Lyon Sud",
+    "address": "43 Chemin de la Croix Pivort - Sainte-Foy-lès-Lyon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue du Rhône - Oullins",
+    "address": "1 Avenue du Rhône - Oullins",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "hotel ibis gerland",
+    "address": "246 Rue Marcel Mérieux - Lyon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ibis Lyon Gerland - Rue Marcel Mérieux",
+    "address": "246 Rue Marcel Mérieux - Lyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

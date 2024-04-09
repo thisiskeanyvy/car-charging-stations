@@ -1,0 +1,124 @@
+[
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Claix - Chemin de Risset",
+    "address": "Chemin de Risset - Claix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Place du Champ de Foire - Claix",
+    "address": "Place du Champ de Foire - Claix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Varces-Allières-et-Risset - Rue des Saules",
+    "address": "Rue des Saules - Varces-Allières-et-Risset",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - D1075 P+R Rochefort - Varces-Allières-et-Risset",
+    "address": "D1075, Route du Grand Rochefort - Varces-Allières-et-Risset",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Varces-Allières-et-Risset",
+    "address": "3B Rue de l'Industrie - Varces-Allières-et-Risset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Varces-Allières-et-Risset - Rue des Tanneurs",
+    "address": "Rue des Tanneurs - Varces-Allières-et-Risset",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*M38 Grenoble Alpes Métropole - Claix - 5 Avenue de la Ridelet",
+    "address": "5 Avenue de la Ridelet - Claix",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Rue Charles de Gaulle - Varces-Allières-et-Risset",
+    "address": "Rue Charles de Gaulle - Varces-Allières-et-Risset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grenoble Métropole - Varces-Allières-et-Risset - 30 Avenue Joliot Curie",
+    "address": "30 Avenue Joliot Curie - Varces-Allières-et-Risset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Place du 8 Mai 1945",
+    "address": "4 Place du 8 Mai 1945 - Le Pont-de-Claix",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

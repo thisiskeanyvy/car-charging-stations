@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Pass Pass - Mairie de Gognies-Chaussée",
+    "address": "Place de la République - Gognies-Chaussée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Mairie de Bettignies",
+    "address": "Route de Villers Sire Nicole - Bettignies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Mairieux",
+    "address": "13 Rue Haute - Mairieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass-pass - Bersillies",
+    "address": "1 Rue Saint-Pierre d'Hautmont - Bersillies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Grand Place - Villers-Sire-Nicole",
+    "address": "4A Rue du Onze Novembre 1918 - Villers-Sire-Nicole",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Last Mile Solutions (NL) - Quévy - 58 Grand Route, Quévy-le-Grand",
+    "address": "58 Grand Route, Quévy-le-Grand - Quévy",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Feignies",
+    "address": "28 Rue Jean Jaurès, - Feignies",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking de l'église - Feignies",
+    "address": "7 Place de l'Église - Feignies",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Maubeuge",
+    "address": "20 Avenue Alphonse De Lamartine - Maubeuge",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - Carrefour - Maubeuge",
+    "address": "20 Avenue Alphonse De Lamartine - Maubeuge",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

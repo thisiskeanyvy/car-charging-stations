@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Grande salle Pomy",
+    "address": "3 Rue de la Poste - Pomy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yverdon-les-Bains Y-Cars SA",
+    "address": "1 Route de Lausanne - Yverdon-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Y-PARC - Swiss Technopole",
+    "address": "7 Rue Galilée - Yverdon-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Impact Living",
+    "address": "29 Chemin des sources - Yverdon-les-bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yverdon-les-Bains Grand Hotel des Bains",
+    "address": "22 Avenue des Bains - Yverdon-les-Bains",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Yverdon-les-Bains - 2 Rue de Plaisance",
+    "address": "2 Rue de Plaisance - Yverdon-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yverdon-Energies / Explorit",
+    "address": "Avenue des Découvertes - Yverdon-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Yverdon-les-Bains - 2 Rue des Petits-Champs",
+    "address": "2 Rue des Petits-Champs - Yverdon-les-Bains",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Explorit",
+    "address": "1 Avenue des Découvertes - Yverdon-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Source - Yverdon-les-Bains",
+    "address": "21 Avenue des Bains - Yverdon-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

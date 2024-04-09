@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Indigo Park - 16 Allée Jean Jaurès (-1, orange) - Toulouse",
+    "address": "16 Allée Jean Jaurès - Toulouse",
+    "connectors": [
+      "x20",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - Place Victor Hugo - Toulouse",
+    "address": "Place Victor Hugo - Toulouse",
+    "connectors": [
+      "x20",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Allée Jean Jaurès - Toulouse",
+    "address": "34–56 Allée Jean Jaurès - Toulouse",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Toulouse Métropole - Boulevard Lazare Carnot",
+    "address": "Boulevard Lazare Carnot - Toulouse",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - Saint-Georges (-3, zone 3A) - Toulouse",
+    "address": "51 Rue du Rempart Saint-Etienne - Toulouse",
+    "connectors": [
+      "x45"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "INDIGO - Place du Capitole (-2) - Toulouse",
+    "address": "Place du Capitole - Toulouse",
+    "connectors": [
+      "x43",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Hôtel du 23 Rue de Bayard - Toulouse",
+    "address": "23 Rue de Bayard - Toulouse",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Raymond 4 - Toulouse",
+    "address": "16 Rue Raymond IV - Toulouse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Hotel Douce - 84 Allée Jean Jaurès - Toulouse",
+    "address": "84 Allée Jean Jaurès - Toulouse",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole de Toulouse - Boulevard Lazare Carnot - Toulouse",
+    "address": "25 Boulevard Lazare Carnot - Toulouse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  }
+]

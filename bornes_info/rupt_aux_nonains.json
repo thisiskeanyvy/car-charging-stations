@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Modulo-Energies - Lisle en Rigault",
+    "address": "23 Rue Henri Chevalier - Lisle-en-Rigault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Ancerville",
+    "address": "87 Rue de Saint-Dizier - Ancerville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Rue de la Fontaine - Chamouilley",
+    "address": "13 Rue de la Fontaine - Chamouilley",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sos femmes accueil",
+    "address": "2 Rue Saint-John Perse - Saint-Dizier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "E. Leclerc",
+    "address": "- Longeville-en-Barrois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GEPELEC - Rue Maréchal Lannes",
+    "address": "16 Rue Maréchal Lannes - Savonnières-devant-Bar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - 7 Avenue Jacques Marcellot - Eurville-Bienville",
+    "address": "7 Avenue Jacques Marcellot - Eurville-Bienville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Les Roises - Savonnières-devant-Bar",
+    "address": "Les Roises - Savonnières-devant-Bar",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo-Energies - Bar le Duc - Aulnois",
+    "address": "6 Rue d'Aulnois - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Bar-le-Duc",
+    "address": "10 Avenue de la Grande Terre - Bar-le-Duc",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

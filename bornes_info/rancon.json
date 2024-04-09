@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Manoir du Perroy",
+    "address": "325 route de rançon - Rives en Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking quai Guilbaud",
+    "address": "1 Rue de la Boucherie - Caudebec-en-Caux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - ZAC Caux Multipôles null - Valliquerville",
+    "address": "ZAC Caux Multipôles null - Valliquerville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Val au Cesne",
+    "address": "140 Le Val au Cesne - Croix-Mare",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Route de Betteville - Épinay-sur-Duclair",
+    "address": "Route de Betteville - Épinay-sur-Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Yvetot",
+    "address": "26 Rue Réfigny - Yvetot",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Route de Saint-Paër - Sainte-Marguerite-sur-Duclair",
+    "address": "Route de Saint-Paër - Sainte-Marguerite-sur-Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Contact - Chemin du Roy",
+    "address": "1 Chemin du Roy - Arelaune-en-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Yvetot",
+    "address": "10 Rue Jean Moulin - Yvetot",
+    "connectors": [
+      "x38",
+      "x38"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CREA’VENIR - Le Trait (Place Amiral Ronarc'h communément appelée place du marché)",
+    "address": "576 Rue Raymond Breteche - Le Trait",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

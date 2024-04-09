@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SEDI - Route de Vienne - Chamagnieu",
+    "address": "56 Chemin du Chevalet - Chamagnieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps S.L./7003",
+    "address": "192 Montée de Bouvaresse - Frontonas",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du 19 mars 1962 - Crémieu",
+    "address": "Rue du 19 Mars 1962 - Crémieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Veille Citoyenne BRD, Hôtel de Ville - Place De La Mairie - Tignieu-Jameyzieu",
+    "address": "Place De La Mairie - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - L’Isle-D’Abeau - Place du 8 Mai 1945",
+    "address": "Place du 8 Mai 1945 - L’Isle-D’Abeau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Médiathèque de L'isle-d'Abeau",
+    "address": "Promenade du Documanus - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Villefontaine - Hôtel Mercure Lyon l'Isle d'Abeau",
+    "address": "Parc Technologique, 20 Rue Antoine Condorcet - Villefontaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - L'Isle-d'Abeau",
+    "address": "25 Rue des Sayes - L'Isle-d'Abeau",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Trept",
+    "address": "13 Grande Rue - Trept",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "TotalEnergies - A43 Aire de l'Isle d'Abeau (direction Lyon)",
+    "address": "5 Route sans nom - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

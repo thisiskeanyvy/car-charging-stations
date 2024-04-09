@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lidl Chard",
+    "address": "Tapstone Rd - Chard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Eaglewood - Ilminster",
+    "address": "Eaglewood - Ilminster",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route 303 Service Station",
+    "address": "A303 - Honiton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pod Point - Farthings country house hotel - Hatch beauchamp",
+    "address": "- Hatch beauchamp",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lower Treave Camping",
+    "address": "A30 A30 - Crows-an-wra",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Land's End Visitor Centre, Sennen, Cornwall",
+    "address": "0 A30 - Sennen Cove",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lyme Regis, Charmouth Road Car Park",
+    "address": "- Charmouth Road - Lyme Regis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alexandra Hotel & Restaurant (Tesla)",
+    "address": "Pound Street - Lyme Regis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Roadchef, M5 (S), J25-26, Trull, Taunton Deane",
+    "address": "Taunton Deane Services Westbound - Taunton Deane",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Roadchef, M5 (N), J25-26, Trull, Taunton Deane",
+    "address": "Taunton Deane Services Eastbound - Taunton Deane",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

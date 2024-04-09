@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEHG - Allée du Viognier - Auzeville-Tolosane",
+    "address": "Allée du Viognier - Auzeville-Tolosane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Ramonville-Saint-Agne - Action",
+    "address": "2 avenue des crêtes - Ramonville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi - Rue Louis Braille - Ramonville-Saint-Agne",
+    "address": "16 Rue Louis Braille - Ramonville-Saint-Agne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Ramonville-Saint-Agne",
+    "address": "1 Rue Louis Braille - Ramonville-Saint-Agne",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Peugeot Ramonville",
+    "address": "7 et 9 Avenue des crêtes - Ramonville Saint Agne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Jacques Prévert - Ramonville-Saint-Agne",
+    "address": "14 Rue Jacques Prévert - Ramonville-Saint-Agne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Domaine de Montjoie (Tesla)",
+    "address": "63 Avenue de l'Aeropostale - Ramonville-Saint-Agne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Rue des Ormes - Castanet-Tolosan",
+    "address": "64 Rue des Ormes - Castanet-Tolosan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEHG - Allée Georges Pompidou Ramonville-Saint-Agne",
+    "address": "Allée Georges Pompidou - Ramonville-Saint-Agne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Ramonville-Saint-Agne",
+    "address": "Rue Edouard BRANLY - Ramonville-Saint-Agne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

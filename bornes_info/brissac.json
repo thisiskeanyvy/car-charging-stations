@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SIEML - BRISSAC QUINCE - Place de Gaulle",
+    "address": "Place du Général de Gaulle - Brissac-Quincé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LES CAVES DE LA LOIRE - Le Vieux Pré",
+    "address": "Le Vieux Pré - Brissac-Loire-Aubance",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Leclerc - Brissac Quincé",
+    "address": "6 Allée des Oiseaux - Brissac-Loire-Aubance",
+    "connectors": [
+      "x3",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Vauchretien - Parking Eglise",
+    "address": "D127 - Vauchrétien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Mairie de St Melaine Sur Aubance",
+    "address": "Rue Armand Brousse - Saint-Melaine-sur-Aubance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Brissac-Loire-Aubance | Rue du Layon 2",
+    "address": "2 Rue du Layon - Brissac Loire Aubance",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - ST JEAN DES MAUVRETS - Rue St Almand",
+    "address": "Rue Saint-Almand - Saint-Jean-des-Mauvrets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Soulaines Sur Aubance - Parking Salle Cortequisse",
+    "address": "Rue de l'Aubance - Soulaines-sur-Aubance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - JUIGNE SUR LOIRE - Impasse Du Rocher",
+    "address": "Impasse du Rocher - Juigné-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEML - Aire Co Treillebois Route de Poitiers - Saint-Melaine-sur-Aubance",
+    "address": "30 Route de Poitiers - Saint-Melaine-sur-Aubance",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

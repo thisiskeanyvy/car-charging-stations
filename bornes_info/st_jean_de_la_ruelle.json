@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Parking privé",
+    "address": "3 Rue jean ferrat - Saint jean de la ruelle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orléans Métropole - Allée Anna Marly - Saint-Jean-de-la-Ruelle",
+    "address": "2 Allée Anna Marly - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E.Leclerc Drive - Saint-Jean-de-la-Ruelle",
+    "address": "2 Rue Lucien Bois - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Club d'escrime de Saint-Jean-de-la-Ruelle",
+    "address": "Rue mendes france - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 12 Rue Jean Nicot - Saint-Jean-de-la-Ruelle",
+    "address": "12 Rue Jean Nicot - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yess electrique - Rue Jean Nicot",
+    "address": "7 Rue Jean Nicot - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Avenue Pierre Mendès France - Saint-Jean-de-la-Ruelle",
+    "address": "1 Avenue Pierre Mendès France - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Kangourou Vert",
+    "address": "3 Rue Lavoisier - Ingré",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Caisse d'Epargne - Avenue Georges Clemenceau",
+    "address": "25 Avenue Georges Clemenceau - Saint-Jean-de-la-Ruelle",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre administratif caserne coligny (Privé)",
+    "address": "131 Rue du Faubourg Bannier - Orléans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

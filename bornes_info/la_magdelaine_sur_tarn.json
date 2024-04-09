@@ -1,0 +1,120 @@
+[
+  {
+    "title": "CFA UNICEM",
+    "address": "1 chemin des Prieurs - Bessières",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Château de Vernhes - Bondigoux",
+    "address": "Château de Vernhes - Bondigoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SuperU - ZeborneMS - 31660 Avenue des Portes de, - Bessières",
+    "address": "Avenue des Portes de, - Bessières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Parking - Montjoire",
+    "address": "141 Route de Toulouse - Montjoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Parking du pont - Bessières",
+    "address": "Avenue du Pont - Bessières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Place Charles Ourgaut - Villemur-sur-Tarn",
+    "address": "50 Rue des Huguenots - Villemur-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Route de Paulhac - Buzet-sur-Tarn",
+    "address": "Route de Paulhac - Buzet-sur-Tarn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Buzet-sur-Tarn - Rue des Écoles",
+    "address": "35 Rue des Écoles - Buzet-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "mobilygreen - Garidech - Intermarché",
+    "address": "4 Chemin du Chat - Garidech",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ALDI - Route de Roqueserière",
+    "address": "81 Route de Roqueserière - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

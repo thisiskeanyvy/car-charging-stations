@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEA 10 - Grande Rue - Nogent-sur-Aube",
+    "address": "65 Grande Rue - Nogent-sur-Aube",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Mairie - Piney",
+    "address": "7 Rue de la Halle - Piney",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Maison médicale - Piney",
+    "address": "19 Rue du Tureau - Piney",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fetes - Chaudrey",
+    "address": "26 Rue du Bourg - Chaudrey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Place Collaverdey Charmont-sous-Barbuise",
+    "address": "3 Place Collaverdey - Charmont-sous-Barbuise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "domaine de la forêt d Orient - Rouilly-Sacey",
+    "address": "- Rouilly-Sacey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 24 Route du Lac d'Orient - Rouilly-Sacey",
+    "address": "24 Route du Lac d'Orient - Rouilly-Sacey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue charles delaunay Ramerupt",
+    "address": "16 Rue charles delaunay - Ramerupt",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Ruelle du Monument - Jasseines",
+    "address": "Ruelle du Monument - Jasseines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A26 Aire de Charmon-sous-Barbuise",
+    "address": "A26 - Charmont-sous-Barbuise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

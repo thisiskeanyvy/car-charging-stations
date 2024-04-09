@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEHG - Avenue Montaigne - Plaisance-du-touch",
+    "address": "49 Avenue Montaigne - Plaisance-du-Touch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Plaisance-du-Touch - Intermarché",
+    "address": "2 Rue Pierre Loti - Plaisance-du-Touch",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Rue Pierre Loti - Plaisance-du-Touch",
+    "address": "Rue Pierre Loti - Plaisance-du-Touch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Transport Terrassement Toulousain",
+    "address": "99 Rue du Prat Dessus - Plaisance-du-Touch",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mairie plaisance Du Touch (Privé)",
+    "address": "25 Rue Maubec - Plaisance-du-Touch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toulibeo - Avenue du Général de Gaulle - Tournefeuille",
+    "address": "Avenue du Général de Gaulle - Tournefeuille",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Garage Gerome - Plaisance-du-Touch",
+    "address": "1 Rue de la Hille - Plaisance-du-Touch",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Toulibeo - Avenue de Toulouse - Cugnaux",
+    "address": "5 Avenue de Toulouse - Cugnaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Mairie de Tournefeuille",
+    "address": "9 Impasse Max Baylac - Tournefeuille",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Plaisance du Touch",
+    "address": "73 route de Lombez - Plaisance du Touch",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

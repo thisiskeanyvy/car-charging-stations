@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking face à la Mairie",
+    "address": "2–120 Rue du Manoir - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Grand Rue - Bressolles",
+    "address": "32 Impasse de la Cure - Bressolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc des oiseaux - Perrier Rond",
+    "address": "Perrier Rond - Villars-les-Dombes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - 85 Chemin de la Portelle - Montluel",
+    "address": "Chemin de la Portelle - Montluel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Super U - Montluel",
+    "address": "16 Cours de la Portelle - Montluel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Saint-André-de-Corcy",
+    "address": "534 Rue de l'Industrie - Saint-André-de-Corcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SUPER U - Z.A.C. de la Tuilerie 1 et 2",
+    "address": "93 Rue Pierre Poivre - Villars-les-Dombes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Saint-André-de-Corcy",
+    "address": "306 Route de Bourg-en-Bresse - Saint-André-de-Corcy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Dagneux - Toyota",
+    "address": "1247 Rue des Chartinières - Dagneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Communaute de commune 3CM - Chemin des Prés Seigneurs",
+    "address": "Chemin des Prés Seigneurs - Montluel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

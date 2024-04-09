@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SE61 - Place Pierre Veau - Saint-Germain-de-la-Coudre",
+    "address": "14 Place Pierre Veau - Saint-Germain-de-la-Coudre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Planque en Perche",
+    "address": "La Buchère - Bellou-le-Trichard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place de la mairie - Le Theil",
+    "address": "5 Place de la Mairie - Le Theil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Val-au-Perche - D107/D407 Rond-Point de Queux",
+    "address": "Rond-Point de Queux - Val-au-Perche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - La Ferté-Bernard",
+    "address": "Avenue de Verdun - La Ferté-Bernard",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Saint-Cosme-en-Vairais - Place Saint-Damien",
+    "address": "Place Saint-Damien - Saint-Cosme-en-Vairais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - La Ferté-Bernard - 1 Rue Alfred Marchand",
+    "address": "1 Rue Alfred Marchand - La Ferté-Bernard",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Place Boucicaut Bellême",
+    "address": "5bis Place Boucicaut - Bellême",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SE61 - Place du Général Leclerc - Bellême",
+    "address": "Place du Général Leclerc - Bellême",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc - La Ferté-Bernard",
+    "address": "1 D1 - La Ferté-Bernard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

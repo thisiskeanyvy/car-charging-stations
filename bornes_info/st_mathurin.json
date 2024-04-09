@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Camping MS Le Trianon",
+    "address": "95 Rue du Maréchal Joffre - Les Sables-d'Olonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U Olonne",
+    "address": "73 rue du 8 Mai 1945 - Les Sables d'Olonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SyDEV - (Parking du Havre - Rue des Bosquets - OLONNE SUR MER",
+    "address": "71 Rue du 8 Mai 1945 - Olonne Sur Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Rue des Sables - Office de Tourisme - OLONNE SUR MER SUPPRIME",
+    "address": "4 Rue Des Sables - Olonne Sur Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VILLAVERDE LES SABLES d'OLONNE",
+    "address": "0 Avenue François Mitterrand - Olonne-sur-Mer",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - RN160 Les Sables-d'Olonne",
+    "address": "5 Rue Alexander Fleming - Les Sables-d'Olonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LIDL - Les Achards",
+    "address": "175 Avenue Georges Clemenceau - Les Achards",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Super U - Les Achards",
+    "address": "Rue des Blés - Les Achards",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Le Château d'Olonne (Parking Millet - Rue Séraphin Buton)",
+    "address": "Rue de l'Eglise - Château D'Olonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "McDonald's des Olonnes (Privé)",
+    "address": "54 Rue Eric Tabarly - Les Sables-d'Olonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

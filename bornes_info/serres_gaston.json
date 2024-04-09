@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Pizzerias - Samadet",
+    "address": "13 Rue de l'Église - Samadet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Spar - Samadet",
+    "address": "Route d'Arzacq - Samadet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NW IECharge - Hagetmau - 41 Chemin de Labraouste",
+    "address": "41 Chemin de Labraouste - Hagetmau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking garage Larrouquis",
+    "address": "546 Route de Bellevue - Hagetmau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place Grammont - Hagetmau",
+    "address": "Place Gramont - Hagetmau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Avenue du Docteur Edouard Castéra Hagetmau",
+    "address": "Avenue du Docteur Edouard Castéra - Hagetmau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Enerstock - Intermarché - Hagetmau",
+    "address": "469 Route d'Hagetmau - Hagetmau",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot France - Momuy - RD933S",
+    "address": "RD933S - Momuy",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Foyer",
+    "address": "15 route de cledes - Puyol cazalet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Saint-Sever",
+    "address": "Rte de Pau, - Saint-Sever",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SEDI - Parking Place du 10e Regroupement - Saint-Laurent-du-Pont",
+    "address": "Place du 10ème Regroupement - Saint-Laurent-du-Pont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Recharger mon auto - Entre-Deux-Guiers - Déplacer les montagnes SÀRL",
+    "address": "Les Bauches Déplacer les montagnes SÀRL - Entre-Deux-Guiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Entre deux Guiers",
+    "address": "111 Avenue du 8 Mai 1945 - Entre-Deux-Guiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Cave des Chartreuses - Voiron",
+    "address": "10 boulevard Edgar Kofler - Voiron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Mille Pas / Brasserie Chavant",
+    "address": "72 Avenue Léon et Joanny Tardy - Voiron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Rue de l'Industrie - Voiron (privé)",
+    "address": "7 Rue de l'Industrie - Voiron",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue François Mitterrand - Voiron",
+    "address": "34 Avenue François Mitterrand - Voiron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking des Tisserands",
+    "address": "21 Rue des Fabriques - Voiron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Gymnase Chautard - Voiron",
+    "address": "Boulevard Denfert Rochereau - Voiron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - D128, 1247 - Coublevie",
+    "address": "1247 D128 - Coublevie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

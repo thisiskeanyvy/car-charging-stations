@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SEYMABORNE - Châteaufort - Rue du Moulin",
+    "address": "Rue du Moulin - Châteaufort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Safran - Châteaufort (Privé)",
+    "address": "Rue des Jeunes Bois - Châteaufort",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - magny les hameaux - 2 rue Salvador Allende null",
+    "address": "2 rue Salvador Allende null - magny les hameaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Telehouse 3",
+    "address": "1 rue Pablo Picasso - Magny les-Hameaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Magny-les-Hameaux - Rue Haroun Tazieff",
+    "address": "Rue Haroun Tazieff - Magny-les-Hameaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Magny les Hx - Gymnase Mauduit",
+    "address": "43 Rue André Hodebourg - Magny-les-Hameaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "5 Place du Maréchal Leclerc de Hauteclocque",
+    "address": "5 Place du Maréchal Leclerc de Hauteclocque - Toussus-le-Noble",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking tour de controle Toussus",
+    "address": "Aérodrome de Toussus le Noble - Toussus-le-Noble",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge France - Aérodrome de Toussus le Noble - Toussus-le-Noble",
+    "address": "Aérodrome de Toussus le Noble - Toussus-le-Noble",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Toussus-le-Noble - Rue Robert Esnault Pelterie",
+    "address": "Rue Robert Esnault Pelterie - Toussus-le-Noble",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

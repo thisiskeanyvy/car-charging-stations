@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Renault - Avenue des Farges",
+    "address": "1112 Avenue des Farges - Bellegarde-en-Forez",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Rue Victor Hugo, 170 - Saint-André-le-Puy",
+    "address": "26 Rue Victor Hugo - Saint-André-le-Puy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domitys - Montrond-les-Bains",
+    "address": "213 Chemin de l'Étra - Montrond-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Montrond-les-Bains",
+    "address": "Rue du Rival, - Montrond-les-Bains",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Casino Joa - Montrond-les-Bains",
+    "address": "82 Rue francis laur - Montrond-les-Bains",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Feurs",
+    "address": "Route de Saint-Etienne - Feurs",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IEcharge - Impasse de Murevieille - Chazelles-sur-Lyon",
+    "address": "102 Impasse de Murevieille - Chazelles-sur-Lyon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Lidl - Feurs",
+    "address": "Chemin des Sables - Feurs",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "e-Totem - 33 Rte de Saint-Etienne - Feurs",
+    "address": "33 Rte de Saint-Etienne - Feurs",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.I. Montalegre",
+    "address": "Rue Claude Brosse - Chazelles-sur-Lyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

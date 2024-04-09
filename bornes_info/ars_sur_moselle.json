@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Shell Recharge - Rue de Metz",
+    "address": "Rue de Metz - Jouy-aux-Arches",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue de Metz - Jouy-aux-Arches",
+    "address": "54 Rue De Metz - Jouy-aux-Arches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Castorama - Jouy-aux-Arches",
+    "address": "78 Rue de Metz - Jouy-aux-Arches",
+    "connectors": [
+      "x29",
+      "x31"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Easy Charge Services - Jouy aux arches - Actisud Saint Jean",
+    "address": "Actisud Saint Jean - Jouy aux arches",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Actisud Saint-Jean - Jouy-aux-Arches",
+    "address": "Actisud Saint-Jean - Jouy-aux-Arches",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chemin de la Pie Grièche",
+    "address": "Chemin de la Pie Grièche - Moulins-lès-Metz",
+    "connectors": [
+      "x7",
+      "x2",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Arthur Bonnet - Augny",
+    "address": "24 Rue Du Bois D'orly - Augny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V3 - Metz Sud",
+    "address": "1 Chemin de la Pie Grièche - Moulins-lès-Metz",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargePoint network - 31 Rue du Bois d'Orly - Augny",
+    "address": "31 Rue du Bois d'Orly - Augny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Metz Augny",
+    "address": "Rue des Gravières - Augny",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

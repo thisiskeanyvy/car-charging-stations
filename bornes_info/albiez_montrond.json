@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Yes55 - Mairie de Foncouverte la Toussuire",
+    "address": "Rue de Salette - Foncouverte la Toussuire",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - Les Karellis - Montricher-Albanne",
+    "address": "Les Karellis - Montricher-Albanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Station Service Le Corbier",
+    "address": "1 D78A - Villarembert",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Réseau TCB FR - SAINT JEAN DE MAURIENNE - Lieu dit Combe Paillarde",
+    "address": "Lieu dit Combe Paillarde - SAINT JEAN DE MAURIENNE",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La poudreuse - Villarembert",
+    "address": "D 78 A - Villarembert",
+    "connectors": [
+      "x6",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SGA Automation - 388 Avenue du Mont Cenis - Saint-Jean-de-Maurienne (Privé)",
+    "address": "388 Avenue du Mont Cenis - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V3 - Saint-Jean-de-Maurienne",
+    "address": "416 Avenue D'italie - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Lidl - Saint-Jean-de-Maurienne",
+    "address": "8 Avenue du 8 Mai 1945 - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Siège SOREA- Rue Porte Martel - Saint-Julien-Mont-Denis",
+    "address": "Rue Porte Martel - Saint-Julien-Mont-Denis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SoWatt - Volkswagen - Saint-Jean-de-Maurienne",
+    "address": "332 Avenue du 8 Mai 1945 - Saint-Jean-de-Maurienne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

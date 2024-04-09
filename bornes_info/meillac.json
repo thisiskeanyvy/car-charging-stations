@@ -1,0 +1,134 @@
+[
+  {
+    "title": "OuestCharge - Allée de Lohon - Combourg",
+    "address": "2 Allée de Iohon - Combourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rue des Princes - Combourg",
+    "address": "10 Rue des Princes - Combourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - La Magdelaine - Combourg",
+    "address": "La Magdelaine - Combourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue des Coutures - Combourg",
+    "address": "14 Rue des Coutures - Combourg",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Super U - Combourg",
+    "address": "7 Avenue des Érables - Combourg",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de l'Église - Saint-Domineuc",
+    "address": "13 Place de l'Église - Saint-Domineuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "RossiniEnergy - Impasse de la Motte Féodale - Pleugueneuc",
+    "address": "Impasse de la Motte Féodale - Pleugueneuc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D976 - Combourg",
+    "address": "262 La Noe De Beaumont - Combourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "OuestCharge - Rue de l'Égalité - Saint-Pierre-de-Plesguen",
+    "address": "6-8 Rue de l'Égalité - Saint-Pierre-de-Plesguen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Super U - Tinténiac",
+    "address": "2 Rue Françoise Leroux - Tinténiac",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

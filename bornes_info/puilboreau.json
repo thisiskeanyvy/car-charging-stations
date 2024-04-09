@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Puilboreau - Espace Michel Crépeau / Médiathèque",
+    "address": "Place Jean Filippi - Puilboreau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Puilboreau",
+    "address": "22 Rue du 8 Mai - Puilboreau",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Kiabi - Puilboreau",
+    "address": "4 Rue Du 18 Juin - Puilboreau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ChargeGuru - BMW/MINI - Puilboreau",
+    "address": "51 Rue du 8 Mai - Puilboreau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fnac Beaulieu La Rochelle - Rue du 18 Juin - Puilboreau",
+    "address": "22 Rue du 18 Juin - Puilboreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Volvo/Hyundai - Puilboreau",
+    "address": "6/7 Impasse de Pologne - Puilboreau",
+    "connectors": [
+      "x3",
+      "x7",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Puilboreau - Netto",
+    "address": "76 Rue du 18 Juin - Puilboreau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - N137 Relais de Beaulieu (direction La Rochelle)",
+    "address": "6080 N11 - Puilboreau",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Kia Barbier",
+    "address": "6 Impasse De Pologne - Puilboreau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - MG Puilboreau - 6-7 Imp. de Pologne, - Puilboreau",
+    "address": "6-7 Imp. de Pologne, - Puilboreau",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

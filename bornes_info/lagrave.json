@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lidl - Colombes",
+    "address": "Rue Président Salvador Allende - COLOMBES",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Atos River Ouest (Privé)",
+    "address": "80 Quai Voltaire - Bezons",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 35 rue de Seine - Colombes",
+    "address": "35 Rue de Seine - Colombes",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - 81 Rue Jean Jaurès - Bezons",
+    "address": "81 Rue Jean Jaurès - Bezons",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Indigo - Bezons",
+    "address": "50 Rue Edouard Vaillant - Bezons",
+    "connectors": [
+      "x18"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Colombes - 152 Boulevard Charles de Gaulle",
+    "address": "152 Boulevard Charles de Gaulle - Colombes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Q-Park Aragon",
+    "address": "152 boulevard charles de gaulles - Colombes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 77 Rue Edouard Vaillant - Bezons",
+    "address": "77 Rue Edouard Vaillant - Bezons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre Commercial Leclerc - Les 4 Chemins - Colombes",
+    "address": "160 Boulevard Charles de Gaulle - Colombes",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 1 rue Gounod - Colombes",
+    "address": "1 Rue Gounod - Colombes",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  }
+]

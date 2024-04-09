@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE82 - Rue des Écoles - Bressols",
+    "address": "6 Rue Des Ecoles - Bressols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6620845",
+    "address": "150 Rue des Frères Montgolfier - Montauban",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 1699 Avenue d'Italie - Montauban",
+    "address": "1699 Avenue d'Italie - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A20 Aire de Nauze vert (direction Toulouse)",
+    "address": "95\r\n Camions\r\n - Bressols",
+    "connectors": [
+      "x8",
+      "x1",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - KIA - Montauban",
+    "address": "1661 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE-WATT - Montauban - 500 Avenue du Danemark",
+    "address": "500 Avenue du Danemark - Montauban",
+    "connectors": [
+      "x8",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale Albasud Parking Intersport",
+    "address": "1490 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Galerie - Géant Albasud",
+    "address": "1155 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - Toyota-Lexus - 150 Impasse de Monaco - MONTAUBAN",
+    "address": "150 Impasse de Monaco - MONTAUBAN",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Montauban",
+    "address": "1050 Avenue de l'Europe - Montauban",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

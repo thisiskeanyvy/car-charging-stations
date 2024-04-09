@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SEDI - Trept",
+    "address": "13 Grande Rue - Trept",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "e-born - L’Isle-D’Abeau - Place du 8 Mai 1945",
+    "address": "Place du 8 Mai 1945 - L’Isle-D’Abeau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Z.ART.& COMMERCIALE - Rue des Sayes - L'Isle-d'Abeau",
+    "address": "Rue des Sayes - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Médiathèque de L'isle-d'Abeau",
+    "address": "Promenade du Documanus - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Entrepôt du Bricolage",
+    "address": "19 Rue des Sayes - L'Isle-d'Abeau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - L'Isle-d'Abeau",
+    "address": "25 Rue des Sayes - L'Isle-d'Abeau",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps S.L./7003",
+    "address": "192 Montée de Bouvaresse - Frontonas",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking chemin du ruisseau - Saint-Chef",
+    "address": "2 Chemin du Ruisseau - Saint-Chef",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Ford - Bourgoin-Jallieu",
+    "address": "Espace Henri Barbusse - Bourgoin-Jallieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A43 Aire de l'Isle d'Abeau (direction Lyon)",
+    "address": "5 Route sans nom - L'Isle-d'Abeau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEHG - Rue Chaupy - Grenade",
+    "address": "Rue Chaupy - Grenade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Super U - Grenade",
+    "address": "253 Chemin de Montagne - Grenade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Grenade Automobile",
+    "address": "Rue du Lanoux - Grenade",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TRAVAIL",
+    "address": "2010 Rue de L’Autan - Grenade",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Ondes | Zone d'Activités Les Dix Arpents 9",
+    "address": "9 Zone d'Activités Les Dix Arpents - Ondes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Castelnau d'estretefonds",
+    "address": "12 Chem. de Lagarrigue - Castelnau d'estretefonds",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Mervilles, Alouettes",
+    "address": "139-153 Rue des Alouettes - Merville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Castelnau-d'Estréfonds",
+    "address": "Avenue de Montauban - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Castelnau-d'Estrétefonds",
+    "address": "10 Avenue de Saint Guillan - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Eurocentre Standard - Castelnau-d'Estrétefonds",
+    "address": "1 Avenue de Saint Guillan - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

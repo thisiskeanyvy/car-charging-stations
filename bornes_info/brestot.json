@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEGE27 - Routot",
+    "address": "Rue du Docteur Collignon - Routot",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Bourneville",
+    "address": "1 Rue des Jardins - Bourneville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Le Pont Joly - Saint-Philbert-sur-Risle",
+    "address": "Le Pont Joly - Saint-Philbert-sur-Risle",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue de Quicangrogne - Bourg-Achard",
+    "address": "Rue de Quicangrogne - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mr Bricolage - Bourg-Achard",
+    "address": "395 Rue des Portes - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Bourg-Achard",
+    "address": "1 Rue Ferdinand Lefée - Bourg-Achard",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Carrefour Market - Bourg-Achard",
+    "address": "74 Allée de la Reine Mathilde - Bourg-Achard",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Bonne Auberge",
+    "address": "42 Route des Chaumières - Vieux-Port",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Bourg-Achard",
+    "address": "Place de la Mairie - Bourg-Achard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sevdec - Bourg-Achard - D313",
+    "address": "D313 - Bourg-Achard",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

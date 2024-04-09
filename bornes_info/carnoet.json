@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Sigeif - Rue de la Mairie - Domont",
+    "address": "47 Rue de la Mairie - Domont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Gare de Domont",
+    "address": "3 Place de la Gare - Domont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - mail des passementières - Domont",
+    "address": "Rue Robert Desnos - Domont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - parking Jean Jaurès - Domont",
+    "address": "61 Avenue Jean Jaurès - Domont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Rue de Paris Parking des Fauvettes - Domont",
+    "address": "Rue de Paris Parking des Fauvettes - Domont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Domont Automobile",
+    "address": "88 Avenue Jean Rostand - Domont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clinique de Domont",
+    "address": "79 Route de Domont - Domont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Moisselles",
+    "address": "1 Route Nationale - Moisselles",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIGEIF - Gare RER de Bouffemont-Moisselles",
+    "address": "louise Michèle - Bouffémont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - 23 rue des Cordonniers - Bouffemont",
+    "address": "23 Rue Des Cordonniers - Bouffémont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

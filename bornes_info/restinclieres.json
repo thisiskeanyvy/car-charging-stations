@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Chateau sainte colombe",
+    "address": "D105 - Saint-Geniès-des-Mourgues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking chemin de la Tuilerie - St -Jean-de-Cornies",
+    "address": "Chemin de la Tuilerie - st jean de cornies",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - parking du boulodrome RD135E1",
+    "address": "Avenue de Montpellier - Saussines",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allée de la Liberté - Saint-Drézéry",
+    "address": "51 Allée de la Liberté - Saint-Drézéry",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Puech Haut",
+    "address": "Puech Haut - Saint-Drézéry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Lunel-Viel - N113,",
+    "address": "N113, - Lunel-Viel",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 590 Avenue du Roucagnier - Lunel-Viel",
+    "address": "590 Avenue du Roucagnier - Lunel-Viel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking salle des fêtes",
+    "address": "Chemin des Cazals - Valergues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Saint-Bres",
+    "address": "486 Avenue de Nîmes - Saint-Bres",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping du domaine de massereau",
+    "address": "1990 Route d'aubais - Sommiere",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

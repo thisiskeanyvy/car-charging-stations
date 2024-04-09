@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Brasparts (Rue Saint Michel)",
+    "address": "D785 - Brasparts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Commana (Place de la Mairie)",
+    "address": "5 Place de la Mairie - Commana",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Mairie de Sizun",
+    "address": "D764 - Sizun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Lannédern (Rue René Caro)",
+    "address": "Rue René Caro - Lannédern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint-Sauveur - Rue de Lampaul Guimiliau",
+    "address": "Rue de Lampaul Guimiliau - Saint-Sauveur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Hanvec (Place du Marché)",
+    "address": "7-9 Place du Marché - Hanvec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Mairie de Saint Ségal",
+    "address": "Rue de Pont de Buis - Saint-Ségal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Pleyben (Place Charles de Gaulle)",
+    "address": "15 Place Charles de Gaulle - Pleyben",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Super U - Le Faou",
+    "address": "Route de Rumengol - Le Faou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - Le Faou",
+    "address": "0 Route de Rumengol - Le Faou",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

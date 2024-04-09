@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Hotel 19 , Demeure de Charme",
+    "address": "19 Rue LaFayette - LANGEAC",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 12 Avenue Du Général Leclerc - Langeac",
+    "address": "12 Avenue Du Général Leclerc - Langeac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Langeac",
+    "address": "54 Avenue d'Auvergne - Langeac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route du Puy - Saugues",
+    "address": "Route du Puy - Saugues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eborn- Place de l'Eglise Saint-Georges-D'Aurac",
+    "address": "Place de l'Eglise - Saint-Georges-D'Aurac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Place du Général Lafayette - Siaugues-Sainte-Marie",
+    "address": "Route de Silcuzin - Siaugues-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Saint Roch",
+    "address": "Pradous - Salzuit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Lafayette - Paulhaguet",
+    "address": "25 Place Lafayette - Paulhaguet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Hôtel Restaurant Logis La Méridienne - Anglards-de-Saint-Flour",
+    "address": "2 D74 - Anglards-de-Saint-Flour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis hôtel la crèche",
+    "address": "Les Chaussades - La Chomette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

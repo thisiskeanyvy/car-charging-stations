@@ -1,0 +1,138 @@
+[
+  {
+    "title": "piscine municipale- Rue Lavoisier",
+    "address": "12 Rue Lavoisier - Hersin-Coupigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Rue Léo Lagrange - Fresnicourt-le-Dolmen",
+    "address": "Rue Léo Lagrange - Fresnicourt-le-Dolmen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue de Caucourt - Gauchin-Légal",
+    "address": "40 Rue de Caucourt - Gauchin-Légal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 3 Parc de la Rocade",
+    "address": "3 Parc de la Rocade - Sains-en-Gohelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Hersin-Coupigny - Rapideau",
+    "address": "Rue Victor Hugo - Hersin-Coupigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Hersin-Coupigny",
+    "address": "134 Rue Victor Hugo - Hersin-Coupigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NewMotion FR - Sains-en-Gohelle - 222 Route Nationale",
+    "address": "222 Route Nationale - Sains-en-Gohelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Sains-en-Gohelle - 3 Boulevard Vauban",
+    "address": "3 Boulevard Vauban - Sains-en-Gohelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Sains-en-Gohelle - 195 Route Nationale",
+    "address": "195 Route Nationale - Sains-en-Gohelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Piscine de Barlin",
+    "address": "72 Rue de Versailles - Barlin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

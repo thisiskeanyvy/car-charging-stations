@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Hotel Le Rivage (Tesla)",
+    "address": "1 Quai de Nice - Gien",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel le Rivage - Gien",
+    "address": "1 Quai De Nice - Gien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Gien - Auchan",
+    "address": "3 Rue de la Fabrique \r\n - Gien",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Car2Plug - Villa Hôtel - Poilly-lez-Gien",
+    "address": "3\r\n Rue des Grives\r\n - Poilly-lez-Gien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Gien",
+    "address": "Rue de la Bosserie - Gien",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Leclerc- Rue de la Bosserie",
+    "address": "17 Rue de la Bosserie - Gien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Poilly-Lez-Gien",
+    "address": "Rue du 11 Novembre - Poilly-Lez-Gien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Gien",
+    "address": "Rond Point Nord - Gien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford - D940 1 - GIEN (Privé)",
+    "address": "D940 1 - GIEN",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Briare - Lidl",
+    "address": "1 Rue Du Moulin À Vent - Briare",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

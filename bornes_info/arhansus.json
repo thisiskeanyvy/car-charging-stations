@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MobiVE - Hôtel de Ville de Larceveau",
+    "address": "Place de la Mairie - Larceveau-Arros-Cibits",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEPA - Parking fronton - Saint-Palais",
+    "address": "Impasse Behoteguy - Saint-Palais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Jeu de Paume - Mauléon-Licharre",
+    "address": "2 Place de la Liberté - Mauléon-Licharre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MObiVE/FR*S64*PMB64*48",
+    "address": "Rue Auger de Miramont - Mauléon-Licharre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Avenue du Général de Gaulle",
+    "address": "1 Avenue du Général de Gaulle - Chéraute",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Residence azkena",
+    "address": "Aguelcheberry - Arrast-Larrebieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - 13 Rue du Pasteur Rennes",
+    "address": "13 Rue du Pasteur Rennes - Sauveterre-de-Béarn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEPA - Entrée village - Hélette",
+    "address": "D245 - Hélette",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Carrefour Market - Saint-Jean-Pied-de-Port",
+    "address": "avenue Du Jai Alai, Av. du Jai Alai, - Saint-Jean-Pied-de-Port",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEPA - Parking JAI ALAI - Saint-Jean-Pied-de-Port",
+    "address": "26 Avenue du Jai Alai - Saint-Jean-Pied-de-Port",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

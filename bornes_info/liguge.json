@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Rond point D4, centre de Ligugé",
+    "address": "La Varenne - Ligugé",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de la Mairie - Smarves",
+    "address": "Place de la Mairie - Smarves",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Saint-Benoît | Avenue des Grottes de Passelourdain 20",
+    "address": "20 Avenue des Grottes de Passelourdain - Saint-Benoît",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 3 Cité de Passelourdain - Saint-Benoît",
+    "address": "3 Cité de Passelourdain - Saint-Benoît",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterbaseSorégies - Place du 8 mai 1945 - Saint-Benoît",
+    "address": "3 Ruelle de l'Ancienne Église - Saint-Benoît",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Soregies - Parking de la maison de la petite enfance",
+    "address": "4 Rue de Ruffigny - Iteuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterbaseSoregie - Z.A Cap au Sud (Sortie 30) - Croutelle",
+    "address": "D910 Z.A Cap au Sud - Croutelle",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Ibis Budget Poitiers",
+    "address": "Chemin De La Paillerie - Poitiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Audi - D162 - Poitiers (privé)",
+    "address": "D162 - Poitiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen - Poitiers",
+    "address": "8 Rue de la Paillerie - Poitiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

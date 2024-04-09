@@ -1,0 +1,120 @@
+[
+  {
+    "title": "VVF Vilage Évian",
+    "address": "Rue du Mur Blanc - Évian-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hilton",
+    "address": "51 Quai Paul Léger - Évian-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Port - Évian-les-Bains",
+    "address": "2 Place aux Bois - Évian-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Ermitage - Evian Resort (Tesla)",
+    "address": "1230 Avenue du Léman - Évian-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Ermitage - Évian-les-Bains (Porsche)",
+    "address": "1230 Av Du Leman - Neuvecelle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Royal Evian resort & spa (Tesla et autres)",
+    "address": "10-12 Avenue des Mateirons - Évian-les-Bains",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Royal - Évian-les-Bains (Porsche)",
+    "address": "13 Av Des Mateirons - Évian-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Casino - Évian-les-Bains (Tesla and others)",
+    "address": "Rue du Théâtre - Évian-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Office de Tourisme Évian-les-Bains",
+    "address": "1 Place aux Bois - Évian-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Avenue de la Gare - Évian-les-Bains",
+    "address": "29 Avenue de la Gare - Évian-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

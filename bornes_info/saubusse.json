@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SYDEC - D466/135 - Josse",
+    "address": "Route de Boulins - Josse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiVE - Église de Saint-Geours-de-Maremne",
+    "address": "Parking église - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route de Bayonne - Saint-Geours-de-Maremne",
+    "address": "37 Route de Bayonne - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Piscine de Saint-Geours-de-Maremne",
+    "address": "Rue du Gave (Aygue Blue) - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Route de Payrehorade Saint-Lon-les-Mines",
+    "address": "80 Route de Cagnotte - Saint-Lon-les-Mines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Saint Geours de Marremne - ZAC Atlantisud",
+    "address": "183 Rue Du Pays d'Orthe - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 5 Allée de Cèrés - Saint-Geours-de-Maremne",
+    "address": "5 Allée de Cèrés - Saint-Geours-de-Maremne",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - E.Leclerc - Saint-Vincent-de-Tyrosse",
+    "address": "1320 Route de Bordeaux - Saint-Vincent-de-Tyrosse",
+    "connectors": [
+      "x6",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 1940 Route de Tercis - Dax",
+    "address": "1940 Route de Tercis - Dax",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - 385 Route De Stanquet - Mées",
+    "address": "385 Route De Stanquet - Mées",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

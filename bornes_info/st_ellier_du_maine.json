@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE53 - Le Bourg - Pontmain",
+    "address": "Le Bourg - Pontmain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place de la Mairie - Montaudin",
+    "address": "Place de la Mairie - Montaudin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Dagnet",
+    "address": "N12 - Beauce",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place du Général de Gaulle, 6 - Fougerolles-du-Plessis",
+    "address": "6 Route de la Dorée - Fougerolles-du-Plessis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Mairie de Louvigné-du-Désert",
+    "address": "Place De La Mairie - Louvigné-du-Désert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Maison Felger",
+    "address": "4 rue Campello - Parigné",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Garage police",
+    "address": "3 Zone d'activité la Rouletière - Louvigné-du-Désert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Ibis Style Fougères - Beauce",
+    "address": "28 Rue de Bretagne - Beauce",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Renault - Fougères",
+    "address": "3 rue des Combattants AFN - Fougères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Rue des Combattants d'Afrique du Nord - Fougères",
+    "address": "Rue des Combattants d'Afrique du Nord - Fougères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

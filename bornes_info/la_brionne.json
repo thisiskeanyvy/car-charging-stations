@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Domaine de la Jarrige - St.-Vaury",
+    "address": "5 La Jarrige - St.-Vaury",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Mairie de Saint Vaury",
+    "address": "1 Place de l'Église - Saint-Vaury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - N145 Aire des Monts de Gueret",
+    "address": "N145 - Saint-Sulpice-le-Guérétois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sdec - Base de loisirs de Courtille - Guéret",
+    "address": "28 D914 - Guéret",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sdec - Place Bonnyaud - Guéret",
+    "address": "8 Rue Eugène France - Guéret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Gueret",
+    "address": "31 Avenue Charles de Gaulle - Gueret",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornevo Connect - Guéret - 15 Rue Eugène France",
+    "address": "15 Rue Eugène France - Guéret",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Avenue Pierre Mendès 11 - Guéret (Privé)",
+    "address": "Avenue Pierre Mendès 11 - Guéret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Netto - Guéret",
+    "address": "Avenue Pierre Mendès France - Guéret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Espace André Lejeune - Avenue René Cassin - Guéret",
+    "address": "2 Avenue René Cassin - Guéret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

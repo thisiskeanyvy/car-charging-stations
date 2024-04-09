@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Vinci - 2 Rue de la Gare - Virecourt",
+    "address": "2 Rue de la Gare - Virecourt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Haroué - 6 Place du Château",
+    "address": "6 Place du Château - Haroué",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Charmes",
+    "address": "13 Rue René Didierjean - Charmes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ENGIE Vianeo - Charmes - Parc de la Peupleraie",
+    "address": "Avenue du Peintre Monchablon - Charmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking covoiturage - Ceintrey",
+    "address": "D6/D913 Parking covoiturage - Ceintrey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Charmes",
+    "address": "32 rue Claude barrés - Charmes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Charmes - ZA Hermitage",
+    "address": "66 Voie Carpini - Charmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Vincey - Boulangerie Jeanne Charmes",
+    "address": "34 bis rue d'Alsace, 88450 Vincey, France - Vincey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D904 Quevilloncourt - 2 Rue de la Gare",
+    "address": "2 Rue de la Gare - Quevilloncourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - Vézelise - 3 Avenue Jacques Leclerc",
+    "address": "3 Avenue Jacques Leclerc - Vézelise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

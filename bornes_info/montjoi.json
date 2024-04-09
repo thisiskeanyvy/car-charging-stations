@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Parc de la Courneuve",
+    "address": "00 Parking Montjoie, Parc Maurice Valbon - La Courneuve",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - A1 AIRE DE LA COURNEUVE EST",
+    "address": "A1 - AIRE DE LA COURNEUVE EST - LA COURNEUVE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A1 Aire de la Courneuve Ouest (direction Paris)",
+    "address": "A1 Aire de la Courneuve Ouest - La Courneuve",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "8 Résidence du Parc",
+    "address": "8 Résidence du Parc - Saint-Denis",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 5 Promenade de la Basilique - Saint-Denis",
+    "address": "5 Promenade de la Basilique - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Stains",
+    "address": "80 Boulevard Maxime Gorki - Stains",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Fort de l'Est",
+    "address": "2 Rue du Fort de l'Est - Saint-Denis",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Denis - Hôtel F1 Centre Basilique",
+    "address": "11 avenue Lénine - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electra - Saint-Denis - Hôtel F1 Centre Basilique DOUBLON",
+    "address": "11 Avenue Lénine - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parcastains",
+    "address": "9 Rue Eugène Hénaff - Stains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking place grand village Vert st Denis",
+    "address": "6 Place de Grand Village - Vert-Saint-Denis",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ZEborne - 5 Rue Aimé Césaire - Cesson",
+    "address": "5 Rue Aimé Césaire - Cesson",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Parking de la Mairie - Cesson",
+    "address": "55 Route de Saint-Leu - Cesson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Nissan - Vert Saint Denis DOUBLON",
+    "address": "5 rue Aristide Briand - Vert Saint Denis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - rue Aristide briand 1 - vert saint denis",
+    "address": "rue Aristide briand 1 - vert saint denis",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Allego - 5 Rue Aristide Briand - Vert-Saint-Denis",
+    "address": "5 Rue Aristide Briand - Vert-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citroën SOGAME",
+    "address": "1 Rue Aristide Briand - Vert-Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BMW - Vert-Saint-Denis",
+    "address": "130 Route Départementale 306 - Vert-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Vert-Saint-Denis",
+    "address": "130 Route Départementale 306 - Vert-Saint-Denis",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Vert-Saint-Denis - Boulangerie Ange",
+    "address": "60 Allée De La Croix Rigaud - Vert-Saint-Denis",
+    "connectors": [
+      "x3",
+      "x3",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

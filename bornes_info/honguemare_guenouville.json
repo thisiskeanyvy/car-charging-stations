@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Sevdec - Bourg-Achard - D313",
+    "address": "D313 - Bourg-Achard",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Bourg-Achard",
+    "address": "1 Rue Ferdinand Lefée - Bourg-Achard",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Bourg-Achard",
+    "address": "510 Rue du Docteur Duvrac - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Bourg Achard",
+    "address": "510 Rue du Docteur Duvrac - Bourg-Achard",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Carrefour Market - Bourg-Achard",
+    "address": "74 Allée de la Reine Mathilde - Bourg-Achard",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mr Bricolage - Bourg-Achard",
+    "address": "395 Rue des Portes - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue de Quicangrogne - Bourg-Achard",
+    "address": "Rue de Quicangrogne - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Bourg-Achard",
+    "address": "Place de la Mairie - Bourg-Achard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - 117 Impasse du Bas de Flip - Bosgouet",
+    "address": "117 Impasse du Bas de Flip - Bosgouet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Adolphe Coquelin (Privé)",
+    "address": "Rue Adolphe Coquelin - Bourg-Achard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

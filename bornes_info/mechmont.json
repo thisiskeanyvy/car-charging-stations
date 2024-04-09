@@ -1,0 +1,140 @@
+[
+  {
+    "title": "FDEL - Quai du Vert - Catus",
+    "address": "5061A Quai du Vert - Catus",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau de Mercues",
+    "address": "Route du Château - Mercuès",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Chemin du Rouquet / rue du Vignoble D12",
+    "address": "250 Chemin du Rouquet - Mercuès",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDEL - Place de la Mairie - Labastide-Murat",
+    "address": "Place de la Mairie - Cœur-de-Causse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Contact - Labastide-Murat",
+    "address": "11 route de gramat - Labastide-Murat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Cahors - Netto",
+    "address": "Chemin de Mottecave - Cahors",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Campanile - Cahors",
+    "address": "Regourd Sud - Cahors",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Cahors - Regourd",
+    "address": "75 Rue Saint-Etienne - Cahors",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel ibis Cahors (Tesla and others)",
+    "address": "888 Côte de Lapoujade - Cahors",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel du Département - Avenue de l'Europe - Cahors",
+    "address": "Avenue de l'Europe - Cahors",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

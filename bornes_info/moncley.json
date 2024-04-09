@@ -1,0 +1,130 @@
+[
+  {
+    "title": "EFFIA - Gare TGV Franche-Comté",
+    "address": "RD1 - Lieu-dit Grand-Bois Le Pasquier - Auxon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Château de la Dame Blanche",
+    "address": "10 Chemin Roussey - Geneuille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Pouilley-les-Vignes",
+    "address": "25 Route d'Emagny - Pouilley-les-Vignes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "École-Valentin, Rue Saint-Christophe",
+    "address": "15 Rue Saint-Christophe - École-Valentin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BandB Hôtel - Chemin des Trois Croix",
+    "address": "3 Chemin des Trois Croix - Miserey-Salines",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bmw Besançon",
+    "address": "ZAC de Valentin, Rue Ariane II, - Besançon",
+    "connectors": [
+      "x3",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Rue de Châtillon - École-Valentin",
+    "address": "51 Rue de Châtillon - École-Valentin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Star charge - Rue Ariane2",
+    "address": "55 Rue de Châtillon - École-Valentin",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aux bolons",
+    "address": "53 Rue de Châtillon - École-Valentin",
+    "connectors": [
+      "x3",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - École-Valentin",
+    "address": "6 Rue de Châtillon - École-Valentin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

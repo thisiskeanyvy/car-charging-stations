@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Electromaps - i-Bornes - Fauverney",
+    "address": "Zone d’Activité de la Boulouze - Fauverney",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de la Tournelle - Rouvres en Plaine",
+    "address": "2 Rue de la Tournelle - Rouvres-en-Plaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Maison de l'agriculture",
+    "address": "Les Coulots - Bretenière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'orme sully",
+    "address": "39 Route de Dijon - Thorey-en-Plaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Renault Dacia - Chevigny-Saint-Sauveur",
+    "address": "1 BOULEVARD KENNEDY - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Chevigny-Saint-Sauveur - Rue du Point du Jour",
+    "address": "Rue du Point du Jour - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cours Martyrs De La Résistance - Genlis",
+    "address": "7 Cours Martyrs De La Resistance - Genlis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Avenue Général de Gaulle - Genlis",
+    "address": "3 Avenue Général de Gaulle - Genlis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Chevigny-Saint-Sauveur",
+    "address": "Route de Dijon - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Basic Fit - Chevigny-Saint-Sauveur",
+    "address": "12 Rue Nicolas de Condorcet - Chevigny-Saint-Sauveur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

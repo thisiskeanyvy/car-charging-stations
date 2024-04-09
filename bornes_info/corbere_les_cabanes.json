@@ -1,0 +1,126 @@
+[
+  {
+    "title": "College - Avenue des Albères",
+    "address": "Avenue des Albères - Millas",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ensto industrie",
+    "address": "RD916 - Néfiach",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ille-sur-Têt - Super U",
+    "address": "Centre Commercial Le Riberal, Camí Camp Llar - Ille-sur-Têt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Centre Commercial Le Riberal, Camí Camp Llarg - Ille-sur-Têt",
+    "address": "Centre Commercial Le Riberal, Camí Camp Llarg - Ille-sur-Têt",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Ille auto",
+    "address": "ZA, Camp Llarg, 66130 Ille-sur-Têt - Ille-sur-Têt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEEL66 (Reveo) - Ille-sur-Têt",
+    "address": "Rue Arago - Ille-sur-Têt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEEL66 (Reveo) St Féliu d'Avall",
+    "address": "8 Place de France - Saint-Féliu-d'Avall",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Super U - Thuir",
+    "address": "1BIS AVENUE DE LA PADROUZE - Thuir",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEEL66 - Thuir",
+    "address": "Impasse Pierre Semard - Thuir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Thuir",
+    "address": "Ave de la mediteranee - Thuir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

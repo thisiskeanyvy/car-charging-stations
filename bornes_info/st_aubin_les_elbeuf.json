@@ -1,0 +1,130 @@
+[
+  {
+    "title": "CREA - Gare de Saint-Aubin-lès-Elbeuf",
+    "address": "5 Rue Pierre Saint-Georges - Saint-Aubin-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "A2C Expertise - rue Raymond Dendeville",
+    "address": "4 rue Raymond Dendeville - Elbeuf",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Elbeuf (Place Aristide Briand)",
+    "address": "30 Rue Augustin Henry - Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Place de la libération - Elbeuf",
+    "address": "2148 Place de la Libération - Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Créavenir - Rue Louise Michel - Cleon",
+    "address": "119 Rue Louise Michel - Cleon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6612515",
+    "address": "427 Rue de la Chaussée - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Jardinerie Desjardin",
+    "address": "Rue de Tourville - Cléon",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Rue Poussin - Elbeuf (Fabrique des Savoirs)",
+    "address": "28 Rue Poussin - Elbeuf",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Pierre-lès-Elbeuf",
+    "address": "660 Route de Pont-de-l'Arche - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - Saint-Pierre-lès-Elbeuf",
+    "address": "560 Avenue de Bonport - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

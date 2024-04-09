@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syme05 - Place de la Fontaine - Ribiers",
+    "address": "9 Rue des Écoles - Ribiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Les Armands - Mison",
+    "address": "Les Armands - Mison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Décathlon - Sisteron",
+    "address": "10 Allée des Cèdres - Sisteron",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Sisteron",
+    "address": "50 Allée des Genêts - Sisteron",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Hyper U - Allée des Genêts",
+    "address": "50 Allée des Genêts - Sisteron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Sisteron",
+    "address": "Allée des Genêts - Sisteron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargeur V4 - Sisteron",
+    "address": "52 Allée Des Genets - Sisteron",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2/V3 - Ibis Sisteron",
+    "address": "Allée des Tilleuls - Alpes-de-Haute-Provence",
+    "connectors": [
+      "x12",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Mairie de Châteauneuf-de-Chabre",
+    "address": "D942 - Châteauneuf-de-Chabre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping Les Prés Hauts - Sisteron",
+    "address": "chemin des prés hauts 44 - SISTERON",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

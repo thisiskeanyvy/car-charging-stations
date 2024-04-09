@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Stations-e - Bouville - Rue de la Mairie",
+    "address": "Rue de la Mairie - Bouville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MILLY AUTOMOBILES",
+    "address": "3 RUE DES PINS - Milly-la-Forêt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Milly-la-Forêt",
+    "address": "4 Rue des Ornes - Milly-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Greenspot - Itteville - Biocoop",
+    "address": "Route de la Ferté Alais - Itteville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Oncy-sur-École - Intermarché",
+    "address": "Grande Rue Intermarché - Oncy-sur-École",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ballancourt Martroy",
+    "address": "67 Rue du Martroy - Ballancourt-sur-Essonne",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking visiteur Renault Lardy",
+    "address": "8 Allée Cornuel - Lardy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare Boigneville",
+    "address": "7 Place de la Gare - Boigneville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Rue Jacques Cartier - Lardy",
+    "address": "10 Rue Jacques Cartier - Lardy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 1 Rue Jacques Cartier - Lardy",
+    "address": "1 Rue Jacques Cartier - Lardy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

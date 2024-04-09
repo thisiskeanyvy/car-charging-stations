@@ -1,0 +1,116 @@
+[
+  {
+    "title": "charge éolienne 6",
+    "address": "6 sans nom - feifs",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Éolienne 5",
+    "address": "1 Route sans nom - Fiefs",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "charge éolienne 1",
+    "address": "1 sans nom - Fiefs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EDF - éolienne (3)",
+    "address": "Chemin d'exploitation - Fiefs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Eolienne - Sains-lès-Pernes",
+    "address": "Chemin d'exploitation - Sains-lès-Pernes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Eoliennes de Fiefs",
+    "address": "D71 - Sains-lès-Pernes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Anvin - Parking la poste",
+    "address": "274 Rue d'Hesdin - Anvin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Médiathèque - Fléchin",
+    "address": "19 Rue Haute - Fléchin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Fruges",
+    "address": "52 Rue d'Hesdin - Fruges",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Citroen Fruges",
+    "address": "Zone Artisanale De La Petite Dimerie - Fruges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

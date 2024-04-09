@@ -1,0 +1,126 @@
+[
+  {
+    "title": "1 Rue Sébastopol",
+    "address": "1 Rue Sébastopol - Courbevoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La borne bleue - Avenue Marceau - Courbevoie",
+    "address": "3 Avenue Marceau - Courbevoie",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking MEDICIS",
+    "address": "38 Rue de Bezons - Courbevoie",
+    "connectors": [
+      "x16",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 2 Rue Louis Hubert Lyautey - Courbevoie",
+    "address": "2 Rue Louis Hubert Lyautey - Courbevoie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Street 123 - Paris",
+    "address": "Street 123 - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La borne bleue - Rue eugene Caron - Courbevoie",
+    "address": "2 Rue eugene Caron - Courbevoie",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Parking Charras - Rue Albert Simonin - Courbevoie",
+    "address": "1 Rue Albert Simonin - Courbevoie",
+    "connectors": [
+      "x30"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "la borne bleue - Rue Massenet - Courbevoie",
+    "address": "28 Rue Massenet - Courbevoie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Borne Bleue - 4 Rue Kléber - Courbevoie",
+    "address": "4 rue Kleber - Courbevoie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - Rue Rivière - Courbevoie",
+    "address": "1 Rue Joseph Rivière - Courbevoie",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

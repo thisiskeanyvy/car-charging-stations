@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Le Murier de Viels",
+    "address": "Les Clauzels - Causse-et-Diège",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Figeac Aéro",
+    "address": "lieu dit Etemps - Figeac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ISI - Figeac",
+    "address": "56 Avenue Ratier - Figeac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LIDL - Figeac",
+    "address": "23 Avenue Ratier - Figeac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Figeac",
+    "address": "21 Avenue Ratier - Figeac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - L'Aiguille - Figeac",
+    "address": "L'Aiguille - Figeac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Intermarché - Figeac",
+    "address": "17 Avenue Ratier - Figeac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Figeac",
+    "address": "15\r\n Av. Président Georges Pompidou\r\n - Figeac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDEL (Révéo) - Parking Jean Jaures - Figeac",
+    "address": "6 Avenue Jean Jaurès - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Révéo - Avenue des Carmes - Figeac",
+    "address": "7 Avenue des Carmes - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

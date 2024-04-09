@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Enerstock - Centre médical Chemin du sémaphore - Caveirac",
+    "address": "231 Centre médical l'Egregore - Chemin du sémaphore - Caveirac",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Langlade",
+    "address": "Le Vignaud - Langlade",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMEG30 (Révéo) - 35 Chemin des Aires - Langlade",
+    "address": "35 Chemin des Aires - Langlade",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 80 Route de Langlade - Clarensac",
+    "address": "75 Route de Langlade - Clarensac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - parking chemin d'Azord - St Dionisy",
+    "address": "11 Chemin d'Azord - Saint-Dionisy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Enerstock - On Air Fitness - Nîmes",
+    "address": "- On Air Fitness - Chemin Jules Lissajous - Nîmes",
+    "connectors": [
+      "x6",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Intermarché - Nîmes",
+    "address": "40 Rue Don Sauveur Paganelli - Nîmes",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 1075 Chemin du Golf - Nîmes",
+    "address": "1075 Chemin du Golf - Nîmes",
+    "connectors": [
+      "x6",
+      "x10",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Établissement Français du sang - CHU Caremeau",
+    "address": "Rue du Professeur Robert Debré - Nîmes",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CHU de Nîmes",
+    "address": "4 Rue du Professeur Robert Debré - Nîmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

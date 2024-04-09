@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ENGIE Vianeo - Mairie d'Haplincourt",
+    "address": "12 Rue de Bapaume - Haplincourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BE*WTF - Melle - 344C Brusselsesteenweg",
+    "address": "344C Brusselsesteenweg - Melle",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue Candelier Combles",
+    "address": "4 Rue Candelier - Combles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue du moulin - Fins",
+    "address": "11 Rue du Pavé - Fins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - lieu dit La Fabrique À Sucre",
+    "address": "lieu dit La Fabrique À Sucre - 62450",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mc Donald's",
+    "address": "6 Voie Communale Zone Industrielle de la Vallée du Bois - Bapaume",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "McDonald’s - Bapaume",
+    "address": "Rue de la République - Bapaume",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D930 - Bapaume",
+    "address": "D930 - Bapaume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDE80 - FLERS Place des Britanniques",
+    "address": "3 Place des Britanniques - Flers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Bapaume",
+    "address": "D917 Faubourg de Péronne - Bapaume",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

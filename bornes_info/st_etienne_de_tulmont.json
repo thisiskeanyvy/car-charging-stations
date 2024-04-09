@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE82 - Place du village",
+    "address": "20 Rue du Tulmonenc - Saint-Etienne-de-Tulmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking stade football - Route de Saint-Antonin",
+    "address": "2145 Route de Saint-Antonin - Montauban",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot macard",
+    "address": "1825 Route du Nord - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Du nord - Montauban",
+    "address": "446 Du nord - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Leojac",
+    "address": "Route de Saint-Etienne-de-Tulmont - Léojac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Avenue du Général de Gaulle - Albias",
+    "address": "10 Avenue du Général de Gaulle - Albias",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Montauban",
+    "address": "2 rue Les Prades - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Poste - Negrepelisse",
+    "address": "2-3 Place de la Mairie - Nègrepelisse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Cicerone",
+    "address": "495 Impasse des Tamaris - Montauban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue Saint-Blaise - Negrepelisse",
+    "address": "1 Rue Saint-Blaise - Nègrepelisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

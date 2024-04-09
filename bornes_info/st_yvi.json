@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEF - Saint-Yvi (Place Charles de Gaulle)",
+    "address": "Place de la Mairie - Saint-Yvi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - N165 Aire Relais Saint-Yvi",
+    "address": "229 Résidence du Bois de Pleuven - Saint-Yvi",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Elliant (Place de la Mairie)",
+    "address": "1 Rue Saint-Gilles - Elliant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Saint-Évarzec - Rue André Michelin",
+    "address": "Rue André Michelin - Saint-Évarzec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Rue de la Forge - Concarneau",
+    "address": "Rue de la Forge - Concarneau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*LDL - Landivisiau - 137 Avenue Maréchal Foch",
+    "address": "137 Avenue Maréchal Foch - Landivisiau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 460 Route de Rosporden - Quimper (Privé)",
+    "address": "460 Route de Rosporden - Quimper",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Rosporden",
+    "address": "Route de Quimper - Rosporden",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Concarneau BodemerAuto",
+    "address": "Route de Quimper - Concarneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Baie - Place Baie",
+    "address": "Place Baie - La Forêt-Fouesnant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

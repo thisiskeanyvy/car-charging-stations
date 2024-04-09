@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Super U - Boofzheim",
+    "address": "Route de Rhinau - Boofzheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ladesäule Schwanau Rathaus",
+    "address": "1 Rathausstraße - Schwanau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - D426 Centrale Hydroélectrique EDF - Gerstheim",
+    "address": "D426 Centrale Hydroélectrique EDF de Gerstheim - Gerstheim",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lindenplatz",
+    "address": "Löwenstraße - Kappel-Grafenhausen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Elektrizitätswerk Mittelbaden AG & Co - Einsteinallee - Lahr/Schwarzwald",
+    "address": "1/1 Einsteinallee - Lahr/Schwarzwald",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rheinstrasse / Löwenstrasse - Kappel-Grafenhausen",
+    "address": "Rheinstrasse - Kappel-Grafenhausen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fast-E - Einsteinallee",
+    "address": "2 Einsteinallee - Lahr/Schwarzwald",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Einsteinallee 2 - Lahr/Schwarzwald",
+    "address": "Einsteinallee 2 - Lahr/Schwarzwald",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EnBW - A5 Mahlberg West",
+    "address": "A5 - Mahlberg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - A5 Mahlberg West",
+    "address": "A5 - Mahlberg",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

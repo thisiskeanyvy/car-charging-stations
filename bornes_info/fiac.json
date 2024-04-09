@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sigeif - Carrefour de l'Europe - Verrières-le-Buisson",
+    "address": "Carrefour de l'Europe - Verrières-le-Buisson",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EVBox - Verrières-le-Buisson - Avenue de la République 20",
+    "address": "Avenue de la République 20 - Verrières-le-Buisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Verrières-le-Buisson - Rue Henri Bourrelier",
+    "address": "Rue Henri Bourrelier - Verrières-le-Buisson",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking souterrain de la Mairie Verrières-le-Buisson",
+    "address": "4 Place Charles de Gaulle - Verrières-le-Buisson",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maréchal Foch - Verrières-le-Buisson",
+    "address": "56 boulevard du Maréchal Foch - Verrières-le-Buisson",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 184 Avenue Roger Salengro - Châtenay-Malabry",
+    "address": "184 Avenue Roger Salengro - Châtenay-Malabry",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Avenue de la Division LECLERC 2 92290 CHATENAY MALABRY INEXISTANT",
+    "address": "Avenue de la Division LECLERC 2 - CHATENAY MALABRY",
+    "connectors": [
+      "x16",
+      "x23"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Metropolis Recharge - 61 Rue Jean Longuet - Châtenay-Malabry",
+    "address": "61 Rue Jean Longuet - Châtenay-Malabry",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre de formation \"les Gatines\"",
+    "address": "167 Route des Gatines - Verrieres le buisson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Services Mairie Antony - Rue des champs (Privé)",
+    "address": "Rue des champs - Antony",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

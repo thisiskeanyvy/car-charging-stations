@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEA - Parking de l'auto-école",
+    "address": "2 Rue jean baptiste corot - Sainte-Savine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Sainte-Savine",
+    "address": "106 Avenue du general Leclerc - Sainte savine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "La Rivière-de-Corps",
+    "address": "37b Rue Jean Jaurès - La Rivière-de-Corps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Sainte-Savine",
+    "address": "1 Rue Lamoricière - Sainte-Savine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking La poste - Saint-André-les-Vergers",
+    "address": "1775 Avenue de l'Île Germaine - Saint-André-les-Vergers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Église de Sainte-Savine",
+    "address": "1bis Rue Gambetta - Sainte-Savine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Mairie Allée Forestière La Rivière-de-Corps",
+    "address": "Allée Forestière - La Rivière-de-Corps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour - Saint-André-les-Vergers",
+    "address": "1 Avenue Charles de Refuge - Saint-André-les-Vergers",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEA - Rue Dite Entrée Des Antes - Saint-André-les-Vergers",
+    "address": "3 Rue Dite Entrée Des Antes - Saint-André-les-Vergers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Gare SNCF Troyes",
+    "address": "1 Cour de la Gare - Troyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

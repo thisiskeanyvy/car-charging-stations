@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Sydego - Mairie de Prinquiau",
+    "address": "23 Rue de Besné - Prinquiau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sydégo - La Chapelle Launay",
+    "address": "1 Place de l'Église - La Chapelle-Launay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - La Chapelle-Launay",
+    "address": "14 Allée des Troenes - Savenay",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Savenay \"La Soubretière\"",
+    "address": "84 Rue de Verdun - Savenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Hyper U - Savenay",
+    "address": "ZAC de la Colleraye - Savenay",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - Parc Commercial de la Colleraye",
+    "address": "D3 - Savenay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking mcdo Savenay",
+    "address": "E60 - Savenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "B&B HOTEL - SAVENAY",
+    "address": "Parc Commercial de la Colleraye - Savenay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Savenay - Mr Bricolage",
+    "address": "Parc Commercial La Colleraye - Savenay",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RossiniEnergy - 25 Rue de Liffey - Campbon",
+    "address": "25 Rue de Liffey - Campbon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

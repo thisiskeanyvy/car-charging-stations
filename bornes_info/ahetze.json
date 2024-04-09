@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Maison Harretchea",
+    "address": "20 chemin d Harretxea - Ahetze",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Laminak",
+    "address": "3 Route de Saint-Pée - Arbonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Des Frères Ibarboure - 171 Chem. Ttalienea",
+    "address": "171 Chemin Ttalienea - Bidart",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A63 Aire de Bidart-Est (direction Bayonne)",
+    "address": "A63 - Bidart",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Goyeneche-cordoba",
+    "address": "Chemin de Olhondogaraya - Arcangues",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - A63 Aire de Bidart Est (direction Bayonne)",
+    "address": "Bidart Est - Bidart",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A63 Aire de Bidart Ouest (direction St Jean de Luz)",
+    "address": "A63 - AIRE DE BIDART OUEST - BIDART",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Arbonne - Maison de Retraire Herri Burua",
+    "address": "3 Place Harrismendi - Arbonne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Izivia - 900 Rue Burruntz - Bidart",
+    "address": "900 Rue Burruntz - Bidart",
+    "connectors": [
+      "x10",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 343 Rue d'Oyamburua - Bidart",
+    "address": "343 Rue d'Oyamburua - Bidart",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

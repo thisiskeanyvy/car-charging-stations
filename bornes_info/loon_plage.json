@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Auchan - Rue de l'Ancienne Route Nationale - Grande-Synthe",
+    "address": "40 Rue de l'Ancienne Route Nationale 40 - Grande-Synthe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Supercharger Tesla V4 - Grande-Synthe",
+    "address": "95 Rue Nationale - Grande-Synthe",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "44 Rue Charles Leurette - Gravelines",
+    "address": "44 Rue Charles Leurette - Gravelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Les Huttes",
+    "address": "56 Avenue Léon Jouhaux - Gravelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Bourbourg",
+    "address": "5 Rue Jean Varlet - Bourbourg",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CNPE parking principal",
+    "address": "Route des Enrochements - Gravelines",
+    "connectors": [
+      "x7",
+      "x7",
+      "x14"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPE Gravelines parking centre point de charge N°2",
+    "address": "Route des enrochements - Gravelines",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPE Gravelines Parking Ouest point de charge N°2",
+    "address": "Route des Enrochements - Gravelines",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Bourbourg",
+    "address": "Chem. de la Vieille Colme, - Bourbourg",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "LastMileSolutions - Rue Denis Cordonnier - Gravelines",
+    "address": "Rue Denis Cordonnier - Gravelines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

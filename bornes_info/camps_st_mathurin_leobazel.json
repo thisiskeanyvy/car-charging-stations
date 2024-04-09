@@ -1,0 +1,136 @@
+[
+  {
+    "title": "FDEE19 - Camps-Saint-Mathurin-Léobazel",
+    "address": "9 D13 - Camps-Saint-Mathurin-Léobazel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Avenue des Généraux Marbot - Altillac",
+    "address": "39 Avenue des Généraux Marbot - Altillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - La Raufie (visiteurs R&D) - Altillac",
+    "address": "La Raufie - Altillac",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - 11 Place du Champ de Mars - Beaulieu-sur-Dordogne",
+    "address": "11 Place du Champ de Mars - Beaulieu-sur-Dordogne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - D940 ZI - Gagnac-sur-Cère",
+    "address": "Zoning Industriel - Gagnac-sur-Cère",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL (Révéo) - Place des Condamines - Sousceyrac",
+    "address": "Place des Condamines - Sousceyrac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Avenue Victor Hugo - Argentat-sur-Dordogne",
+    "address": "7 Avenue Victor Hugo - Argentat-sur-Dordogne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FRESHMILE - Ambulances BILLY (24/7)",
+    "address": "33 Avenue Foch - Argentat-sur-Dordogne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zephyre - 13 Avenue Joseph Vachal - Argentat-sur-Dordogne",
+    "address": "13 Avenue Joseph Vachal - Argentat-sur-Dordogne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Biars-sur-Cère",
+    "address": "64 Avenue de la République - Biars-sur-Cère",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

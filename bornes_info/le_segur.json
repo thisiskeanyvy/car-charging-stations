@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Parc de surface résidentiel bd Garibaldi",
+    "address": "37 boulevard Garibaldi - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 161 Avenue de Suffren Paris",
+    "address": "161 avenue de Suffren - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 2 rue Pérignon 75007 Paris",
+    "address": "2 Rue Pérignon - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 55 Avenue de Ségur - Paris",
+    "address": "55 Avenue de Ségur - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 26 Rue Miollis - Paris",
+    "address": "26 Rue Miollis - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 110-112 Avenue de Suffren - Paris",
+    "address": "112T Avenue de Suffren - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 10 avenue de Saxe 75007 Paris",
+    "address": "10 Avenue de Saxe - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Avenue de Saxe",
+    "address": "53 -59 av de Saxe - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 139 Boulevard de Grenelle - Paris",
+    "address": "139 Boulevard de Grenelle - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - Avenue Duquesne - Paris",
+    "address": "Avenue Duquesne - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

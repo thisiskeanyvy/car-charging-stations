@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Soregies - Super U - Saint-Georges-lès-Baillargeaux",
+    "address": "Avenue du clos de l'ormeau - Saint-Georges-lès-Baillargeaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Auchan - RD910 - Chasseneuil Du Poitou",
+    "address": "RD910 - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Futuroscope - Hôtel Station Cosmos",
+    "address": "0 Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Hôtel Futuroscope 3 - Chasseneuil-du-Poitou",
+    "address": "Boulevard Léonard de Vinci - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Clos de la Ribaudiere (Tesla) Privé",
+    "address": "8 Rue du Champ de Foire - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château du Clos de la Ribaudière - Chasseneuil-du-Poitou (Porsche)",
+    "address": "10 Rue du Champ de Foire - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Novotel Poitiers (Futuroscope)",
+    "address": "Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bornes Solutions - Futuroscope - Chasseneuil-du-Poitou",
+    "address": "Téléport 2 - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargeguru - Novotel Poitiers Futuroscope",
+    "address": "9284F Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge - Ibis Futuroscope - Chasseneuil-du-Poitou",
+    "address": "Hotel IBIS - Avenue Thomas Edison - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SIEG 63 - Place Jean Jaurès",
+    "address": "Place Jean Jaurès - Puy-Guillaume",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Avenue de Bellevue - Saint-Yorre",
+    "address": "Avenue de Bellevue - Saint-Yorre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE03 - Abrest",
+    "address": "Place Jean Moulin - Abrest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vichy",
+    "address": "41 avenue Poincaré - Vichy",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Bellerive-sur-Allier - E. Leclerc",
+    "address": "5 Allée Colonel Henri Rol-Tanguy - Bellerive-sur-Allier",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "HERVIER Automobile",
+    "address": "4 Avenue du Général de Gaulle - Bellerive-sur-Allier",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Bellerive-sur-Allier (Avenue de Russie)",
+    "address": "Place de la Source Intermittente - Bellerive-sur-Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel de Grignan - Isabelle Ribier",
+    "address": "16 av de Lyon - Vichy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue de Marseille - Vichy",
+    "address": "Rue de Marseille - Vichy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Vichy (Parking Porte de France)",
+    "address": "6 Rue Porte de France - Vichy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

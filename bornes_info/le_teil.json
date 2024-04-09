@@ -1,0 +1,132 @@
+[
+  {
+    "title": "eborn - Place du Cimetière - Le Teil",
+    "address": "Place du Cimetière - Le Teil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - Place René Montérémal - Le Teil",
+    "address": "Place René Montérémal - Le Teil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Teil - Intermarché",
+    "address": "Chemin Du Dépôt - Le Teil",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - Chemin du Dépot - Le Teil",
+    "address": "Chemin du Dépot - Le Teil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GMS - KIA",
+    "address": "4 Rue de Dion Bouton - Montélimar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Montélimar - 7 Chemin de Fortuneau",
+    "address": "7 Chemin de Fortuneau - Montélimar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Montélimar",
+    "address": "29 Avenue de Gournier - Montélimar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Place des brassierres",
+    "address": "6 Place des Brassières - Rochemaure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT SAS - Montélimar - 122 Route de Châteauneuf",
+    "address": "122 Route de Châteauneuf - Montélimar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Avenue John Kennedy - Montélimar",
+    "address": "20 Avenue John Kennedy - Montélimar",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

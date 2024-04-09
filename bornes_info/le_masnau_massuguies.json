@@ -1,0 +1,148 @@
+[
+  {
+    "title": "SDET - Parking de la Mairie - Viane",
+    "address": "Chemin de Septval - Viane",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Saint-Pierre-de-Trivisy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET (Révéo) - D59 - Rayssac",
+    "address": "D59 - Rayssac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Rue Guillaume de Paulin - Paulinet",
+    "address": "Rue Guillaume de Paulin - Paulinet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Saint-Sernin-sur-Rance - Avenue de Saint-Affrique Parking Route de Saint Affrique",
+    "address": "Avenue de Saint-Affrique Parking Route de Saint Affrique - Saint-Sernin-sur-Rance",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Rapide) - Lacaune 2 -, Avenue Georges Clemenceau",
+    "address": "5 Avenue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDET - Lacaune - Avenue Georges Clémenceau",
+    "address": "4 Rue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Place Du Maquis",
+    "address": "2 Rue de la Fabrique - Vabre",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET - Place du Foirail Alban",
+    "address": "4 Place du Foirail - Alban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Domaine de Saint-Michel",
+    "address": "Rue de la Balmette - Lacaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

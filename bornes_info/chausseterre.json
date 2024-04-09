@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Shell Recharge A89 Aire du Haut-Forez (direction Clermont-Ferrand)",
+    "address": "A89 - Les Salles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - A89 Aire du Haut-Forez (direction Saint-Étienne)",
+    "address": "A89 - Les Salles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Restaurant de la Poste",
+    "address": "Rue de Thiers - Saint-Just-en-Chevalet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Orée des 2 Monts",
+    "address": "4794 Route de Saint-Martin - Vêtre-sur-Anzon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine La Bourbonnaise",
+    "address": "D477 - Laprugne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Celles-sur-Durolle",
+    "address": "1 Rue du Huit Mai - Celles-sur-Durolle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "e-Totem - Chailas - La Monnerie-le-Montel",
+    "address": "Chailas - La Monnerie-le-Montel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - La Monnerie-le-Montel - Sortie Péage A89",
+    "address": "Chez Racine - La Monnerie-le-Montel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Rue De La Gare - La Monnerie-le-Montel",
+    "address": "31 Rue De La Gare - La Monnerie-le-Montel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Intermarché - Lentigny",
+    "address": "126 Rue des Orchidées - Lentigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

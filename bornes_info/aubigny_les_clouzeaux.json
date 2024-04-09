@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Rue Louis Pasteur - AUBIGNY",
+    "address": "Place Marie Curie - Aubigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Camping Campilô - Aubigny-Les Clouzeaux",
+    "address": "L'Auroire - Aubigny-Les Clouzeaux",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place de l'Église - Nesmy",
+    "address": "Place de l'Église - Nesmy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Chemin du Fougère au Bourg - La Roche-sur-Yon",
+    "address": "Chemin du Fougère au Bourg - La Roche-sur-Yon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - La-Roche-Sur-Yon",
+    "address": "Impasse Claudius Petit - La Roche-sur-Yon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc Sud Avenue",
+    "address": "Rue Duchesne de Denant - La Roche-sur-Yon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 43 rue Guillaume Bunsen - LA ROCHE SUR YON",
+    "address": "43 rue Guillaume Bunsen - LA ROCHE SUR YON",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place du Genêt",
+    "address": "Place du Genet - La Roche-sur-Yon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Renault - 50 rue Savary de l'Epineray - La Roche-sur-Yon DOUBLON",
+    "address": "50 rue Savary de l'Epineray - La Roche-sur-Yon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA - Garage Phelippeau - La Roche-sur-Yon",
+    "address": "50 Rue Savary de l'Epineraye - La Roche-sur-Yon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

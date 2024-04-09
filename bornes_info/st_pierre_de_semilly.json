@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SGA Automation - Saint-André-de-l'Épine - 2 Route de Bayeux",
+    "address": "2 Route de Bayeux - Saint-André-de-l'Épine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Nissan - Saint-Lô",
+    "address": "760 Rue Joseph Cugnot - Saint-Lô",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - 730 Rue Joseph Cugnot, - Saint-Lô",
+    "address": "730 Rue Joseph Cugnot, - Saint-Lô",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - La Taille, 32 - Saint-Georges-d'Elle",
+    "address": "32 La Taille - Saint-Georges-d'Elle",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre d'affaires le phoenix",
+    "address": "Avenue de Paris - St-Lô",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place de la Salle des Fêtes - Saint-Jean-des-Baisants",
+    "address": "3 Place de la Salle des Fêtes - Saint-Jean-des-Baisants",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Aldi - Saint-Lô",
+    "address": "1133 Avenue de Paris - Saint-Lô",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "ZEborne - Kia - Saint-Lô",
+    "address": "1149 Rue de Torigni - Saint-Lô",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Saint Lô - Rue des Ronchettes",
+    "address": "910 A Rue de Torigni - Saint-Lô",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEM50 - Saint-Lô - Avenue des Hêtres",
+    "address": "30-92 Avenue des Hêtres - Saint-Lô",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

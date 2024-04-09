@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Lidl - Jury",
+    "address": "Rue de Metz - Jury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Hôpital de Mercy - Ars-Laquenexy",
+    "address": "1 Allée du Château - Ars-Laquenexy",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue De La Grange-Aux-Bois - Metz",
+    "address": "1 Rue de la Grange aux Bois - Metz",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 3 rue de Courcelles - Metz",
+    "address": "3 rue de Courcelles - Metz",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Marsilly",
+    "address": "Rue principale - Marsilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BUMP-CHARGE - Hotel Best Western Pus Metz Technopole",
+    "address": "1 Rue Félix Savart - Metz",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking hotel best western Metz (Tesla and others)",
+    "address": "2 Rue Pierre Simon de Laplace - Metz",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "maison horizon - Rue Pierre Simon de Laplace - Metz",
+    "address": "4 Rue Pierre Simon de Laplace - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rocade Sud-Est de Metz",
+    "address": "Rocade Sud-Est de Metz - Metz",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Schneider Electric - Metz",
+    "address": "17 Rue Pierre Simon de Laplace - Metz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

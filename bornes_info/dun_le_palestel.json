@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Shell Recharge - Dun-le-Palestel - 2 Place du Champ de Foire",
+    "address": "2 Place du Champ de Foire - Dun-le-Palestel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Inermarché - Avenue d'Auvergne - Dun-le-Palestel",
+    "address": "5 Avenue d'Auvergne - Dun-le-Palestel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine de la Caure (réservé aux clients) - Fressigne - Bussière-Dunoise",
+    "address": "7 Fressigne - Bussière-Dunoise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Rue Armand Guillaumin - Crozant",
+    "address": "42 Rue Armand Guillaumin - Crozant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de la Cazine",
+    "address": "Domaine de la Fôt - Noth",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Mairie de Saint Vaury",
+    "address": "1 Place de l'Église - Saint-Vaury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Jarrige - St.-Vaury",
+    "address": "5 La Jarrige - St.-Vaury",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Lourdoueix Saint-Michel",
+    "address": "L'Augère - Lourdoueix-saint-michel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Etang du Cheix Camping Suisse Océan",
+    "address": "Avenue de la République - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Eguzon Chantome",
+    "address": "19 Route du Pont Noyé - Éguzon-Chantôme",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

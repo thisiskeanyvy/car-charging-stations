@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Aria parc du Vivier II",
+    "address": "1 Chemin de la Berardière - Allonnes",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarthe Irve - Rue de la Libération - Rouillon",
+    "address": "Rue de la Libération - Rouillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Express - Allonnes - Norauto",
+    "address": "Rue de la Raterie - Allonnes",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Allonnes",
+    "address": "Rue Blaise Pascal - Allonnes",
+    "connectors": [
+      "x12",
+      "x11",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarthe Irve - Place Hector Vincent - Rouillon",
+    "address": "Place Hector Vincent - Rouillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E. Leclerc - Allonnes",
+    "address": "Rue de la Raterie - Allonnes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking service propreté",
+    "address": "208 Rue de l'Angevinière - Le Mans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Louis Breguet - Le Mans",
+    "address": "30 Rue Louis Bréguet - Le Mans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "PEUGEOT - CLARA AUTOMOBILES",
+    "address": "2 Boulevard Pierre Lefaucheux - Le Mans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking - Boulevard Demorieux - Patte d'oie",
+    "address": "119 Boulevard Demorieux - Le Mans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

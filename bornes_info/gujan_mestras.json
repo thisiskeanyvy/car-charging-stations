@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Mairie de Gujan-Mestras",
+    "address": "1 Place Charles de Gaulle - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Rue de L'Yserd - Gujan-Mestras",
+    "address": "12 Rue de l'Yser - Gujan-Mestras",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue Edmond Daubric - Gujan-Mestras",
+    "address": "Rue Edmond Daubric - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Parking de la claire",
+    "address": "10 Rue du Docteur Bezian - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Médiatheque Gujan",
+    "address": "1 Allée Mozart - Gujan-Mestras",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Izivia - Hyper U - Gujan-Mestras",
+    "address": "93bis Avenue de Césarée - Gujan-Mestras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Gujan-Mestras",
+    "address": "98 Avenue De Césarée - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ibis Styles Gujan-Mestras",
+    "address": "3 Lotissement Le Bâton-Rouge - Gujan-Mestras",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Gujan-Mestras - Av du Marechal de Lattre de Tassigny",
+    "address": "5 Avenue du Maréchal de Lattre de Tassigny - Gujan-Mestras",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - La Teste-de-Buch",
+    "address": "1060 Avenue de l'Europe - La Teste-de-Buch",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

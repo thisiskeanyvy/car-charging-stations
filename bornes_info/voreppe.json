@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SEDI - Avenue Honoré de Balzac - de Voreppe",
+    "address": "Avenue Honoré de Balzac - Voreppe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SuperU - ZeborneMS - 11 Avenue du - Voreppe",
+    "address": "11 Rue de Bouvardière - Voreppe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A48 Aire de Voreppe (direction Lyon)",
+    "address": "A48 - Voreppe",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A48 - Aire de l'Île Rose (direction Grenoble)",
+    "address": "A48 - Voreppe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Veurey-Voroize - Ducreux",
+    "address": "Allée de la Volla - Veurey-Voroize",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CER France publique - Rue du Rocher de Lorzier (Privé)",
+    "address": "122 Rue du Rocher de Lorzier - Moirans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 50 Rue des Étangs - Moirans",
+    "address": "50 Rue des Étangs - Moirans",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grenoble Métropole - Rue des Mûriers Parking Palluel - Fontanil-Cornillon",
+    "address": "Rue des Mûriers Parking Palluel - Fontanil-Cornillon",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Renault Trucks - Fontanil-Cornillon",
+    "address": "18 Av. de la Louisiane, - Fontanil-Cornillon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 8 Rue De La Louisiane - Fontanil-Cornillon",
+    "address": "8 Rue De La Louisiane - Fontanil-Cornillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

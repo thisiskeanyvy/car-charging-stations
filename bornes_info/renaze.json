@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE53 - Place de l'Europe Renazé",
+    "address": "17 Place de l'Europe - Renazé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Craon",
+    "address": "Rue de l'Europe ZA La Pépinière - Craon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Super U - Craon DOUBLON",
+    "address": "1 Rue de l'Europe - Craon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Craon - 68 Route De Nantes",
+    "address": "68 Route De Nantes - Craon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Construction du Haut d'Anjou - 22kW AC",
+    "address": "1 Rue de la Grand Prée - Ombrée d'Anjou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue du Mûrier - Craon",
+    "address": "2 Rue du Mûrier - Craon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - COMBREE - Place du Commerce",
+    "address": "2-4 Rue de Bretagne - Combrée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Place Champ De Foire - Pouance",
+    "address": "Place du Champ de Foire - Pouance",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE53 - Rue de la Closeraie Ballots",
+    "address": "Rue de la Closeraie - Ballots",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - NOYANT LA GRAVOYERE - Place Du Velodrome",
+    "address": "Rue Constant Gérard - Noyant-la-Gravoyère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

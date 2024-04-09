@@ -1,0 +1,124 @@
+[
+  {
+    "title": "OuestCharge - Place du Marché au Cadran - Saint-Méloir-des-Ondes",
+    "address": "Place du Marché au Cadran - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Les Halles Méloriennes",
+    "address": "38 Rue d'Emeraude - St.-Méloir-des-Ondes",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La ferme du vent (Tesla)",
+    "address": "Langavant - Saint-Méloir Des Ondes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau-Richeux Roellinger (autres VE)",
+    "address": "Château Richeux - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau-Richeux Roellinger (Tesla)",
+    "address": "Château Richeux - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ferme de Launay_Busnel",
+    "address": "Ferme de Launay-Busnel - La Gouesnière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE35 - Place du Marché - Saint-Coulomb",
+    "address": "Place du Marché - Saint-Coulomb",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rossini Energy - Saint-Malo - 29 Rue de la Ville es Cours",
+    "address": "29 Rue de la Ville es Cours - Saint-Malo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Malouinière des Longchamps (Tesla)",
+    "address": "Les Longs Champs - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Malo",
+    "address": "55 Boulevard des Déportés - Saint-Malo",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

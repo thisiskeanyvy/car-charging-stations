@@ -1,0 +1,134 @@
+[
+  {
+    "title": "e-born - Route Vielle verde - Habère-Poche",
+    "address": "Route Vielle verde - Habère-Poche",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Rue de la Menoge - Boëge",
+    "address": "50 Rue du Bourno - Boëge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Boëge - rue du Collège",
+    "address": "46°12'26.8\"N 6°24'09.1\"E - Boëge",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "L'Auberge de Mégevette",
+    "address": "50 D26 - Mégevette",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Bourg d'en Bas - Bons-en-Chablais",
+    "address": "19 Rue du Bourg d'en Bas - Bons-en-Chablais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYANE - Avenue Louis Armand - Bons-en-Chablais",
+    "address": "Avenue Louis Armand - Bons-en-Chablais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 309 Rue des Bracots - Bons-en-Chablais",
+    "address": "309 Rue des Bracots - Bons-en-Chablais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Faucigny - Saint-Jeoire",
+    "address": "64 Rue du Faucigny - Saint-Jeoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 178 Rue des Fougères - Bons-en-Chablais",
+    "address": "178 Rue des Fougères - Bons-en-Chablais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 341 Rue du Grand Viré - Bons-en-Chablais",
+    "address": "341 Rue du Grand Viré - Bons-en-Chablais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Domaine du Château Vieux - Triors",
+    "address": "70 Chemin du Châteauvieux - Triors",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 60 Impasse Elsa Triolet - Génissieux",
+    "address": "60 Impasse Elsa Triolet - Genisssiecx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du marché - Génissieux",
+    "address": "Rue Frédéric Penelon - Génissieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "La ferme des Essarts",
+    "address": "705 Chemin du Four a Chaux - Saint-Paul-lès-Romans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A49 Aire de Porte de la Drome (direction Valence)",
+    "address": "3 Gervans - La Baume-d'Hostun",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bricomarché - Saint-Paul-lès-Romans",
+    "address": "17b Avenue Des Pins - Saint-Paul-lès-Romans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A49 Aire de Royan-Vercors (direction Grenoble)",
+    "address": "Route du Trou du Loup - La Baume-d'Hostun",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Rue Clair - Saint-Paul-lès-Romans",
+    "address": "95 Rue Clair - Saint-Paul-lès-Romans",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EXSTO - ROMANS SUR ISERE - 7.4KW AC",
+    "address": "55 Avenue de la Déportation - Romans-sur-Isère",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - L'Enfer - Peyrins",
+    "address": "L'Enfer - Peyrins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sigeif - Rue des Bussys - Eaubonne",
+    "address": "22 Rue des Bussys - Eaubonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - Gare RER C de Ermont Eaubonne",
+    "address": "00 Place Jean Esprangle - Ermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Parking Gare du Champ de Course - Eaubonne",
+    "address": "4 Rue Rabelais - Eaubonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Effia - Rue Raoul Dautry - Ermont",
+    "address": "1 Rue Raoul Dautry - Ermont",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - rue d'Ermont (Cimetière) - St Gratien",
+    "address": "99 rue d'Ermont - Saint-Gratien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Médiathèque d'Eaubonne",
+    "address": "4 Rue Cristino Garcia - Eaubonne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Rue de Soisy - Eaubonne",
+    "address": "14 Rue de Soisy - Eaubonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Rue Berthelot - Ermont",
+    "address": "6 Rue Berthelot - Ermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "INDIGO du Forum - Rue Berthie Albrecht (Allée Pierre de Coubertin)",
+    "address": "21 Rue Berthie Albrecht - Saint-Gratien",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rent A Car - Soisy-sous-Montmorency",
+    "address": "75 Avenue du Général Leclerc - Soisy-sous-Montmorency",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

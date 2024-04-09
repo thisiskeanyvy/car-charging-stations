@@ -1,0 +1,132 @@
+[
+  {
+    "title": "USEDA - Place Charles de Gaulle - Braine",
+    "address": "35 Place Charles de Gaulle - Braine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Château de Courcelles",
+    "address": "6 Rue du Château - Courcelles-sur-Vesle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "DIRVE 02 - Rue du Bac - Brenelle",
+    "address": "1 Rue du Bac - Brenelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Useda - Missy sur Aisne",
+    "address": "9 Rue de Reims - Missy-sur-Aisne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "pillaud materiau",
+    "address": "1 zac saponay - Saponay",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Fismes",
+    "address": "54 Route De Soissons - Fismes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Fismes - Bricomarché",
+    "address": "Route de Soissons - Fismes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Useda - Mairie de Vailly-sur-Aisne",
+    "address": "5 Place Edouard Herriot - Vailly-sur-Aisne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Grande Rue - Hartennes-et-Taux",
+    "address": "39 Grande Rue - Hartennes-et-Taux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Place du 29 Aout 1944 - Bucy-le-Long",
+    "address": "6 Place du 29 Août 1944 - Bucy-le-Long",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

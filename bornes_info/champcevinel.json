@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Rue Aragon",
+    "address": "Rue Louis Aragon - Champcevinel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aquacap - Champcevinel",
+    "address": "Rue du Vieux Puits - Champcevinel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "INTERMARCHÉ SUPER TRÉLISSAC",
+    "address": "Avenue Georges Pompidou - Trélissac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Parking covoiturage - Périgueux",
+    "address": "Avenue Georges Pompidou - Trélissac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Avenue Georges Pompidou, 76 - Périgueux",
+    "address": "76 Avenue Georges Pompidou - Périgueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Périgueux",
+    "address": "225B Route d'Angoulême - Périgueux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Périgueux",
+    "address": "Voie des Stades - Périgueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Périgueux",
+    "address": "16 Rue Clos Chassaing - Périgueux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La bobine de Véro - Trélissac",
+    "address": "125 Avenue Michel Grandou - Trélissac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Allée de Tourny - Périgueux",
+    "address": "14 Cours Tourny - Périgueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

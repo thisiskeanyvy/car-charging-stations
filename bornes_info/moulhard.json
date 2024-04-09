@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Péage luigny Nogent le rotrou",
+    "address": "parking du péage - Luigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A11 Aire de Brou-Dampierre (direction Chartres)",
+    "address": "A11 - Aire de Brou-Dampierrre - Dampierre-sous-Brou",
+    "connectors": [
+      "x4",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A11 Aire des Manoirs du Perche (direction Le Mans)",
+    "address": "A11, Aire des Manoirs du Perche - Frazé",
+    "connectors": [
+      "x2",
+      "x1",
+      "x7",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Salle des fêtes - Chapelle-Royale",
+    "address": "1 Rue Jean Moulin - Chapelle-Royale",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Beaumont les Autels",
+    "address": "16 Rue du Général de Gaulle - Beaumont-les-Autels",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - D15 Route de Frazé",
+    "address": "4 Route de Frazé - Brou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE28 - Brou (Place de l'Hôtel de ville)",
+    "address": "553 Place de L Hôtel de ville - Brou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Brou (Place de la Matrassière)",
+    "address": "Place de la Matrassière - Brou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - La Bazoche-Gouet",
+    "address": "25 Rue des Fossés - La Bazoche-Gouet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Intermarché - Brou",
+    "address": "1175 Route de Chartres - Brou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

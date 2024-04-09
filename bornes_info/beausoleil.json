@@ -1,0 +1,124 @@
+[
+  {
+    "title": "CARF - Beausoleil, Avenue De Verdun",
+    "address": "Avenue de Verdun - Beausoleil",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking des moulins",
+    "address": "39 Boulevard des Moulins - Monaco",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monaco ON Place des Moulins",
+    "address": "Place des Moulins - Monaco",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking saint-Laurent_Monaco",
+    "address": "parking saint laurent - Monaco",
+    "connectors": [
+      "x9",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Moulins",
+    "address": "Place des Moulins - Monaco",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saint-Charles_Monaco",
+    "address": "Avenue Saint Charles - Monaco",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CARF - Beausoleil, Boulevard du Général Leclerc - Réservée TAXIS",
+    "address": "Boulevard du Général Leclerc - Beausoleil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Forum Grimaldi",
+    "address": "10 avenue Princesse Grace - monaco",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Recharge Smadec",
+    "address": "27 Avenue Princesse Grace - Monaco",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Annonciade",
+    "address": "Avenue de l'Annonciade - Monaco",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  }
+]

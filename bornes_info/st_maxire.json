@@ -1,0 +1,132 @@
+[
+  {
+    "title": "ENGIE Vianeo - A83 Aire de la Chateaudrie (direction Niort)",
+    "address": "A83, Aire de la Chateaudrie \r\n - Villiers-en-Plaine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A83 Aire de la Canepetière (direction Nantes)",
+    "address": "A83, Aire de la Canepetiere \r\n - Faye-Sur-Ardin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Echiré - Super U",
+    "address": "Rue Léo Desaivre Rue de la Sablière - Echiré",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Super U - Zeborne - Echiré",
+    "address": "Rue Léo Desaivre, Rue de la Sablière - Échiré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "AlterBase Séolis - St Rémy - Salle Polyvalente",
+    "address": "Rue de Saint-Maxire - Saint-Rémy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "AlterBase Séolis - Villiers en Plaine - Ecole",
+    "address": "24 Rue du Commerce - Villiers-en-Plaine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "AlterBase Séolis - Côte de Chaillot - Echiré",
+    "address": "715-739 Rue Côte de Chaillot - Échiré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Échiré - 470 Rue du Puits Japie",
+    "address": "470 Rue du Puits Japie - Échiré",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - Niort - 146 Route de Coulonges",
+    "address": "146 Route de Coulonges - Niort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 132 Avenue de Nantes - Niort",
+    "address": "132 Avenue de Nantes - Niort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

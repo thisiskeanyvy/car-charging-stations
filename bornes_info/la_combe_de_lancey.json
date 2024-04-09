@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEDI - Espace Aragon - Villard-Bonnot",
+    "address": "Boulevard Jules Ferry - Villard-Bonnot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DOMOSOLARIS",
+    "address": "8 Rue Paul Héroult - Villard-Bonnot",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Mairie du Versoud",
+    "address": "1 Lotissement les Tonnelles 1 - Le Versoud",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A41 Aire de Bois Claret (direction Grenoble)",
+    "address": "- Saint-Nazaire-les-Eymes",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FASTNED - A41 - Aire de Saint-Nazaire-les-Eymes (direction Chambery)",
+    "address": "A41 - Saint-Nazaire-les-Eymes",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "avenue de la Chantourne 10 38190 VILLARD-BONNOT",
+    "address": "avenue de la Chantourne 10 - VILLARD-BONNOT",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking de la Mairie - Rd 59 Laval",
+    "address": "54 rue de la mairie - Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Grenoble/Bernin",
+    "address": "140 Chemin des Fontaines - Isère",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Casino Supermarché - Crolles",
+    "address": "1824 rue de belledone - Crolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "VW Jean Lain",
+    "address": "967 Avenue Ambroise Croizat - Crolles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

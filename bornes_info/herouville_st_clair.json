@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Allego - Carrefour - Hérouville Saint Clair",
+    "address": "101 Le Val - Hérouville-Saint-Clair",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Avenue de la Grande Cavée - Hérouville-Saint-Clair",
+    "address": "Avenue de la Grande Cavée - Hérouville-Saint-Clair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Hérouville",
+    "address": "1746 Le Bois Porte 17 - Hérouville-Saint-Clair",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - Hotel Kyriad Hérouville",
+    "address": "Impasse des Ormes Hotel Kyriad - Hérouville-Saint-Clair",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Biocoop Hérouville",
+    "address": "1 Rue Denis Papin - Hérouville-Saint-Clair",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Renault Retail Group Caen (Privé)",
+    "address": "3 rue Pasteur - Herouville St Clair",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue Guyon de Guercheville - Hérouville St Clair",
+    "address": "16 Rue Guyon de Guercheville - Hérouville-Saint-Clair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Metro - Caen",
+    "address": "Avenue general de gaulle - Herouville st clair",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best Hotel - Hérouville-Saint-Clair",
+    "address": "717 Avenue du Gén de Gaulle - Hérouville-Saint-Clair",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Avenue de Garbsen - Hérouville-Saint-Clair",
+    "address": "1 Avenue De Garbsen - Hérouville-Saint-Clair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

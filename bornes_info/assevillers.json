@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Total Energies - A1 Aire de Coeur des Hauts de France Est (direction Lille)",
+    "address": "1 A1 - Assevillers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x3",
+      "x11"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A1 Aire de Cœur des Hauts-de-France Ouest (direction Paris)",
+    "address": "1 Aire de Cœur des Hauts-de-France - Assevillers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A1 Aire des Cœurs de Hauts de France Ouest",
+    "address": "7 D 4164 - Assevillers",
+    "connectors": [
+      "x4",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FDE80 - Ruelle de Berny - Estrées-Deniécourt",
+    "address": "4 Ruelle de Berny - Estrées-Deniécourt",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Route de la Gare - Estrées-Deniécourt",
+    "address": "Route de la Gare - Estrées-Deniécourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking OVERCHEM",
+    "address": "Rue du Château d'Happlincourt - Villers-Carbonnel",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 2 Rue de l'Industrie - Péronne",
+    "address": "2 2 Rue de l'Industrie - Péronne",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Gueudet - Péronne",
+    "address": "7 Rue de Rome - Péronne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place André Audinot - Péronne",
+    "address": "9 Place André Audinot - Péronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Marie Blachère - Péronne",
+    "address": "3 Avenue de l'Europe - Péronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

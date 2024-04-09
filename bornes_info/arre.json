@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Borneco - Paris - 38 Avenue de New York",
+    "address": "38 Avenue de New York - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shangri-La Hotel Paris (Tesla)",
+    "address": "10 Avenue d'Iéna - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 24 Avenue d'Iéna Paris",
+    "address": "24 avenue d'Iéna - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking résidentiel Wilson 2",
+    "address": "43 Avenue du Président Wilson - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Président Wilson",
+    "address": "38-50 av du Pdt Wilson - Paris",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 3 Avenue Marceau - Paris",
+    "address": "1 Avenue Marceau - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - 19 Avenue George V - Paris",
+    "address": "19 Avenue George V - Paris",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clem' - Paris 41 - Trocadéro",
+    "address": "89 avenue Kléber - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Urbis Park - Kléber Longchamp",
+    "address": "65 Avenue Kléber - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 37 avenue d'Iéna 75016 Paris",
+    "address": "37 Avenue d'Iéna - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  }
+]

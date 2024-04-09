@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDED - Place Du Tricastin - La Baume-de-Transit",
+    "address": "Place Du Tricastin - La Baume-de-Transit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Rond-Point Terrain de foot - Montségur-sur-Lauzon",
+    "address": "Avenue de Saint-Jean - Montségur-sur-Lauzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yes55 - Grillon - Ancienne Route de Valreas",
+    "address": "Ancienne Route de Valreas - Grillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Parking du stade - Visan",
+    "address": "123 Avenue du Général de Gaulle - Visan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lumi'in - Rhonéa - Rue de la Peine - Visan",
+    "address": "Rue de la Peine - Visan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Rue de la Peine",
+    "address": "- Visan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 490 Chemin des Asclépios - La Baume-de-Transit",
+    "address": "490 Chemin des Asclépios - La Baume-de-Transit",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Ferme Chapouton - Grignan",
+    "address": "200 Route de Montélimar - Grignan",
+    "connectors": [
+      "x4",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le Clair de la Plume",
+    "address": "1 Place du mail - Grignan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Chemin Les Grands Pres - Grignan",
+    "address": "60 Chemin Des Grands Prés - Grignan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

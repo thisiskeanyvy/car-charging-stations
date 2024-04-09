@@ -1,0 +1,132 @@
+[
+  {
+    "title": "STATIONS-E - Meaux - 15 Rue Faubourg Saint-Nicolas",
+    "address": "15 Rue Faubourg Saint-Nicolas - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - Quai Jacques Prévert",
+    "address": "Quai Jacques Prévert - Meaux",
+    "connectors": [
+      "x4",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Meaux - La Poste",
+    "address": "5 Quai Jacques Prévert - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Meaux - 1 Place du Temple",
+    "address": "1 Place du Temple - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "STATIONS-E - Meaux - 20 Quai Sadi Carnot",
+    "address": "20 Quai Sadi Carnot - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "STATIONS-E - Meaux - 2 Place de l'Hôtel de Ville",
+    "address": "2 Place de l'Hôtel de Ville - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - 52 Rue Aristide Briand - Meaux",
+    "address": "52 Rue Aristide Briand - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Meaux",
+    "address": "52 Rue Saint-Rémy - Meaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "indigo - 3, rue des trinitaires",
+    "address": "1 Rue de Trinitaires - Meaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Indigo - Rue Tronchet - Meaux",
+    "address": "Rue Tronchet - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

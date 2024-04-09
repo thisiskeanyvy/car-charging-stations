@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sigeif - Parking des Alluets - Groslay",
+    "address": "60 Dr GOLDSTEIN - Groslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge France - 36 Rue Charles de Gaulle - Deuil-la-Barre SUPPRIMÉ",
+    "address": "36 Rue Charles de Gaulle - Deuil-la-Barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Complexe Sportif Alain Mimoun - Rue de la Sourde - Deuil la barre",
+    "address": "4 Rue de la Sourde - Deuil la barre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Cimetière - Rue Des Carrières",
+    "address": "21bis Rue Des Carrières - Groslay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Rue Charles De Gaulle - Deuil-la-barre",
+    "address": "6 Rue Charles De Gaulle - Deuil-la-Barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - Rue de la Barre - Deuil-la-Barre",
+    "address": "62 Rue de la Barre - Deuil-la-Barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Des Ecricrolles 4 95410 Groslay",
+    "address": "Rue Des Ecricrolles 4 - Groslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sorel Energies - Groslay - 2 Rue de Sarcelles",
+    "address": "2 Rue de Sarcelles - Groslay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Rue du Docteur Demirleau - Montmorency",
+    "address": "Rue du Docteur Demirleau - Montmorency",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "LastMileSolutions - Groslay - 3 Rue Magnier Bédu",
+    "address": "3 Rue Magnier Bédu - Groslay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

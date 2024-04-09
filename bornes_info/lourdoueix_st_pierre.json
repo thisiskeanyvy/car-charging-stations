@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEI36 - Place du Chapelle de Foire - Aigurande",
+    "address": "53 Place du Chapelle de Foire - Aigurande",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Lourdoueix Saint-Michel",
+    "address": "L'Augère - Lourdoueix-saint-michel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Montchevrier | Place de l'Église",
+    "address": "Place de l'Église - Montchevrier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Place du Foirail - Bonnat",
+    "address": "1 Place du Foirail - Bonnat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "PowerDot - Intermarché - Bonnat",
+    "address": "13 Avenue de la Marché - Bonnat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEI36 - Orsenne",
+    "address": "19 Rue de la Poste - Orsennes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEI36 - Saint-Denis-de-Jouhet - Rue Jean Traversat",
+    "address": "Rue Jean Traversat - Saint-Denis-de-Jouhet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - 2 Route de la Châtre - Genouillac",
+    "address": "2 Route de la Châtre - Genouillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEC - Rue Armand Guillaumin - Crozant",
+    "address": "42 Rue Armand Guillaumin - Crozant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine de la Caure (réservé aux clients) - Fressigne - Bussière-Dunoise",
+    "address": "7 Fressigne - Bussière-Dunoise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

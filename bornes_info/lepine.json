@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Dataxion - Trappes",
+    "address": "16 avenue Jean d'Alembert - Trappes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 3 Rue du Groupe Manouchian - Élancourt",
+    "address": "3 Rue du Groupe Manouchian - Élancourt",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thales systemes - Trappes",
+    "address": "2 Avenue Jean d'Alembert - Trappes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thales Elancourt",
+    "address": "2 Avenue Jean d'Alembert - Trappes",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Airbus - Élancourt",
+    "address": "1 Boulevard Jean Moulin - Élancourt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Circet",
+    "address": "2 Rue Rene Descartes - Trappes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Élancourt - Place de Paris",
+    "address": "Place de Paris - Élancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Thales Optronique - Elancourt",
+    "address": "2 Avenue Gay Lussac - Élancourt",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alfa Laval",
+    "address": "- Élancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan Supermarché - Trappes",
+    "address": "3 Avenue le Verrier - Trappes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "RossiniEnergy - Le Puy-Notre-Dame - 4 Rue de l'Arguray",
+    "address": "4 Rue de l'Arguray - Le Puy-Notre-Dame",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Vaudelnay - Rue de la Mairie 249",
+    "address": "249 Rue de la Mairie - Vaudelnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine des roses",
+    "address": "84 Rue Benjamin Guittonneau - Vaudelnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel de la Saulaie",
+    "address": "104 Rue des Fougerons - Doué-la-Fontaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Route de la Levée Doué-la-Fontaine",
+    "address": "9125F Rue de Cholet - Doué-en-Anjou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEML - DOUE LA FONTAINE - Place Champ De Foire",
+    "address": "Rue de Taunay - Doué-la-Fontaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auberge Bienvenue - Doué-la-Fontaine (Tesla and others)",
+    "address": "104 Rue de Cholet - Doué-la-Fontaine",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Doue La Fontaine - Place De Verdun",
+    "address": "Place Flandres Dunkerque 1940 - Doué-la-Fontaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage Citroen - Doué-en-Anjou",
+    "address": "57 Route de Saumur - Doué-en-Anjou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Montreuil Bellay - Place Du Concorde",
+    "address": "Place du Concorde - Montreuil-Bellay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

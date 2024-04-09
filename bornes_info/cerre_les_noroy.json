@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SIED70 - Mairie - Frotey-lès-Vesoul",
+    "address": "24 Rue Auguste Guyard - Frotey-lès-Vesoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue du Trou au Loup - Villersexel",
+    "address": "154 Rue du Trou au Loup - Villersexel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Relais des Moines - Villersexel",
+    "address": "1 rue du 13 septembre 1944 - Villersexel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LA FORGE DE BONNAL - 22KW AC INEXISTANT",
+    "address": "Forge de Bonnal - Chassey-lès-Montbozon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking de Saulx - Saulx",
+    "address": "48 Grande Rue - Saulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED 70 - Frotey Les Vesoul - Eurotel",
+    "address": "1 Impasse Bel-air - Frotey-lès-Vesoul",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Vesoul",
+    "address": "4 Boulevard Kennedy - Vesoul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Vesoul",
+    "address": "Boulevard Kennedy - Vesoul",
+    "connectors": [
+      "x2",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Renault Sonodia",
+    "address": "4 bd Kennedy - Vesoul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking République - Vesoul",
+    "address": "10 Rue Meillier - Vesoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

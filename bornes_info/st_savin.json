@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEDI - Parking chemin du ruisseau - Saint-Chef",
+    "address": "2 Chemin du Ruisseau - Saint-Chef",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born Hôtel de Ville de Bourgoin-Jallieu",
+    "address": "3 Rue de l'Hôtel de ville - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Ford - Bourgoin-Jallieu",
+    "address": "Espace Henri Barbusse - Bourgoin-Jallieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place du Champ de Mars - Bourgoin-Jallieu",
+    "address": "22 Place du Champ de Mars - Bourgoin-Jallieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps S.L. - Le Rivet",
+    "address": "Le Rivet - Bourgoin-Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Qpark la folatiere",
+    "address": "Avenue general leclerc - Bourgoin Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 7 Boulevard de Champaret - Bourgoin-Jallieu",
+    "address": "7 Boulevard de Champaret - Bourgoin-Jallieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Jean-Jacques Rousseau - Bourgoin-Jallieu",
+    "address": "16 Place Jean-Jacques Rousseau - Bourgoin-Jallieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Bourgoin-Jallieu",
+    "address": "15 Avenue Henri Barbusse - Bourgoin-Jallieu",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Ruy-Montceau - Domaine des Séquoias",
+    "address": "190 Route De Boussieu - Ruy-Montceau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

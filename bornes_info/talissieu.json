@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Zephyre - Artemare - Garage Pochet",
+    "address": "9 Rue de Lyon - Artemare",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage des Fours - Culoz",
+    "address": "4 Rue des Roselières - Culoz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Béon",
+    "address": "2 Rue Des Roselières - Béon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pôle multimodal - Place Pierre Semard - Culoz",
+    "address": "87 Place Pierre Semard - Culoz",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Borne de recharge de vélos électriques et appareils USB",
+    "address": "295 Rue Notre Dame des Victoires - Ruffieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Route de Mijoux - Ruffieux",
+    "address": "Route de Mijoux - Ruffieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "76 route des bordelieres - CHAZEY BONS",
+    "address": "76 route des bordelieres - CHAZEY BONS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Rue Pré Bonguin - Chazey-Bons",
+    "address": "621 Rue Pré Bonguin - Chazey-Bons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Val escale",
+    "address": "14 Allée de l'Abreuvoir - Rossillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - D107 Belley",
+    "address": "D107 - Belley",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

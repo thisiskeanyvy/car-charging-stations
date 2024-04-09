@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Zephyre - Peugeot - Thônes",
+    "address": "42 Avenue d'Annecy - Thônes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour market provencia Thônes",
+    "address": "34 Rue de la Saulne - Thônes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cimetière - Dingy-Saint-Clair",
+    "address": "25 Route de Glandon - Dingy-Saint-Clair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Police Municipale de Thônes",
+    "address": "3 Rue du Capricorne - Thônes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Route des Moulins - Menthon-Saint-Bernard",
+    "address": "326 Route des Moulins - Menthon-Saint-Bernard",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eurofood Trading",
+    "address": "115 Route de Thônes - Annecy-le-Vieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syane - Avenue Général Doyen - Veyrier-du-Lac",
+    "address": "18 Avenue Général Doyen - Veyrier-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chalet de Christine",
+    "address": "- Talloires",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel restaurant Yoann Conte Bord du lac",
+    "address": "13 Vieille Route des Pensières - Veyrier-du-Lac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Parking Mairie - Talloires-Montmin",
+    "address": "26 Clos Derrière - Talloires-Montmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Mouv' Oise - Place de Piegaro Verneuil en Halatte",
+    "address": "1 Place de Piegaro - Verneuil-en-Halatte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Monta - Verneuil-en-Halatte - Ineris",
+    "address": "Rue Jacques Taffanel, - Verneuil-en-Halatte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mc Donald's - Villers-Saint-Paul",
+    "address": "Avenue des Pommiers - Villers-Saint-Paul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Creil Villers-Saint-Paul",
+    "address": "3 Av. des Pommiers D 200 - Villers-Saint-Paul",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Villers Saint Paul",
+    "address": "35 Rue Albert Thomas - Villers-Saint-Paul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Creil - Nogent-sur-Oise",
+    "address": "Rue du Marais Sec - Nogent-sur-Oise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Hôtel Campanile Villers-Saint-Paul",
+    "address": "3 Rue du Marais - Villers-Saint-Paul",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Nogent-sur-Oise",
+    "address": "120 Avenue de l'Europe - Nogent-sur-Oise",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Nogent sur Oise N°1",
+    "address": "7 Place de l'Église - Nogent-sur-Oise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Nogent sur Oise",
+    "address": "10 Ter rue du Général de Gaulle - Nogent sur Oise",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

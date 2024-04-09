@@ -1,0 +1,136 @@
+[
+  {
+    "title": "FDEL (Révéo) - Rue Louis Joubert - Duravel",
+    "address": "Rue Louis Joubert - Duravel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Rue Croix Dominique - Puy-l'Évêque",
+    "address": "Rue Croix Dominique - Puy-l'Évêque",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Territoire d'Energie Lot-et-Garonne - Sauveterre-la-Lémance - Rue de la Gare",
+    "address": "Rue de la Gare - Sauveterre-la-Lémance",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Peugeot Bonachera - Prayssac",
+    "address": "10 av du Lot, ZA de Meymes - Prayssac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - Fontaine de Saby - Mauroux",
+    "address": "Fontaine de Saby - Mauroux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Bricoleclerc - Montayral",
+    "address": "Unnamed Road - Montayral",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Place pierre caumont",
+    "address": "9 Place Caumont - Montayral",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MObiVE - Place du 19 mars - Villefranche-du-Périgord",
+    "address": "Place du 19 mars - Villefranche-du-Périgord",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Montayral",
+    "address": "1326 Roussel - Montayral",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Prayssac",
+    "address": "Chemin des Gaulies - Prayssac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

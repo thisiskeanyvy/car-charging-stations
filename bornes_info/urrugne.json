@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Parking - Urrugne",
+    "address": "2385-2633 Route Nationale 10 - Urrugne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - chemin Agueremborda - Urrugne",
+    "address": "3 Place Antoine d'Abbadie - Urrugne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta France - 1575 Route de Socoa",
+    "address": "1575 Route de Socoa - Urrugne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - D810 - Urrugne",
+    "address": "D810 - Urrugne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Urrugne",
+    "address": "3 Rue Poutillenea - Urrugne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Urrugne - 6 Avenue Kattalin Aguirre",
+    "address": "6 Avenue Kattalin Aguirre - Urrugne",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour city, place du marché",
+    "address": "0 Rue de l'Untxin - Urrugne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Location appartement Bellara",
+    "address": "boulevard Pierre Benoit - Ciboure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue François Miterrand - Ciboure",
+    "address": "Avenue François Mitterrand - Ciboure",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA (MObiVE) - Saint-Jean-de-Luz - Avenue Pierre Larramendy",
+    "address": "Avenue Pierre Larramendy - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE24 (MobiVE) - Place du 19 Mars - Notre-Dame-de-Sanilhac",
+    "address": "Place du 19 Mars - Notre-Dame-de-Sanilhac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking NOVABIO",
+    "address": "Avenue de Borie Marty - Notre Dame de Sanilhac",
+    "connectors": [
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A89/N21 Perigueux-Sud - (Double sens)",
+    "address": "N21 - Sanilhac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 - Eglise Saint-Michel - Coulounieix-Chamiers",
+    "address": "51 Place Yves Péron - Coulounieix-Chamiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Route du Camping - Boulazac Isle Manoire",
+    "address": "Route du Camping - Boulazac Isle Manoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Avenue Winston Churchill - Coulounieix-Chamiers",
+    "address": "Avenue Winston Churchill - Coulounieix-Chamiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Mairie de Notre-Dame-de-Sanilhac",
+    "address": "2 Rue de la Mairie - Notre-Dame-de-Sanilhac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Rue 26ème Regiment D'Infanterie - Périgueux",
+    "address": "Rue 26ème Regiment D'Infanterie - Périgueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 - Périgueux - Cours saint georges",
+    "address": "Cours Saint Georges - Périgueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDE24 - Périgueux- Place Francheville",
+    "address": "28 Place Francheville - Périgueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

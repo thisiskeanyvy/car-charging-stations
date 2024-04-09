@@ -1,0 +1,126 @@
+[
+  {
+    "title": "STATIONS-E - Chabrignac - Carrefour Contact",
+    "address": "Laschamps - Chabrignac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - 1 Place du Château",
+    "address": "1 Place du Château - Arnac-Pompadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Labrot- Avenue du Limousin - Arnac-Pompadour",
+    "address": "14 Avenue du Limousin - Arnac-Pompadour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Lubersac",
+    "address": "Avenue du 8 Mai 1945 - Lubersac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FDEE19 (Mobive) - Rue du 11 Novembre - Lubersac",
+    "address": "Rue du 11 Novembre - Lubersac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Rue de l'Hôpital",
+    "address": "9 Rue de l'Hôpital - Lubersac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 - Place de la Poste Payzac",
+    "address": "7 Place de la Poste - Payzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Esplanade / Place Charles De Gaulle - Objat",
+    "address": "Place de l'Esplanade - Objat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Route du Soulet - Ayen",
+    "address": "Route du Soulet - Ayen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Station service Super U Lubersac",
+    "address": "11 D 902 - Lubersac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

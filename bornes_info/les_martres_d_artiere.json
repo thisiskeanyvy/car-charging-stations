@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Lussat | Parking de l'étang des landes 1",
+    "address": "1 Parking de l'étang des landes - Lussat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Pont-du-Château",
+    "address": "9 Rue Roger Prat - Pont-du-Château",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - Rue du Dr Chambige",
+    "address": "1 Rue du Dr Chambige - Pont-du-Château",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEG 63 - 15 Rue du Pont Neuf",
+    "address": "15 Rue du Pont Neuf - Saint-Beauzire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lempdes | Avenue de l'Europe",
+    "address": "Avenue de l'Europe - Lempdes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Ennezat",
+    "address": "1 Rue Jean Ferrat - Ennezat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Culhat - D332 Route d'Ornon",
+    "address": "Bogros - Culhat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Cora - Lempdes",
+    "address": "Avenue de l'Europe 26 - Lempdes",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lempdes | Avenue de l'Europe",
+    "address": "Avenue de l'Europe - Lempdes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Gerzat - Fasthotel",
+    "address": "84 Chemin de Donnavignat - Gerzat",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

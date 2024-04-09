@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SUPER U - Impasse de l'Ebranchoir - Montfort-sur-Meu",
+    "address": "13 Impasse de l'Ebranchoir - Montfort-sur-Meu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "6 Impasse du Shannon",
+    "address": "6 Impasse du Shannon - Montfort-sur-Meu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue de la Hattais - Breteil",
+    "address": "Rue de la Hattais - Breteil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Château du Pin - Iffendic",
+    "address": "La veronnière - Iffendic",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Mordelles",
+    "address": "31 Avenue Du Maréchal Leclerc - Mordelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "LastMile Solutions - Foire-Fouille - Mordelles",
+    "address": "Rue Hedy Lamarr - Mordelles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Mordelles",
+    "address": "6 avenue des Platanes - MORDELLES",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SuperU - ZeborneMS - 1 Avenue des Platanes - Mordelles",
+    "address": "1 Avenue des Platanes - Mordelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - RN 12 AIRE DU PAYS DE RENNES",
+    "address": "RN 12 AIRE DU PAYS DE RENNES - SAINT GILLES",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Pleumeleuc",
+    "address": "6 L'Épinette - Pleumeleuc",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  }
+]

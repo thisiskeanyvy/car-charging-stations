@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Parking de la gare de Jaux",
+    "address": "10 Rue de la Gare - Jaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TOYOTA COMPIEGNE - 22KW AC",
+    "address": "150 Rue de Champagne - Jaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Longueil Sainte Marie",
+    "address": "place de Gaulle - Longueil sainte Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Place Jacques Tati - Jaux (Privé)",
+    "address": "Place Jacques Tati - Jaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zeborne - 660 Avenue Jean Moulin - Jaux",
+    "address": "660 Avenue Jean Moulin - Jaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autorecharge - 94 Rue de Champagne - Jaux",
+    "address": "94 Rue de Champagne - Jaux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue Bellum Villaré Parc Tertiaire de la Croix Saint Ouen - Compiègne",
+    "address": "Rue Bellum Villaré Parc Tertiaire de la Croix Saint Ouen - Compiègne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai Compiegne",
+    "address": "382 av jean moulin - jaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Ford Courtoise Automobiles - AVENUE JEAN MOULIN ZAC DU CAMP DU ROY 242 - JAUX",
+    "address": "AVENUE JEAN MOULIN ZAC DU CAMP DU ROY 242 - JAUX",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Meux, Geodis",
+    "address": "Rue Du Tourteret - Le Meux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

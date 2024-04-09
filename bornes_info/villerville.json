@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MobiSDEC - Parking du Lavoir",
+    "address": "2 Rue Louis Aubert - Villerville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Le Bellevue - Villerville (Tesla and others)",
+    "address": "12 Rue du Général Leclerc - Villerville",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Route de Honfleur - CRICQUEBOEUF",
+    "address": "11 D513 - Cricquebœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Manoir de la Poterie - Criqueboeuf (Tesla and others)",
+    "address": "2 Chemin Paul Ruel - Cricquebœuf",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Centre hospitalier de la Côte fleurie",
+    "address": "117 La brêche du bois D62 - Cricqueboeuf",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Les jardins de Coppelia",
+    "address": "150 Route du Bois du Breuil - Pennedepie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les jardins de Coppelia",
+    "address": "2–694 Route du Bois du Breuil - Pennedepie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hostellerie du Vallon - Trouville-sur-Mer",
+    "address": "12 Rue Sylvestre Lasserre - Trouville-sur-Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Boulevard Fernand Moureaux - Trouville-sur-Mer",
+    "address": "170 Boulevard Fernand Moureaux - Trouville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Cures Marines - Hôtel Thalasso & Spa - Trouville-sur-Mer (Porsche)",
+    "address": "11 Boulevard de la Cahotte - Trouville-sur-Mer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

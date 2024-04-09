@@ -1,0 +1,132 @@
+[
+  {
+    "title": "RossiniEnergy - Le Puy-Notre-Dame - 4 Rue de l'Arguray",
+    "address": "4 Rue de l'Arguray - Le Puy-Notre-Dame",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Cersay - Place de la Mairie",
+    "address": "Place de la Mairie - Cersay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Réseau AlterBase - Brion près Thouet - Aire de repos",
+    "address": "Route de Saumur - Brion-près-Thouet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Vaudelnay - Rue de la Mairie 249",
+    "address": "249 Rue de la Mairie - Vaudelnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine des roses",
+    "address": "84 Rue Benjamin Guittonneau - Vaudelnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Séolis - Sainte-Radegonde",
+    "address": "Rue du Général de Lescure - Sainte-Radegonde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Rue du Stade - Louzy",
+    "address": "15 Rue du Stade - Louzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - Ste Radegonde - Centre commercial",
+    "address": "3 Rue du Lac - Sainte-Radegonde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Thouars",
+    "address": "150 Avenue Émile Zola - Thouars",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Montreuil Bellay - Place Du Concorde",
+    "address": "Place du Concorde - Montreuil-Bellay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

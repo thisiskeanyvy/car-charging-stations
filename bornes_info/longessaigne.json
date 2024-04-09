@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SYDER - Place de la Dîme - Montrottier",
+    "address": "Place de la Dîme - Montrottier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue du Centre 2000 - Saint-Laurent-de-Chamousset",
+    "address": "Rue du Centre 2000 - Saint-Laurent-de-Chamousset",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mobiloire - Route de Cottance",
+    "address": "7 Route de Cottance - Panissières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Panissières - Route De Feurs",
+    "address": "Route De Feurs - Panissières",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clos de combaroux",
+    "address": "Au Gantier - Saint-Laurent-de-Chamousset",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "chateau de ronziere",
+    "address": "240 Allee du Chateau - Saint-Forgeux",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Violay - Rue Célestin Linder 1873-1951",
+    "address": "Rue Célestin Linder 1873-1951 - Violay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Supermarché COLRUYT",
+    "address": "11 Rue du Stade - Sainte-Foy-l'Argentière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Bessenay - Allée du Clos du Centre",
+    "address": "Allée du Clos du Centre - Bessenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Dacia Renault - Pontcharra-sur-Turdine",
+    "address": "Pré Vincent - Pontcharra-sur-Turdine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

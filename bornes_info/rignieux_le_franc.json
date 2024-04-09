@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ZEborne - Intermarché - Meximieux",
+    "address": "10 Chemin des Écureuils - Meximieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Alizé - Rue des Stades - Meximieux",
+    "address": "3 Rue des Stades - Meximieux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "INOUid - Meximieux - 1394 Route de Charnoz",
+    "address": "1394 Route de Charnoz - Meximieux",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - A42/D77e Aire de Covoiturage - Amberieu En Bugey",
+    "address": "D77e - Château-Gaillard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Béligneux - 37 Rue Professeur Robert Hugonot",
+    "address": "37 Rue Professeur Robert Hugonot - Béligneux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand Rue - Bressolles",
+    "address": "32 Impasse de la Cure - Bressolles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Château-Gaillard",
+    "address": "421-705 Rue de la Outarde - Château-Gaillard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SPIE Nucléaire - Béligneux",
+    "address": "380 Rue de Dérontet - Béligneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 345 Allée de Curebourse - Saint-Vulbas",
+    "address": "345 Allée de Curebourse - Saint-Vulbas",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Amberieu en Bugey",
+    "address": "70 Avenue de la liberation - Ambérieu-en-Bugey",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "TotalEnergies - A10 Aire de Limours Briis-sous-Forges (direction Paris)",
+    "address": "A10 - Janvry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x3",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A10 - Aire de Limours-Janvry (direction Chartres/Orléans)",
+    "address": "A10 - Janvry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Driveco pour PSA - 20 Rue Thuilere - Gometz-le-Châtel",
+    "address": "20 Rue Thuilere - Gometz-le-Châtel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - Kia - Rue Thuilere - Gometz-le-Châtel",
+    "address": "20 Rue Thuilere - Gometz-le-Châtel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial ULIS 2 - Saint-Jean-de-Beauregard",
+    "address": "3 D35B2 - Les Ulis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia- Carrefour les Ulis (2ème point de charge) - Avenue de l'aubrac - Les Ulis",
+    "address": "Allée 11-12 - Les Ulis",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Gometz le Châtel - Saint Nicolas",
+    "address": "63 Rue Saint-Nicolas - Gometz-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Vinci - Parking piscine - Les Ulis",
+    "address": "Avenue de l'Aubrac - Les Ulis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Fitness-Park - Les Ulis",
+    "address": "2 Avenue de l'Aubrac - Les Ulis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris-Saclay-Mobielectrique - 10 Rue du Fromenteau - Gometz-le-Châtel",
+    "address": "10 Rue du Fromenteau - Gometz-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

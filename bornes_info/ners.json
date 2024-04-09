@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiSDEC - MORTEAUX COULIBOEUF (Le Perrey)",
+    "address": "Le Perrey - Morteaux-Coulibœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue de Vignats - NECY",
+    "address": "14 Route de Vignats - Nécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Falaise (Rue du Champ Saint-Michel)",
+    "address": "Rue du Champ Saint-Michel - Falaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Mobisdec - FALAISE (passage des templiers)",
+    "address": "24 Rue Trinité - Falaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Falaise (Place du Docteur H Cailloué)",
+    "address": "Place du Docteur H Cailloué - Falaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NL*EVB - FALAISE - BD DU PAYS DE FALAISE ZONE EXPANSIA 2",
+    "address": "BD DU PAYS DE FALAISE ZONE EXPANSIA 2 - FALAISE",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Ibis Rouge Falaise",
+    "address": "Rue Louis Rochet - FALAISE",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Route de Caen - Falaise",
+    "address": "Route de Caen - Falaise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Place charles de Gaulle - Trun",
+    "address": "Place Charles de Gaulle - Trun",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - JORT (Rue des Ponts)",
+    "address": "11 Rue des Ponts - Jort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

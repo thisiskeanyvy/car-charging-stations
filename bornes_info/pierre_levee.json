@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDESM - Place de la mairie - Pierre-Levée",
+    "address": "3 Rue de Verdun - Pierre-Levée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Signy-Signets",
+    "address": "1 Place de l'Église - Signy-Signets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de Meaux - Maisoncelles-en-Brie",
+    "address": "1 Rue de Meaux - Maisoncelles-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de Meaux",
+    "address": "31 Rue de Meaux - Sancy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de la Mairie Montceaux-lès-Meaux",
+    "address": "Place de la Mairie - Montceaux-lès-Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Rue de la Mairie - Changis-sur-Marne",
+    "address": "Rue de la Mairie - Changis-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 10 Rue Marcel Neyrat - Changis-sur-Marne",
+    "address": "10 Rue Marcel Neyrat - Changis-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Rue de la Croix de Mission - Jouarre",
+    "address": "Rue de la Croix de Mission - Jouarre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Zone artisanale - Jouarre",
+    "address": "1 Rue de la Croix de Mission - Jouarre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "A4 Aire de Changis sur Marne (direction Paris)",
+    "address": "A 4 - Ussy-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "La Grange B&B",
+    "address": "6 Impasse des Prés - Cuiry-lès-Chaudardes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Oulches-la-Vallée-Foulon",
+    "address": "Chemin des Dames - Oulches-la-Vallée-Foulon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue des Ecoles - Berry-au-Bac",
+    "address": "Rue des Écoles - Berry-au-Bac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chateau d'Hermonville",
+    "address": "9 Rue Visin - Hermonville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking proche Mairie",
+    "address": "1 Rue Emile Wenz - Jonchery sur Vesle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 -  Place René Sarette-Rue Emile Wenz - Jonchery sur Vesle",
+    "address": "12 Place Rene Sarrette - Jonchery-sur-Vesle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Maison de la presse",
+    "address": "127 Route national - Jonchery sur vesles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Jonchery-sur-Vesle",
+    "address": "131 Route Nationale - Jonchery-sur-Vesle",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEM 51 - Rue du Docteur Genillon - Fismes",
+    "address": "Rue Docteur Genillon - Fismes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Fismes",
+    "address": "54 Route De Soissons - Fismes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

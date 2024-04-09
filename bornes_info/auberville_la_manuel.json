@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Manoir de Conteville",
+    "address": "2043 Route de Saint-Valéry - Paluel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Hameau de Conteville - Cany-Barville",
+    "address": "Hameau de Conteville - Cany-Barville",
+    "connectors": [
+      "x12",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centrale Nucléaire de Paluel",
+    "address": "La Centrale de Paluel - Paluel",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - CNPE Paluel - Cany-Barville",
+    "address": "Hameau de Conteville - Cany-Barville",
+    "connectors": [
+      "x14",
+      "x5",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Chateau de Sissi (Tesla et autres)",
+    "address": "Le Château - Sassetot-le-Mauconduit",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf - Saint-Riquier-és-Plains",
+    "address": "85 Route du Golf - Saint-Riquier-és-Plains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sport-e-bike",
+    "address": "2 Rue des Rosiers - Saint-Riquier-és-Plains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Parking salle Daniel pierre - Cany-Barville",
+    "address": "25 Rue Louis Bouilhet - Cany-Barville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Pôe de Santé - Cany-Barville",
+    "address": "1 Rue du Chauffour - Cany-Barville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Wall Neville",
+    "address": "2 rue fu carrelet - Neville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

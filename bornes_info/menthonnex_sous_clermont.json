@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Intermarché - Musièges",
+    "address": "5156 Zone Industrielle des Bonnets - Musièges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Netto - Musièges",
+    "address": "56 ZI des Bonnets - Musièges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Z.A. - Musièges",
+    "address": "Bonnet Ouest - Musièges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Contact - Frangy",
+    "address": "178 Route du Tram - Frangy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire Camping privée - Hauteville-sur-Fier",
+    "address": "Chemin du Moulinet - Hauteville-sur-Fier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "VoltaCharging - Leclerc La Balme de Sillingy",
+    "address": "1 Chemin des vignes - La Balme-de-Sillingy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Lac de la Balme",
+    "address": "165 Route de Paris - La Balme-de-Sillingy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Edf - 750 route du barrage - Vallieres PRIVÉE",
+    "address": "750 route du barrage - Vallieres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-born - Rue Colle Umberto - La Balme-de-Sillingy",
+    "address": "Rue Colle Umberto - La Balme-de-Sillingy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - Route d'Aix-les-Bains - Seyssel",
+    "address": "8 Route d'Aix-les-Bains - Seyssel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

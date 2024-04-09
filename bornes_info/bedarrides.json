@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IONITY - A7 - Aire de Sorgues (direction Orange)",
+    "address": "A7 - Sorgues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping la montagne",
+    "address": "944 Chemin de la Montagne - Sorgues",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Gigognan",
+    "address": "1180 Chemin de Castillon - Sorgues",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVZEN Intermarché Sorgues",
+    "address": "1258 Route d'orange - Sorgues",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Sorgues - La Mie Caline",
+    "address": "788 Rte de Vedène, - Sorgues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ancienne mairie - Avenue Jean Jaurès - Sorgues",
+    "address": "102–142 Avenue Jean Jaurès - Sorgues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Gare d'Entraigues-sur-la-Sorgue",
+    "address": "Gare - Entraigues-sur-la-Sorgue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Parking La mie CALINE à Sorgues",
+    "address": "879 Route de Vedène - Sorgues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - 1061 Route de Carpentras - Entraigues-sur-la-Sorgue",
+    "address": "1061 Route de Carpentras - Entraigues-sur-la-Sorgue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Courthezon - Avenue Général Leclerc",
+    "address": "8 Impasse de la Grande Fontaine - Courthézon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

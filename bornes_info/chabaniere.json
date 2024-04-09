@@ -1,0 +1,138 @@
+[
+  {
+    "title": "EVBox - CHABANIERE - 197 Ancien canal de la Madeleine (privé)",
+    "address": "197 Ancien canal de la Madeleine null - CHABANIERE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 61 Rue des Pinaises - Beauvallon",
+    "address": "61 Rue des Pinaises - Beauvallon",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking route de la tour",
+    "address": "1 Rue Antoine Marrel - Saint-Martin-la-Plaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - 90 RD34 - BEAUVALLON",
+    "address": "90 RD34 - BEAUVALLON",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Espace zoologique de Saint-Martin-la-Plaine",
+    "address": "D37 - Saint-Martin-la-Plaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - 6T Avenue du Souvenir - Mornant",
+    "address": "6T Avenue du Souvenir - Mornant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bump - Intermarché - Rives de Gier",
+    "address": "Av. Maréchal Juin - Rive-de-Gier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDER - Rue de la Grange Dodieu - Mornant",
+    "address": "40 Rue de la Grange Dodieu - Mornant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Place Chipier - Rive-de-Gier",
+    "address": "Place Chipier - Rive-de-Gier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "St Etienne Métropole - 1 Place Pasteur - Rive-de-Gier",
+    "address": "1 Place Pasteur - Rive-de-Gier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

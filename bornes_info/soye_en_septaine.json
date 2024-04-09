@@ -1,0 +1,128 @@
+[
+  {
+    "title": "place de la mairie",
+    "address": "1 Le Bourg - St.-Just",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Saint Just - Place de la Mairie",
+    "address": "2 Place de la Mairie - Saint-Just",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Plaimpied-Givaudins - Poste",
+    "address": "2-6 Rue des Gobbiers - Plaimpied-Givaudins",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MURAT MOTORS - Concession KIA",
+    "address": "136 Avenue François Mitterrand - Bourges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Bourges - Avenue François Mitterrand",
+    "address": "Avenue François Mitterrand - Bourges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place de la Pyrotechnie - Bourges",
+    "address": "Place de la Pyrotechnie - Bourges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ecar18 - Bourges - Val d'Auron",
+    "address": "Esplanade Pierre Mendès France - Bourges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fac de droit",
+    "address": "11 Rue Michel Marest - Bourges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Saint Germain du Puy - Place de l'église",
+    "address": "14 Rue Joliot Curie - Saint-Germain-du-Puy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Rue Maurice Roy - Bourges",
+    "address": "7 Rue Maurice Roy - Bourges",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

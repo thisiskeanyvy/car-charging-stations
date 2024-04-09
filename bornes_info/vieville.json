@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Orléans Métropole - Rue de la Gare - Saint-Cyr-en-Val",
+    "address": "60 Rue de la Gare - Saint-Cyr-en-Val",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "L' Agréer Lab'O - Orléans",
+    "address": "1133 Rue Charles Sadron - Orléans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thevenin - Saint-Cyr-en-Val",
+    "address": "758 Rue de Gautray - Saint-Cyr-en-Val",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Sandvik",
+    "address": "4 Avenue buffon - Orleans",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orléans Métropole - Place du 8 mai - Saint-Denis-en-Val",
+    "address": "Place du 8 Mai 1945 - Saint-Denis-en-Val",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U et Drive - route de Jargeau, allée du bois vert, ZAC DU",
+    "address": "route de Jargeau, allée du bois vert, ZAC DU - Sandillon",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enedis - Bld Duhamel du Monceau - Olivet",
+    "address": "336 Bld Duhamel du Monceau - Olivet",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "B.E.G. Ingénierie (Privat)",
+    "address": "Avenue de Concyr - Orléans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Castorama - Olivet",
+    "address": "20 Rue de Gascogne - Olivet",
+    "connectors": [
+      "x20",
+      "x21"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Rue Béarn - Olivet",
+    "address": "199 Rue Béarn - Olivet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

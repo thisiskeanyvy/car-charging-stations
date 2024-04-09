@@ -1,0 +1,120 @@
+[
+  {
+    "title": "EnBW Energie Baden-Württemberg - 3 Roßmarkt - Kirchheim unter Teck",
+    "address": "3 Roßmarkt - Kirchheim unter Teck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DE*BDO - Kirchheim unter Teck - 1-5 Turmstraße",
+    "address": "1-5 Turmstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tiefgarage Krautmarkt",
+    "address": "1/3 Alleenstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EMobility Netzwerk Deutschland GmbH - Kirchheim unter Teck - 5 Limburgstraße",
+    "address": "5 Limburgstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Limbergstraße - Kirchheim unter Teck",
+    "address": "3 Limburgstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HUMMEL Systemhaus GmbH & Co. KG - Kirchheim unter Teck - VW",
+    "address": "45 Hindenburgstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Kirchheim unter Teck - Rewe",
+    "address": "76 Dettinger Straße - Kirchheim unter Teck",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EnBW Energie Baden-Württemberg - 14 Untere Steinstr. - Kirchheim",
+    "address": "14 Untere Steinstr. - Kirchheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hahnweidstraße 61",
+    "address": "61 Hahnweidstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EnBW - Hahnweidstraße 44 Kirchheim",
+    "address": "44 Hahnweidstraße - Kirchheim unter Teck",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

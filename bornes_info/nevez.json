@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Ouest Charge - Rue de Port Manech - Nevez",
+    "address": "Rue de Port Manech - Nevez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Névez - 52 Rue De L'atlantique",
+    "address": "52 Rue De L'atlantique - Névez",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les vergers de trevignon",
+    "address": "Route de Tremeou - Trégunc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking Sandaya deux Fontaines - Nevez",
+    "address": "Feunteun Vihan - Nevez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Domaine de Kerlann - Pont-Aven",
+    "address": "Land Rosted, - Pont-Aven",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ArMenDu Hôtel et Restaurant Gastronomique",
+    "address": "47 Rue des Îles - Névez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Quai Theodore Botrel - Pont-Aven",
+    "address": "11 quai theodore botrel - Pont-Aven",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pont-Aven (Rue des Abbès Tanguy)",
+    "address": "Rue des Abbès Tanguy - Pont-Aven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Trégunc (Place Youenn Gwernig)",
+    "address": "Rue Youenn Gwernig - Trégunc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Place Georges Beaujean - Trégunc",
+    "address": "Place Georges Beaujean - Trégunc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

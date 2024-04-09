@@ -1,0 +1,124 @@
+[
+  {
+    "title": "MobiVE - Place du marché - Urt",
+    "address": "Place du Marché - Urt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Mairie - Urcuit",
+    "address": "D257 - Urcuit",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Commerces Lahonce",
+    "address": "Place Louis Lafargue - Lahonce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking du stade - Bardos",
+    "address": "1867 Le Bourg - Bardos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Route de la Côte - La Bastide-Clairence",
+    "address": "Route de la Côte - La Bastide-Clairence",
+    "connectors": [
+      "x4",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Place Salle Isidore Sainte-Marie-de-Gosse",
+    "address": "56 Place Isidore Salles - Sainte-Marie-de-Gosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA (MobiVE) - Place des Arceaux - La Bastide-Clairence",
+    "address": "2 Place des Arceaux - La Bastide-Clairence",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue de Gascogne Saint-Martin-de-Seignanx",
+    "address": "Rue de Gascogne - Saint-Martin-de-Seignanx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA - Lotissement Mouguerre Village - Mouguerre",
+    "address": "Lotissement Mouguerre Village - Mouguerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "clinique Saint Martin de Seignanx",
+    "address": "275 Route de Northon - Saint-Martin-de-Seignanx",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Parking personnel Auchan",
+    "address": "3 Avenue Roland Moreno - Chauconin-Neufmontiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan Centre commercial Les Saisons de Meaux",
+    "address": "3 Avenue Roland Moreno - Chauconin-Neufmontiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Inforomu - 5 Rue Jean-Pierre Plicque - Villenoy",
+    "address": "5 Rue Jean-Pierre Plicque - Villenoy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "The originals hotel Villenoy (Tesla et autres) (Privé)",
+    "address": "27 Rue Jean Pierre Plicque - Villenoy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "indigo - 3, rue des trinitaires",
+    "address": "1 Rue de Trinitaires - Meaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Indigo - Rue Tronchet - Meaux",
+    "address": "Rue Tronchet - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "STATIONS-E - Meaux - 2 Place de l'Hôtel de Ville",
+    "address": "2 Place de l'Hôtel de Ville - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Meaux",
+    "address": "52 Rue Saint-Rémy - Meaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Meaux - 20 Quai Sadi Carnot",
+    "address": "20 Quai Sadi Carnot - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Total Energies - Hyundai Protea - Meaux",
+    "address": "64 Rue François de Tessan - Meaux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

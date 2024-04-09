@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SyDEV - Place de la Roseraie Mortagne-sur-Sèvre",
+    "address": "6 Place de la Roseraie - Mortagne-sur-Sèvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sydev - Avenue de la Gare - Mortagne sur Sèvre",
+    "address": "7B Avenue de la Gare - Mortagne-sur-Sèvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FR*LDL - Saint-Herblain - 15 Rue de Saint-Nazaire",
+    "address": "15 Rue de Saint-Nazaire - Saint-Herblain",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - St Christophe Du Bois - Rue De La Chapelle",
+    "address": "6 Rue De La Chapelle - Saint-Christophe-du-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Hyundai - Cholet",
+    "address": "13 Rue Gustave Fouillaron - Cholet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Laurent-sur-Sèvre - La Barbiniere",
+    "address": "La Barbiniere - Saint-Laurent-sur-Sèvre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Héliocar Jean Rouyer Automobiles",
+    "address": "Le Cormier Boulevard des Sorinières - Cholet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - Cholet",
+    "address": "1 Boulevard des Sorinières - Cholet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Cholet",
+    "address": "ZA du Cormier, 3 Bd Jean Rouyer, - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Camping du Rouge Gorge - Saint-Laurent-sur-Sèvre",
+    "address": "2 Route de la Verrie - Saint-Laurent-sur-Sèvre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

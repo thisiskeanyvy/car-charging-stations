@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Mouv’Oise - 1 Rue Antoine Havard - Neuville-Bosc",
+    "address": "1 Rue Antoine Havard - Neuville-Bosc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clos des vignes",
+    "address": "17 Rue des Vignes - Neuville-Bosc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - Rue de la Commanderie, 44 - Ivry-le-Temple",
+    "address": "44 Rue de la Commanderie - Ivry-le-Temple",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv' Oise - Fleury",
+    "address": "114 Rue du Moulin - Fleury",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Marines",
+    "address": "21 Boulevard Gambetta - Marines",
+    "connectors": [
+      "x3",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Leclerc Express Marines",
+    "address": "3 Rue de la Richarderie - Marines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A16 Aire de Lormaison Ouest",
+    "address": "A16, Aire de Lormaison Ouest \r\n - Lormaison",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mouv'Oise - Amblainville",
+    "address": "51 Rue Nationale - Amblainville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A16 Aire de Lormaison Est (direction Beauvais)",
+    "address": "Rue de la Reine Blanche - Lormaison",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mouv' Oise - Saint Crépin Ibouvilliers",
+    "address": "38 Rue de l’Europe - Saint-Crépin-Ibouvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

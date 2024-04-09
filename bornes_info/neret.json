@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Ulys - Vinci - A10 - L'Aquitaine (Nord",
+    "address": "L'Aquitaine - Monnaie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 - Aire de Tours-La Longue Vue (direction Tours)",
+    "address": "A10 - Monnaie",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Tours Val de Loire (direction Blois)",
+    "address": "A10 - AIRE TOURS VAL DE LOIRE - MONNAIE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEIL - Place Jean Baptiste Moreau - Monnaie",
+    "address": "Place Jean Baptiste Moreau - Monnaie",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Chanceaux-sur-Choisille - 24 Rue de la Grande Ferme",
+    "address": "24 Rue de la Grande Ferme - Chanceaux-sur-Choisille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEIL - Notre Dame d'Oé - Nouvelle mairie",
+    "address": "place Louis de Marolles - Notre-Dame-d'Oé",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue du Prieuré - Nouzilly",
+    "address": "6 Rue du Prieuré - Nouzilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 310 Rue Morane Saunier - Parçay-Meslay",
+    "address": "310 Rue Morane Saunier - Parçay-Meslay",
+    "connectors": [
+      "x3",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - 400 Rue Morane Saulnier - Parçay-Meslay",
+    "address": "400 Rue Morane Saulnier - Parçay-Meslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Parçay Meslay - Place de l'Eglise",
+    "address": "3 Place de l'Église - Parçay-Meslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1.5
+  }
+]

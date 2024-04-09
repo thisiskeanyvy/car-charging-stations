@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Izivia - ES Strasbourg - Boulevard de l'Europe - Obernai",
+    "address": "69 Boulevard de l'Europe - Obernai",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue de la Liberté - Rosheim",
+    "address": "Rue de la Liberté - Rosheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alizé - Gare de Rosheim",
+    "address": "Avenue de la Gare - Rosheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Obernai",
+    "address": "67 Boulevard de l'Europe - Obernai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Hyundai - Rosheim (Privé)",
+    "address": "10 Rue Du Maire Georges Baruch - Rosheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Avenue Clemenceau - Rosheim",
+    "address": "Avenue Clemenceau - Rosheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Parking Saint Odile - Obernai",
+    "address": "2 Rue de la Filature - Obernai",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Rue de l'Abbé Oesterle - Obernai",
+    "address": "Rue de l'Abbé Oesterle - Obernai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place des Fines Herbes - Obernai",
+    "address": "27 Rue Dietrich - Obernai",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel À la cour d'Alsace",
+    "address": "3 Rue de Gail - Obernai",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

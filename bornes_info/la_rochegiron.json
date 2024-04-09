@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE04 - Place de la poste - Banon",
+    "address": "Le Village - Banon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE04 - Avenue de Miravail",
+    "address": "7092 Avenue de Miravail - Revest-du-Bion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Le Village - Saint-Étienne-les-Orgues",
+    "address": "Le Village - Saint-Étienne-les-Orgues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE04 - Maison de pays à Omergues",
+    "address": "D946 - Les Omergues",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Saint Christol - Chemin des Eglantiers (Chemin de Ronde)",
+    "address": "1 Chemin de Ronde - Saint-Christol",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hameau Le Bosquet, Saint-Christol INEXISTANT",
+    "address": "360 hameau Le Bosquet - Saint-Christol",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du marché - Folcalquier",
+    "address": "Place Martial Sicard - Forcalquier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Forcalquier - Centre d'Accueil Spécialisé",
+    "address": "19 Rue des Giloux - Forcalquier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Espace Rompe Cuou - Forcalquier",
+    "address": "Espace Rompe Cuou - Forcalquier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE04 - Bvd des Martyrs de la Résistance Forcalquier",
+    "address": "2 Boulevard des Martyrs de la Résistance - Forcalquier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

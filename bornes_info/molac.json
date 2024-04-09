@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Morbihan énergies - Rue pasteur - Pleucadeuc",
+    "address": "Rue Pasteur - Pleucadeuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - Avenue de la Gare - Questembert",
+    "address": "6447 Avenue de la Gare - Questembert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Avenue des Azalées - Questembert",
+    "address": "8094 Avenue des Azalées - Questembert",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Morbihan énergies - Rue de la Bouie - Saint-Marcel",
+    "address": "1 Rue de la bouie - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RAIDEN SAS (ChargeGuru) - 4 Lestroué",
+    "address": "4 Lestroué - La Vraie-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte de Kerviny - Questembert",
+    "address": "Kerviny - Questembert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Énergies - Place du Général de Gaulle - Questembert",
+    "address": "Place du Général de Gaulle - Questembert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Le Domaine du Moulin Neuf - Malansac",
+    "address": "Moulin Neuf - Malansac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "PA Tirpen",
+    "address": "PA Tirpen La Paviotaie - Malestroit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - La Paviotaie ZA du Tirpen - Saint-Marcel",
+    "address": "- - - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

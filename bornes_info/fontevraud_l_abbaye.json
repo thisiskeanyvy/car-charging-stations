@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Hôtel Abbaye Royale de Fontevraud",
+    "address": "38 Rue Saint-Jean de l'Habit - Fontevraud-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - FONTEVRAUD L'ABBAYE - Place Du 8 Mai 45",
+    "address": "21 Place du 8 Mai 1945 - Fontevraud-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Basinierre",
+    "address": "48 Route de Compostelle - Candes-Saint-Martin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Varennes Sur Loire - Rue De La Gare",
+    "address": "Rue de la Gare - Varennes-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEIL- Savigny-en-Véron",
+    "address": "1 Rue du Stade - Savigny-en-Véron",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place de l'Église, 1 - Chouzé-sur-Loire",
+    "address": "1 Place de l'Église - Chouzé-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Route de Saumoussay - Bellevigne-les-Châteaux",
+    "address": "Route de Saumoussay - Bellevigne-les-Châteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Impasses des Buttes Avoine",
+    "address": "1 Rue Paul Langevin - Beaumont-en-Véron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SOREGIES - Rue de la Girouarière Morton",
+    "address": "4 Place de la République - Morton",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Mairie de Varrains",
+    "address": "7 Rue de la Mairie - Varrains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  }
+]

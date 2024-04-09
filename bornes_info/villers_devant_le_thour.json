@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - 5 ROUTE DE LAON - SAINT-GERMAINMONT",
+    "address": "5 ROUTE DE LAON - SAINT-GERMAINMONT",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place Grand Cour - ASFELD",
+    "address": "5 Place Grand Cour - Asfeld",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pays Rethelois - Brienne sur Aisne - La bonne volonté",
+    "address": "La bonne volonté - Brienne sur Aisne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Rue Pierre Curtil - Guignicourt",
+    "address": "18 Rue Pierre Curtil - Guignicourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "ENGIE Vianeo - A26 Aire de Champ Roland (direction Amiens)",
+    "address": "20 Autoroute des Anglais - Guignicourt",
+    "connectors": [
+      "x7",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A26 Aire Mont de Nizy (direction Reims)",
+    "address": "Autoroute des Anglais - Juvincourt-et-Damary",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "aire de dizy le gros",
+    "address": "19 Grande Rue - Dizy-le-Gros",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Dizy-le-Gros, Rue Principale",
+    "address": "93 Rue Principale - Dizy-le-Gros",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue Des Vieux Moulins - Sissonne",
+    "address": "Rue Des Vieux Moulins - Sissonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pays Rethelois - Le Châtelet sur Retourne",
+    "address": "13-1 Rue du Pont Royal - Le Châtelet-sur-Retourne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

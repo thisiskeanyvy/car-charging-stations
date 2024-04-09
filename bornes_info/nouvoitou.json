@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking Action - Châteaugiron",
+    "address": "Le Petit Launay - Châteaugiron",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue de Rennes",
+    "address": "19 Rue de Rennes - Châteaugiron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Châteaugiron | Rue de Rennes",
+    "address": "Rue de Rennes - Châteaugiron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Boulevard Pierre et Julien Gourdel - Châteaugiron",
+    "address": "16A Boulevard Pierre et Julien Gourdel - Châteaugiron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "OuestCharge - Place de la Mairie - Vern-sur-Seiche",
+    "address": "Place de la Mairie - Vern-sur-Seiche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Rue Du Passavent - Vern-sur-Seiche (privé)",
+    "address": "22 Rue du Passavent - Vern-sur-Seiche",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking E.Leclerc Val d'Orson",
+    "address": "- Vern sur seiche",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Vern-sur-Seich - Centre commercial Val D'orson",
+    "address": "6 Rue du Passavent - Vern-sur-Seiche",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Leclerc Espace Culturel - Vern sur Seiche",
+    "address": "6 rue de la Blanche Hermine - Vern-sur-Seiche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - ZC Val d'Orson - Vern-sur-Seiche",
+    "address": "3 Rue Charles Vanel - Vern-sur-Seiche",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

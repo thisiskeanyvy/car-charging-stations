@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SYDED - Gare de Pontarlier",
+    "address": "22 Rocade Georges Pompidou - Pontarlier",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDED - Cinéma - Rue Louis Pergaud - Pontarlier",
+    "address": "2 Rue Louis Pergaud - Pontarlier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ALDI - Pontarlier",
+    "address": "29 Rocade Georges Pompidou - Pontarlier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyundai - Rue Eugène Thévenin",
+    "address": "22 Rue Eugène Thévenin - Pontarlier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Volkswagen / Audi - Pontarlier",
+    "address": "25 Rue de la Libération - Pontarlier",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "l'eau vive",
+    "address": "2 Place de l'Europe - Pontarlier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Pontarlier",
+    "address": "2 Rue Eugène Thévenin, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Ibis Red Pontarlier",
+    "address": "68 Rue de Salins - Pontarlier",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Pontarlier",
+    "address": "1 rue de la Fée Verte - Pontarlier",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kia - Pontarlier",
+    "address": "8 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

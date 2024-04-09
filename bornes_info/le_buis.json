@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FR*Y01 - Morainvilliers - Rue du Centre",
+    "address": "Rue du Centre - Morainvilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Vernouillet",
+    "address": "2 Place Conte - Vernouillet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Nord (direction Rouen)",
+    "address": "0 autoroute A13 - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Sud (vers Paris)",
+    "address": "315\r\n Route De Vernouillet\r\n - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Renault - Vernouillet",
+    "address": "41 boulevard de l'Europe - Vernouillet",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Verneuil-sur-Seine",
+    "address": "8 Boulevard André Malraux - Verneuil-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mediathèque de Verneuil sur Seine",
+    "address": "19 Rue des Prés - Verneuil-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEYMABORNE - Gare Vernouillet-Verneuil",
+    "address": "29 Avenue du Chemin de Fer - Verneuil-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue De Normandie - Orgeval",
+    "address": "2 Rue De Normandie - Orgeval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Villennes-sur-Seine - Avenue Foch",
+    "address": "12 Avenue Foch - Villennes-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "e-born - Télécabine de Vénosc",
+    "address": "354 D530 - Les Deux Alpes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Madame Ibiza",
+    "address": "18 Rue du Cairou - Vénosc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place des Deux Alpes - Mont-de-Lans",
+    "address": "4 Place des Deux Alpes - Mont-de-Lans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le Sherpa - Avenue De La Muzelle",
+    "address": "80 Avenue De La Muzelle - Vénosc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 76 Avenue de la Muzelle - Les Deux Alpes",
+    "address": "76 Avenue de la Muzelle - Les Deux Alpes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Mairie les deux alpes",
+    "address": "48 Avenue de la Muzelle - Les Deux Alpes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Place des Orgières - Auris",
+    "address": "16 Place des Orgières - Auris",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Salle Polyvalente - La Grave",
+    "address": "24 La Coinchette - La Grave",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hôtel Edelweiss (Tesla et autres)",
+    "address": "Rue du Grand Chemin - La Grave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Sévrier - Route d'Albertville",
+    "address": "Route d'Albertville - Sévrier",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

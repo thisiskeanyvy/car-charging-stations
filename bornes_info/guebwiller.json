@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Parking mairie - Rue de l'Hôtel de ville - Guebwiller",
+    "address": "1 Rue de l'Hôtel de ville - Guebwiller",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Place de la liberté",
+    "address": "8 Place de la Liberté - Guebwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Maison du vélo - Guebwiller",
+    "address": "1 Rue de la Gare - Guebwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Guebwiller - Rue des Larrons",
+    "address": "2 Rue Des Larrons - Guebwiller",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Guebwiller",
+    "address": "2 Route d'Issenheim - Guebwiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Piscine de Guebwiller",
+    "address": "1 de la piscine - Guebwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Issenheim - Route De Soultz",
+    "address": "Route De Soultz - Issenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Issenheim",
+    "address": "Rue de Guebwiller - Issenheim",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Issenheim - Mr. Bricolage",
+    "address": "2 Rue du Nièvre - Issenheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de la Marne - Soultz-Haut-Rhin",
+    "address": "22 Rue de la Marne - Soultz-Haut-Rhin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

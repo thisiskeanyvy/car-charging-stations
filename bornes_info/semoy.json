@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Orléans Métropole - allée Pierre de Coubertin Semoy",
+    "address": "388 Rue Curembourg - Semoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cegelec",
+    "address": "50 Rue du Champ Prieur - Semoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 200 Rue Léonard de Vinci - Semoy",
+    "address": "200 Rue Léonard de Vinci - Semoy",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bio nature santé - Semoy",
+    "address": "1375 Route de Saint-Jean de Braye - Semoy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Sobeca - Saint jean de braye",
+    "address": "35 Rue des freres lumiere - Saint jean de braye",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - WARNING - Orleans",
+    "address": "Rue Antonin Magn‚ - Orlean",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pharmacie Hopital G Daumaizon",
+    "address": "Route de Chanteau - Fleury-les-Aubrais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yesss P.A. des Chatelliers",
+    "address": "32 Rue des Frères Lumière - Saint-Jean-de-Braye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citeos - Fleury les Aubrais",
+    "address": "Rue des Foulons - Fleury les Aubrais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Leclerc - Fleury-les-Aubrais",
+    "address": "10 Rue de Montaran - Fleury-les-Aubrais",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "AlterbaseSorégies - Mairie Fontaine-le-Comte",
+    "address": "12 Rue du Stade - Fontaine-le-Comte",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire péage Poitiers Sud (n° 30 A10)",
+    "address": "79 D87C - Poitiers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Poitiers Sud",
+    "address": "Rue de la Saulaie - Croutelle",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "AlterbaseSoregie - Z.A Cap au Sud (Sortie 30) - Croutelle",
+    "address": "D910 Z.A Cap au Sud - Croutelle",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CGED - rue du pont maria pia - Poitiers (Privé)",
+    "address": "6 rue du pont maria pia - Poitiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan porte Sud - Avenue du 8 Mai 1945 - Poitiers",
+    "address": "6 Rue de la Saulaie - Poitiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Ibis Budget Poitiers",
+    "address": "Chemin De La Paillerie - Poitiers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mini - Poitiers",
+    "address": "155 Avenue du 8 Mai 1945 - Poitiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW Futurauto - Poitiers",
+    "address": "155 Avenue du 8 Mai 1945 - Poitiers",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Citroen - Avenue du 8 Mai 1945",
+    "address": "147 Avenue du 8 Mai 1945 - Poitiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

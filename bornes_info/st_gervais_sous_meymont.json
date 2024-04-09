@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Le Bourg - Olliergues",
+    "address": "Le Bourg - Olliergues",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Augerolles - Route De Courpière",
+    "address": "Route De Courpière - Augerolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Cunlhat - 2 Route d'Olliergues",
+    "address": "2 Route d'Olliergues - Cunlhat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "E-Totem - Vertolaye",
+    "address": "4 Doré - Vertolaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEG 63 - Avenue Marechal Foch - Courpière",
+    "address": "9 Avenue Marechal Foch - Courpière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chabanettes Hotel & Spa",
+    "address": "Cotes de Chabanettes - Auzelles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La crypte - Saint-Amant-Roche-Savine",
+    "address": "1 Rue Gaspard des Montagnes - Saint-Amant-Roche-Savine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Roche (Privé)",
+    "address": "366 Route de Clermont - Ambert",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citroen - Route de Clermont 240",
+    "address": "240 Route de Clermont - Ambert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - 213 Rue Anna Rodier - Ambert",
+    "address": "213 Rue Anna Rodier - Ambert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

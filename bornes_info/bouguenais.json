@@ -1,0 +1,126 @@
+[
+  {
+    "title": "TotalEnergies - route de Dompierre - Nantes INEXISTANT",
+    "address": "route de Dompierre - Nantes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Relais Neustrie",
+    "address": "Rue Christophe Colomb - Bouguenais",
+    "connectors": [
+      "x10",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Esr groupe - Le Grand Clos du Chaffaut",
+    "address": "Le Grand Clos du Chaffaut - Bouguenais",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Sobreda - Chemin de la Vaserie (Privé)",
+    "address": "1 Chemin de la Vaserie - Bouguenais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Nantes",
+    "address": "5 Rue Chevreul - Nantes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Bouguenais - 7 Rue Belouga",
+    "address": "7 Rue Belouga - Bouguenais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aeroport Auto Service",
+    "address": "5 rue Chatles Lindbergh - BOUGUENAIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Saint-Herblain",
+    "address": "15 Rue De Saint Nazaire - St.-Herblain",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "personnel U logistique - Saint-Aignan-Grandlieu (Privé)",
+    "address": "2 Route de l'Aérodrome - Saint-Aignan-Grandlieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Rezé",
+    "address": "1 Rue Ordronneau - Rezé",
+    "connectors": [
+      "x7",
+      "x24",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

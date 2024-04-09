@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Izivia - EDF - CNPE de Dampierre en Burly - Parking Est",
+    "address": "6 N Rte Nationale - Dampierre-en-Burly",
+    "connectors": [
+      "x8",
+      "x55",
+      "x55"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia | FR*OTH - Dampierre-en-Burly - D953",
+    "address": "D953 - Dampierre-en-Burly",
+    "connectors": [
+      "x125",
+      "x125"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Poilly-Lez-Gien",
+    "address": "Rue du 11 Novembre - Poilly-Lez-Gien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Gien - Auchan",
+    "address": "3 Rue de la Fabrique \r\n - Gien",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Car2Plug - Villa Hôtel - Poilly-lez-Gien",
+    "address": "3\r\n Rue des Grives\r\n - Poilly-lez-Gien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Rue Jules Audry - Dampierre en Burly",
+    "address": "3 Rue Jules Audry - Dampierre-en-Burly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc- Rue de la Bosserie",
+    "address": "17 Rue de la Bosserie - Gien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - Gien",
+    "address": "Rue de la Bosserie - Gien",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Borneco - Dampierre-en-Burly - Les Gabillons (privé)",
+    "address": "Les Gabillons - Dampierre-en-Burly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hotel Le Rivage (Tesla)",
+    "address": "1 Quai de Nice - Gien",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

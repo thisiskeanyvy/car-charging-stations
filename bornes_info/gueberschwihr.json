@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Monta - Gueberschwihr - Route de Hattstatt 2",
+    "address": "Route de Hattstatt 2 - Gueberschwihr",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cattin - Grands Vins & Crémants d'Alsace (Tesla and others)",
+    "address": "35 Rue Roger Frémeaux - Vœgtlinshoffen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - 8 Rue du Schlossberg - Husseren-les-Châteaux",
+    "address": "8 Rue du Schlossberg - Husseren-les-Châteaux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Husseren-les-Châteaux (Tesla et autres)",
+    "address": "3 Rue du Schlossberg - Husseren-les-Châteaux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking visiteur de la Mairie - Eguisheim",
+    "address": "21 Grand-Rue - Eguisheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Château d'Isenbourg Hôtel Restaurant (Tesla)",
+    "address": "2 Rue du Château - Rouffach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rouffach - Rue Raymond Poincaré",
+    "address": "1 Rue Raymond Poincaré - Rouffach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-E - Pierre & Vacances - Route de Wettolsheim - Eguisheim",
+    "address": "7 Rue du Premier R.é.c. - Eguisheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Westhalten, Rue de Rouffach",
+    "address": "20 Rue De Rouffach - Westhalten",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel au Moulin - Sainte-Croix-en-Plaine",
+    "address": "500 Route de Herrlisheim - Sainte-Croix-en-Plaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

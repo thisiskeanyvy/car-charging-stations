@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Hotel relais amadourien",
+    "address": "Route du chateau - Rocamadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Les Esclargies (Tesla and others)",
+    "address": "Les Esclargies l'Hospitalet - Rocamadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - L'Hospitalet - Rocamadour",
+    "address": "160 Place de l'Europe - Rocamadour",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Le Bois d'Imbert - Rocamadour",
+    "address": "Route de Lacave - Rocamadour",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - La Châtaigneraie - Rocamadour",
+    "address": "La Châtaigneraie - Rocamadour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - D23 - Lacave",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Route de Cahors - GRAMAT",
+    "address": "Route de Cahors - GRAMAT",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Gramat",
+    "address": "Chemin de Riounet - Gramat",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDEL (Révéo) - Avenue du 8 Mai 1945 - Gramat",
+    "address": "Avenue du 8 Mai 1945 - Gramat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Château de le Treyne (Tesla et autres)",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

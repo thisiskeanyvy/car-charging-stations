@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SUPER U - Z.A.C. de la Tuilerie 1 et 2",
+    "address": "93 Rue Pierre Poivre - Villars-les-Dombes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc des oiseaux - Perrier Rond",
+    "address": "Perrier Rond - Villars-les-Dombes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "RSE - Église Saint-Marcel - Bouligneux",
+    "address": "56\r\n Le Village\r\n - Bouligneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "camping domaine de la dombe",
+    "address": "1 chemin de verfey - Saint-Paul-de-Varax",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Saint triviers - Sandrans",
+    "address": "10 Lotissement le Pré Chapon - Sandrans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RSE - Rue de la Dombe",
+    "address": "153 Rue de la Dombe - Lapeyrouse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking face à la Mairie",
+    "address": "2–120 Rue du Manoir - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sainte-Olive - Route de Villars",
+    "address": "Route de Villars - Sainte-Olive",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 2111 Route de Châtillon - Romans",
+    "address": "2111 Route de Châtillon - Romans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Servas - Intermarché",
+    "address": "ZA du Val Roman, Route de Lyon, - Servas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

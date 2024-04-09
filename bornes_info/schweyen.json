@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Kloster Hornbach (Tesla)",
+    "address": "2 Im Klosterbezirk - Hornbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VR Bank - Hornbach",
+    "address": "1 Butterweg - Hornbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stockholmer Straße 6",
+    "address": "8 Stockholmer Straße - Zweibrücken",
+    "connectors": [
+      "x6",
+      "x22"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DE*WLB - Zweibrücken - 245 Etzelweg",
+    "address": "245 Etzelweg - Zweibrücken",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pfalzwerke - Zweibrücken Fashion Outlet",
+    "address": "10 Londoner Bogen - Zweibrücken",
+    "connectors": [
+      "x10",
+      "x2",
+      "x2",
+      "x2",
+      "x18",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Zweibrücken",
+    "address": "Londoner Bogen - Zweibrücken",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fasanerie Zweibrücken",
+    "address": "1 Fasanerie - Zweibrücken",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Im Parkhaus Hallplatz",
+    "address": "55 Wallstraße - Zweibrücken",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Im Parkhaus Schloss Zweibrücken",
+    "address": "6 Bleicherstraße - Zweibrücken",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bleicherstraße - Zweibrücken",
+    "address": "1 Bleicherstraße - Zweibrücken",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Gendarmerie - Thenon",
+    "address": "Avenue de la Libération - Thenon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE24 - Le Bourg - Rouffignac-Saint-Cernin-de-Reilhac",
+    "address": "Place du marché - Rouffignac-Saint-Cernin-de-Reilhac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping La Nouvelle Croze - Rouffignac-Saint-Cernin-de-Reilhac",
+    "address": "60 Chemin de Rousty - Rouffignac-Saint-Cernin-de-Reilhac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping L'OFFRERIE ****",
+    "address": "1 Le Grand Boisset - Rouffignac-Saint-Cernin-de-Reilhac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MObiVE) - D706 - Montignac",
+    "address": "D706 - Montignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Les Rives - Montignac",
+    "address": "Les Rives - Montignac",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel restaurant de Bouilhac - Montignac (Privé)",
+    "address": "1006 Avenue Professeur Faurel - Montignac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "188–401 Avenue Aristide Briand",
+    "address": "188–401 Avenue Aristide Briand - Montignac",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Le Moulin du Bleufond",
+    "address": "Avenue Aristide Briand - Montignac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Parking P2 - Rue du Barry Montignac",
+    "address": "46 Rue du Barry - Montignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

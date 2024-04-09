@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Château L'Isle Marie",
+    "address": "469 L'Isle Marie - Picauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Village des Ponts Douves - Saint-Côme-du-Mont",
+    "address": "Village des Ponts Douves - Saint-Côme-du-Mont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Allego - Carentan - ZI de Blactot",
+    "address": "ZI de Blactot - Carentan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Carentan les Marais",
+    "address": "Rte de Cherbourg, - Carentan les Marais",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Houesville",
+    "address": "Route de St Côme - Houesville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEM50 - Rue du Docteur Caillard - Carentan",
+    "address": "3 Rue du Docteur Caillard - Carentan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDEM50 - Boulevard des Fortifications",
+    "address": "15 Boulevard des Fortifications - Carentan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Rue Raymond Poincaré Picauville",
+    "address": "3 Rue Raymond Poincaré - Picauville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Le Bout de la ville Blosville (covoiturage)",
+    "address": "28 Le Bout de la ville - Blosville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - St Hilaire Petitville - Carentan les Marais",
+    "address": "1 Rue de la Mare - Carentan les Marais",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

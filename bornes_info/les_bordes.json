@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Le Plessis-Pâté, Geodis",
+    "address": "06 Rue De La Mare À Blot - Le Plessis-Pâté",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Centre du Bois des CS 41 005 - Brétigny-sur-Orge (private)",
+    "address": "Centre du Bois des CS 41 005 - Brétigny-sur-Orge",
+    "connectors": [
+      "x10",
+      "x4",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Rue de Villeroy - Bondoufle",
+    "address": "21 Rue de Villeroy - Bondoufle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Brico Dépôt - Fleury-Mérogis",
+    "address": "3 Rue Marie Marvingt - Fleury-Mérogis",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 19 Avenue Scotte - Sainte-Geneviève-des-Bois",
+    "address": "38 Rue Clément Ader - Fleury-Mérogis",
+    "connectors": [
+      "x4",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion FR - Fleury-Mérogis - Rue Clément Ader",
+    "address": "Rue Clément Ader - Fleury-Mérogis",
+    "connectors": [
+      "x19",
+      "x22"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "LastMileSolutions - Fleury-Mérogis - 25 Rue Clément Ader",
+    "address": "25 Rue Clément Ader - Fleury-Mérogis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - 1 Rue Charles de Gaulle - Bondoufle",
+    "address": "1 Rue Charles de Gaulle - Bondoufle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Fastned - Fleury-Mérogis - CC Croix Blanche",
+    "address": "Essone - 37 Av. de l'Hurepoix - Fleury-Mérogis",
+    "connectors": [
+      "x1",
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge (FR) - Mercedes - Rue Edouard Aubert 32 - Fleury-Mérogis",
+    "address": "Rue Edouard Aubert 32 - Fleury-Mérogis",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

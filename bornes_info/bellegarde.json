@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Rue Fanfonne Guillerme",
+    "address": "Rue Fanfonne Guillerme - Bellegarde",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - parking rue Des Mésanges",
+    "address": "Rue des Mésanges-Ferrières - Bellegarde",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Domaine des Clos",
+    "address": "911 Chemin du Mas de la Tour - Beaucaire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Campuget",
+    "address": "Campuget - Manduel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gare - Nîmes",
+    "address": "Connelle Nord - Manduel",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Mairie de Garons",
+    "address": "21 Grand Rue - Garons",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Restaurant Alexandre - Michel Kayser (Porsche)",
+    "address": "2 Rue Xavier Tronc - Garons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 (Révéo) - Rue du Fort - Manduel",
+    "address": "Rue du Fort - Manduel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Bouillargues",
+    "address": "Rue des Arènes - Bouillargues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mas de la chapelle",
+    "address": "1586 Chemin de la Chaussée - Arles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

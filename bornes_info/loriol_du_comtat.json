@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Electromaps - 692 Route d'Orange - Loriol-du-Comtat",
+    "address": "692 Route d'Orange - Loriol-du-Comtat",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - 692 Route d'Orange - Loriol-du-Comtat",
+    "address": "692 Route d'Orange - Loriol-du-Comtat",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "le Jeromus - Lumi'in - 1313 Route d'Orange - Loriol-du-Comtat",
+    "address": "1313 Route d'Orange - Loriol-du-Comtat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.I. Sainte-Croix",
+    "address": "45 Allée du Mont-Cenis - Sarrians",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Sarrians",
+    "address": "875 Avenue Agricol Perdiguier - Sarrians",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Sarrians - Boulevard Frédéric Mistral",
+    "address": "283 Boulevard Frédéric Mistral - Sarrians",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Recharger mon auto - Aubignan - 829 Avenue Majoral Jouve",
+    "address": "829 Avenue Majoral Jouve - Aubignan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cogelum Citeos - Aubignan - Boulevard Louis Guichard",
+    "address": "Boulevard Louis Guichard - Aubignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Lidl - Carpentras",
+    "address": "310 Chemin De Monteux - Carpentras",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl (CCS) - Carpentras - 418 Voie de Monteux",
+    "address": "418 Chemin De Monteux - Carpentras",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

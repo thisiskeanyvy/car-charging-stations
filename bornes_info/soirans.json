@@ -1,0 +1,136 @@
+[
+  {
+    "title": "FASTNED - A39 - Aire de Pont Val de Saône (direction Dijon)",
+    "address": "A39 - Pont",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FASTNED - A39 - Aire de Pont Chêne d'Argent (direction Dole)",
+    "address": "A39 - Pont",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ALDI - Genlis",
+    "address": "87 Avenue Du Général De Gaulle - Genlis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Général de Gaulle - Genlis",
+    "address": "3 Avenue Général de Gaulle - Genlis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cours Martyrs De La Résistance - Genlis",
+    "address": "7 Cours Martyrs De La Resistance - Genlis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Place de l'Iliotte - Auxonne",
+    "address": "2 Place de l'Iliotte - Auxonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Auxonne",
+    "address": "Rue de Labergement - Auxonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Point ASTEIM",
+    "address": "22 Rue du Tissage - Brazey-en-Plaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Colruyt - Brazey-en-Plaine",
+    "address": "4 Rue du 8 Mai 1945 - Brazey-en-Plaine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Netto - Route de Dijon - Aiserey",
+    "address": "21 Route de Dijon - Aiserey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

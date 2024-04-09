@@ -1,0 +1,136 @@
+[
+  {
+    "title": "12-bo-maill-92200 P97 Coullier",
+    "address": "16 Boulevard Maillot - Neuilly-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Paris - 6 Place de la Porte Maillot",
+    "address": "6 Place de la Porte Maillot - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 19 Rue Montrosier - Neuilly-sur-Seine",
+    "address": "19 Rue Montrosier - Neuilly-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Indigo - Place du Marché - Neuilly-sur-Seine",
+    "address": "Place du Marché - Neuilly-sur-Seine",
+    "connectors": [
+      "x14",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parc de surface (résidentiel) Bd Pereire",
+    "address": "220 - 236 bd Pereire - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - Avenue de la Grande Armée - Paris",
+    "address": "Avenue de la Grande Armée - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - Place du Général-Kœnig - Paris",
+    "address": "Place du Général Koenig - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Indigo - 43 Avenue du Roule - Neuilly-sur-Seine",
+    "address": "43 Avenue du Roule - Neuilly-sur-Seine",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Metropolis Recharge - 4 Rue Berteaux Dumas - Neuilly-sur-Seine",
+    "address": "4 Rue Berteaux Dumas - Neuilly-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 42 Rue Brunel - Paris",
+    "address": "42 Rue Brunel - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

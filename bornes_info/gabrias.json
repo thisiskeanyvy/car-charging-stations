@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SDEE48 - Place du Barry Marvejols",
+    "address": "2bis Faubourg du Barry - Marvejols",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEE48 - Le Pré de Suzon Marvejols",
+    "address": "20C Boulevard de Jabrun - Marvejols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE48 - Allée du 19 Mars 1962 - Chanac",
+    "address": "2 Place de la fontaine du curé - Chanac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 (Révéo) - Place de La Liberté - Chirac",
+    "address": "Place de la Liberté - Chirac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - But - Mende",
+    "address": "1 Chemin de Tivoli - Mende",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint - Hyper U (parking couvert) - Mende",
+    "address": "19 Chemin de Ramilles - Mende",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Mende - Brit Hotel",
+    "address": "Avenue De Ramilles 1 - Mende",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EV Box - Hôtel Deltour - Avenue des Gorges du Tarn",
+    "address": "34 Avenue des Gorges du Tarn - Mende",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Boulevard Lucien Arnault - Mende",
+    "address": "10 Boulevard Lucien Arnault - Mende",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEE48 - Espace événement - Mende",
+    "address": "3 Chemin de Saint-Ilpide - Mende",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

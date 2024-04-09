@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking ville - Route de Villefranche",
+    "address": "206 Route de Villefranche - Villeneuve",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RSE - Rue Jean-Marie Vianney - Ars-sur-Formans",
+    "address": "339 Rue Jean-Marie Vianney - Ars-sur-Formans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route D'ars - Savigneux",
+    "address": "Route D'ars - Savigneux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place centre village - Place de la mairie - Savigneux",
+    "address": "Place de la mairie - Savigneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - 1689 Route de Saint-Trivier Gîte La Tourelle - Francheleins",
+    "address": "1689 Route de Saint-Trivier Gîte La Tourelle - Francheleins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Villefranche-sur-Saône",
+    "address": "1362 avenue de l'Europe - Villefranche-sur-Saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rue Benoit Mulsant - Villefranche sur Soane",
+    "address": "Rue Benoit Mulsant - Villefranche sur Soane",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Nomblot - Villefranche-sur-Saône",
+    "address": "1193 Avenue de l'Europe - Villefranche-sur-Saône",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Audi ByMyCar - Villefranche-sur-Saône",
+    "address": "900 Av. de l'Europe,\r\n - Villefranche-sur-Saône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Renault Trucks - Villefranche-sur-Saône",
+    "address": "290 Av. de Joux, - Villefranche-sur-Saône",
+    "connectors": [
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

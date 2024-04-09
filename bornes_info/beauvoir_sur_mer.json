@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SyDEV - Rue Charles Gallet - Beauvoir sur Mer",
+    "address": "2 Charles Gallet - Beauvoir-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - 33 Rue de la Roche - Beauvoir-sur-Mer",
+    "address": "33 Rue de la Roche - Beauvoir-sur-Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Beauvoir \nsur Mer - Pressing du Geois",
+    "address": "Pressing du Geois - Beauvoir \nsur Mer",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SyDEV - Chemin De Querry - La Barre de Monts",
+    "address": "Chemin De Querry - La Barre De Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Route de Saint-Jean-de-Monts - La Barre-de-Monts",
+    "address": "85 Route de Saint-Jean de Monts - La Barre-de-Monts",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SyDEV - Rue de Guitteny, 7 - Bouin",
+    "address": "7 Rue de Guitteny - Bouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel le Martinet - Bouin",
+    "address": "1 Place de la Croix Blanche - Bouin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Bodin (Tesla and others)",
+    "address": "5 Rue des Pins - La Barre-de-Monts",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Bodin",
+    "address": "5 Rue des Pins - La Barre-de-Monts",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - La Barre-de-Monts - Camping la Grande Côte",
+    "address": "Route de la Grande Côte - La Barre-de-Monts",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Jardin botanique - Loubières",
+    "address": "Chemin des Fournasses - Loubières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Pôle médico-social - Varilhes",
+    "address": "16-18 Avenue des Pyrénées - Varilhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Brit hôtel Foix",
+    "address": "1 N20 - Foix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - N20 - Foix",
+    "address": "N20 - Foix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Buffalo Grill - Zone d'Activités de Permilhac - Foix (Tesla and others)",
+    "address": "Zone d'Activités de Permilhac - Foix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - Route du Moulin",
+    "address": "Route du Moulin - Rieux-de-Pelleport",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "The Original Access Hotel - Foix",
+    "address": "RN20 Lieu-dit Le Couloumié - Foix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel du Lac - LABARRE Foix",
+    "address": "Route Nationale 20 - Foix",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mac Donald - Verniolle (PRIVÉE)",
+    "address": "parc commercial Graussette - Verniolle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Super U - Verniolle",
+    "address": "265 Rue Clément Ader - Verniolle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

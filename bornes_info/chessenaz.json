@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Carrefour Contact - Frangy",
+    "address": "178 Route du Tram - Frangy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Centre sportif de la semine - Chêne-en-Semine",
+    "address": "37 Route de Marsin - Chêne-en-Semine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Netto - Musièges",
+    "address": "56 ZI des Bonnets - Musièges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Z.A. - Musièges",
+    "address": "Bonnet Ouest - Musièges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché - Musièges",
+    "address": "5156 Zone Industrielle des Bonnets - Musièges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Chemin de Jalavoir - Challonges",
+    "address": "281 Chemin de Jalavoir - Challonges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE (e-born) - D992 - Minzier",
+    "address": "D992 - Minzier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Vulbens - Route de Faramaz",
+    "address": "Route de Faramaz - Vulbens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "IONITY - A40 - Aire de Valleiry Sud (direction Genève)",
+    "address": "A40 - Valleiry",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A40 Aire de Valleiry-Nord (direction Lyon)",
+    "address": "Aire de Valleiry - Valleiry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

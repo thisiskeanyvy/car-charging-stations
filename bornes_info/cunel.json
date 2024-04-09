@@ -1,0 +1,130 @@
+[
+  {
+    "title": "NW IECharge - Liny-Devant-Dun B - Chemin de Murvaux",
+    "address": "Chemin de Murvaux - Liny-Devant-Dun B",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Dun-sur-Meuse",
+    "address": "24 Rue de Faubourg Saint-Martin - Dun-sur-Meuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Municipal Le Paquis",
+    "address": "Rue Saint-Jean - Varennes-en-Argonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Consenvoye",
+    "address": "2 Rue du Port - Consenvoye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEA - Buzancy",
+    "address": "1 Rue Dom Mobillon - Buzancy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping La Samaritaine",
+    "address": "3 Allée des Étangs - Buzancy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Stenay",
+    "address": "1 Chemin des groseillers - Stenay",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Stenay",
+    "address": "1 Rue des Sorbiers - Stenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo-Energies - Place René Boure - Grandpré",
+    "address": "Place René Boure - Termes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Avenue de Verdun - Stenay",
+    "address": "6D Avenue de Verdun - Stenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

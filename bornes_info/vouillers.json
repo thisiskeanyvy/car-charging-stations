@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Modulo Energies - Rue Laurent Gerard - Thieblemont",
+    "address": "14 Rue Laurent Gerard - Thiéblemont-Farémont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEM51 Sainte Marie du Lac",
+    "address": "1 Rue de Nuisement - Sainte-Marie-du-Lac-Nuisement",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Picardy - Saint Dizier",
+    "address": "15 avenue de verdun - Saint dizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 Pargny sur Saulx",
+    "address": "3 Place Jean Monnet - Pargny-sur-Saulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Dizier | Avenue de la Loubert 33",
+    "address": "33 Avenue de la Loubert - Saint-Dizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bettancourt-la-Ferrée - Cora",
+    "address": "Val D'Ornel - Bettancourt-la-Ferrée",
+    "connectors": [
+      "x1",
+      "x9",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED52 - 2 Rue Lebon - Éclaron-Braucourt-Sainte-Livière",
+    "address": "2 Rue Lebon - Éclaron-Braucourt-Sainte-Livière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CARAT AUTO",
+    "address": "4 Avenue de Parchim - Saint-Dizier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PEUGEOT-FELINE AUTOMOBILES",
+    "address": "7 Avenue de Parchim - Saint-Dizier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Saint-Dizier",
+    "address": "16 avenue Pierre Bérégovoy - Saint-Dizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

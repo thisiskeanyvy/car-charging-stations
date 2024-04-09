@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Loisium Champagne",
+    "address": "1 Allee de la Sapiniere - Mutigny",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "12 avenue Pierre Dubois - Avenay-Val-d'Or",
+    "address": "12 avenue Pierre Dubois - Avenay-Val-d'Or",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du Jard, 2 - Ay",
+    "address": "2 Place du Jard - Ay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue Jean Jaurès - Champillon",
+    "address": "3 Rue Jean Jaurès - Champillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - de Reims Rue - DIZY INEXISTANT",
+    "address": "de Reims Rue - DIZY",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Dizy - 557 Avenue Du Général Leclerc",
+    "address": "557 Avenue Du Général Leclerc - Dizy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Magenta - Renault Epernay",
+    "address": "100 Av. Alfred Anatole Thévenet, - Magenta",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Magenta",
+    "address": "100 Avenue Alfred Anatole Thévenet - Magenta",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen Epernay",
+    "address": "Avenue alfred anatole thevenet - Epernay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Royal Champagne Hôtel & Spa - Champillon",
+    "address": "Rue de la République - Champillon",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

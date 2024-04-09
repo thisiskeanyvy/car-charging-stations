@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDESM - Rue des Champs Recloses",
+    "address": "8 Rue des Champs - Recloses",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau de Bourron",
+    "address": "16 avenue Blaise de Montesquiou - Bourron-Marlotte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Parking salle des fêtes - Ury",
+    "address": "3 Rue de Bessonville - Ury",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Fontainebleau",
+    "address": "12 Chemin de Melun - Ury",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Parking - Montcourt-Fromonville",
+    "address": "3 Route de Moret - Montcourt-Fromonville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - SAINT-PIERRE-LES-NEMOURS - So Bio",
+    "address": "107 avenue Carnot - SAINT-PIERRE-LES-NEMOURS",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Rue de la Cave de Châtenoy Larchant",
+    "address": "4 Rue de la Cave de Châtenoy - Larchant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Bricomarché - Nemours",
+    "address": "1 Rue Joseph Marie Jacquard - Nemours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Rue des Prés - Saint-Pierre-lès-Nemours",
+    "address": "60 Rue des Prés - Saint-Pierre-lès-Nemours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Carnot La Chapelle-la-Reine",
+    "address": "5-7 Rue Carnot - La Chapelle-la-Reine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

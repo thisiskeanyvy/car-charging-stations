@@ -1,0 +1,122 @@
+[
+  {
+    "title": "17 Allée des Peupliers",
+    "address": "17 Allée des Peupliers - Bans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "S.A.P carrosserie Ferro - Poligny",
+    "address": "22 Route de Dole - Poligny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Poligny",
+    "address": "Route de Dole - Poligny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché POLIGNY",
+    "address": "83 RN 5 - Poligny",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine du Revermont (Tesla et autres)",
+    "address": "600 Route du Revermont - Passenans",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Arbois",
+    "address": "2 Route de Dole - Arbois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Arbois - Domaine de Boichailles",
+    "address": "Domaine de Boichailles - Arbois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supermarché Bi1 - Route De Besançon",
+    "address": "13 Route De Besançon - Arbois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Les caudalies",
+    "address": "20 Avenue louis pasteur - Arbois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel des Messageries",
+    "address": "2 Rue de Courcelles - Arbois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

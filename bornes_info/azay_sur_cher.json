@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SIEIL - Azay sur Cher - Rue de La Poste",
+    "address": "1 Rue de la Poste - Azay-sur-Cher",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Véretz",
+    "address": "62 Chem. de la Bussardière, 37270 Véretz - Véretz",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sieil37 - Veretz",
+    "address": "Rue des Isles ( RN 76) - Véretz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Chateau de La Bourdaisière",
+    "address": "Chateau de La Bourdaisière - Montlouis sur Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montlouis-sur-Loire",
+    "address": "C 10 - Montlouis-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Maison communautaire - Rue de la Frelonnerie",
+    "address": "Rue de la Frelonnerie - Montlouis-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEIL - Montlouis sur Loire",
+    "address": "Rue Jean-Jacques Rousseau - Montlouis-sur-Loire",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Clos du Roc",
+    "address": "4 Quai de la Loire - Montlouis-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Loire Valley Lodges (Porsche)",
+    "address": "509 Bois de la Duportrie - Esvres-sur-Indre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Saint Martin le Beau",
+    "address": "5 Rue d'Amboise - Saint-Martin-le-Beau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

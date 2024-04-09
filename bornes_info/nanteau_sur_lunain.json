@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Darvault - Rue de la Mairie",
+    "address": "Rue de la Mairie - Darvault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A6 - Aire de Darvault (direction Paris)",
+    "address": "A6 - Darvault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A6 - Aire de Nemours (direction Auxerre)",
+    "address": "A6 - Nemours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Qovoltis - Rue Gustave Eiffel - Nemours",
+    "address": "4 Rue Gustave Eiffel - Nemours",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem (FR*ETI) - Nemours - 1 Place des Moines",
+    "address": "1 Place des Moines - Nemours",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de la Roche du Saut Villecerf",
+    "address": "2 Rue de la Roche du Saut - Villecerf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDESM - 19 rue de la Ballastière - Bagneaux-sur-Loing",
+    "address": "19 Rue de la Ballastière - Bagneaux-sur-Loing",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue des Hauteurs du Loing - Nemours",
+    "address": "Rue des Hauteurs du Loing - Nemours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 5 Allée Paul Lardet - Nemours",
+    "address": "5 Allée Paul Lardet - Nemours",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue du Docteur Chopy - Nemours",
+    "address": "29 Rue du Docteur Chopy - Nemours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

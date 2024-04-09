@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE07 (E-born) - D 8 - Saint-Pierreville",
+    "address": "D 8 - Saint-Pierreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE07 - Grande Rue - Saint-Sauveur-de-Montagut",
+    "address": "62 Grande Rue - Saint-Sauveur-de-Montagut",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Restaurant le Bar des Ailes - Albon-d'Ardèche",
+    "address": "1692 route N7 Nord Aérodrome du Creux de la Thine - Albon-d'Ardèche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Les Ollières-sur-Eyrieux - 680 Route Du Boucillon",
+    "address": "680 Route Du Boucillon - Les Ollières-sur-Eyrieux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - La Fereyre - Les Ollières / Eyrieux",
+    "address": "La Fereyre - Les Ollières / Eyrieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Super U - Le Cheylard",
+    "address": "Chemin de Lapra - Le Cheylard",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vitaemobility - eyrieux camping - les ollieres sur eyrieux",
+    "address": "580 chemin du cfd - les ollieres sur eyrieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Place de la guinguette Le Cheylard",
+    "address": "1 Place de la Guinguette - Le Cheylard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bourges mairie",
+    "address": "place Mairie - Bourges",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Parking de la Libération Le Cheylard",
+    "address": "2 Passage Frédéric Vernet - Le Cheylard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEM50 - Office du Tourisme de Jullouville",
+    "address": "11 Avenue du Maréchal Leclerc - Jullouville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Stations-e - Jullouville - 11 Rue du Mont Dol",
+    "address": "11 Rue du Mont Dol - Jullouville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Château de Lez-Eaux - Saint-Aubin-des-Préaux",
+    "address": "La Huberdière - Saint-Aubin-des-Préaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Avenue Léon Jozeau-Marigne - Saint-Pair-sur-Mer",
+    "address": "70 Avenue Léon Jozeau-Marigne - Saint-Pair-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking - Granville St Nicolas 2",
+    "address": "359 Rue Saint-Nicolas - Granville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Granville - St Nicolas",
+    "address": "359 Rue Saint-Nicolas - Granville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault - Granville - Privé",
+    "address": "199 Rue Marie Fougeray - Granville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - LS Group - Granville",
+    "address": "199 Rue Marie Fougeray - Granville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Biocoop - Granville",
+    "address": "118 Route de Villedieu - Granville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel des bains (Tesla and others)",
+    "address": "8 Allée Clemenceau - Saint-Jean-le-Thomas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

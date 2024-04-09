@@ -1,0 +1,128 @@
+[
+  {
+    "title": "GARAGE DE LA BECASSIERE",
+    "address": "10 Boulevard d'Émeraude - Montgermont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue Newton - Montgermont",
+    "address": "2 Rue Newton - Montgermont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - 29 Rue de la Marebaudière - Saint-Grégoire",
+    "address": "29 Rue de la Marebaudière - Saint-Grégoire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Restaurant le Hoo",
+    "address": "2 rue Gué Mary - Saint-Grégoire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vivalto Sport / Sante Centre Hospitalier Prive Saint-Gregoire",
+    "address": "Champ du Verdier - Saint-Grégoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - 2 Lieu-dit La Brosse ZA Route du Meuble - Saint-Grégoire INEXISTANT",
+    "address": "2 Lieu-dit La Brosse ZA Route du Meuble - Saint-Grégoire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial Grand Quartier - E3 - Saint-Grégoire (privée)",
+    "address": "E3 - Saint-Grégoire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - 10 Allée de la Cerisaie - Saint-Grégoire (Privé)",
+    "address": "10 Allée de la Cerisaie - Saint-Grégoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Porsche Destination Charging - Maison Ronan Kervarrrec - Saint-Grégoire",
+    "address": "1 impasse du vieux bourg - Saint-Grégoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Espace 3 (dans la concession)",
+    "address": "1 Route de Saint-Malo - Saint-Grégoire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

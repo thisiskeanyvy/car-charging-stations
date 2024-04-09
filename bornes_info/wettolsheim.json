@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hôtel Restaurant LA PALETTE",
+    "address": "9 Rue Herzog - Wettolsheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel au soleil - Rue Sainte Gertrude",
+    "address": "18 Rue Sainte Gertrude - Wettolsheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue de Lattre de Tassigny - Wintzenheim",
+    "address": "4 Avenue de Lattre de Tassigny - Wintzenheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Stations-E - Pierre & Vacances - Route de Wettolsheim - Eguisheim",
+    "address": "7 Rue du Premier R.é.c. - Eguisheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVBox - Route de Rouffach - Wettolsheim (Private)",
+    "address": "144 Route de Rouffach - Wettolsheim",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Colmar",
+    "address": "191 route de Rouffach - Colmar",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking visiteur de la Mairie - Eguisheim",
+    "address": "21 Grand-Rue - Eguisheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electric'cars Garage Hattermann AD",
+    "address": "4 Rue des Blés - Logelbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hyper U - Colmar",
+    "address": "117 Route de Rouffach - Colmar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Colmar - Mr Bricolage",
+    "address": "107 Rte de Rouffach - Colmar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

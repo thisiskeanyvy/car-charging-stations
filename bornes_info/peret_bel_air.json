@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Camping du Lac - Égletons",
+    "address": "10 Le Pont - Égletons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Hôtel-Restaurant Logis Europa - Maussac",
+    "address": "Le Poteau de Maussac - Maussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEE19 - 47 Avenue Charles de Gaulle - Égletons",
+    "address": "47 Avenue Charles de Gaulle - Égletons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TACHARD AUTOMOBILES - EGLETONS",
+    "address": "ZI la Chaulaudre - EGLETONS",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Egletons Automobiles",
+    "address": "2 Boulevard de Bethléem - Égletons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Restaurant Le Meymacois",
+    "address": "24 Avenue Limousine - Meymac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat de la Diège - Place des Porrots - Meymac",
+    "address": "6 Place des Porrots - Meymac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Fédération Départementale d'Electrification et d'Energie de la Corrèze - La Chanselve - Moustier-Ventadour",
+    "address": "La Chanselve - Moustier-Ventadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Musée du Président Chirac - Sarran",
+    "address": "Route du Musee - Sarran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A89 Aire de Corrèze (double sens)",
+    "address": "Aire Corrèze, Rte de Vitrac - Eyrein",
+    "connectors": [
+      "x14",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Réseau AlterBase - Brion près Thouet - Aire de repos",
+    "address": "Route de Saumur - Brion-près-Thouet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Trésor Belge Restaurant + B&B",
+    "address": "1 Allée du Jardin Secret - Pouançay",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Rue du Stade - Louzy",
+    "address": "15 Rue du Stade - Louzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Saint Léger de Montbrillais",
+    "address": "11 Rue des Écoliers - Saint-Léger-de-Montbrillais",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Burger King Thouars",
+    "address": "1 Rue Léopold Nivet - Thouars",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ZE - Bricocash - Thouars",
+    "address": "1bis Rue Du Tumulus - Thouars",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Thouars",
+    "address": "150 Avenue Émile Zola - Thouars",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AlterBase Séolis - Thouars - Super U",
+    "address": "10 Boulevard de Diepholz - Thouars",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Stade Municipal - Avenue Emile Zola",
+    "address": "21 Avenue Emile Zola - Thouars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Réseau AlterBase - Pas de Jeu - Place de l'Eglise",
+    "address": "Place de l'Église - Pas-de-Jeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

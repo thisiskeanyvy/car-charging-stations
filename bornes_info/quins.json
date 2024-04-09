@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Révéo - parking du chemin du Théron",
+    "address": "1 Rue des Forgerons - Sauveterre-de-Rouergue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Espace Terre Ségala - Naucelle",
+    "address": "Voie Communale Zone de l'Issart - Naucelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - place René Cassin Baraqueville",
+    "address": "place René Cassin - Baraqueville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Révéo - Maison Jean Boudou - Crespin",
+    "address": "Le Carrayral - Crespin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEDA (Révéo) - Chemin de Pinson - Calmont",
+    "address": "Chemin de Pinson - Calmont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y55 - Colombies - Route de la croix",
+    "address": "Route de la croix - Colombies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Rieupeyroux - Avenue du Ségala",
+    "address": "Avenue du Ségala - Rieupeyroux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Avenue du Ségala Moyrazès",
+    "address": "Avenue du Ségala - Moyrazès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour route de Severou - École ste Famille",
+    "address": "Avenue du Rouergue - Rieupeyroux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place André Calvignac",
+    "address": "Rue des Bruyères - La Salvetat-Peyralès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

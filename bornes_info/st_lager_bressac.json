@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE07 - Rue de l'Ancien Hospice Chomérac",
+    "address": "135 Rue de l'Ancien Hospice - Chomérac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 (E-born) - Place René Cassin - Cruas",
+    "address": "Place René Cassin - Cruas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Place de la Mairie - Alissas",
+    "address": "Chier Blanc - Alissas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Chargeur IBIS - Zone d'activité du Pavé (Tesla and. others)",
+    "address": "0 Zone d'activité du Pavé - Saulce-sur-Rhône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Tesla Superchargeur V2-V3 - Montélimar Nord",
+    "address": "Zone Artisanale du Pavé - Saulce-sur-Rhône",
+    "connectors": [
+      "x28",
+      "x16"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Avenue du Verseau - Centre Nucléaire de Cruas-Meysse",
+    "address": "D 86 - Cruas",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Avenue de Provence Saulce-sur-Rhône",
+    "address": "1 Avenue de Provence - Saulce-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sded - La Coucourde",
+    "address": "6 Mirgalland - La Coucourde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - D86-1123 Le Pouzin",
+    "address": "1123 D86 - Le Pouzin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super U Alissas - Clé du Sac",
+    "address": "Clé du Sac - Privas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

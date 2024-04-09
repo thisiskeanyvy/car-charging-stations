@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Renault - Charmes",
+    "address": "32 rue Claude barrés - Charmes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Charmes - ZA Hermitage",
+    "address": "66 Voie Carpini - Charmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Charmes - Parc de la Peupleraie",
+    "address": "Avenue du Peintre Monchablon - Charmes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Vincey - Boulangerie Jeanne Charmes",
+    "address": "34 bis rue d'Alsace, 88450 Vincey, France - Vincey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Charmes",
+    "address": "13 Rue René Didierjean - Charmes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IECharge - Vincey - 815 D33",
+    "address": "815 D33 - Vincey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Logis Le Relais de Vincey (Tesla and others)",
+    "address": "33 Rue de Lorraine - Vincey",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Nomexy - Rue Soeur Sidonie",
+    "address": "1 Rue Soeur Sidonie - Nomexy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Vinci - 2 Rue de la Gare - Virecourt",
+    "address": "2 Rue de la Gare - Virecourt",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Mairie d'Igney",
+    "address": "53 Rue d'Alsace - Igney",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

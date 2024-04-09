@@ -1,0 +1,134 @@
+[
+  {
+    "title": "La Station",
+    "address": "18 Boulevard Paul Perrin - Saint-Nazaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue Henri Matisse - Saint-Nazaire",
+    "address": "Rue Henri Matisse - Saint-Nazaire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Trignac",
+    "address": "rue de Surcouf - TRIGNAC",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell Recharge - Burger King - Trignac",
+    "address": "Rue des Aigrettes - Trignac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Trignac - Hôtel F1",
+    "address": "41 Rue des Aigrettes, 44570 Trignac, France - Trignac",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Saint-Nazaire",
+    "address": "41 Rue Jacques Offenbach - Saint-Nazaire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Trignac - Hôtel Kyriad",
+    "address": "11 Av. Barbara - Trignac",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Trignac",
+    "address": "Rue de la Roselière - Trignac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Trignac - Chausséa",
+    "address": "2 Rue du Morta, 44570 Trignac, France - Trignac",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Meubles Gautier",
+    "address": "8 Rue de la Héronnière - Trignac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

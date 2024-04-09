@@ -1,0 +1,128 @@
+[
+  {
+    "title": "ChargePoint - Intermarché - Saint-Jeoire",
+    "address": "123 Route de Montrenaz - Saint-Jeoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Faucigny - Saint-Jeoire",
+    "address": "64 Rue du Faucigny - Saint-Jeoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Môle",
+    "address": "- Saint-Jean-de-Tholome",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE - Route du Fer À Cheval Viuz-en-Sallaz",
+    "address": "3660 Route du Fer À Cheval - Viuz-en-Sallaz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie de HauteLuce - eborn - Marignier",
+    "address": "326 Avenue de la Mairie - Marignier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Gare de Marignier",
+    "address": "203 Avenue de la Gare - Marignier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Marignier",
+    "address": "40 Rue de les Clus - Marignier",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Thyez",
+    "address": "2525 Avenue des Vallées - Thyez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "L'Auberge de Mégevette",
+    "address": "50 D26 - Mégevette",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Parking de la gare - Bonneville",
+    "address": "315 Avenue De La Gare - Bonneville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

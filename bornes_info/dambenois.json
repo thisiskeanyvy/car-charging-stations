@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Voie du Tram",
+    "address": "Voie du Tram - Châtenois-les-Forges",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SME PMIE - Rue Pierre Marti",
+    "address": "213 Rue Pierre Marti - Étupes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 213 Rue Pierre Marti - Étupes",
+    "address": "213 Rue Pierre Marti - Étupes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "sedia etupes charging",
+    "address": "213 Rue Pierre Marti - Étupes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*BHM - Étupes - 69 Rue du Breuil",
+    "address": "69 Rue du Breuil - Étupes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HOTEL RESTAURANT ARIANIS",
+    "address": "11 Avenue du Général Leclerc - Sochaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - lebetain - N19 commune de Lebtain",
+    "address": "N19 commune de Lebtain - lebetain",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Basic-Fit",
+    "address": "ZA aux Arbues - Exincourt",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue sous la Côté",
+    "address": "12 Rue sous la Côté - Sochaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - route de Bethoncourt - Montbeliard",
+    "address": "136 route de Bethoncourt - Montbéliard",
+    "connectors": [
+      "x2",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

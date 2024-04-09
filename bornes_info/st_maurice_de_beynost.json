@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Aldi - Route de Genève",
+    "address": "42 Route de Genève - Saint-Maurice-de-Beynost",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MEA ENERGIES - Chemin des Malettes - Beynost",
+    "address": "Chemin des Malettes - Beynost",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bouillet Chocolatier - Boutique Atelier",
+    "address": "114 Quai du Rhône - Miribel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Tesla Supercharger V3 - Beynost",
+    "address": "970 Chemin des Malettes - Beynost",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WATT - Speedy - Beynost",
+    "address": "6362 Rue des Petites Combes - Beynost",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Beynost - Place de la Dombes",
+    "address": "3 Place de la Dombes - Beynost",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Work & Wall (Tesla)",
+    "address": "18 Porte du Grand Lyon - Neyron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Grand Lyon - Rillieux-la-Pape - 2871 Avenue de l'Europe",
+    "address": "2871 Avenue de l'Europe - Rillieux-la-Pape",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Maison Addama (Tesla et autres)",
+    "address": "29 Route du Fort - Neyron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre village - Tramoyes",
+    "address": "80 Rue du Marquis de Sallmard - Tramoyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Metropolis Recharge - 21 Avenue du Maréchal Mortier - La Queue-en-Brie",
+    "address": "21 Avenue du Maréchal Mortier - La Queue-en-Brie",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Hyundai - La Queue-en-Brie",
+    "address": "4 Rue du Général de Gaulle - La Queue-en-Brie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mazda - La Queue-en-Brie",
+    "address": "2 Rue du Général de Gaulle - La Queue-en-Brie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Chennevières-sur-Marne",
+    "address": "Avenue Champlain - Chennevières-sur-Marne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pince-Vent Cultura",
+    "address": "3 Avenue de l'Hippodrome - La Queue-en-Brie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Castorama cheneviere",
+    "address": "Avenue du Pince Vent - Chennevières-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Ormesson - CC Pince-Vent - Route de Provins - Chennevières-sur-Marne",
+    "address": "85 Route de Provins - Chennevières-sur-Marne",
+    "connectors": [
+      "x5",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Ormesson-sur-Marne",
+    "address": "85 Route de Provins - Ormesson-sur-Marne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Pontault-Combault",
+    "address": "Route des Friches - Pontault-Combault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "cosco",
+    "address": "31 Route de Paris - Pontault-Combault",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

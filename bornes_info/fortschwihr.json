@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - Grand Rue - Bischwihr",
+    "address": "3 Grand Rue - Bischwihr",
+    "connectors": [
+      "x16",
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Impasse Du Wasen - Muntzenheim",
+    "address": "Impasse Du Wasen - Muntzenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gite de Munt'Z - Muntzenheim (Tesla and others)",
+    "address": "12 Rue de la forge - Muntzenheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ets François KLOEPFER",
+    "address": "10 Allée Albert Schweitzer - Jebsheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Horbourg-Wihr",
+    "address": "12 Rue de Sélestat - Horbourg-Wihr",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - 7 Rue de Vienne - Horbourg-Wihr",
+    "address": "7 Rue de Vienne - Horbourg-Wihr",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Horbourg Wihr",
+    "address": "13 route de Neuf Brisach - Horbourg Wihr",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue de Mulhouse - Horbourg-Wihr",
+    "address": "4 Rue de Mulhouse - Horbourg-Wihr",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - CC La Péniche - Colmar",
+    "address": "5 Rue de L'Ill - Colmar",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Colmar Orangerie",
+    "address": "4 Allée de l'Orangerie - Colmar",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Eco-Pi - Pépinière d'entreprises Les Mureaux",
+    "address": "2 Rue Louis Blériot - Les Mureaux",
+    "connectors": [
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Campus Les Mureaux",
+    "address": "17 Rue Albert Thomas - Les Mureaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Place de Fresnes - Ecquevilly",
+    "address": "Place de Fresnes - Ecquevilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Wallbox Maison individuelle",
+    "address": "11 rue de Morainvilliers - ECQUEVILLY",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue des Charnelles - Bouafle",
+    "address": "1 Rue des Charnelles - Bouafle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEYMABORNE - Médiathèque sens gare->cc espace",
+    "address": "31 Avenue Paul Raoult - Les Mureaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Avenue Paul Raoult (accélérée)",
+    "address": "55 Avenue Paul Raoult - Les Mureaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco-pi - 42-44 Rue Aristide Briand - Les Mureaux",
+    "address": "42-44 Rue Aristide Briand - Les Mureaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A13 Aire de Morainvilliers Sud (vers Paris)",
+    "address": "315\r\n Route De Vernouillet\r\n - Morainvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Place du 11 Novembre 1918 Les Mureaux",
+    "address": "Place du 11 Novembre 1918 - Les Mureaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Powerdot - Intermarché - Dieuze",
+    "address": "5 Rue René Peltre - Dieuze",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Dieuze",
+    "address": "644 Faubourg de Vergaville - Dieuze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecothermie25g - Maizières-lès-Vic (Tesla)",
+    "address": "8 Rue du Mont Midi - Maizières-lès-Vic",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking de la mairie",
+    "address": "3 Rue Principale - Sotzeling",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place de la Saline - Château-Salins",
+    "address": "7 Rue de la Verrerie - Château-Salins",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Avenue Thomas Bata - Moussey",
+    "address": "18–30 Rue des Acacias - Moussey",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Moulin de Domèvre - Vaxy",
+    "address": "Moulin de Domèvre - Vaxy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eco Thermie25G - 8 Avenue Thomas Bata",
+    "address": "8 Avenue Tomas Bata - Moussey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 57 Rue Principale - Languimberg",
+    "address": "57 Rue Principale - Languimberg",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grande Rue - Laneuveville-aux-Bois",
+    "address": "57 Grande Rue - Laneuveville-aux-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

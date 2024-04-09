@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Le relais de la colline - Saxon-Sion",
+    "address": "1 Côte de Sion - Saxon-Sion",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Burnel",
+    "address": "22 Rue Jeanne d'Arc - Rouvres-en-Xaintois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - D904 Quevilloncourt - 2 Rue de la Gare",
+    "address": "2 Rue de la Gare - Quevilloncourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 9 Rue De Spatiel - Puzieux",
+    "address": "9 Rue De Spatiel - Puzieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Rue Pasteur - Colombey-les-Belles",
+    "address": "Rue Pasteur - Colombey-les-Belles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vinci - Vézelise - 3 Avenue Jacques Leclerc",
+    "address": "3 Avenue Jacques Leclerc - Vézelise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Châtenois - Super U",
+    "address": "11 Rue Pierre de Coubertin - Châtenois",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Allée Pré Le Duc - Châtenois",
+    "address": "6 Allée Pré Le Duc - Châtenois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole du Grand Nancy - D974 Aire de covoiturage - Allain",
+    "address": "D974 Aire de covoiturage - Allain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Place de la Mairie - Rollainville",
+    "address": "Rue de la Cure - Rollainville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

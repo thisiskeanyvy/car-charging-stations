@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Le bourg - Saint-Germain-la-Campagne",
+    "address": "4 Route De Courtonne-les-deux-églises - Saint-Germain-la-Campagne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - LA VESPIERE-FRIARDEL (Beausoleil)",
+    "address": "56 Beausoleil - La Vespière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Boulevard de Beauvoir - Orbec",
+    "address": "Boulevard de Beauvoir - Orbec",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Siege 27 - Place des écoles - Thiberville",
+    "address": "7 Place Des Ecoles - Thiberville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - ORBEC (Place Maréchal FOCH)",
+    "address": "10 Place Mal Foch - Orbec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Siège 27 Market Thiberville",
+    "address": "18 Route de Lieurey - Thiberville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "NW IECharge - Beauvoir - Orbec",
+    "address": "Beauvoir - Orbec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Volkswagen - Bernay (Réservée aux clients)",
+    "address": "10 Zone d'activité Bois du Cours - bernay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel the originals Acropole hotel",
+    "address": "10 Rue de la Grande Malouve - Bernay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue de Verdun - Broglie",
+    "address": "Rue de Verdun - Broglie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

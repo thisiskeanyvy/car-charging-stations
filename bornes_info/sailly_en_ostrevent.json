@@ -1,0 +1,134 @@
+[
+  {
+    "title": "ChargePoint network - 26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "address": "26 Rue Georges Clemenceau - Biache-Saint-Vaast",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - 30 Route Nationale - Vitry-en-Artois DOUBLON",
+    "address": "30 Route Nationale - Vitry-en-Artois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Vitry-en-Artois",
+    "address": "30 Route nationale - Vitry-en-Artois",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Brebieres",
+    "address": "Rue de Vitry - Brebières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D 950 - Fresnes-lès-Montauban",
+    "address": "D 950 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "R3 - Rue Jean Monnet - Brebieres",
+    "address": "1\r\n Rue Jean Monnet\r\n - Brebières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel restaurant l'Aquarium",
+    "address": "45 Route Nationale 50 - Fresnes-lès-Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass-Pass - Lambres-Lez-Douai",
+    "address": "397 Rue des frères Bréguet - Lambres-Lez-Douai",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pass Pass - Mairie de Courchelettes",
+    "address": "1 Rue Emile Macra - Courchelettes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Eglise - Arleux",
+    "address": "2\r\n Rue du Château\r\n - Arleux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

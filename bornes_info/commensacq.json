@@ -1,0 +1,144 @@
+[
+  {
+    "title": "SYDEC - Rue des Hauts Fourneaux Labouheyre",
+    "address": "209 Rue des Hauts Fourneaux - Labouheyre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Labouheyre",
+    "address": "40 Rue Des Magnolias - Labouheyre",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Labouheyre",
+    "address": "67 Allée des Genêts - Labouheyre",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Espace Richard Claux - Place Pierre Dourthe - Lüe",
+    "address": "81 Place Pierre Dourthe - Lüe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydec - Restaurants - Solferino - Escource",
+    "address": "1 Belloc - Escource",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Parking de covoiturage - Ychoux",
+    "address": "Place Franck Lahary - Ychoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "AVIA - A63 - Aire de la Porte des Landes-Est (direction Bordeaux)",
+    "address": "A63 / E5 - Saugnacq-et-Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SYDEC - Place de la Mairie - Ychoux",
+    "address": "3 Place de la Mairie - Ychoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A63 - Aire de Porte des Landes-Ouest (direction Bayonne)",
+    "address": "A63 - Saugnacq-et-Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SYDEC - D834 Moustey",
+    "address": "D834 - Moustey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

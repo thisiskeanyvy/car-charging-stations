@@ -1,0 +1,138 @@
+[
+  {
+    "title": "CREA - Salle des fêtes - Mesnil Esnard",
+    "address": "Rue des Perets - Mesnil Esnard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Pôle Formation UIMM Rouen Dieppe - Le Mesnil-Esnard",
+    "address": "19 Rue D'anjou - Le Mesnil-Esnard",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Super U - Bonsecours",
+    "address": "2 Route de Paris - Bonsecours",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Route de Paris - Le Mesnil-Esnard",
+    "address": "Route de Paris - Le Mesnil-Esnard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Franqueville-Saint-Pierre - 2 Place Haut Hubert",
+    "address": "2 Place Haut Hubert - Franqueville-Saint-Pierre",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CREA - Place du marché - Amfreville-la-Mivoie",
+    "address": "122 Rue François Mitterrand - Amfreville-la-Mi-Voie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Amfreville-la-Mi-Voie - Biocoop",
+    "address": "161 Rte de Paris - Amfreville-la-Mi-Voie",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CREA - Rue de la Basilique - Bonsecours",
+    "address": "14 Rue de la Basilique - Bonsecours",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "NewMotion FR - Sotteville-lès-Rouen - 3 Rue Antoine Laurent de Lavoisier",
+    "address": "3 Rue Antoine Laurent de Lavoisier - Sotteville-lès-Rouen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aramisauto Sotteville-lès-Rouen",
+    "address": "6 Chemin de la Mi-Voie - Sotteville-lès-Rouen",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

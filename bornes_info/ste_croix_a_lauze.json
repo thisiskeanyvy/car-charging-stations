@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Les Davids",
+    "address": "1 Rue ambroize - Viens",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Place des Aires",
+    "address": "3 Rue Jean Mermoz - Céreste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place de la Mairie - Saint-Michel-l'Observatoire",
+    "address": "262 Place du Serre - Saint-Michel-l'Observatoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Vieille Route d'Apt - RUSTREL",
+    "address": "5000 Le Petit Plan Du Grand Jas - Rustrel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE04 - Parking maison des produits du pays",
+    "address": "3 Clavières - Mane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Couvent des Minimes Hotel &SPA L'Occitane (Tesla et autres)",
+    "address": "Chemin des Jeux de Mai - Mane",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Espace Rompe Cuou - Forcalquier",
+    "address": "Espace Rompe Cuou - Forcalquier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place du marché - Folcalquier",
+    "address": "Place Martial Sicard - Forcalquier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Forcalquier - Centre d'Accueil Spécialisé",
+    "address": "19 Rue des Giloux - Forcalquier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Bvd des Martyrs de la Résistance Forcalquier",
+    "address": "2 Boulevard des Martyrs de la Résistance - Forcalquier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

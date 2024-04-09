@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Indigo Park - Place aux Huiles - Marseille",
+    "address": "Place aux Huiles - Marseille",
+    "connectors": [
+      "x11",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - 69 Rue Sainte - Marseille",
+    "address": "69 Rue Sainte - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVZen - Cours Pierre Puget - Marseille DOUBLON",
+    "address": "68 cours Pierre puget - Marseille",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EVzen - Cours Pierre Puget - Marseille",
+    "address": "68 Cours Pierre Puget - Marseille",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Q-Park Vieux Port - Hotel de Ville",
+    "address": "Passage Pentecontore - Marseille",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 38 Quai de Rive Neuve - Marseille",
+    "address": "38 Quai de Rive Neuve - Marseille",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Marseille - 2 Rue Dejean",
+    "address": "2 Rue Dejean - Marseille",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - 1 Rue Reine Elisabeth - Marseille",
+    "address": "1 Rue Reine Elisabeth - Marseille",
+    "connectors": [
+      "x50"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "larecharge - Place Saint-Victor - Marseille",
+    "address": "3 Place Saint-Victor - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Monta - Marseille - 2 Rue Henri Barbusse INEXISTANT",
+    "address": "2 Rue Henri Barbusse - Marseille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

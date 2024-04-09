@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SEDI - Isère - Rue du Marais - Bas -En-Basset",
+    "address": "35 Boulevard de la Sablière - Bas-en-Basset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place Du Pré Clos - Beauzac",
+    "address": "Place Du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Beauzac",
+    "address": "Place du Pré Clos - Beauzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Souvenir - Usson-en-Forez",
+    "address": "8 Place du Souvenir - Usson-en-Forez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CosyCamp (Tesla and others)",
+    "address": "Les Ribes - Chamalières-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Chamalières-sur-Loire - Cosycamp",
+    "address": "Les Ribes - Chamalières-sur-Loire",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue Jean-Baptiste Robeyron - 40917",
+    "address": "Rue Jean-Baptiste Robeyron - 40917",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Retournac",
+    "address": "Rue Jean Baptiste Ribeyron - Retournac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Gare de Craponne-sur-Arzon",
+    "address": "1 B Place de la Gare - Craponne-sur-Arzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place de la Poste - Craponne-sur-Arzon",
+    "address": "10 Rue d'Ollias - Craponne-sur-Arzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

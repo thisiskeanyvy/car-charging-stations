@@ -1,0 +1,124 @@
+[
+  {
+    "title": "L'auberge du tremplin",
+    "address": "619 Chemin du tremplin - Le Bessat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pharmacie - Maclas",
+    "address": "124 Place de l'Église - Maclas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel du lac - Savas (Tesla et autres)",
+    "address": "Le Ternay - Savas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Maclas - Lotissement Landy",
+    "address": "Lotissement Landy - Maclas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Berthoir - Pelussin",
+    "address": "4 lieu dit le berthoir - Pélussin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Parking terrasse de l'église",
+    "address": "2 Rue du Ney - La Valla-en-Gier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - 3 Rue de l'Europe - Pélussin",
+    "address": "3 Rue de l'Europe - Pélussin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Golf Saint-Clair",
+    "address": "231 Route du Golf - Saint-Clair",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IVECO BUS",
+    "address": "25 Avenue Ferdinand Janvier - Annonay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Rue Jean Roux",
+    "address": "15 Rue Jean Roux - Saint-Sauveur-en-Rue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE04 - Place des Aires",
+    "address": "3 Rue Jean Mermoz - Céreste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Les Davids",
+    "address": "1 Rue ambroize - Viens",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Chemin des Eglantiers - Grambois",
+    "address": "4 Place des Canons - Grambois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Vieille Route d'Apt - RUSTREL",
+    "address": "5000 Le Petit Plan Du Grand Jas - Rustrel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Place de la Mairie - Saint-Michel-l'Observatoire",
+    "address": "262 Place du Serre - Saint-Michel-l'Observatoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - La Motte-d'Aigues - Etang de la Bonde",
+    "address": "2204 Pied Bernard - La Motte-d'Aigues",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Chemin des Ferrages",
+    "address": "Chemin des Ferrages - Pierrevert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping Provence Vallée",
+    "address": "1138 Avenue de la Repasse - Manosque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Castel Luberon - Apt",
+    "address": "1526 Avenue de Viton - Apt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Rue Claude Haut - La Tour-d'Aigues",
+    "address": "Rue Claude Haut - La Tour-d'Aigues",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AlterBase Séolis - Pamproux - Place de la Mairie",
+    "address": "21 Place du Président Mendès France - Pamproux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "AlterBase Séolis - Pamproux - Pôle médical",
+    "address": "Place de la Ferté - Pamproux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Place du Marché - Saint Maixent l'École",
+    "address": "Rue de la Marne - Saint Maixent l ecole",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "AlterBASE Séolis - St Maixent L'Ecole - Place Denfert",
+    "address": "Rue Denfert Rochereau - Saint-Maixent-l'École",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Bricomarché - SAINT-MAIXENT-L'ÉCOLE",
+    "address": "40 Rue De Béchereau - Exireuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - D611 - Azay-Le-Brûlé",
+    "address": "D611 - Azay-le-Brûlé",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "AlterBase Séolis - CC E. Leclerc - Saint-Maixent-L'école",
+    "address": "5000 La Plaine d'Azay - Saint-Maixent-L'école",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Action - Azay le Brulé",
+    "address": "D611 - Azay le Brulé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 Aire de Rouillé Pamproux Sud (direction Poitiers)",
+    "address": "A10, Aire de Rouillé Pamproux Sud - Pamproux",
+    "connectors": [
+      "x2",
+      "x12",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - A10 Aire de Rouillé Pamproux Nord",
+    "address": "Autoroute A10 - Pamproux",
+    "connectors": [
+      "x2",
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

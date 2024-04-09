@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEC - Place Salle Isidore Sainte-Marie-de-Gosse",
+    "address": "56 Place Isidore Salles - Sainte-Marie-de-Gosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEC - Rue de Gascogne Saint-Martin-de-Seignanx",
+    "address": "Rue de Gascogne - Saint-Martin-de-Seignanx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Route de Bellevue Saubrigues",
+    "address": "34 Route de Bellevue - Saubrigues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiVE - Place du marché - Urt",
+    "address": "Place du Marché - Urt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Mairie - Urcuit",
+    "address": "D257 - Urcuit",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "clinique Saint Martin de Seignanx",
+    "address": "275 Route de Northon - Saint-Martin-de-Seignanx",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Commerces Lahonce",
+    "address": "Place Louis Lafargue - Lahonce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bordeaux)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A63 - Aire de Labenne (direction Bayonne)",
+    "address": "A63 - Labenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Motel des Landes",
+    "address": "1064 route de bayonne - Bénesse-Maremne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

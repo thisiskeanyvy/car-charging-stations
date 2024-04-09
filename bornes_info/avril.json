@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Powerdot - Super U - Val de Briey",
+    "address": "2 Avenue Marguerite Puhl Démange - Val de Briey",
+    "connectors": [
+      "x3",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aldi - Avenue Albert 1er - Val de Briey",
+    "address": "38 Avenue Albert 1er - Val de Briey",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Val de Briey - Chaussea",
+    "address": "4 Rue Olympe de Gouges - val de briey",
+    "connectors": [
+      "x2",
+      "x14",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Netto - Trieux",
+    "address": "70 Avenue de la Libération - Trieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Vinci - Mairie de Trieux",
+    "address": "Square des Tilleuls - Trieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 2 Rue Du Maréchal Foch - Briey",
+    "address": "2 Rue Du Maréchal Foch - Briey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ST2B - Val de Briey",
+    "address": "Place Raymond Poincaré - Briey",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - 23 Rue Clemenceau - Tucquegnieux",
+    "address": "23 Rue Clemenceau - Tucquegnieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Val de Briey",
+    "address": "14 rue Gambetta - Val de Briey",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - 14 Rue Gambetta - Val de Briey DOUBLON",
+    "address": "14 Rue Gambetta - Val de Briey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

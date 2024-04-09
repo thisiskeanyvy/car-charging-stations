@@ -1,0 +1,130 @@
+[
+  {
+    "title": "TotalEnergies - Super U - Relais Fessenheim",
+    "address": "1 Rue de l'Abolition - Fessenheim",
+    "connectors": [
+      "x1",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Rue de la 1ère Armée - Fessenheim",
+    "address": "14 Rue de la 1ère Armée - Fessenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Rue de l'Europe - Fessenheim",
+    "address": "Rue de l'Europe - Fessenheim",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Médiathèque Espace Liberté - Rue du Cerf - Ensisheim",
+    "address": "2 Rue du Cerf - Ensisheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine du Moulin Hôtel *** Spa (Tesla et autres)",
+    "address": "44 Rue de la 1ère Armee - Ensisheim",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine du Moulin Hôtel *** Spa",
+    "address": "44 Rue de la 1ère Armée Française - Ensisheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Charge ON - A64 Bremgarten",
+    "address": "1 Rasthof - Hartheim",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Chargecloud GmbH - Vogesenstraße - Neuenburg am Rhein",
+    "address": "2 Vogesenstraße - Neuenburg am Rhein",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi Süd - Neuenburg am Rhein",
+    "address": "5 Colmarer Straße - Neuenburg am Rhein",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parkhaus Kronenhain",
+    "address": "1\r\n Kronenhain\r\n - Neuenburg am Rhein",
+    "connectors": [
+      "x15"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

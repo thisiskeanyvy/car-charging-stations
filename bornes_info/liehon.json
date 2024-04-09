@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Freshmile - Rue Bazelaire - LOUVIGNY",
+    "address": "Rue Bazelaire - LOUVIGNY",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Jury",
+    "address": "Rue de Metz - Jury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Gare TGV de Louvigny",
+    "address": "Route Départementale 910 - Louvigny",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Rémilly - Super U",
+    "address": "60 Rue de Metz, 57580 Rémilly, France - Rémilly",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Hôpital de Mercy - Ars-Laquenexy",
+    "address": "1 Allée du Château - Ars-Laquenexy",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Place Maréchal Foch - Rémilly",
+    "address": "3 Place Foch - Rémilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grimteck - Foville",
+    "address": "6 Rue de la Louvière - Foville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue De La Grange-Aux-Bois - Metz",
+    "address": "1 Rue de la Grange aux Bois - Metz",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 3 rue de Courcelles - Metz",
+    "address": "3 rue de Courcelles - Metz",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Magasin Vert - Marly",
+    "address": "Rue de la Belle Fontaine - Marly",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - Mairie de Dollon",
+    "address": "1 Place De l'Eglise - Dollon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A11 - Aire de Villaines la Gonais (direction Chartres)",
+    "address": "1 l'océane - Villaines-la-Gonais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A11 - Aire de La Ferté-Bernard (direction Le Mans)",
+    "address": "A11 - Villaines-la-Gonais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mouv'nGo : Connerre",
+    "address": "6 Rue de l'Abreuvoir - Connerré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping du Lac - Saint-Calais",
+    "address": "Rue du Lac - Saint-Calais",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Tuffé Val de la Chéronne - Rue de la Mairie 24 (privé)",
+    "address": "24 Rue de la Mairie - Tuffé Val de la Chéronne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Chemin de la Noé",
+    "address": "1 Rue du Champ de la Croix - Saint-Calais",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Saint-Calais - ZA du Pressoir, 10 Rue du Champ de la Croix,",
+    "address": "ZA du Pressoir, 10 Rue du Champ de la Croix, - Saint-Calais",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - La Ferté-Bernard",
+    "address": "1 D1 - La Ferté-Bernard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVMap - Ardenay-sur-Mérize - 11 Domaine de la Grassinière",
+    "address": "11 Domaine de la Grassinière - Ardenay-sur-Mérize",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

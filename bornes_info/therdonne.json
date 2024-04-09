@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Mouv'Oise - Mairie de Therdonne",
+    "address": "1 Place Amédée Langlet - Therdonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A16/D1001 Relais de Saint Mathurin - Allonne",
+    "address": "0 RN1 - Allonne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Beauvais | Rue Arago 2",
+    "address": "2 Rue Arago - Beauvais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Basic Fit - Beauvais",
+    "address": "31 Rue Arago - Beauvais",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stockomani Beauvais",
+    "address": "Rue Bernard Palissy - Beauvais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hostellerie St Vincent (charge a destination Tesla)",
+    "address": "241A Rue de Clermont - Beauvais",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Beauvais - Hôtel Saint Vincent",
+    "address": "241 Rue de Clermont - Beauvais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico Dépôt - Rue Pierre et Marie Curie - Beauvais",
+    "address": "Rue Pierre et Marie Curie - Beauvais",
+    "connectors": [
+      "x13",
+      "x13"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Rue Jean Baptiste Godin PAE du Haut Villé - Beauvais",
+    "address": "Rue Jean Baptiste Godin PAE du Haut Villé - Beauvais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 1 Avenue du Beauvaisis - Beauvais (Privé)",
+    "address": "1 Avenue du Beauvaisis - Beauvais",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Aéroports de Paris - Roissy-en-France - Bâtiment 5320 PCIT",
+    "address": "Route des Badauds - Roissy-en-France",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Innside Paris Charles de Gaulle",
+    "address": "9 Rue du Voyageur - Roissy-en-France",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Charles de Gaulle (CDG-Paris) - Roissy-en-France",
+    "address": "Rue de l'Or - Roissy-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rue de l'Or - Roissy-en-France",
+    "address": "1 Rue de l'Or - Roissy-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aéroports de Paris - Roissy-en-France - IMO CDG Bâtiment 7610",
+    "address": "10 Rue de la Pomme Bleue - Roissy-en-France",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroports de Paris - CDG Bâtiment 3701 - Tremblay-en-France",
+    "address": "3701 Route du Noyer au Chat - Tremblay-en-France",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking Pro (P1) - Mauregard",
+    "address": "Parking Pro (P1) - Mauregard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroports de Paris - IMO CDG Siège - Tremblay-en-France",
+    "address": "1 Rue Louis Couhé - Tremblay-en-France",
+    "connectors": [
+      "x28",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*ADP - Roissy-en-France - 5 Route des Anniversaires",
+    "address": "5 Route des Anniversaires - Roissy-en-France",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroports de Paris - Tremblay-en-France - Parking Baïkal",
+    "address": "1 Rue Louis Couhé - Tremblay-en-France",
+    "connectors": [
+      "x55"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

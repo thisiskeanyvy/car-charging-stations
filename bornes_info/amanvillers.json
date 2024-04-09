@@ -1,0 +1,130 @@
+[
+  {
+    "title": "NW IEcharge - Amanvillers - D51 Fond l'Abbé",
+    "address": "D51 Fond l'Abbé - Amanvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Metz-Saint-Privat (double sens)",
+    "address": "A4 - Aire de Metz-Saint-Privat - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - A4 Aire de Metz St Privat (double sens) SUPPRIMÉ",
+    "address": "Aire de Metz St Privat, St-Privat-la-Montagne - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant La Tour",
+    "address": "3 Rue du Gen de Gaulle - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Gambetta - Sainte-Marie-aux-Chênes",
+    "address": "Avenue Gambetta - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de Gasseville - Sainte-Marie-aux-Chênes",
+    "address": "1 Rue de Gasseville - Ste.-Marie-aux-Chênes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - salle polyvalente - Batilly",
+    "address": "1 impasse de la barrière - Batilly",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Sainte-Marie-aux-Chênes",
+    "address": "643 Rue de la Moselle - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x1",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Sainte-Marie-aux-Chênes - Rue de Briey",
+    "address": "Rue de Briey Zone Commerciale du Sauceu - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Batilly",
+    "address": "1 D13 - Batilly",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

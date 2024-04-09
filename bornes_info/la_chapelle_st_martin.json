@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sidelc Maves",
+    "address": "Rue du Cedre - Maves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Suèvres - Les Gribouzys",
+    "address": "Les Gribouzys - Suèvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - A10 - Aire de Blois-Villerbon (direction Tours)",
+    "address": "A10 - Villerbon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A10 Aire de Blois-Ménars (direction Orléans)",
+    "address": "A10 L'Aquitaine - Villerbon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue Robert Bauer 41500 Mer",
+    "address": "Rue Robert Bauer - Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Mer",
+    "address": "Rue du Mardeau - Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Avenue du Maréchal Maunoury - Mer",
+    "address": "19 Avenue du Maréchal Maunoury - Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Marechal Maunoury Mer",
+    "address": "1 Avenue du Maréchal Maunoury - Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 4 Avenue d'Alsace - Mer",
+    "address": "4 Avenue d'Alsace - Mer",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - 19 Route d'Orléans - Mer",
+    "address": "19 Route d'Orleans - Mer",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

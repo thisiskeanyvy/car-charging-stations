@@ -1,0 +1,132 @@
+[
+  {
+    "title": "INOUid - Meximieux - 1394 Route de Charnoz",
+    "address": "1394 Route de Charnoz - Meximieux",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue des Stades - Meximieux",
+    "address": "3 Rue des Stades - Meximieux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "ChargePoint network - 345 Allée de Curebourse - Saint-Vulbas",
+    "address": "345 Allée de Curebourse - Saint-Vulbas",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - Meximieux",
+    "address": "10 Chemin des Écureuils - Meximieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "CNR - Rue Charles de Gaulle Saint-Vulbas",
+    "address": "235 Rue Charles de Gaulle - Saint-Vulbas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - Béligneux - 37 Rue Professeur Robert Hugonot",
+    "address": "37 Rue Professeur Robert Hugonot - Béligneux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - CNPE Bugey - Campus UFPI Remplacement - Saint-Vulbas",
+    "address": "400 Avenue Cotier - Saint-Vulbas",
+    "connectors": [
+      "x31",
+      "x31"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPE du Bugey (Parking Nord) (Privé)",
+    "address": "Route de Loyettes - Saint-Vulbas",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPE du Bugey - Parking Centre (Privé)",
+    "address": "Route de Loyettes - Saint-Vulbas",
+    "connectors": [
+      "x23",
+      "x23"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SPIE Nucléaire - Béligneux",
+    "address": "380 Rue de Dérontet - Béligneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

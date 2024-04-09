@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Carrefour - Villabé",
+    "address": "Route de Villoison - Villabe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Mennecy",
+    "address": "13 Rue Faraday - Mennecy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "L'entrepot du bricolage",
+    "address": "Rue Jean Cocteau - Mennecy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ace Hôtel - Villabé",
+    "address": "1 Route de Villoison - Villabé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking \"le stock\" - Rue Charles Péguy",
+    "address": "7 Rue Charles Péguy - Mennecy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total énergies - A6 Aire de Lisses (direction Auxerre)",
+    "address": "Autoroute du Soleil - Villabé",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - A6 Aire des Lisses (direction Auxerre)",
+    "address": "Aire des Lisses, Villabé - Villabé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total energies - A6 Aire de Villabé (Direction Evry)",
+    "address": "Aire de Villabé - Villabé",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Ikea - Lisses",
+    "address": "3 Rue de la Closerie - Lisses",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ikea - Lisses",
+    "address": "13 Rue du Clos aux Pois - Lisses",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 1",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

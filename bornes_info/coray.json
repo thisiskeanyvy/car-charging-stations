@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEF - Coray (Place de Pors Clos)",
+    "address": "Rue Pors Clos - Coray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d’Énergie et d’Équipement du Finistère (SDEF) - Leuhan - Route de Tregourez",
+    "address": "Route de Tregourez - Leuhan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Trégourez (Rue Yves Allain)",
+    "address": "1P Rue Yves Allain - Trégourez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Elliant (Place de la Mairie)",
+    "address": "1 Rue Saint-Gilles - Elliant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Laz (Place de l'Eglise)",
+    "address": "Place de l'Église - Laz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Scaër",
+    "address": "Rue Général de Gaulle - Scaër",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Scaër (Place Victor Hugo)",
+    "address": "Place Victor Hugo - Scaër",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEF - Saint Goazec (Domaine de Trévarez)",
+    "address": "197 Ménez Rouz - Saint-Goazec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Rosporden",
+    "address": "Route de Quimper - Rosporden",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Morbihan énergies - Rue Nicolas le Grand - Roudouallec",
+    "address": "40 Rue Nicolas le Grand - Roudouallec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

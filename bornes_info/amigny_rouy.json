@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lidl - Route de Chauny - Condren",
+    "address": "Route de Chauny - Condren",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auchan - Viry Noureuil",
+    "address": "Les Rincettes - Viry-Noureuil",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Viry-Noureuil - Bricorama",
+    "address": "38 ZAC les Terrages - Viry-Noureuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZAC Les Terrages - Viry Noureuil",
+    "address": "ZAC Les Terrages - Viry-Noureuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault Lepreux - Rue Louis Blanc - Tergnier",
+    "address": "15 Rue Louis Blanc - Tergnier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "felix Philippe",
+    "address": "9 19mars1962 app1 - Tergnier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Viry-Noureuil - Action",
+    "address": "ZAC les Terrages, 02300 Viry-Noureuil - Viry-Noureuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "USEDA - 20 Place du Maréchal Foch - Saint-Gobain",
+    "address": "20 Place du Maréchal Foch - Saint-Gobain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue des Remparts - Chauny",
+    "address": "Rue des Remparts - Chauny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - Rue de Tergnier - Beautor",
+    "address": "40 Rue de Tergnier - Beautor",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

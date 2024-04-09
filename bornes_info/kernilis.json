@@ -1,0 +1,114 @@
+[
+  {
+    "title": "SDEF - Plouvien (Place des Fusillés)",
+    "address": "145 Rue Laennec - Plouvien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Le Folgoët (Rue du Verger)",
+    "address": "Rue du Verger - Le Folgoët",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Guissény (Rue de Plouguerneau)",
+    "address": "2 Rue de Plouguerneau - Guissény",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - Saint-Sébastien - Lannilis",
+    "address": "Saint-Sébastien - Lannilis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Rue Valy Goz - Lesneven",
+    "address": "Rue Valy Goz - Lesneven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Plouguerneau (Rue du Verger)",
+    "address": "2 Rue Bel air - Plouguerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Gendarmerie de Lannilis",
+    "address": "Rue de la Fontaine - Lannilis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mac Donald's - Lesneven",
+    "address": "2 Rue de Croas ar Rod - Lesneven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plabennec (Gare routière)",
+    "address": "60 Avenue de Waltenhofen - Plabennec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plabennec",
+    "address": "2 Kermenguy - Plabennec",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

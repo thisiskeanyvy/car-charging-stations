@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEIL - Saint Martin le Beau",
+    "address": "5 Rue d'Amboise - Saint-Martin-le-Beau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEIL -Virta Stade - La Croix en Touraine",
+    "address": "1 Rue du Stade - La Croix-en-Touraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Mairie Athée sur Cher",
+    "address": "8 Allée des Lis - Athée-sur-Cher",
+    "connectors": [
+      "x3",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Bléré",
+    "address": "1 Route sans nom - Bléré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEIL - Parking camping - Bléré",
+    "address": "Avenue de l'Europe - Bléré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Allée des Chardonnerets - Bléré",
+    "address": "Allée des Chardonnerets - Bléré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Alfred Nobel - Bléré",
+    "address": "1 Rue Alfred Nobel - Bléré",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sieil - Bléré",
+    "address": "2 Rue du Commandant J Y Cousteau - Bléré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Amboise",
+    "address": "105 Avenue de Tours - Amboise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire du Val de chère - A85",
+    "address": "0 station - Athée-sur-Cher",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

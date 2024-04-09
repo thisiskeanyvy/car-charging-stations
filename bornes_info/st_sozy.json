@@ -1,0 +1,136 @@
+[
+  {
+    "title": "RÉVÉO - Rue Du Suquet - Meyronne",
+    "address": "49 Rue Du Suquet - Meyronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - D23 - Lacave",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de le Treyne (Tesla et autres)",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Souillac (uniquement pour dépannage)",
+    "address": "Route de Martel - Souillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Manoir de Malagorse",
+    "address": "Malagorse - Cuzance",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Bois d'Imbert - Rocamadour",
+    "address": "Route de Lacave - Rocamadour",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue Pierre Bourthoumieux - Souillac",
+    "address": "8 Rue Pierre Bourthoumieux - Souillac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - ZEborne - Rue du Barri de Souillac - Martel",
+    "address": "Rue du Barri de Souillac - Martel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Avenue de Souillac - Martel",
+    "address": "6049F Avenue de Nassogne - Martel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell-Recharge France - Rue des Cantaures - Lanzac",
+    "address": "240 Route de Merigou - Lanzac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

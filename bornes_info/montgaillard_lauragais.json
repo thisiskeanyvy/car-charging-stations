@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ChargePoint - Intermarché - Villefranche-de-Lauragais",
+    "address": "D622a - Villefranche-de-Lauragais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IONITY - Villefranche-de-Lauragais - Chemin de la Camave",
+    "address": "Chemin de la Camave - Villefranche-de-Lauragais",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mc Donald's - Villefranche-de-Lauragais",
+    "address": "8 Bordé Blanche - Villefranche-de-Lauragais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mr Bricolage - Villefranche-de-Lauragais",
+    "address": "24 Route de Gardouch - Villefranche-de-Lauragais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Place de la porte d'Autan",
+    "address": "27 Avenue de la Fontasse - Villefranche-de-Lauragais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Qovoltis - Hôtel du Lauragais - Villefranche-de-Lauragais",
+    "address": "15 Rue de la République Hôtel Restaurant du Lauragais - Villefranche-de-Lauragais",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Rue de la République - Gardouch",
+    "address": "Rue de la République - Gardouch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Lidl - En Saumie - Baziège",
+    "address": "En Saumie - Baziège",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Ayguesvives",
+    "address": "2 Labal Prioul - Ayguesvives",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - Nailloux - Lieu dit Le Grill",
+    "address": "Lieu dit Le Grill - Nailloux",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

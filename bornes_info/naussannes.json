@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Virta - Impasse de la Source - Naussannes",
+    "address": "Impasse de la Source - Naussannes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Boulevard de la Résistance",
+    "address": "Boulevard de la Résistance - Beaumont-du-Périgord",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Route de Lajasse - Faux",
+    "address": "Route de Lajasse - Faux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Avenue Jean Moulin - Lalinde",
+    "address": "12 Avenue Jean Moulin - Lalinde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 (MobiVE) - Lalinde - Impasse du Bassin",
+    "address": "34 Impasse du Bassin - Lalinde",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Parking Issigeac",
+    "address": "D14 - Issigeac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aire Camping Car - Saint-Capraise-de-Lalinde",
+    "address": "8 Route de Bergerac - Saint-Capraise-de-Lalinde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fromengal",
+    "address": "Unnamed Road - Le Buisson-de-Cadouin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Bignac - Saint-Nexans",
+    "address": "Le Bignac - Saint-Nexans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEE47 - Parking Jeu de Boules",
+    "address": "9 Boulevard Alphonse de Poitiers - Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

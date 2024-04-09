@@ -1,0 +1,124 @@
+[
+  {
+    "title": "MobiVE - SDEEG33 - Toulenne",
+    "address": "98 Avenue du Huit Mai 1945 - Toulenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place du foirail Langon",
+    "address": "11 Place du Foirail - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SCEA DOMAINE DE MONTEILS",
+    "address": "3 voie communale n°11 de Fargues - Preignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place Kennedy - Langon",
+    "address": "4 Bis Place Kennedy - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie - Langon",
+    "address": "18 Allée Jean Jaurès - Langon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bump - B&B Hôtel Bordeaux Langon",
+    "address": "Rue des Bruyères Zone de Loisirs - Langon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Langon",
+    "address": "4 Avenue Léo Lagrange - Langon",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 1 Boulevard Pierre Lagorce - Langon",
+    "address": "1 Boulevard Pierre Lagorce - Langon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ulog Langon",
+    "address": "19 Dargette - Langon",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Centre commercial Moléon - Langon",
+    "address": "Centre commercial Moléon - Langon",
+    "connectors": [
+      "x4",
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

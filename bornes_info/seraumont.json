@@ -1,0 +1,132 @@
+[
+  {
+    "title": "TAXI DEXEMPLE",
+    "address": "742 AVENUE DE LA DIVISION LECLERC - Neufchâteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E Leclerc - Neufchateau",
+    "address": "1273bis Avenue de la Division Leclerc - Neufchâteau",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Neufchâteau",
+    "address": "930 Avenue de la Division Leclerc - Neufchâteau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CH Neufchateau",
+    "address": "1280 Avenue de la Division Leclerc - Neufchâteau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de la 1ère Armée Française - Neufchâteau",
+    "address": "23 Rue de la 1ère Armée Française - Neufchâteau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Neufchâteau",
+    "address": "11 Quai Jean Moulin - Neufchâteau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Zeborne (ZPE) - Neufchâteau - 77c Avenue Président Kennedy",
+    "address": "77c Avenue Président Kennedy - Neufchâteau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Gondrecourt le Château",
+    "address": "Rue de la Grande Fontaine - Gondrecourt-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de la Carpière",
+    "address": "15 Rue du Gén Leclerc - Gondrecourt-le-Château",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Neufchateau",
+    "address": "2 Rue de la Maison de Dieu - Neufchâteau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

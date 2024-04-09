@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Station service Engen-Les Avirons",
+    "address": "82 Avenue du Général du Gaulle - Les Avirons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "run charge",
+    "address": "5 Rue du Pressoir - Saint-Leu",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Piton Saint-Leu",
+    "address": "Rue du Moulin - Piton Saint-Leu",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Super U - L'Étang-Salé les Hauts",
+    "address": "44 Rue Pere van Berlo - L'Étang-Salé les Hauts",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Saint-Louis",
+    "address": "11 Plaine du Gol - Saint-Louis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Station Total Le Gol",
+    "address": "1 N1C - Saint-Louis",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Credit Agricole - Agence de Saint Louis (Privé)",
+    "address": "Rue des Albatros - Saint Louis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Siège Dacia - Saint-Louis",
+    "address": "5 Avenue du Docteur Raymond Vergès - Saint-Louis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking gratuit Centre Ville Saint Leu",
+    "address": "4-16 Rue Archambaud - Saint-Leu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Leu - Résidence Ariane",
+    "address": "1 Rue Du Trésor - Saint-Leu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

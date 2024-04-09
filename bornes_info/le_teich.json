@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDEEG33 - Mairie - Le Teich",
+    "address": "Avenue de la Côte d'Argent - Le Teich",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Gare SNCF - Le Teich",
+    "address": "Rue de l'Industrie - Le Teich",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiVE - gare du Teich",
+    "address": "- Le Teich",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - parkind de la gare sud - Le Teich",
+    "address": "rue Hedouar Benel - Le Teich",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue de la Petite Forêt - Le Teich",
+    "address": "14 Rue de la Petite Forêt - Le Teich",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiVE - Parking de la claire",
+    "address": "10 Rue du Docteur Bezian - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Avenue de la Libération Biganos",
+    "address": "50 Avenue de la Libération - Biganos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Rue Edmond Daubric - Gujan-Mestras",
+    "address": "Rue Edmond Daubric - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Rue de L'Yserd - Gujan-Mestras",
+    "address": "12 Rue de l'Yser - Gujan-Mestras",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie de Gujan-Mestras",
+    "address": "1 Place Charles de Gaulle - Gujan-Mestras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

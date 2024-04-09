@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sydego - Station Sucé sur Erdre \"La Poste\"",
+    "address": "209 Rue Descartes - Sucé-sur-Erdre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Parking de la Gare Tram-Train - Sucé-sur-Erdre",
+    "address": "223 Avenue de l'Europe - Sucé-sur-Erdre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SPA Villa Fjord (Tesla et autres)",
+    "address": "1105 Rue de Nort - Sucé sur Erdre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Carquefou",
+    "address": "Avenue du Souchais - Carquefou",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Best Western Plus Hôtel de la Régate (Tesla et autres)",
+    "address": "155 Route de Gachet - Nantes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de la Marquise de Sévigné - Carquefou",
+    "address": "13 Rue de la Marquise de Sévigné - Carquefou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Rue du Hameau de Galichet - Casson",
+    "address": "Rue du Hameau de Galichet - Casson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Microchip Technology",
+    "address": "Route de Gachet - Nantes",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Norauto - La Chapelle-sur-Erdre",
+    "address": "1 rue d'Utrecht - La Chapelle-sur-Erdre",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - Nantes - 3 Rue Alfred Kastler",
+    "address": "3 Rue Alfred Kastler - Nantes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

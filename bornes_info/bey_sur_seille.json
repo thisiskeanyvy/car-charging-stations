@@ -1,0 +1,128 @@
+[
+  {
+    "title": "La ferme des Fruitiers",
+    "address": "30 Route de Sarreguemines - Seichamps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place de la Saline - Château-Salins",
+    "address": "7 Rue de la Verrerie - Château-Salins",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Kyriad Nancy Est - Essey-lès-Nancy",
+    "address": "32 Rue des Tarbes Kyriad Nancy Est - Essey-lès-Nancy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grimteck - Foville",
+    "address": "6 Rue de la Louvière - Foville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - 9 Quai Émile Benoît - Nomeny",
+    "address": "9 Quai Émile Benoît - Nomeny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Communauté Urbaine du Grand Nancy - Rue des Trezelots, 10 - Pulnoy PRIVÉ - NE DOIT PAS FIGUER SUR CHARGEMAP",
+    "address": "10 Rue des Trezelots - Pulnoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de l'Arbois - Pulnoy (Privée)",
+    "address": "4bis Rue de l'Arbois - Pulnoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pulnoy PIDC - Rue des Sables",
+    "address": "1 Rue des Sables - Pulnoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Burger King - Essey-lès-Nancy",
+    "address": "Avenue 69ème Régiment d'Infanterie - Essey-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ALDI - Rue Jacques Brel - Essey-lès-Nancy",
+    "address": "2 Rue Jacques Brel - Essey-lès-Nancy",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

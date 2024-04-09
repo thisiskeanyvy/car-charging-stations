@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Tesla Supercharger V3 - Bourg-en-Bresse",
+    "address": "101 Chemin du Champ de Chaux - Tossiat",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - U Express - Ceyzeriat",
+    "address": "Rue de jasseron - Ceyzeriat",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Europe Garage AUDI - Montagnat",
+    "address": "1 Chemin des Carronnières - Montagnat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia Motors Bourg-en-bresse / Montagnat",
+    "address": "3200 D1075 - Montagnat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Montagnat - Greet Hotel Première Classe",
+    "address": "105 Imp. des Certines, - Montagnat",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Ceyzériat - 259 Route des Soudanières",
+    "address": "259 Route des Soudanières - Ceyzériat",
+    "connectors": [
+      "x18",
+      "x20",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - RN 75 ZI DE NOIREFONTAINE - MONTAGNAT",
+    "address": "RN 75 ZI DE NOIREFONTAINE - MONTAGNAT",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A40 - Aire de Bourg Jasseron (direction Lons-le-Saunier)",
+    "address": "A40 - Jasseron",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Vadea - A40 Aire de Bourg Teyssonge (direction Lyon)",
+    "address": "A40 - Jasseron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5",
+      "x4",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "parking commerce à ouvrir CARRARA",
+    "address": "2450 Avenue Amédée Mercier - Bourg-en-Bresse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

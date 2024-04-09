@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Centre commercial le corbusier - Saint-Memmie",
+    "address": "Rue de POIX - Saint-Memmie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BMW Chalons En Champagne - Saint Memmie",
+    "address": "Avenue marc hamet - Saint memmie",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Saint-Memmie - 77 Avenue du Président Roosevelt",
+    "address": "77 Avenue du Président Roosevelt - Saint-Memmie",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl- Saint Memmie",
+    "address": "28 Rue des Catalaunes - Saint-Memmie",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NewMotion FR - Saint-Memmie - Avenue Marc Hamet",
+    "address": "Avenue Marc Hamet - Saint-Memmie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Saint-Memmie - Andimed Santé",
+    "address": "18 Avenue Marc Hamet - Saint-Memmie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Châlons-en-Champagne",
+    "address": "74 Avenue du Président Roosevelt - Châlons-en-Champagne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel l'Angleterre (Tesla et autres)",
+    "address": "19 Place Monseigneur Tissier - Châlons-en-Champagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Siem 51 - Place Monseigneur Tissier",
+    "address": "25 Place Monseigneur Tissier - Châlons-en-Champagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Saint-Memmie",
+    "address": "29 Avenue Marc Hamet - Saint-Memmie",
+    "connectors": [
+      "x13",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

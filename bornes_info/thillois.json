@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Champea Shopping Center",
+    "address": "D75 - Champigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Thilois",
+    "address": "1 Rue des Acacias - Thillois",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Superchargers Tesla V3 - Novotel Reims Tinqueux",
+    "address": "31bis Route de Soissons - Tinqueux",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour - Tinqueux",
+    "address": "Route de Soissons - Tinqueux",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Novotel Reims (Tinqueux)",
+    "address": "53 Avenue Sarah Bernhardt - Tinqueux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking credit agricole - Tinqueux",
+    "address": "53 Avenue sarah bernhardt - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Avenue Sarah Bernhardt - Tinqueux",
+    "address": "39 Avenue Sarah Bernhardt - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Grand Frais - Rue Boucicaut - Tinqueux",
+    "address": "14 Rue Boucicaut - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dream Energy - Tinqueux - 5 Rue Louis Breguet",
+    "address": "5 Rue Louis Breguet - Tinqueux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dream Energy - Tinqueux - 5 Rue Louis Breguet",
+    "address": "5 Rue Louis Breguet - Tinqueux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

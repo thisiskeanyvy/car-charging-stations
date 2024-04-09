@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Masterpark Trafalgar Square Car Park",
+    "address": "Spring Garden, - London",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Westminster/Q-Park - Trafalgar Car Park",
+    "address": "Cockspur Ct - London",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Surrey/NCP High Street",
+    "address": "102 High Street - London",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Westminster/Whitehall Place",
+    "address": "Northumberland Avenue - City of Westminster",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ESB ecars - 21 Pall Mall - London",
+    "address": "21 Pall Mall - London",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Masterpark Leicester Sq Car Park",
+    "address": "Whitcomb Street, - London",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint James's Square Gardens",
+    "address": "20 Saint James's Square - London",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (GB) - Strand 80 - London",
+    "address": "80 Strand - Hazlemere",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (GB) - Southampton Street - London",
+    "address": "Southampton Street - London",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ESB (GB) - St James's Square St James's Square - London",
+    "address": "St James's Square St James's Square - London",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

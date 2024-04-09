@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Stations-e - Courtils - 75 Rue du Mont Saint-Michel",
+    "address": "75 Rue du Mont Saint-Michel - Courtils",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Manoir de la roche torin (Tesla and others)",
+    "address": "Route de la Roche Torin - Courtils",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "The Ferme Saint - Michel (Tesla and others)",
+    "address": "La Caserne Ardevon - Le Mont-Saint-Michel",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Armor Lux - Route du Mont Saint-Michel",
+    "address": "62B Route du Mont Saint-Michel - Beauvoir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Les Montois - Céaux",
+    "address": "19 Le Pommeray - Céaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue des Colverts - Pontorson",
+    "address": "6 Rue des Colverts - Pontorson",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Pontorson",
+    "address": "2 Rte du Mont Saint-Michel, - Pontorson",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Voie de la Liberté, 6 - Pontorson",
+    "address": "6 Voie de la Liberté - Pontorson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Gare de Pontorson",
+    "address": "5 Place de la Gare - Pontorson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place Leclerc - Pontorson",
+    "address": "9497B Place Leclerc - Pontorson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SDET (Révéo) - La Ferrayrie - Bellegarde-Marsal",
+    "address": "La Ferrayrie - Bellegarde-Marsal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET - Rue de L'Ecole",
+    "address": "16 Rue de l'École - Cambon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - Place de la Bascule - Villefranche-d'Albigeois",
+    "address": "Place de la Bascule - Villefranche-d'Albigeois",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - 9 Rue de l'école",
+    "address": "9 Rue de l'école - Fauch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Albi - 2rue François arago",
+    "address": "2rue François arago, 81000 Albi, France - Albi",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDET Innoprod - Chemin de la Teulière - ALBI",
+    "address": "9 Chemin de la Teulière - Albi",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Allée De La Trencade - St Juéry",
+    "address": "Allée de la Trencade - Saint-Juéry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - Place de la Mairie - Teillet",
+    "address": "Place de la Mairie - Teillet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Albi - Carrefour Contact",
+    "address": "3 Rue des Trois Buissons - Albi",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Révéo - parking place de la Mairie",
+    "address": "2 Place de la Mairie - Saint-Juéry",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

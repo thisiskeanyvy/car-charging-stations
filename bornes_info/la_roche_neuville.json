@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE53 - Rue d'Anjou, 12 - Loigné-sur-Mayenne",
+    "address": "12 Rue d'Anjou - Loigné-sur-Mayenne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue René Perreault, 12 - Château-Gontier",
+    "address": "12 Rue René Perreault - Château-Gontier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Chambres d'Hôtes les Perrettes - 53200 Chateau-Gontier sur Mayenne",
+    "address": "chemin des Perrettes - les Perrettes - Château-Gontier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - Château-Gontier-sur-Mayenne - 7 Rue de Bellitourne",
+    "address": "7 Rue de Bellitourne - Château-Gontier-sur-Mayenne",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Chateau-Gontier - Avenue René Cassin - Azé",
+    "address": "11 Avenue René Cassin - Azé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Promenade de Mahier, 1 - Château-Gontier",
+    "address": "1 Promenade de Mahier - Château-Gontier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Château-Gontier-sur-Mayenne - 08 Route De Sablé",
+    "address": "08 Route De Sablé - Château-Gontier-sur-Mayenne",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc animaux - Route de Sablé",
+    "address": "30 Route de Sablé - Azé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Parc Hôtel & Spa - Château-Gontier-sur-Mayenne",
+    "address": "44a Avenue Du Maréchal Joffre - Château-Gontier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CC Leclerc - Azé",
+    "address": "Rue de la Fougetterie - Azé",
+    "connectors": [
+      "x34",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

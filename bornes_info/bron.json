@@ -1,0 +1,146 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Rue de Verdun - Bron",
+    "address": "9 Rue de Verdun - Bron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - Relais des Brondillants - Bron",
+    "address": "Boulevard Laurent Bonnevay - Bron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IZIVIA BRON église",
+    "address": "119 Esplanade Mitterrand - Bron",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia Grand lyon - Rue Albert Camus - Bron",
+    "address": "10 Rue Albert Camus - Bron",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Valette - Rue Jean Lacroix",
+    "address": "1 Rue Jean Lacroix - Bron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue Pierre Brossolette - Bron",
+    "address": "Avenue Pierre Brossolette - Bron",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Bron - Hôtel Ibis Lyon Est",
+    "address": "95 Avenue du Doyen Jean Lépine - Bron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia Grand Lyon - Avenue du Doyen Jean Lépine",
+    "address": "37 Avenue du Doyen Jean Lépine - Bron",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Izivia Grand Lyon - Rue Martin - Bron",
+    "address": "rue Martin - Bron",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V3 - Bron",
+    "address": "Boulevard André Bouloche - Bron",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

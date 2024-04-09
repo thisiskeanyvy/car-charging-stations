@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Neuville-de-Poitou | Allée de Saumur 2",
+    "address": "2 Allée de Saumur - Neuville-de-Poitou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Hôtel Campanile - Chasseneuil-du-Poitou",
+    "address": "10 Boulevard René Descartes - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking ENSMA - Boulevard Marie et Pierre Curie",
+    "address": "9002F Boulevard Marie et Pierre Curie - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ibis budget - Futuroscope",
+    "address": "2 Avenue Thomas Edison - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Avenue René Monory - Chasseneuil-du-Poitou",
+    "address": "Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Chasseneuil-du-Poitou - 2 Boulevard Marie Et Pierre Curie",
+    "address": "2 Boulevard Marie Et Pierre Curie - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell-Recharge - Ibis Futuroscope - Chasseneuil-du-Poitou",
+    "address": "Hotel IBIS - Avenue Thomas Edison - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargeguru - Novotel Poitiers Futuroscope",
+    "address": "9284F Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Novotel Poitiers (Futuroscope)",
+    "address": "Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Neuville de Poitou",
+    "address": "41 Rue Alphonse Plault - Neuville-de-Poitou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

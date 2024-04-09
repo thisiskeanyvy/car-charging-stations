@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE22 Maël-Carhaix",
+    "address": "Rue de l'Église - Maël-Carhaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 Duault",
+    "address": "Route des Manoirs - Duault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Des Côtes d'Armor (SDE22) - Le Moustoir - Au Bourg",
+    "address": "Au Bourg - Le Moustoir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Carnoët",
+    "address": "Place de la Mairie - Carnoët",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 - Place Jean Auffret - Callac",
+    "address": "Place Jean Auffret - Callac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE 22 - Callac2",
+    "address": "Rue de la Gare - Callac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Callac",
+    "address": "32 Rue de Kerbuannec - Callac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Carhaix Plouguer (Zone de la Villeneuve)",
+    "address": "Rue Général Jacques de la Bollardière - Carhaix-Plouguer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Carhaix-Plouguer",
+    "address": "1521 Rue Marcel le Goff - Carhaix-Plouguer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Magasin biologique parking",
+    "address": "Boulevard jean moulin - Carhaix-Plouguer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

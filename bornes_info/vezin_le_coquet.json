@@ -1,0 +1,132 @@
+[
+  {
+    "title": "NW IECharge - 4001 Rue de la Belle Épine - Vezin-le-Coquet",
+    "address": "4001 Rue de la Belle Épine - Vezin-le-Coquet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Ikea - Pacé - Parking Clients",
+    "address": "Avenue des Touches - Pacé",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IKEA - Rennes - Parking PMR",
+    "address": "14 ZAC Rive-Ouest, Avenue des Touches - Pacé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Vezin-le-Coquet",
+    "address": "54 Rue du Manoir de Servigné - Vezin-le-Coquet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint - 7 Rue Léon Berthault - Rennes",
+    "address": "7 Rue Léon Berthault - Rennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Pacé",
+    "address": "9 Boulevard de la Giraudais - Pacé",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network - 23 Rue de la Retardais",
+    "address": "23 Rue de la Retardais - Rennes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Midas - Auto Premier",
+    "address": "2 Rue des Chevrons - Rennes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rexel - Nicolas Joseph cugnot",
+    "address": "25 Nicolas Joseph cugnot - rennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Ibis Budget Rennes Route Lorient",
+    "address": "Rue des Chevrons - Rennes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

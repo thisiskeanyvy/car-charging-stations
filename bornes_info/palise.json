@@ -1,0 +1,114 @@
+[
+  {
+    "title": "myCar.be - Paliseul",
+    "address": "17 Rue d'Offagne - Paliseul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station Paliseul - Pl. De la gare",
+    "address": "2 Pl. De la gare - Paliseul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Beth Opont - Paliseul INEXISTANT",
+    "address": "Beth Opont - Paliseul",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Our - Paliseul",
+    "address": "Our - Paliseul",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Our-Paliseul - Rue de la Besace",
+    "address": "Rue de la Besace - Our-Paliseul",
+    "connectors": [
+      "x1",
+      "x30"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Lesse 3",
+    "address": "3 Rue de Lesse - Paliseul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalÉnergies - Garage des Ardennes - Bièvre",
+    "address": "95 Rue De Bouillon - Bièvre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Bièvre - Carrefour Market",
+    "address": "106 Rue de Bouillon - Bièvre",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Smappee - BIEVRE - RUE DE LA GARE 63 INEXISTANT",
+    "address": "RUE DE LA GARE 63 - BIEVRE",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Frunpark - Bertrix",
+    "address": "1 Route de Gohineaux - Bertrix",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

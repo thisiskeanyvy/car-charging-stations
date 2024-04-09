@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Ets Vallon",
+    "address": "158 Chemin de l'Oye - Montmeyran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Chemin des Écoliers - Beaumont-lès-Valence",
+    "address": "Chemin des Écoliers - Beaumont-lès-Valence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U",
+    "address": "20 Allée des Pins - Beaumont-lès-Valence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Super U - Beaumont-lès-Valence",
+    "address": "1 Allée des Pins - Beaumont-lès-Valence",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Route de Valence - Montoison",
+    "address": "Route de Valence - Montoison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED Parc de Lorient",
+    "address": "417 Laye - Montéléger",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDED - Parking face au bar - Montvendre",
+    "address": "Lotissement le Pré du Bost - Montvendre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Chemin de la Côte Chaude - Étoile-sur-Rhône",
+    "address": "Chemin de la Côte Chaude - Étoile-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - 2 rue Marius Chatte - Chabeuil",
+    "address": "2 Rue Marius Chatte - Chabeuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Chabeuil centre",
+    "address": "2 Rue des Écoles - Chabeuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

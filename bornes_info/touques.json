@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Point P - Rue de l'Anciennes Ecoles",
+    "address": "1 Rue de l'Anciennes Ecoles - Touques",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Parking Eglise - Touques",
+    "address": "1 Place Georges Roger - Touques",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Superchargeur Tesla V3 - E.Leclerc Drive de Deauville - Touques",
+    "address": "Centre E Leclerc - route de Paris - Touques",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sevdec - Touques - Chemin du Roy",
+    "address": "Chemin du Roy - Touques",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Toyota - Saint Arnoult (GCA Deauville)",
+    "address": "2 Chemin des Salines - Saint-Arnoult",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mac Donald's dr Drauville",
+    "address": "Route de Paris - Touques",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Première Classe Touques",
+    "address": "Chemin du Roy Hôtel Première Classe Deauville - Touques",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "B&B-Hotel - Rue des Tonneliers",
+    "address": "Rue des Tonneliers - Touques",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chargepoint network - Rue des Bateliers",
+    "address": "1 Rue des Bateliers - Touques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mr. Bricolage - Touques",
+    "address": "177 Route de Paris - Touques",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEIL - Rue de la Gare",
+    "address": "9 Rue De La Gare - Maillé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile Services SAS - 68 Pièce du Pré Clos - Maillé",
+    "address": "68 Pièce du Pré Clos - Maillé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Romain Rideau Ports",
+    "address": "2 Place Romain Rideau - Ports",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEIL - Cité de l'Hermitage - La Celle-Saint-Avant",
+    "address": "14-16 Cité de l'Hermitage - La Celle-Saint-Avant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Borne SIEIL - Salle socioculturelle - Draché",
+    "address": "Rue du Breuil - Draché",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Sortie A10 -Sainte-Maure-de-Touraine",
+    "address": "L'aquitaine Sainte-Maure-de-Touraine - Sainte-Maure-de-Touraine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEIL - Place de la Mairie Luzé",
+    "address": "Place de la Mairie - Luzé",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEIL - Rue du Prieuré",
+    "address": "Rue du Prieuré - Parçay-sur-Vienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI marché - Sainte-Maure-de-Touraine",
+    "address": "D108 - Sainte-Maure-de-Touraine",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Saint-Vincent",
+    "address": "Grande Rue - Marigny-Marmande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

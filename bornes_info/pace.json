@@ -1,0 +1,136 @@
+[
+  {
+    "title": "OuestCharge - Esplanade Charles de Gaulle - Pacé",
+    "address": "Esplanade Charles de Gaulle - Pacé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargePoint network - 6 Rue Allory - Pacé",
+    "address": "6 Rue Allory - Pacé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Halle/Intersport - Boulevard de la Giraudais - Pacé",
+    "address": "7 Boulevard de la Giraudais - Pacé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Cora - Pacé",
+    "address": "9 Boulevard de la Giraudais - Pacé",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ikea - Pacé - Parking Clients",
+    "address": "Avenue des Touches - Pacé",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IKEA - Rennes - Parking PMR",
+    "address": "14 ZAC Rive-Ouest, Avenue des Touches - Pacé",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - 4001 Rue de la Belle Épine - Vezin-le-Coquet",
+    "address": "4001 Rue de la Belle Épine - Vezin-le-Coquet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SuperU - ZeborneMS - 450 Avenue des Lots Za - L'Hermitage",
+    "address": "60 Rue de Rennes - L'Hermitage",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 29 Rue de la Marebaudière - Saint-Grégoire",
+    "address": "29 Rue de la Marebaudière - Saint-Grégoire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "GARAGE DE LA BECASSIERE",
+    "address": "10 Boulevard d'Émeraude - Montgermont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

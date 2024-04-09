@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Auberge de la Tour hotel (Tesla et autres)",
+    "address": "Place de la fontaine - Marcolès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alize - Avenue de l'Oeuvre Louis Conlombant - Montsalvy",
+    "address": "6 Av De l'Oeuvre Louis Conlombant - Montsalvy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auberge La Tomette - Vitrac",
+    "address": "D66 Le Bourg - Vitrac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes du Cayla",
+    "address": "5 Rue Du Cayla - Leynhac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - CANTAL REPROGRAPHIE - Ytrac",
+    "address": "Rue Ambroise Paré - Ytrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Carrefour ZAC La Sablière - Aurillac",
+    "address": "ZAC La Sablière, RN122 - Aurillac",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 14 Avenue Du Garric - Aurillac",
+    "address": "14 Avenue du Garric - Aurillac",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - 4 Allée des Coudercs - Saint-Mamet-la-Salvetat",
+    "address": "4 Allée des Coudercs - Saint-Mamet-la-Salvetat",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6609045",
+    "address": "2 Impasse Blaise Pascal - Aurillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au Bureau - Aurillac",
+    "address": "2 Rue Félix Daguerre - Aurillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

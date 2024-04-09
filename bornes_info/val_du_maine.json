@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Ballée TE53 - La Chardronnière",
+    "address": "4 La Chardronnière - Ballée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue des Grottes - Saulges",
+    "address": "3 Rue des Grottes - Saulges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de Sablé, 10 - Bouessay",
+    "address": "10 Rue de Sablé - Bouessay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place de la Poste, 6 - Meslay-du-Maine",
+    "address": "6 Place de la Poste - Meslay-du-Maine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE53 - Place de la Mairie - Grez-en-Bouère",
+    "address": "Place de la Mairie - Grez-en-Bouère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Meslay du Maine",
+    "address": "Rue de laval - Meslay du maine",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Elec eau - De la petite vitesse",
+    "address": "47 De la petite vitesse - Sable sur sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A81 Aire de la vallée de l'Evre (direction Le Mans)",
+    "address": "53270 L'Armoricaine - Thorigné-en-Charnie",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - Gare de Sablé-sur-Sarthe",
+    "address": "26 Place de la Gare - Sablé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - 594 Route des Groscollières - Sablé-sur-Sarthe",
+    "address": "594 Route des Groscollières - Sablé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEGE27 - Place Carnot",
+    "address": "21 Boulevard Jean Pothin - Beaumont-le-Roger",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borneco - Éléphant Bleu - Beaumont-le-Roger",
+    "address": "13 Route de Bernay - Beaumont-le-Roger",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Rue Max Carpentier - Serquigny",
+    "address": "4 Rue Max Carpentier - Serquigny",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Mesnil-en-Ouche",
+    "address": "Rue Gustave Mée - Mesnil-en-Ouche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEGE27 - Route de la Barre - Mesnil-en-Ouche",
+    "address": "11 Route de la Barre - Mesnil-en-Ouche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - RD 613 - Carrefour de Malbrouck - Carsix",
+    "address": "RD 613 - Carrefour de Malbrouck - Carsix",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge -Inter-Hotel Acadine - Le Neubourg",
+    "address": "13 Route de Conches - Le Neubourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Relais Routier D613",
+    "address": "Malbrouck - Nassandres",
+    "connectors": [
+      "x19",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - McDonald’s - Le Neubourg",
+    "address": "37 Avenue de la Libération - Le Neubourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Route Du Tilleul - Sainte-Colombe-la-Commanderie",
+    "address": "2bis Route Du Tilleul - Sainte-Colombe-la-Commanderie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

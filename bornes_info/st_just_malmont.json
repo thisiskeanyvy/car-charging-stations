@@ -1,0 +1,130 @@
+[
+  {
+    "title": "eBorn - Parking des APG 39-45 - Saint-Just-Malmont",
+    "address": "4 Rue de Firminy - Saint-Just-Malmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Firminy - Intermarché",
+    "address": "12 Rue de Chazeau - Firminy",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL (Mobiloire) - 6 Le Bourg - Saint-Romain-les-Atheux",
+    "address": "6 Le Bourg - Saint-Romain-les-Atheux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Mairie de Saint-Didier-En-Velay",
+    "address": "Parking Boulevard Frederic Boulet - Saint-Didier-En-Velay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "St Etienne Métropole - Rue de Chazeau - Firminy",
+    "address": "Rue de Chazeau - Firminy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "St Etienne Métropole - 16 Chemin de Sous-Marquant - Firminy",
+    "address": "16 Chemin de Sous-Marquant - Firminy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Leclerc - Firminy",
+    "address": "12 Impasse des Artisans - Firminy",
+    "connectors": [
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GENESIENNE - Le Chambon-Feugerolles (Privé)",
+    "address": "Allée André Marie Ampère - Le Chambon-Feugerolles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare SNCF - Firminy",
+    "address": "Avenue de la Gare - Firminy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Place du Champ de Mars - Firminy",
+    "address": "Place du Champ de Mars - Firminy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Révéo - Place René Cassin - Valras-Plage",
+    "address": "Place René Cassin - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "E-Bike - Shell-Recharge - Allée Charles de Gaulle - Valras-Plage",
+    "address": "2 Allée Charles de Gaulle - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réveo - Valras-Plage - Parking Magrou",
+    "address": "2 Boulevard du Onze Novembre - Valras-Plage",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Parking Lilly Passeur - Valras-Plage (privée)",
+    "address": "Boulevard Jean Dauga - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Camping Siblu Les Sables du Midi - Valras-Plage",
+    "address": "10 Rue du Group Salat - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E-bike - Parking du Ponant",
+    "address": "172 Avenue du casino - Valras-Plage",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Parking Ponant - Valras-Plage",
+    "address": "172 Avenue du Casino - Valras-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Sérignan",
+    "address": "740 Avenue Edgar Faure - Sérignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Camping La Plage et Bord de Mer - Vendres",
+    "address": "Avenue de la Méditerranée - Vendres",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping la Yole - Avenue de la Méditerranée - Vendres",
+    "address": "Avenue de la Méditerranée - Vendres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

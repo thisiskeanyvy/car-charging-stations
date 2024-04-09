@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Moulin des Landes",
+    "address": "10 Rue Aristide Briand - Vernou-sur-Brenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Vernou-sur-Brenne",
+    "address": "25 Rue du Professeur Debré - Vernou-sur-Brenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Avenue Maginot - Vouvray",
+    "address": "2 Avenue Maginot - Vouvray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Tours Val de Loire (direction Blois)",
+    "address": "A10 - AIRE TOURS VAL DE LOIRE - MONNAIE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A10 - Aire de Tours-La Longue Vue (direction Tours)",
+    "address": "A10 - Monnaie",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ulys - Vinci - A10 - L'Aquitaine (Nord",
+    "address": "L'Aquitaine - Monnaie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sieil37 - Noizay",
+    "address": "46 Rue de la République - Noizay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Noizay",
+    "address": "Rue Victor Hugo - Noizay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Parçay Meslay - Place de l'Eglise",
+    "address": "3 Place de l'Église - Parçay-Meslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Clos du Roc",
+    "address": "4 Quai de la Loire - Montlouis-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

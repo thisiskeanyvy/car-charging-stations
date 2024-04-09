@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Place de l'Hôtel de Ville - Bouc-Bel-Air",
+    "address": "8 Avenue du Général de Gaulle - Bouc-Bel-Air",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Lotissement des Acacias - Bouc-Bel-Air",
+    "address": "Lotissement des Acacias - Bouc-Bel-Air",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Qovoltis - Bouc-Bel-Air - Suite Home d'Aix en Provence Sud",
+    "address": "184 Route de Calas Suite Home d'Aix en Provence Sudd - Bouc-Bel-Air",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - 643 Boulevard Montesquieu - Bouc-Bel-Air",
+    "address": "643 Boulevard Montesquieu - Bouc-Bel-Air",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Avenue de Violési - Bouc-Bel-air",
+    "address": "687 Avenue de Violési - Bouc-Bel-air",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-Vadea - A51 Aire de la Champouse (direction Marseille)",
+    "address": "A51 - Bouc-Bel-Air",
+    "connectors": [
+      "x12",
+      "x7",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire des Chabauds (direction Aix en Provence)",
+    "address": "1376 Rond-Point Hrant Dink - Bouc-Bel-Air",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Gardanne",
+    "address": "Route départementale D60 - Gardanne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aix-en-Provence - Gagneraud (Privé)",
+    "address": "600 Route De Marseille - Aix-en-Provence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RTE - GMR Provence Alpes du Sud (Employés uniquement)",
+    "address": "251 Rue Louis Lépine - Bouc-Bel-Air",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

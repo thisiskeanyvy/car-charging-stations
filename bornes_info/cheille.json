@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Auberge Pom'Poire",
+    "address": "21 Route de Valleres - Azay-le-Rideau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rivarennes - Parking",
+    "address": "Allée des Prés Sillauts - Rivarennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Adolphe Langlois",
+    "address": "Place Adolphe Langlois - Lignières-de-Touraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Naturel Régional Loire-Anjou-Touraine",
+    "address": "13 Avenue Adélaïde Riché - Azay-le-Rideau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue Creuse - Cheillé",
+    "address": "8 Rue Creuse - Cheillé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo - Impasse Adelaide Riche",
+    "address": "4 Impasse Adelaide Riche - Azay-le-Rideau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - parking du château - Azay-le-Rideau",
+    "address": "1209 Le Château - Azay-le-Rideau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargeGuru - Hôtel des Châteaux - 2 Route de Villandry - Azay-le-Rideau",
+    "address": "2 Route de Villandry - Azay-le-Rideau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel des Châteaux - Azay-le-Rideau (Tesla and others)",
+    "address": "2 Route de Villandry - Azay-le-Rideau",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Azay-le-Rideau - Grand Frais",
+    "address": "1 Bis Chem. de Jeanne d'Arc, 37190 Azay-le-Ri - Azay-le-Rideau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

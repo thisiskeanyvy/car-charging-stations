@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Centre Leclerc - Landerneau",
+    "address": "46 Route du Quinquis Leck - Landerneau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - N12 Aire de covoiturage Saint Eloi - Ploudaniel",
+    "address": "Rest - Ploudaniel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Rue des Écoles - La Roche-Maurice",
+    "address": "1 Rue des Écoles - La Roche-Maurice",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Gare de Landerneau",
+    "address": "Rue de la Fontaine Blanche - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rue de la Tour d'Auvergne - Landerneau",
+    "address": "2 Rue de la Tour d'Auvergne - Landerneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Quai de Léon - Landerneau",
+    "address": "30 Quai de Léon - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Plounéventer (Place de la Liberté)",
+    "address": "6 Place de la Liberté - Plounéventer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Landerneau (Le Calvaire St Ernel)",
+    "address": "4 Rue Saint-Ernel - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Ploudaniel",
+    "address": "5 Kerneyen - Ploudaniel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ploudaniel Saint-Eloi",
+    "address": "Le REst - Ploudaniel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

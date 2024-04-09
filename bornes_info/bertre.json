@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - E.Leclerc - Château-du-Loir",
+    "address": "47 Rue Nationale - Château-du-Loir",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bricomarché",
+    "address": "15 Montval sur Loir - Montval sur Loir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Gascheau - Luceau",
+    "address": "Le Gascheau - Luceau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - A28 Aire de Sarthe-Touraine (double-sens)",
+    "address": "A28, Aire de Sarthe-Touraine - Dissay-sous-Courcillon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "SGA Automation - La Chartre-sur-le-Loir - 21 Avenue des Déportés",
+    "address": "21 Avenue des Déportés - La Chartre-sur-le-Loir",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sieil - Villebourg",
+    "address": "Place de la mairie - Villebourg",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - St Aubin le Depeint",
+    "address": "19 Rue Principale - Saint-Aubin-le-Dépeint",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat de développement économique du Sud Sarthe",
+    "address": "1 Loirecopark 1 - Vaas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Saint-Christophe-sur-le-Nais",
+    "address": "Place Jehan d'Alluye - Saint-Christophe-sur-le-Nais",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv'nGo Marigné-Laillé",
+    "address": "6 Rue Charles Douglas - Marigné-Laillé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

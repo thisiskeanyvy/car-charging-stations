@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDES73 - Maurice Herzog - Mery",
+    "address": "101 Rue Maurice Herzog - Mery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Drumettaz-Clarafond - Leclerc",
+    "address": "214 Chemin de la Boisière - Drumettaz-Clarafond",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Drumettaz-Clarafond",
+    "address": "117 Allée des Erables - Drumettaz-Clarafond",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Drumettaz-Clarafond - Entrepôt du Bricolage",
+    "address": "650 Route des Vernes - Drumettaz-Clarafond",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "l'entrepôt du bricolage",
+    "address": "214 Chemin de la Boisière - Drumettaz-Clarafond",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt - Aéroport de Voglans",
+    "address": "260 Route de l'Aéroport - Voglans",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SoWatt Solutions - 95 Avenue du Golf - Aix-les-Bains",
+    "address": "95 Avenue du Golf - Aix-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps - 1136 Route du Chef- Lieu - Drumettaz-Clarafond",
+    "address": "1136 Route du Chef- Lieu - Drumettaz-Clarafond",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel L'incomparable - Tresserve (Porsche)",
+    "address": "70 Chemin de Belledonne - Tresserve",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Avenue du Lac Léman La Bourget du Lac",
+    "address": "1 Avenue du Lac Léman - Le Bourget-du-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

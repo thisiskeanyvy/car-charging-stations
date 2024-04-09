@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MobiSDEC - MERVILLE FRANCEVILLE PLAGE (Avenue des Dunes)",
+    "address": "14 Avenue des Dunes - Merville-Franceville-Plage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Place du Général de Gaulle",
+    "address": "5-6 Place du Général de Gaulle - Ouistreham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "92 Avenue Général Leclerc",
+    "address": "92 Avenue Général Leclerc - Ouistreham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Ouistreham (Avenue du Maréchal Foch)",
+    "address": "94 Avenue du Maréchal Foch - Ouistreham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Ouistreham (Place Alfred Thomas)",
+    "address": "5 Place Alfred Thomas - Ouistreham",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Greenspot - Thalazur - Boulevard Commandant Kieffer - Ouistreham",
+    "address": "Boulevard Commandant Kieffer - Ouistreham",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Ouistreham",
+    "address": "26 Rue Charles Baudelaire - Ouistreham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "P-14150",
+    "address": "- Ouistreham",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Ouistreham",
+    "address": "Rue de Caen - Ouistreham",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Cabourg",
+    "address": "29 Rue Rollon - Cabourg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

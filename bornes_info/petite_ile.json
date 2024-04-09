@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEYMABORNE - 10 Avenue de la gare - Juziers",
+    "address": "10 Avenue de la gare - Juziers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Impasse des Tennis Juziers",
+    "address": "1 Impasse des Tennis - Juziers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Usine Renault Flins - parking visiteur",
+    "address": "Cours Franco Belge - Aubergenville",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Usine Renault Flins - vente au personnel",
+    "address": "Cours Franco Belge - Aubergenville",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "4 Avenue Chateaubriand",
+    "address": "4 Avenue Chateaubriand - Mézy-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone des garennes",
+    "address": "1 Rue Descartes - Les Mureaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 14 Rue des Chevries - Aubergenville",
+    "address": "14 Rue des Chevries - Aubergenville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Gare d'Aubergenville Elysabethvillle",
+    "address": "2 Place François Mitterrand - Aubergenville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zone commerciale des meriels",
+    "address": "Route Départementale 14 - Flins-sur-Seine",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour - Flins sur Seine",
+    "address": "Chemin départemental_14, route Renault_BP 8 - Flins sur Seine",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

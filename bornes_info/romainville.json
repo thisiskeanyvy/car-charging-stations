@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Metropolis du Grand Paris",
+    "address": "9 Avenue Paul Vaillant Couturier - Romainville",
+    "connectors": [],
+    "types": [],
+    "reputation": 1
+  },
+  {
+    "title": "Metropolis Recharge - 9 Rue Jean Jaurès - Romainville",
+    "address": "9 Rue Jean Jaurès - Romainville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Campus - Rue de la Résistance (Privé)",
+    "address": "Rue de la Résistance - Les Lilas",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 12 Rue Marcel Ethis - Romainville",
+    "address": "12 Rue Marcel Ethis - Romainville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Metropolis Recharge - 45 Rue de la Commune de Paris - Romainville",
+    "address": "45 Rue de la Commune de Paris - Romainville",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 215 Rue Sadi Carnot - Bagnolet",
+    "address": "215 Rue Sadi Carnot - Bagnolet",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - 17 Rue Léon Renault - Les Lilas",
+    "address": "17 Rue Léon Renault - Les Lilas",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Paddock Paris - Avenue Gaston Roussel",
+    "address": "52 Avenue Gaston Roussel - Romainville",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Borne Bleue - Avenue Anatole France - Pantin",
+    "address": "Avenue Anatole France - Pantin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bagnolet | Rue des Rigondes 77",
+    "address": "77 Rue des Rigondes - Bagnolet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

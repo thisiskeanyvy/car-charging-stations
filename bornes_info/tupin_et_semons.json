@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SYDER - Route de Lyon - Tupin-et-Semons",
+    "address": "24 Route de Lyon - Tupin-et-Semons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de la Mairie - Tupin-et-Semons",
+    "address": "70 Rue de la Mairie - Tupin-et-Semons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue des Platanes - Ampuis",
+    "address": "4 Rue des Platanes - Ampuis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Reventin-Vaugris",
+    "address": "333 Chemin de Halage - Reventin-Vaugris",
+    "connectors": [
+      "x3",
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 160 Chemin de Halage - Reventin-Vaugris",
+    "address": "160 Chemin de Halage - Reventin-Vaugris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue du Stade - Ampuis",
+    "address": "Rue du Stade - Ampuis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - 12 Chem. du Camping, - Condrieu",
+    "address": "12 Chem. du Camping, - Condrieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reventin-Vaugris | Route du Barrage 372",
+    "address": "372 Route du Barrage - Reventin-Vaugris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de l'Industrie - Condrieu",
+    "address": "Rue de l'Industrie - Condrieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - 766 Chemin des Petrières - Reventin-Vaugris",
+    "address": "766 Chem des Petrieres - Reventin-Vaugris",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

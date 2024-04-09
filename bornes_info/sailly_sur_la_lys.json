@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Pass Pass - Rue de la Lys - Sailly-sur-la-Lys",
+    "address": "1056 Rue de la Lys - Sailly-sur-la-Lys",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Gorgue, La Ceriseraie",
+    "address": "2647 Rue Des Monts - La Gorgue",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pass Pass - CCFL",
+    "address": "2 Rue de la Lys - La Gorgue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Hôtel de Ville de Laventie",
+    "address": "1 Place du 8 mai - Laventie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Fleurbaix | Rue du Pont Gave",
+    "address": "Rue du Pont Gave - Fleurbaix",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Fleurbaix",
+    "address": "10 Rue du Quesne - Fleurbaix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Intermarché - La Gorgue",
+    "address": "28 Avenue des Aulnes - La Gorgue",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*H14 - Le Doulieu - 331 Grand Rue",
+    "address": "331 Grand Rue - Le Doulieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "6 Rue du Mortier",
+    "address": "6 Rue du Mortier - Steenwerck",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Gamm Vert - Estaires",
+    "address": "41 Rue Jacqueminemars - Estaires",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

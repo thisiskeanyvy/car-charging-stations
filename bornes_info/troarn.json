@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MobiSDEC - Rue des Charrons - Sannerville",
+    "address": "2 Rue des Charrons - Sannerville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Rue de la Petite Justice",
+    "address": "8 Rue de la Petite Justice - Bavent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue de Sanerville",
+    "address": "4 Rue De Sannerville - Cuverville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Démouville - Rue Gutenberg ZA Le Grand Champs",
+    "address": "Rue Gutenberg ZA Le Grand Champs - Démouville",
+    "connectors": [
+      "x5",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Rue Gueritot - Argences",
+    "address": "Rue Gueritot - Argences",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Rue du Cimetiere",
+    "address": "18 Impasse des Sorbiers - Démouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mobisdec - Allée Saint Germain - Cagny",
+    "address": "Allée Saint Germain - Cagny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Route de Paris - Bellengreville",
+    "address": "Route de Paris - Bellengreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A13 Aire de Giberville-Nord (direction Caen)",
+    "address": "0 A13 - Démouville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centrakor - Rue Georges Lemesle (Privé)",
+    "address": "3 Rue Georges Lemesle - Argences",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

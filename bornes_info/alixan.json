@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDED - Parc Colombet - Alixan",
+    "address": "2 Avenue du Vivarais - Alixan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "25 Rue Traversière",
+    "address": "25 Rue Traversière - Alixan",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Comptoir 532 - Alixan",
+    "address": "330 rue nouvelle Aire des Marlhes - Alixan",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - N532 - Aire de Bayanne (double sens)",
+    "address": "60 Rue des Marguerites - Alixan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue des Violettes - Aire de Bayanne - Alixan",
+    "address": "Rue des Violettes - Alixan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Alixan - Parking Gare de Valence TGV P1 Alpes",
+    "address": "Lieu-dit la Correspondance GARE VALENCE TGV - Alixan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Parking du Prieuré",
+    "address": "1 Rue du Prieuré - Bésayes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - RD538-Rue des Préalpes - Montélier",
+    "address": "Rue des Préalpes - Montélier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Lieu-dit la Correspondance P1 - Alixan",
+    "address": "Lieu-dit la Correspondance - Alixan",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Gare TGV - Valence",
+    "address": "1 Avenue de la Gare - Alixan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

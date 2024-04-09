@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Indigo - 1 Avenue du Général Lemonnier - Paris",
+    "address": "1 Avenue du Général Lemonnier - Paris",
+    "connectors": [
+      "x37"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 35 rue du Bac 75007 Paris",
+    "address": "35 Rue du Bac - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Saemes - rue de Montalembert - Paris",
+    "address": "rue de Montalembert - Paris",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 42 Rue du Bac Paris",
+    "address": "42 rue du Bac - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci Bac Montalembert",
+    "address": "9 Rue Montalembert - Paris",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 6-10 Rue de Bellechasse - Paris",
+    "address": "6-10 Rue de Bellechasse - Paris",
+    "connectors": [
+      "x5",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 188 Boulevard Saint-Germain - Paris",
+    "address": "188 Boulevard Saint-Germain - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Indigo - 169 Boulevard Saint-Germain - Paris",
+    "address": "169 Boulevard Saint-Germain - Paris",
+    "connectors": [
+      "x9",
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 4 Saint Roch - Paris",
+    "address": "4 Saint Roch - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - Rue Jacques Callot - Paris",
+    "address": "Rue Jacques Callot - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Paris-Saclay mobiélectrique - Rue de l'Étape - Saint-Aubin",
+    "address": "21 Rue de l'Étape - Saint-Aubin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Cea - Villiers-le-Bâcle",
+    "address": "D36 - Villiers-le-Bâcle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Place du 19 Mars 1962 - Magny-les-Hameaux",
+    "address": "Place du 19 Mars 1962 - Magny-les-Hameaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "CEA - Saclay SUPPRIMÉ PAR PROPRIO",
+    "address": "- Saclay",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Synchrotron Soleil - Parking visiteurs",
+    "address": "Rue de l'Orme - Saint-Aubin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "5 Place du Maréchal Leclerc de Hauteclocque",
+    "address": "5 Place du Maréchal Leclerc de Hauteclocque - Toussus-le-Noble",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Avenue de la Terrasse - Gif-sur-Yvette",
+    "address": "1 Avenue de la Terrasse - Gif-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Magny les Hx - Gymnase Mauduit",
+    "address": "43 Rue André Hodebourg - Magny-les-Hameaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Toussus-le-Noble - Rue Robert Esnault Pelterie",
+    "address": "Rue Robert Esnault Pelterie - Toussus-le-Noble",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking CNRS - Gif-sur-Yvette",
+    "address": "Avenue de la Terrasse - Gif-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

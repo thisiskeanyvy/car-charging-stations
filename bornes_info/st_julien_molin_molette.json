@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hotel du lac - Savas (Tesla et autres)",
+    "address": "Le Ternay - Savas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Maclas - Lotissement Landy",
+    "address": "Lotissement Landy - Maclas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pharmacie - Maclas",
+    "address": "124 Place de l'Église - Maclas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IVECO BUS",
+    "address": "25 Avenue Ferdinand Janvier - Annonay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Golf Saint-Clair",
+    "address": "231 Route du Golf - Saint-Clair",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "L'auberge du tremplin",
+    "address": "619 Chemin du tremplin - Le Bessat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gedimat - Davézieux",
+    "address": "Le Mas Ouest - Davézieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PowerDot - Mr Bricolage - Davézieux",
+    "address": "149 Le Mas Ouest - Davézieux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Davezieux",
+    "address": "1479 Route de Lyon - Davézieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Route de l'egalite - Peaugres",
+    "address": "Route de l'Egalité - Peaugres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

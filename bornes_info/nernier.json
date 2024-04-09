@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hotel villa cecile",
+    "address": "156 Route de Messery - Yvoire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Chemin de Feycler - Yvoire",
+    "address": "244 Chemin de Feycler - Yvoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Avenue de la Plage Excenevex",
+    "address": "10 Avenue de la Plage - Excenevex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eCarUp - La Barcarolle - Prangins",
+    "address": "8 Rte de Promenthoux - Prangins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Débarcadère à Rive - Nyon",
+    "address": "Débarcadère à Rive - Nyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Parking de Rive Nyon",
+    "address": "6 Parking de Rive - Nyon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Green Motion - Nyon Quai des Alpes",
+    "address": "2 Quai des Alpes - Nyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion - Parking de la Duche",
+    "address": "26-28 Rue de Rive - Nyon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Rue du Léman - Chens-sur-Léman",
+    "address": "1016 Rue du Léman - Chens-sur-Léman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Green Motion - Parking Petit Perdtemps",
+    "address": "Parking Petit Perdtemps - Nyon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 0
+  }
+]

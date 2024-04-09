@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MobiSDEC - SOMMERVIEU (Rue Saint Pierre)",
+    "address": "25 Rue Saint-Pierre - Sommervieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Volkswagen-Suzuki - Bayeux",
+    "address": "1 Rue de Saint-Sulpice - Saint-Vigor-le-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Parking Saint-Martin-des-Entrées",
+    "address": "2 Rue Claude Monet - Saint-Martin-des-Entrées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Saint-Vigor-le-Grand",
+    "address": "11 Route d'Esquay-sur-Seulles - Saint-Vigor-le-Grand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Rue Michel de Montaigne - Saint-Martin-des-Entrées",
+    "address": "Rue Michel de Montaigne - Saint-Martin-des-Entrées",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Saint-Vigor-le-Grand",
+    "address": "9B Route d'Esquay sur Seulles - Saint-Vigor-le-Grand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 10 Rte de Caen - Bayeux INEXISTANT",
+    "address": "10 Rte de Caen - Bayeux",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecopi - Château Bellefontaine - Bayeux",
+    "address": "49 Rue de Bellefontaine - Bayeux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Last Mile Solutions - Hôtel du Lion d'Or - Bayeux",
+    "address": "71 Rue Saint-Jean - Bayeux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Bayeux",
+    "address": "7 Rue de Vaux-sur-Aure - Bayeux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

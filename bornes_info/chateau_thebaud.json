@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Station Château Thébaud",
+    "address": "Rue Saint-Thomas - Château-Thébaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Station La Haie Fouassière",
+    "address": "Rue de l'Étang - La Haie-Fouassière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ouest Charge - Maisdon sur sèvre",
+    "address": "27 Rue de la Mairie - Maisdon-sur-Sèvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Aigrefeuille sur Maine",
+    "address": "13A Rue du Friche Audouin - Aigrefeuille-sur-Maine",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Rue de la Filée, 1 - Aigrefeuille-sur-Maine",
+    "address": "1 Rue de la Filée - Aigrefeuille-sur-Maine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - La Haie-Fouassière - CR Elec",
+    "address": "6 Rue Du Pâtis - La Haie-Fouassière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO - Aigrefeuille-sur-Maine",
+    "address": "Avenue de la Vendée - Aigrefeuille-sur-Maine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - Les Jardins de la Touche - Le Bignon",
+    "address": "3 Les Jardins de la Touche - Le Bignon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - LE PALLET",
+    "address": "3 Rue Etienne Sautejeau - Le Pallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Couvreurs de l'Atlantique",
+    "address": "7 Rue de la Communauté - Le Bignon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  }
+]

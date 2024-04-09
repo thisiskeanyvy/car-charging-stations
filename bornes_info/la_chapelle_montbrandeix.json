@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEHV - Marval - D15 Salle polyvalente André Marcillaud",
+    "address": "D15 Salle polyvalente André Marcillaud - Marval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cussac centre - Rue du 8 Mai 1945",
+    "address": "17 Rue du 8 Mai 1945 - Cussac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bricomarche, 30 Rue de Saint-Mathieu",
+    "address": "30 Rue de Saint-Mathieu - Cussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - U Express - Oradour-sur-Vayres",
+    "address": "1 Rue Jean Segurel - Oradour-sur-Vayres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEHV - Place Salvador Allende - Chalus",
+    "address": "21 Place Salvador Allende - Chalus",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps - 41 Avenue François Mitterrand - Chalus",
+    "address": "41 Avenue François Mitterrand - Chalus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Chalus",
+    "address": "Grande Rue 654 Ouest - Châlus",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chateau Le Verdoyer",
+    "address": "d96 - Champs Romain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "hostellerie.st.jacques",
+    "address": "10 du grand étang - saint saud la coussiere",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Saint-Saud-Lacoussière - Place du Champ de Foire",
+    "address": "12 Place de la Résistance - Saint-Saud-Lacoussière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

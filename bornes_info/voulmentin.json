@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Chambres d'hôtes La Coudrière",
+    "address": "2 Rue des Coudriers - Argentonnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau AlterBase - Nueil les aubiers - Place Colun",
+    "address": "7 Rue Hilaire Roy - Nueil-les-Aubiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Séolis - Nueil-les-Aubiers - Espace Belle Arrivée",
+    "address": "54 Avenue Saint-Hubert - Nueil-les-Aubiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Peugeot - Avenue du Général de Gaulle (Privé)",
+    "address": "25 Avenue du Général de Gaulle - Argenton-les-Vallées",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Argentonnay - Supérette",
+    "address": "45 Rue Camille Jouffrault - Argenton-les-Vallées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Alterbase Séolis - CC Pont d'Ouit - Bressuire",
+    "address": "7bis Rue du Pont d'Ouit - Bressuire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "AlterBase Séolis - Espace Bocapole - Bressuire",
+    "address": "2 Espace Bocapole - Bressuire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Alpha Parc Ouest, route de Nantes - Bressuire (Privé)",
+    "address": "Alpha Parc Ouest, route de Nantes - Bressuire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - Bressuire - 22kW AC G",
+    "address": "Rue de l'Aliette - Bressuire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Alpha Parc Ouest, route de Nantes - Bressuire. (Privé)",
+    "address": "Alpha Parc Ouest, route de Nantes - Bressuire",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

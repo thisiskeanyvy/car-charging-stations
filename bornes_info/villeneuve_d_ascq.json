@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Econocom - Villeneuve-d'Ascq",
+    "address": "77 Boulevard Van Gogh - Villeneuve-d'Ascq",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Auchan CC Héron Parc - Villeneuve-d'Ascq",
+    "address": "1 Rue du Vaisseau CC Héron Parc - Villeneuve-d'Ascq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "R3 - Norauto - Villeneuve-d'Ascq",
+    "address": "117 Boulevard de Valmy - Villeneuve-d'Ascq",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "VALAD Parc",
+    "address": "51 Rue Trémière - Villeneuve-d'Ascq",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Darty - 141 Boulevard de Valmy - Villeneuve-d'Ascq",
+    "address": "141 Boulevard de Valmy - Villeneuve-d'Ascq",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WATTPARK - Villeneuve dacsq",
+    "address": "7 Rue De versaille - Villeneuve dacsq",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Rue du Vaisseau - Villeneuve-d'Ascq",
+    "address": "1 1 Rue du Vaisseau - Villeneuve-d'Ascq",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking A3 (Terrasse) - Boulevard de Tournai - Villeneuve-d'Ascq",
+    "address": "211 Boulevard de Tournai - Villeneuve-d'Ascq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Héron Bornes 7 à 12 - Rue du Vaisseau - Villeneuve-d'Ascq",
+    "address": "10 Rue du Vaisseau - Villeneuve-d'Ascq",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Héron Parc - Nx chargeurs (#1 à #6) - Avenue de l'Avenir - Villeneuve-d'Ascq",
+    "address": "Avenue de l'Avenir - Villeneuve-d'Ascq",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  }
+]

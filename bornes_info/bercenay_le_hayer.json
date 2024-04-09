@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEY - Rue de la Forêt de Lancy",
+    "address": "41 Rue de la Forêt de Lancy - Saint-Maurice-aux-Riches-Hommes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue de la Libération Avon-la-Pèze",
+    "address": "1 Rue de la Libération - Avon-la-Pèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place des déportés Courgenay",
+    "address": "22 Place des Déportés - Courgenay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue de la Liberté - Palis",
+    "address": "2 Rue de la Liberté - Palis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue Saint-Martin Faux-Villecerf",
+    "address": "Rue Saint-Martin - Faux-Villecerf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A5 Aire de Villeneuse Vauluisant (direction Paris)",
+    "address": "A5, Aire de Villeneuse Vauluisant - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A5 Aire de Villeneuve l'Archevêque (direction Langres)",
+    "address": "A5 - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vulaines, Halte des Joncs",
+    "address": "Rue Zae Les Joncs - Vulaines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 18 Route de Nogent - Ferreux-Quincey",
+    "address": "18 Route de Nogent - Ferreux-Quincey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - Carrefour Contact - Villeneuve-l'Archevêque",
+    "address": "1 Avenue de la Gare - Villeneuve-l'Archevêque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

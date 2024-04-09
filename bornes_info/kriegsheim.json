@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Hôtel Restaurant Au Boeuf Rouge (Tesla and others)",
+    "address": "39 Rue du Général de Gaulle - Niederschaeffolsheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue André Malraux - Brumath",
+    "address": "29 Rue André Malraux - Brumath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Monta - Bax Bowling - Brumath",
+    "address": "21 Rue de l'Industrie - Brumath",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Rue du Château - Brumath",
+    "address": "Rue du Château - Brumath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Brumath - Crédit Agricole",
+    "address": "8 Rue du Général de Gaulle - Brumath",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Bernolsheim - Super U",
+    "address": "20 Route de Brumath - Bernolsheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - Bernolsheim",
+    "address": "Route de Brumath - Bernolsheim",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Place Victor Fischer - Brumath",
+    "address": "Place Victor Fischer - Brumath",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ÉS/ GARE DE BRUMATH",
+    "address": "16 Rue de la Gare - Brumath",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Atolon Park Hôtel - Bernolsheim",
+    "address": "5 Rue d'Oslo - Bernolsheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

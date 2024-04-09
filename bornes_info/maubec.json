@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Vauclus'Elec (SEV84) - Maubec - Parking Rue du Grenache",
+    "address": "178 Rue du Grenache - Maubec",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint - Super U - Maubec",
+    "address": "127 Avenue du Tourail - Maubec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "LUMI'IN/62c4045c880537c6f89a8907",
+    "address": "Route d'Avignon - Robion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAS LG Services Electricité - Cabrières-d'Avignon (Privé)",
+    "address": "1643 Route de Coustellet - Cabrières-d'Avignon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DOMAINE LA GARELLE - Vins du Luberon",
+    "address": "4803 Route de Menerbes - Oppède",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Les Roullets",
+    "address": "305A chemin de Fontdrèche - Oppède",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine La Garelle",
+    "address": "4803 Route de Menerbes - Ménerbes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - 500 Route de Robion - Taillades",
+    "address": "500 Route de Robion - Taillades",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Chemin des Ecoliers - CABRIERES-D'AVIGNON",
+    "address": "159 Chemin Des Ecoliers - Cabrières-d'Avignon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Avenue des Taillades - Cavaillon",
+    "address": "117 Avenue des Taillades - Cavaillon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

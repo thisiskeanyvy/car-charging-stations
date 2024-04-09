@@ -1,0 +1,130 @@
+[
+  {
+    "title": "HOTEL Le Tanargue (Privée)",
+    "address": "Le Village - Valgorge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - Mairie de Valgorge",
+    "address": "Le Village - Valgorge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE07 (E-born) - Le Village Sablières",
+    "address": "Le Village - Sablières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "HOTEL Le Sentier des Arches (Privée)",
+    "address": "Mantigere - Beaumont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place du Chambon - Mayres",
+    "address": "Place du Chambon - Mayres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Le Village, 22 - Saint-Laurent-les-Bains",
+    "address": "22 Le Village - Saint-Laurent-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'auberge des Ranchisses",
+    "address": "La Prade - Chassiers",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place de la Crevaille - Lablachère",
+    "address": "La Jaujon - Lablachère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE07 - Le Pré du Château - Joyeuse",
+    "address": "Le Pré du Château - Joyeuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE07 (e-born) - Fabrias - Jaujac",
+    "address": "Fabrias - Jaujac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

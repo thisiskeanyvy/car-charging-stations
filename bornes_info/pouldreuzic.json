@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEF - Landudec (Place des écoles)",
+    "address": "2 Rue des Écoles - Landudec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Landudec - Super U",
+    "address": "Rue Des Écoles - Landudec",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plozévet (Place du 8 mai 1945)",
+    "address": "Place du 8 Mai 1945 - Plozévet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental d’Énergie et d’Équipement du Finistère (SDEF) - Plozévet - Impasse de la Mairie",
+    "address": "Impasse de la Mairie - Plozévet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plogastel Saint Germain (Rue de Briscoul)",
+    "address": "Rue de Briscoul - Plogastel-Saint-Germain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plonéour Lanvern (Rue René Le Berre)",
+    "address": "Rue René le Berre - Plonéour-Lanvern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Pouldergat (Venelle de Dinaou)",
+    "address": "Place de l'Eglise - Pouldergat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ploneour Lanvern - Kerhuel",
+    "address": "Kerhuel - Plonéour-Lanvern",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Office municipal de tourisme - Plouhinec",
+    "address": "Place Jean Moulin - Plouhinec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Leclerc Drive - Zone d'activité de Kerganet - Plonéour Lanvern",
+    "address": "6313F Zone d'activité de Kerganet - Plonéour-Lanvern",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

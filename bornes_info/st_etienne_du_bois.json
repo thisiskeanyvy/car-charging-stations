@@ -1,0 +1,136 @@
+[
+  {
+    "title": "INTERMARCHÉ - Chemin de la Bergaderie - Saint-Étienne-du-Bois",
+    "address": "40 Chemin de la Bergaderie - Saint-Étienne-du-Bois",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "stade treffort",
+    "address": "71 Chemin du Mas Tabouret - Val-Revermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MEA ENERGIES - 3212 Chemin de Tanvol - Viriat",
+    "address": "3212 Chemin de Tanvol - Viriat",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Champ de foire - VAL-REVERMONT",
+    "address": "11 Champ de foire - Treffort-Cuisiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 531 Route de Strasbourg - Viriat",
+    "address": "531 Route de Strasbourg - Viriat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - 1 Place de la Mairie - Viriat",
+    "address": "1 Place de la Mairie - Viriat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proviridis - Viriat - Impasse des Bois de Tharlet",
+    "address": "658 Rue Des Bois De Tharlet - Viriat",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Viriat",
+    "address": "1209 rte Marboz - Viriat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Autobernard Siège - Bourg-en-Bresse",
+    "address": "519 AV DE PARME - BOURG-EN-BRESSE",
+    "connectors": [
+      "x5",
+      "x11",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Volvo - Bourg-en-Bresse",
+    "address": "130 Rue Radior - Bourg-en-Bresse",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

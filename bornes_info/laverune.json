@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Route de Saint-Georges-d'Orques",
+    "address": "5 Rue de Perpignan - Lavérune",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell-Recharge France - Rue de Perpignan - Lavérune",
+    "address": "Rue de Perpignan - Lavérune",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Pignan",
+    "address": "Route de Montpellier - Pignan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking TaM Saint-Jean-de-Védas Centre T2 - St Jean de Vedas",
+    "address": "14 Route de Montpellier - Saint-Jean-de-Védas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "U Express - Rue de la Peyrière",
+    "address": "5 Rue de la Peyrière - Saint-Jean-de-Védas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne Legrand - Rond-Point de l'Europe - Saint-Jean-de-Védas",
+    "address": "2 Rond-Point de l'Europe - Saint-Jean-de-Védas",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pôle consultations Clinique St Jean",
+    "address": "Rond-point de l'Europe - Saint-Jean-de-Védas",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - Place de l'Europe - Saint-Jean-le-Sec",
+    "address": "9086F Place de l'Europe - Saint-Jean-de-Védas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Jean-de-Védas - Kyriad Direct",
+    "address": "Rue Robert Schuman - Saint jean de vedas",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "C.C. Les Portes du Soleil - Bio&Sens",
+    "address": "1 Allée de l'Europe - Juvignac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FM Automobiles",
+    "address": "40 Avenue de Bouchain - Lieu-Saint-Amand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Lieu-Saint-Amand (Planifié)",
+    "address": "50 Avenue De Bouchain - Lieu-Saint-Amand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Esplanade Gal Charles de Gaulle - Bouchain",
+    "address": "Esplanade Gal Charles de Gaulle - Bouchain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centrale EDF Bouchain",
+    "address": "Allée de la Vigilence - Bouchain",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sicae somme - Rue d'en Bas - Escaudœuvres",
+    "address": "23 Ter Rue d'en Bas - Escaudœuvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - ZEborneMS - 248-250 Rue Jean Jaurès - Escaudœuvres",
+    "address": "248 Rue Jean Jaurès - Escaudœuvres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Lourches",
+    "address": "32 Rue Jean Jaures - Lourches",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Escaudœuvres",
+    "address": "2 Rue Jean Jaurès - Escaudœuvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Clinique Saint Roch",
+    "address": "128 Allée Saint-Roch - Cambrai",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Cambrai",
+    "address": "98B Rue de Naves - Cambrai",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Domaine de Pages",
+    "address": "Chemin de Ronde - Beaumarchés",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Hôtel de ville de Marciac",
+    "address": "40 Place de l'Hôtel de ville - Marciac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Izivia - Route de Mirande - Marciac",
+    "address": "Route de Mirande - Marciac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "See You Sun - Super U - Marciac",
+    "address": "Route de Mirande - Marciac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Office du tourisme - Montesquiou",
+    "address": "Rue nationale - Montesquiou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place du Bataillon de l'Armagnac",
+    "address": "Rue la Fontaine - Plaisance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargeGuru - Rue de Barbat - Plaisance",
+    "address": "Rue de Barbat - Plaisance",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Mairie d'Aignan",
+    "address": "Place du Colonel Parisot - Aignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gîte Laurent Bouyssou (prise classique)",
+    "address": "Lieu dit Garbay - Margouët-Meymes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes Laurent Bouyssou (Tesla et autres)",
+    "address": "Lieu dit Garbay - Margouët-Meymes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE03 - Bessay-sur-Allier",
+    "address": "Rue René Fallet - Bessay-sur-Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE03 - Besson",
+    "address": "Place de la Mairie - Besson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Pourçain-sur-Sioule",
+    "address": "48 Route de Montmarault - Saint-Pourçain-sur-Sioule",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A79 Aire du Bourbonnais (double sens)",
+    "address": "National 7 - Toulon-sur-Allier",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Supercharger Tesla V3 - A79 Aire du Bourbonnais",
+    "address": "National 7 - Toulon sur Allier",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Cours des anciens combattants d'Afrique - Saint-Pourçain-sur-Sioule",
+    "address": "Faubourg de Paris - Saint-Pourçain-sur-Sioule",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LastMileSolutions - Hôtel du Chêne Vert - Saint-Pourçain-sur-Sioule",
+    "address": "35 Boulevard Ledru Rollin - Saint-Pourçain-sur-Sioule",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Segot - Neuilly-Le-Real",
+    "address": "2 Rue du bois de bord - Neuilly-Le-Real",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Quai de la Ronde - Saint-Pourçain-sur-Sioule",
+    "address": "1 Quai de la Ronde - Allier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Neuilly-le-Réal",
+    "address": "Place de la Mairie - Neuilly-le-Réal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

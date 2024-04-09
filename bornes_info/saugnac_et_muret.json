@@ -1,0 +1,150 @@
+[
+  {
+    "title": "AVIA - A63 - Aire de Porte des Landes-Ouest (direction Bayonne)",
+    "address": "A63 - Saugnacq-et-Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "AVIA - A63 - Aire de la Porte des Landes-Est (direction Bordeaux)",
+    "address": "A63 / E5 - Saugnacq-et-Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SYDEC - D834 Moustey",
+    "address": "D834 - Moustey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Route des Prés",
+    "address": "25 Route des Prés - Belin-Béliet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEC - Parking de covoiturage - Ychoux",
+    "address": "Place Franck Lahary - Ychoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEC - Place de la Mairie - Ychoux",
+    "address": "3 Place de la Mairie - Ychoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge France - 25 Rte du Béguey - Salles INEXISTANT",
+    "address": "25 Rte du Béguey - Salles",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour market Salles",
+    "address": "6 Route de Minoy - Salles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Place de Salles",
+    "address": "30 Rue Va aux Champs - Salles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEBorne - Super U - Parentis-en-Borne",
+    "address": "606 Avenue Brémontier - Parentis-en-Born",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

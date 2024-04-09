@@ -1,0 +1,120 @@
+[
+  {
+    "title": "ChargeGuru - BMW Auvergne Auto - Aurillac",
+    "address": "40 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - 55 Avenue Georges Pompidou - Aurillac",
+    "address": "55 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Nissan - Aurillac",
+    "address": "51 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Aurillac",
+    "address": "51 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Renault - Aurillac",
+    "address": "51 av Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Aurillac - SA GUIET",
+    "address": "49 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 2 Place de la Porte du Buis - Aurillac",
+    "address": "2 Place de la Porte du Buis - Aurillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Auréna",
+    "address": "41 Av. Georges Pompidou - Aurillac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gravier - Aurillac",
+    "address": "11 Rue des Frères - Aurillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Au Bureau - Aurillac",
+    "address": "2 Rue Félix Daguerre - Aurillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

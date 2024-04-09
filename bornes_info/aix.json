@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Parking Semepa de la Rotonde",
+    "address": "Rue Lapierre et/ ou Avenue des Belges - Aix en Provence",
+    "connectors": [
+      "x11",
+      "x11"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Hôtel Negrecoste (Tesla and Type 2)",
+    "address": "33 Cours Mirabeau - Aix-en-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mignet de la Semepa",
+    "address": "5 Avenue Malherbe - Aix-en-Provence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Cézanne (Tesla)",
+    "address": "40 Avenue Victor Hugo - Aix-en-Provence",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Cours Sextius - Aix-en-Provence",
+    "address": "26 Cours Sextius - Aix-en-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Boulevard Gustave Desplaces - Aix-en-Provence",
+    "address": "Boulevard Gustave Desplaces - Aix-en-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Cardeurs de la Semepa",
+    "address": "Rue des Muletiers - Aix-en-Provence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Aix-En-Provence - Boulevard du Roi René",
+    "address": "Boulevard du Roi René - Aix-En-Provence",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Méjanes de la Semepa",
+    "address": "Boulevard Victor Coq - Aix-en-Provence",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - Opel - Aix-en-Provence",
+    "address": "28 Boulevard de la République - Aix-en-Provence",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

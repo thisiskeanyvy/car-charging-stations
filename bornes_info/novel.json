@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Q-Park - 2 Rue Boucher - Paris",
+    "address": "2 Rue Boucher - Paris",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 1 rue de l'Amiral de Coligny 75001 Paris",
+    "address": "1 Rue de l'Amiral de Coligny - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Indigo - Paris - Parking Louvre Carrousel",
+    "address": "1 Rue de l'Amiral de Coligny - Paris",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Louvre-Samaritaine (St Germain l'Auxerrois )",
+    "address": "2 Place du Louvre - Paris-1ER-Arrondissement",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 12-14 Rue Bertin-Poirée - Paris",
+    "address": "12-14 Rue Bertin-Poirée - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Les Halles - Saint Eustache",
+    "address": "22 Rue des Halles - Paris",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 4-6 Rue Croix-des-Petits-Champs - Paris",
+    "address": "4-6 Rue Croix-des-Petits-Champs - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clem' - Paris 01 - Bourse de Commerce",
+    "address": "7 rue du Colonel Driant - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 58-60 Jean-Jacques Rousseau - Paris",
+    "address": "58-60 Jean-Jacques Rousseau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - 101 Porte Berger Forum des Halles - Paris",
+    "address": "116 Rue Rambuteau - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

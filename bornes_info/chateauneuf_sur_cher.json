@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Ecar18 - Chateauneuf sur cher - Poste",
+    "address": "62 Rue de la Chaussée - Châteauneuf-sur-Cher",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Contact Chateauneuf sur Cher",
+    "address": "Route de Levet - Châteauneuf-sur-Cher",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Place Bascoulard",
+    "address": "1 Place Bascoulard - Vallenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Mairie de Levet",
+    "address": "31 Avenue nationale - Levet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo-Energies - Uzay-le-Venon - Rue de l'Église",
+    "address": "Rue de l'Église - Uzay-le-Venon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Le Bourg - La Celle-Condé",
+    "address": "Le Bourg - La Celle-Condé",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A71 - Aire du Centre de la France (direction Bourges)",
+    "address": "144 Les Presles - Farges-Allichamps",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A71 - Aire du Centre de la France (direction Montluçon)",
+    "address": "A71 - Farges-Allichamps",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Centre ville - Chezal-Benoît",
+    "address": "Place de la Poste - Chezal-Benoît",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Saint-Florent-sur-Cher - Mairie",
+    "address": "13 Place de la République - Saint-Florent-sur-Cher",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

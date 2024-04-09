@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Mionnay - 107 Rue Principale",
+    "address": "107 Rue Principale - Mionnay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A46 - Aire de Mionnay (Direction Mâcon)",
+    "address": "E15 Rocade Est - Mionnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A46 Aire de Saint-Galmier (direction Lyon)",
+    "address": "E15 / A46 - Mionnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre village - Tramoyes",
+    "address": "80 Rue du Marquis de Sallmard - Tramoyes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Royal Kids les echets",
+    "address": "0 Chemin de Rosarge - Miribel",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Saint-André-de-Corcy",
+    "address": "306 Route de Bourg-en-Bresse - Saint-André-de-Corcy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le relais du Grand Logis",
+    "address": "- Civrieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Saint-André-de-Corcy",
+    "address": "534 Rue de l'Industrie - Saint-André-de-Corcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RSE - 30 Rue du Château",
+    "address": "30 Rue du Château - Civrieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue des Maures - Montanay",
+    "address": "Rue des Maures - Montanay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

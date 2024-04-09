@@ -1,0 +1,124 @@
+[
+  {
+    "title": "STATIONS-E - Chabrignac - Carrefour Contact",
+    "address": "Laschamps - Chabrignac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Esplanade / Place Charles De Gaulle - Objat",
+    "address": "Place de l'Esplanade - Objat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Objat",
+    "address": "avenue Raymond Poincaré, Av. Raymond Poincaré, - Objat",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Objat",
+    "address": "46 Avenue Raymond Poincaré - Objat",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEE19 - Route du Soulet - Ayen",
+    "address": "Route du Soulet - Ayen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Allassac - Intermarché",
+    "address": "Avenue du Midi - Allassac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - 4 Place Allègre - Allassac",
+    "address": "4 Place Allègre - Allassac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - 1 Place du Château",
+    "address": "1 Place du Château - Arnac-Pompadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault Labrot- Avenue du Limousin - Arnac-Pompadour",
+    "address": "14 Avenue du Limousin - Arnac-Pompadour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel - rue du Pontel - Saint-Viance",
+    "address": "25 rue du Pontel - Saint-Viance",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Place de l'Église - Ventron",
+    "address": "2 Place de l'Église - Ventron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Là-Haut & Spa",
+    "address": "2 Chemin du Haut Riant - Ventron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Passage Perrin - Cornimont",
+    "address": "2 Passage Perrin - Cornimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Rue Larcenaire - Bussang",
+    "address": "2 Rue De Larcenaire - Bussang",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "L'Angelus Hôtel Restaurant Bar",
+    "address": "20 Route de la Médelle - Saulxures-sur-Moselotte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Allée du Casino - Bussang",
+    "address": "9 Allée du Casino - Bussang",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mairie - Rue d'Alsace - Bussang",
+    "address": "2 Rue d'Alsace - Bussang",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Piscine - La Bresse",
+    "address": "2 Rue des Proyes - La Bresse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Monta - La Bresse - LES ZELLES - Siège",
+    "address": "Chemin des écorces - La Bresse",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Monta - La Bresse - LES ZELLES - Siège DOUBLON",
+    "address": "21 Chemin des Écorces - La Bresse",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

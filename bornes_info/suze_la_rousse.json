@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDED - Château de suze la rousse - parking du jardin des vignes",
+    "address": "601 Avenue des Côtes du Rhône - Suze-la-Rousse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - 490 Chemin des Asclépios - La Baume-de-Transit",
+    "address": "490 Chemin des Asclépios - La Baume-de-Transit",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Orange",
+    "address": "956 Av. Maréchal de Lattre de Tassigny, - Orange",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Rochegude",
+    "address": "Rochegude - Rochegude",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Chemin de la Garde Paréol Rochegude",
+    "address": "Chemin de la Garde Paréol - Rochegude",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vent d' Ange Chambres d'hôtes",
+    "address": "321 Chemin de Ribagnan - Sainte-Cécile-les-Vignes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Place Du Tricastin - La Baume-de-Transit",
+    "address": "Place Du Tricastin - La Baume-de-Transit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Saint-Restitut",
+    "address": "Place du Colonel Bertrand - Saint-Restitut",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Avenue Jean Jaures - Sainte Cecile les Vignes",
+    "address": "5 Avenue Jean Jaurès - Sainte-Cécile-les-Vignes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Burger King - Bollène",
+    "address": "245 Avenue Salvador Allende - Bollène",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

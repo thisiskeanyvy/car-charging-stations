@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIED70 - RN57 - La Chapelle-lès-Luxeuil",
+    "address": "1 Route Nationale 57 - La Chapelle-lès-Luxeuil",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Bricomarché - Luxeuil les bains",
+    "address": "Av. du Maréchal Turenne - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIED70 - Parking Place du 8 Mai - Luxeuil-les-bains",
+    "address": "16 Rue Marcel Bernard - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Agip luxeuil",
+    "address": "37 Rue edouard heriot - Luxeuil les bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Labienus - Luxeuil-les-Bains",
+    "address": "7 Avenue Labienus - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - Parking de Saulx - Saulx",
+    "address": "48 Grande Rue - Saulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne euro relais - Luxeuil-les-Bains",
+    "address": "8140 Rue Gambetta - Luxeuil-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Froideconche",
+    "address": "D6, Grand Pré du Relet - Froideconche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Aldi Luxeuil",
+    "address": "2 Rue Marceau - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Luxeuil-les-Bains",
+    "address": "59 Rue des Martyrs de la Résistance - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

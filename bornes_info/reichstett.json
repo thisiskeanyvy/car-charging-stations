@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Rue de Paris - Reichstett",
+    "address": "Rue de Paris - Reichstett",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "UBI Reichstett",
+    "address": "5 rue de picardie - REICHSTETT",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Shopping Promenade Cœur Alsace - Reichstett",
+    "address": "6 Boulevard des Enseignes - Reichstett",
+    "connectors": [
+      "x3",
+      "x3",
+      "x3",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Virta - Shopping Promenade Coeur Alsace (2) - Reichstett",
+    "address": "Boulevard des Enseignes - Reichstett",
+    "connectors": [
+      "x10",
+      "x16",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - D63 Shopping Promenade Coeur Alsace - Reichstett",
+    "address": "D63 Shopping Promenade Coeur Alsace - Reichstett",
+    "connectors": [
+      "x6",
+      "x10",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Parking P3 - Reichstett (privé)",
+    "address": "Boulevard des Enseignes - Reichstett",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Vendenheim",
+    "address": "Boulevard des Enseignes - Reichstett",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue de la Mairie - Souffelweyersheim",
+    "address": "Rue de la Mairie - Souffelweyersheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Virta - Parking P6 - Reichstett",
+    "address": "Boulevard des Enseignes - Reichstett",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Groupe OCI - Reichstett (privé)",
+    "address": "2 Rue Ampère - Reichstett",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

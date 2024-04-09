@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEML - LA MEMBROLLE SUR LONGUENEE - Parking Du Cimetiere",
+    "address": "Parking du Cimetière - La Membrolle sur Longuenée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Le Plessis Mace - Rue Du Bellay",
+    "address": "10 Rue du Bellay - Le Plessis-Macé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - La Meignanne - Parking Angers",
+    "address": "Rue d'Angers - La Meignanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Montreuil Juigne - Parking Jean Baptiste",
+    "address": "Rue Saint-Jean Baptiste - Montreuil-Juigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Montreuil Juigne - Parking Mairie",
+    "address": "Rue Pierre Mendès France - Montreuil-Juigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - Feneu - Rue De La Cure",
+    "address": "Rue de La Cure - Feneu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U le Lion Chargepoint",
+    "address": "1 Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 12B Rue des Frères Montgolfier - Avrillé",
+    "address": "12B Rue des Frères Montgolfier - Avrillé",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Rue du Lionnais - Grez-Neuville",
+    "address": "Rue du Lionnais - Grez-Neuville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - D768 - Aire de Covoiturage Avrillé",
+    "address": "giratoire échangeur D768-D775 (accés vers La Croix Cadeau) - Avrillé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  }
+]

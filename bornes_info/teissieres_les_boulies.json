@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Zone boulodrome",
+    "address": "11 Rue des Roses - Lacroix-Barrez",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Foirail - Rue de la Briquetterie",
+    "address": "Rue de la Briquetterie - Mur-de-Barrez",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Rue des Écoles",
+    "address": "Rue des Écoles - Mur-de-Barrez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Le Bourg Parking Salles des Fêtes",
+    "address": "Le Bourg Parking Salles des Fêtes - Brommat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Au Bureau - Aurillac",
+    "address": "2 Rue Félix Daguerre - Aurillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 8 Rue Félix Daguerre - Aurillac",
+    "address": "8 Rue Félix Daguerre - Aurillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hotel Auréna",
+    "address": "41 Av. Georges Pompidou - Aurillac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "plein ciel",
+    "address": "122 Avenue du Général Leclerc - Aurillac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "La Foir'Fouille - Georges Pompidou",
+    "address": "Georges Pompidou - Aurillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW Auvergne Auto - Aurillac",
+    "address": "40 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

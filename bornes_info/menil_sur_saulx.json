@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Modulo-Energies - Dammarie sur Saulx",
+    "address": "16 Rue au Delà du Pont - Dammarie-sur-Saulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Modulo-Energies - Montiers sur Saulx",
+    "address": "1 Rue de l Abbaye - Montiers-sur-Saulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Ligny en Barrois - Rue du Général de Gaulle",
+    "address": "114 Rue du Général de Gaulle - Ligny-en-Barrois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ligny en Barrois - Rue des Prairies",
+    "address": "1 Rue des Prairies - Ligny-en-Barrois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "E. Leclerc",
+    "address": "- Longeville-en-Barrois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Rue de la Fontaine - Chamouilley",
+    "address": "13 Rue de la Fontaine - Chamouilley",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Tréveray",
+    "address": "21 Rue Pierre de Luxembourg - Tréveray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Rue de le Marne - Chevillon",
+    "address": "Rue de le Marne - Chevillon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDED52 - 7 Avenue Jacques Marcellot - Eurville-Bienville",
+    "address": "7 Avenue Jacques Marcellot - Eurville-Bienville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Bar-le-Duc",
+    "address": "10 Avenue de la Grande Terre - Bar-le-Duc",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

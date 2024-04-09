@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Parking intermarche - Châteauvillain",
+    "address": "6 Rue des Pavillons - Châteauvillain",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking du parc aux daims",
+    "address": "Place du 24 Août 1944 - Châteauvillain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A5 Aire de Chateauvillain Val Marnay (direction Langres)",
+    "address": "A5 - Châteauvillain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargeur V2 - A5 Aire de Châteauvillain (direction Troyes)",
+    "address": "Primaule - Orges",
+    "connectors": [
+      "x6",
+      "x6",
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Châteauvillain - Orges (direction Paris)",
+    "address": "0 A5 - Orges",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A5 Aire de Chateauvillain Orges (direction Paris)",
+    "address": "A5, Aire de Chateauvillain Val Marnay - Châteauvillain",
+    "connectors": [
+      "x10",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chateau de Courban & Spa Nuxe**** (Tesla et autres)",
+    "address": "7 Rue du Lavoir - Courban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Rue de Mondeville - Champignol-lez-Mondeville",
+    "address": "5 Rue de Mondeville - Champignol-lez-Mondeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat d'Energie et des Déchets de Haute Marne (SDED52) - Route d'Aubepierre - Arc-en-Barrois",
+    "address": "Route d'Aubepierre - Arc-en-Barrois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Instituteur André - Arc en Barrois",
+    "address": "12 Rue Instituteur André - Arc-en-Barrois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

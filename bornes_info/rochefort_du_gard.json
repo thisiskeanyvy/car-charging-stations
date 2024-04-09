@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Route d'Orange - Rochefort du Gard",
+    "address": "71 Route d'Orange - Rochefort-du-Gard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Cimetière de Rochefort-du-Gard",
+    "address": "Route d'Avignon - Rochefort-du-Gard",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "IONITY - A9 - Aire de Tavel-Sud (direction Orange/Lyon)",
+    "address": "A9 - Tavel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Belly Ouest - Rochefort-du-Gard",
+    "address": "Belly Ouest - Rochefort-du-Gard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Spar - Saze",
+    "address": "Route de Rochefort - Saze",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A9 - Aire de Tavel-Nord (direction Nimes)",
+    "address": "A9 - Tavel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Réveo - Salle Polyvalente - Chemin du Stade - Saze",
+    "address": "Chemin du Stade - Saze",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue Saint-Vincent - Tavel",
+    "address": "Rue Saint-Vincent - Tavel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rochefort-du-Gard",
+    "address": "380 allée des Issards - Rochefort-du-Gard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Domaine de Pierredon - Estézargues",
+    "address": "111 chemin de la distillerie - Estézargues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

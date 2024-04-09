@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Hourtin Carrefour Market",
+    "address": "1 Bis Rue Cantelaude - Hourtin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Camping Les Acacias",
+    "address": "182 Sainte-Hélène - Hourtin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping de la Côte d'Argent (Privé)",
+    "address": "0 Camping de la côte d'argent - Hourtin",
+    "connectors": [
+      "x4",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Village Nautique UCPA Bombannes - Carcans",
+    "address": "0 UCPA Bombannes - Carcans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Bombannes - Camping de la Dune Bleue",
+    "address": "1 Camping de la Dune Bleue 1 - Bombannes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "POWERDOT - Carrefour Contact Carcans",
+    "address": "2 Rue des Joncs - Carcans",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "32 Route de Philibert (privé)",
+    "address": "32 route de Philibert - Carcans",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "sarl Lesparre auto services agent renault",
+    "address": "4 rue des forgerons - Lesparre-Médoc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Lesparre-Médoc",
+    "address": "RD, 1215 ZAC Belloc - Lesparre-Médoc",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue de Bordeaux - Lesparre-Médoc",
+    "address": "40 Avenue de Bordeaux - Lesparre-Médoc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

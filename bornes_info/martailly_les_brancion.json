@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Restaurant Saint Martin Chapaize",
+    "address": "Le Bourg - Chapaize",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Cave Lugny",
+    "address": "944 Rue des Charmes - Lugny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Pâquier - Lugny",
+    "address": "5 Place du Pâquier - Lugny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gamm Vert Lugny",
+    "address": "Rue De La Folie - Lugny",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Lugny - 630 Chemin du Grand Bois",
+    "address": "630 Chemin du Bois du Devant - Lugny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La moutonnerie",
+    "address": "La Moutonnerie - Bray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel des 7 Fontaines",
+    "address": "1 Avenue de la Résistance - Tournus",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route de Plottes - Tournus",
+    "address": "Route de Plottes - Tournus",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LE REMPART - Avenue Gambetta",
+    "address": "4 Avenue Gambetta - Tournus",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Tournus - 107 rue du Cardinal de Fleury",
+    "address": "107 rue du Cardinal de Fleury - Tournus",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

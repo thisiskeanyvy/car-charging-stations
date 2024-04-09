@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MobiVE - Rue des Docteurs Samondes - Gontaud-de-Nogaret",
+    "address": "Rue des Docteurs Samondes - Gontaud-de-Nogaret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Tonneins",
+    "address": "Avenue Pierre Mendès France - Tonneins",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Garage Simonetto",
+    "address": "44 Route de Gontaud de Nogaret - Virazeil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Pompiers - Mairie",
+    "address": "Rue Ducourneau - Tonneins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Hopital - Tonneins",
+    "address": "Rue Maréchal Foch - Tonneins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Mairie de Le Mas-d'Agenais",
+    "address": "D6 - Le Mas-d'Agenais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Mairie - Virazeil",
+    "address": "D933 - Virazeil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Le Capricorne (Tesla)",
+    "address": "Avenue Hubert Ruffe - Marmande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A62 Le Mas-d'Agenais (double sens)",
+    "address": "A62 - Mas d'Agenais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Marmande",
+    "address": "6 Rue francois mauriac - Marmande",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

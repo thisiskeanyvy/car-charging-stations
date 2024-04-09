@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Pass Pass Electrique - Rue de Béthune - Ruitz",
+    "address": "Rue de Béthune - Ruitz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Place de la Marne",
+    "address": "Place de la Marne - Houdain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Houdain",
+    "address": "122 Rue Du Docteur Bonduelle - Houdain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Rue de Coupigny - Barlin",
+    "address": "4 Rue du Docteur Capiaux - Barlin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Piscine de Barlin",
+    "address": "72 Rue de Versailles - Barlin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pass Pass - Rue Léo Lagrange - Fresnicourt-le-Dolmen",
+    "address": "Rue Léo Lagrange - Fresnicourt-le-Dolmen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Raoul Briquet - Bruay-la-Buissière",
+    "address": "23 Rue Raoul Briquet - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Pass Pass - Rue Franklin - Bruay-la-Buissière",
+    "address": "80 Rue Franklin - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Hersin-Coupigny - Rapideau",
+    "address": "Rue Victor Hugo - Hersin-Coupigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Hersin-Coupigny",
+    "address": "134 Rue Victor Hugo - Hersin-Coupigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Pass Pass Electrique - Sequedin Rue de carpentras",
+    "address": "Rue de Carpentras - Sequedin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue de l'Égalité - Lille",
+    "address": "72 Rue de l'Égalité - Lille",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Boulanger Englos - Sequedin",
+    "address": "Rue Des Champs - Sequedin",
+    "connectors": [
+      "x6",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Sequedin",
+    "address": "Avenue de la Boutillerie - Sequedin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Loos",
+    "address": "92 Rue Georges Potié - Loos",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - 236 Rue Sadi Carnot - Haubourdin (Privé)",
+    "address": "236 Rue Sadi Carnot - Haubourdin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial d'Englos les géants - Sequedin",
+    "address": "Boulevard du Commerce - Sequedin",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Superchargeur Tesla V4 - Englos",
+    "address": "352 route nationale - haubourdin",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Concession Kia Opel englos",
+    "address": "352 Ctre Commercial - Englos",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "3eme avenue - Lille (Privé)",
+    "address": "5ème Avenue - Lomme",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

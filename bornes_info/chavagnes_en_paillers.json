@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Domaine du Bocage",
+    "address": "4 rue de l'esperance - Chavagnes-en-Paillers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - A83 Aire de Chavagnes en Paillers (direction Nantes)",
+    "address": "A83, Aire de Chavagnes en Paillers - Chavagnes-en-Paillers",
+    "connectors": [
+      "x2",
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - A83 Aire des Brouzils",
+    "address": "A83, Aire des Brouzils - Les Brouzils",
+    "connectors": [
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Brouzils auto",
+    "address": "2 Rue de la Zone Artisanale de la Colonne 1 - Les Brouzils",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Saint-Fulgent - Rue d'Armor ZA La Lerandière",
+    "address": "Rue d'Armor ZA La Lerandière - Saint-Fulgent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Saint-Fulgent - Le Grand Moulin",
+    "address": "Le Grand Moulin - Saint-Fulgent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Remaud - Citroên",
+    "address": "89 Rue Durivum - Saint-Georges-de-Montaigu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place Raymond Dronneau - SAINT GEORGES DE MONTAIGU",
+    "address": "6321 Place Raymond Dronneau - Saint-Georges-de-Montaigu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Saint-Fulgent - 7008 Rue des Cèdres",
+    "address": "7008 Rue des Cèdres - Saint-Fulgent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sydev - Mairie de Saint Fulgent",
+    "address": "20 Rue Nationale - Saint Fulgent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

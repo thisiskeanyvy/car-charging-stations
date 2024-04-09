@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - Rue Jeanne d'Arc",
+    "address": "Rue Jeanne d'Arc - Nesle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Route de Ham - Nesle",
+    "address": "Route de Ham - Nesle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue Soeur Saint-Vincent",
+    "address": "12 Rue Soeur Saint-Vincent - Ercheu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de Rouy - Nesle (Privé)",
+    "address": "Route de Rouy - Nesle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue des Écoles",
+    "address": "37 Rue des Écoles - Mesnil-Saint-Nicaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Car - Roye",
+    "address": "8 Boulevard de l'Est - Roye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue des Communes - Roye",
+    "address": "1 Rue des Communes - Roye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Roye - 2 rue du Docteur Alexandre Rémond",
+    "address": "2 Rue du Docteur Alexandre Rémond - Roye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zeborne (ZPE) - Roye - 1 Boulevard des Glycines",
+    "address": "1 Boulevard des Glycines - Roye",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Roye - Intermarché",
+    "address": "2 impasse du Moulin - Roye",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

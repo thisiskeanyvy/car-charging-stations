@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Aldi - Route de Lons le Saunier",
+    "address": "19 Route de Lons le Saunier - Clairvaux-les-Lacs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 2 Hameau De L'abbaye - Grande-Rivière Château",
+    "address": "2 Hameau De L'abbaye - Grande-Rivière Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Hôtel Lou Granva - Grande-Rivière Château",
+    "address": "23 Hameau De L'abbaye - Grande-Rivière Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Relais de l'éventail Camping du Hérisson",
+    "address": "16 Val Dessus - Menétrux-en-Joux",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Allée Du Parc - Moirans-en-Montagne",
+    "address": "1 Allée Du Parc - Moirans-en-Montagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Camping La Petite Montagne - 54 Avenue De Saint-Claude - Moirans-en-Montagne",
+    "address": "54 Avenue De Saint-Claude - Moirans-en-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Écrille - Camping de la Faz",
+    "address": "4 Le Pont De Vaux - Écrille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Brico U - Saint-Laurent-en-Grandvaux",
+    "address": "12 Rue Lacuzon - Saint-Laurent-en-Grandvaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mairie de Saint Laurent en Grandvaux",
+    "address": "4 Rue du Parc - Saint-Laurent-en-Grandvaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Super U - Saint-Laurent-en-Grandvaux",
+    "address": "14 RUE DU CAPITAINE LACUZON - Saint-Laurent-en-Grandvaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

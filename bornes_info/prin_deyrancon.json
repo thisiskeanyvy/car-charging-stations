@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SunXLium - 2 Rue des Vieux Moulins - Cramchaban",
+    "address": "2 Rue des Vieux Moulins - Cramchaban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase Séolis - St Hilaire la Palud - La Poste",
+    "address": "6 Place de l'Église - Saint-Hilaire-la-Palud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Maison Flore",
+    "address": "25 Rue du Grand Port - Arçais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Séolis - Coulon - Aire de l'Autremont",
+    "address": "76 Rue André Cramois - Coulon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Bessines",
+    "address": "169 Route de la Rochelle - Bessines",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "AlterBase Séolis - Magné - Centre commercial",
+    "address": "Rue de la Reine des Prés - Magné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterBase - Séolis - Magné - Rue des Iris Pôle Santé",
+    "address": "Rue des Iris Pôle Santé - Magné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Réseau Alterbase - Beauvoir sur Niort - Centre",
+    "address": "Place de L Hôtel de ville - Beauvoir-sur-Niort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alterbase Séolis - Intermarché - Beauvoir-sur-Niort",
+    "address": "Impasse des Acacias Centre commercial Intermarché - Beauvoir-sur-Niort",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Atelier D'architecture Philippe Chaillou",
+    "address": "150 place de l'Hotel de Ville - Beauvoir sur Niort",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

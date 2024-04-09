@@ -1,0 +1,114 @@
+[
+  {
+    "title": "SDEF - Plourin Lès Morlaix (Rue Guillaume Lezach)",
+    "address": "Rue Guillaume Lezach - Plourin-lès-Morlaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "OuestCharge - Place du Pouliet - Morlaix",
+    "address": "Place du Pouliet - Morlaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - La Croix Rouge - Morlaix",
+    "address": "La Croix Rouge - Morlaix",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Morlaix BodemerAuto",
+    "address": "28 Route de Paris - Morlaix",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue de Brest - Morlaix",
+    "address": "Rue de Brest - Morlaix",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Morlaix (Gare)",
+    "address": "10 Rue Albert le Grand - Morlaix",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Saint Martin des Champs (Place de la Mairie)",
+    "address": "Rue de la Mairie - Saint-Martin-des-Champs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Plougonven (Rue de la Montagne)",
+    "address": "Place de la Mairie - Plougonven",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Pleyber-Christ",
+    "address": "Zone Artisanale de la Justice - Pleyber-Christ",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Morlaix (Avenue de la République)",
+    "address": "avenue de la République - Morlaix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

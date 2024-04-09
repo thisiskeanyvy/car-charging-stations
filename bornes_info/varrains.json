@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEML - Mairie de Varrains",
+    "address": "7 Rue de la Mairie - Varrains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Izivia - Route de Saumoussay - Bellevigne-les-Châteaux",
+    "address": "Route de Saumoussay - Bellevigne-les-Châteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Saumur",
+    "address": "76 Rue Jehan Alain - Saumur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - Square Balzac - Saumur",
+    "address": "Square Balzac - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Parking - SAUMUR",
+    "address": "2 Rue du Vaulanglais - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - SAUMUR - Rue Des Moulins",
+    "address": "Rue des Moulins - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Anne d'Anjou",
+    "address": "32 Quai Mayaud - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - SAUMUR - Parking Place Europe",
+    "address": "Place de l'Europe - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Le Londres",
+    "address": "48 Rue d'Orléans - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - DISTRE - Zac Champs Blanchard",
+    "address": "5447F Rond-Point Giratoire Champs Blanchard - Distré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

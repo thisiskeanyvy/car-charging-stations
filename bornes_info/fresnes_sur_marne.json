@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDESM - Rue de l'Ourc - Fresnes-sur-Marne",
+    "address": "68 Rue de l'Ourcq - Fresnes-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Impasse de Louche Annet-sur-Marne",
+    "address": "4 Impasse de Louche - Annet-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Clem.mobi : MLV 337 Jablines Base de Loisirs",
+    "address": "Base de Loisirs - Jablines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VERI - Veolia Recherche et Innovation - Hall d'essais Annet sur Marne",
+    "address": "Route Départementale - Annet-sur-Marne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de l'Église - Charny",
+    "address": "1 Rue de l'Église - Charny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Allée André Benoist - Claye Souilly",
+    "address": "14 Allée André Benoist - Claye-Souilly",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Claye-Souilly - Rue Jean Jaurès",
+    "address": "Rue Jean Jaurès - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem.mobi : MLV 343 - Lesches-Centre",
+    "address": "43 Avenue Charles de Gaulle - Lesches",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Clem.mobi : MLV 344 - Carnetin-Mairie",
+    "address": "38 Rue Albert Mattar - Carnetin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Claye-Souilly - 25 Rue Alexandre Chatrian",
+    "address": "25 Rue Alexandre Chatrian - Claye-Souilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

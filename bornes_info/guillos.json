@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEEG33 - Office du tourisme - Mios",
+    "address": "Avenue de la République - Mios",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Forêt Nézer - Le Teich",
+    "address": "La Oun Dou Loup - Le Teich",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc D216 (Sortie 1) - Mios",
+    "address": "1 Rue Jean Marie PELT - Mios",
+    "connectors": [
+      "x3",
+      "x22",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - D3 - Mios",
+    "address": "D3 - Mios",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Carrefour market Salles",
+    "address": "6 Route de Minoy - Salles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargers V3 - Biganos",
+    "address": "30 B Rue des Fonderies - Biganos",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Auchan - Rue des Fonderies - Biganos",
+    "address": "31 Rue des Fonderies - Biganos",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place de Salles",
+    "address": "30 Rue Va aux Champs - Salles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare de Biganos",
+    "address": "Rue de la Gare - Biganos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intersport - Rue Henri Fabre",
+    "address": "724 Rue Gustave Eiffel - Biganos",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

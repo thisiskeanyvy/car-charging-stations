@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Zeborne - Place du Maréchal Leclerc",
+    "address": "13 Place du Maréchal Leclerc - Rosières-en-Santerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue Curie - Rosières-en-Santerre",
+    "address": "Rue Curie - Rosières-en-Santerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue de Mesmy Harbonnières",
+    "address": "18 Rue de Mesmy - Harbonnières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 - Avenue Jean Jaurès - CHAULNES",
+    "address": "7 Avenue Jean Jaurès - Chaulnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place de l'Église - Arvillers",
+    "address": "14 Place de l'Église - Arvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDE80 - Place de la Mairie - Hangest-en-Santerre",
+    "address": "Place de la Mairie - Hangest-en-Santerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Route de la Gare - Estrées-Deniécourt",
+    "address": "Route de la Gare - Estrées-Deniécourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDE80 - Ruelle de Berny - Estrées-Deniécourt",
+    "address": "4 Ruelle de Berny - Estrées-Deniécourt",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A1 Aire des Cœurs de Hauts de France Ouest",
+    "address": "7 D 4164 - Assevillers",
+    "connectors": [
+      "x4",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "FDE80 - 17 rue de Moreuil - Sailly-Laurette",
+    "address": "17 rue de Moreuil - Sailly-Laurette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

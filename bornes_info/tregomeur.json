@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDE22-Mairie de Téméloir",
+    "address": "Rue Saint-Fiacre - Tréméloir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Parking ancienne salle des sports",
+    "address": "Rue des Écoles - Plélo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Rue de la Poste - Pordic",
+    "address": "Rue de la Poste - Pordic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarche - Pordic",
+    "address": "Rue de Kéribet - Pordic",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Trémuson",
+    "address": "14 Rue Simone de Beauvoir - Trémuson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Rue du Buchon - Trémuson",
+    "address": "1 Rue du Buchon - Trémuson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Parking de l'Estran - Binic",
+    "address": "Avenue du Général de Gaulle - Binic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Super U - Binic-Étables-sur-Mer",
+    "address": "Rue Des Prés Calans - Binic-Étables-sur-Mer",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 Plouvara",
+    "address": "Rue de la Mairie - Plouvara",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Groupe Etoile de l'Ouest - Plérin",
+    "address": "1 bis rue Pierre et Marie Curie - Plérin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

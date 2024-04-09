@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEG16 - D160 - Pressignac",
+    "address": "D160 - Pressignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEHV - Mairie de Rochechouart",
+    "address": "8 Faubourg du Puy du Moulin - Rochechouart",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Bricomarche, 30 Rue de Saint-Mathieu",
+    "address": "30 Rue de Saint-Mathieu - Cussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - U Express - Oradour-sur-Vayres",
+    "address": "1 Rue Jean Segurel - Oradour-sur-Vayres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Cussac centre - Rue du 8 Mai 1945",
+    "address": "17 Rue du 8 Mai 1945 - Cussac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Place du Champ Foire - Massignac",
+    "address": "Place du Champ Foire - Massignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine des Etangs (Tesla and others)",
+    "address": "Les Étangs - Massignac",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermaché - Rochechouart",
+    "address": "Rue de la Gare - Rochechouart",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du bourg",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la Salle des fêtes",
+    "address": "Place de la salle des fêtes - Saillat sur Vienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  }
+]

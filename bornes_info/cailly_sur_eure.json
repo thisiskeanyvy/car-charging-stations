@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Les Deux Sapins",
+    "address": "24 Rue de la Mairie - Cailly-sur-Eure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 78 Rue De Louviers (La Croix Saint-Leufroy) - Clef Vallée d'Eure",
+    "address": "78 Rue De Louviers (La Croix Saint-Leufroy) - Clef Vallée d'Eure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA - Allée des Oliviers",
+    "address": "5 Allée des Oliviers - Normanville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hostellerie d'Acquigny",
+    "address": "1 Rue d'Evreux - Acquigny",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Normanville",
+    "address": "Route de Gaillon - Normanville",
+    "connectors": [
+      "x8",
+      "x30"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "JFC Normandie Evreux Route de Gaillon (Privé)",
+    "address": "9485 Route de Gaillon - Normanville",
+    "connectors": [
+      "x3",
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Route de Louviers - Hondouville",
+    "address": "Route de Louviers - Hondouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*SEV - Normanville - 6 Le Pré Josse",
+    "address": "6 Le Pré Josse - Normanville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Groupe Diffusion Plus",
+    "address": "1 Les Champs Chouette - Saint-Aubin-sur-Gaillon",
+    "connectors": [
+      "x8",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Normanville",
+    "address": "130 Rue Aristide Briand - Gravigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Indigo - Magenta (-5) - Paris",
+    "address": "2 Square Alban Satragne - Paris",
+    "connectors": [
+      "x68"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare de l'Est P1 Alsace",
+    "address": "Cour du 11 novembre 1918 - Paris",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 2 Rue Sibour - Paris",
+    "address": "2 Rue Sibour - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - Magenta (-4) - Paris",
+    "address": "2 Square Alban Satragne - Paris",
+    "connectors": [
+      "x63"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - 2 Square Alban Satragne - Paris",
+    "address": "2 Square Alban Satragne - Paris",
+    "connectors": [
+      "x215"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 150 Rue du faubourg Saint Martin - Paris",
+    "address": "Place Madeleine Braun - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 91 Rue du Faubourg Saint-Denis - Paris",
+    "address": "91 Rue du Faubourg Saint-Denis - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare de L'Est P2 Saint-Martin",
+    "address": "145-147 Rue du Faubourg Saint-Martin - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 28 Rue de Paradis - Paris",
+    "address": "28 Rue de Paradis - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 115-117 Quai de Valmy - Paris",
+    "address": "115-117 Quai de Valmy - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

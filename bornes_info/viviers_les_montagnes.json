@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Révéo - Rue de l'Enclos - Viviers-lès-Montagnes",
+    "address": "7 Rue de l'Enclos - Viviers-lès-Montagnes",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET - Viviers-lès-montagnes centre",
+    "address": "9 Rue des Rosiers - Viviers-lès-Montagnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bouygues Energies & Services - Centre de Saïx",
+    "address": "10 Avenue du Commerce et l'Artisanat - Saïx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Place du Rivet - Saix",
+    "address": "Place du Rivet - Saix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDET (Révéo) - Chemin des Mûriers - Saint-Affrique-les-Montagnes",
+    "address": "Chemin des Mûriers - Saint-Affrique-les-Montagnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HOTEL Greet Castres-Saïx",
+    "address": "2 bis route de sémalens - Saïx",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Castres",
+    "address": "167 Route de Toulouse - Castres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Castres - 149 Rte de Toulouse,",
+    "address": "149 Rte de Toulouse, - Castres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Dicosa - Saix",
+    "address": "Dicosa - Saix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan - Rue Albert Calmettes - Castres",
+    "address": "10 Rue Albert Calmettes - Castres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

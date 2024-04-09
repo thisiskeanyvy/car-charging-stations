@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parkink Carrefour Express Saint-Sauveur",
+    "address": "50 Route De Cépet - St.-Sauveur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie De la Haute-Garonne (SDEHG) - Villeneuve-lès-Bouloc - Route D'ensarla",
+    "address": "Route D'ensarla - Villeneuve-lès-Bouloc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Place de la République",
+    "address": "29 Place de la République - Bruguières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Avenue de Toulouse",
+    "address": "Avenue de Toulouse - Gratentour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TOULIBEO - Rue Des Fleurs / Avenue de Toulouse - Bruguières",
+    "address": "39 Rue Des Fleurs - Bruguières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Super U - Bruguière",
+    "address": "26 Avenue des Cévennes - Bruguières",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bio-Elements - Gratentour",
+    "address": "13 La Gravette - Gratentour",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Place de la République - Bouloc",
+    "address": "1 Place de la République - Bouloc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Gratentour",
+    "address": "5bis Impasse de la Gravette - Gratentour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DiosHotel - Toulouse Nord",
+    "address": "3 avenue de l'euro - Bruguières",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

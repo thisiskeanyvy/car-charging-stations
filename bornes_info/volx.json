@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE04 - Place de la mairie - Volx",
+    "address": "2A Place des Félibres - Volx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Driveco pour Volkswagen - 12 Chemin de la Carretière - Volx",
+    "address": "12 Chemin de la Carretière - Volx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 24 Chemin de la Carretière - Volx",
+    "address": "24 Chemin de la Carretière - Volx",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel le Mas des Quintrands",
+    "address": "2360 Route de Volx - Manosque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Manosque - Auchan",
+    "address": "Quartier Quintrand, Route de Sisteron - Manosque",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - A51 - Aire de Volx (direction Aix-en-Pce)",
+    "address": "A51 - AIRE DE VOLX OUEST - VOLX",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A51 - Aire de Manosque (direction Sisteron)",
+    "address": "A 51 - Volx",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Camping Flower la Rivière - Saint-Maime",
+    "address": "596 Les Côtes - Saint-Maime",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 29 Chem. Théophile Farnaud - Manosque",
+    "address": "29 Chem. Théophile Farnaud - Manosque",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Z.A.C de Chanteprunier",
+    "address": "159 Avenue du Docteur Bernard Foussier - Manosque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

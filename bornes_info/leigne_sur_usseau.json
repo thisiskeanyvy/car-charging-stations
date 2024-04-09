@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Gîte et chambre d'hôtes, La Massonnière",
+    "address": "Lieu dit la massonnère - Mondion",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A10 Aire de Chatellerault Est (direction Chatellerault)",
+    "address": "1 Chandigon - Antran",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "AVIA - A10 Aire de Châtellerault-Usseau (direction Tours)",
+    "address": "A10 - Antran",
+    "connectors": [
+      "x8",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEIL - Jaulnay",
+    "address": "3 Place de l'Église - Jaulnay",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Saint-Vincent",
+    "address": "Grande Rue - Marigny-Marmande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking - Rue de la gare Ingrandes",
+    "address": "1 Rue de la Gare - Ingrandes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Leclerc Drive - Châtellerault",
+    "address": "Rue Louis BLERIOT 26 - Châtellerault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sortie A10 - Rond-Point de Pila - Chatellerault nord",
+    "address": "10 Rond-Point de Pila - Châtellerault",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEIL - Antogny-le-Tillac",
+    "address": "16 Route de Richelieu - Antogny-le-Tillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SJS SERVICES",
+    "address": "69 Chemin du Marais - Châtellerault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

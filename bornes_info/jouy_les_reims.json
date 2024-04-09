@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Clos des Terres Soudées",
+    "address": "25 Rue Saint-Vincent - Vrigny",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Sacy (Tesla and others)",
+    "address": "Rue des Croisettes - Sacy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A4 - Aire de Vrigny (direction Reims)",
+    "address": "A4 - Vrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A4 - Aire de Gueux (direction Paris)",
+    "address": "A4 - Vrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM 51 - Place des Lacs - Gueux",
+    "address": "5 Place des Lacs - Gueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare Champagne Ardenne TGV",
+    "address": "Nouvelle route de SACY - Bezannes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue Louis-Victor de Broglie - Bezannes",
+    "address": "25 Rue Louis Victor De Broglie - Bezannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Clinique Courlancy - Bezannes",
+    "address": "Rue Louis-Victor de Broglie - Bezannes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Modulo Energies - Avenue Sarah Bernhardt - Tinqueux",
+    "address": "39 Avenue Sarah Bernhardt - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking credit agricole - Tinqueux",
+    "address": "53 Avenue sarah bernhardt - Tinqueux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

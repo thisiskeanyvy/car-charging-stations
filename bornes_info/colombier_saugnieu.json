@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDER - Médiathèque - Montcul",
+    "address": "175 Route de Pont-de-Chéruy - Montcul",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Route du Dauphiné - Colombier-Saugnieu",
+    "address": "14 Route du Dauphiné - Colombier-Saugnieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Mairie de Colombier-Saugnieu",
+    "address": "Rue de la Mairie \r\n - Colombier-Saugnieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Syndicat des Énergies du Département de l’Isère (SEDI) - Allée des Platanes - Satolas-et-Bonce",
+    "address": "Allée des Platanes - Satolas-et-Bonce",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking P1, Saint Exupery",
+    "address": "aeroport - Colombier-Saugnieu",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking P4, Saint Exupery - Rue de Finlande - Colombier-Saugnieu",
+    "address": "2 Rue de Finlande - Colombier-Saugnieu",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Colombier Saugnieu - Parking CCEL",
+    "address": "Rue d'Irlande - Colombier-Saugnieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Ibis Budget Aéroport de Lyon",
+    "address": "Espace Cargo Port, 60 Rue du Royaume - Colombier Saugnieu",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "leclerc express - Route des Perves - Charvieu-Chavagneux",
+    "address": "Route des Perves - Charvieu-Chavagneux",
+    "connectors": [
+      "x7",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Actua Karting - Satolas-et-Bonce",
+    "address": "Trosseaz - Satolas-et-Bonce",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

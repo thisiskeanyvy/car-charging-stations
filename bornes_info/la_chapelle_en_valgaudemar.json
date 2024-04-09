@@ -1,0 +1,128 @@
+[
+  {
+    "title": "e-born - Pont la Place - La Chapelle-en-Valgaudémar",
+    "address": "Pont la Place - La Chapelle-en-Valgaudémar",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Le Bocage",
+    "address": "D 985 A - Saint-Maurice-en-Valgodemard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Saint Maurice en Valgaudemar - Pey de Saint Maurice en Valgaudemar",
+    "address": "Pey de Saint Maurice en Valgaudemar - Saint Maurice en Valgaudemar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syme05 - Parking sous la poste Saint-Firmin",
+    "address": "D216 - Saint-Firmin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D985 - Saint-Firmin",
+    "address": "D985 face à la pharmacie - Saint-Firmin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place des Fayores",
+    "address": "Chemin du pinauteau - Saint Michel de Chaillol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau les Herbeys",
+    "address": "Les Herbeys - Chauffayer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Orcières - Rue des Ecrins",
+    "address": "Rue des Ecrins - Orcières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Pont du Fossé - Saint-Jean-Saint-Nicolas",
+    "address": "Pont du Fossé - Saint-Jean-Saint-Nicolas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Orcières - 25 Route du Forest",
+    "address": "25 Route du Forest - Orcières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

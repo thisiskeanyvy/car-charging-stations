@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDEHG - Le jardin de l'esplanade",
+    "address": "Avenue du Mur de Ronde - Montastruc-la-Conseillère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "mobilygreen - Garidech - Intermarché",
+    "address": "4 Chemin du Chat - Garidech",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Castelmaurou - 1 Route de Cepet",
+    "address": "1 Route de Cepet - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Route de Lapeyrouse - Castelmaurou",
+    "address": "Route de Lapeyrouse - Castelmaurou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A68 Relais Portes du Tarn",
+    "address": "A68 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Parking - Montjoire",
+    "address": "141 Route de Toulouse - Montjoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Route de Paulhac - Buzet-sur-Tarn",
+    "address": "Route de Paulhac - Buzet-sur-Tarn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Route de Barranquet - Lapeyrouse-Fossat",
+    "address": "28 Route de Barranquet - Lapeyrouse-Fossat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Buzet-sur-Tarn - Rue des Écoles",
+    "address": "35 Rue des Écoles - Buzet-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ALDI - Route de Roqueserière",
+    "address": "81 Route de Roqueserière - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Indigo - Parking République - Metz",
+    "address": "1 Avenue Ney Parc République - Metz",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - Rue du Neufbourg - Metz",
+    "address": "29 Rue du Neufbourg - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place du Roi George",
+    "address": "1bis Place du Roi George - Metz",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Mercure Metz Centre (Tesla and others) PRIVÉ",
+    "address": "29 Place Saint Thiébault - Metz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du petit Paris - Metz",
+    "address": "10 Rue du Petit Paris - Metz",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue d'Austrasie - Metz",
+    "address": "Rue Pierre Perrat - Metz",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Metz - 3 Rue D'austrasie",
+    "address": "3 Rue D'austrasie - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hôtel Kyriad - Metz",
+    "address": "8 Rue Du Père Potot - Metz",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Parking Saint Thiébault - Metz",
+    "address": "Place Saint-Thiébault - Metz",
+    "connectors": [
+      "x24",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking Coislin Q-Park",
+    "address": "7 Rue Coislin - Metz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

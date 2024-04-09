@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEHG - Caraman, Cimetière",
+    "address": "28 Avenue de Toulouse - Caraman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bourg-Saint-Bernard, Lieu dit le Pestre, Fournié Grospaud Réseau",
+    "address": "7 Route du Château d'Eau - Bourg-Saint-Bernard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Lac de Crivito",
+    "address": "1 Route du Vaux - Caraman",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Tarabel, Ecole",
+    "address": "33-65 À Sudre - Tarabel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Place Quinquiri - Lanta",
+    "address": "Place Quinquiri - Lanta",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Saint-Pierre-de-Lages",
+    "address": "Route de Toulouse - Lanta",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (RÉVÉO) - Place du Caducée Cuq-Toulza",
+    "address": "Place du Caducée - Cuq-Toulza",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 15 Avenue de Castres - Cuq Toulza",
+    "address": "15 Avenue de Castres - Cuq Toulza",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie - Sainte-Foy-d'Aigrefeuille",
+    "address": "Place de la Mairie - Sainte-Foy-d'Aigrefeuille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Restes - Fourquevaux",
+    "address": "Rue de l'Autan - Fourquevaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

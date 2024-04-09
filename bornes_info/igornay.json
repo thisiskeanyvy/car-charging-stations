@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Laiterie du haras haflinger de Bourgogne",
+    "address": "8 Rue du Haras - Magnien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Autun",
+    "address": "94 Avenue de la République - Autun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gamme Vert - Autun",
+    "address": "4 Route de Beaune - Autun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - route de chalon - Auxy",
+    "address": "route de chalon - Auxy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale de Bellevue",
+    "address": "1 Rue de Bellevue - Autun",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "3 Avenue Pierre Brossolette",
+    "address": "3 Avenue Pierre Brossolette - Autun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Autun",
+    "address": "4 Rue Lt Cnl Gabriel de Sairigne - Autun",
+    "connectors": [
+      "x4",
+      "x5",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDESL - Place Charles de Gaulle - Epinac",
+    "address": "9 Place Charles de Gaulle - Épinac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Deguin - Autun",
+    "address": "9 Petite Rue Marchaux - Autun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "mobily.green - Gare d'Autun",
+    "address": "1 Avenue de la République - Autun",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

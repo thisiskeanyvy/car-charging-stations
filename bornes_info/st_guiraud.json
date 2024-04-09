@@ -1,0 +1,148 @@
+[
+  {
+    "title": "SDET (Révéo) - D92 - Lautrec",
+    "address": "D92 - Lautrec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Route de Castres - Lautrec",
+    "address": "Route de Castres - Lautrec",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue de Lengouzy",
+    "address": "Rue de Lengousy - Lautrec",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place Gabriel Bert - Guitalens-L'Albarede",
+    "address": "12 Route d'Agde - Guitalens-l'Albarède",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Route d'Agde - Guitalens-L'Albarède",
+    "address": "Route d'Agde - Guitalens-L'Albarède",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Révéo - place de la Bouriatte",
+    "address": "Route de Lautrec - Vielmur-sur-Agout",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET - Rue des Bons Enfants Venes",
+    "address": "2 Rue des Bons Enfants - Venes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Rue les Promenades - Sémalens",
+    "address": "4 Rue les Promenades - Sémalens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint Paul Cap De Joux",
+    "address": "Place de l'Hôtel de Ville - Saint-Paul-Cap-de-Joux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - 4 Route des Martys - Montdragon",
+    "address": "4 Route des Martys - Montdragon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

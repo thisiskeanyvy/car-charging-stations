@@ -1,0 +1,132 @@
+[
+  {
+    "title": "NW IECharge - Culhat - D332 Route d'Ornon",
+    "address": "Bogros - Culhat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Route De Thiers - Maringues",
+    "address": "Route De Thiers - Maringues",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Total Energies - A89 Aire de Limagne Sud (Double sens)",
+    "address": "A89 - Aire de limagne Sud - Orleat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEG 63 - Square Lopick - Lezoux",
+    "address": "Square Lopick - Lezoux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEG 63 - Place Jean Jaurès",
+    "address": "Place Jean Jaurès - Puy-Guillaume",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Thiers - Rue Du Champ Du Bail",
+    "address": "Rue Du Champ Du Bail - Thiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Thiers",
+    "address": "54 Route de Fau - Thiers",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Thiers",
+    "address": "ZI Le Felet - Thiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Efma - Rue Du Pré De La Pie",
+    "address": "18 Rue Du Pré De La Pie - Thiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Chemin des Peyrouses 2 - Surat",
+    "address": "Chemin des Peyrouses 2 - Surat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

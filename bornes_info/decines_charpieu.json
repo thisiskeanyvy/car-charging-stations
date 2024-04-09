@@ -1,0 +1,124 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - 14 Avenue Jean Macé - Décines-Charpieu",
+    "address": "14 Avenue Jean Macé - Décines-Charpieu",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Route de Jonage - Décines-Charpieu",
+    "address": "Route de Jonage - Décines-Charpieu",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 33 Route de Jonage - Décines-Charpieu",
+    "address": "33 Route de Jonage - Décines-Charpieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Carrosserie Palmieri - Avenue des Bruyères - Décines-Charpieu",
+    "address": "27 Avenue des Bruyères - Décines-Charpieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - \"Le Zola\" - Décines",
+    "address": "9 Rue Benjamin Delessert - Décines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IZIVIA - Rue du 24 Avril 1915 - Meyzieu",
+    "address": "Rue du 24 Avril 1915 - Meyzieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Gifi meyzieu",
+    "address": "4 Chemin de Peyssilieu - Meyzieu",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel ibis Styles Lyon Meyzieu Stadium Olympique",
+    "address": "2 Bis Rue du 24 Avril 1915 - Meyzieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BMW Alain VERNE",
+    "address": "20 Bd Ambroise Pare - Meyzieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Vaulx-en-Velin",
+    "address": "Av. Marcel Cachin - Vaulx-en-Velin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

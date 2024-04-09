@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Renault Ortigosa",
+    "address": "922 Avenue de l'Europe - Castelnau-le-Lez",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Georges Frêche - Castelnau-le-Lez",
+    "address": "540 Avenue Georges Frêche - Castelnau-le-Lez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Enerstock - Clinique du Mas de Rochet - Castelnau-le-Lez",
+    "address": "563 Avenue Georges Frêche - Castelnau-le-Lez",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "RÉVÉO - Rue Pierre Latecoeure - Castelnau-le-Lez",
+    "address": "Rue Pierre Latecoeure - Castelnau-le-Lez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "IZIVIA - Camping Sandaya - Plein Air des Chênes (24/7)",
+    "address": "531 Avenue Georges Frêche - Clapiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - TaM Nd Dame de Sablassou T2 - Castelnau le Lez",
+    "address": "39 Chemin du Pech Saint-Peyre - Castelnau-le-Lez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Dell - Rond-Point Benjamin Franklin",
+    "address": "1 Rond-Point Benjamin Franklin - Montpellier",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "G2 Mobility - Schlumberger - Montpellier",
+    "address": "895 rue de la vieille poste - Montpellier",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Ulysse - Montpellier Centre Corum",
+    "address": "338 Avenue de Saint-Maur - Montpellier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 889 Rue de la Vieille Poste - Montpellier",
+    "address": "889 Rue de la Vieille Poste - Montpellier",
+    "connectors": [
+      "x15",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

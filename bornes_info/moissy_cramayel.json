@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ChargePoint network - 42 Rue de l'Innovation - Moissy-Cramayel",
+    "address": "42 Rue de l'Innovation - Moissy-Cramayel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy Merlin (Entrepôt logistique) - Réau",
+    "address": "Rue Denis Papin - Réau",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - D57, Avenue de l'Ecopôle Parc de chanteloup Prologis 2 - Moissy-Cramayel",
+    "address": "D57, Avenue de l'Ecopôle Parc de chanteloup Prologis 2 - Moissy-Cramayel",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Octopus - Lieusaint",
+    "address": "11 Rue GEORGES CHARPAK - Lieusaint",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ARC EN CIEL SUBLIMATION",
+    "address": "441 Avenue Marguerite Perey - Lieusaint",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borneco - Savigny-le-Temple - 27 Rue Elsa Triolet",
+    "address": "27 Rue Elsa Triolet - Savigny-le-Temple",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Combs-la-Ville, SAS Tando",
+    "address": "11 Rue René Dumont - Combs-la-Ville",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Coté ferme - Combs la Ville",
+    "address": "Rue René Dumont - Combs-la-Ville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Kyriad - Combs-la-Ville",
+    "address": "1–11 Rue René Dumond - Combs-la-Ville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A5a Aire du Plessis-Picard Ourdy (direction Paris)",
+    "address": "A5 - Réau",
+    "connectors": [
+      "x5",
+      "x5",
+      "x7",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

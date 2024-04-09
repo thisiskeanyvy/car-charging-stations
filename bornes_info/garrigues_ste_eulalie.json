@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SMEG - Rue André Conard - Garrigues-Sainte-Eulalie",
+    "address": "Rue André Conard - Garrigues-Sainte-Eulalie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Mas des Sages",
+    "address": "1 Grand'rue - Aubussargues",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking Service Technique - St Chaptes",
+    "address": "Rue Carrière Vieille - Saint-Chaptes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking pôle médical",
+    "address": "2 Place de la Liberté - Arpaillargues-et-Aureillac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - BLAUZAC - Rd736",
+    "address": "RD736 - Blauzac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - RD981 Foissac",
+    "address": "Route des Cévennes - Foissac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SMEG30 - Route d'Uzès Montaren-et-Saint-Médiers",
+    "address": "11 Route d'Uzès - Montaren-et-Saint-Médiers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Intermarché - Montaren-et-Saint-Médiers",
+    "address": "Le Sablas - Montaren-et-Saint-Médiers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Uzes",
+    "address": "420 route d'Alès - Uzes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Maurice de Cazevielle Place du Marché Révéo",
+    "address": "Avenue Mistral - Saint-Maurice-de-Cazevieille",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

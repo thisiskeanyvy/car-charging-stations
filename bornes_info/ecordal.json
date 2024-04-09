@@ -1,0 +1,142 @@
+[
+  {
+    "title": "1 Rue Verlaine",
+    "address": "1 Rue Verlaine - Attigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare Lucquy",
+    "address": "10 Place de la Gare - Lucquy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A34 Aire des Ardennes Woinic (double sens)",
+    "address": "Aire des Ardennes Woinic - Saulces-Monclin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - A34/D951 Aire de repos des Ardennes Woinic",
+    "address": "A34 - Saulces-Monclin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie Le Chesne",
+    "address": "1 Place de la Mairie (le Chesne) - Louvergny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Poix-Terron - 23 Rue de la Gare",
+    "address": "23 Rue de la Gare - Poix-Terron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Crêtes Préardennaises - Poix Terron - Gare",
+    "address": "4 Allée du Petit Train - Poix-Terron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Avenue Louis Joly - Launois sur Vence",
+    "address": "1–9 Avenue Louis Joly - Launois-sur-Vence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 32 Grande Rue - Poix-Terron",
+    "address": "32 Grande Rue - Poix-Terron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Rethel - Peugeot",
+    "address": "ZI DE PARGNY, Chem. de la Comtesse, - Rethel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE28 - Châteauneuf-en-Thymerais (Place des Halles)",
+    "address": "23 Rue Maurice Viollette - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "address": "Rue Jean Moulin - Châteauneuf-en-Thymerais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Tremblay-les-Villages",
+    "address": "Rue du Dc Taugourdeau - Tremblay-Les-Villages",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Grande Rue - Tréon",
+    "address": "Grande Rue - Tréon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "NL*EVB - MAILLEBOIS - 50 rUE HUBERT LATHAM null",
+    "address": "50 rUE HUBERT LATHAM null - MAILLEBOIS",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Digny",
+    "address": "41 Rue du Maréchal Leclerc - Digny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Mairie de Garnay",
+    "address": "place de la mairie - Garnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Pondation de Félicie",
+    "address": "8 les Epineraises - Le Mesnil-Thomas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Vernouillet - Chemin de Blainville",
+    "address": "Chemin de Blainville - Vernouillet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centre commercial Plein Sud - Hyper U",
+    "address": "154 Rue de Bruxelles - Vernouillet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

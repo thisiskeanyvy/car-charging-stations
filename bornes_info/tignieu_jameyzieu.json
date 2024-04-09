@@ -1,0 +1,138 @@
+[
+  {
+    "title": "e-born - Veille Citoyenne BRD, Hôtel de Ville - Place De La Mairie - Tignieu-Jameyzieu",
+    "address": "Place De La Mairie - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial Place du Dauphiné",
+    "address": "9 Rue des Ardennes - Tignieu-Jameyzieu",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre Commercial Place du Dauphiné (E. Leclerc) - Tignieu-Jameyzieu",
+    "address": "33 Rue des Ardennes - Tignieu-Jameyzieu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Tignieu-Jameyzieu - Leclerc",
+    "address": "37 Rue du Dauphiné - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault Tignieu Jameyzieu",
+    "address": "48 Route de Crémieu - Tignieu-Jameyzieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Pont-de-Chéruy - Rue des Aubépines,",
+    "address": "Rue des Aubépines, - Pont-de-Chéruy",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Tignieu-Jameyzieu",
+    "address": "111 Route de Crémieu - Tignieu-Jameyzieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Rue Grammont Pont-de-Chéruy",
+    "address": "7 Rue Grammont - Pont-de-Chéruy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Parking rue des Violettes Saint-Romain-de-Jalionas",
+    "address": "10 Rue des Violettes - Saint-Romain-de-Jalionas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "leclerc express - Route des Perves - Charvieu-Chavagneux",
+    "address": "Route des Perves - Charvieu-Chavagneux",
+    "connectors": [
+      "x7",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

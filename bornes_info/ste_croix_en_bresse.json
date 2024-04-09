@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Leclerc - Louhans",
+    "address": "1 Rue des Chenevières - Louhans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 50 rue des Paddocks - Fronteneaud",
+    "address": "875 Chemin de Milleure - Frontenaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault SVA LACROIX",
+    "address": "60 Rue du Jura - Louhans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking de la Gare - Louhans",
+    "address": "16 Avenue du 8 Mai 1945 - Louhans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Allée Pierre et Marie Curie",
+    "address": "Allée Pierre et Marie Curie - Louhans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Qur de la Gare - Dommartin-lès-Cuiseaux",
+    "address": "Qur de la Gare - Dommartin-lès-Cuiseaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - A39 Aire du Poulet de Bresse",
+    "address": "Aire du Poulet de Bresse - Dommartin-lès-Cuiseaux",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A39 Aire du Poulet de Bresse (double sens)",
+    "address": "A39 - Aire du Poulet de Bresse - Dommartin-lès-Cuiseaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "JMJ automobile Citroën",
+    "address": "70 Route de Vincelles - Branges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Domaine de Louvarel",
+    "address": "Lieu dit, Louvarel - Champagnat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

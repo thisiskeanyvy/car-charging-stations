@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hôtel Le Londres",
+    "address": "48 Rue d'Orléans - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - SAUMUR - Parking Place Europe",
+    "address": "Place de l'Europe - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ChargeGuru - Hôtel Mercure - Saumur",
+    "address": "1 Rue du Vieux Pont - Saumur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - SAUMUR - Av Charles De Gaulle",
+    "address": "3 Avenue du Général de Gaulle - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Anne d'Anjou",
+    "address": "32 Quai Mayaud - Saumur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - SAUMUR - Rue Des Moulins",
+    "address": "Rue des Moulins - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking prive hotel Best Western Adagio",
+    "address": "94 Avenue du Général de Gaulle - Saumur",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Square Balzac - Saumur",
+    "address": "Square Balzac - Saumur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Leclerc - Saumur",
+    "address": "51 Boulevard du Maréchal de Lattre de Tassigny - Saumur",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Super U - Saumur",
+    "address": "76 Rue Jehan Alain - Saumur",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

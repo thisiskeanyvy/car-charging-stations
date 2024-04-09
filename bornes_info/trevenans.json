@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Voie du Tram",
+    "address": "Voie du Tram - Châtenois-les-Forges",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue des Prérot",
+    "address": "Rue des Prerot - Sevenans",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Avenue de la Gare TGV - Meroux-Moval",
+    "address": "1 Avenue de la Gare TGV - Meroux-Moval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA - Lieu-dit les Côtets - Meroux-Moval",
+    "address": "Lieu-dit les Côtets - Meroux-Moval",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Andelnans - Cora",
+    "address": "15 Rte de Montbéliard - Andelnans",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - lebetain - N19 commune de Lebtain",
+    "address": "N19 commune de Lebtain - lebetain",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TE90 - Leroy Merlin - Andelnans",
+    "address": "7 Rue des Prés - Andelnans",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue du Docteur Eugène Jacquot - Danjoutin",
+    "address": "24 Rue du Docteur Eugène Jacquot - Danjoutin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SME PMIE - Rue Pierre Marti",
+    "address": "213 Rue Pierre Marti - Étupes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 213 Rue Pierre Marti - Étupes",
+    "address": "213 Rue Pierre Marti - Étupes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

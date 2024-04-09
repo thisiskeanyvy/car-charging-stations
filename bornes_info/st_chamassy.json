@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MobiVE - Centre Bourg - Audrix",
+    "address": "696 Le Bourg - Audrix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gouffre de Proumeyssac",
+    "address": "D31E2 - Audrix",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Perdigat Limeuil",
+    "address": "Perdigat - Limeuil",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Parking Limeuil SUPPRIMÉ",
+    "address": "Le Bourg - Limeuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Parking petit Casino",
+    "address": "303A–304I Le Bourg Est - Le Buisson-de-Cadouin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - D31 Route du Cingle - Limeuil",
+    "address": "D31 route du cingle - Limeuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Le Bugue",
+    "address": "1661 La Planette Haute - Le Bugue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rossini Energy - Coux et Bigaroque-Mouzens - D703 Le trouillol",
+    "address": "D703 Le trouillol - Coux et Bigaroque-Mouzens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'hôtes - La Rolandie haute",
+    "address": "1 La Rolandie haute - Limeuil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Place Léopold Salme - Le Bugue",
+    "address": "Place Léopold Salme - Le Bugue",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

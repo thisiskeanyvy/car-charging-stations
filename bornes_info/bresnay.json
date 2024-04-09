@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE03 - Besson",
+    "address": "Place de la Mairie - Besson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Bessay-sur-Allier",
+    "address": "Rue René Fallet - Bessay-sur-Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE03 - Noyant-d'Allier",
+    "address": "Place du Marché - Noyant-d'Allier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A79 Aire du Bourbonnais (double sens)",
+    "address": "National 7 - Toulon-sur-Allier",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Supercharger Tesla V3 - A79 Aire du Bourbonnais",
+    "address": "National 7 - Toulon sur Allier",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Brico-Dépôt - Toulon-sur-Allier",
+    "address": "Brico depot - Toulon-sur-Allier",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Souvigny",
+    "address": "Place Charles de Gaulle - Souvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Toulon-sur-Allier - Parc Logistique le Larry",
+    "address": "Parc Logistique le Larry - Toulon-sur-Allier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge/18B92424 INEXISTANT",
+    "address": "D707, Route Bleue - Toulon-sur-Allier",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge/18B92398 INEXISTANT",
+    "address": "Route Bleue D707 - Toulon-sur-Allier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

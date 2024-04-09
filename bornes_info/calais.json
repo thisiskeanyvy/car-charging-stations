@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Pass Pass - Hôtel de Ville de Calais",
+    "address": "10 Rue Jean Jaurès - Calais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Zephyre - 5-7 Rue Edmond Roche - Calais",
+    "address": "5-7 Rue Edmond Roche - Calais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "54 Rue des Fontinettes",
+    "address": "54 Rue des Fontinettes - Calais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ubitricity - centre de ressource de loisirs Coluche",
+    "address": "7–99 Rue Thierry Le Luron - Calais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Calais - 950 Quai de la Loire",
+    "address": "950 Quai de la Loire - Calais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "prise ubitricity parking P1",
+    "address": "1 av winston churchill - Calais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DBT Front de Mer parking P1 - Avenue Raymond Poincaré - Calais",
+    "address": "57 Avenue Raymond Poincaré - Calais",
+    "connectors": [
+      "x2",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking P5 - Digue Gaston Berthe",
+    "address": "287–519 Digue Gaston Berthe - Calais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - CALAIS - 648 Rue de Tunis",
+    "address": "643 Rue De Tunis - Calais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking P6 plage de Calais",
+    "address": "616 Rue du Maréchal de Lattre de Tassigny - Calais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Renault is sur tille",
+    "address": "9 Rue Francois MITTERAND - Is-sur-Tille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Mathilde Vallot - Is sur Tille",
+    "address": "3 Rue Mathilde Vallot - Is-sur-Tille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Bricomarché - Is-sur-Tille",
+    "address": "14 Rue François Mitterrand - Is-sur-Tille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Colruyt - Rue du Chemin Noir",
+    "address": "Rue du Chemin Noir - Is-sur-Tille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking à côté de la Mairie - Til-Châtel",
+    "address": "1 Rue d'Aval - Til-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de l'Église - Selongey",
+    "address": "Rue de l'Église - Selongey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Golf Norges - Allée Jacques Laffite - Norges-la-Ville (Porsche)",
+    "address": "Allée Jacques Laffite - Norges-la-Ville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Aire de Dijon Brognon (direction Nancy)",
+    "address": "A31 - Brognon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - A31 Aire De Dijon-Spoy (direction Dijon)",
+    "address": "Bois du Bouloye - Brognon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A31 Aire de Dijon-Spoy (direction Dijon)",
+    "address": "Autoroute de Lorraine-Bourgogne - Brognon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

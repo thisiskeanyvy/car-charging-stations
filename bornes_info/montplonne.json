@@ -1,0 +1,140 @@
+[
+  {
+    "title": "E. Leclerc",
+    "address": "- Longeville-en-Barrois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Bar-le-Duc",
+    "address": "10 Avenue de la Grande Terre - Bar-le-Duc",
+    "connectors": [
+      "x6",
+      "x6",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GEPELEC - Rue Maréchal Lannes",
+    "address": "16 Rue Maréchal Lannes - Savonnières-devant-Bar",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Les Roises - Savonnières-devant-Bar",
+    "address": "Les Roises - Savonnières-devant-Bar",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Dream Energy - Bar-le-Duc - 5 Rue des Valottes",
+    "address": "5 Rue des Valottes - Bar-le-Duc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Salle de spectacle - Bar le Duc",
+    "address": "bradfer - Bar le Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-E - Renault BYMYCAR - Bar Le Duc",
+    "address": "Rue Ernest Bradfer - Bar-le-duc",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo-Energies - Bar le Duc - Aulnois",
+    "address": "6 Rue d'Aulnois - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Modulo-Energies - Bar le Duc - Confluences",
+    "address": "8 Avenue du 94E Régiment d'Infanterie - Bar-le-Duc",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CPAM de la Meuse",
+    "address": "8 Rue de Polval - Bar-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

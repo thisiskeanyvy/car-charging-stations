@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SIEDA - Foirail - Rue de la Briquetterie",
+    "address": "Rue de la Briquetterie - Mur-de-Barrez",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Rue des Écoles",
+    "address": "Rue des Écoles - Mur-de-Barrez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Le Bourg Parking Salles des Fêtes",
+    "address": "Le Bourg Parking Salles des Fêtes - Brommat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Zone boulodrome",
+    "address": "11 Rue des Roses - Lacroix-Barrez",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Rue Max Mabit Fournier - Vic-sur-Cère",
+    "address": "Rue Max Mabit Fournier - Vic-sur-Cère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargeGuru - BMW Auvergne Auto - Aurillac",
+    "address": "40 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - 55 Avenue Georges Pompidou - Aurillac",
+    "address": "55 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Salle des Fêtes - Argences-en-Aubrac",
+    "address": "D900 - Sainte-Geneviève sur Argence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - Aurillac",
+    "address": "51 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Aurillac",
+    "address": "51 Avenue Georges Pompidou - Aurillac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

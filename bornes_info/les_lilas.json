@@ -1,0 +1,136 @@
+[
+  {
+    "title": "La Borne Bleue - Rue Georges Pompidou - Les Lilas",
+    "address": "Rue Georges Pompidou - Les Lilas",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Metropolis Recharge - 140 Avenue Pasteur - Bagnolet",
+    "address": "140 Avenue Pasteur - Bagnolet",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Borne Bleue - 17 Rue Léon Renault - Les Lilas",
+    "address": "17 Rue Léon Renault - Les Lilas",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Campus - Rue de la Résistance (Privé)",
+    "address": "Rue de la Résistance - Les Lilas",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 215 Rue Sadi Carnot - Bagnolet",
+    "address": "215 Rue Sadi Carnot - Bagnolet",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue Guebriant Paris 20",
+    "address": "8 Rue de Guébriant - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 227 avenue Gambetta 75020 Paris",
+    "address": "227 Avenue Gambetta - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Robert Debré",
+    "address": "48 boulevard Sérurier - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Pantin - 7 Rue de Candale",
+    "address": "7 Rue de Candale - Pantin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Belib - 246 Rue de Belleville - Paris",
+    "address": "246 Rue de Belleville - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

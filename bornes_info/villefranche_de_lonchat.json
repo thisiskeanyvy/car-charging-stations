@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE24 - Rue Bugeaud Villefranche-de-Lonchat",
+    "address": "16 Rue Bugeaud - Villefranche-de-Lonchat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 - Lac de Gurson",
+    "address": "Base de loisirs - Carsac-de-Gurson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie Francs",
+    "address": "4 Le Bourg - Francs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - D121 - Gours",
+    "address": "D121 - Gours",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - D123, 25 - Puynormand",
+    "address": "25 D123 - Puynormand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A89 Aire des Palombières (direction Libourne)",
+    "address": "A89 BORDEAUX CLERMONT FERRAND - GOURS",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEEG33 - D21E4 - Les Salles-de-Castillon",
+    "address": "D21E4 - Les Salles-de-Castillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - A89/E70 Aire des Palombières (direction Bordeaux)",
+    "address": "1 Aux Chauvaux - Gours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - D21 - Saint-Cibard",
+    "address": "D21 - Saint-Cibard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Saint-Junien - Avenue du Général de Gaulle",
+    "address": "Avenue du Général de Gaulle - Saint-Junien",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

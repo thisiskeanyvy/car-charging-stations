@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Freshmile - Rue de Quemigny - Baigneux-les-Juifs",
+    "address": "5 Rue de Quemigny - Baigneux-les-Juifs",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Route d'Avallon - Vitteaux",
+    "address": "D70 Route d'Avallon - Vitteaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bi1 - Avenue de Dijon - Venarey-les-Laumes",
+    "address": "40 Avenue de Dijon - Venarey-les-Laumes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Vénarey-les-Laumes",
+    "address": "4 Avenue de la Gare - Venarey-les-Laumes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Rue Carnot - Saint-Seine-l'Abbaye",
+    "address": "2 Place des Tilleuls - Saint-Seine-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel L’orée Des Charmes",
+    "address": "56 Rue d'Avau - Blaisy-Bas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Centre Hospitalier - Semur-en-Auxois",
+    "address": "3 Avenue Pasteur - Semur-en-Auxois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SICECO - Sombernon",
+    "address": "56 Avenue de la Brenne - Sombernon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SICECO - 11 Rue Jean-Jacques Collenot",
+    "address": "11 Rue Jean-Jacques Collenot - Semur-en-Auxois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-Vadea - A6 Aire du Chien Blanc (direction Beaune)",
+    "address": "A6 - Aire du Chien Blanc - Gissey-le-Vieil",
+    "connectors": [
+      "x2",
+      "x2",
+      "x7",
+      "x5",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

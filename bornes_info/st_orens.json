@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Belib - 46 Rue de Rome - Paris",
+    "address": "46 Rue de Rome - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clem' - Paris 18 - Europe",
+    "address": "4 rue de Constantinople - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - Paris - 18 Rue de Laborde",
+    "address": "18 Rue de Laborde - Paris",
+    "connectors": [
+      "x5",
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saemes St Augustin - Bergson",
+    "address": "18 Rue laborde - Paris",
+    "connectors": [
+      "x350",
+      "x342",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 72 rue de Rome 75008 Paris",
+    "address": "72 Rue de Rome - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking St-Lazare",
+    "address": "20 Rue de Rome - Paris",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 73 Rue de Rome - Paris",
+    "address": "73 Rue de Rome - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EFFIA Rome Batignolles",
+    "address": "43B Boulevard des Batignolles - Paris",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Clem' - Paris 43 - Villiers",
+    "address": "92 boulevard des Batignolles - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Boulevard de Courcelles - Paris - Défintivement fermé",
+    "address": "Boulevard de Courcelles - Paris",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

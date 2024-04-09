@@ -1,0 +1,130 @@
+[
+  {
+    "title": "La borne bleue - Gare RER Nogent-Le Perreux",
+    "address": "255 Rue Jean Monnet - Nogent-sur-Marne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - Rue Des Héros Nogentais - Nogent-sur-Marne",
+    "address": "53 Rue Des Héros Nogentais - Nogent-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La borne bleue - Rue Charles VII - Nogent-sur-Marne",
+    "address": "9 Rue Charles Vii - Nogent-sur-Marne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Nogent-sur-Marne | Boulevard de Strasbourg",
+    "address": "Boulevard de Strasbourg - Nogent-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Le Perreux",
+    "address": "44 Avenue de Bry - Le Perreux-sur-Marne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Le Perreux-sur-Marne - Avenue du 11 Novembre",
+    "address": "1 Charles Ollier - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La borne bleue - Rue du Port - Nogent-sur-Marne",
+    "address": "27 rue du Port - Nogent-sur-Marne",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Borne Bleue - 11 Route de Stalingrad - Nogent-sur-Marne",
+    "address": "11 Route de Stalingrad - Nogent-sur-Marne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel Campanile - Nogent-sur-Marne",
+    "address": "13 Quai du Port - Nogent-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Avenue Pierre Brossolette - Le Perreux-sur-Marne",
+    "address": "Avenue Pierre Brossolette - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

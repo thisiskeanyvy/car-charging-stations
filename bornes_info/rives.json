@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Parking quai Guilbaud",
+    "address": "1 Rue de la Boucherie - Caudebec-en-Caux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Manoir du Perroy",
+    "address": "325 route de rançon - Rives en Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Contact - Chemin du Roy",
+    "address": "1 Chemin du Roy - Arelaune-en-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - ZAC Caux Multipôles null - Valliquerville",
+    "address": "ZAC Caux Multipôles null - Valliquerville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Le Trait (Place Amiral Ronarc'h communément appelée place du marché)",
+    "address": "576 Rue Raymond Breteche - Le Trait",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "VBI-IRVE",
+    "address": "17 Rue Raymond Breteche - Le Trait",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Route de Betteville - Épinay-sur-Duclair",
+    "address": "Route de Betteville - Épinay-sur-Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Le Trait - Leader Price",
+    "address": "11 Rue de Godshorn, 76580 Le Trait, France - Le Trait",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Rue des Écoles - Norville",
+    "address": "Rue des Écoles - Norville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Route de Saint-Paër - Sainte-Marguerite-sur-Duclair",
+    "address": "Route de Saint-Paër - Sainte-Marguerite-sur-Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

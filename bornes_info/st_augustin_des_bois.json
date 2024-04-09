@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEML - Becon Les Granits - Av Des Tilleuls",
+    "address": "Avenue des Tilleuls - Bécon-les-Granits",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Rue de la Loire Saint-Germain-des-Prés",
+    "address": "35 Rue de la Loire - Saint-Germain-des-Prés",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - St Georges",
+    "address": "63 Rue Nationale - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - St Georges Sur Loire - Place Monprofit",
+    "address": "Place Monprofit - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - St Leger Des Bois - Rue Des Ferrieres",
+    "address": "Rue des Ferrières - Saint-Léger-des-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi - Saint-Georges-sur-Loire",
+    "address": "8 Rue Bernard Crétin-Guesdon - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Super U - Saint-Georges-sur-Loire",
+    "address": "59 Rue Bernard Cretin Guesdon - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue du Moulin - Val d'Erdre-Auxence",
+    "address": "37 Rue du Moulin - Val d'Erdre-Auxence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Champtoce Sur Loire - Place De L'eglise",
+    "address": "Place de l'Église - Champtocé-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Communauté de communes - Saint-Georges-sur-Loire",
+    "address": "1 Rue Adrien Meslier - Saint-Georges-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

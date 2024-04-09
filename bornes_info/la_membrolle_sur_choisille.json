@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEIL Salle Emmanuelle Chabrier - Rue de la Choisille",
+    "address": "1 Rue de la Choisille - La Membrolle-sur-Choisille",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - La Membrolle sur Choisille",
+    "address": "73-75 Rue nationale - La Membrolle-sur-Choisille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lotissement Mazagran",
+    "address": "Avenue Charles de Gaulle - La Membrolle-sur-Choisille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo - ZA - Mettray",
+    "address": "Rue des Bourgetteries - Mettray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen - Saint-Cyr-sur-Loire",
+    "address": "288 Boulevard Charles de Gaulle - Saint-Cyr-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - St Cyr",
+    "address": "247 bd Charles de Gaulle - Saint-Cyr-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 280 Boulevard Charles de Gaulle - Saint-Cyr-sur-Loire",
+    "address": "280 Boulevard Charles de Gaulle - Saint-Cyr-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - 64 Rue du Mûrier - Saint-Cyr-sur-Loire",
+    "address": "64 Rue du Mûrier - Saint-Cyr-sur-Loire",
+    "connectors": [
+      "x22",
+      "x15",
+      "x11"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Brico Dépot Saint Cyr sur Loire",
+    "address": "4 Rue du mûrier - Joué-lès-Tours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Boulevard Charles de Gaulle - Saint Cyr sur Loire",
+    "address": "270 Boulevard Charles de Gaulle - Saint-Cyr-sur-Loire",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

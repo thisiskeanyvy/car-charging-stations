@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDE22 - Ereac",
+    "address": "Rue Bertrand du Guesclin - Éréac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Place saint fiacre Lanrelas",
+    "address": "Place St Fiacre - Lanrelas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Le Bourg - Saint-Launeuc",
+    "address": "Le Bourg - Saint-Launeuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Des Côtes d'Armor (SDE22) - Sévignac - Le Bourg",
+    "address": "Le Bourg - Sévignac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Rue du Belloir - Broons",
+    "address": "2 Rue du Belloir - Broons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 - Le Bourg - Saint-Vran",
+    "address": "Le Bourg - Saint-Vran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EVBox - Parc d'Activité du Chalet 33 - Broons",
+    "address": "Parc d'Activité du Chalet 33 - Broons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Broons",
+    "address": "Z.A. du Chalet - Broons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE22 - Trémeur",
+    "address": "ZA des Dineux - Trémeur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Merdrignac - Rue du Bourg Neuf",
+    "address": "Rue du Bourg Neuf - Merdrignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

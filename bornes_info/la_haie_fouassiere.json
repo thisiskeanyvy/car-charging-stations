@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Station La Haie Fouassière",
+    "address": "Rue de l'Étang - La Haie-Fouassière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - La Haie-Fouassière - CR Elec",
+    "address": "6 Rue Du Pâtis - La Haie-Fouassière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Station Château Thébaud",
+    "address": "Rue Saint-Thomas - Château-Thébaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Elect'Road - Haute Goulaine",
+    "address": "7 Rue Jean Mermoz - Haute Goulaine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - LE PALLET",
+    "address": "3 Rue Etienne Sautejeau - Le Pallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Rue André Ripoche, 10 - La Chapelle-Heulin",
+    "address": "10 Rue André Ripoche - La Chapelle-Heulin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - Hte Goulaine \"Loriots\"",
+    "address": "Rue de la Châtaigneraie - Haute-Goulaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MOBALPA - VERTOU - 22KW AC",
+    "address": "598 Route de Clisson - Vertou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Place Beau Soleil Haute-Goulaine",
+    "address": "2 Place Beau Soleil - Haute-Goulaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SCI POLE SUD III",
+    "address": "7 Allée des Cinq Continents - Vertou",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

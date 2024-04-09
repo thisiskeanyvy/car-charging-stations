@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiSDEC - Rue de l'Église - Cormelles-le-Royal",
+    "address": "20 Rue de l'Église - Cormelles-le-Royal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - Place de la Liberté - Caen",
+    "address": "2 Place de la Liberté - Caen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Ifs - Audi by Electrify",
+    "address": "12 Rue Alfred Nobel - Ifs",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Auto Leclerc - Ifs",
+    "address": "Rue de Rocquancourt - Ifs",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Avenue Jean Vilar - Ifs",
+    "address": "Avenue Jean Vilar - Ifs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Ets Ragues - Mondeville (Privé)",
+    "address": "2 Rue des Frères Lumière - Mondeville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Mondeville",
+    "address": "15 Rue Charles De Coulomb - Mondeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Toyota - Mondeville",
+    "address": "77-79 Route de Paris - Mondeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Mondeville - 6 Rue des Frères Lumière",
+    "address": "6 Rue des Frères Lumière - Mondeville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - Mondeville - Rue Charles Coulomb",
+    "address": "Rue Charles Coulomb - Mondeville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

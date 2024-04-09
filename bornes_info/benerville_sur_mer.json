@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MobiSDEC - BLONVILLE SUR MER (Rue Pierre Jacquot)",
+    "address": "36 Avenue Michel d'Ornano - Blonville-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Avenue de la Terrasse - Tourgéville",
+    "address": "8 Avenue de la Terrasse - Tourgéville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Izivia - Les franciscaines",
+    "address": "226/228 Avenue De La République - Deauville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Rue Des Maréchaux - Deauville",
+    "address": "8 Rue Des Marechaux - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - Villers 2000",
+    "address": "10 Rue des Martrois - Villers-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Square de l'Église - Deauville",
+    "address": "22 Impasse Florian de Kergorlay - Deauville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Royal Barrière - Deauville",
+    "address": "Boulevard Eugène Cornuche - Deauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Le Royal Barrière Deauville (Tesla and others)",
+    "address": "Boulevard Eugène Cornuche - Deauville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hippodrome - Deauville (Privé)",
+    "address": "47 Avenue Hocquart de Turtot - Deauville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking souterrain hotel novotel Deauville plage",
+    "address": "Eugene CORNUCHE - Deauville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

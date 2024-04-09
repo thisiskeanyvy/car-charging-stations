@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Rue Simon Fryd - Lyon",
+    "address": "Rue Simon Fryd - Lyon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "hotel ibis gerland",
+    "address": "246 Rue Marcel Mérieux - Lyon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ibis Lyon Gerland - Rue Marcel Mérieux",
+    "address": "246 Rue Marcel Mérieux - Lyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue Marcel Mérieux - Lyon",
+    "address": "225 Rue Marcel Mérieux - Lyon",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CNR - Quai des énergies (près Stade Gerland)",
+    "address": "81 Avenue Tony Garnier - Lyon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Total Energies - Velan SAS - Lyon",
+    "address": "Rue Challamel Lacour - LYON",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia Grand Lyon - Halle Tony Garnier",
+    "address": "3 Avenue Debourg - Lyon",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Métro Gerland public - 40 Boulevard De L'artillerie - Lyon",
+    "address": "40 Boulevard De L'artillerie - Lyon",
+    "connectors": [
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue Marie-Madeleine Fourcade",
+    "address": "4 Rue Marie-Madeleine Fourcade - Lyon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Tony Garnier (Niveau -1)",
+    "address": "16 avenue Tony Garnier - Lyon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

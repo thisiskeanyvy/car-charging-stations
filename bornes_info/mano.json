@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Clem' - Paris 23 - Hôpital Lariboisière",
+    "address": "10e Paris - Paris 10e",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - 1B Rue Ambroise Paré - Paris",
+    "address": "1B Rue Ambroise Paré - Paris",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 16 Rue de Sofia - Paris",
+    "address": "16 Rue de Sofia - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ubeeqo - 26 rue Saint-Vincent-de-Paul Paris",
+    "address": "26 rue Saint-Vincent-de-Paul - Paris",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking EFFIA Gare du Nord",
+    "address": "1 bis Rue Ambroise Paré - Paris",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 31 Blvd Marguerite de Rochechouart - Paris",
+    "address": "31 Blvd Marguerite de Rochechouart - Paris",
+    "connectors": [
+      "x7",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 15 Rue de Rocroy - Paris",
+    "address": "15 Rue de Rocroy - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 19-21 Rue Custine - Paris",
+    "address": "19-21 Rue Custine - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Anvers - Paris",
+    "address": "41 Boulevard de Rochechouart - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Magenta - Paris",
+    "address": "118 Boulevard de Magenta - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

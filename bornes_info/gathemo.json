@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Le Bourg - Champ-du-Boult",
+    "address": "Le Bourg - Champ-du-Boult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Église de Sourdeval",
+    "address": "Rue du Capitaine Duval - Sourdeval",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - ST MANVIEU BOCAGE (Le bourg)",
+    "address": "Le Bourg - Saint-Manvieu-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Germain-de-Tallevende-la-Lande-Vaumont",
+    "address": "6 Place des Écoles - Saint-Germain-de-Tallevende-la-Lande-Vaumont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - SAINT SEVER CALVADOS (Rue du vieux Château)",
+    "address": "Route du Vieux Château - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Sever-Calvados",
+    "address": "Place de la Mairie - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Vire (Rue Saint-Martin)",
+    "address": "Rue Saint-Martin - Vire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Vire (Rue Turpin)",
+    "address": "20 Rue Turpin - Vire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Rue Emile Zimmermann - Zire",
+    "address": "7 Rue Emile Zimmermann - Vire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Vire (Grande Place - Aire de Covoiturage)",
+    "address": "23 Rue André Halbout - Vire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

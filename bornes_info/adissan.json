@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Syndicat Mixte Hérault Énergies (SDE34) - Paulhan - Rue Saint Sébastien",
+    "address": "Rue Saint Sébastien - Paulhan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue Pierre Pascal - Caux",
+    "address": "Rue Pierre Pascal - Caux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Parking Du Stade - Saint Pargoire",
+    "address": "Rue de la Paix\r\n - Saint-Pargoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place du marché - Montagnac",
+    "address": "Avenue du 11 Novembre 1918 - Montagnac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Avenue François Hue - Pézenas",
+    "address": "Avenue François Hue - Pézenas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Distillerie de pezenas",
+    "address": "1 Impasse Calquières Hautes - Pézenas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "3 L'Hortevieille",
+    "address": "3 L'Hortevieille - Montagnac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Jean-Baptiste Salvaing et Jessica Schneider - Pézenas",
+    "address": "1 Avenue Jean-Baptiste Salvaing et Jessica Schneider - Pézenas",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Le Saint Germain",
+    "address": "6 Avenue Paul Vidal de la Blache - Pezenas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alize (Bouygues Energies et Services) - Pézenas - 3 Avenue Paul Vidal de la Blache",
+    "address": "3 Avenue Paul Vidal de la Blache - Pézenas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

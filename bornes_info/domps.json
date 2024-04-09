@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Shell Recharge - Parking du centre Domus (-1) - Rosny-sous-Bois",
+    "address": "16 Rue de Lisbonne - Rosny-sous-Bois",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell-Recharge - 16 Rue de Lisbonne - Centre commercial Domus - Rosny-sous-Bois",
+    "address": "16 Rue de Lisbonne Centre commercial Domus - Rosny-sous-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sigeif - 14 bis rue de Lisbonne - Rosny-sous-Bois",
+    "address": "14bis Rue De Lisbonne - Rosny-sous-Bois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin (-2) - Rosny-sous-Bois",
+    "address": "Zac De Nanteuil, 7 Rue de Lisbonne, - Rosny-sous-Bois",
+    "connectors": [
+      "x8",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Westfield Rosny 2 (Parking côté CC)",
+    "address": "2 Avenue du Général de Gaulle - Rosny-sous-Bois",
+    "connectors": [
+      "x22",
+      "x22"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electra - Rosny-sous-Bois - B&B Hotels",
+    "address": "1 Rue de Lisbonne - Rosny-sous-Bois",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Inter-Hotel Paris Est Rosny ***",
+    "address": "1 Rue de Lisbonne - Rosny-sous-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rosny sous Bois - 1 rue d'Aurion",
+    "address": "1 rue d'Aurion - Rosny sous Bois",
+    "connectors": [
+      "x1",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "The Originals Boutique, Hôtel Golf, Paris Est",
+    "address": "4 Rue de Rome - Rosny-sous-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Rue de Rome - Rosny-sous-Bois",
+    "address": "Rue de Rome - Rosny-sous-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

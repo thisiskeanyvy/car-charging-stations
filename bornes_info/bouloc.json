@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEHG - Place de la République - Bouloc",
+    "address": "1 Place de la République - Bouloc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Bouloc",
+    "address": "19 Rue des Pellissiers - Bouloc",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie De la Haute-Garonne (SDEHG) - Villeneuve-lès-Bouloc - Route D'ensarla",
+    "address": "Route D'ensarla - Villeneuve-lès-Bouloc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parkink Carrefour Express Saint-Sauveur",
+    "address": "50 Route De Cépet - St.-Sauveur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Restaurant Tonton Michel - Villeneuve-lès-Bouloc",
+    "address": "5 Rue de la Canelle - Villeneuve-lès-Bouloc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "mobilygreen - Castelnau-d'Estrétefonds - 1 Rue de l'Ourmède",
+    "address": "1 Rue de l'Ourmède - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Castelnau d’Estretefonds - Rue de l'Ourmède",
+    "address": "1 L'Ourmède - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eurocentre Standard - Castelnau-d'Estrétefonds",
+    "address": "1 Avenue de Saint Guillan - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Castelnau-d'Estrétefonds",
+    "address": "10 Avenue de Saint Guillan - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Castelnau-d'Estréfonds",
+    "address": "Avenue de Montauban - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

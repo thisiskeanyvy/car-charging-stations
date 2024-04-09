@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Chateau de la Caze",
+    "address": "Route des Gorges du Tarn - Sainte Enimie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - La Malène",
+    "address": "D907 Bis - La Malène",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Camping La Blaquière - Massegros Causses Gorges",
+    "address": "RD 907 Bis Camping La Blaquière - Massegros Causses Gorges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - D986 Hures-la-Parade",
+    "address": "D986 - Hures-la-Parade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Allée du 19 Mars 1962 - Chanac",
+    "address": "2 Place de la fontaine du curé - Chanac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Place du Pré Commun - parking derrière Mairie - La Canourgue",
+    "address": "6 Place du Pré Commun - La Canourgue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Logis Hôtel du Commerce - Avenue du Lot - La Canourgue",
+    "address": "3 Avenue Du Lot - La Canourgue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Place du Calvaire - Le Massegros",
+    "address": "Le Village - Le Massegros",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "D'un jour à l'autre - Canilhac",
+    "address": "2 Le Pontet - Canilhac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel*** Restaurant Le Calice du Gévaudan",
+    "address": "2 Montée de Pissa Lèbre - Banassac-Canilhac",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

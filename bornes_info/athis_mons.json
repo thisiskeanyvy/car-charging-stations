@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Parking",
+    "address": "77 Rue Édouard Vaillant - Athis-Mons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IMO ORY - MdE",
+    "address": "Rue du Musée - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IMO ORY - Bâtiment 631 (Privé)",
+    "address": "Rue de la Fondation Bâtiment 631 - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Gare RER C d'Athis-Mons",
+    "address": "2 Place Jules Froelinger - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Athis-Mons",
+    "address": "10 Rue Camille Flammarion - Athis-Mons",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Professionnel Entreprise - ZEborneMS - 37 Route de Fontainebleau N7 - Paray-Vieille-Poste",
+    "address": "37 Route de Fontainebleau - Paray-Vieille-Poste",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Athis Mons",
+    "address": "90 Avenue Henri Dunant - Athis-Mons",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Athis-Mons",
+    "address": "59 Avenue François Mitterrand - Athis-Mons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Rue Paul Demange",
+    "address": "Rue Paul Demange - Paray-Vieille-Poste",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Gare de Vigneux-sur-Seine",
+    "address": "3 Av. du Président Robert Lakota - Vigneux-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

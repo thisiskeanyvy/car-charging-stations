@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Logis La Résidence (Tesla)",
+    "address": "5 Rue des Mousses - Le Val-d'Ajol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Grande Rue - Le Val-d'Ajol",
+    "address": "42 Grande Rue - Le Val-d'Ajol",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Mairie - Plombières-les-Bains",
+    "address": "4 Avenue de Remiremont - Plombières-les-Bains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora - Remiremont",
+    "address": "26 Route de Bussang - Remiremont",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue de la Filature - Remiremont",
+    "address": "240 Rue de la Filature - Remiremont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Remiremont",
+    "address": "96 Rue de la filature - Remiremont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage CHOUX AUTOMOBILE",
+    "address": "15 Rue du Vélodrome - Saint-Étienne-lès-Remiremont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AGACI - Remiremont",
+    "address": "28 Rue de la Joncherie - Remiremont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Casino de Plombières les bains (Tesla et autres)",
+    "address": "5 Allée Eugene Delacroix - Plombières-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Remiremont - 18 Chemin Du Canal",
+    "address": "18 Chemin Du Canal - Remiremont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

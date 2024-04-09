@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE09 - Route de la Gare Rimont",
+    "address": "Route de la Gare - Rimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Le Mas-d'Azil",
+    "address": "18 Rue du Mouret - Le Mas-d'Azil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Parking près de la poste La Bastide-de-Sérou",
+    "address": "Avenue de La Gare - La Bastide-de-Sérou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - D211 La Basso Eco Golf - La Bastide-de-Sérou",
+    "address": "D211, La Basso Eco Golf - La Bastide-de-Sérou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Place de l'Eglise - Pailhes",
+    "address": "101-263 Lagal - Pailhes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Avenue de la Guinguette Daumazan-sur-Arize",
+    "address": "18 Avenue de la Guinguette - Daumazan-sur-Arize",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE09 - Place de l'Église Massat",
+    "address": "Place de l'Eglise - Massat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "PHARMACIE BOCKAERT",
+    "address": "8 pl 8 Mai 1945 - Saint-Girons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Logis Beauregard - Avenue De La Résistance - Saint-Girons",
+    "address": "Avenue De La Résistance - Saint-Girons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE09 - office de tourisme - Saint-Girons",
+    "address": "9 Rue James Rullau - Saint-Girons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

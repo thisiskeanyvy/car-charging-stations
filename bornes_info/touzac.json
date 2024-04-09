@@ -1,0 +1,132 @@
+[
+  {
+    "title": "GIMEL-LES-CASCADES - LE BOURG",
+    "address": "Le Bourg - Gimel-les-Cascades",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Tressol - Chabrier",
+    "address": "Chaussedal - Tulle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (MobiVE) - 5 Rue du 19 Mars 1962",
+    "address": "5 Rue du 19 Mars 1962 - Naves",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Tulle",
+    "address": "Rue de la Marque - Tulle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Saint Pierre",
+    "address": "3 Avenue de la Bastille - Tulle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - Maison médicale - Corrèze",
+    "address": "2 Rue Buffeguerre - Corrèze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEE19 (Mobive) - 13 Quai Gabriel Péri - Tulle",
+    "address": "13 Quai Gabriel Péri - Tulle",
+    "connectors": [
+      "x2",
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiVE - Allée du Domaine de Sédières - Clergoux",
+    "address": "Allée du Domaine de Sédières - Clergoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - Avenue Lucien Sampeix - Tulle",
+    "address": "2bis Avenue Lucien Sampeix - Tulle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Laguenne-sur-Avalouze",
+    "address": "Avenue de Coulaud - Laguenne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

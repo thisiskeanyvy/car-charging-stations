@@ -1,0 +1,142 @@
+[
+  {
+    "title": "ChargePoint Network/FRCPIL6600025",
+    "address": "415 Chemin de Bottecreux - Collonges-sous-Salève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE (e-born) - Route de Reignier, 722 - Pers-Jussy",
+    "address": "1723 Route de Reignier - Pers-Jussy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Chemin Chapelle - Mornex",
+    "address": "269 Chemin de la Chapelle (Mornex) - Monnetier-Mornex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "E-born - Pharmacie - Reignier",
+    "address": "30 Rue du Môle - Reignier-Esery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Grande Rue - Reignier-Esery",
+    "address": "87 Grande Rue - Reignier-Esery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking du Village - Veyrier",
+    "address": "112A Route du Pas de l'Échelle - Veyrier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Veyrier - 255 Rte de Veyrier",
+    "address": "255 Rte de Veyrier - Veyrier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Parking du marché - Collonges-sous-Salève",
+    "address": "78 Route d'Annecy - Collonges-sous-Salève",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Green Motion SA - Veyrier - 8 Chemin du Bois-Gourmand",
+    "address": "8 Chemin du Bois-Gourmand - Veyrier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Archamps",
+    "address": "380 Rue Richard Gurley Drew - Archamps",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 3
+  }
+]

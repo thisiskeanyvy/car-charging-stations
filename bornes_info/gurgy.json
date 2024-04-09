@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Freshmile - Monéteau - A6 Nord Aire de Covoiturage",
+    "address": "Avenue Du Luxembourg - Monéteau",
+    "connectors": [
+      "x14",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Avenue de l'Europe - Monéteau",
+    "address": "12 Avenue de l'Europe - Monéteau",
+    "connectors": [
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Auxerre",
+    "address": "Route Nationale 6 - Auxerre",
+    "connectors": [
+      "x8",
+      "x8",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BUMP-CHARGE - Appoigny - Hôtel Kyriad Direct Auxerre",
+    "address": "D319, Rue du Fossé du Bois - Appoigny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEY - Rue de la Gare - Monéteau",
+    "address": "Rue de la Gare - Monéteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Skeneteau - Rue d'Auxerre - Monéteau",
+    "address": "9C Rue d'Auxerre - Monéteau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Cora - Monéteau",
+    "address": "850 Les Grandes Haies - Monéteau",
+    "connectors": [
+      "x1",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Yoplait (privé)",
+    "address": "49 Rue d'Auxerre - Monéteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Rue Jean Jaurès - CHEMILLY-SUR-YONNE (89)",
+    "address": "Rue Jean Jaurès - CHEMILLY-SUR-YONNE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Salle des fêtes de Perrigny",
+    "address": "23 Rue de la Cour - Perrigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

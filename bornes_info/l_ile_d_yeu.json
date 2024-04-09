@@ -1,0 +1,122 @@
+[
+  {
+    "title": "L'Île-d'Yeu - Port-Joinville (Quai Vernier)",
+    "address": "85 Quai Vernier - L'Île-d'Yeu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SyDEV - Île d'yeu (Parking embarcadère - Quai de la Mairie)",
+    "address": "Quai de la Mairie - Ile D'Yeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - île d'Yeu (Parking Héliport)",
+    "address": "Quai de la Chapelle - Ile D'Yeu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "île d'Yeu - Port-Joinville (Parking de la Capelle)",
+    "address": "Quai de la Chapelle - L'Île-d'Yeu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Île-d'Yeu - Saint Sauveur (Place de l'Eglise)",
+    "address": "saint sauveur - L'Île-d'Yeu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Île-d'Yeu - La Meule (Le Port)",
+    "address": "la meule - L'Île-d'Yeu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Camping Campéole Plage des Tonnelles - Saint-Jean-de-Monts",
+    "address": "18 Route de la Tonnelle - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Rue de l'Église - Notre-Dame-de-Monts",
+    "address": "Rue de l'Église - Notre-Dame-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Camping Aux Coeurs Vendeens - Saint jean de monts",
+    "address": "251 Route de notre dame de monts - Saint jean de monts",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Autorecharge - 248 Rue de Notre Dame - Saint-Jean-de-Monts",
+    "address": "248 Rue de Notre Dame - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

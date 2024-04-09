@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Maison Départementale des Solidarités Chalon Est",
+    "address": "52 Rue Pierre Deliry - Chalon-sur-Saône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Chalon-sur-Saône",
+    "address": "2 Rue Benjamin Baillaud - Chalon-sur-Saône",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Promenade Sainte-Marie - Chalon-sur-Saône",
+    "address": "Promenade Sainte-Marie - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Chalon-sur-Saône",
+    "address": "6 Rue Paul Sabatier - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Hotel Ibis Chalon Nord",
+    "address": "Rue Paul Vachet - Chalon-sur-Saône",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Q-Park Chalon-sur-Saône Hôtel de Ville",
+    "address": "Passage du Milon - Chalon sur saône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Ibis Chalon-Sur-Saône Europe",
+    "address": "2 Rue Georges Feydeau - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du 19 mars 1962 - Chalon-sur-Saône",
+    "address": "Place du 19 Mars 1962 - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - 9 rue Paul Sabatier - Chalon-sur-Saône",
+    "address": "9 rue Paul Sabatier - Chalon-sur-Saône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Supercharger V3 - Chalon-sur-Saône",
+    "address": "1 Rue François Protheau - Chalon-sur-Saône",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

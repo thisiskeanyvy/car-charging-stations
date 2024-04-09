@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE22 - Mairie de Perros-Guirrec",
+    "address": "30 Place de l'Hôtel de ville - Perros-Guirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Les Costans",
+    "address": "14 Rue Rouzic - Perros-Guirec",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Agapa Hôtel - Perros-Guirec (Porsche)",
+    "address": "12 Rue des Bons Enfants - Perros-Guirec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE22 - Bassin du Linkin - Port de Perros-Guirec",
+    "address": "65 Rue Anatole le Braz - Perros-Guirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "45 Boulevard Joseph le Bihan",
+    "address": "45 Boulevard Joseph le Bihan - Perros-Guirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "See You Sun - 58 Boulevard Thalassa - Perros-Guirec",
+    "address": "58 Boulevard Thalassa - Perros-Guirec",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Côtes D'Armor Garage",
+    "address": "385 Route de Pleumeur Bodou - Perros-Guirec",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 60 Boulevard du Sémaphore - Perros-Guirec (Privé)",
+    "address": "60 Boulevard du Sémaphore - Perros-Guirec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE22 Louannec",
+    "address": "7 Route de Perros - Louannec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Zeborne - KIA - Rue De Nivern Bihan",
+    "address": "15 Rue De Nivern Bihan - Lannion",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

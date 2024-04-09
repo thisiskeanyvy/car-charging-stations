@@ -1,0 +1,122 @@
+[
+  {
+    "title": "larecharge - Allauch - Chemin du Garlaban - Parking Monge",
+    "address": "Chemin du Garlaban - Parking Monge - Allauch",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Wyplay - Avenue de Provence - Allauch",
+    "address": "200 Avenue de Provence - Allauch",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 602 Avenue du 7ème Régiment du Tirailleur Algériens (sous-terrain) - Allauch",
+    "address": "602 Avenue du 7ème Régiment du Tirailleur Algériens - Allauch",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Rte des 4 Saisons - Allauch",
+    "address": "250 Rte des 4 Saisons - Allauch",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Métropole Aix-Marseille Provence - 584 Chemin Marius Milon - Allauch",
+    "address": "584 Chemin Marius Milon - Allauch",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Boulevard de la Résistance - Plan-de-Cuques",
+    "address": "1 Boulevard de la Résistance - Plan-de-Cuques",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "larecharge - avenue Georges Pompidou - Plan-de-Cuques",
+    "address": "2 avenue Georges Pompidou - Plan-de-Cuques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale Les Tourres - Plan-de-Cuques",
+    "address": "5 Place Marcel Pagnol - Plan-de-Cuques",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*IZM - Marseille - 893 Avenue Salvador Allende",
+    "address": "893 Avenue Salvador Allende - Marseille",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 18 Avenue plein Sud - Plan-de-Cuques",
+    "address": "18 Avenue plein Sud - Plan-de-Cuques",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

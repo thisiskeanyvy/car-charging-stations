@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEML - Trementines - Rue Maurice Ravel",
+    "address": "Rue Maurice Ravel - Trémentines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage peugeot la cle des champs",
+    "address": "36 Rue de la Liberation - Nuaillé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A87 Aire de Trémentines (double sens)",
+    "address": "A87 - Aire de Trémentines - Trémentines",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DAD informatique",
+    "address": "3 Rue du breuil lambert - Nuaille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Z.A.I. de l'Ecuyère Nord Rue de l'Aubance - Cholet",
+    "address": "6 Rue de l'Aubance - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - AVENUE d'ANGERS 49 - CHOLET",
+    "address": "AVENUE d'ANGERS 49 - CHOLET",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - CC l’Autre Faubourg - Parking Sud-Est",
+    "address": "Rue Sorel Tracy - Cholet",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Allego - Cholet - 4 Rue du Layon,",
+    "address": "4 Rue du Layon, - Cholet",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Cholet",
+    "address": "Route d'Angers_Rond point des Pagannes - Cholet",
+    "connectors": [
+      "x5",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Magasin BlackStore",
+    "address": "4 Avenue d'Angers - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

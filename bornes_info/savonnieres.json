@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEIL - Savonnières - Route de Tours",
+    "address": "6 Rue du Châtonnay - Savonnières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "La Maison Tourangelle",
+    "address": "9 Route des Grottes Petrifiantes - Savonnières",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Parking office de tourisme - Villandry",
+    "address": "11 D16 - Villandry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIEIL - Hôtel Dieu - Allée Aimé Richardeau - Luynes",
+    "address": "Allée Aimé Richardeau - Luynes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ballan-Miré - Rue Du Sirocco",
+    "address": "Rue Du Sirocco - Ballan-Miré",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Vadea - A85, Aire des Jardins de Villandry (double sens)",
+    "address": "A85, Aire des Jardins de Villandry - Druye",
+    "connectors": [
+      "x2",
+      "x11",
+      "x2",
+      "x1",
+      "x17"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A85 Aire des Jardins de Villandry (Double sens)",
+    "address": "A85 / E60 - Druye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Modulo Energies - Avenue Jean Mermoz - Ballan-Miré",
+    "address": "Avenue Jean Mermoz - Ballan-Miré",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Virta - unknown - N/A",
+    "address": "unknown - N/A",
+    "connectors": [
+      "x4",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - blueteck - Luynes",
+    "address": "40 D6 - Luynes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

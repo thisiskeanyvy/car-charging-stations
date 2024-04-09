@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Hôtel l'Ermitage",
+    "address": "N118 - Meudon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Ibis Meudon-La-Forêt Vélizy",
+    "address": "7 Route du Colonel Marcel Moraine - Meudon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Siège Steria",
+    "address": "11 Avenue du Maréchal Juin - Meudon",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Technopole - Bouygues Télécom (Privé)",
+    "address": "13 Avenue du Maréchal Juin - Meudon",
+    "connectors": [
+      "x9",
+      "x4",
+      "x39",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dassault Systèmes (Uniquement pour les employés)",
+    "address": "6 Rue Marcel Dassault - Vélizy-Villacoublay",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electric 55 Charging - Allée Latécoère - Vélizy Villacoublay",
+    "address": "Allée Latécoère - Vélizy Villacoublay",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thales global service",
+    "address": "2 Rue Marcel Dassault - Vélizy-Villacoublay",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Thales Velizy-le-bois (Privé)",
+    "address": "22 Rue Grange Dame Rose - Vélizy-Villacoublay",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Synten (Privé)",
+    "address": "6 allée Latécoère - Velizy-Villacoublay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Vélizy 2 - Avenue de l'Europe",
+    "address": "2 Avenue de l'Europe - Vélizy-Villacoublay",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SIEIL - Luzillé - Place du 8 Mai",
+    "address": "6 Place du 8 mai 1945 - Luzillé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue Saint-Vincent - Épeigné-les-Bois",
+    "address": "6 Rue Saint-Vincent - Épeigné-les-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Route du Coteau - Épeigné-les-Bois",
+    "address": "Route du Coteau - Épeigné-les-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL -Virta 1268/1269 Rue principale - Le Liège",
+    "address": "Rue de la Palotterie - Le Liège",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - École - Francueil",
+    "address": "Rue Charles de Gaulle - Francueil",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Aire de covoiturage - péage de Bléré - D31 - Sublaines",
+    "address": "D31 - Sublaines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Château de Montpoupon - Cère-la-Ronde",
+    "address": "Chateau de Montpoupon - Cère-la-Ronde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - A85 Parking Péage - Sublaines",
+    "address": "D58/A85 - Sublaines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Sublaines - Rue Gérard Cordier",
+    "address": "Rue Gérard Cordier - Sublaines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Z.A. Bois Pataud - Civray-de-Touraine",
+    "address": "Z.A. Bois Pataud - Civray-de-Touraine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

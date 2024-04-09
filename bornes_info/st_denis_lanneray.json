@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE28 - Saint-Denis-les-Ponts",
+    "address": "Rue Jean Moulin - Saint-Denis-les-Ponts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Chatillon en Dunois",
+    "address": "4 Rue de Courtalain - Châtillon-en-Dunois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Saint Denis les ponts",
+    "address": "17 Rue des Alouettes - Saint-Denis-les-Ponts",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place de l'Église - Langey",
+    "address": "2 Place de l'Église - Commune nouvelle d'Arrou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place du 18 Octobre - Chateaudun",
+    "address": "27b Place du 18 Octobre - Châteaudun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel logis de chateaudun (Tesla et autres)",
+    "address": "9 La Varenne - Donnemain-Saint-Mamès",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot Bernier Chateaudun",
+    "address": "D 910 - Châteaudun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Planète Pêche - Châteaudun",
+    "address": "90 Rue des Fouleries - Châteaudun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Chateaudun",
+    "address": "10 Route de Tours - La Chapelle-du-Noyer",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nissan - Chapelle-du-Noyer",
+    "address": "228A Route nationale - La Chapelle-du-Noyer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

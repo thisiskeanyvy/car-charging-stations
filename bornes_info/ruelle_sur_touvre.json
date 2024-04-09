@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Place du champ de mars",
+    "address": "Place du Champ de Mars - Ruelle-sur-Touvre",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Rue Anatole France - L'Isle-d'Espagnac",
+    "address": "Rue Anatole France - L'Isle-d'Espagnac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPA - Impasse de la Volute",
+    "address": "200 Impasse de la Volute - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Sportif des Montagnes - Champniers",
+    "address": "Rue de la Génoise - Champniers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Rue de l'Auvent - Champniers",
+    "address": "62 Rue de l'Auvent - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Action - Champniers",
+    "address": "675 Rue De La Génoise - Champniers",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Hyundai - Champniers",
+    "address": "157 Rue De l'Entrait - Champniers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - Nissan ZA de Montagnes - Champniers",
+    "address": "ZA de Montagnes - Champniers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi - Rue de la Bisaiguë (Privé)",
+    "address": "250 Rue de la Bisaiguë - Champniers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue du Linteau - Champniers",
+    "address": "306 Rue du Linteau - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

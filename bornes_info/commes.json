@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Super U - Avenue du Général de Gaulle",
+    "address": "3 Avenue du Général de Gaulle - Port-en-Bessin-Huppain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BUMP-CHARGE - Port-en-Bessin-Huppain - Super U",
+    "address": "3 Avenue du Général de Gaulle - Port-en-Bessin-Huppain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Port-en-Bessin",
+    "address": "Avenue du Général de Gaulle - Port-en-Bessin-Huppain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mercure Omaha Beach - Port-en-Bessin-Huppain (Tesla and others)",
+    "address": "8 Le Colombier - Port-en-Bessin-Huppain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf Club Omaha Beach (Tesla and others)",
+    "address": "8 Chemin du Colombier - Port-en-Bessin-Huppain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Route d'Omaha Beach - Sainte Honorine des Pertes",
+    "address": "1 Route d'Omaha Beach - Russy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour - Bayeux",
+    "address": "7 Rue de Vaux-sur-Aure - Bayeux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Bayeux",
+    "address": "7-9 Route de Vaux sur Aure_C.C. d'Eindhoven - Bayeux",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Complexe Eindhoven - Bayeux",
+    "address": "Complexe EINDHOVEN - Bayeux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Chemin Saint-Julien - Bayeux",
+    "address": "6 Boulevard du 6 Juin - Bayeux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

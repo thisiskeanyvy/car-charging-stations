@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEEG33 - Les Dagueys - Libourne",
+    "address": "3 Rue de Schwandorf - Libourne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEEG33 - 7 Rue de Logrono - Libourne",
+    "address": "7 Rue de Logrono - Libourne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Libourne",
+    "address": "Avenue de la Ballastière - Libourne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 5 Rue des Annereaux - Lalande-de-Pomerol",
+    "address": "5 Rue des Annereaux - Lalande-de-Pomerol",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Libourne - Leclerc",
+    "address": "6 Avenue de la Roudet - Libourne",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps S.L./6923",
+    "address": "9 Rue Clement Ader - Saint-Denis-de-Pile",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Énergie Électrique de Gironde (SDEEG) - Libourne - 71 Rue Jules Steeg",
+    "address": "71 Rue Jules Steeg - Libourne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Robert Boulin Libourne",
+    "address": "25 Allée Robert Boulin - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare - Libourne",
+    "address": "Avenue Gallieni - Libourne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Greenspot - Lieu-dit Château Gaby - Fronsac",
+    "address": "Lieu-dit Château Gaby - Fronsac",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

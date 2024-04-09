@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Parking Chemin de la Lone",
+    "address": "Chemin de la Lone - Boulbon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La bastide de Boulbon",
+    "address": "2309F Chemin de la Lone - Boulbon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - Avenue Jean Moulin Aramon",
+    "address": "186 Avenue Jean Moulin - Aramon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SMED13 - Place Georges de Régis - Saint-Pierre-de-Mézoargues",
+    "address": "Place Georges de Régis - Saint-Pierre-de-Mézoargues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo - Vallabregues",
+    "address": "Boulevard Émile Jamais - Vallabrègues",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Simone13 - Route De Boulbon - Barbentane",
+    "address": "197 Route De Boulbon - Barbentane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "simone13 - Avenue Général de Gaulle",
+    "address": "3 Avenue du Général de Gaulle - Graveson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel Castel Mouisson (Tesla and others)",
+    "address": "247 Chemin sous les Roches - Barbentane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Moulin d'Aure - Restaurant Tutti Quanti",
+    "address": "112 Route du Cassoulen - Graveson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Place Colonel Berrurier - Tarascon",
+    "address": "4 Place Colonel Berrurier - Tarascon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

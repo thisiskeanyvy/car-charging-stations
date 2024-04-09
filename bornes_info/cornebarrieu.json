@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Métropole de Toulouse (Révéo) - Rue Jules Ferry - Cornebarrieu",
+    "address": "Rue Jules Ferry - Cornebarrieu",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Cornebarrieu",
+    "address": "Avenue Émile Dewoitine - Cornebarrieu",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Intermarché - Cornebarrieu",
+    "address": "Avenue Émile Dewoitine - Cornebarrieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Cinémotion",
+    "address": "3 Impasse Pierre Brossolette - Cornebarrieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Z.A. Dewoitine",
+    "address": "3 Rue Émile Dewoitine - Cornebarrieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ChargePoint network - 21 Chemin d'Uliet - Cornebarrieu",
+    "address": "21 Chemin d'Uliet - Cornebarrieu",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Airbus site : Jean-Luc LAGARDERE",
+    "address": "2 Avenue d'Aéroconstellation - Blagnac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leadership University Airbus",
+    "address": "10 Rue Franz Joseph Strauss - Blagnac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "airbus parking Eole",
+    "address": "37 Avenue Jean Monnet - Colomiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Blagnac - Speedy",
+    "address": "77 Rue Roland Garros - Blagnac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

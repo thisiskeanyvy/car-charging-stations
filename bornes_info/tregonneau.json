@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDEGO - Parking du gymnase - Montoir-de-Bretagne",
+    "address": "210 Avenue de l'Île de France - Montoir-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - rue de la Bernuais Montoir-de-Bretagne",
+    "address": "2 Rue de la Bernuais - Montoir-de-Bretagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking airbus - Rue Henri Gautier - Montoir-de-Bretagne (privé)",
+    "address": "75 Rue Henri Gautier - Montoir-de-Bretagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Trignac - 4 Route de Lonce",
+    "address": "4 Route de Lonce - Trignac",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEGO - Rue Louise Michel - Saint-Malo-de-Guersac",
+    "address": "Rue Louise Michel - Saint-Malo-de-Guersac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Montoir-de-Bretagne | Rue Henri Gautier 118",
+    "address": "118 Rue Henri Gautier - Montoir-de-Bretagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de la Mairie, 17 - Trignac",
+    "address": "17 Rue de la Mairie - Trignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SYDEGO - Les Six Croix, 2 - Donges",
+    "address": "2 Les Six Croix - Donges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bornes ZE Watt Airbus Atlantic (Privé)",
+    "address": "13 boulevard des Apprentis - Saint-Nazaire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Place de la Gare, 6 - Donges",
+    "address": "6 Place de la Gare - Donges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

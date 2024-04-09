@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sarl Garage de la Forêt",
+    "address": "34 route du lac - Mervent",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Rabelais - Fontenay-le-Comte (Tesla & autres)",
+    "address": "19 Rue de l'Ouillette - Fontenay-le-Comte",
+    "connectors": [
+      "x9",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Restaurant le Rabelais",
+    "address": "19 Rue de l'Ouillette - Fontenay-le-Comte",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydev - Rue de Rochefoucault - Fontenay-le-Comte",
+    "address": "Rue de Rochefoucault - Fontenay-le-Comte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel FONTARABIE",
+    "address": "57 Rue de la République - Fontenay-le-Comte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place Thiverçay - Rue Georges Clémenceau",
+    "address": "12-14 Rue Georges Clemenceau - Fontenay-le-Comte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SyDEV - Place de Verdun - Fontenay le Comte",
+    "address": "15 Boulevard du Chail - Fontenay-le-Comte",
+    "connectors": [
+      "x3",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SyDEV - Rue Gérard Guérin - Fontenay-le-Comte",
+    "address": "26 Rue Gérard Guérin - Fontenay-le-Comte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 4 Rue du Dr René Laforge - Fontenay-le-Comte",
+    "address": "4 Rue du Dr René Laforge - Fontenay-le-Comte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Fontenay le comte",
+    "address": "Avenue du Général de Gaulle - Fontenay-le-Comte",
+    "connectors": [
+      "x4",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

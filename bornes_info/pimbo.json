@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Parking Foyer",
+    "address": "15 route de cledes - Puyol cazalet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Place Marcadieu - Arzacq-Arraziguet",
+    "address": "Place Marcadieu - Arzacq-Arraziguet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine - Geaune",
+    "address": "Chemin de la Piscine - Geaune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Garlin - Avenue Georges Phesans",
+    "address": "Avenue Georges Phesans - Garlin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Plage Marcadieu - Garlin",
+    "address": "Rue Henri Cezerac - Garlin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Spar - Samadet",
+    "address": "Route d'Arzacq - Samadet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Pizzerias - Samadet",
+    "address": "13 Rue de l'Église - Samadet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Prés d'Eugénie - Rue René Vielle - Eugénie-les-Bains",
+    "address": "200 Rue René Vielle - Eugénie-les-Bains",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Vival - Mazerolles",
+    "address": "D32 - Mazerolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Hotel De Ville d'Aire-sur-l'Adour",
+    "address": "Place De L’Hotel De Ville - Aire-sur-l'Adour",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

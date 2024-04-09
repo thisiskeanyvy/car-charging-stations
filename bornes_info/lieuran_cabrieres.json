@@ -1,0 +1,126 @@
+[
+  {
+    "title": "E.Leclerc - Clermont-l'Hérault (proche de la sortie 57 de l'A75)",
+    "address": "507 Chemin de la Salamane - Clermont-l'Hérault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Clermont-l'Hérault",
+    "address": "2 Rue du Servent - Clermont-l'Hérault",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Big Mat - Clermont-l'Hérault",
+    "address": "10 Rue Du Cardinal - Clermont-l'Hérault",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alize (Bouygues Energies et Services) - Clermont-l'Hérault - 1 Quai Carnot",
+    "address": "1 Quai Carnot - Clermont-l'Hérault",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - 5 Cours de la Chicane - Clermont-l'Hérault",
+    "address": "5 Cours de la Chicane - Clermont-l'Hérault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Renault - Clermont l'Herault",
+    "address": "Voie Ampère - Clermont l'Herault",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Route de la Dolomie - Mourèze",
+    "address": "2 Route de la Dolomie - Mourèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LUMI'IN - Route de la Dolomie",
+    "address": "56 Route de la Dolomie - Mourèze",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Mixte Hérault Énergies (SDE34) - Paulhan - Rue Saint Sébastien",
+    "address": "Rue Saint Sébastien - Paulhan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - D123 - Le Pouget",
+    "address": "41 Rue de l'Estang - Le Pouget",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  }
+]

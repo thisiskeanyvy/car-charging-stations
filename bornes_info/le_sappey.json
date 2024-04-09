@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SYANE - Beaumont - Grand Rue",
+    "address": "95 Grand Rue - Beaumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6600025",
+    "address": "415 Chemin de Bottecreux - Collonges-sous-Salève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Mairie - Neydens",
+    "address": "60 Chemin Neuf - Neydens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Tesla Supercharger V2 - Archamps",
+    "address": "380 Rue Richard Gurley Drew - Archamps",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Archamps porte sud de Genève",
+    "address": "112 Rue Richard Gurley Drew - Archamps",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine Chateau des Avenieres - Cruseilles",
+    "address": "450 Rte Du Chateau - Cruseilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Parking du marché - Collonges-sous-Salève",
+    "address": "78 Route d'Annecy - Collonges-sous-Salève",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Saint-Blaise - 131 Route d'Annecy",
+    "address": "131 Route d'Annecy 74350 Saint-Blaise\r\n - Saint-Blaise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps S.L. - Archamps - 300 Rue Louis Rustin",
+    "address": "300 Rue Louis Rustin - Archamps",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - Route des Envignes Neydens",
+    "address": "Route des Envignes - Neydens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

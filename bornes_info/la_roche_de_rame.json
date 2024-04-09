@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syme05 - Le Clôt La Roche-de-Rame",
+    "address": "Le Clôt - La Roche-de-Rame",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Gare de L'Argentière-la-Bessée",
+    "address": "La Gare - L'Argentière-la-Bessée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Carrefour contact - l'Argentiere la béssée",
+    "address": "30 Avenue Charles de Gaulle - L'Argentière-la-Bessée",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Gare d'Eygliers",
+    "address": "94 N94 - Eygliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "evzen - Hôtel Lacour - Eygliers",
+    "address": "765 Route de la Gare - Eygliers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking Arsenal - Mont-Dauphin",
+    "address": "Montdauphin - Mont-Dauphin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Intermarché - Guillestre",
+    "address": "ZA Le Villard - Guillestre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Les Prés - Puy-Saint-Vincent",
+    "address": "Les Prés - Puy-Saint-Vincent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel St Roch - Puy-Saint-Vincent",
+    "address": "1 Les Près - Puy-Saint-Vincent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NL*EVB - puy saint vincent - RUE Clos rouzel",
+    "address": "RUE Clos rouzel - puy saint vincent",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

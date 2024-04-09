@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Place de Verdun - Cellieu",
+    "address": "6 Place de Verdun - Cellieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL (Mobiloire) - Place de Gaulle La Grand-Croix",
+    "address": "9 Place du Général de Gaulle - La Grand-Croix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEL (Mobiloire) - Espace Roger Rivière - La Grand-Croix",
+    "address": "2 Rue Louis Pasteur - La Grand-Croix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - A47 Aire du Pays du Giers",
+    "address": "A47 - AIRE DU PAYS DU GIERS - SAINT CHAMOND",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-Totem - A47 Aire du Pays du Gier - Saint-Chamond",
+    "address": "A47 Aire du Pays du Gier - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Qovoltis - Saint-Chamond - Campanile",
+    "address": "A47, Aire du Pays du Gier ZAC du Bourbon, Sortie n°15 - Saint-Chamond",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL (Mobiloire) - Rue Saint-Joseph, 4 - Lorette",
+    "address": "2 Rue Saint-Joseph - Lorette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mobiloire - Rue Suel Picat",
+    "address": "100 Rue Suel Picat - Saint-Romain-en-Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobiloire - Allée des Bourdonnes",
+    "address": "19 Allée des Bourdonnes - Genilac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - 18 Route des Côtes - L'Horme",
+    "address": "18 Route des Côtes - L'Horme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

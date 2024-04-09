@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Clermont-Ferrand | Rue Newton 20",
+    "address": "20 Rue Newton - Clermont-Ferrand",
+    "connectors": [
+      "x3",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Galerie - Nacarat",
+    "address": "Boulevard Saint-Jean - Clermont-Ferrand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SNCF - Avenue Jean mermoz (Privé)",
+    "address": "187 Avenue Jean mermoz - Clermont Ferrand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Clermont-Ferrand - Gedimat",
+    "address": "20 Rue Jules Verne - Clermont-Ferrand",
+    "connectors": [
+      "x3",
+      "x7",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Caillot (Privé)",
+    "address": "11 Rue Jules Verne - Clermont-Ferrand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Charles Bonpain",
+    "address": "34 Rue Jules Verne - Clermont-Ferrand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Grand Panier Bio/Bricoman - Clermont-Ferrand",
+    "address": "23 Avenue du Brézet - Clermont-Ferrand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Clermont-Ferrand",
+    "address": "8 Rue Louis Blériot - Clermont-Ferrand",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "B&B Hotel La Méridienne",
+    "address": "3 Impasse Kepler - Clermont-Ferrand",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Free Power - Rue Louis Blériot",
+    "address": "26 Rue Louis Blériot - Clermont-Ferrand",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

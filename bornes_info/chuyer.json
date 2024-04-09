@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Alizé - 3 Rue de l'Europe - Pélussin",
+    "address": "3 Rue de l'Europe - Pélussin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEL (Mobiloire) - Place des Portes - Sainte Croix en Jarez",
+    "address": "Place des Portes - Sainte Croix en Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Chavanay",
+    "address": "49-51 Route Nationale 86 - Chavanay",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Condrieu",
+    "address": "Route Nationale 86, - Condrieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Chavanay - Zone D’Activite De Verlieu",
+    "address": "Zone D’Activite De Verlieu - Chavanay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le Beau Rivage (Tesla et autres)",
+    "address": "2 Rue Beau Rivage - Condrieu",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Berthoir - Pelussin",
+    "address": "4 lieu dit le berthoir - Pélussin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de l'Industrie - Condrieu",
+    "address": "Rue de l'Industrie - Condrieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Route de Condrieu - Saint-Clair-du-Rhône",
+    "address": "10 Route de Condrieu - Saint-Clair-du-Rhône",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "e-born - Place Charles de Gaulle - Saint-Clair-du-Rhône",
+    "address": "Place Charles de Gaulle - Saint-Clair-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

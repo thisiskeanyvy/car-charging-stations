@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEPA - Salle polyvalente - Arette",
+    "address": "23 Rue du Virgou - Arette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Gamm Vert - Oloron",
+    "address": "13 Boulevard de l'Aragon - Oloron-Sainte-Marie",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Oloron Ste Marie",
+    "address": "Boulevard Aragon - Oloron-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Oloron-Sainte-Marie - Boulevard De L'aragon",
+    "address": "Boulevard De L'aragon - Oloron-Sainte-Marie",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Oloron-Sainte-Marie",
+    "address": "72 Rue des Oustalots Prolongée - Oloron-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEPA - Gare d'Oloron-Sainte-Marie",
+    "address": "4 Avenue de la Gare - Oloron-Sainte-Marie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Oloron-Sainte-Marie",
+    "address": "Avenue Alexander Fleming - Oloron-Sainte-Marie",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mairie d'Oloron-Sainte-Marie",
+    "address": "Place Georges Clemenceau - Oloron-Sainte-Marie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 19 Rue Lacoste - Escout",
+    "address": "19 Rue Lacoste - Escout",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking nord Bedous",
+    "address": "3 Rue Gambetta - Bedous",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

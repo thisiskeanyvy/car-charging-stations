@@ -1,0 +1,122 @@
+[
+  {
+    "title": "HOTEL RESTAURANT LE PETIT KOHLBERG",
+    "address": "le petit kohlberg - Lucelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CJ - P1 Online - Vendlincourt",
+    "address": "Chemin de la Gare - Vendlincourt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Green Motion SA - Bonfol - Rue de la Gare",
+    "address": "Rue de la Gare - Bonfol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Restaurant Les Rangiers",
+    "address": "42 Haut du village - Asuel",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place charles de Gaulle - Ferrette",
+    "address": "8 Rue Du Château - Ferrette",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FESP - Courgenay",
+    "address": "1 Les Pâles - Courgenay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eCarUp - 13 Route de Coeuve - Porrentruy",
+    "address": "13 Route de Coeuve - Porrentruy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GOFAST - Chem. de la Perche",
+    "address": "7 Chem. de la Perche - Porrentruy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Inconnu",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage de la Gare J. Montavon SA",
+    "address": "21 Rue Auguste-Cuenin - Porrentruy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Terminus (Tesla and others)",
+    "address": "31 Rue du Jura - Porrentruy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

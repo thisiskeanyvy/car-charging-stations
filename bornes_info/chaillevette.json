@@ -1,0 +1,134 @@
+[
+  {
+    "title": "ZEborne - Intermarché - La Tremblade",
+    "address": "Z.A.C. des Bregaudières - La Tremblade",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEER (MobiVE) - Les Mathes - Rue Saint Marie Cabinet médical",
+    "address": "Rue Saint Marie Cabinet médical - Les Mathes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Camping du Petit Pont",
+    "address": "111 Avenue de l'Etrade - Arvert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Rue du Docteur Fourcade - La Tremblade",
+    "address": "Rue du Docteur Fourcade - La Tremblade",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Av. de la Palmyre - Les Mathes",
+    "address": "Av. de la Palmyre, - Les Mathes",
+    "connectors": [
+      "x5",
+      "x8",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sequoia park",
+    "address": "27 Rue de la bergere - Just luzac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - St-Sulpice-de-Royan - Route de Saint-Palais",
+    "address": "12 Route de Saint-Palais - Saint-Sulpice-de-Royan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps S.L. - Le Gua - 2 Rue du Bassin",
+    "address": "2 Rue du Bassin - Le Gua",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belambra clubs Les Mathes",
+    "address": "Impasse de la Palombière - Les Mathes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CYCLE ELEC",
+    "address": "5 Route de Royan - Le Gua",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Sdec - Place du Foirail - Bonnat",
+    "address": "1 Place du Foirail - Bonnat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "PowerDot - Intermarché - Bonnat",
+    "address": "13 Avenue de la Marché - Bonnat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sdec - 2 Route de la Châtre - Genouillac",
+    "address": "2 Route de la Châtre - Genouillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Place du Chapelle de Foire - Aigurande",
+    "address": "53 Place du Chapelle de Foire - Aigurande",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gite Bouret Nelly",
+    "address": "9 La Vergnolle - Roches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Caure (réservé aux clients) - Fressigne - Bussière-Dunoise",
+    "address": "7 Fressigne - Bussière-Dunoise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Lourdoueix Saint-Michel",
+    "address": "L'Augère - Lourdoueix-saint-michel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Inermarché - Avenue d'Auvergne - Dun-le-Palestel",
+    "address": "5 Avenue d'Auvergne - Dun-le-Palestel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Dun-le-Palestel - 2 Place du Champ de Foire",
+    "address": "2 Place du Champ de Foire - Dun-le-Palestel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Pouligny-Notre-Dame",
+    "address": "7 Allée de la Fontvieille - Pouligny-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

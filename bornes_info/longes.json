@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEL (Mobiloire) - Place des Portes - Sainte Croix en Jarez",
+    "address": "Place des Portes - Sainte Croix en Jarez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Place de l'Église - Les Haies",
+    "address": "Place de l'Église - Les Haies",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - CHABANIERE - 197 Ancien canal de la Madeleine (privé)",
+    "address": "197 Ancien canal de la Madeleine null - CHABANIERE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Place Chipier - Rive-de-Gier",
+    "address": "Place Chipier - Rive-de-Gier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Bump - Intermarché - Rives de Gier",
+    "address": "Av. Maréchal Juin - Rive-de-Gier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - Route de Givors - Échalas",
+    "address": "Route de Givors - Échalas",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - 4 Route de Givors - Échalas",
+    "address": "100 Route de Givors - Échalas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "St Etienne Métropole - 1 Place Pasteur - Rive-de-Gier",
+    "address": "1 Place Pasteur - Rive-de-Gier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "St Etienne Métropole - 1 Cours Gambetta - Rive-de-Gier",
+    "address": "1 Cours Gambetta - Rive-de-Gier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "St Etienne Métropole - 6 Cours du 11 Novembre - Rive-de-Gier",
+    "address": "6 Cours du 11 Novembre - Rive-de-Gier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

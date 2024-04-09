@@ -1,0 +1,134 @@
+[
+  {
+    "title": "larecharge - Septemes-les-Vallons - Avenue du 8 Mai 1945 50",
+    "address": "Avenue du 8 Mai 1945 50 - Septemes-les-Vallons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Boulevard Antoine Vabre - Septèmes-les-Vallons",
+    "address": "Boulevard Antoine Vabre - Septèmes-les-Vallons",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ADRAOUAMINE",
+    "address": "140 avenue Batista Raphaël - septemes les vallons",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - i-station Lidl - Les Pennes-Mirabeau",
+    "address": "704 Chemin Des Pennes Aux Pins - Les Pennes-Mirabeau",
+    "connectors": [
+      "x6",
+      "x1",
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVzen - Les Pennes-Mirabeau - Norauto",
+    "address": "Plan de Campagne, Lieu Dit Le Rigonds Centre Commercial - Les Pennes-Mirabeau",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Station Karcher - Les Pennes-Mirabeau",
+    "address": "Zone commerciale plan de campagne - Les Pennes-Mirabeau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Recharge - Marseille15 - chemin des Bourelly",
+    "address": "51 Chemin des Bourrely - Marseille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Métropole Aix-Marseille Provence - Vieille Route de la Gavotte - Les Pennes-Mirabeau",
+    "address": "Vieille Route de la Gavotte - Les Pennes-Mirabeau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Les pennes mirabeau - Boconcept",
+    "address": "ZC PLAN DE CAMPAGNE - Les pennes mirabeau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Route de Calas - Les Pennes-Mirabeau",
+    "address": "Route de Calas - Les Pennes-Mirabeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

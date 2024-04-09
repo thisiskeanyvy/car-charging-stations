@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lac de Quillan",
+    "address": "300 de laval - Quillan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RMEE Borne triple est - Avenue François Mitterrand (Privé)",
+    "address": "Avenue François Mitterrand - Quillan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo - D14 - Rennes les Bains",
+    "address": "D14 - Rennes-les-Bains",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden (REVEO) - Mairie - Bugarach",
+    "address": "D14 - Bugarach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Quillan",
+    "address": "1 Avenue Michel Bousquie - Quillan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Place de la Gare - Quillan",
+    "address": "45 Boulevard Charles de Gaulle - Quillan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Arcadie bio",
+    "address": "ZA de Pastabrac - Couiza",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - parking Du Stade - Couisa",
+    "address": "Rue du Stade - Couiza",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Château des Ducs de Joyeuse (Tesla and others)",
+    "address": "1 Allée Georges Roux - Couiza",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue de Chalabre - Espéraza",
+    "address": "13 Avenue de Chalabre - Espéraza",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

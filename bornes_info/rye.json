@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Magnolia House Rye",
+    "address": "15 Udimore Road - Rye",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "The Bell At Iden (Tesla)",
+    "address": "Church Lane - Iden",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesco - Tenterden",
+    "address": "Longfield - Tenterden",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leisure Centre, Tenterden",
+    "address": "Recreation Ground Road - Tenterden",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station Road (West) Car Park, Tenterden",
+    "address": "Station Roadq - Tenterden,Kent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "West Street Car Park",
+    "address": "West Street - New Romney,Kent",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pelham Place Car Park",
+    "address": "Pelham Place Car Park - Hastings,East Sussex",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bannatyne Health Club & Spa",
+    "address": "East Lodge Approach - Hastings",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "30 Lancaster Close",
+    "address": "St Marys Close Hamstreet Station Car Park - Ashford",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "GeniePoint - Park Lane Mews - St. Leonards-on-Sea",
+    "address": "Park Lane Mews - St. Leonards-on-Sea",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

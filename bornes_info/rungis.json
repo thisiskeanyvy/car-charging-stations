@@ -1,0 +1,138 @@
+[
+  {
+    "title": "La Borne Bleue - Avenue de la République - Rungis",
+    "address": "Avenue de la République - Rungis",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Auguste Perret - Rungis",
+    "address": "Rue Auguste Perret - Rungis",
+    "connectors": [
+      "x10",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - Rungis - Icade Public Calgary",
+    "address": "Avenue Robert Schuman 25 - Rungis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Voie au Lard - Rungis",
+    "address": "Voie au Lard - Rungis",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Marché International de Rungis - Parking PI2 - Rungis",
+    "address": "Parking PI2 - Rungis",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Robert Schuman, 43 - Rungis",
+    "address": "43 Avenue Robert Schuman - Rungis",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Rungis - Best Western Paris Orly Airport",
+    "address": "4 Avenue Charles Lindbergh - Rungis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Burger King - Rungis",
+    "address": "1 Place du Relais - Rungis",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Monta - Rungis - Icade Public Barcelone",
+    "address": "Avenue Robert Schuman 43 - Rungis",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ricoh - Rungis (Privé)",
+    "address": "Entreprise Ricoh - rue d'Antony - Rungis",
+    "connectors": [
+      "x22",
+      "x21",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

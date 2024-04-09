@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Révéo - Avenue d'Occitanie - Pezens",
+    "address": "1 Avenue d'Occitanie - Pezens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden - La Halte Romaine - Villesèquelande",
+    "address": "12 Rue du Vinarium - Villesèquelande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - CC Leclerc Carcassonne Ouest",
+    "address": "RD6113 - Carcassonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Tryba - Chemin de Curculis",
+    "address": "5 Chemin de Curculis - Carcassonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden - Rue des Effaches Villegailhenc",
+    "address": "1 Rue des Effaches - Villegailhenc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DEBELEC - Boulevard François Xavier Fafeur - Carcassonne (Privé)",
+    "address": "2682 Boulevard François Xavier Fafeur - Carcassonne",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "L'Espitalet de Caux",
+    "address": "Domaine de l'Espitalet - Caux-et-Sauzens",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 31 Chemin de la Reille - Carcassonne",
+    "address": "31 Chemin de la Reille - Carcassonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENERSTOCK SAS - Carcassonne - - Route de Montreal",
+    "address": "- Route de Montreal - Carcassonne",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - 11 Route de Bram",
+    "address": "11 Route de Bram - Carcassonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

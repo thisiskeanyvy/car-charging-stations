@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Powerdot - Super U - Sarralbe",
+    "address": "86 Rue de Strasbourg - SARRALBE",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BP Europa SE - Freisen - 47-51 Baumholderstraße",
+    "address": "47-51 Baumholderstraße - Freisen",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de l'Hôpital - Sarralbe",
+    "address": "16 Rue de L Hôpital - Sarralbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Aire de Keskastel-Ouest (direction Strasbourg)",
+    "address": "A4 - Aire de Keskastel-Ouest - Keskastel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Fastned - A4 Aire de Keskastel-Ouest (direction Strasbourg)",
+    "address": "A4 - Keskastel",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A4 - Aire de Keskastel-Est (direction Metz)",
+    "address": "A4 - Keskastel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Quai de l'Albe - Sarralbe",
+    "address": "2 Quai de l'Albe - Sarralbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 3A Rue du Stade - Holving",
+    "address": "3A Rue du Stade - Holving",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Phalsbourg - Sarre-Union",
+    "address": "55 Route de Phalsbourg - Sarre-Union",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Sarre-Union",
+    "address": "Route de Phalsbourg - Sarre-Union",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

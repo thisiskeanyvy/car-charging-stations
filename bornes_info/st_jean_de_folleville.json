@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Mairie - Saint-Jean-de-Folleville",
+    "address": "6 Rue de l'Église - Saint-Jean-de-Folleville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Abbaye du Valasse",
+    "address": "289 Rue de la Briarderie - Gruchet-le-Valasse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Lillebonne",
+    "address": "2 Rue Auguste Desgenetais - Lillebonne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue des Sources - Saint Jean de Folleville",
+    "address": "59 Rue des Sources - Saint-Jean-de-Folleville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Coubertin - Boulevard de Lattre de Tassigny - Lillebonne",
+    "address": "12B Boulevard de Lattre de Tassigny - Lillebonne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Intermarche - Lillebonne",
+    "address": "248 Boulevard de Lattre de Tassigny - Lillebonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Musée gallo romain - Lillebonne",
+    "address": "1 Sentier de Croy - Lillebonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking mairie",
+    "address": "1–10 Rue de la Mairie - Saint-Nicolas-de-la-Taille",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Freshmile - Picard - Gruchet-le-Valasse",
+    "address": "Rue de l'Abbaye - Gruchet-le-Valasse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Lillebonne - Centre Hospitalier Intercommunal",
+    "address": "19 avenue René Coty - Lillebonne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

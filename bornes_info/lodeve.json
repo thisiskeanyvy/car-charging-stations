@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Zephyre - Hôtel de la Paix - Lodève",
+    "address": "5 Boulevard Montalangue - Lodève",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Logis ***la Paix -Charge à destination(Tesla only)",
+    "address": "13 Boulevard Montalangue - Lodève",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Place de La République - Lodève",
+    "address": "2 Place de la République - Lodève",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Garage Renault - Avenue Du Général De Gaulle",
+    "address": "354 Avenue Du Général De Gaulle - Lodève",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hall solanid",
+    "address": "Fumel - Lodeve",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Super U - Lodeve",
+    "address": "55 Avenue Général de Gaulle - Lodève",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - E.Leclerc - Le Bosc",
+    "address": "Zae la Méridienne Sortie 54, A75 - Le Bosc",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Superchargeur Tesla V3 - Le Bosc",
+    "address": "1 P.A. Méridienne - Le Bosc",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rouvayret - Saint-Jean-de-la-Blaquière",
+    "address": "Rouvayret / Route de Rabieux - Saint-Jean-de-la-Blaquière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Place de l'Église - Lunas",
+    "address": "Place de l'Église - Lunas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

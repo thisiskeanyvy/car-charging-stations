@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEF - Pont Croix (Place de la République)",
+    "address": "20 Rue du Docteur Neis - Pont-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Rue de Constantine Pont-Croix",
+    "address": "Rue Constantine - Pont-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Pont-Croix",
+    "address": "10 Rue de la Liberté - Pont-Croix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Office municipal de tourisme - Plouhinec",
+    "address": "Place Jean Moulin - Plouhinec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Poullan-sur-Mer (Place des Fêtes)",
+    "address": "Place Kreiz Ker - Poullan-sur-Mer",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d’Énergie et d’Équipement du Finistère (SDEF) - Plozévet - Impasse de la Mairie",
+    "address": "Impasse de la Mairie - Plozévet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Plozévet (Place du 8 mai 1945)",
+    "address": "Place du 8 Mai 1945 - Plozévet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Beuzec Cap Sizun (Place de la Mairie)",
+    "address": "Place de la Mairie - Beuzec-Cap-Sizun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Audierne (Place du Général de Gaulle)",
+    "address": "Place du Gén de Gaulle - Audierne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Landudec - Super U",
+    "address": "Rue Des Écoles - Landudec",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

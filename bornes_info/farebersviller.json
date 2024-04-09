@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Ionity - Farébersviller",
+    "address": "Centrz commercial B'EST - Farébersviller",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Place Du Marché - Farébersviller",
+    "address": "Place Du Marché - Farébersviller",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan - B'Est - Farébersviller",
+    "address": "D29 - Farébersviller",
+    "connectors": [
+      "x34",
+      "x31",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Farébersviller - CC B'Est",
+    "address": "61 Avenue Saint-Jean - Farébersviller",
+    "connectors": [
+      "x34"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electra - Freyming-Merlebach - Leclerc",
+    "address": "4 rue des Genêts, ZAC de Betting - Freyming-Merlebach",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Freyming-Merlebach",
+    "address": "4 Rue de Metz - Freyming-Merlebach",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue du 5 Décembre - Freyming-Merlebach",
+    "address": "18 Rue du 5 Décembre - Freyming-Merlebach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leroy Merlin - Forbach-Morsbach",
+    "address": "21 Parc Europa - Morsbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Forbach - Norauto",
+    "address": "Parc Europa - Morsbach",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Mairie de Hombourg-Haut",
+    "address": "19 Rue de Metz - Hombourg-Haut",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Le Tampon - Leclerc (parking avant)",
+    "address": "165 Rue Hubert Delisle - Le Tampon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc (parking arrière) - Tampon",
+    "address": "165 Route Hubert Delisle - Le Tampon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking cabinet dentaire Siano",
+    "address": "16 Rue Hubert Delisle - Tampon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue de l'Europe - Le Tampon",
+    "address": "Avenue de l'Europe - Le Tampon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - TotalEnergies Tampon - 82 Rue Charles Baudelaire - Le Tampon",
+    "address": "82 Rue Charles Baudelaire - Le Tampon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGEN Ligne - Route de la Ligne Paradis - Saint-Pierre",
+    "address": "44C Route de la Ligne Paradis - Saint-Pierre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Pierre - Cash OI",
+    "address": "3 Rue Des Pyroxenes - Saint-Pierre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tennis Club Saint Pierre",
+    "address": "3 Impasse Residence Les Tennis - Saint-Pierre",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Pierre - 3 Brasseurs",
+    "address": "4 Allée De La Zone - Saint-Pierre",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Burger King Saint Pierre",
+    "address": "3 Chemin De La Zone - Saint-Pierre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

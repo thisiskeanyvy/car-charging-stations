@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEEG33 - Mairie - Cestas",
+    "address": "1 Avenue du Baron Haussmann - Cestas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Point Lavage Service - Cestas (Privé)",
+    "address": "7 Chemin de Pujau - Cestas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - A63 Aire de Cestas-Bordeaux Ouest (direction Bayonne)",
+    "address": "0 Route des Estuaires - Cestas",
+    "connectors": [
+      "x1",
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - A63 Aire de Bordeaux-Cestas Est (direction Bordeaux)",
+    "address": "A63 - Cestas",
+    "connectors": [
+      "x1",
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - La Poste - Canéjan",
+    "address": "7 Chemin de Barbicadge - Canéjan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiVE - Place De La Rébublique - Cestas",
+    "address": "6 Place de la République - Cestas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vival - Canéjan",
+    "address": "Chemin de la House - Canéjan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Canéjan - 9 Rue Pierre Paul de Riquet",
+    "address": "9 Rue Pierre Paul de Riquet - Canéjan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Schneider electric - Canéjan",
+    "address": "31 Rue Thomas Edison - Canéjan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Canéjan | Avenue Gustave Eiffel 39",
+    "address": "39 Avenue Gustave Eiffel ZAC du Poujeau Pendu - Canéjan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

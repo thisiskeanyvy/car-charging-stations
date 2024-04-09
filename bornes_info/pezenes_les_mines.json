@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Alizé - Bédarieux - 99 Route de Clermont",
+    "address": "88 Route de Clermont - Bédarieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hérault Energies (Révéo) - Place Albert Thomas, 1 - Bédarieux",
+    "address": "1 Place Albert Thomas - Bédarieux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "LUMI'IN - Route de la Dolomie",
+    "address": "56 Route de la Dolomie - Mourèze",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Route de la Dolomie - Mourèze",
+    "address": "2 Route de la Dolomie - Mourèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SUPER U - Roujan",
+    "address": "Z C Avenue de Pézenas - Roujan",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue Pierre Pascal - Caux",
+    "address": "Rue Pierre Pascal - Caux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Avenue Jean Jaurès Le Bousquet-d'Orb",
+    "address": "61 Avenue Jean Jaurès - Le Bousquet-d'Orb",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - Château de Saint Pierre de Serjac",
+    "address": "D30 entre Pouzolles et Magalas - Puissalicon",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château Saint Pierre de Serjac (Tesla)",
+    "address": "D30 entre Pouzolles et Magalas - Puissalicon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue de la Promenade - Magalas",
+    "address": "1889 Rue de la Promenade - Magalas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

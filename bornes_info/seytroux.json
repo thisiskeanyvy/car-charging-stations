@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Action Groupe",
+    "address": "426 Route de la Ficle - St Jean d'Aulps",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route des Grandes Alpes - Saint-Jean-d'Aulps",
+    "address": "2073 Route des Grandes Alpes - Saint-Jean-d'Aulps",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market Saint-Jean-d'Aulps",
+    "address": "D902 - Saint-Jean-d'Aulps",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Parking - Abondance",
+    "address": "8 D22 - Abondance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Emplacement Camping-Cars - Morzine",
+    "address": "1318 Route de la Plagne - Morzine",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Le Cret",
+    "address": "905 Route de la Plagne - Morzine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Emerald Stay Apartments Morzine (Tesla and others)",
+    "address": "1065 Route de Morzine - Montriond",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant La Chaudanne (Tesla)",
+    "address": "590 Route de la Plagne - Morzine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Alpen Roc (Tesla and others)",
+    "address": "140 Taille de Mas des Champs de la Plagnes - Morzine",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Les Bruyères (Tesla and others)",
+    "address": "205 TDM des Champs de la Plagne - Morzine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

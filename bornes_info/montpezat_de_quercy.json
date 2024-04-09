@@ -1,0 +1,154 @@
+[
+  {
+    "title": "SDE82 - Rue du 19 Mars 1962 Montpezat-de-Quercy",
+    "address": "Rue du 19 Mars 1962 - Montpezat-de-Quercy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A20 Aire Bois de Dourre (double sens)",
+    "address": "A20 Aire De Bois Dourre - Montalzat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Saint-Vincent-d'Autéjac - 1380 Rte du Galdassié",
+    "address": "1380 Rte du Galdassié - Saint-Vincent-d'Autéjac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Rue Moissagaise Caussade",
+    "address": "40 Rue Moissagaise - Caussade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Caussade (Place des Mûriers)",
+    "address": "Place des Mûriers - Caussade",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Caussade",
+    "address": "12 Rue de Versailles - Caussade",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Caussade - Super U",
+    "address": "Route de Réalville - Caussade",
+    "connectors": [
+      "x8",
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE82 - Route des Pigeonniers Monteils",
+    "address": "410 Route des Pigeonniers - Monteils",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEL - Rue Blanie Castelnau-Montratier",
+    "address": "23 Rue Blanie - Castelnau-Montratier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Caussade - 69 Avenue Edouard Heriot",
+    "address": "69 Avenue Edouard Herriot - Caussade",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

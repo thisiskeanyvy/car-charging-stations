@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE07 - quai Jules Roche Serrières",
+    "address": "56 Quai Jules Roche (Sud) - Serrières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEDI - Rue Gustave Toursier - Sablons",
+    "address": "Rue Gustave Toursier - Sablons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - 27 rue Gaston Monmousseau - Roussillon",
+    "address": "27 rue Gaston Monmousseau - Roussillon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 27 rue Gaston Monmousseau - Roussillon",
+    "address": "27 rue Gaston Monmousseau - Roussillon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 27 rue Gaston Monmousseau - Roussillon",
+    "address": "27 rue Gaston Monmousseau - Roussillon",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - Salaise-sur-Sanne - 127 N7",
+    "address": "127 N7 - Salaise-sur-Sanne",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 5ème Avenue - Roussillon",
+    "address": "7 5ème Avenue - Roussillon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 27 rue Gaston Monmousseau - Roussillon",
+    "address": "27 rue Gaston Monmousseau - Roussillon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Green 7 - Salaise-sur-Sanne",
+    "address": "240 Route de Valence - Salaise-sur-Sanne",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Salaise",
+    "address": "165, route nationale 7 - Salaise",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Vauclus'Elec (SEV84) - Parking Cours des Isnards - Malaucene",
+    "address": "3 Traverse de l'Ancien Chemin d'Entrechaux - Malaucène",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - EHPAD Le Centenaire - Malaucène",
+    "address": "1254 route du hameau de veaux - Malaucène",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Avenue des Princes d'Orange - Entrechaux",
+    "address": "Avenue des Princes d'Orange - Entrechaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - 786 Chemin du Plan - Entrechaux",
+    "address": "786 Chemin du Plan - Entrechaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Crillon-le-Brave",
+    "address": "44 Rue De l'Eglise - Crillon-le-Brave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Crillon-le-Brave",
+    "address": "Place de l'église - Crillon-le-Brave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chene Bleu - La Verrière",
+    "address": "2820 Chemin de la Verriere - Crestet",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - Les Marchonnes - La Roque-Alric",
+    "address": "Les Marchonnes - La Roque-Alric",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Côté Lavande Mas des Escarabasses",
+    "address": "Route de Malaucène - Crestet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Route de Carpentras - Bedoin",
+    "address": "Route de Carpentras - Bédoin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

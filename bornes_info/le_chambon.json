@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Saint Etienne Métropole - 38 Rue Emile Zola - Le Chambon-Feugerolles",
+    "address": "38 Rue Emile Zola - Le Chambon-Feugerolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "St Etienne Métropole - Le Chambon-Feugerolles - Rue Thomas",
+    "address": "Rue Thomas - Le Chambon-Feugerolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GENESIENNE - Le Chambon-Feugerolles (Privé)",
+    "address": "Allée André Marie Ampère - Le Chambon-Feugerolles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Exadys - 7 Rue Robert Schuman",
+    "address": "7 Rue Robert Schuman - Le Chambon-Feugerolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Firminy",
+    "address": "12 Impasse des Artisans - Firminy",
+    "connectors": [
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Firminy",
+    "address": "1 Rue De l'Alcazar - Firminy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Firminy",
+    "address": "16 rue de la tour de varan - Firminy",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Gare SNCF - Firminy",
+    "address": "Avenue de la Gare - Firminy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Place du Champ de Mars - Firminy",
+    "address": "Place du Champ de Mars - Firminy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEL (Mobiloire) - Stade - Roche-la-Molière",
+    "address": "8 Impasse Jean Bouin - Roche-la-Molière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

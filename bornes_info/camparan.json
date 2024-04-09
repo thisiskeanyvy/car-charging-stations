@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE65 - Parking carrefour market",
+    "address": "2 D116 - Bourisp",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Interski - Vielle-Aure",
+    "address": "1 Chemin de Saint-Lary - Vielle-Aure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 (Révéo) - Chemin de Saint-Lary - Vielle-Aure",
+    "address": "Chemin de Saint-Lary - Vielle-Aure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking souterrain Hotel Mercure",
+    "address": "18 Rue de Soulan - Saint-Lary-Soulan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue des Chardons - Saint-Lary-Soulan",
+    "address": "2 Rue des Chardons - Saint-Lary-Soulan",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 (Révéo) - Office du tourisme de Saint Lary",
+    "address": "37 Rue Vincent Mir - Saint-Lary-Soulan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo- Parking du Téléphérique - Saint-Lary-Soulan",
+    "address": "1-3 Rue du Corps Franc Pommies - Saint-Lary-Soulan",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 12 Rue de l'Arbizon - ANCIZAN",
+    "address": "12 Rue de l'Arbizon - Ancizan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (REVEO) - Balnea - Loudenvielle",
+    "address": "Chemin du Lac - Loudenvielle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Drop'n Plug - Hôtel Mercure - Loudenvielle",
+    "address": "Chemin de Rioutor - Loudenvielle",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

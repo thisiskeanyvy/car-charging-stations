@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Rue de l'École - Ancelle",
+    "address": "Rue de l'École - Ancelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syme05 - Haute plaine - Chabottes",
+    "address": "Route d'Orcières - Chabottes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Pont du Fossé - Saint-Jean-Saint-Nicolas",
+    "address": "Pont du Fossé - Saint-Jean-Saint-Nicolas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Mairie de La Batie Neuve",
+    "address": "Place de la Mairie - La Bâtie-Neuve",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place des Fayores",
+    "address": "Chemin du pinauteau - Saint Michel de Chaillol",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte les Sitelles",
+    "address": "113 Chemin de la Ferme - Chorges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Suzuki - Gap",
+    "address": "109 Route de Briançon - Gap",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Ford - 105 Route de Briançon - Gap",
+    "address": "105 Route de Briançon - Gap",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gap | Route de la Justice 26",
+    "address": "26 Route de la Justice - Gap",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 94 Avenue d'embrun - Gap",
+    "address": "94 Avenue d'Embrun - Gap",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

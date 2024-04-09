@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Métropole de Brest - Place des Fusillés - Gouesnou",
+    "address": "Place des Fusillés - Gouesnou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Gouesnou - Hôtel Première Classe",
+    "address": "30bis avenue Baron Lacrosse - Gouesnou",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Brest Métropole - Rue Émile Roux",
+    "address": "Rue Émile Roux - Gouesnou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Gouesnou",
+    "address": "Rue Prosper Garnot - Gouesnou",
+    "connectors": [
+      "x2",
+      "x38"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V3 - E.Leclerc Gouesnou",
+    "address": "Rue Prosper Garnot - Gouesnou",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia-Express - Brest - Norauto",
+    "address": "77 Rue Amiral Romain Desfosses - Brest",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Gouesnou - Würth",
+    "address": "95 Rue Augustin Fresnel Zone de Kergaradec - Gouesnou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Magasin BUT - Brest",
+    "address": "Rue André Colin - Brest",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Kiabi - Brest",
+    "address": "Rue de Gouesnou 285 - Brest",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Castorama - Brest",
+    "address": "22 Rue André Colin - Brest",
+    "connectors": [
+      "x21",
+      "x25",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

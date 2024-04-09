@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Vinci - Villemoisson-sur-Orge - Parking des Fougères",
+    "address": "23\r\n Avenue du Grand Orme\r\n - Villemoisson-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Épinay-sur-Orge - Gare RER",
+    "address": "3-5 Rue Pasteur - Épinay-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - 13-19 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "address": "13-19 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Avenue Gabriel Péri - Sainte-Geneviève-des-Bois",
+    "address": "67 Avenue Gabriel Péri - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SMOYS - Place Ferdinand Buisson - Morsang-sur-Orge",
+    "address": "8 Place Ferdinand Buisson - Morsang-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - 43 Rue du Parc - Épinay-sur-Orge",
+    "address": "43 Rue du Parc - Épinay-sur-Orge",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Épinay-sur-Orge - Parking des Templiers",
+    "address": "1 Rue de la Croix Ronde - Épinay-sur-Orge",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SMOYS - Allée Beauséjour - Morsang-sur-Orge",
+    "address": "32 Allee Beausejour - Morsang-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Ste Geneviève des Bois",
+    "address": "110 Route de Corbeil - Sainte-Geneviève-des-Bois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Rue Henri Barbusse - Savigny Sur Orge",
+    "address": "24 Rue Henri Barbusse - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

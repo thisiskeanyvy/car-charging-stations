@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Fastned - A89 Aire du Manoire (double sens)",
+    "address": "Aire du Manoire - Boulazac Isle Manoire",
+    "connectors": [
+      "x7",
+      "x8",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 (MobiVE) - Rue René Lambert - Saint-Laurent-sur-Manoire",
+    "address": "Parking Mairie St Laurent sur Manoire - Saint-Laurent-sur-Manoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Rue Jules Supervielle",
+    "address": "78 Rue Supervielle - Boulazac Isle Manoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Périgueux",
+    "address": "ZA, Grand Font - Boulazac Isle Manoire",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Route du Camping - Boulazac Isle Manoire",
+    "address": "Route du Camping - Boulazac Isle Manoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Rue Jacques Prévert - Bassillac",
+    "address": "Rue Jacques Prévert - Bassillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug (Clicsysteme SAS) - Antonne-et-Trigonant - 185 Route des Gaunies",
+    "address": "185 Route des Gaunies - Antonne-et-Trigonant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Le Bourg - Rouffignac-Saint-Cernin-de-Reilhac",
+    "address": "Place du marché - Rouffignac-Saint-Cernin-de-Reilhac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6638005 INEXISTANT",
+    "address": "51 Avenue Henri Deluc - Boulazac Isle Manoire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Trélissac",
+    "address": "32 Avenue de l'Automobile - Trélissac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

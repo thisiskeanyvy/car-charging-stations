@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Ouest Charge - Place du 11 novembre Saint-Jean-de-Monts",
+    "address": "66 Rue du Général de Gaulle - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SyDEV - Gare Routière de Saint-Jean-de-Monts",
+    "address": "27 Boulevard Maréchal Leclerc - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Jean-de-Monts, Camping Le Bois Joly",
+    "address": "46 Route De Notre-Dame-De-Monts - Saint-Jean-de-Monts",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*CG0 - Saint-Jean-de-Monts - Rue De L'éteule - Naturalia",
+    "address": "18 Rue De L'éteule - Saint-Jean-de-Monts",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Hyper U (parking couvert) - Saint Jean de Monts",
+    "address": "22–24 Route de Challans - Saint-Jean-de-Monts",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U (entrée du magasin) - Saint-Jean-de-Monts",
+    "address": "20 Rue de la Chesselière - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "WattzHub - Saint-Jean-de-Monts - 12 Avenue des Pays de Monts",
+    "address": "16 Avenue des Pays de Monts - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Siblu Le Bois Masson",
+    "address": "33a Rue des Sables - Saint-Jean-de-Monts",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Camping Siblu - Saint Jean de Monts",
+    "address": "168 Rue des sables - St Jean de Monts",
+    "connectors": [
+      "x4",
+      "x4",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Autorecharge - 248 Rue de Notre Dame - Saint-Jean-de-Monts",
+    "address": "248 Rue de Notre Dame - Saint-Jean-de-Monts",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

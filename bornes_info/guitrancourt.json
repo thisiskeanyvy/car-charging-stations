@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SEYMABORNE - Rue André Touraud - Guitrancourt",
+    "address": "9 Rue André Touraud - Guitrancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Vieux Chemin de Paris - Guitrancourt",
+    "address": "Vieux Chemin de Paris - Guitrancourt",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belbéoc'h",
+    "address": "8 Rue des Hauts Reposoirs - Limay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Limay",
+    "address": "Route de Meulan - LIMAY",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Gare - Issou",
+    "address": "48 Rue de la Gare - Issou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue Pasteur - Fontenay-Saint-Père",
+    "address": "26bis Rue Pasteur - Fontenay-Saint-Père",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SEYMABORNE - Place Robespierre - Limay",
+    "address": "59 Place Maximilien de Robespierre - Limay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Mairie de Limay",
+    "address": "14 Avenue du Président Wilson - Limay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "VERI - Veolia Recherche et Innovation - Centre de recherche de Limay (Privé)",
+    "address": "291 Avenue Daniel Dreyfous Ducas - LIMAY",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour Market - Gargenville - 24 Av. de Paris,",
+    "address": "24 Av. de Paris, - Gargenville",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

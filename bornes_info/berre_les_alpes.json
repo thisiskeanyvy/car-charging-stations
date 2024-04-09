@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Parking place Allardi",
+    "address": "3 Avenue Charles Alunni - Contes",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Parking jardin theatre helice (Privé)",
+    "address": "70 Route de Châteauneuf-Villevieille - Alpes-Maritimes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - 46-138 Boulevard du Brec",
+    "address": "46-138 Boulevard du Brec - Châteauneuf-Villevieille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Tourrette-Levens - 71 Chemin de Saint-Sébastien",
+    "address": "71 Chemin de Saint-Sébastien - Tourrette-Levens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Prise de Nice - Mairie de Tourrette-Levens",
+    "address": "54-70 Place du Docteur Paul Simon - Tourrette-Levens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Drap - Allée Jacques Prévert",
+    "address": "Allée Jacques Prévert - Drap",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Devant le bureau de poste.",
+    "address": "Avenue du Collet - Sainte-Claire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Levens - 645 Avenue Général de Gaulle",
+    "address": "645 Avenue Général de Gaulle - Levens",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Avenue general de gaulle - Drap",
+    "address": "Avenue general de gaulle - Drap",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Route de Colomars - Aspremont",
+    "address": "10 Route de Colomars - Aspremont",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

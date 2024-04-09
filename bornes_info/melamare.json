@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Parking mairie",
+    "address": "1–10 Rue de la Mairie - Saint-Nicolas-de-la-Taille",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Gruchet-le-Valasse",
+    "address": "6104 Rue de l'Abbaye - Gruchet-le-Valasse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl Gruchet le valasse",
+    "address": "Rue de Abbaye - Gruchet le valasse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Picard - Gruchet-le-Valasse",
+    "address": "Rue de l'Abbaye - Gruchet-le-Valasse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Gruchet-le-Valasse",
+    "address": "Rue de l'Abbaye - Gruchet-le-Valasse",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE76 - Rue des Châtaigniers - La Remuée",
+    "address": "Rue des Châtaigniers - La Remuée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Abbaye du Valasse",
+    "address": "289 Rue de la Briarderie - Gruchet-le-Valasse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie - Saint-Jean-de-Folleville",
+    "address": "6 Rue de l'Église - Saint-Jean-de-Folleville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Poste - Place Felix Faure - Bolbec",
+    "address": "4 Place Felix Faure - Bolbec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Mairie de La Cerlangue",
+    "address": "2 Route de Saint-Romain - La Cerlangue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE22 - Plédran",
+    "address": "Place Julien Tanguy - Plédran",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine du Grenier",
+    "address": "Route de la Croix Bertrand - Yffiniac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Courtepaille - Saint-Brieuc Brézillet",
+    "address": "2 Michel Audiard - Tregueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - McDonald's - Trégueux",
+    "address": "75 Rue de la Fontaine - Trégueux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Trégueux",
+    "address": "Place François Mitterand - Trégueux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Trégueux - 4 Rue Michel Audiard",
+    "address": "4 Rue Michel Audiard - Trégueux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - ZA du Perray à Tregueux",
+    "address": "2 Rue louis Paturel - Trégueux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hyundai Trégueux",
+    "address": "26 Rue du Gué Lambert, - Trégueux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Trégueux",
+    "address": "32 Rue de la République - Trégueux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Mairie de Saint-Julien",
+    "address": "Rue de Sainte-Anne - Saint-Julien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

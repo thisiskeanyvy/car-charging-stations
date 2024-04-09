@@ -1,0 +1,134 @@
+[
+  {
+    "title": "ChargePoint Network - Rue André Ravalee",
+    "address": "Rue André Ravalee - Dreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Léon - Dreux",
+    "address": "7 Rue de la Garenne - Dreux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Rue des Fontaines - Dreux",
+    "address": "7 Rue des Fontaines - Dreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Dreux",
+    "address": "120 Avenue du Général Leclerc - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Cora - Dreux",
+    "address": "Rue des Bas Buissons - Dreux",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault - Dreux",
+    "address": "1 Chemin de la Mare - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Dreux",
+    "address": "1 rue René Miet - Dreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "2 Rue de la Bonde",
+    "address": "2 Rue de la Bonde - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Métézeau - Dreux",
+    "address": "2 Boulevard Louis Terrier - Dreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi",
+    "address": "52 Avenue des Fenots - Dreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

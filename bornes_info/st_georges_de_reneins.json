@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Leclerc - Saint-Georges-de-Reneins",
+    "address": "Rue de l'Industrie - Saint-Georges-de-Reneins",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Médiathèque d'Arnas",
+    "address": "2 Rue du Beaujolais - Arnas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Belleville-en-Beaujolais - 175 Rue Des Terres Aux Dames",
+    "address": "175 Rue Des Terres Aux Dames - Belleville-en-Beaujolais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking de la passerelle - Arnas",
+    "address": "226 Ancienne Route de Beaujeu - Arnas",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de la Serve de Vignes - Belleville-en-Beaujolais",
+    "address": "Rue de la Serve de Vignes - Belleville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - St Etienne des Ouillères",
+    "address": "190 Rue du Beaujolais - Saint-Étienne-des-Oullières",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Boulevard Gambetta - Belleville-en-Beaujolais",
+    "address": "Boulevard Gambetta - Belleville-en-Beaujolais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Rue de la République - Belleville-en-Beaujolais",
+    "address": "1 Rue de la République - Belleville-en-Beaujolais",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Colruyt - Rue de l'Étang - Belleville-en-Beaujolais",
+    "address": "6 Rue de l'Étang - Belleville-en-Beaujolais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Gleize - GHT Hôpital - Parking Salarié 1",
+    "address": "Route d'Epinay - Gleize",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

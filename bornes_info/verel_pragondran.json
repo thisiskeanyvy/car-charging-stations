@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDES73 (Eborn) - Rue du Genevois Chambéry",
+    "address": "184 Rue du Genevois - Chambéry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le cristal - Chambéry",
+    "address": "1 Place du Forum - Chambéry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Saint-Alban-Leysse - Avenue De La Mairie",
+    "address": "Avenue De La Mairie - Saint-Alban-Leysse",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDES73 - Place du Commerce Saint-Alban-Leysse",
+    "address": "68 Place du Commerce - Saint-Alban-Leysse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDES73 - Rue d'Anjou - Chambéry le Haut",
+    "address": "2 Rue d'Anjou - Chambéry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Bassens",
+    "address": "21 Rue Centrale - Bassens",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps - Saint-Alban-Leysse - 591 Avenue de Chambéry",
+    "address": "591 Avenue de Chambéry - Saint-Alban-Leysse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Alban-Leysse - Sport 2000",
+    "address": "487 Avenue de Chambéry - Saint-Alban-Leysse",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVzen - Norauto - Chambéry",
+    "address": "885 Rue de la Martinière - Bassens",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Ekosport - Saint-Alban-Leysse",
+    "address": "80 Rue des Églantiers - Saint-Alban-Leysse",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

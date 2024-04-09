@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE07 - Parking Place de l'Ecole",
+    "address": "40 Route de Bourg saint Andéol (RD86) - Saint-Just-d'Ardèche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE07 - Chemin Le Grand Clos",
+    "address": "125 Chemin du Grand Clos - Saint-Martin-d'Ardèche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Bellevue - Saint-Martin-d'Ardèche (Tesla and others)",
+    "address": "Rue du Candèlas - Saint-Martin-d'Ardèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Pont-Saint-Esprit",
+    "address": "100 Chemin de Saint-Pancrace - Pont-Saint-Esprit",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SMEG30 - Avenue de l'École",
+    "address": "338 Avenue de l'École - Saint-Paulet-de-Caisson",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - Place du 18 Juin 1940 Pont-Saint-Esprit",
+    "address": "3 Place du 18 Juin 1940 - Pont-Saint-Esprit",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Rue du Barry - Lapalud",
+    "address": "6317 Rue du Barry - Lapalud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lapalud | Avenue de Montélimar 81",
+    "address": "81 Avenue de Montélimar - Lapalud",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Precisium vigouroux garage",
+    "address": "General lecrec - Pont st esprit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pont-Saint-Esprit",
+    "address": "6-16 Chemin du Saut du Levreau - Pont-Saint-Esprit",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

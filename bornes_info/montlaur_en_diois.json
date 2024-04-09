@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Camping les foulons",
+    "address": "1 Rue de la Piscine - Luc-en-Diois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED Place des bains - Luc-en-Diois",
+    "address": "1 Rue du Lavoir - Luc-en-Diois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Moulin de Solaure",
+    "address": "137 chemin du moulin - Aix-en-Diois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Solaure en Diois",
+    "address": "La Gaffe - Solaure en Diois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Chemin Du Four - Menee",
+    "address": "4 Chemin Du Four - Treschenu-Creyers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Garage Favier",
+    "address": "Route des Alpes - Die",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-born - Rue de Pluvianne",
+    "address": "Rue de Pluvianne - Die",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED (E-born) - Rue de la Cure - Saint-Nazaire-le-Désert",
+    "address": "45 place de la Mairie - Saint-Nazaire-et-Celseen-le-Désert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDED - Office du Tourisme du Diois",
+    "address": "Rue Félix Germain - Die",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Super U - Die",
+    "address": "5 Rue Auguste Simon - Die",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

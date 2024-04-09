@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Place Du Marché - Farébersviller",
+    "address": "Place Du Marché - Farébersviller",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ionity - Farébersviller",
+    "address": "Centrz commercial B'EST - Farébersviller",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Auchan - B'Est - Farébersviller",
+    "address": "D29 - Farébersviller",
+    "connectors": [
+      "x34",
+      "x31",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Farébersviller - CC B'Est",
+    "address": "61 Avenue Saint-Jean - Farébersviller",
+    "connectors": [
+      "x34"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Entreprise JECA",
+    "address": "11 Rue Laplace - Behren-lès-Forbach",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy Merlin - Forbach-Morsbach",
+    "address": "21 Parc Europa - Morsbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEW USOCOME",
+    "address": "01 Technopôle Forbach Sud - Oeting",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Forbach - Norauto",
+    "address": "Parc Europa - Morsbach",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Cora - Forbach",
+    "address": "59 Avenue de l'Europe - Forbach",
+    "connectors": [
+      "x2",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BMW - Forbach",
+    "address": "327 Rue Nationale - Forbach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

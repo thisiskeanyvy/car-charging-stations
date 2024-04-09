@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDE24 - Route De Riberac - La Rochebeaucourt-et-Argentine",
+    "address": "64-68 Rue de Ribérac - La Rochebeaucourt-et-Argentine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE24 - Place de la Felibree Mareuil",
+    "address": "2 Place de la Felibree - Mareuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEG16 - 58 Grand Rue - Villebois-Lavalette",
+    "address": "58 Grand Rue - Villebois-Lavalette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Villebois-Lavalette - Route de Sigalauds",
+    "address": "Route de Sigalauds - Villebois-Lavalette",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEG16 - 9 Rue de la Clef d'Or - Dignac",
+    "address": "9 Rue de la Clef d'Or - Dignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Le Bourg Verteillac",
+    "address": "Le Bourg - Verteillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat Départemental d'Electricité et de Gaz de Charentes (SDEG16) - Place Du Pigeonnier - Marthon",
+    "address": "Place Du Pigeonnier - Marthon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Javerlhac-et-la-Chapelle-Saint-Robert - Place du 8 Mai 1945",
+    "address": "Place du 8 Mai 1945 - Javerlhac-et-la-Chapelle-Saint-Robert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de co-voitureage - Rue de Bellevue",
+    "address": "1081 Rue de Bellevue - Garat",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 (MobiVE) - Place du Foirail - Saint-Crépin-de-Richemont",
+    "address": "Place du Foirail - Saint-Crépin-de-Richemont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

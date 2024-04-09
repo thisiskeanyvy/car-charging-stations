@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SEHV - Avenue de Lorraine - Châteauponsac",
+    "address": "Avenue de Lorraine - Châteauponsac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Office du tourisme chateauponsac",
+    "address": "18 Place Xavier Mazurier - Châteauponsac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Place Xavier Mazurier - Châteauponsac",
+    "address": "Place Xavier Mazurier - Châteauponsac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Piscine lac saint Pardoux - Puy de la Lande - Razès",
+    "address": "Puy de la Lande - Razès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - D44A3 Maison du Lac - Razès",
+    "address": "D44A3 Maison du Lac - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Châteauponsac",
+    "address": "1 Les Faugerades - Châteauponsac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - N145, Aérodrome de Bellac - Blanzac",
+    "address": "- Blanzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Les Forges de Planechaud",
+    "address": "10 Planechaud - Saint-Sornin-Leulac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Rue De La Libération - Razès",
+    "address": "30 Rue De La Libération - Razès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Mairie de Bellac",
+    "address": "12 Rue Denfert Rochereau - Bellac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

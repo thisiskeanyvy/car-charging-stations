@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDEF - Saint Thégonnec (Place Park An Illis)",
+    "address": "Rue de Brest - Saint-Thégonnec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NW IECharge - Saint-Thégonnec Loc-Eguiner - Coat Coulouarn",
+    "address": "Coat Coulouarn - Saint-Thégonnec Loc-Eguiner",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - D785/N12 Aire de covoiturage - Sainte-Sève",
+    "address": "D785 Aire de covoiturage - Sainte-Sève",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Super U - Pleyber-Christ",
+    "address": "Zone Artisanale de la Justice - Pleyber-Christ",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Parking de La Poste - Pleyber-Christ",
+    "address": "44bis Rue de la République - Pleyber-Christ",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "6 Rue Goarem Pella",
+    "address": "6 Rue Goarem Pella - Saint-Martin-des-Champs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Galerie - Géant Morlaix",
+    "address": "Saint-Martin-des-Champs - Morlaix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Garage Beyou Volkswagen Morlaix",
+    "address": "26 Route de Plouvorn - Saint-Martin-des-Champs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEF - Guimiliau - Rue du Calvaire (car sharing only)",
+    "address": "Rue du Calvaire - Guimiliau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Saint Martin des Champs (Place de la Mairie)",
+    "address": "Rue de la Mairie - Saint-Martin-des-Champs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Mairie de Bordeaux - Annexe",
+    "address": "2, rue Joseph de Carayon Latour - Bordeaux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Ecole Nationale de la Magistrature",
+    "address": "31 Rue des Frères Bonie - Bordeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking République",
+    "address": "0 Pl. de la République - Bordeaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Centre Commercial Mériadeck",
+    "address": "10 Rue Père Dieuzaide - Bordeaux",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Gambetta - Rue Edmond Michelet - Bordeaux",
+    "address": "2605 Rue Edmond Michelet - Bordeaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pey Berland -Saint Christoly - Place Pey Berland - Bordeaux",
+    "address": "17 Place Pey Berland - Bordeaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking 8 Mai 1945",
+    "address": "Rue Jean Fleuret - Bordeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Terrasse du Front du Médoc - Rue Robert Lateulade",
+    "address": "5 Rue Robert Lateulade - Bordeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "4 Rue de Cursol",
+    "address": "4 Rue de Cursol - Bordeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Front du Médoc",
+    "address": "5 Rue Robert Lateulade - Bordeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 3C",
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

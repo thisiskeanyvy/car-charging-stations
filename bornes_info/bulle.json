@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Parking de l'hôtel de ville",
+    "address": "18 Rue Anatole France - Puteaux",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 23 rue Chante-coq - Puteaux",
+    "address": "23 rue Chante-coq - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Borne individuelle",
+    "address": "9 Rue Marius Jacotot - Puteaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking einchenberger",
+    "address": "46 Rue Eugène Eichenberger - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 1 place du souvenir français - Puteaux",
+    "address": "4 Fernand Pelloutier - Puteaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - parking Boieldieu Av. Jean Moulin - Puteaux",
+    "address": "Av. Jean Moulin - Puteaux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sigeif - parking de l'ile - Puteaux",
+    "address": "22 rue parking de l'Ile - Puteaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Boulevard Richard Wallace - Puteaux",
+    "address": "36 Boulevard Richard Wallace - Puteaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 70 Avenue du Général de Gaulle - Puteaux",
+    "address": "70 Avenue du Général de Gaulle - Puteaux",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking Gras Savoye / Havas (employés et visiteurs)",
+    "address": "33 Quai de Dion Bouton - Puteaux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

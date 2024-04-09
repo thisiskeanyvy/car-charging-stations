@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Sigeif - Avenue de la 1ère Armée Française - Montmorency",
+    "address": "23 Avenue de la 1ère Armée Française - Montmorency",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Saint-Brice-sous-Forêt",
+    "address": "20 Avenue Robert Schuman - Saint-Brice-sous-Forêt",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Saint-Brice-sous-Forêt",
+    "address": "5 Avenue Robert Schuman - SAINT-BRICE-SOUS-FORET",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Norauto",
+    "address": "9 Avenue Robert Schuman - Saint-Brice-sous-Forêt",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 2 Avenue Robert Schumann - Saint-Brice-sous-Forêt",
+    "address": "2 Avenue Robert Schumann - Saint-Brice-sous-Forêt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Cimetière - Rue Des Carrières",
+    "address": "21bis Rue Des Carrières - Groslay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Rue du Docteur Demirleau - Montmorency",
+    "address": "Rue du Docteur Demirleau - Montmorency",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Sigeif - Parking des Alluets - Groslay",
+    "address": "60 Dr GOLDSTEIN - Groslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Rue de Paris Parking des Fauvettes - Domont",
+    "address": "Rue de Paris Parking des Fauvettes - Domont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Rue Des Ecricrolles 4 95410 Groslay",
+    "address": "Rue Des Ecricrolles 4 - Groslay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

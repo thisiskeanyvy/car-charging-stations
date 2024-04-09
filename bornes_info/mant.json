@@ -1,0 +1,134 @@
+[
+  {
+    "title": "TotalEnergies - Rue Gambetta - Mantes-la-Jolie",
+    "address": "Rue Gambetta - Mantes-la-Jolie",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking mairie - Mantes-la-Jolie",
+    "address": "13 Place de la République - Mantes-la-Jolie",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Place Saint-Jacques - Mantes-la-Jolie",
+    "address": "Place Saint-Jacques - Mantes-la-Jolie",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Sangle - Mantes-la-Jolie",
+    "address": "Rue de la Sangle - Mantes-la-Jolie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Méga CGR - Mantes-la-Jolie",
+    "address": "Place Henry Dunant - Mantes-la-Jolie",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - Rue d'Alsace - Mantes-la-Jolie",
+    "address": "Rue d'Alsace - Mantes-la-Jolie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y01 - Mantes-la-Jolie - 15 Boulevard des Cygnes",
+    "address": "15 Boulevard des Cygnes - Mantes-la-Jolie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Mantes-la-ville (bd roger salengro)",
+    "address": "4-10 Boulevard Roger Salengro - Mantes-la-Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TOTAL Energies - Relais de Mantes-la-Ville",
+    "address": "4 rue de Chantereine - Mantes-la-Ville",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEY Ma Borne - Rue Frédéric Mistral - Mantes-la-Ville",
+    "address": "Rue Frédéric Mistral - Mantes-la-Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

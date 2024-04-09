@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Picardy - Saint Dizier",
+    "address": "15 avenue de verdun - Saint dizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Saint-Dizier",
+    "address": "16 avenue Pierre Bérégovoy - Saint-Dizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - 2 Rue Lebon - Éclaron-Braucourt-Sainte-Livière",
+    "address": "2 Rue Lebon - Éclaron-Braucourt-Sainte-Livière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel Brit - Saint-Dizier",
+    "address": "23 Rue des Mérovingiens - Saint-Dizier",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Superchargeur Tesla V4 - Saint Dizier",
+    "address": "Rue des Mérovingiens - St.-Dizier",
+    "connectors": [
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Restaurant \"La Boucherie\" - Saint-Dizier",
+    "address": "Rue des Merivingiens - Saint-Dizier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Saint-Dizier - Decathlon",
+    "address": "9005 Rue des Mérovingiens, 52100 Saint-Dizie - Saint-Dizier",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZAC du Chêne St-Amand",
+    "address": "Rue des Mérovingiens - Saint-Dizier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - McDonald's - Saint-Dizier",
+    "address": "Avenue du Chêne Saint-Amand - Saint-Dizier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Buffalo Grill - Saint-Dizier (Tesla and others)",
+    "address": "7 Avenue de Joinville - Saint-Dizier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

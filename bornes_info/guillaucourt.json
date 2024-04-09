@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FDE80 - Rue de Mesmy Harbonnières",
+    "address": "18 Rue de Mesmy - Harbonnières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Zeborne - Place du Maréchal Leclerc",
+    "address": "13 Place du Maréchal Leclerc - Rosières-en-Santerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Rue Curie - Rosières-en-Santerre",
+    "address": "Rue Curie - Rosières-en-Santerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - 17 rue de Moreuil - Sailly-Laurette",
+    "address": "17 rue de Moreuil - Sailly-Laurette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A29 Aire de Villers-Bretonneux (double sens)",
+    "address": "A13 - Villers-Bretonneux",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDE80 - Place de la Mairie - Hangest-en-Santerre",
+    "address": "Place de la Mairie - Hangest-en-Santerre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place de l'Église - Arvillers",
+    "address": "14 Place de l'Église - Arvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDE80 - CORBIE rue du 11 Novembre",
+    "address": "3 Rue du 11 Novembre 1918 - CORBIE",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôpital de Corbie",
+    "address": "35 Rue Gambetta - Corbie",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue Léon Cure - Corbie",
+    "address": "14 Rue Léon Cure - Corbie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

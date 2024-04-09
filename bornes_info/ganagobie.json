@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Peyruis | Espace Saint-Pierre 11",
+    "address": "11 Espace Saint-Pierre - Peyruis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Z.I Mardaric / La Sève (Sortie 20)",
+    "address": "6071 La Sève - Peyruis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE04 - Parking rue de l'Hôpital - Les Mées",
+    "address": "3 Rue de L Hôpital - Les Mées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Hameau Des Pourcelles - Les Mées",
+    "address": "Hameau Des Pourcelles - Les Mées",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TAXI AUBIGNOSC",
+    "address": "15 Rue de la Savoie - Château-Arnoux-Saint-Auban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Carrefour Market (Sortie 19) - La Brillanne",
+    "address": "20 Route des Alpes - La Brillanne",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - La Brillanne - Bricorama",
+    "address": "Impasse des Romarins - La Brillanne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Route des Alpes, 15 - La Brillanne",
+    "address": "15 Route des Alpes - La Brillanne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE04 - Parking Gabriel Cordier",
+    "address": "819 Rue Gabriel Cordier - Château-Arnoux-Saint-Auban",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Domaine Ribiera, Hôtel 5*, Restaurant, SPA & Golf Resort",
+    "address": "635 Route De Forcalquier - Niozelles",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

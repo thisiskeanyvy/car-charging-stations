@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDET - Blan",
+    "address": "Rue du Mont - Blan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDET (Révéo) - Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "address": "Chemin des Boulbènes - Saint-Sernin-lès-Lavaur",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chargepoint - Intermarché - Puylaurens",
+    "address": "Route de Revel - Puylaurens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Route de Revel - Puylaurens",
+    "address": "Route de Revel - Puylaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place du Ravelin - Puylaurens",
+    "address": "Place du Foirail - Puylaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Revel",
+    "address": "Route de Castres - Revel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Avenue de Castres - Revel",
+    "address": "8–14 Avenue de Castres - Revel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 11 Rue Gay-Lussac - Revel",
+    "address": "11 Rue Gay-Lussac - Revel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché à coté du drive - Revel",
+    "address": "Parking Intermarché Revel - Revel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Centrakor - Revel",
+    "address": "20 Rue Clemence Isaure - Revel",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

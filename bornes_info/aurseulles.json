@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Livry",
+    "address": "Le Bourg - Livry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - VILLERS BOCAGE (Rue des Halles)",
+    "address": "Rue des Halles - Villers-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiSDEC - Numéripôle - Rue Richard Lenoir - VILLERS-BOCAGE",
+    "address": "27P Rue Richard Lenoir - Villers-Bocage",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Villers-Bocage",
+    "address": "Rue Des Sauts Cabris - Villers-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Villers-Bocage, Actalia",
+    "address": "Boulevard Du 13 Juin 1944 - Villers-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Cahagnes (parking église)",
+    "address": "Rue des Tourterelles - Cahagnes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - CAHAGNOLLES (Place de la Mairie)",
+    "address": "L'Église - Cahagnolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Rue de la Ferière",
+    "address": "1 Rue de la Ferière - Caumont-l'Éventé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IEcharge - D71 Caumont-sur-Aure",
+    "address": "Le Champ Domain - Caumont-sur-Aure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Mairie de Tilly-sur-Seulles",
+    "address": "2 Rue de Bayeux - Tilly-sur-Seulles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

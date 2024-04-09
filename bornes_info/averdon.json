@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Le Chant des Muses",
+    "address": "5 Rue de la Mairie - Marolles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 1",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - La chapelle vendomoise",
+    "address": "1 Chemin Des Coulisses - La Chapelle-Vendômoise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Rue de Vendôme Fosse",
+    "address": "5 Rue de Vendôme - Fosse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MODULO/SIDELC - Aerodrome de Blois - Blois",
+    "address": "Aerodrome de Blois - Blois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aérodrome Blois-Le Breuil",
+    "address": "Aérodrome de Blois-le-Breuil - Villefrancoeur",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Villebarou - Jardiland",
+    "address": "Centre Commercial Blois 2 - Villebarou",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia Express - Villebarou - Norauto",
+    "address": "Rue des Couratières Centre Commercial Cora, Parc des Couratiers - Villebarou",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - BLOIS - Centre commercial Les couratières, CS93417 V",
+    "address": "Centre commercial Les couratières, CS93417 V - BLOIS",
+    "connectors": [
+      "x1",
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A10 - Aire de Blois-Villerbon (direction Tours)",
+    "address": "A10 - Villerbon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A10 Aire de Blois-Ménars (direction Orléans)",
+    "address": "A10 L'Aquitaine - Villerbon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

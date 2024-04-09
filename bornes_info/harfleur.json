@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Laboratoire d'analyse médicale Harfleur",
+    "address": "30 Rue de la Courtine - Harfleur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*UBI - Harfleur - 12 Rue des Caraques",
+    "address": "12 Rue des Caraques - Harfleur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubitricity - Harfleur Beaulieu",
+    "address": "11 Avenue Président René Coty - Harfleur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubitricity - Route d'Oudalle - Gonfreville-l'Orcher",
+    "address": "Route d'Oudalle - Gonfreville-l'Orcher",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Robert Ancel - Harfleur",
+    "address": "1 Rue Robert Ancel - Harfleur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*UBI - Le Havre - Allée Lucien Sampaix",
+    "address": "Allée Lucien Sampaix - Le Havre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Harfleur",
+    "address": "12 Friedrich Engels - Harfleur",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - 5 Avenue du Cantipou - Harfleur",
+    "address": "5 Avenue du Cantipou - Harfleur",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Route du Pont VIII Porte 7609 - Gonfreville-l'orcher",
+    "address": "Route du Pont VIII Porte 7609 - Gonfreville-l'orcher",
+    "connectors": [
+      "x50",
+      "x20",
+      "x30"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Gonfreville-l'Orcher - Centre commercial Océane",
+    "address": "8 Avenue du Camp Dolent - Gonfreville-l'Orcher",
+    "connectors": [
+      "x1",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

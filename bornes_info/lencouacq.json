@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SYDEC - Avenue des Arènes - Roquefort",
+    "address": "69 Avenue des Arènes - Roquefort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC - Allée Gaston Phoebus - Saint-Justin",
+    "address": "6 Allée Gaston Phoebus - Saint-Justin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - BMW - Allée De L'ermite - Saint-Avit",
+    "address": "150 Allée de l'Ermite - Saint-Avit",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Saint-Avit - B&B Hôtel",
+    "address": "111 Allée Mamoura - Saint-Avit",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Saint-Avit - 71 Allée de Mamourra",
+    "address": "71 Allée de Mamourra - Saint-Avit",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Allée de Mamourra - Saint Avit",
+    "address": "Parc relais Mamourra - Saint-Avit",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CGED - Allée des Mésanges - Saint-Avit (privé)",
+    "address": "345 Allée des Mésanges - Saint-Avit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - rue Monge 430 - Mont de Marsan (Privée)",
+    "address": "rue Monge 430 - Mont de Marsan",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Ibis Mont de Marsan",
+    "address": "Av du ML Juin - Mont de Marsan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Citroen - Mont-de-Marsan",
+    "address": "71 Rue de la Ferme de Carboue - Mont-de-Marsan",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

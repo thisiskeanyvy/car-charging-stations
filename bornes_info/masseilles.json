@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEEG33 (MObiVE) - Rue du Château d'Eau - Grignols",
+    "address": "Rue du Château d'Eau - Grignols",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eglise - Cocumont",
+    "address": "Place de l'Eglise - Lot-et-Garonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîte de Coutélas",
+    "address": "1895 Route de Cocumont - Guérin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Moulin de Laboirie",
+    "address": "1 Laboirie - Saint-Côme",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 (MobiVE) - Le Clavier - Bouglon",
+    "address": "Le Clavier - Bouglon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Domaine de Fompeyre - Bazas",
+    "address": "Route de Mont de Marsan - Bazas",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Bazas",
+    "address": "35 Route de Langon - Bazas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MObiVE - Mairie - Meilhan-sur-Garonne",
+    "address": "Place de Neuf Brisach - Meilhan-sur-Garonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Center parcs Domaine des Landes de Gascogne",
+    "address": "1295 route du pegean - Beauziac",
+    "connectors": [
+      "x5",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Enerstock - Casteljaloux - Leclerc",
+    "address": "3 Rue Henri Iv - Casteljaloux",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

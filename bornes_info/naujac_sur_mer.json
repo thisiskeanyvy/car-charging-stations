@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Hourtin Carrefour Market",
+    "address": "1 Bis Rue Cantelaude - Hourtin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Lesparre-Médoc",
+    "address": "RD, 1215 ZAC Belloc - Lesparre-Médoc",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue de Bordeaux - Lesparre-Médoc",
+    "address": "40 Avenue de Bordeaux - Lesparre-Médoc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "sarl Lesparre auto services agent renault",
+    "address": "4 rue des forgerons - Lesparre-Médoc",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Lesparre-Médoc",
+    "address": "32 Rue du Docteur Bos - Lesparre-Médoc",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Camping de la Côte d'Argent (Privé)",
+    "address": "0 Camping de la côte d'argent - Hourtin",
+    "connectors": [
+      "x4",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Les Acacias",
+    "address": "182 Sainte-Hélène - Hourtin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue de l europe 47 - Vendays-Montalivet",
+    "address": "Avenue de l europe 47 - Vendays-Montalivet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Camping Club Atlantic - Montalivet",
+    "address": "1699 La Rège - Vendays-Montalivet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping campéole medoc plage 4 etoiles",
+    "address": "33 Avenue de l'europe - Vendays-Montalivet",
+    "connectors": [
+      "x10",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

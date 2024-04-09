@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIEML - Beaufort En Vallée - Place de la République",
+    "address": "Place de la République - Beaufort-en-Vallée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Garage du stade",
+    "address": "11 Boulevard de la Prévoté - Beaufort-en-Vallée",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Beaufort En Vallee - Parking Des Equisseaux",
+    "address": "6 Rue des Esquisseaux - Beaufort-en-Vallée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Maze - Rue Paul Richou",
+    "address": "Rue Paul Richou - Mazé-Milon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - La Menitre - Place Colonel Leon Faye",
+    "address": "2 Place du Colonel Léon Faye - La Ménitré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A85 - Aire de Longué-la Couaille (direction Tours)",
+    "address": "A85 - Longué-Jumelles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A85 Aire de Longué-les Cossonnières (Direction Angers)",
+    "address": "A85 - Longué-Jumelles",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Allée des Gâts Avenir communication, Anjou Actiparc - Longué-Jumelles",
+    "address": "Allée des Gâts Avenir communication, Anjou Actiparc - Longué-Jumelles",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - SAINT MATHURIN SUR LOIRE - Place du 19 Mars 1962",
+    "address": "Place du 19 Mars 1962 - Saint-Mathurin-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Yelloh village-les voiles d'Anjou",
+    "address": "6 Rue Sainte-Baudruche - Gennes-Val-de-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

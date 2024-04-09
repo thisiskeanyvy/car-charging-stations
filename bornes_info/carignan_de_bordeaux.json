@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEEG33 - Carignan-de-Bordeaux - Parking Centre Culturel",
+    "address": "21 Rue de Verdun - Carignan-de-Bordeaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEEG33 - Bourg Fargues-Saint-Hilaire",
+    "address": "3 Avenue de la Laurence - Fargues-Saint-Hilaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Super U - Fargues-Saint-Hilaire",
+    "address": "Avenue du bois menu - Fargues-Saint-Hilaire",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking complexe sportif de Bouliac",
+    "address": "8 Place Chevelaure - Bouliac",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Saint James - Bouliac (Tesla)",
+    "address": "3 Place Camille Hostein - Bouliac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Tresses - 3 Rue Newton",
+    "address": "3 Rue Newton - Tresses",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - 13 Rue Newton - Tresses INEXISTANT",
+    "address": "13 Rue Newton - Tresses",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Tresses - 62 Avenue de Branne (privée)",
+    "address": "62 Avenue de Branne - Tresses",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Allée Fénelon Parc Tertiaire Fénelon - Tresses",
+    "address": "Allée Fénelon Parc Tertiaire Fénelon - Tresses",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - 23 CHE D'ARCINS PARC D'ACTIVITE TANESSE 23 - LATRESNE",
+    "address": "23 CHE D'ARCINS PARC D'ACTIVITE TANESSE 23 - LATRESNE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

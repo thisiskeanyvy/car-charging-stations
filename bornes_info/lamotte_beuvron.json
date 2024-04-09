@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SIDELC - Place du 11 novembre",
+    "address": "14 Rue du Marché - Lamotte-Beuvron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIDELC - Rue Ernest Gaugiran - Lamotte-Beuvron",
+    "address": "8 Rue Ernest Gaugiran - Lamotte-Beuvron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIDELC - Gare Lamotte-Beuveron",
+    "address": "5 Avenue De Vierzon - Lamotte-Beuvron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl Lamotte Beuvron",
+    "address": "98 Avenue de Vierzon - Lamotte Beuvron",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le clos des écureuils - Chambre d'hôtes",
+    "address": "11 Rue de Chambouy - Vouzon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel le moulin de Villiers",
+    "address": "Rue du Château - Nouan Le Fuzelier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Center Parcs/Les Hauts de Bruyère - Rue Lamotte - Chaumont-sur-Tharonne",
+    "address": "Rue de Lamotte - Chaumont-sur-Tharonne",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sidelc - Nouan",
+    "address": "Avenue de Toulouse - Nouan-le-Fuzelier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIDELC - Chaumont sur tharonne",
+    "address": "4 Place Robert Mottu - Chaumont-sur-Tharonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A71 Aire de la Ferté St Aubin (direction Orléans)",
+    "address": "A71 - Chaumont-sur-Tharonne",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

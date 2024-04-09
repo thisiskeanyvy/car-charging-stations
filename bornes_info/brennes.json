@@ -1,0 +1,142 @@
+[
+  {
+    "title": "IONITY - A31 Aire de Langres-Noidant (direction Troyes)",
+    "address": "A31 - Noidant-le-Rocheux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A31 - Aire de Langres-Perrogney (direction Dijon)",
+    "address": "0 A31 - Perrogney-les-Fontaines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - A31 Aire de Langres-Perrogney (direction Dijon)",
+    "address": "0 A31 - Perrogney-les-Fontaines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Jum'Hôtel - Restaurant Atelier Grill (Tesla and others) Rue du Lieutenant Didier - Saints-Geosmes",
+    "address": "2 Rue du Lieutenant Didier - Saints-Geosmes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Imp. de la Courvee Pôle socio-culturel - Saints-Geosmes",
+    "address": "3 Imp. de la Courvee Pôle socio-culturel - Saints-Geosmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ChargeGuru - Saints-Geosmes - VW",
+    "address": "14 Route de Dijon - Saints-Geosmes",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Saints-Geosmes",
+    "address": "13 Rue de l'Avenir - Saints-Geosmes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Route de Dijon - Langres INEXISTANT",
+    "address": "Route de Dijon - Langres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED52 - Lac de Vingeanne",
+    "address": "D128 - Villegusien-le-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Dijon - Saints-Geosmes",
+    "address": "34 Route de Dijon - Saints-Geosmes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

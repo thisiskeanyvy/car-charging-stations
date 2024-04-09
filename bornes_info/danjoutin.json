@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Rue du Docteur Eugène Jacquot - Danjoutin",
+    "address": "24 Rue du Docteur Eugène Jacquot - Danjoutin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Belfort - Leclerc",
+    "address": "1 Avenue Du Général De Gaulle - Belfort",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia-Express - Boulevard Henri Dunant - Belfort",
+    "address": "7 Boulevard Henri Dunant - Belfort",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Fiat Belfort HESS Automobile",
+    "address": "23 Boulevard Richelieu - Belfort",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 23 Boulevard Richelieu - Belfort",
+    "address": "23 Boulevard Richelieu - Belfort",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TE90 - Leroy Merlin - Andelnans",
+    "address": "7 Rue des Prés - Andelnans",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Hôtel Kyriad Belfort Centre Gare",
+    "address": "55 Bis Fbg de Montbéliard - Belfort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aldi - Boulevard John F Kennedy - Belfort",
+    "address": "46 Boulevard John F Kennedy - Belfort",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - 9 avenue Wilson Belfort - Belfort",
+    "address": "9 avenue Wilson Belfort - Belfort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Andelnans - Cora",
+    "address": "15 Rte de Montbéliard - Andelnans",
+    "connectors": [
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

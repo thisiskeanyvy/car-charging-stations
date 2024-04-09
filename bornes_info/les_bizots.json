@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - 95 bis Rue de Briare - La Bussière",
+    "address": "95 bis Rue de Briare - La Bussière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue Aristide Briand - Nogent-sur-Vernisson",
+    "address": "28 Rue Aristide Briand - Nogent-sur-Vernisson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Parking quai Sully - Rogny-les-Sept-Écluses",
+    "address": "Quai Sully - Rogny-les-Sept-Écluses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Totem - Aillant-sur-Milleron - 25 Place de L’Eglise",
+    "address": "25 Place de L’Eglise - Aillant-sur-Milleron",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A77 - Aire du Jardin des Arbres (double sens)",
+    "address": "A77 - Varennes-Changy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVBox - Ford - D940 1 - GIEN (Privé)",
+    "address": "D940 1 - GIEN",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault - Gien",
+    "address": "Rond Point Nord - Gien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping car - Bleneau (Réservé aux Camping Cars)",
+    "address": "Rue de l'Epalu - Bleneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Gien",
+    "address": "Rue de la Bosserie - Gien",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Leclerc- Rue de la Bosserie",
+    "address": "17 Rue de la Bosserie - Gien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

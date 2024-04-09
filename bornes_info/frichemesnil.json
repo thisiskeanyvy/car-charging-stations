@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE76 - Clères (Office de Tourisme)",
+    "address": "92-124 Rue Pierre Mauger - Clères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Clères (gare SNCF)",
+    "address": "388 D53A - Clères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Saint-Victor-l'Abbaye",
+    "address": "40 Rue Guillaume le Conquérant - Saint-Victor-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Fontaine-le-Bourg",
+    "address": "757 Rue Delamare Deboutteville - Fontaine-le-Bourg",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Vallée Carburants - Beautot",
+    "address": "1175\r\n Rue De l'Ancien Chateau\r\n - Beautot",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - 1 Rue Grande Rue - Cailly",
+    "address": "1 Rue Grande Rue - Cailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vp Auto",
+    "address": "445 Route de Dieppe - Anceaumeville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Place Charles de Gaulle - Totes",
+    "address": "Place Charles de Gaulle - Totes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché - ZEborne - Totes",
+    "address": "1 Rue des Quatres Vents - Tôtes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE76 - Place Michel Hollard - Val-de-Scie",
+    "address": "Place Michel Hollard - Val-de-Scie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

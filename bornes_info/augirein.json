@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE09 - Halte St Jacques - Castillon-en-Couserans",
+    "address": "7 Avenue Noel Peyrevidal - Castillon-en-Couserans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Mairie - Urau",
+    "address": "70 Village - Urau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Toulouse - 50 Route de Labège",
+    "address": "50 Route de Labège - Toulouse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Sengouagnet, RD1",
+    "address": "1 Village - Sengouagnet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Place du Pré Commun - Aspet",
+    "address": "420 Place du Pré Commun - Aspet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE09 - Rue nationale - Prat-Bonrepaux",
+    "address": "25 Rue nationale - Prat-Bonrepaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Abri d'Arlos",
+    "address": "Route d'Espagne - Saint-Béat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mac Donald - Saint-Lizier (Privé)",
+    "address": "588 Route de Toulouse - Saint-Lizier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Lizier",
+    "address": "40 Route de Toulouse - Saint-Lizier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps - Gamm Vert - Saint-Girons",
+    "address": "17T Allée Pierre Semard - Saint-Girons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

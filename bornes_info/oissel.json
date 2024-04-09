@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Ville de Oissel - Auditorium Roland Leroy",
+    "address": "1289 Rue du Manoir - Oissel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Gare d'Oissel",
+    "address": "6 Rue Gérard Marti - Oissel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Oissel - Petite Rue de l'Église",
+    "address": "Petite Rue de l'Église - Oissel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - 41 Rue Octave Fauquet - Oissel (privé)",
+    "address": "41 Rue Octave Fauquet - Oissel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc en Seine - Tourville la Rivière - Basic Fit / Espace 360",
+    "address": "11 Parc en Seine - Tourville la Rivière",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sevdec - Tourville-la-Rivière - 1 Rue Parc en Seine",
+    "address": "1 Rue Parc en Seine - Tourville-la-Rivière",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ikéa - Tourville La Rivière",
+    "address": "Avenue Gustave Picard - Tourville-la-Rivière",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IKEA - Tourville-la-Rivière (parking client)",
+    "address": "0 Avenue Gustave Picard - Tourville-la-Rivière",
+    "connectors": [
+      "x21",
+      "x21"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - Tourville-la-Rivière - Audi Occasion",
+    "address": "1 Rue de l'Île du Bras Fallais - Tourville-la-Rivière",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZC Boulanger/Maisons du Monde - Tourville-la-Rivière",
+    "address": "2 Avenue Gustave Picard - Tourville-la-Rivière",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Pass Pass - Rue du Moulin - Haverskerque",
+    "address": "196 Impasse Route nationale - Haverskerque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Espace Birgy - Chemin de Ceinture - St Venant",
+    "address": "558 Chemin de Ceinture - Saint-Venant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Merville - Avenue Clémenceau",
+    "address": "1-3 Avenue Clemenceau - Merville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aire de jeux - Rue des Écoles - Mont-Bernanchon",
+    "address": "235 Rue des Écoles - Mont-Bernanchon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - 7 Rue Jean Jaurès - Merville",
+    "address": "7 Rue Jean Jaurès - Merville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brasserie du pays Flamand",
+    "address": "83 Route de la Gorgue - Merville",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Place Amaury de la Grange - Morbecque",
+    "address": "Place Amaury de la Grange - Morbecque",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Beaulieu - Busnes (Tesla and others)",
+    "address": "1044 Rue de Lillers - Busnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Hôte de Ville de Gonnehem",
+    "address": "22 Place Louis et André Delannoy - Gonnehem",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Estaminet Le Sir Jérôme",
+    "address": "18 Place Louis et Andre Delannoy - Gonnehem",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

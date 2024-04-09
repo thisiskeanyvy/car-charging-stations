@@ -1,0 +1,144 @@
+[
+  {
+    "title": "1 Rue Charles Hemmerlé",
+    "address": "1 Place de la Mairie - Monthois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Tribunal - Rue Gambetta",
+    "address": "34 Rue Gambetta - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo-Energies - Place René Boure - Grandpré",
+    "address": "Place René Boure - Termes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEA 08 - Rue du Champ de Foire - Vouziers N°2",
+    "address": "25 Rue du Champ de Foire - Vouziers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Zephyre - HOTEL RESTAURANT LE TULIPIER - 127 Rue Saint Jacques",
+    "address": "127 Rue Saint Jacques - Vienne-le-Château",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de la Mairie - Machault",
+    "address": "1B Rue Alexandre Hazeaux - Machault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Place de I'Hôtel-de-Ville - Suippes",
+    "address": "13 Place de l'Hôtel de Ville - Suippes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Valmy Le Moulin (direction Reims)",
+    "address": "1 D 67 - Valmy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FASTNED - A4 - Aire de Valmy Orbeval (direction Metz)",
+    "address": "A4 - Valmy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM51 - Place d'Austerlitz - Sainte Menehould",
+    "address": "23 Place d'Austerlitz - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

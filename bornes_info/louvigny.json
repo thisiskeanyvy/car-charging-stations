@@ -1,0 +1,136 @@
+[
+  {
+    "title": "MobiSDEC - Rue Édouard Boubat - Louvigny",
+    "address": "Rue Édouard Boubat - Louvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sevdec - 9 Longue Vue des Astronomes - Louvigny",
+    "address": "9 Longue Vue des Astronomes - Louvigny",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Avenue d'Harcourt - Fleury-sur-Orne",
+    "address": "Avenue d'Harcourt - Fleury-sur-Orne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - Boulevard Yves Guillou - Caen",
+    "address": "83 Boulevard Yves Guillou - Caen",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HOTEL ZENITH CAEN",
+    "address": "98 Boulevard Yves Guillou - Caen",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ikea - Avenue des Digues - Fleury sur Orne",
+    "address": "646 Avenue des Digues - Fleury-sur-Orne",
+    "connectors": [
+      "x30",
+      "x29"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Avenue du Père Charles de Foucauld - Caen",
+    "address": "Avenue du Père Charles de Foucauld - Caen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Avenue Enchanteur Merlin - Caen",
+    "address": "Avenue Enchanteur Merlin - Caen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Place de la Mairie - Bretteville-sur-Odon",
+    "address": "Place de la Mairie - Bretteville-sur-Odon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Centre Porsche - Caen",
+    "address": "424 Route Des Digues - Fleury-sur-Orne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

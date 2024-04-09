@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Carrefour Contact",
+    "address": "3–4 Chemin du Tranot - Bucey-lès-Gy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Mairie de Gy",
+    "address": "6 Place de la Mairie - Gy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - 1 Route de Choye - Charcenne",
+    "address": "1 Route de Choye - Charcenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIRED70 - Carrefour contact - Fresne-Saint-Mamès",
+    "address": "52 Grande Rue - Fresne-Saint-Mamès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de la Dame Blanche",
+    "address": "10 Chemin Roussey - Geneuille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare TGV Franche-Comté",
+    "address": "RD1 - Lieu-dit Grand-Bois Le Pasquier - Auxon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Auberge Saint Claude",
+    "address": "50 Rue Charles de Gaulle - Rioz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parkinbg Clair Soleil - RIOZ",
+    "address": "24bis Rue Du Pays Neuf - Rioz",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIED70 - Rioz",
+    "address": "9019A Chemin du bois du Chaillaux - Rioz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking chaufferie - Marnay",
+    "address": "Rue de la fontaine de douis - Marnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

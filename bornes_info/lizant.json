@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Soregies - Le Bourg - Saint-Macoux",
+    "address": "Le Bourg - Saint-Macoux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AlterbaseSorégies - Place de la Liberté - Civray",
+    "address": "2 Place de la Liberté - Civray",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "VillaVerde - Savigné SUPPRIMÉ",
+    "address": "D148 -ZA Champs de la Grange - Savign",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AlterBase Sorégies - Savigné - Intermarché",
+    "address": "Route de Limoges Parking Intermarché - Savigné",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEG16 - Rue du Général Leclerc - Ruffec",
+    "address": "Rue du Général Leclerc - Ruffec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Zone Industrielle de la Gare - Scachap Ruffec",
+    "address": "- Ruffec",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Séolis - Les maisons blanches - Limalonges",
+    "address": "Rue de l'Aquitaine les Maisons - Limalonges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecotap - volkswagen - Ruffec",
+    "address": "39 Avenue celestin sieur - Ruffec",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Villefagnan - Ruffec",
+    "address": "2000 Route de Villefagnan - Ruffec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge - N10 Aire De l'Eglantier",
+    "address": "2 Aire De l'Eglantier - Barro",
+    "connectors": [
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

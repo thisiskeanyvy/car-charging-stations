@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - Leroy Merlin - Monsoult",
+    "address": "Zone industrielle Du Belloy - N1 - Monsoult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - FFF District du Val d'Oise - 6 Avenue du Bosquet",
+    "address": "8 Avenue du Bosquet - Baillet-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Leclerc - Moisselles",
+    "address": "1 Route Nationale - Moisselles",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - Parking relais Fourcade - Montsoult",
+    "address": "Parking relais Fourcade Parking relais Fourcade - Montsoult",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking - Avenue Fernand Fourcade - Montsoult",
+    "address": "20 Avenue Fernand Fourcade - Montsoult",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Gare RER de Bouffemont-Moisselles",
+    "address": "louise Michèle - Bouffémont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Route de Paris (2bis hameau du beau Jay) - Belloy-en-France",
+    "address": "2 hameau du beau Jay - Belloy-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clinique de Domont",
+    "address": "79 Route de Domont - Domont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domont Automobile",
+    "address": "88 Avenue Jean Rostand - Domont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - parking Jean Jaurès - Domont",
+    "address": "61 Avenue Jean Jaurès - Domont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

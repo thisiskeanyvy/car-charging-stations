@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Salle des fêtes de Quinssaines",
+    "address": "8 Rue des Petites Croix - Quinssaines",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Car - Archignat",
+    "address": "Rue des Chalets - Archignat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Huriel, Garage Schlaeppi",
+    "address": "03 Rue Des Calaubys - Huriel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Mairie d'Huriel",
+    "address": "Rue du Pressoir - Huriel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route du Plan d'eau - Prémilhat",
+    "address": "Route du Plan d'eau - Prémilhat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Domérat",
+    "address": "Boulevard Victor Hugo - Domérat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Borne camping car et véhicules électriques",
+    "address": "21 Rue des Acacias - Soumans",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - route de Guéret - Montluçon Domerat",
+    "address": "Route de Gueret - Terre Neuve (D745) - Domérat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Montluçon",
+    "address": "121 Avenue Jules Guesde - Montluçon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Rue de la Chevêche - Domérat",
+    "address": "Rue de la Chevêche - Domérat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

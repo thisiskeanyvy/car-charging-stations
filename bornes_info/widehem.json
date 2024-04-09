@@ -1,0 +1,136 @@
+[
+  {
+    "title": "TotalEnergies - A16 Aire des Falaises de Widehem Est (direction Calais)",
+    "address": "A16 - AMIENS CALAIS - WIDEHEM",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A16 Aire des Falaises de Widehem (direction Amiens)",
+    "address": "A16 - AMIENS CALAIS - WIDEHEM",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Gendarmerie - Neufchâtel-Hardelot",
+    "address": "Rue des Allées - Neufchâtel-Hardelot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RossiniEnergy - 7 Rue de la Neuville - Nesles (Privé)",
+    "address": "7 Rue de la Neuville - Nesles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Evancy Trésors d'Opale - Rue des Nations",
+    "address": "117 Rue des Nations - Camiers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Boulevard De Rocquigny - Camiers",
+    "address": "55 Boulevard De Rocquigny - Camiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rossini Energy - Hôtel du Parc",
+    "address": "111 Avenue François 1er - Neufchâtel-Hardelot",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel le Régina",
+    "address": "185 Avenue François 1er - Neufchâtel-Hardelot",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dream Energy - Brit Hotel le Touquet",
+    "address": "15 D 940 - Étaples",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - D52, Rue de Carly - Samer",
+    "address": "D52, Rue de Carly - Samer",
+    "connectors": [
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

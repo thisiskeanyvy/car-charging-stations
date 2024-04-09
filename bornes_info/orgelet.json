@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Hôtel Le Vouglans (Tesla and others)",
+    "address": "12 Rue des Fosses - Orgelet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Écrille - Camping de la Faz",
+    "address": "4 Le Pont De Vaux - Écrille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HDC - Pimorin",
+    "address": "Rippes Roland - Pimorin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Route de Lons le Saunier",
+    "address": "19 Route de Lons le Saunier - Clairvaux-les-Lacs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Allée Du Parc - Moirans-en-Montagne",
+    "address": "1 Allée Du Parc - Moirans-en-Montagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Vernantois - le Domaine du Val de Sorne",
+    "address": "Rue Du Golf - Vernantois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Camping La Petite Montagne - 54 Avenue De Saint-Claude - Moirans-en-Montagne",
+    "address": "54 Avenue De Saint-Claude - Moirans-en-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Volvo - Perrigny",
+    "address": "281 Route de Conliege - Perrigny",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Perrigny",
+    "address": "25 Route De Conliège - Perrigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BMW MINI",
+    "address": "40 Rue Blaise Pascal - Lons-le-Saunier",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

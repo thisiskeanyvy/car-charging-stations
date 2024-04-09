@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SEYMABORNE - Avenue des Bruzacques - Jouy-le-Moutier",
+    "address": "8 Place Du Bien Etre - Jouy-le-Moutier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel Ibis Cergy Le Port (Tesla & others)",
+    "address": "28 Avenue des Grouettes - Cergy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y03 - Maurecourt - Allée du Clos Fleuri Résidence des Cèdres",
+    "address": "Allée du Clos Fleuri Résidence des Cèdres - Maurecourt",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Cergy Le Port",
+    "address": "28 Avenue des Grouettes - Cergy",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "EFFIA - Rue d'Eragny - Neuville-sur-Oise",
+    "address": "Rue d'Eragny - Neuville-sur-Oise",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Campus Veolia -Jouy-le-Moutier - Parking Verger",
+    "address": "Rue d'Ecancourt - Jouy-le-Moutier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue Charles Lehmann - Maurecourt",
+    "address": "7 Rue Charles Lehmann - Maurecourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Campus Veolia - Jouy-le-Moutier",
+    "address": "Rue d'Ecancourt - Jouy-le-Moutier",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Vauréal - Rue de la Sérénade",
+    "address": "Rue de la Sérénade - Vauréal",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Car2Plug - Vauréal - Intermarché",
+    "address": "1 Place du Rendez-Vous - Vauréal",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

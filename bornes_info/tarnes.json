@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Renaissance Arc de Triomphe",
+    "address": "39 Avenue de Wagram - Paris-17E-Arrondissement",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 4 Avenue des Ternes - Paris",
+    "address": "6 Avenue des Ternes - Parigi",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - Paris - Parking Paris Wagram",
+    "address": "Rue de l'Étoile - Paris",
+    "connectors": [
+      "x19",
+      "x19"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 79 Avenue de Wagram - Paris",
+    "address": "79 Avenue de Wagram - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - 18 Avenue Hoche - Paris",
+    "address": "18 Avenue Hoche - Paris",
+    "connectors": [
+      "x19"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "UBEEQO - 31 avenue Hoche Paris",
+    "address": "31 avenue Hoche - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 83 rue de Courcelles 75017 Paris",
+    "address": "83 Rue de Courcelles - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 36 avenue des Ternes 75017 Paris",
+    "address": "36 Avenue des Ternes - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Ubeeqo - 5 Avenue Mac Mahon Paris",
+    "address": "5 avenue Mac Mahon - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - 7 Rue Villebois-Mareuil - Paris",
+    "address": "7 Rue Villebois-Mareuil - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

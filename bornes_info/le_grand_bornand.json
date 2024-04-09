@@ -1,0 +1,128 @@
+[
+  {
+    "title": "e-born - Route du Borne - Le Grand Bornand",
+    "address": "182 Route du Borne - Le Grand-Bornand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - 125 Route Du Danay - Saint-Jean-de-Sixt",
+    "address": "125 Route Du Danay - Saint-Jean-de-Sixt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chalet Coeur de montagnes",
+    "address": "1004 Route du Danay - Saint-Jean-de-Sixt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chalet des bognettes",
+    "address": "489 Route Du Vieux Village - Le Grand-Bornand",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Odalys Mendi Alde INEXISTANT",
+    "address": "180 Route de la Grallière - La Clusaz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D99 Route des Grandes Alpes - La Clusaz",
+    "address": "519 Route des Grandes Alpes - La Clusaz",
+    "connectors": [
+      "x3",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking du bossonet - La clusaz",
+    "address": "Parking du bossonet - La clusaz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Résidence Les Cimes",
+    "address": "46 Route de la Grallière - La Clusaz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Route des Confins - La Clusaz",
+    "address": "172 Route des Confins - La Clusaz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Beauregard - Sentier du Bossonnet",
+    "address": "90 Sentier du Bossonnet - La Clusaz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

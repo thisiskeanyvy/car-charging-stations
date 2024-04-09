@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Fastned - A1 Aire de Saint Léger (direction Paris)",
+    "address": "00 Autoroute du Nord - Saint-Léger",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Boulangerie patisserie Salomé (privé)",
+    "address": "1 Grand place - Croisilles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Mairie d'Haplincourt",
+    "address": "12 Rue de Bapaume - Haplincourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - lieu dit La Fabrique À Sucre",
+    "address": "lieu dit La Fabrique À Sucre - 62450",
+    "connectors": [
+      "x2",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "McDonald’s - Bapaume",
+    "address": "Rue de la République - Bapaume",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mc Donald's",
+    "address": "6 Voie Communale Zone Industrielle de la Vallée du Bois - Bapaume",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D930 - Bapaume",
+    "address": "D930 - Bapaume",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Lidl - Bapaume",
+    "address": "D 917 - Bapaume",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RossiniEnergy - Rue Saint Georges - Baralle",
+    "address": "Rue Saint Georges - Baralle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Bapaume",
+    "address": "D917 Faubourg de Péronne - Bapaume",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Carrefour Market - Hesdin",
+    "address": "Rte de Montreuil, - Hesdin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "STATIONS-E - 15 Rue Fernand Lemercier - Huby-Saint-Leu",
+    "address": "15 Rue Fernand Lemercier - Huby-Saint-Leu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Rue du Docteur Pascal Mulliez - Marconne",
+    "address": "Rue du Docteur Pascal Mulliez - Marconne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Gare de Hesdin",
+    "address": "5 Place de la Gare - Hesdin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Marconne",
+    "address": "Route de Mouriez - Marconne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Chemin des Poissonniers Marconne",
+    "address": "1–3 Chemin des Poissonniers - Marconne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Basic-fit - Marconne",
+    "address": "92 Rue du Champ Ste Marie, 62140 Marconne, Fr - Marconne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "STATIONS-E - Boulevard Militaire - Hesdin",
+    "address": "Boulevard Militaire - Hesdin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-e - Petit Séminaire - Hesdin",
+    "address": "12 rue du petit seminaire - Hesdin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Rue du Champ Sainte-Marie - Marconne",
+    "address": "32 Rue du Champ Sainte-Marie - Marconne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

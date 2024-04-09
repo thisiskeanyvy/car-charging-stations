@@ -1,0 +1,140 @@
+[
+  {
+    "title": "TotalEnergies - Relais de Portet Ouest - Portet-sur-Garonne",
+    "address": "106 route d'Espagne - Portet-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking salle des fêtes",
+    "address": "Rue Hotel de ville - Portet sur garonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Lidl - Portet sur Garonne",
+    "address": "1 Impasse De St Simon - Portet-sur-Garonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Shell-Recharge Cultura Portet - Portet-sur-Garonne",
+    "address": "11 T Boulevard de l'Europe - Portet-sur-Garonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Portet-sur-Garonne - Bd de l'Europe 15",
+    "address": "Bd de l'Europe 15 - Portet-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Portet-sur-Garonne",
+    "address": "Boulevard de l'Europe - Portet-sur-Garonne",
+    "connectors": [
+      "x10",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge - 16 Boulevard de l'Europe - Portet-sur-Garonne",
+    "address": "16 Boulevard de l'Europe - Portet-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Castorama - Portet-sur-Garonne",
+    "address": "2 Route de Francazal - Portet-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x24"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot France - Portet-sur-Garonne - 6 Av. de l'Enclos",
+    "address": "6 Av. de l'Enclos - Portet-sur-Garonne",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les vallees d asie",
+    "address": "2 Route d'Ax - Portet-sur-Garonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

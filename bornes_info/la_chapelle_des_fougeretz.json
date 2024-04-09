@@ -1,0 +1,124 @@
+[
+  {
+    "title": "EVBox - rue de la besneraye 56 - MELESSE",
+    "address": "rue de la besneraye 56 - MELESSE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - Nissan - Saint-Grégoire",
+    "address": "7 Impasse des Châtaigniers - Saint-Grégoire",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - Saint-Grégoire - Le Haut Val 4",
+    "address": "Le Haut Val 4 - Saint-Grégoire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - Saint-Grégoire - Nissan",
+    "address": "Route de Saint-Malo - Saint-Grégoire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Espace 3 (dans la concession)",
+    "address": "1 Route de Saint-Malo - Saint-Grégoire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Saint-Grégoire",
+    "address": "Zone d'Activités La Brosse - Saint-Grégoire",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Yes55 - Melesse - Monsieur Meuble",
+    "address": "Rue du Val - Melesse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allego - La Chapelle-des-Fougeretz - Centrakor",
+    "address": "ZA du Haut Dante, route du Meuble, D637 - La Chapelle-des-Fougeretz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - 2 Lieu-dit La Brosse ZA Route du Meuble - Saint-Grégoire INEXISTANT",
+    "address": "2 Lieu-dit La Brosse ZA Route du Meuble - Saint-Grégoire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf Cap Malo (Tesla and others)",
+    "address": "Avenue du Phare du Grand Jardin - Melesse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

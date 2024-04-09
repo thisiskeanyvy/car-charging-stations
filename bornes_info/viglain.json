@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Place de l'Eglise villemurlin",
+    "address": "1 Place de l'Église - Villemurlin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Club Vert Sully",
+    "address": "103 bis Route d'orleans - Sully-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IECharge - Sully-sur-Loire B - Plaine de Port à Chambert 145 route d'Orléans",
+    "address": "Plaine de Port à Chambert 145 route d'Orléans - Sully-sur-Loire B",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Borneco - Route De Cerdon - Sully-sur-Loire",
+    "address": "3 Route De Cerdon - Sully-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Last Mile Solutions - Saint-Père-sur-Loire - 4 Rue de Paris",
+    "address": "4 Rue De Paris - Saint-Père-sur-Loire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Saint-Père-sur-Loire",
+    "address": "76 bis Rue de Paris - Saint-Père-sur-Loire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Garage de l'Abbaye",
+    "address": "11 Route de Sully Sur Loire - Saint-Benoît-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - Saint-Père-sur-Loire - 132 Rue de Paris",
+    "address": "132 Rue de Paris - Saint-Père-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-totem - Rue de Tholey - Saint-Benoît-sur-Loire",
+    "address": "7 Rue de Tholey - Saint-Benoît-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Bonnée",
+    "address": "6 Route de Sully - Bonnée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

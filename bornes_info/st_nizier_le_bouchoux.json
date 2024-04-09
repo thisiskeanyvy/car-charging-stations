@@ -1,0 +1,126 @@
+[
+  {
+    "title": "TotalEnergies - Qur de la Gare - Dommartin-lès-Cuiseaux",
+    "address": "Qur de la Gare - Dommartin-lès-Cuiseaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - A39 Aire du Poulet de Bresse",
+    "address": "Aire du Poulet de Bresse - Dommartin-lès-Cuiseaux",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A39 Aire du Poulet de Bresse (double sens)",
+    "address": "A39 - Aire du Poulet de Bresse - Dommartin-lès-Cuiseaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Domaine de Louvarel",
+    "address": "Lieu dit, Louvarel - Champagnat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Saint-Amour - D3 La Grange du Chêne",
+    "address": "La Grange du Chêne - Saint-Amour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - Route de Montrevel - Bresse Vallons",
+    "address": "Route de Montrevel - Bresse Vallons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aldi - Balanod",
+    "address": "1530 Route de Saint-Amour - Balanod",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place du Champ de Foire - Cuisery",
+    "address": "80 Place du Champ de Foire - Cuisery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Supermarché Colruyt - Rue des Tonnettes",
+    "address": "Rue des Tonnettes - Cuisery",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Pont-de-Vaux (Privé)",
+    "address": "143 Aux Quatre Vents - Gorrevod",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Chateau Le Verdoyer",
+    "address": "d96 - Champs Romain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Marval - D15 Salle polyvalente André Marcillaud",
+    "address": "D15 Salle polyvalente André Marcillaud - Marval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Saint-Estèphe - Route du Grand Étang",
+    "address": "Route du Grand Étang - Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "hostellerie.st.jacques",
+    "address": "10 du grand étang - saint saud la coussiere",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Saint-Saud-Lacoussière - Place du Champ de Foire",
+    "address": "12 Place de la Résistance - Saint-Saud-Lacoussière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 - Les Petits Moulins - Saint-Estèphe",
+    "address": "25 Les Petits Moulins - Saint-Estèphe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MObiVE) - Boulevard du Champ de Foire - Piégut-Pluviers",
+    "address": "599 Boulevard du Champ de Foire - Piégut-Pluviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Bricomarché - Nontron",
+    "address": "Route de Piégut Z.A, La Margot - Nontron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Nontron",
+    "address": "Route de Piégut - Nontron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Entreprise privée - Route de Saint-Martin",
+    "address": "1 Route de Saint-Martin - Nontron",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

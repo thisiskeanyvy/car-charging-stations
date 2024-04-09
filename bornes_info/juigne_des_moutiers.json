@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Rue du Château - La Chapelle Glain",
+    "address": "13 Rue du Château - La Chapelle-Glain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Place Champ De Foire - Pouance",
+    "address": "Place du Champ de Foire - Pouance",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Construction du Haut d'Anjou - 22kW AC",
+    "address": "1 Rue de la Grand Prée - Ombrée d'Anjou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Mouette - Erbray",
+    "address": "Rue de la Mouette - Erbray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sydego - Soudan",
+    "address": "Rue du Presbytère - Soudan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - COMBREE - Place du Commerce",
+    "address": "2-4 Rue de Bretagne - Combrée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDEGO - Rue de la Libération, 33 - Châteaubriant",
+    "address": "33 Rue de la Libération - Châteaubriant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SYDEGO - Place de la Motte, 9 - Châteaubriant",
+    "address": "9 Place de la Motte - Châteaubriant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Easy Charge Services - Chateaubriant \nBCM - Fournil du Castel",
+    "address": "Fournil du Castel - Chateaubriant \nBCM",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Eco Lav",
+    "address": "5 Rue du Président Kennedy - Châteaubriant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

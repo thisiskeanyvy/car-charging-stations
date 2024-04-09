@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDESM - Place du tilleul - Maison rouge",
+    "address": "6 Rue du Pavé du Roy - Maison-Rouge",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Parking poste - Chenoise",
+    "address": "2 Rue de la Forêt - Chenoise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Atlante - Provins - Citroën",
+    "address": "33 Route de Bray - Provins",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue Michel Gendron - Longueville",
+    "address": "9 Rue Michel Gendron - Longueville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - 4 Rue de Verdun - Longueville",
+    "address": "4 Rue de Verdun - Longueville",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDESM - Rue de la Mairie Poigny",
+    "address": "10-12 Rue de la Mairie - Poigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue du Général de Gaulle - Pécy",
+    "address": "30-34 Rue du Général de Gaulle - Pécy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Provins - Leclerc",
+    "address": "12 Avenue de la Voulzie - Provins",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking centre commercial - Provins",
+    "address": "10–12 Avenue de la Voulzie - Provins",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Provins",
+    "address": "13 Avenue de la Voulzie - Provins",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

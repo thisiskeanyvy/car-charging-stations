@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEPA - Parking du Lavoir - Bidart",
+    "address": "Parking du Lavoir - Bidart",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Rue de la Chapelle - Bidart",
+    "address": "Rue de la Chapelle - Bidart",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Sunêlia Berrua 4* (Tesla and others)",
+    "address": "560 D455 - Bidart",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MObiVE) - Erretegia Nord",
+    "address": "Erretegia Nord - Bidart",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Virta - 343 Rue d'Oyamburua - Bidart",
+    "address": "343 Rue d'Oyamburua - Bidart",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Intersport - Bidart",
+    "address": "60 Avenue de Bayonne - Bidart",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Intermarché - Bidart",
+    "address": "Avenue de Bayonne - Bidart",
+    "connectors": [
+      "x7",
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - 900 Rue Burruntz - Bidart",
+    "address": "900 Rue Burruntz - Bidart",
+    "connectors": [
+      "x10",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A63 Aire de Bidart-Est (direction Bayonne)",
+    "address": "A63 - Bidart",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - A63 Aire de Bidart Est (direction Bayonne)",
+    "address": "Bidart Est - Bidart",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

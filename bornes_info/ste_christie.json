@@ -1,0 +1,102 @@
+[
+  {
+    "title": "BRCC halte de Melbourne",
+    "address": "1035 Québec 243 - Melbourne",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "PARC NATIONAL DE LA YAMASKA",
+    "address": "1780 Boulevard David Bouchard - Roxton Pond",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne de Kevin (résidentielle)",
+    "address": "1115 Rue Morse - Drummondville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Dollarama",
+    "address": "1940 Boulevard St-Joseph - Drummondville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Gare",
+    "address": "269 Rue Lindsay - Drummondville",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Rue du Pont - Drummondvillle",
+    "address": "Rue du Pont - Drummondvillle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Guillevin International",
+    "address": "805 Cormier - Drummondville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage Montplaisir (Concessionnaire GM)",
+    "address": "875 Boulevard Saint-Joseph - Drummondville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Complexe Multisport - Drummondville",
+    "address": "1380 Rue Montplaisir - Drummondville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mitsubishi - Drummondville",
+    "address": "1505 René Levesque - Drummondville",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

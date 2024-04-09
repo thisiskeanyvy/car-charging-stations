@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDE82 - Route de Montpezat - Mirabel",
+    "address": "Route de Montpezat - Mirabel",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Promenade Raymond Laurent - Réalville",
+    "address": "Promenade Raymond Laurent - Réalville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Avenue du Général de Gaulle - Albias",
+    "address": "10 Avenue du Général de Gaulle - Albias",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Saint-Vincent-d'Autéjac - 1380 Rte du Galdassié",
+    "address": "1380 Rte du Galdassié - Saint-Vincent-d'Autéjac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Chemin de la Perrine Molières",
+    "address": "1 Chemin de la Perrine - Molières",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Lamothe",
+    "address": "Grand Rue d'Ardus - Lamothe-Capdeville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Loubéjac - SDE82",
+    "address": "chemin de Biscardel - L'Honor-de-Cos",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Puycornet, Salle Communale - Puycornet",
+    "address": "Puycornet, Salle Communale - Puycornet",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Peugeot macard",
+    "address": "1825 Route du Nord - Montauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route De Negrepelisse - Caussade",
+    "address": "162 Route De Negrepelisse - Caussade",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

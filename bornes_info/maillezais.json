@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SCEA LES FUIES",
+    "address": "14 Rue Alfred Roux - Benet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Maison Flore",
+    "address": "25 Rue du Grand Port - Arçais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Fontenay le Comte",
+    "address": "90 Avenue du Président François Mitterrand - Fontenay-le-Comte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Rabelais - Fontenay-le-Comte (Tesla & autres)",
+    "address": "19 Rue de l'Ouillette - Fontenay-le-Comte",
+    "connectors": [
+      "x9",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Restaurant le Rabelais",
+    "address": "19 Rue de l'Ouillette - Fontenay-le-Comte",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place du Champ de Foire - Benet",
+    "address": "Place Du Champ De Foire - Benet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SyDEV - Place de Verdun - Fontenay le Comte",
+    "address": "15 Boulevard du Chail - Fontenay-le-Comte",
+    "connectors": [
+      "x3",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SyDEV - Rue Gérard Guérin - Fontenay-le-Comte",
+    "address": "26 Rue Gérard Guérin - Fontenay-le-Comte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel FONTARABIE",
+    "address": "57 Rue de la République - Fontenay-le-Comte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Place Thiverçay - Rue Georges Clémenceau",
+    "address": "12-14 Rue Georges Clemenceau - Fontenay-le-Comte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

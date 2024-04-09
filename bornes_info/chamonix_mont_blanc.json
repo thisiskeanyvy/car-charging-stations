@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Parking du Mont-Blanc",
+    "address": "Place du Mont Blanc - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Hameau Albert 1er (Tesla & autres)",
+    "address": "38 Route du Bouchet - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Hôtel de ville - Chamonix-Mont-Blanc",
+    "address": "15 Rue de l'Hôtel de Ville - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hotel du Clocher Villa Savoy (Tesla)",
+    "address": "110 Impasse de l'Androsace - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Parking du Corzolet - Chamonix",
+    "address": "196 Route du Bouchet - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Hotels La Folie Douce (Tesla et autres)",
+    "address": "191 Avenue du Savoy - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Mont-Blanc - Chamonix-Mont-Blanc (Porsche)",
+    "address": "62 Allée du Majestic - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking Saint Michel (-2) - Chamonix-Mont-Blanc",
+    "address": "611 Allée Recteur Payot - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x9",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Mont-Blanc (Tesla et autres)",
+    "address": "62 Allée du Majestic - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking des Allobroges - Chamonix-Mont-Blanc",
+    "address": "Rue des Allobroges - Chamonix-Mont-Blanc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

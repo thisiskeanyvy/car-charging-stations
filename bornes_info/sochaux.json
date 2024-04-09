@@ -1,0 +1,126 @@
+[
+  {
+    "title": "HOTEL RESTAURANT ARIANIS",
+    "address": "11 Avenue du Général Leclerc - Sochaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue sous la Côté",
+    "address": "12 Rue sous la Côté - Sochaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Basic-Fit",
+    "address": "ZA aux Arbues - Exincourt",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - 27 Route de Grand-Charmont - Montbéliard",
+    "address": "27 ROUTE DE GRAND CHARMONT - Montbéliard",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 53 avenue Chabaud Latour - Montbéliard",
+    "address": "53 avenue Chabaud Latour - Montbéliard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Montbéliard",
+    "address": "29 Rue du Champ du Cerf - Montbéliard",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Montbéliard - Hôtel Relais Vert",
+    "address": "6 Rue des Frères Deckherr - Montbéliard",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "R3 - Norauto - Montbéliard",
+    "address": "1 Rue Abraham Nicolas Couleru - Montbéliard",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "sedia etupes charging",
+    "address": "213 Rue Pierre Marti - Étupes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Superchargeur Tesla V3 - Leclerc - Montbéliard",
+    "address": "24 Rue Jacques Foillet - Montbéliard",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  }
+]

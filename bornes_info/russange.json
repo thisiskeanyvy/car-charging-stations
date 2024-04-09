@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Qovoltis - Audun-le-Tiche - 15 Rue Frédéric Chopin",
+    "address": "15 Rue Frédéric Chopin - Audun-le-Tiche",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Audun le tiche",
+    "address": "33 Rue Napoleon Ier - Audun le tiche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue Barbourg - Esch-sur-Alzette (Réservé à la municipalité)",
+    "address": "15 Rue Barbourg - Esch-sur-Alzette",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Audun-le-Tiche - Rue de l'Alzette",
+    "address": "Rue de l'Alzette - Audun-le-Tiche",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SWIO - Esch-sur-Alzette - 1-2 An der Schmelz",
+    "address": "1-2 An der Schmelz - Esch-sur-Alzette",
+    "connectors": [
+      "x9",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Route de Belval",
+    "address": "377 Route de Belval - Belvaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chargy - An der Schmelz - Esch-sur-Alzette",
+    "address": "An der Schmelz - Esch-sur-Alzette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking public souterrain Rockhal",
+    "address": "3 Avenue du Rock'n'Roll - Esch-sur-Alzette",
+    "connectors": [
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Devant n° 1 rue Jean-Pierre Bausch - Esch-sur-Alzette",
+    "address": "57 Rue d'Audun - Esch-sur-Alzette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Fonds Belval",
+    "address": "1 Avenue du Rock’n’Roll - Esch-sur-Alzette",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

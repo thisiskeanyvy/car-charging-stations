@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDEF - Bourg-Blanc (Place Chapalain)",
+    "address": "Place C. & M. Chapalain - Bourg-Blanc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Plouguin (Rue Paotr Treoure)",
+    "address": "Rue Paotr Treoure - Plouguin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Milizac (Place de Yealmpton)",
+    "address": "Place de Yealmpton - Milizac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Tréglonou",
+    "address": "3 Rue du Pont - Tréglonou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 256 Rue du Général de Gaulle - Milizac-Guipronvel",
+    "address": "256 Rue du Général de Gaulle - Milizac-Guipronvel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - Saint-Sébastien - Lannilis",
+    "address": "Saint-Sébastien - Lannilis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Gendarmerie de Lannilis",
+    "address": "Rue de la Fontaine - Lannilis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Plouvien (Place des Fusillés)",
+    "address": "145 Rue Laennec - Plouvien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Plabennec",
+    "address": "2 Kermenguy - Plabennec",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Saint Pabu (Place de Theven Ar Reut)",
+    "address": "Place de Theven Ar Reut - Saint-Pabu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

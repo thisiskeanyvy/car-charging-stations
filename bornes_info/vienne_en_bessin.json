@@ -1,0 +1,132 @@
+[
+  {
+    "title": "MobiSDEC - SOMMERVIEU (Rue Saint Pierre)",
+    "address": "25 Rue Saint-Pierre - Sommervieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Courtepaille - Bayeux",
+    "address": "Rue des Longues Haies - Nonant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint Gabriel Brécy - Rue du Moulin",
+    "address": "64-65 Rue du Moulin - Saint-Gabriel-Brécy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - VILLIERS LE SEC ( Parking de la Mairie)",
+    "address": "2 Rue de Bayeux - Villiers-le-Sec",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Parking Saint-Martin-des-Entrées",
+    "address": "2 Rue Claude Monet - Saint-Martin-des-Entrées",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - Rue Michel de Montaigne - Saint-Martin-des-Entrées",
+    "address": "Rue Michel de Montaigne - Saint-Martin-des-Entrées",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Vigor-le-Grand",
+    "address": "11 Route d'Esquay-sur-Seulles - Saint-Vigor-le-Grand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Intermarché - Saint-Vigor-le-Grand",
+    "address": "9B Route d'Esquay sur Seulles - Saint-Vigor-le-Grand",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Volkswagen-Suzuki - Bayeux",
+    "address": "1 Rue de Saint-Sulpice - Saint-Vigor-le-Grand",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Rue du Marronnier - Coulombs",
+    "address": "15 Rue Du Marronnier - Coulombs",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

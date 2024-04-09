@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE65 - Place de Verdun",
+    "address": "12 Place de Verdun - Ibos",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "evzen - Bornes Publiques - Ibos - Route de Pau",
+    "address": "Route de Pau - Ibos",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - La Boucherie Tarbes",
+    "address": "59 bis Avenue du Pouey - Ibos",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault - Tarbes",
+    "address": "5 D817 - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan Tarbes - Edenauto (Privée)",
+    "address": "5 Boulevard de l'Ordre National du Mérite - Tarbes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MAZDA TARBES 22kW AC",
+    "address": "12 Rue Louis Caddau - Tarbes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Tarbes",
+    "address": "5 Rue louis caddau - Tarbes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Kyriad Bastillac",
+    "address": "1 rue Morane-Saulnier - Tarbes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Rue Morane Saulnier - Tarbes",
+    "address": "Rue Morane Saulnier - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Atelier du Burger - Tarbes",
+    "address": "10 Boulevard Du Maréchal Juin - Tarbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

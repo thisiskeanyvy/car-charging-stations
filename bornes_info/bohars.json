@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Métropole de Brest - Rue du Kreisker - Bohars INEXISTANT",
+    "address": "3bis Rue Du Kreisker - Bohars",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole de Brest - Route de Brest - Guilers",
+    "address": "Route de Brest - Guilers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OTIS_GIEN_2569_Pext",
+    "address": "2 Avenue de Provence - Brest",
+    "connectors": [
+      "x10",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Guilers",
+    "address": "18 route de Bohars - Guilers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Super U - Brest",
+    "address": "17 rue Cuirasse Bretagne - Brest",
+    "connectors": [
+      "x8",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell Recharge - Castorama - Brest",
+    "address": "22 Rue André Colin - Brest",
+    "connectors": [
+      "x21",
+      "x25",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 1",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Magasin BUT - Brest",
+    "address": "Rue André Colin - Brest",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Europcar - Brest",
+    "address": "45 Rue De Keranfurust - Brest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Brest",
+    "address": "142 Rue du Général Paulet - Brest",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Métropole de Brest - Rue Alexandre Lemonnier - Guilers",
+    "address": "Rue Alexandre Lemonnier - Guilers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Maison Groleau",
+    "address": "49 Groleau-Ouest - Mombrier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie - Saint-Christoly-de-Blaye",
+    "address": "Le Bourg - Saint-Christoly-de-Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Place de l'arc - Bourg sur Gironde",
+    "address": "10 Rue du Château Vieux - Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Clos Marcamps (Tesla)",
+    "address": "2 Chemin des Carrières - Prignac-et-Marcamps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - La gruppe cars",
+    "address": "La gruppe cars - Blaye",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint-Martin-Lacaussade",
+    "address": "9 Avenue Mercure - Saint-Martin-Lacaussade",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Blaye",
+    "address": "Lieudit Chardonnet - Blaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EDF AMT SO",
+    "address": "50 Rue Saint-Exupéry - Ambès",
+    "connectors": [
+      "x4",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Services techniques municipaux - Ambès",
+    "address": "Place du 11 Novembre - Ambès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Savin - Place de la libération",
+    "address": "Place de la Libération  - Saint-Savin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

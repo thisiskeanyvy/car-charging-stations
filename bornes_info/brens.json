@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDET (Révéo) - Rue du Foyer - Brens",
+    "address": "Rue du Foyer - Brens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Station Service E Leclerc Gaillac - Brens",
+    "address": "Station E Leclerc Gaillac - Brens",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET (Reveo) Place d'Hautpoul - Gaillac",
+    "address": "Place d'Hautpoul - Gaillac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Révéo - Rue Philippe Noiret - Gaillac",
+    "address": "14 Rue Philippe Noiret - Gaillac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - 41 Avenue Georges Clémenceau - Gaillac",
+    "address": "41 Avenue Georges Clémenceau - Gaillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Avenue Guynemer - Gaillac",
+    "address": "114 Avenue Saint-Exupéry - Gaillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Gaillac",
+    "address": "Avenue Saint-Exupéry - Gaillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre E.Leclerc Gaillac",
+    "address": "20 Rue Didier Daurat - Gaillac",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "D'un Point A l'autre",
+    "address": "Rue de Bezelle - Gaillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Place de la Bouygues - Montans",
+    "address": "Place de la Bouygues - Montans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

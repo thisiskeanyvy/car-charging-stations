@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Riez Intermarche",
+    "address": "7194 Route de Puimoisson - Riez",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Route de Digne - Riez",
+    "address": "Route de Digne - Riez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking du collège - Riez",
+    "address": "5 Boulevard de Narwick - Riez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Parking de l'Eglise - Puimoisson",
+    "address": "Place de l'Église - Puimoisson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps S.L./6918",
+    "address": "1910 Route d'Allemagne - Riez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel La Ferme Rose",
+    "address": "Chemin du Peyrengue - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'Hôtes La Maison de Melen",
+    "address": "Chemin de Peyrengue - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE04 - Parking Les Magnans - Moustiers-Sainte-Marie",
+    "address": "4200 Avenue de Lérins - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "La fabrique - Moustiers-Sainte-Marie (Tesla and others)",
+    "address": "7048 Rue de la Bourgade - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking rue du seigneur Berthet",
+    "address": "Rue du seigneur berthet de la clue - Moustiers sainte marie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

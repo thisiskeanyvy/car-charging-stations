@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Parking Vinci Saint Michel",
+    "address": "Rue Hautefeuille - Paris",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - Rue Danton - Paris",
+    "address": "Rue Danton - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 4 quai du Marché Neuf 75004 Paris",
+    "address": "4 Quai du Marché Neuf - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - Quai du Marché Neuf - Paris",
+    "address": "Quai du Marché Neuf - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 7 rue Danton 75006 Paris",
+    "address": "28 Rue Danton - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Belib - 34 rue Saint-Jacques 75005 Paris",
+    "address": "34 Rue Saint-Jacques - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Belib - Rue Dante - Paris",
+    "address": "Rue Dante - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sarreguemines - Place Jean-Paul II - Paris",
+    "address": "Place Jean-Paul II - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 7 Rue Paul Painlevé - Paris",
+    "address": "7 Rue Paul Painlevé - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Saemes Notre Dame",
+    "address": "6 Parvis Notre Dame - Place Jean-Paul II - Paris",
+    "connectors": [
+      "x6",
+      "x6",
+      "x4",
+      "x5"
+    ],
+    "types": [
+      "Type 1",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

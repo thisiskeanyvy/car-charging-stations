@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Rossini Energy - Saint-Léger-Vauban - La Pierre Qui Viré \tAbbaye de la pierre qui vire",
+    "address": "La Pierre Qui Viré \tAbbaye de la pierre qui vire - Saint-Léger-Vauban",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place de l'église - Quarré-les-Tombes",
+    "address": "20 Place de l'Église - Quarré-les-Tombes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Office du tourisme de Saulieu",
+    "address": "20 Rue d'Argentine - Saulieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Le relais Bernard Loiseau - clients uniquement",
+    "address": "8 Rue de l'Ingénieur Jean Bertin - Saulieu",
+    "connectors": [
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du General de Candras - 31 Rue des Forges",
+    "address": "Place du General de Candras - Époisses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A6 Aire de la Chaponne (direction Chalon sur Saône)",
+    "address": "81 Autoroute du Soleil - Sceaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A6 - Aire de Maison Dieu (direction Auxerre)",
+    "address": "A6 - Guillon-Terre-Plaine",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Avallon",
+    "address": "33 Rue de la Bergerie - Magny",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Ibis Avallon - Rue de la Bergerie",
+    "address": "406 Pâtis des Îles - Magny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Parking covoiturage (Sortie 22)",
+    "address": "D646 - Sauvigny-le-Bois",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

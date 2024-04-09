@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Izivia Grand Lyon - Parking Eole - Craponne",
+    "address": "18 Rue Centrale - Craponne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia Grand Lyon - Hôtel de Ville de Craponne",
+    "address": "13 Rue de la Galoche - Craponne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Grand Lyon la métropole - av Marcel Merieux - Saint-Genis-les-Ollières",
+    "address": "av marcel merieux - Saint-Genis-les-Ollières",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Allée des Chênes - Saint-Genis-les-Ollières",
+    "address": "Allée des Chênes - Saint-Genis-les-Ollières",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Rue du Chapoly - Saint-Genis-les-Ollières",
+    "address": "Rue du Chapoly - Saint-Genis-les-Ollières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Mairie de Grezieu La Varenne",
+    "address": "11 Avenue Émile Évellier - Grézieu-la-Varenne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CM-CIC Tassin la Demi Lune (Privé)",
+    "address": "Chemin Antoine Pardon - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x9",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 3 Rue des Marronniers Z.A. du Clapeloup - Sainte-Consorce",
+    "address": "3 Rue des Marronniers Z.A. du Clapeloup - Sainte-Consorce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue du 11 Novembre 1918 - Tassin-la-Demi-Lune",
+    "address": "58 Avenue du 11 Novembre 1918 - Tassin-la-Demi-Lune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - 20 Chemin du Stade - Vaugneray",
+    "address": "20 Chemin du Stade - Vaugneray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

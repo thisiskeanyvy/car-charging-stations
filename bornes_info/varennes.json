@@ -1,0 +1,130 @@
+[
+  {
+    "title": "STATIONS-E - Combs-la-Ville - 15 Rue du Bas de la Couture",
+    "address": "15 Rue du Bas de la Couture - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Place de l'An 2000 - Combs-la-Ville",
+    "address": "Place de l'An 2000 - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Quincy-sous-Sénart - Hôpital Claude Galllien (parking arrière)",
+    "address": "20 Route de Boussy-Saint-Antoine - Quincy-sous-Sénart",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare SNCF - Rue des bergeries - Combs La Ville",
+    "address": "Rue des bergeries - Combs La Ville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Gare SNCF de Combs-la-Ville",
+    "address": "Avenue de la Gare - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Combs-la-Ville - 2B Avenue de Quincy",
+    "address": "2B Avenue de Quincy - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Rue Sommeville - Combs-la-Ville",
+    "address": "Rue Sommeville - Combs-la-Ville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - Place Hottinguer - Combs La Ville",
+    "address": "Place Hottinguer - Combs La Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - CC Val d'Yerres 2 - Boussy-Saint-Antoine",
+    "address": "Centre commercial Val d'Yerres, 2 - Boussy-Saint-Antoine",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Contact Perigny",
+    "address": "2 Route de Brie-Comte-Robert - Périgny",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

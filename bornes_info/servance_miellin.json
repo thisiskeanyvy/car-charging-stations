@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIED70 - Salle Polyvalente - Plancher-les-Mines",
+    "address": "5 Rue de France - Plancher-les-Mines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Champ de Foire - Faucogney-et-la-Mer",
+    "address": "1 Place du Champ de Foire - Faucogney-et-la-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place des Chars",
+    "address": "Rue des Chars - Faucogney-et-la-Mer",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 1 Rue De L'état - Ramonchamp",
+    "address": "1 Rue De L'état - Ramonchamp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - 34 Rue Charles de Gaulle - Le Thillot",
+    "address": "34 Rue Charles de Gaulle - Le Thillot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 20 Avenue de Verdun - Le Thillot",
+    "address": "20 Avenue de Verdun - Le Thillot",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "borne maison France services",
+    "address": "8 Rue du Moulin - Mélisey",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Colruyt - Le Thillot",
+    "address": "19bis Avenue De Verdun - Le Thillot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Melisey - Place de la gare",
+    "address": "4 Route de Lure - Mélisey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Route de la Rosieres",
+    "address": "Le Petit Corravillers - Corravillers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

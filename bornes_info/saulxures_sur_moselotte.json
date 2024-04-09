@@ -1,0 +1,126 @@
+[
+  {
+    "title": "L'Angelus Hôtel Restaurant Bar",
+    "address": "20 Route de la Médelle - Saulxures-sur-Moselotte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Passage Perrin - Cornimont",
+    "address": "2 Passage Perrin - Cornimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine du Châtelet",
+    "address": "16 Route du Châtelet - Ferdrupt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Là-Haut & Spa",
+    "address": "2 Chemin du Haut Riant - Ventron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue André Hingray - Ferdrup",
+    "address": "12 Rue André Hingray - Ferdrupt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Le Thillot - Intermarché",
+    "address": "Route du Ménil - Le Thillot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Le Thillot",
+    "address": "Route du ménil - Le Thillot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 1 Rue De L'état - Ramonchamp",
+    "address": "1 Rue De L'état - Ramonchamp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Église - Ventron",
+    "address": "2 Place de l'Église - Ventron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping du Mettey",
+    "address": "Chemin du Camping - Vagney",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

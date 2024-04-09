@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE28 - Ymonville",
+    "address": "10 bis Rue du Haut Chemin - Ymonville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Rue de l'Arsenal - Orgères-en-Beauce",
+    "address": "2 Rue de l'Arsenal - Orgères-en-Beauce",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE28 - Boulevard Maurice Violette",
+    "address": "Boulevard Maurice Violette - Voves",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE28 - Voves (Rue de Châteaudun)",
+    "address": "Rue de Châteaudun - Voves",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Le Faux Chapitre - Les Villages-Vovéens",
+    "address": "Le Faux Chapitre - Les Villages-Vovéens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mr.Bricolage - Rue Émile Grapperon (Privé)",
+    "address": "2 Rue Émile Grapperon - Voves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sap Labs France (SLF) - Rue d'Orléans - Sancheville",
+    "address": "23 Rue d'Orléans - Sancheville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Sancheville",
+    "address": "Place du Patis - Sancheville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Boisville",
+    "address": "Rue de la République - Boisville-la-Saint-Père",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Shell-Recharge - A10 Aire de Val Neuvy (direction Paris)",
+    "address": "A10, Aire de Val Neuvy, Sens Orléans Paris - Fresnay-l'Évêque",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

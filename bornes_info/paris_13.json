@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Belib - Rue Croulebarbe - Paris",
+    "address": "Rue Croulebarbe - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - Rue Bobillot - Paris",
+    "address": "Rue Bobillot - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - Boulevard de l'Hôpital - Paris",
+    "address": "Boulevard de l'Hôpital - Paris",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 50 Boulevard Auguste Blanqui Paris",
+    "address": "50 face boulevard Auguste Blanqui - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 19 rue Berbier du Mets 75013 Paris",
+    "address": "19 Rue Berbier du Mets - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 141 Bd Vincent Auriol - Paris",
+    "address": "141 Bd Vincent Auriol - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ubeeqo - 26 rue Berbier du Mets Paris",
+    "address": "26 rue du Berbier du Mets - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 160 Rue Jeanne D'Arc - Paris",
+    "address": "160 Rue Jeanne D'Arc - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "157 Rue Jeanne d'Arc",
+    "address": "157 Rue Jeanne d'Arc - Paris",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 137 boulevard Vincent Auriol 75013 Paris",
+    "address": "137 Boulevard Vincent Auriol - Paris",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  }
+]

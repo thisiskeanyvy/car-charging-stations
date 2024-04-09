@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Place du champs de Foire - Lencloitre",
+    "address": "Place du champs de foire - Lencloitre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Etienne de Monbron",
+    "address": "14bis Pl Etienne Cherade De Montbron - Scorbé-Clairvaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Scorbé-Clairvaux - 1 Place De La Mairie",
+    "address": "1 Place De La Mairie - Scorbé-Clairvaux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Eglise - Vendeuvre-du-Poitou",
+    "address": "2 Place Raoul Péret - Vendeuvre-du-Poitou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pharmacie - Rue Marie Curie",
+    "address": "2 Rue Marie Curie - Saint-Martin-la-Pallu",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Station-e - Saint-Martin-la-Pallu",
+    "address": "4 Rue Marie Curie - Saint-Martin-la-Pallu",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Saint-Martin-la-Pallu - Ford",
+    "address": "36B Route de Poitiers - Saint-Martin-la-Pallu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Dissay - D910",
+    "address": "D910 - Dissay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Alterbase Sorégies - Parking Coiffure - Beaumont",
+    "address": "5a Avenue de Paris - Beaumont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Restaurant Binjamin_Tesla et autres (Privé)",
+    "address": "1004 D910 - Dissay",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Ferme de Launay_Busnel",
+    "address": "Ferme de Launay-Busnel - La Gouesnière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place Arthur Regnault - Saint-Père-Marc-en-Poulet",
+    "address": "12-14 Place Arthur Regnault - Saint-Père",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "OuestCharge - Place du Marché au Cadran - Saint-Méloir-des-Ondes",
+    "address": "Place du Marché au Cadran - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Powerdot - Les Halles Méloriennes",
+    "address": "38 Rue d'Emeraude - St.-Méloir-des-Ondes",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Chateau-Richeux Roellinger (autres VE)",
+    "address": "Château Richeux - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau-Richeux Roellinger (Tesla)",
+    "address": "Château Richeux - Saint-Méloir-des-Ondes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Malouinière des Longchamps (Tesla)",
+    "address": "Les Longs Champs - Saint-Jouan-des-Guérets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La ferme du vent (Tesla)",
+    "address": "Langavant - Saint-Méloir Des Ondes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - D7 - Saint-Père-Marc-en-Poulet",
+    "address": "D74 - Saint-Père",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nissan - Saint-Malo",
+    "address": "Avenue du commerce - Saint-Jouan-des-Guérêts",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Rue des Dronots - Villiers sur Seine",
+    "address": "2 Rue des Dronots - Villiers-sur-Seine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue de l'église - Noyen-sur-Seine",
+    "address": "3 Rue de l'Église - Noyen-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Place de la mairie - Hermé",
+    "address": "8 Rue du Stade - Hermé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDESM - Rue Mérot - Fontaine-Fourches",
+    "address": "9 Rue Mérot - Fontaine-Fourches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Parking Foyer rural",
+    "address": "2 Avenue de la Gare - Gouaix",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Grande Rue - Le Mériot",
+    "address": "1b La Grande Rue - Le Mériot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking mairie - Soisy-Bouy",
+    "address": "19 Rue de la Mairie - Soisy-Bouy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nogent-sur-Seine | Rue Port au Charbon",
+    "address": "Rue Port au Charbon - Nogent-sur-Seine",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Virta - 47 route de Bray sur Seine - Nogent sur Seine",
+    "address": "47 Route de Bray - Nogent-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue du Petit Paraclet Sourdun",
+    "address": "8 Rue du Petit Paraclet - Sourdun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

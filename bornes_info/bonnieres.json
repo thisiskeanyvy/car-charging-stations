@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SEYMABORNE - Place de la Libération Bonnières-sur-Seine",
+    "address": "Place de la Libération - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEYMABORNE - Rue du Port - Bonnières-sur-Seine",
+    "address": "Rue du Port - Bonnières-sur-Seine",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEY Ma Borne - 7 Rue des Caboches - Bonnières-sur-Seine",
+    "address": "Chemin de la Forêt - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rue Charles de Gaulle - Freneuse",
+    "address": "2Bis Rue Charles de Gaulle - Freneuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Centre-ville de Freneuse",
+    "address": "Rue Charles de Gaulle - Freneuse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Bonnières-sur-Seine",
+    "address": "1 Rue Jean François Feugere - Bonnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WattzHub - Rolleboise - Domaine de la Corniche",
+    "address": "5 Route de la Corniche - Rolleboise",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Route Nationale - La Villeneuve-en-Chevrie",
+    "address": "Route Nationale - La Villeneuve-en-Chevrie",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Parking central Giverny",
+    "address": "43 Le Clos Morin - Giverny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEYMABORNE - Place Bernard Huan",
+    "address": "Rue Nationale - Rosny-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

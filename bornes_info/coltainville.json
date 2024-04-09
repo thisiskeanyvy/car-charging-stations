@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Ionity Charging Station DOUBLON",
+    "address": "L'Océane - Gasville-Oisème",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A11 - Aire de Chartres-Gasville (direction Chartres)",
+    "address": "A11 - Gasville-Oisème",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A11 - Aire de Chartres-Bois Paris (direction Paris)",
+    "address": "A11 - Gasville-Oisème",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "GROUPE COLISEE_FRANCE_GASVILLE OISEME_8042_Pext_E",
+    "address": "28 Rue de la Chesnaie - Gasville-Oisème",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "KIA - ZEborne - 14 Rue Gilles de Roberval - Zone Archevilliers - Nogent-le-Phaye (Privé)",
+    "address": "14 Rue Gilles de Roberval - Zone Archevilliers - Nogent-le-Phaye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - LS Group Chartres - 10 Rue Gilles De Roberval - Nogent-le-Phaye",
+    "address": "10 Rue Gilles De Roberval - Nogent-le-Phaye",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - BMW - Nogent-le-Phaye",
+    "address": "14 rue Gilles de Roberval - Nogent-le-Phaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Chartres (Nogent-le-Phaye)",
+    "address": "10 Rue Gilles de Roberval - Nogent-le-Phaye",
+    "connectors": [
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Volkswagen - ZAC DU PARC D'ARCHEVILLIERS - Nogent-le-Phaye",
+    "address": "9 Rue Gilles de Roberval - Nogent-le-Phaye",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Audi - Rue Gilles de Roberval - Chartres (Privé)",
+    "address": "7 Rue Gilles de Roberval - Nogent-le-Phaye",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

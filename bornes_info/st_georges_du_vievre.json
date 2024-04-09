@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SIEGE27 - Saint-Georges-du-Vièvre",
+    "address": "26 Place De La Mairie - St.-Georges-du-Vièvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Place du Télégraphe - Lieurey",
+    "address": "1 Place du Télégraphe - Lieurey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Réseau de recharge Comble d'en France/FR*SGA*P1M2122",
+    "address": "La cour au Merle - Saint-Pierre-de-Salerne",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Le Pont Joly - Saint-Philbert-sur-Risle",
+    "address": "Le Pont Joly - Saint-Philbert-sur-Risle",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Pierre Mendès France - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Rue Saint-Anselme - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Brionne",
+    "address": "Rue A et J Renoir, Rue du Cimetière, - Brionne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEGE27 - Parking de la Gare - Brionne",
+    "address": "Rue du Général de Gaulle - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Épaignes",
+    "address": "Place de la Mairie - Épaignes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Salle des fêtes - Brionne",
+    "address": "1 Rue de la Soie - Brionne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEM51 - Pogny",
+    "address": "44 Route nationale - Pogny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Rue des Moissons - L'Epine",
+    "address": "2 Rue des Moissons - L'Épine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Armes de Champagne (Tesla)",
+    "address": "31 Avenue du Luxembourg - L'Épine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 - Rue Mermoz - Courtisols",
+    "address": "2B Rue Mermoz - Courtisols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - 2 RUE DENIS PAPIN COURTISOLS",
+    "address": "2 RUE DENIS PAPIN - Courtisols",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Logis Clos de mutigny - La chaussé sur Marne",
+    "address": "17 Avenue Du Docteur Justin Jolly - La Chaussée-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - rue de l'église - Parking Salle des fêtes - Sarry",
+    "address": "rue de l'eglise - Sarry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - REY SAS - 17 Avenue du Maquis des Glières ZAC - Saint-Memmie",
+    "address": "17 Avenue du Maquis des Glières ZAC - Saint-Memmie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 19 Avenue du Maquis des Glières - Saint-Memmie",
+    "address": "19 Avenue du Maquis des Glières - Saint-Memmie",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Brico-Dépôt - Saint-Memmie",
+    "address": "29 Avenue Marc Hamet - Saint-Memmie",
+    "connectors": [
+      "x13",
+      "x12",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

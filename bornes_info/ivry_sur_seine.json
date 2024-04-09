@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIGEIF - 16 Rue Marat - Ivry Sur Seine (à coté de l'entrée secondaire du Métro Mairie d'Ivry)",
+    "address": "16 Rue Marat - Ivry-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIGEIF - 5 Avenue Spinoza - Ivry Sur Seine",
+    "address": "5 Avenue Spinoza - Ivry Sur Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIGEIF - 67 rue Gabriel Péri - Ivry Sur Seine",
+    "address": "67 rue Gabriel Péri - Ivry-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rue Victor Hugo - Ivry-Sur-Seine",
+    "address": "Rue Victor Hugo - Ivry-Sur-Seine",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - 27 Rue Michelet - Ivry Sur Seine",
+    "address": "27 Rue Michelet - Ivry-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Total Energie - 170 Boulevard de Stalingrad - Ivry-sur-Seine",
+    "address": "170 Boulevard de Stalingrad - Ivry-sur-Seine",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Ivry Sur Seine",
+    "address": "13 Avenue Pierre Semard - Ivry-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - 19 Rue Baudin - Ivry-sur-Seine",
+    "address": "19 Rue Baudin - Ivry-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - 111 Rue Hoche - Ivry Sur Seine",
+    "address": "113 Rue Hoche - Ivry-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SIGEIF - 9 Rue Baudin - Ivry Sur Seine",
+    "address": "9 Rue Baudin - Ivry-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

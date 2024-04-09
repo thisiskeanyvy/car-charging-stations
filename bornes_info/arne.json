@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Lidl - Arnouville",
+    "address": "34 Avenue Paul Vaillant Couturier - Arnouville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Garges-lès-Gonesse - Cora",
+    "address": "1 Boulevard de la Muette - Garges-lès-Gonesse",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Borne de recharge Arnouville",
+    "address": "1 Allée des Mouettes - Arnouville",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rond point du centre commercial du Pont de Pi - Garges-lès-Gonesse",
+    "address": "Rond point du centre commercial du Pont de Pi - Garges-lès-Gonesse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aéroport du Bourget (Privé)",
+    "address": "Aéroport du Bourget - Bonneuil-en-France",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Gonesse",
+    "address": "1 Avenue Georges Pompidou - Gonesse",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gonesse | Rue Jean Mermoz 1",
+    "address": "1 Rue Jean Mermoz - Gonesse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking rue Chalgrin",
+    "address": "1 Rue Jean-François Chalgrin - Garges-lès-Gonesse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarreguemines - 30 avenue du Général de Gaulle - Garges-lès-Gonesse",
+    "address": "30 avenue du Général de Gaulle - Garges-lès-Gonesse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta (FI) - 1 Avenue General de Gaulle - Garges les Gonesses (Privé)",
+    "address": "1 Avenue General de Gaulle - Garges les Gonesses",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

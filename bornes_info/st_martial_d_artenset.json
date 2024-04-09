@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE24 - Rue Georges Clemenceau Montpon-Ménestérol",
+    "address": "792-804 Rue Georges Clemenceau - Montpon-Ménestérol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE24 - Place Gambetta Montpon-Ménestrol",
+    "address": "2 Place Gambetta - Montpon-Ménestérol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Montpon-Ménestérol",
+    "address": "100 Avenue Georges Pompidou - Montpon-Ménestérol",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Gare - Mussidan",
+    "address": "9 Rue Raymond Villechanoux - Mussidan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Saint-Médard-de-Mussidan - Super U",
+    "address": "29R2+HF Saint-Médard-de-Mussidan, France - Saint-Médard-de-Mussidan",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de la Mairie - D32 - Saint-Méard-de-Gurçon",
+    "address": "D32 - Saint-Méard-de-Gurçon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue Pasteur - Saint-Médard-de-Mussidan",
+    "address": "Rue Pasteur - Saint-Médard-de-Mussidan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Bartebrune, 1 - Saint-Antoine-sur-l'Isle",
+    "address": "1 Bartebrune - Saint-Antoine-sur-l'Isle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Lac de Gurson",
+    "address": "Base de loisirs - Carsac-de-Gurson",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A89 Aire des Palombières (direction Libourne)",
+    "address": "A89 BORDEAUX CLERMONT FERRAND - GOURS",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

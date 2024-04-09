@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDES73 - Saint-Pierre d'Albigny",
+    "address": "192-215 Route de la Gare - Saint-Pierre-d'Albigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A43 - Val Gelon (direction Albertville)",
+    "address": "13 E70 - Chateauneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A43 - Aire d'Arclusaz (direction Montmelian)",
+    "address": "Aire d'Arclusaz - Châteauneuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CHEZ JOGO",
+    "address": "41 chemin du mollard - CHAMOUSSET",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D204 Chamousset",
+    "address": "2 D204 - Chamousset",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SPIE-CityNetworks - Savoie Libre Service - RN6 - ZA d'Arbin",
+    "address": "45 Route Nationale 6 - Arbin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Villard-Sallet",
+    "address": "Garage Mosca - Villard-Sallet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDES73 - Montmélian",
+    "address": "14 Avenue de Savoie - Montmélian",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel la Clé des Champs & Restaurant Le Cep Gourmand",
+    "address": "Chemin de la Digue - Montmélian",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montmélian",
+    "address": "219 Avenue du Gresivaudan - Montmélian",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

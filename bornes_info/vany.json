@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Freshmile - Rue Principale - Servigny-lès-Sainte-Barbe",
+    "address": "Rue Principale - Servigny-lès-Sainte-Barbe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GROUPE COLISEE_FRANCE_SAINT JULIEN_Pext_E",
+    "address": "23 Rue des Hêtres - Saint-Julien-lès-Metz",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EDF - La Maxe",
+    "address": "Rue de Thury - La Maxe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IKEA - Rue du Trou aux Serpents - Metz",
+    "address": "11 Rue du Trou aux Serpents - La Maxe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FASTNED - A31 Aire de la Maxe (direction Thionville)",
+    "address": "A31 - La Maxe",
+    "connectors": [
+      "x16",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Rue du Général Metman - Metz",
+    "address": "74 Rue du Général Metman - Metz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Metz",
+    "address": "43 Rue des Drapiers - Metz",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zephyre - Hôtel ibis Metz Woippy",
+    "address": "56 Rue du Fort Gambetta - Woippy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Woippy - Hôtel Campanile Metz Nord",
+    "address": "45 Rue du Fort Gambetta - Woippy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rossini Energy - 6 Rue Dreyfus Dupont - Metz",
+    "address": "6 Rue Dreyfus Dupont - Metz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

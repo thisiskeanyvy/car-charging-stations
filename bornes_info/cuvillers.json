@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Place de la Mairie - Tilloy-lez-Cambrai",
+    "address": "47 Rue Jean Lebas - Tilloy-lez-Cambrai",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sicae somme - Rue d'en Bas - Escaudœuvres",
+    "address": "23 Ter Rue d'en Bas - Escaudœuvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Neuville-Saint-Rémy",
+    "address": "33 Rue des Lilas - Neuville-Saint-Rémy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Kia - ZEborneMS - 248-250 Rue Jean Jaurès - Escaudœuvres",
+    "address": "248 Rue Jean Jaurès - Escaudœuvres",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clinique Saint Roch",
+    "address": "128 Allée Saint-Roch - Cambrai",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mc Do - Cambrai",
+    "address": "179 Avenue de Valenciennes - Cambrai",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "84 Avenue de Dunkerque",
+    "address": "84 Avenue de Dunkerque - Cambrai",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Escaudœuvres",
+    "address": "2 Rue Jean Jaurès - Escaudœuvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Proche pharmacie - Rue du Champ de Manœuvre - Cambrai",
+    "address": "1–13 Rue du Champ de Manœuvre - Cambrai",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - ISUZU Auto Vente - 132 Bd Faidherbe, - Cambrai",
+    "address": "132 Bd Faidherbe, - Cambrai",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Büschstr. - Hamburg",
+    "address": "12 Büschsstraße - Hamburg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hohe Bleichen 22 - Hamburg",
+    "address": "Hohe Bleichen 22 - Hamburg",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parkhaus Gänsemarkt, in Hamburg",
+    "address": "5 Dammtorwall - Hamburg",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Emporio - Drehbahn - Hamburg",
+    "address": "16 Caffamacherreihe - Hamburg",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parkhaus Hanse -Viertel APCOA",
+    "address": "Hohe Bleichen 18 - Hamburg",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stromnetz Hamburg, Große Theaterstraße",
+    "address": "43 Große Theaterstraße - Hamburg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (DE) - Dammtorwall - Hamburg",
+    "address": "Dammtorwall - Hamburg",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Scandic Hotel Hamburg Emporio",
+    "address": "19 Dammtorwall - Hamburg",
+    "connectors": [
+      "x8",
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fehlandtstraße 6",
+    "address": "Fehlandtstraße 6 - Hamburg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Amelungstraße 5",
+    "address": "5 Amelungstraße - Hamburg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  }
+]

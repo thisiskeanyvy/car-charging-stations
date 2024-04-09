@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Kyriad Lyon Sud",
+    "address": "43 Chemin de la Croix Pivort - Sainte-Foy-lès-Lyon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue Maurice Jarrosson -Sainte-Foy-lès-Lyon",
+    "address": "28 Avenue Maurice Jarrossonj - Sainte-Foy-lès-Lyon",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel mob (Tesla et autres)",
+    "address": "305 Rue Hrant Dink - Lyon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Chemin de la Bastéro - La Mulatière",
+    "address": "Chemin de la Bastéro - La Mulatière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Peugeot St Alexandre",
+    "address": "32 Avenue Général de Gaulle - Rhône",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking confluence - Lyon (Parking bas)",
+    "address": "3 Rue Paul Montrochet - Lyon",
+    "connectors": [
+      "x6",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Confluence - Lyon (niveau +1)",
+    "address": "5 Rue Paul Montrochet - Lyon",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Parking P1 - Stéphane Dechant - La Mulatière",
+    "address": "10 Rue Stéphane Dechant - La Mulatière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - Lyon - Crédit Mutuel",
+    "address": "Rue Paul Montrochet - LYON",
+    "connectors": [
+      "x1",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - Rue Denuzière - Lyon",
+    "address": "62 Rue Denuzière - Lyon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

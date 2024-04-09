@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Vinci - Muret - 7 Rue Joseph Cugnot",
+    "address": "7 Rue Joseph Cugnot - Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - SUD GARONNE AUTOMOBILES - Muret",
+    "address": "Impasse Jacques Monod - Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Muret",
+    "address": "32 Boulevard Joffrery - Muret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Muret",
+    "address": "27 Rue Pierre de Fermat - Muret",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 19B Rue Pierre de Fermat - Muret",
+    "address": "19B Rue Pierre de Fermat - Muret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Cinéma Vo - Muret",
+    "address": "53 Avenue d'Europe - Muret",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ZEborne - Roques - Ford Muret",
+    "address": "117 Rue des Perioles - Roques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Chemin de Bonnafous Lieu dit Cujalas - Roques",
+    "address": "Chemin de Bonnafous Lieu dit Cujalas - Roques",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 25 Route de Seysses - Muret INEXISTANT",
+    "address": "25 Route de Seysses - Muret",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Impasse Montségur - Roquettes",
+    "address": "Impasse Montségur - Roquettes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

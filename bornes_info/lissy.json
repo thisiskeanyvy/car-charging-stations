@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDESM - Place Roger Chauveau - Lissy",
+    "address": "9 Place Roger Chauveau - Lissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue du Château d'Eau Limoges-Fourches",
+    "address": "7 Rue du Château d'Eau - Limoges-Fourches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - FIRALP Montereau-sur-le-Jard (Privé)",
+    "address": "Route du Camp - Montereau-sur-le-Jard",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de Champeaux\t- Soignolles en brie",
+    "address": "11 Rue de Champeaux - Soignolles-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Safran Aircraft Engines - Montereau-sur-le-Jard (Privé)",
+    "address": "5000 Le Tertre De Montereau - Montereau-sur-le-Jard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Solers - Rue de la Tournelle",
+    "address": "15 Rue de la Tournelle - Solers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue de Constantine",
+    "address": "Rue de Constantine - Coubert",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A5b Aire de Galande la Mare Laroche",
+    "address": "A 5b - Réau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syndicat Départemental Des Énergies De Seine-Et-Marne (SDESM) - Coubert - Rue Jean-Jaurès",
+    "address": "Rue Jean-Jaurès - Coubert",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Grande Saint-Germain-Laxis",
+    "address": "36 Rue Grande - Saint-Germain-Laxis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

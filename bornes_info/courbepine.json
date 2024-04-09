@@ -1,0 +1,124 @@
+[
+  {
+    "title": "44 Rue du Général Leclerc",
+    "address": "1 Rue Henri Bena - Bernay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Leclerc Menneval",
+    "address": "Route de Rouen - Menneval",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Leclerc - Menneval",
+    "address": "Route de Rouen - Menneval",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cuisinella - Picard",
+    "address": "Route de rouen - Menneval",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Guillaume de la Tremblaye - Bernay",
+    "address": "24 Rue Guillaume de la Tremblaye - Bernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Place Dérou",
+    "address": "Avenue Jean de la Varende - Bernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Hôtel de Ville - Place Gustave Heon - Bernay",
+    "address": "Place Gustave Heon - Bernay",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEGE27 - Place Lobrot - Bernay",
+    "address": "Place Lobrot Rue Judith de Bretagne - Bernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Gare de Bernay",
+    "address": "6 Rue Bernard Gombert - Bernay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Mc Donald's - Bernay",
+    "address": "2 Boulevard Sylla Lefèvre - Bernay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

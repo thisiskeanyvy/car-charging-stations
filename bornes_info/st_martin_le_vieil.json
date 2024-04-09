@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Villespy | Route de Lasbordes 2",
+    "address": "2 Route de Lasbordes - Villespy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "f. LORENTE RENOVATION Lrenov",
+    "address": "Grand Rue - Cenne Monesties",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Rue Léon Blum Villepinte",
+    "address": "1 Rue Léon Blum - Villepinte",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syaden - Chemin de Cayrol - Alzonne",
+    "address": "Chemin de Cayrol - Alzonne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Parking Rue Marceau Bram",
+    "address": "3 Rue Marceau - Bram",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden - Place du Foirail - Bram",
+    "address": "6-10 Rue du Chanoine Andrieu - Bram",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - ZA Saint Jean - RD 629",
+    "address": "Rue Boris Vian - Saissac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - Allée de la Promenade Saissac",
+    "address": "3 Allée de la Promenade - Saissac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "RÉVÉO - Grand Rue du Château d'Eau - Lasbordes",
+    "address": "Grand Rue du Château d'Eau - Lasbordes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Audois d’Énergies (SYADEN) - Pexiora - Rue du Stade",
+    "address": "Rue du Stade - Pexiora",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

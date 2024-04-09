@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Vinci - Mairie de Malleloy",
+    "address": "1 Rue de la Mairie - Malleloy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint network - 56 Rue de la Zone Artisanale du Serroir du Haut - Lay-Saint-Christophe",
+    "address": "56 Rue de la Zone Artisanale du Serroir du Haut - Lay-Saint-Christophe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La ferme des Fruitiers",
+    "address": "30 Route de Sarreguemines - Seichamps",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE54 - D40 Aire de covoiturage - Custines",
+    "address": "D40 - Custines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Vinci - 9 Quai Émile Benoît - Nomeny",
+    "address": "9 Quai Émile Benoît - Nomeny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Kyriad Nancy Est - Essey-lès-Nancy",
+    "address": "32 Rue des Tarbes Kyriad Nancy Est - Essey-lès-Nancy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - CC Bassin de Pompey",
+    "address": "112 rue des 4 éléments - Pompey",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Burger King - Essey-lès-Nancy",
+    "address": "Avenue 69ème Régiment d'Infanterie - Essey-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Vinci - Parking du port - Rue de Frouard - Champigneulles",
+    "address": "8 Rue de Frouard - Champigneulles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Essey-lès-Nancy - Basic Fit",
+    "address": "1 Avenue de Saulxures - Essey-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

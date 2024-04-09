@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDED - Rue des Maisons Neuves - EROME",
+    "address": "65 Rue des Maisons Neuves - Érôme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Place du Champ de Mars Saint-Vallier",
+    "address": "11 Place du Champ de Mars - Saint-Vallier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE07 - Place Jean Moulin Sarras",
+    "address": "3 Rue du Champ de l'Homme - Sarras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge France - 9 Rue Centrale - Saint-Jean-de-Muzols",
+    "address": "9 Rue Centrale - Saint-Jean-de-Muzols",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Rue du Vercors",
+    "address": "13 Rue du Vercors - Saint-Barthélémy-de-Vals",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Église - Saint-Jean-de-Muzols",
+    "address": "Passage de l'Église - Saint-Jean-de-Muzols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDED - Saint-Uze",
+    "address": "10 Lot les Sources - Saint-Uze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CNR - La Croix des Mailles Laveyron",
+    "address": "123 La Croix des Mailles - Laveyron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CNR - Promenade Roche de France Tournon-sur-Rhône",
+    "address": "5 Promenade Roche de France - Tournon-sur-Rhône",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "eborn - Place Taurobole - Tain-l'Hermitage",
+    "address": "Place Taurobole - Tain-l'Hermitage",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

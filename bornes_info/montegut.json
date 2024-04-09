@@ -1,0 +1,126 @@
+[
+  {
+    "title": "chalet de Montaigu",
+    "address": "28 Route du Chalet - Coulandon",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Souvigny",
+    "address": "Place Charles de Gaulle - Souvigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Rue de la République Avermes",
+    "address": "42 Rue de la République - Avermes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue du Général de Gaulle - Moulins",
+    "address": "Avenue du Général de Gaulle - Moulins",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE03 - Moulins (Rue Achille Roche)",
+    "address": "Rue Achille Roche - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE03 - Moulins (Place Jean Moulin)",
+    "address": "Place Jean Moulin - Moulins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "e-born - Rue Pierre Ardillon - Moulins",
+    "address": "3 Rue Pierre Ardillon - Moulins",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Avermes | Route de Paris",
+    "address": "Route de Paris Lieudit \"La Rigollée\" - Avermes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 30 Route De Paris - Avermes",
+    "address": "29 Route De Paris - Avermes",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Moulins",
+    "address": "80 Route de Paris - Avermes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

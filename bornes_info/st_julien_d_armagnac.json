@@ -1,0 +1,124 @@
+[
+  {
+    "title": "TotalEnergies - Abzac - Petit Sorillon",
+    "address": "Petit Sorillon - Abzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place des Martyres - Labastide-d'Armagnac",
+    "address": "Cours Maubec - Labastide-d'Armagnac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 19 Rue Joseph Cappin - Cazaubon",
+    "address": "19 Rue Joseph Cappin - Cazaubon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault Sauvage - Cazaubon",
+    "address": "Boulevard Des Pyrénées - Cazaubon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Bastide en Gascogne",
+    "address": "45 Avenue des Thermes - Cazaubon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Rue d'Albret - Barbotan-les-Thermes",
+    "address": "9358F Rue d'Albret - Cazaubon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hôtel La Roseraie",
+    "address": "2 Rue De l'Abbé Escarnot - Cazaubon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Allée Gaston Phoebus - Saint-Justin",
+    "address": "6 Allée Gaston Phoebus - Saint-Justin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Cazaubon - 431 Route D'eauze",
+    "address": "431 Route D'eauze - Cazaubon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Floirac - 1 Rue Salvador Allende",
+    "address": "1 Rue Salvador Allende - Floirac",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

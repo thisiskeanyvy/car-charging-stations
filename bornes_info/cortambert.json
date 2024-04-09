@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Rue Eugène Delacroix - Paris",
+    "address": "3 Rue Eugène Delacroix - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc de surface résidentiel Georges Mandel",
+    "address": "40 Rue Decamps - Paris",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - 24 Avenue Paul Doumer - Paris",
+    "address": "24 Avenue Paul Doumer - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Belib - Avenue Georges Mandel - Paris",
+    "address": "42 Avenue Georges Mandel - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 3 Rue Pétrarque - Paris",
+    "address": "3 Rue Pétrarque - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 22 Boulevard Émile Augier - Paris",
+    "address": "22 Boulevard Émile Augier - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 70 Avenue Henri Martin - Paris",
+    "address": "70 Avenue Henri Martin - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Belib - 12 boulevard Emile Augier 75116 Paris",
+    "address": "12 Boulevard Emile Augier - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 1 Avenue Georges Mandel - Paris",
+    "address": "1 Avenue Georges Mandel - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Indigo - 78 - 80 Rue de Passy - Paris",
+    "address": "78 - 80 Rue de Passy - Paris",
+    "connectors": [
+      "x2",
+      "x18"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

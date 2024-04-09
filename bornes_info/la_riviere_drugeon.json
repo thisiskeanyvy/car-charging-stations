@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SYDED - Gare de Frasne",
+    "address": "18 Rue de la Gare - Frasne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare de Frasne",
+    "address": "21 Rue de la Gare - Frasne",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL25 - Mairie - Vaux-et-Chantegrue",
+    "address": "9 Rue des Marais - Vaux-et-Chantegrue",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Rue de la Rochette - Saint-Point-Lac",
+    "address": "8 Rue de la Rochette - Saint-Point-Lac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDED - Salle des fêtes - Oye-et-Pallet",
+    "address": "7 Rue des Écoles - Oye-et-Pallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Hôtel Kyriad Pontarlier",
+    "address": "8 Rue Jean Petite, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Route de Dijon - Houtaud",
+    "address": "9 Rue de la Champagne - Houtaud",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Houtaud",
+    "address": "16 Rue de la Champagne - Houtaud",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - 12 rue Mervil - PONTARLIER NEXISTE PAS",
+    "address": "12 rue Mervil - PONTARLIER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile Services SAS - 12 Rue Donnet Zedel - Pontarlier",
+    "address": "12 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

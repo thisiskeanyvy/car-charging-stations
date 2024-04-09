@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEF - Le Faou (Parking Gendarmerie)",
+    "address": "D42 - Le Faou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - Le Faou",
+    "address": "0 Route de Rumengol - Le Faou",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Super U - Le Faou",
+    "address": "Route de Rumengol - Le Faou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEF - Dinéault (Mairie)",
+    "address": "3 Mairie - Dinéault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Hanvec (Place du Marché)",
+    "address": "7-9 Place du Marché - Hanvec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Plomodiern - Intermarché",
+    "address": "8 Rue de la Gare - Plomodiern",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Plomodiern (Place du 19 mars 1962)",
+    "address": "12 Rue de la Plage - Plomodiern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Mairie de Saint Ségal",
+    "address": "Rue de Pont de Buis - Saint-Ségal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Logonna-Daoulas - Place du Marché",
+    "address": "Route du Marché - Logonna-Daoulas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Châteaulin BodemerAuto",
+    "address": "22 Avenue de Quimper - Châteaulin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

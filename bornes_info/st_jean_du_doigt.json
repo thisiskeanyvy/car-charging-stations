@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEF - Plougasnou (Rue des Martyrs)",
+    "address": "4 Rue des Martyrs - Plougasnou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Guimaëc (Hent Sant Fiek)",
+    "address": "Hent Sant Fiek - Guimaëc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Lanmeur (Parking Pen Huella Guer)",
+    "address": "Rue de Morlaix - Lanmeur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Mairie de Plouézoc'h",
+    "address": "Place du Bourg - Plouezoc'h",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Lanmeur - Super U",
+    "address": "33 rue des quatre vents - Lanmeur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "See You Sun - Locquirec - 41 Route de Morlaix",
+    "address": "41 Route de Morlaix - Locquirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "See You Sun - Locquirec - 54B Route de Plestin",
+    "address": "54B Route de Plestin - Locquirec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Grand Hôtel des bains (Privé)",
+    "address": "15 rue de l'église - locquirec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "L'Hôtel de Carantec**** Restaurant Nicolas Carro* - Carantec",
+    "address": "20 rue du Kelenn - Carantec",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Carantec (Mairie - Rue Duquesne)",
+    "address": "Rue Duquesne - Carantec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

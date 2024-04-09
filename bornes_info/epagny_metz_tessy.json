@@ -1,0 +1,128 @@
+[
+  {
+    "title": "e-born - Mairie d'Épagny",
+    "address": "143 Rue de la République - Epagny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LBG la brasserie gourmande",
+    "address": "386 Rue de la Tuilerie - Épagny",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "BioFrais - Rue de l'Industrie - Epagny Metz-Tessy",
+    "address": "89 Rue de l'Industrie - Epagny Metz-Tessy",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Chemin du Clocher Metz-Tessy",
+    "address": "136 Chemin du Clocher - Metz-Tessy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - La Boucherie - Epagny",
+    "address": "210 Rue des peupliers - Epagny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - 1040 Rte de Bellegarde - Epagny Metz-Tessy",
+    "address": "1040 Rte de Bellegarde - Epagny Metz-Tessy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mont Blanc Automobile - Epagny",
+    "address": "903 Route de Bellegarde - Epagny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Porsche Annecy",
+    "address": "902 Route de Bellegarde - Epagny Metz-Tessy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Le Grand - Epagny",
+    "address": "Avenue du Centre - Epagny Metz-Tessy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Norauto - Épagny",
+    "address": "Centre Commercial Auchan Le Grand Epagny - Épagny",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

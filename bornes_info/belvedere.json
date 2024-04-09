@@ -1,0 +1,134 @@
+[
+  {
+    "title": "EFFIA - Place du Ratrait - Suresnes",
+    "address": "Place du Ratrait - Suresnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SIGEIF - 52 rue Carnot - Suresnes",
+    "address": "50 Rue Carnot - Suresnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIGEIF - 42 rue gardenat lapostol - Suresnes",
+    "address": "40 Rue Gardenat Lapostol - Suresnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sigeif - Avenue Georges Pompidou - Suresnes",
+    "address": "35 Avenue Georges Pompidou - Suresnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - Rue Huché - Suresnes",
+    "address": "11 Rue Huche - Suresnes",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - 15 rue de Verdun - Suresnes",
+    "address": "17 Rue De Verdun - Suresnes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Effia - Suresnes",
+    "address": "34 Avenue Franklin Roosevelt - Suresnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Diademys Head Office (pour employés et visiteurs)",
+    "address": "2 Rue Edouard Nieuport - Suresnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 14 rue Francis de Pressensé - Puteaux",
+    "address": "14 Rue Francis de Pressensé - Puteaux",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "EFFIA - Place Henri IV Suresnes",
+    "address": "16 Place Henri IV - Suresnes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SIGEIF - Gennevilliers - 55 Avenue des Grésillons",
+    "address": "55 Avenue des Grésillons - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La borne bleue - Rue Pierre Boudou - Asnières-sur-Seine",
+    "address": "82 Rue Pierre Boudou - Asnières-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - 1 Rue Daniel - Asnières-sur-Seine",
+    "address": "1 Rue Daniel - Asnières-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - Allées de l'Europe 19 - Clichy",
+    "address": "Allées de l'Europe 19 - Clichy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Quai du Docteur Dervaux - Asnières-sur-Seine",
+    "address": "Quai du Docteur Dervaux - Asnières-sur-Seine",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - Avenue Gabriel-Péri - Gennevilliers",
+    "address": "Avenue Gabriel-Péri - Gennevilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Avenue Claude Debussy - Clichy",
+    "address": "7 Avenue Claude Debussy - Clichy",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Virta - 66 rue Edouard Pottier - Leulinghem",
+    "address": "66 rue Edouard Pottier - Leulinghem",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CAUPAMAT",
+    "address": "114 Avenue Laurent Cély - Gennevilliers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Rue Jean Jacques Rousseau - Asnières-sur-Seine",
+    "address": "5 Rue Jean Jacques Rousseau - Asnières-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

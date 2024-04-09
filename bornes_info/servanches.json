@@ -1,0 +1,128 @@
+[
+  {
+    "title": "MobiVE - Place du Champ de Foire - Saint-Aulaye",
+    "address": "Place du Champ de Foire - Saint-Aulaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - La Jemaye-Ponteyraud - Lacalonie Etang La Jemaye",
+    "address": "Lacalonie Etang La Jemaye - La Jemaye-Ponteyraud",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta -  Vaures - Parcoul",
+    "address": "Vaures - Parcoul",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MobiVE) - Place de L'Etoile - La Roche-Chalais",
+    "address": "Place de L'Etoile - La Roche-Chalais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - La Roche-Chalais",
+    "address": "59B Avenue d'Aquitaine - La Roche-Chalais",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - La Cime du Pré, 7 - Saint-Christophe-de-Double",
+    "address": "7 La Cime du Pré - Saint-Christophe-de-Double",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - St-Aigulin - Rue Gambetta",
+    "address": "15B Rue Gambetta - Saint-Aigulin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - 6 Place du Champ de Foire - Aubeterre-sur-Dronne",
+    "address": "6 Place du Champ de Foire - Aubeterre-sur-Dronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Place Gambetta Montpon-Ménestrol",
+    "address": "2 Place Gambetta - Montpon-Ménestérol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 - Rue Georges Clemenceau Montpon-Ménestérol",
+    "address": "792-804 Rue Georges Clemenceau - Montpon-Ménestérol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

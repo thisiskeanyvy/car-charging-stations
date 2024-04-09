@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEM51 - Place des Tilleuls - Esternay",
+    "address": "1 Place des Tilleuls - Esternay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - Esternay",
+    "address": "5 Rue des Noues - Esternay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue des Deux Prés Montdauphin",
+    "address": "1 Rue Brûlée - Montdauphin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Place de Montléan - Montmirail",
+    "address": "50 Ruelle de Montlean - Montmirail",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEM 51 - rue des remparts de l'Est - Montmirail",
+    "address": "rue des remparts de l'Est - Montmirail",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Rue de la Guinotterie 6 - Montmirail",
+    "address": "6 Rue de la Guinotterie - Montmirail",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Route de Brangis - Montceaux les Provins",
+    "address": "2 Rue de Brangis - Montceaux-lès-Provins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Route de Paris L'Épine-aux-Bois",
+    "address": "306 Route de Paris - L'Épine-aux-Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue du Pont - Villeneuve sur bellot",
+    "address": "2 Rue du Pont - Villeneuve-sur-Bellot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue Ernest Delbet La Ferté-Gaucher",
+    "address": "2 Rue Ernest Delbet - La Ferté-Gaucher",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

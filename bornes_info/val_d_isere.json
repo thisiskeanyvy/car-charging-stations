@@ -1,0 +1,128 @@
+[
+  {
+    "title": "L'Aigle des Neiges Hôtel (Tesla and others)",
+    "address": "Rue de l'Église - Val-d'Isère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SAGS Parkings - Val-d'Isère",
+    "address": "91 Rue du Parc des Sports - Val-d'Isère",
+    "connectors": [
+      "x28",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "izivia - Avenue Olympique 173",
+    "address": "173 Avenue Olympique - Val-d'Isère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Val-d'Isère - Montée du Thovex Mairie de Val d'Isère",
+    "address": "46 Rue du Coin - Val-d'Isère",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Mont Blanc",
+    "address": "65 Rue des Célibataires - Val-d'Isère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la face de Bellevarde",
+    "address": "Rue de la Face - Val-d'Isère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel avancher - Val d’Isere (Tesla et autres)",
+    "address": "57 Avenue du Prariond - Val-d'Isère",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - Route de la Balme - Val-d'Isère INEXISTANT",
+    "address": "Route de la Balme - Val-d'Isère",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "nexteneo - Club Med - Val-d'Isère",
+    "address": "Rue de la Legettaz - Val-d'Isère",
+    "connectors": [
+      "x12",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - 1 Route de la Plaine - Val-d'Isère INEXISTANT",
+    "address": "1 Route de la Plaine - Val-d'Isère",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

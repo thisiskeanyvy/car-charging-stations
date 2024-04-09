@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Freshmile - Nointel - Château de Nointel",
+    "address": "Château de Nointel - Nointel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Nointel - D78, Rue Jeau Saunier",
+    "address": "D78, Rue Jeau Saunier - Nointel",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Presles - 9 Rue de la République",
+    "address": "9 Rue de la République - Presles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Presles Eglise",
+    "address": "5-7 Rue de la République - Presles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 38 Rue Saint-Roch - Beaumont-sur-Oise",
+    "address": "38 Rue Saint-Roch - Beaumont-sur-Oise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Rue de la Gare - Beaumont-sur-Oise",
+    "address": "Rue de la Gare - Beaumont-sur-Oise",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Golf de l'Isle-Adam",
+    "address": "1 Les Vanneaux - L'Isle-Adam",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Persan",
+    "address": "20 Rue Élie et Corentin Quideau - Persan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Brico Cash - Persan",
+    "address": "2 rue Élie et Corentin Quideau - Persan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "5 rue des Boursaults PROMOFLEUR - Champagne-sur-Oise",
+    "address": "Rue des boursaults - Champagne-sur-Oise",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Le vieux château - Le Renouard",
+    "address": "Le Vieux Château - Le Renouard",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place charles de Gaulle - Trun",
+    "address": "Place Charles de Gaulle - Trun",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Place du Musée - Camembert",
+    "address": "Place du Musée - Camembert",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Vimoutiers - Place du 13eme Arrondissement",
+    "address": "Rue Eugène Laniel - Vimoutiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Vimoutiers",
+    "address": "Rue des Combattants d'Afrique du Nord - Vimoutiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Vimoutiers - Zone industrielle rue des Erables",
+    "address": "Zone industrielle rue des Erables - Vimoutiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - MORTEAUX COULIBOEUF (Le Perrey)",
+    "address": "Le Perrey - Morteaux-Coulibœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Le Pin au Haras",
+    "address": "Le Haras du Pin - Le Pin-au-Haras",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Argentan",
+    "address": "21 Rue Pierre Bérégovoy - Argentan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - COURCY (Le Bourg)",
+    "address": "Le Bourg - Courcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

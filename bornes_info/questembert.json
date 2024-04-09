@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Morbihan Énergies - Place du Général de Gaulle - Questembert",
+    "address": "Place du Général de Gaulle - Questembert",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue des Azalées - Questembert",
+    "address": "8094 Avenue des Azalées - Questembert",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Morbihan Energies - Avenue de la Gare - Questembert",
+    "address": "6447 Avenue de la Gare - Questembert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Gîte de Kerviny - Questembert",
+    "address": "Kerviny - Questembert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RAIDEN SAS (ChargeGuru) - 4 Lestroué",
+    "address": "4 Lestroué - La Vraie-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - rue du Tostal",
+    "address": "1 Rue du Tostal - La Vraie-Croix",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue du Presbytère - Noyal-Muzillac",
+    "address": "Rue du Presbytère - Noyal-Muzillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Morbihan énergie - Place de l'Eglise -Limerzel",
+    "address": "Place de l'Église - Limerzel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Le Domaine du Moulin Neuf - Malansac",
+    "address": "Moulin Neuf - Malansac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ChargePoint - Parc de Branféré - Le Guerno",
+    "address": "Route de Branfere - Le Guerno",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

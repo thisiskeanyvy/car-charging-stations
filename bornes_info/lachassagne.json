@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SST informatique",
+    "address": "130 Route d'Anse - Marcy",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - 36 Avenue de Brianne - Anse",
+    "address": "52 Avenue de Brianne - Anse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel Restaurant Le Saint Romain",
+    "address": "171 Route de Graves - Anse",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Garage Dumont Buathier",
+    "address": "397 Route de Lyon - Anse",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "magasin Fresh - Route de Lyon - Anse",
+    "address": "417 Route de Lyon - Anse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - KS Motorcycles - Anse",
+    "address": "485 Avenue De Lossburg - Anse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Eglise Morancé",
+    "address": "35 Chemin de la Poyat - Morancé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Les Pierres Dorées (Tesla et autres)",
+    "address": "4 Rue de la Mairie - Ambérieux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bump-Charge - Logis Contact Hôtel Les Pierres Dorées",
+    "address": "4 Rue de la Mairie - Ambérieux",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire des Chères Ouest (direction Lyon)",
+    "address": "A6, Aire des Chères Ouest - Les Chères",
+    "connectors": [
+      "x4",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

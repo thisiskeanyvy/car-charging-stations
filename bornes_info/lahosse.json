@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SHELL - A63, Aire de l'Océan-Est - Lesperon",
+    "address": "A63, Aire de l'Océan-Est - Lesperon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AVIA - A63 - Aire de l'Océan-Ouest (direction Bayonne)",
+    "address": "A63 - Lesperon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue de l'Océan - Garrosse",
+    "address": "9-11 Avenue de l'Océan - Garrosse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDEC - Fronton - Rion-des-Landes",
+    "address": "567 Avenue Charles Despiau - Rion-des-Landes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "garage Nogues",
+    "address": "76 Route de Mont-de-Marsan - Morcenx",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Morcenx-la-Nouvelle - Citroën",
+    "address": "Rue de la Zone Industrielle - Morcenx-la-Nouvelle",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENERSTOCK SAS - Rion-Les-Landes - 240 E.LECLERC - Avenue d'Albret",
+    "address": "240 E.LECLERC - Avenue d'Albret - Rion-Les-Landes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 36 route du lac - Uza",
+    "address": "36 route du lac - Uza",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEC - Mairie de Castets",
+    "address": "53 Rue des Forges - Castets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A63/D947 Relais de Castets",
+    "address": "Route de Dax - Castets",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

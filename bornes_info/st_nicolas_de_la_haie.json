@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Garage patry",
+    "address": "Roncholles - Saint-Aubin-de-Crétot",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Route de l'Église Trouville- Alliquerville",
+    "address": "138 Route de l'Église - Trouville Alliquerville",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Desjardins",
+    "address": "84 Route de Fauville - Trouville alliquerville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sde 76 Alvimare",
+    "address": "Rue des Tilleuls - Alvimare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Route de Lillebonne, 1 - Allouville-Bellefosse",
+    "address": "1 Route de Lillebonne - Allouville-Bellefosse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Gymnase CHARLES PEGUY",
+    "address": "12 Avenue du Château - Notre-Dame-de-Gravenchon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Lillebonne - Centre Hospitalier Intercommunal",
+    "address": "19 avenue René Coty - Lillebonne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Musée gallo romain - Lillebonne",
+    "address": "1 Sentier de Croy - Lillebonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Lanquetot",
+    "address": "Rue Henri Joutel - Lanquetot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Mr Bricolage - Lillebonne",
+    "address": "2 Rue Auguste Desgenetais - Lillebonne",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking Crous - Saint-Denis (Privé)",
+    "address": "Rue Auguste Guillot - Saint Denis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 28 Boulevard Felix Faure - Saint-Denis",
+    "address": "28 Boulevard Felix Faure - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - Rue du Pont Godet - Saint-Denis",
+    "address": "Rue du Pont Godet - Saint-Denis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - Rue du 19 Mars 1962 - Saint-Denis",
+    "address": "Rue du 19 Mars 1962 - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Denis - Hôtel F1 Centre Basilique DOUBLON",
+    "address": "11 Avenue Lénine - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Denis - Hôtel F1 Centre Basilique",
+    "address": "11 avenue Lénine - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "WAAT - 42 Rue Paul Eluard",
+    "address": "42 Rue Paul Eluard - Saint-Denis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo Park - 12 Rue Toussaint Louverture",
+    "address": "12 Rue Toussaint Louverture - Saint-Denis",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking INDIGO - Porte de Paris - Rue Danielle Casanova",
+    "address": "1 N1 - Saint-Denis",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Rue Danielle Casanova - Saint-Denis",
+    "address": "Rue Danielle Casanova - Saint-Denis",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

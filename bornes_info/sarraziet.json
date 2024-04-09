@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Pizzerias - Samadet",
+    "address": "13 Rue de l'Église - Samadet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Spar - Samadet",
+    "address": "Route d'Arzacq - Samadet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour Market - Saint-Sever",
+    "address": "Rte de Pau, - Saint-Sever",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Hagetmau - 41 Chemin de Labraouste",
+    "address": "41 Chemin de Labraouste - Hagetmau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Les Prés d'Eugénie - Rue René Vielle - Eugénie-les-Bains",
+    "address": "200 Rue René Vielle - Eugénie-les-Bains",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking garage Larrouquis",
+    "address": "546 Route de Bellevue - Hagetmau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - place du 8 mai 1945 - Grenade-sur-l'Adour",
+    "address": "6 Avenue de Hesingue - Grenade-sur-l'Adour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sydec - Place du Tribunal - Saint-Sever",
+    "address": "Place du Tribunal - Saint-Sever",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Agent Renault Grenade Automobile",
+    "address": "42 Avenue de Mont-de-Marsan - Grenade-sur-l'Adour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Place Grammont - Hagetmau",
+    "address": "Place Gramont - Hagetmau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

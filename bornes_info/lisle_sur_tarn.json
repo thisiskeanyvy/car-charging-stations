@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDET - Lisle-sur-Tarn",
+    "address": "1 Rue Contrescarpe Sainte-Barbe - Lisle-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDET (Révéo) - 44 Avenue de la Poste - Lisle-sur-Tarn",
+    "address": "44 Avenue de la Poste - Lisle-sur-Tarn",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Lisle sur Tarn",
+    "address": "quai pasteur - Lisle sur tarn",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - A68 Zone d'Activité Garrigue - Montans",
+    "address": "A68 Zone d'Activité Garrigue - Montans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET (Révéo) - Place du Lavoir, 4 - Parisot",
+    "address": "4 Place du Lavoir - Parisot",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - Place de la Bouygues - Montans",
+    "address": "Place de la Bouygues - Montans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rabastens",
+    "address": "35 Route d'Albi - Rabastens",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre E.Leclerc Gaillac",
+    "address": "20 Rue Didier Daurat - Gaillac",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Révéo - Avenue Jean Berenguier - Coufouleux",
+    "address": "Avenue Jean Berenguier - Coufouleux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "D'un Point A l'autre",
+    "address": "Rue de Bezelle - Gaillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

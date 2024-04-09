@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Ô Délices de la Monnerie",
+    "address": "Lieu-dit \"La Monnerie\" - Bourgnac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Gare - Mussidan",
+    "address": "9 Rue Raymond Villechanoux - Mussidan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rue Pasteur - Saint-Médard-de-Mussidan",
+    "address": "Rue Pasteur - Saint-Médard-de-Mussidan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Saint-Médard-de-Mussidan - Super U",
+    "address": "29R2+HF Saint-Médard-de-Mussidan, France - Saint-Médard-de-Mussidan",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 (MObiVE) - D6089 - Sourzac",
+    "address": "D6089 - Sourzac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Centre bourg Villamblard",
+    "address": "1-3 Avenue Edouard Dupuy - Villamblard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Caviar de Neuvic (Tesla and others)",
+    "address": "862 La Grande Veyssière - Neuvic",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Rue de la Libération La force",
+    "address": "Rue de la Liberation - La Force",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 (MobiVE) - Avenue des Ducs de La Force - La Force",
+    "address": "Avenue des Ducs de La Force - La Force",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Rue des Frères Pouget Neuvic",
+    "address": "440 Rue des Frères Pouget - Neuvic",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

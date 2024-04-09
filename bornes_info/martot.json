@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEGE27 - Aire de Covoiturage Criquebeuf",
+    "address": "Le Buisson Martin Faupoint - Criquebeuf-sur-Seine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Pierre-lès-Elbeuf",
+    "address": "555-697 Route de Pont-de-l'Arche - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Usine Renault - Cléon",
+    "address": "1 Rue de Tourville - Cleon",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Pierre-lès-Elbeuf",
+    "address": "660 Route de Pont-de-l'Arche - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Jardinerie Desjardin",
+    "address": "Rue de Tourville - Cléon",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Saint-Pierre-lès-Elbeuf",
+    "address": "560 Avenue de Bonport - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gifi - Caudebec-lès-Elbeuf",
+    "address": "6 Résidence Cassiopée - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bouygues Construction Matériel",
+    "address": "27 Boulevard Gabriel Péri - Tourville-la-Rivière",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Criquebeuf-sur-Seine",
+    "address": "815 Rue du Village - Criquebeuf-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6612515",
+    "address": "427 Rue de la Chaussée - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - A36 Aire de Porte d'Alsace Sud (direction Mulhouse)",
+    "address": "Aire de Porte d'Alsace Sud, Burnhaupt-le-Bas - Burnhaupt-le-Bas",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A36 Aire de la Porte d'Alsace Sud (direction Mulhouse)",
+    "address": "A36 - Burnhaupt-le-Bas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A36 Aire de la Porte d'Alsace Nord (direction Besançon)",
+    "address": "A36 - Burnhaupt-le-Bas",
+    "connectors": [
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 27 B Rue Jean Moulin - Rougemont-le-Château",
+    "address": "20 Rue Jean Moulin - Rougemont-le-Château",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GL Automobiles - Rue de la Noyé",
+    "address": "6 Rue de la Noyé - Menoncourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Pont d'Aspach - Burnhaupt-le-Haut",
+    "address": "1 Pont d'Aspach - Burnhaupt-le-Haut",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "2A Route de Mulhouse",
+    "address": "2A Route de Mulhouse - Masevaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Burnhaupt-le-Haut",
+    "address": "2a Rue Du Pont d'Aspach - Burnhaupt-le-Haut",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - HyperU - Pont d'Aspach - Burnhaupt-le-Haut",
+    "address": "2 Pont d'Aspach - Burnhaupt-le-Haut",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Intermarché - Dannemarie",
+    "address": "42 Rue de Belfort - Dannemarie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

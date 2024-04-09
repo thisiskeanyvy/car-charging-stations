@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Toulibeo - Avenue de Toulouse - Cugnaux",
+    "address": "5 Avenue de Toulouse - Cugnaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Intermarché - Cugnaux",
+    "address": "34 Rue de la Vimona - Cugnaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Rene Cassin Villeneuve Tolosane",
+    "address": "9 Rue René Cassin - Villeneuve-Tolosane",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Cugnaux",
+    "address": "27 Avenue du Comminges - Cugnaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Nabla Connect / Shargy",
+    "address": "4 Rue de Las Borios - Cugnaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobilygreen - 135 Avenue du Comminges - Cugnaux",
+    "address": "135 Avenue du Comminges - Cugnaux",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEHG - Mairie - Frouzins",
+    "address": "Place de l'Hôtel de ville Robert Ratier - Frouzins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking King Jouet",
+    "address": "RN 117 Allée de Fraixinet - Roques",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - 5 Allée de Fraixinet - Roques",
+    "address": "5 Allée de Fraixinet - Roques",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E. Leclerc - Roques (parking couvert)",
+    "address": "3 Allee de fraixinet - Roques",
+    "connectors": [
+      "x18",
+      "x18"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE53 - Place de la Mairie - Grez-en-Bouère",
+    "address": "Place de la Mairie - Grez-en-Bouère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de Sablé, 10 - Bouessay",
+    "address": "10 Rue de Sablé - Bouessay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Place Henri IV - Saint-Denis-d'Anjou",
+    "address": "5 Place Henri IV - Saint-Denis-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ballée TE53 - La Chardronnière",
+    "address": "4 La Chardronnière - Ballée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - 594 Route des Groscollières - Sablé-sur-Sarthe",
+    "address": "594 Route des Groscollières - Sablé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Elec eau - De la petite vitesse",
+    "address": "47 De la petite vitesse - Sable sur sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Gare de Sablé-sur-Sarthe",
+    "address": "26 Place de la Gare - Sablé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Place Du Champ-de-Foire - Sablé-sur-Sarthe",
+    "address": "3bis Place Du Champ-de-Foire - Sablé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alizé - 7 Rue Michel Vielle - Sablé-sur-Sarthe",
+    "address": "7 Rue Michel Vielle - Sablé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE53 - Place de la Poste, 6 - Meslay-du-Maine",
+    "address": "6 Place de la Poste - Meslay-du-Maine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

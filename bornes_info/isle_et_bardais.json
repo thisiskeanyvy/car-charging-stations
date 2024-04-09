@@ -1,0 +1,128 @@
+[
+  {
+    "title": "eborn - Intermarché - Ainay-le-Château",
+    "address": "Faubourg de Moulins - Ainay-le-Château",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IEcharge - D14 Couleuvre - Champ Clos",
+    "address": "Champ Clos - Couleuvre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE03 - Cérilly",
+    "address": "Place du Champ de Foire - Cérilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ROUTE DE LAUGERE 7 18210 CHARENTON DU CHER",
+    "address": "ROUTE DE LAUGERE 7 - CHARENTON DU CHER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Lurcy-Lévis",
+    "address": "Boulevard Gambetta - Lurcy-Lévis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Circuit - Lurcy-Lévis",
+    "address": "4 Les Bruyères de Forêts - Lurcy-Lévis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place centrale",
+    "address": "Rue Nationale - Charenton-du-Cher",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecar 18 - Bannegon",
+    "address": "place st Georges - Bannegon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Ecar18 - Sancoins - Mairie",
+    "address": "12 Place du Champ de Foire/rue des Foires - Sancoins",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Château d'Ainay le Vieil - Place de l'Église",
+    "address": "7 Place de l'Église - Ainay-le-Vieil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sezeo - Estrées Saint Denis - Piscine",
+    "address": "1 Avenue Abel Didelet - Estrées-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Égise d'Estrées Saint Denis",
+    "address": "2 Ruelle de l'Église - Estrées-Saint-Denis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Rue Saint-Antoine - Tricot",
+    "address": "Rue Saint-Antoine - Tricot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEZEO - Rue François Mitterrand Maignelay-Montigny",
+    "address": "33 Rue François Mitterrand - Maignelay-Montigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - SEZEO - Place du Gén de Gaulle Maignelay-Montigny",
+    "address": "22 Place du Gén de Gaulle - Maignelay-Montigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Maison de Mr Caille - Avrechy",
+    "address": "17 Avenue Thierry d'Argenlieu - Avrechy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Saint Just en Chaussée",
+    "address": "10 Rue des Déportés - Saint-Just-en-Chaussée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Gare SNCF - Saint-Just-en-Chaussée",
+    "address": "Rue Foch - Saint-Just-en-Chaussée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Saint-Just-en-chaussee",
+    "address": "Rue Tailbouis - Saint-Just-en-Chaussée",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A1 Aire de Ressons Ouest (direction Paris)",
+    "address": "A1, Aire de Ressons Ouest - Ressons-sur-Matz",
+    "connectors": [
+      "x1",
+      "x1",
+      "x15"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

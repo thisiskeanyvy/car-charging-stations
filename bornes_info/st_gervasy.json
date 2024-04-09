@@ -1,0 +1,152 @@
+[
+  {
+    "title": "SMEG30 - St Gervasy",
+    "address": "1 Avenue Saint-Didier - Saint-Gervasy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A9 - Aire de Nîmes-Marguerittes (direction Nîmes)",
+    "address": "- A9 - Marguerittes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Z.A. du Tec",
+    "address": "Avenue Clément Ader - Marguerittes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Atlante/Elywhere -A9 Aire de Marguerittes sud PROVISOIRE",
+    "address": "Autoroute A9 Aire de Marguerittes sud - Marguerittes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Atlante / A9 - Aire de Marguerittes Sud",
+    "address": "La Languedocienne - Marguerittes",
+    "connectors": [
+      "x4",
+      "x8",
+      "x5",
+      "x1",
+      "x20"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "AVIA - A9 - Aire de Nîmes-Marguerittes (direction Orange)",
+    "address": "A9 - Marguerittes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Révéo - Avenue Ferdinand Pertus - Marguerittes",
+    "address": "Avenue Ferdinand Pertus - Marguerittes",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Marguerittes",
+    "address": "Avenue Clément Ader - Marguerittes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SMEG30 (Révéo) - Chemin de L'Esperel - Lédenon",
+    "address": "Chemin de L'Esperel - Lédenon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Impasse De La Lauze / Route de Nîmes - Route d'Uzès",
+    "address": "1 Impasse De La Lauze - Poulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

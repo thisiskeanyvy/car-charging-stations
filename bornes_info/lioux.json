@@ -1,0 +1,134 @@
+[
+  {
+    "title": "IONITY - A10 Aires de Poitiers Jaunay-Clan (direction Poitiers)",
+    "address": "A10 - Jaunay-Clan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A10 Aires de Poitiers-Chincé (Direction Tours)",
+    "address": "A10 - Jaunay-Clan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Avenue René Monory - Chasseneuil-du-Poitou",
+    "address": "Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ZEborne - Saint-Martin-la-Pallu - Ford",
+    "address": "36B Route de Poitiers - Saint-Martin-la-Pallu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargeguru - Novotel Poitiers Futuroscope",
+    "address": "9284F Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Tesla Supercharger V2 - Novotel Poitiers (Futuroscope)",
+    "address": "Avenue René Monory - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Station-e - Saint-Martin-la-Pallu",
+    "address": "4 Rue Marie Curie - Saint-Martin-la-Pallu",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - Hôtel Futuroscope 3 - Chasseneuil-du-Poitou",
+    "address": "Boulevard Léonard de Vinci - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Pharmacie - Rue Marie Curie",
+    "address": "2 Rue Marie Curie - Saint-Martin-la-Pallu",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Ibis Futuroscope - Chasseneuil-du-Poitou",
+    "address": "Hotel IBIS - Avenue Thomas Edison - Chasseneuil-du-Poitou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

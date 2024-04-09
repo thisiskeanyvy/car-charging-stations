@@ -1,0 +1,128 @@
+[
+  {
+    "title": "REVEO - Salle des fêtes",
+    "address": "1 Route de Cahors - Lamagdelaine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau de Mercues",
+    "address": "Route du Château - Mercuès",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Cahors - Netto",
+    "address": "Chemin de Mottecave - Cahors",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "WAAT - 1180 Rue de la Rivière - Cahors",
+    "address": "1180 Rue de la Rivière - Cahors",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Cahors Terre-Rouge",
+    "address": "Avenue Edouard Herriot - Cahors",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Credit Agricole - Terre Rouge",
+    "address": "1 Allee des thuyas - Cahors",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Campanile - Cahors",
+    "address": "Regourd Sud - Cahors",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Chemin du Rouquet / rue du Vignoble D12",
+    "address": "250 Chemin du Rouquet - Mercuès",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FDEL (Révéo) - Cahors - Regourd",
+    "address": "75 Rue Saint-Etienne - Cahors",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Hôtel du Département - Avenue de l'Europe - Cahors",
+    "address": "Avenue de l'Europe - Cahors",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

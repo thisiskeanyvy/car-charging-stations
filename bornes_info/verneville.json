@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - salle polyvalente - Batilly",
+    "address": "1 impasse de la barrière - Batilly",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking salle omnisport Batilly",
+    "address": "19 Quartier Pasteur - Batilly",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 12 Avenue Des Tilleuls - Batilly",
+    "address": "12 Avenue Des Tilleuls - Batilly",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Batilly",
+    "address": "1 D13 - Batilly",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Amanvillers - D51 Fond l'Abbé",
+    "address": "D51 Fond l'Abbé - Amanvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Restaurant La Tour",
+    "address": "3 Rue du Gen de Gaulle - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Gasseville - Sainte-Marie-aux-Chênes",
+    "address": "1 Rue de Gasseville - Ste.-Marie-aux-Chênes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A4 Aire de Metz-Saint-Privat (double sens)",
+    "address": "A4 - Aire de Metz-Saint-Privat - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - A4 Aire de Metz St Privat (double sens) SUPPRIMÉ",
+    "address": "Aire de Metz St Privat, St-Privat-la-Montagne - Saint-Privat-la-Montagne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Gambetta - Sainte-Marie-aux-Chênes",
+    "address": "Avenue Gambetta - Sainte-Marie-aux-Chênes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

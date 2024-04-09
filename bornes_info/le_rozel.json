@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Rue de verdun - La capelle",
+    "address": "De verdun - La capelle",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Wirwignes - 89 Rue de l'Église",
+    "address": "89 Rue de l'Église - Wirwignes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Alincthun - Route de Desvres",
+    "address": "Route de Desvres - Alincthun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Desvres - Place Léon Blum",
+    "address": "Place Léon Blum - Desvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc Naturel Régional des Caps et Marais d'Opale",
+    "address": "- Desvres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre aquatique Natureo",
+    "address": "52 rue de la gare - Desvres",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Crèche de la CCDS",
+    "address": "37 Zal Les pichottes - Alincthun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Citroën - Desvres",
+    "address": "Rue de la Gare 56 - Desvres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parc Naturel Régional des Caps et Marais d'Opale",
+    "address": "- Desvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Peugeot - Desvres",
+    "address": "3 Rue de la Gare - Desvres",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

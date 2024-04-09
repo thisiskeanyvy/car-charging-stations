@@ -1,0 +1,140 @@
+[
+  {
+    "title": "LastMileSolutions - Saint-Aubin - Gites Au Coeur du Village",
+    "address": "1 Place de la Mairie - Saint-Aubin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Administratif Rang du Fliers",
+    "address": "158 Rue de l'Église - Rang-du-Fliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Verton",
+    "address": "Cd 143, All. les Allees, - Verton",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leroy Merlin - Merlimont",
+    "address": "408 Rue Auguste Biblocq - Merlimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Rue Auguste Biblocq - Merlimont",
+    "address": "177 Rue Auguste Biblocq - Merlimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-E - Mairie de Merlimont",
+    "address": "Place de la Haye - Merlimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Parc Bagatelle - Rang-du-Fliers",
+    "address": "1427 Route de Bagatelle - Rang-du-Fliers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 447 Rue du Chemin Blanc - Rang-du-Fliers",
+    "address": "447 Rue du Chemin Blanc - Rang-du-Fliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue du Chemin Blanc - Rang-du-Fliers",
+    "address": "Rue du Chemin Blanc - Rang-du-Fliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché Super - Rang-du-Fliers",
+    "address": "2729-2751 Route de Berck - Rang-du-Fliers",
+    "connectors": [
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

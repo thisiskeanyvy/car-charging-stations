@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hotel Ibis Cergy Le Port (Tesla & others)",
+    "address": "28 Avenue des Grouettes - Cergy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ibis Cergy Le Port",
+    "address": "28 Avenue des Grouettes - Cergy",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Cergy, ESSEC Business School INEXISTANT",
+    "address": "3 Avenue Bernard Hirsch - Cergy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - allée de l'étoile - Cergy SUPPRIMÉ",
+    "address": "allée de l'étoile - Cergy",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Effia - LES ARTS - Cergy",
+    "address": "Rue de la Préfecture - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Rue d'Eragny - Neuville-sur-Oise",
+    "address": "Rue d'Eragny - Neuville-sur-Oise",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Cergy-Pontoise Galeries (sous-terrain)",
+    "address": "7 Avenue des 3 Fontaines - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Cergy-Pontoise Oise - EFFIA",
+    "address": "Boulevard de l'Oise - Cergy",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Avenue des Bruzacques - Jouy-le-Moutier",
+    "address": "8 Place Du Bien Etre - Jouy-le-Moutier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Boulevard de l'Oise - Cergy",
+    "address": "Boulevard de l'Oise - Cergy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

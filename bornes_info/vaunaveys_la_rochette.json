@@ -1,0 +1,128 @@
+[
+  {
+    "title": "e-born - Avenue George Clémenceau - Crest",
+    "address": "Avenue George Clémenceau - Crest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Crest - 8 Rue Gustave Eiffel",
+    "address": "8 Rue Gustave Eiffel - Crest",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking du kiosque - Crest",
+    "address": "10 Cours de Verdun - Crest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDED - Place de la Liberté - Crest",
+    "address": "4 Place de la Liberté - Crest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Bricomarché / Intersport - Aouste-sur-Sye",
+    "address": "8 Quartier Mivoie - D93 - Aouste-sur-Sye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - Aouste-sur-Sye",
+    "address": "105B Route de Crest - Aouste-sur-Sye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 93 Quartier Mivoie CD - Crest",
+    "address": "93 Quartier Mivoie CD - Crest",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - D164 Aire de covoiturage de Saint Ferreol - Crest",
+    "address": "Aire Multimodale de Saint Ferreol - Crest",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking Communauté de Communes Val de Drôme",
+    "address": "96 Ronde des alisiers - Eurre",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Aouste sur Sye",
+    "address": "7 Saint-François - Aouste-sur-Sye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

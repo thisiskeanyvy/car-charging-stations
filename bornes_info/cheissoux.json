@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SEHV - Champnétery - D13 Aire de Covoiturage",
+    "address": "D13 - Champnétery",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Émile Dourdet - Sauviat-sur-Vige",
+    "address": "2 Rue Émile Dourdet - Sauviat-sur-Vige",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEHV - Place du Champ de Mars - Saint-Léonard-de-Noblat",
+    "address": "3 Place du Champ de Mars - Saint-Léonard-de-Noblat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "TotalEnergies - RUE DE L'EUROPE - NEUVIC ENTIER",
+    "address": "RUE DE L'EUROPE - NEUVIC ENTIER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - 2 Avenue Jean Moulin - Eymoutiers",
+    "address": "1 Promenade des Sports - Eymoutiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEHV - Mairie de Châteauneuf la Forêt",
+    "address": "8 Place du 8 Mai 1945 - Châteauneuf-la-Forêt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sdec - Route de la Cascade - Bourganeuf",
+    "address": "Route de la Cascade - Bourganeuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Rue de l'Étang - Bourganeuf",
+    "address": "Rue de l'Étang - Bourganeuf",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Office du tourisme - Bourganeuf",
+    "address": "8 Place du Champ de Foire - Bourganeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau bellegarde les Fleurs",
+    "address": "5 Route de Sussac Serre - Châteauneuf-la-Forêt",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

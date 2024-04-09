@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Le Murier de Viels",
+    "address": "Les Clauzels - Causse-et-Diège",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Auberge de la Diège (Tesla et autres)",
+    "address": "2 Route de la Diège - Capdenac-Gare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Capdenac-Gare",
+    "address": "37 Boulevard Paul Ramadier - Capdenac-Gare",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sieda (Révéo) - Avenue Pasteur - Capdenac-Gare",
+    "address": "2 Avenue Pasteur - Capdenac-Gare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL - D208 - Capdenac",
+    "address": "Allée Champollion - Capdenac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEDA - Villeneuve d'Aveyron",
+    "address": "5 D48 - Villeneuve",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Figeac Aéro",
+    "address": "lieu dit Etemps - Figeac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - L'Aiguille - Figeac",
+    "address": "L'Aiguille - Figeac",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEDA (Révéo) - Route De Rodez Pôle Multi-Service - Les Albres",
+    "address": "Route De Rodez Pôle Multi-Service - Les Albres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - Parking Jean Jaures - Figeac",
+    "address": "6 Avenue Jean Jaurès - Figeac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  }
+]

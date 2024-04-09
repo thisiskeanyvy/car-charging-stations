@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Renault - Pont-de-Vaux (Privé)",
+    "address": "143 Aux Quatre Vents - Gorrevod",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Recharger mon auto - Pont-de-Vaux - Camping Aux Rives du Soleil",
+    "address": "Port de Fleurville Camping Aux Rives du Soleil - Pont-de-Vaux",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - A6 Aire De Mâcon-La Salle (Direction Chalon-sur-Saône)",
+    "address": "A6 Autoroute du Soleil - Saint-Albain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A6 Aire de Mâcon-La Salle (direction Dijon)",
+    "address": "A6 - La Salle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - A6 - Aire de Mâcon-St Albain (direction Mâcon)",
+    "address": "A6 - Saint-Albain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ANYOS - Securecharge - Saint-Martin-Belle-Roche - 190 Allée du 19 Mars 1962",
+    "address": "190 Allée du 19 Mars 1962 - Saint-Martin-Belle-Roche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - A6/D672 Aire de Covoiturage Mâcon Nord",
+    "address": "Rue du Chemin Neuf - Mâcon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V2 - Macon",
+    "address": "1 Boulevard du Général de Gaulle - Sancé",
+    "connectors": [
+      "x20",
+      "x20",
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gamm Vert Lugny",
+    "address": "Rue De La Folie - Lugny",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Impasse de la Madone 7 - SANCE",
+    "address": "Impasse de la Madone 7 - SANCE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Shell Recharge - A28 Aire du Domaine d'Harcourt (double sens)",
+    "address": "A28 - Malleville-sur-le-Bec",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mairie de Bosrobert",
+    "address": "9 Route de la Mairie - Bosrobert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau De Boissey Le Châtel",
+    "address": "43 Allée de Tilly - Boissey-le-Châtel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Route de Rouen - Bourgtheroulde-Infreville",
+    "address": "32 Route de Rouen - Bourgtheroulde-Infreville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Residence - Route De Rouen - Bourgtheroulde-Infreville",
+    "address": "57 Route De Rouen - Bourgtheroulde-Infreville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - CocciMarket - Le Thuit-Signol",
+    "address": "36 Rue Henri de Campion - Le Thuit-Signol",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Saint-Anselme - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Rue Pierre Mendès France - Le Bec-Hellouin",
+    "address": "2 Rue Saint-Anselme - Le Bec-Hellouin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIÈGE 27 - Rue René Grouvel - Le Bosc-Roger-en-Roumois",
+    "address": "3 Rue René Grouvel - Le Bosc-Roger-en-Roumois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEGE27 - Saint-Pierre-des-Fleurs",
+    "address": "Route de Thuit Anger - Saint-Pierre-des-Fleurs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Grand Besançon - 7 Rue du Val Saugeais - Montbenoit",
+    "address": "7 Rue du Val Saugeais - Montbenoit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDED - Rue du Crêt, 18 - Gilley",
+    "address": "18 Rue du Crêt - Gilley",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Garage Pourchet - Gilley",
+    "address": "15 Rue des Colombières - Gilley",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Commune - Grand Bourgeau - Les Verrières",
+    "address": "61 Grand Bourgeau - Les Verrières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking fromagerie source de la loue",
+    "address": "D41 - Saint-Gorgon-Main",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - 4 Hab la Main - Saint-Gorgon-Main",
+    "address": "4 Hab la Main - Saint-Gorgon-Main",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syded - Hyper U - Doubs",
+    "address": "1 Rue de Besançon - Doubs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Décathlon - Doubs",
+    "address": "12 Rue André Roz - Doubs",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pontarlier | Rue Denis Papin 6",
+    "address": "6 Rue Denis Papin - Pontarlier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Volkswagen / Audi - Pontarlier",
+    "address": "25 Rue de la Libération - Pontarlier",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

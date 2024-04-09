@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SIED70 - Parking chaufferie - Marnay",
+    "address": "Rue de la fontaine de douis - Marnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Super U - Pouilley-les-Vignes",
+    "address": "25 Route d'Emagny - Pouilley-les-Vignes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Gare TGV Franche-Comté",
+    "address": "RD1 - Lieu-dit Grand-Bois Le Pasquier - Auxon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Jonathan Evenements et Communication",
+    "address": "3 Rue Victor Considérant - Chemaudin et Vaux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Besançon",
+    "address": "1 Rue Victor Considérant - Chemaudin",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Hôtel Akena - Chemaudin et Vaux",
+    "address": "1 Rue Victor Considérant - Chemaudin et Vaux",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDED - Lantenne Vertière - École",
+    "address": "Ecole - Lantenne Vertière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - 21 Rue de la Machotte - Serre-les-Sapins",
+    "address": "21 Rue de la Machotte - Serre-les-Sapins",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 1 Route de Choye - Charcenne",
+    "address": "1 Route de Choye - Charcenne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Château de la Dame Blanche",
+    "address": "10 Chemin Roussey - Geneuille",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - ADEFI Rue Gallet - Meung-sur-Loire",
+    "address": "Rue Gallet - Meung-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "21 Rue de Blois",
+    "address": "21 Rue de Blois - Meung-sur-Loire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OCP Répartition",
+    "address": "8ème Avenue - Baule",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZA les Coutures D2152 - Baule",
+    "address": "D2152 ZA les Coutures - Baule",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Hyper U - Baule",
+    "address": "5000 Les Coutures - Baule",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "ChargeGuru - 9 Rue des Bordes - Cléry-Saint-André",
+    "address": "9 Rue des Bordes - Cléry-Saint-André",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - La Chapelle-Saint-Mesmin",
+    "address": "19 Route de Blois - La Chapelle-Saint-Mesmin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Meung sur Loire (direction Tours)",
+    "address": "A10 - PARIS BORDEAUX - MESSAS",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x14"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A10 Aire de Beaugency-Messas (direction Orléans)",
+    "address": "A10 - PARIS BORDEAUX - MESSAS",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Métropole d'Orléans - Rue de Selliers - Ingré",
+    "address": "7 Rue de Selliers - Ingré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

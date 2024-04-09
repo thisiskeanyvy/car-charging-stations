@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Stations-e - Saint-Léger-sous-Brienne - 2 Route Impériale",
+    "address": "2 Route Impériale - Saint-Léger-sous-Brienne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Parking bar restaurant - Brienne-le-Château",
+    "address": "29 Rue d'Arcis - Brienne-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Rue de l'École Militaire - Brienne-le-Château",
+    "address": "66 Rue de l'École Militaire - Brienne-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Avenue Pasteur - Brienne le chateau",
+    "address": "29 Avenue Pasteur - Brienne-le-Château",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Parking E. Leclerc",
+    "address": "11 Boulevard Napoléon - Brienne-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SDEA - Radonvillier Salle des fêtes",
+    "address": "35 Grande Rue - Radonvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Port - Dienville",
+    "address": "3 Rue de la Fontaine du Mont - Dienville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEA - Avenue Paul Girard - Dienville",
+    "address": "37 Avenue Paul Girard - Dienville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA - Rue de la Gare",
+    "address": "1 Rue de la Gare - Brévonnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 1 Rue Saint Laurent - Morvilliers",
+    "address": "1 Rue Saint Laurent - Morvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

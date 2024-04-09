@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Relais & Château de Germigney (Tesla and others)",
+    "address": "31 Rue Edgar Faure - Port-Lesney",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre commercial Arc et Senans",
+    "address": "4 Rue de Rans - Arc-et-Senans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auberge marle",
+    "address": "7 Rue Georges Colomb - Myon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intemarché - Za la Combe Parnette sur RN 83 - LAVANS QUINGEY",
+    "address": "2 Zone Artisanale la Combe Parnette - Lavans-Quingey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Grand Hôtel des Bains (Tesla et autres)",
+    "address": "2 Place des Alliés et de la Résistance - Salins-les-Bains",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Bracon",
+    "address": "3 Rue de Champtave - Bracon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Communauté de communes du VAl d'AMour",
+    "address": "74 Grande Rue - Chamblay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supermarché Bi1 - Route De Besançon",
+    "address": "13 Route De Besançon - Arbois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Super U - Arbois",
+    "address": "2 Route de Dole - Arbois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "DRIVECO - Arbois - Domaine de Boichailles",
+    "address": "Domaine de Boichailles - Arbois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

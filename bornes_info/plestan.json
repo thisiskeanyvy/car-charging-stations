@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDE22 - Rue des 31 Martyrs Plestan",
+    "address": "6 Rue des 31 Martyrs - Plestan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Brev'car SDE22 Plédéliac",
+    "address": "17 Rue d'Armor - Plédéliac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc / Crédit Agricole - Lamballe",
+    "address": "66 Rue Mouexigné - Lamballe",
+    "connectors": [
+      "x2",
+      "x18"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE22 - Place du Champ de Foire - Lamballe",
+    "address": "17 Place du Champ de Foire - Lamballe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE22 - Plénée Jugon",
+    "address": "Rue de la République - Plénée-Jugon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Lamballe-Armor",
+    "address": "10 D768 - Lamballe-Armor",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IEcharge - D59 Lourmel",
+    "address": "D59, Lourmel - Andel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Lamballe Carrelage - Lamballe-Armor",
+    "address": "1 Rue Des Jardins - Lamballe-Armor",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Rue de la Fontaine - Saint-Glen",
+    "address": "Rue de la Fontaine - Saint-Glen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Brevcar - Dolo",
+    "address": "Etang du Loup - Dolo",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDER - Place du Champ de Mars - Marennes",
+    "address": "Place du Champ de Mars - Marennes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Chaponnay - 9 Rue de la Résistance",
+    "address": "9 Rue de la Résistance - Chaponnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Place du 19 Mars 1962 - Chaponnay",
+    "address": "Place du 19 Mars 1962 - Chaponnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage DELAROCHE",
+    "address": "500 Rue Juliette Récamier - Chaponnay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Route de Lyon - Simandres",
+    "address": "Route de Lyon - Simandres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PowerDot - Hôtel Mercure Lyon Est Chaponnay",
+    "address": "565 Rue Tony Garnier - Chaponnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Chaponnay - ZA Chapotin",
+    "address": "250 Avenue du Professeur Marcel Dargent - Chaponnay",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Corbas",
+    "address": "1 Rue Jean Macé - Corbas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EvLink - Place du Lavoir - Saint-Symphorien-d'Ozon",
+    "address": "3 Place du Lavoir - Saint-Symphorien-d'Ozon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IZIVIA Grand Lyon - rue des Frênes",
+    "address": "rue des Frênes - corbas",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

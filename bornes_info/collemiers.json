@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDEY - Pôle commercial - Gron",
+    "address": "15B Grande Rue - Gron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 24 Rue Champs du Cerf",
+    "address": "24 Rue Champs du Cerf - Subligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Fouchères",
+    "address": "E511 - Subligny",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A19 Aire de Villeroy (double sens)",
+    "address": "16 Rue Des Vignes - Fouchères",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Brico-marche - Sens",
+    "address": "1 Rocade Sud - Sens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Sens",
+    "address": "Rue Victor Schoelcher - Sens",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Nissan jeannin - Sens",
+    "address": "2 rue de Henri montassier - Sens",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AMBIANCE AUTOMOBILES (OPEL) - Chemin des Cannetières - Sens",
+    "address": "Chemin des Cannetières - Sens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking KFC - Boulevard des Champs Captants",
+    "address": "Boulevard des Champs Captants - Sens",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone Commerciale B3 - Avenue Henri Delanne",
+    "address": "2 Avenue Henri Delanne - Sens",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

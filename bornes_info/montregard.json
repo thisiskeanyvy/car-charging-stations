@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE43 - Parking La Gare, lieu dit Oumey - Raucoules",
+    "address": "La gare - Raucoules",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE43 - Rue de Saint-Régis - Dunières",
+    "address": "12 Rue de Saint-Régis - Dunières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE43 (eborn) - Parking du Fieu - Tence",
+    "address": "12 Rue des Casernes - Tence",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE43 - Places aux champignons - Saint-Bonnet-Le-Froid",
+    "address": "Places aux champignons - Saint-Bonnet-Le-Froid",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel restaurant REGIS MARCON",
+    "address": "Chemin des balayes - Saint-Bonnet-le-Froid",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Rue de la Poste - Le-Chambon-Sur-Lignon",
+    "address": "Rue de la Poste - Le-Chambon-Sur-Lignon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Charge prunieres",
+    "address": "17 Prunieres - St pal de mons",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Le Chambon-sur-Lignon",
+    "address": "73 Route de Saint-Agrève - Le Chambon-sur-Lignon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château Salcrupt - Saint-Jeures",
+    "address": "60 Combe Martin - Saint-Jeures",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - ZUFC1 Prunieres",
+    "address": "Prunieres - St pal de mons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

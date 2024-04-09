@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Office de Tourisme - Aire-sur-l'Adour",
+    "address": "Place du 19 Mars 1962 - Aire-sur-l'Adour",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Hotel De Ville d'Aire-sur-l'Adour",
+    "address": "Place De L’Hotel De Ville - Aire-sur-l'Adour",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Greenspot - Aire-sur-l'Adour - 8 Route du Houga",
+    "address": "8 Route du Houga - Aire-sur-l'Adour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Aire-sur-l'Adour - 62 Rue De Sarron",
+    "address": "62 Rue De Sarron - Aire-sur-l'Adour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Place de la Garlande Barcelonne-du-Gers",
+    "address": "10 Place de la Garlande - Barcelonne-du-Gers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A65 Aire de l'Adour (double sens)",
+    "address": "A65 - Aire-sur-l'Adour",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Renault - Aire-sur-l'Adour",
+    "address": "101 Avenue de Bordeaux - Aire-sur-l'Adour",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue de Bordeaux - Aire-sur-l'Adour",
+    "address": "5006F Avenue de Bordeaux - Aire-sur-l'Adour",
+    "connectors": [
+      "x12",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Les Prés d'Eugénie - Rue René Vielle - Eugénie-les-Bains",
+    "address": "200 Rue René Vielle - Eugénie-les-Bains",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Ferme aux Cerfs et aux Sangliers",
+    "address": "D6 - Le Houga",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

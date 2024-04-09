@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEYMABORNE - Rue André Derain - Chambourcy",
+    "address": "1 Rue André Derain - Chambourcy",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Carrefour - Route de Mantes - Chambourcy",
+    "address": "80 Route de Mantes - Chambourcy",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FR*Y03 - Chambourcy - Chemin du Jeu de Boules",
+    "address": "Chemin du Jeu de Boules - Chambourcy",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Croix Blanche - Chambourcy",
+    "address": "10 Rue de la Croix Blanche - Chambourcy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEYMABORNE - Chambourcy - Rue du Mur du Parc",
+    "address": "Rue du Mur du Parc - Chambourcy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ford alliance 78 - Chambourcy",
+    "address": "43 Route de Mantes - Chambourcy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Concession Tesla - Route De Mantes - Chambourcy",
+    "address": "103 Route de Mantes - Chambourcy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - 29 Rte de Mantes - Chambourcy",
+    "address": "29 Rte de Mantes - Chambourcy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lexus - Chambourcy (Privé)",
+    "address": "11 Rue Camille Blanc - Chambourcy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Chambourcy",
+    "address": "24 Route de Mantes - Chambourcy",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

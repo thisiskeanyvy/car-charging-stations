@@ -1,0 +1,130 @@
+[
+  {
+    "title": "e-born - Mairie de Massongy",
+    "address": "4 Route de l'Église - Massongy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Centre village - Ballaison",
+    "address": "32 Route des Voirons - Ballaison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Avenue du Bas Chablais Douvaine",
+    "address": "19 Avenue du Bas Chablais - Douvaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Place du Marché - Douvaine",
+    "address": "Rue du Marché - Douvaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Douvaine - 14 Rue De La Fonderie",
+    "address": "14 Rue De La Fonderie - Douvaine",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Douvaine",
+    "address": "22 Route des Esserts - Douvaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syane - Route d'Excenevex Sciez",
+    "address": "60 Route d'Excenevex - Sciez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syane - Avenue de la Plage Excenevex",
+    "address": "10 Avenue de la Plage - Excenevex",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtellerie du Château de Coudrée",
+    "address": "1 Avenue Bartholoni - Sciez",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 341 Rue du Grand Viré - Bons-en-Chablais",
+    "address": "341 Rue du Grand Viré - Bons-en-Chablais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

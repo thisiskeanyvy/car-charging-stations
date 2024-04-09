@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIDELC - Saint-Claude-de-Diray",
+    "address": "11 Rue de la République - Saint-Claude-de-Diray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sidelc - Montlivault",
+    "address": "3 Rue du Château d'Eau - Montlivault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A10 Aire de Blois-Ménars (direction Orléans)",
+    "address": "A10 L'Aquitaine - Villerbon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A10 - Aire de Blois-Villerbon (direction Tours)",
+    "address": "A10 - Villerbon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Aire covoiturage A10 - Blois - La Chaussée-Saint-Victor",
+    "address": "D956 - La Chaussée-Saint-Victor",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NW IECharge - Suèvres - Les Gribouzys",
+    "address": "Les Gribouzys - Suèvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIDELC - Rue de Montprofond La Chaussée-Saint-Victor",
+    "address": "6 Rue de Montprofond - La Chaussée-Saint-Victor",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Superchargeur V3 Blois - CapCiné",
+    "address": "12 Rue des 11 Arpents - Blois",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Gîte La Boisselée",
+    "address": "1 Nalin - Saint-Dyé-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Del Arte - Blois (Privé) recharge impossible",
+    "address": "Rue des Onze Arpents - Blois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

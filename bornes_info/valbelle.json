@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Renault-Dacia Sisteron",
+    "address": "6 Route de Marseille - Sisteron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "U Express - Sisteron",
+    "address": "9 Avenue des Plantiers - Sisteron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 20 Avenue de la Libération - Sisteron",
+    "address": "20 Avenue de la Libération - Sisteron",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Allée de la Libération - Sisteron",
+    "address": "Avenue de la Libération - Sisteron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Peipin",
+    "address": "1 Chemin du Frigouras - Peipin",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Y express",
+    "address": "9 avenue des Plantiers - Sisteron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "U express - Sisteron",
+    "address": "9 avenue des Plantiers - Sisteron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Sisteron - Allée de Verdun",
+    "address": "Allée de Verdun - Sisteron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "eborn - Place du Dauphiné - Sisteron",
+    "address": "Place du Dauphiné - Sisteron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A51 Aire de Aubignosc Ouest",
+    "address": "A51, Aire de Aubignosc Ouest - Aubignosc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

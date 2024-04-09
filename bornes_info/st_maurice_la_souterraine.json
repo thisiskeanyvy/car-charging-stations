@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Renault - La Souterraine",
+    "address": "3-17 Boulevard Jean Moulin - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Place Du Docteur Emile Parrain 22 - La Souterraine",
+    "address": "Place Du Docteur Emile Parrain 22 - La Souterraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sdec - Rue des Fossés des Canards - La Souterraine",
+    "address": "Rue des Fossés des Canards - La Souterraine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell Recharge - 22 Place Docteur Emile - La Souterraine",
+    "address": "22 Place Docteur Emile - La Souterraine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - La Souterraine - 1 Rue du Peu de Sedelle",
+    "address": "1 Rue du Peu de Sedelle - La Souterraine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Etang du Cheix Camping Suisse Océan",
+    "address": "Avenue de la République - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Mairie de Saint-Étienne-de-Fursac",
+    "address": "1bis Grande Rue - Saint-Étienne-de-Fursac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de la Cazine",
+    "address": "Domaine de la Fôt - Noth",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Saint Sornin Leulac",
+    "address": "2 Rue de l'Ancien Abreuvoir - Saint-Sornin-Leulac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Saint-Sornin-Leulac - N145, Contre Allée",
+    "address": "N145, Contre Allée - Saint-Sornin-Leulac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

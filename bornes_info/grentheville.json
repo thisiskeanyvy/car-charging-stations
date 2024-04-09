@@ -1,0 +1,142 @@
+[
+  {
+    "title": "MobiSDEC - Rue Urbain Cardon - Grentheville",
+    "address": "Rue Urbain Cardon - Grentheville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sevdec - Décathlon - Grentheville",
+    "address": "10 D230 - Grentheville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Centre Commercial Mondevillage - Parking Prune",
+    "address": "Rue Jacquard - Mondeville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Commercial Mondevillage - Parking Granny",
+    "address": "Rue Jacquard - Mondeville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Ibis Budget Mondéville",
+    "address": "10 Rue Joseph Jacqart - Mondeville",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour - Mondeville",
+    "address": "1 Route sans nom - Mondeville",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Route De Four - Soliers",
+    "address": "Route De Four - Soliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Mondeville - Norauto",
+    "address": "Avenue des Commerces Centre Norauto CC Régional Mondeville 2 - Mondeville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - Hotel Première Classe Caen Mondeville",
+    "address": "Rue Aristide Boucicaut Première Classe Caen Est - Mondeville",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Mondeville - 6 Rue des Frères Lumière",
+    "address": "6 Rue des Frères Lumière - Mondeville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

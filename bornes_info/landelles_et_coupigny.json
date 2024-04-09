@@ -1,0 +1,138 @@
+[
+  {
+    "title": "MobiSDEC - Campagnolles",
+    "address": "rue des Drudes - Campagnolles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - COULONCES (Parking de la Mairie)",
+    "address": "5 Le Bourg - Coulonces",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Sever-Calvados",
+    "address": "Place de la Mairie - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - SAINT SEVER CALVADOS (Rue du vieux Château)",
+    "address": "Route du Vieux Château - Saint-Sever-Calvados",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - ST MANVIEU BOCAGE (Le bourg)",
+    "address": "Le Bourg - Saint-Manvieu-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A84 - Aire de la Vallée de la Vire Gouvets (double sens)",
+    "address": "A84 - Gouvets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - LA GRAVERIE (Place de la Gare)",
+    "address": "2 Ruelle de la Gare - La Graverie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Vire (Rue Saint-Martin)",
+    "address": "Rue Saint-Martin - Vire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Vire Normandie - Rue de Caen",
+    "address": "47 Rue de Caen - Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Vire",
+    "address": "Zone Artisanale Les Neuvillières - Vire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

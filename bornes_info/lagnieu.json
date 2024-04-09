@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - Allée Guy de La Verpillière - Lagnieu",
+    "address": "170 Allée Guy de La Verpillière - Lagnieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Relais du Destin - Vertrieu",
+    "address": "110 Rue des Ecoles - Vertrieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEDI - Place de la Mairie - La Balme-les-Grottes",
+    "address": "Route de Lagnieu - La Balme-les-Grottes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LastMileSolutions - Ambérieu-en-Bugey - Groupe Brunet",
+    "address": "813 Avenue Léon Blum - Ambérieu-en-Bugey",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Amberieu en Bugey",
+    "address": "70 Avenue de la liberation - Ambérieu-en-Bugey",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CNR - Rue de Pont Porcieu-Amblagnieu",
+    "address": "40 Impasse de L’Écluse - Porcieu-Amblagnieu",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ChargePoint network - 345 Allée de Curebourse - Saint-Vulbas",
+    "address": "345 Allée de Curebourse - Saint-Vulbas",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Boulangerie tatup (Tesla)",
+    "address": "186 Rue Alexandre Bérard - Ambérieu-en-Bugey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ADNAuto - Chemin de la Vie aux Loups (Tesla and others)",
+    "address": "50 Chemin de la Vie aux Loups - Ambérieu-en-Bugey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - A42/D77e Aire de Covoiturage - Amberieu En Bugey",
+    "address": "D77e - Château-Gaillard",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

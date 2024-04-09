@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sigeif - parking de la gare RER - Gennevilliers",
+    "address": "23 Avenue du Général de Gaulle - Gennevilliers",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 66 boulevard Camélinat - Gennevilliers",
+    "address": "66 Boulevard Camélinat - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Gennevilliers - Route Principale du Port",
+    "address": "00 Route Principale du Port - Gennevilliers",
+    "connectors": [
+      "x2",
+      "x11"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Gennevilliers",
+    "address": "19 Rue louis calmel - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - Gennevilliers - 1905 Allée des Recoudes",
+    "address": "1905 Allée des Recoudes - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Thales CS",
+    "address": "4 Avenue des Louvresses - Gennevilliers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal pour le Gaz et l'Électricité en IDF (SIGEIF) - Gennevilliers - 55 Rue du Fossé Blanc",
+    "address": "55 Rue du Fossé Blanc - Gennevilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PolyBuis-Derichebourg-Environnement (Privé)",
+    "address": "106 Rue du Moulin de Cage - Gennevilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - avenue Gabriel Peri - Gennevilliers",
+    "address": "153 Avenue Gabriel-Péri - Gennevilliers",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 125 Avenue Louis Roche - Gennevilliers (Privé)",
+    "address": "125 Avenue Louis Roche - Gennevilliers",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SOREGIES - Rue de la Girouarière Morton",
+    "address": "4 Place de la République - Morton",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - FONTEVRAUD L'ABBAYE - Place Du 8 Mai 45",
+    "address": "21 Place du 8 Mai 1945 - Fontevraud-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel Abbaye Royale de Fontevraud",
+    "address": "38 Rue Saint-Jean de l'Habit - Fontevraud-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sorégies - Place de la Poste - Les Trois-Moutiers",
+    "address": "Rue des Deniers - Les Trois-Moutiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Alterbase Sorégies Les Trois-Moutiers",
+    "address": "3 Rue des Deniers - Les Trois-Moutiers",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Saint Léger de Montbrillais",
+    "address": "11 Rue des Écoliers - Saint-Léger-de-Montbrillais",
+    "connectors": [
+      "x2",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Basinierre",
+    "address": "48 Route de Compostelle - Candes-Saint-Martin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Trésor Belge Restaurant + B&B",
+    "address": "1 Allée du Jardin Secret - Pouançay",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL- Savigny-en-Véron",
+    "address": "1 Rue du Stade - Savigny-en-Véron",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - 1 Impasse du Haut Clos - La Roche-Clermault",
+    "address": "1 Impasse du Haut Clos - La Roche-Clermault",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

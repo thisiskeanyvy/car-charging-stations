@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - U Express - Oradour-sur-Vayres",
+    "address": "1 Rue Jean Segurel - Oradour-sur-Vayres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Bricomarche, 30 Rue de Saint-Mathieu",
+    "address": "30 Rue de Saint-Mathieu - Cussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cussac centre - Rue du 8 Mai 1945",
+    "address": "17 Rue du 8 Mai 1945 - Cussac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Léon Litaud - Saint-Laurent-sur-Gorre",
+    "address": "13 Place Léon Litaud - Saint-Laurent-sur-Gorre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Saint-Auvent - Allee du Chateau",
+    "address": "Allee du Chateau - Saint-Auvent",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SEHV - Mairie de Rochechouart",
+    "address": "8 Faubourg du Puy du Moulin - Rochechouart",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermaché - Rochechouart",
+    "address": "Rue de la Gare - Rochechouart",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Intermarché - Chalus",
+    "address": "Grande Rue 654 Ouest - Châlus",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEHV - Place Salvador Allende - Chalus",
+    "address": "21 Place Salvador Allende - Chalus",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps - 41 Avenue François Mitterrand - Chalus",
+    "address": "41 Avenue François Mitterrand - Chalus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

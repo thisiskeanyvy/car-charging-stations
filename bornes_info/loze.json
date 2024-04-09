@@ -1,0 +1,128 @@
+[
+  {
+    "title": "5Bis Avenue Fernand Forest",
+    "address": "1 Place de la Gare de Lozère - Palaiseau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecole polytechnique X - Avenue Borotra",
+    "address": "Avenue Borotra - Palaiseau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "École polytechnique - Avenue Coriolis",
+    "address": "Avenue Coriolis - Palaiseau",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Hotel de Ville de Vilebon sur Yvette",
+    "address": "3 Rue du Commandant Marin la Meslée - Villebon-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Etablissement Public d’Aménagement de Paris-Saclay - Palaiseau - Cour Vaneau École Polytechnique",
+    "address": "Cour Vaneau École Polytechnique - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris Saclay - Avenue de la Vauve - Palaiseau",
+    "address": "13 Avenue de la Vauve - Palaiseau",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - Villebon-sur-Yvette - 19 Avenue de Norvège",
+    "address": "19 Avenue de Norvège - Villebon-sur-Yvette",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 17 Av. de Norvège - VILLEBON SUR YVETTE",
+    "address": "17 Av. de Norvège - VILLEBON SUR YVETTE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Gare RER B de Palaiseau-Villebon",
+    "address": "37 Boulevard Nicolas Samson - Palaiseau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Communauté d'Agglomération Paris-Saclay - Rue Jacques Brel - Villebon-sur-Yvette",
+    "address": "Rue Jacques Brel - Villebon-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

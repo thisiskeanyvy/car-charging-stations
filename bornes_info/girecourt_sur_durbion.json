@@ -1,0 +1,126 @@
+[
+  {
+    "title": "\"Le Prieuré\"",
+    "address": "2 Rue de la Mairie - Aydoilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Aydoilles - Gyrovosges",
+    "address": "6 Rue de la Haye - Aydoilles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - au Dessus de Salet - Jeuxey",
+    "address": "au Dessus de Salet - Jeuxey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place Stanislas - Bruyères",
+    "address": "Place Stanislas - Bruyères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Bruyères",
+    "address": "6 Rue 5E Bcp - Bruyères",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intersport - Rue du Saut le Cerf - Epinal - Jeuxey",
+    "address": "35 Rue du Saut le Cerf - Epinal - Jeuxey",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Jeuxey - Bourrelier",
+    "address": "32 Rue du Saut le Cerf, 88000 Jeuxey, France - Jeuxey",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Bricorama - Jeuxey",
+    "address": "D46 - Jeuxey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V4 - Epinal Jeuxey",
+    "address": "30 Rue du Saut le Cerf - Jeuxey",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electra - Jeuxey - KFC",
+    "address": "42 route du Saut le Cerf - Jeuxey",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "REVEO - Salle des fêtes",
+    "address": "1 Route de Cahors - Lamagdelaine",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Credit Agricole - Terre Rouge",
+    "address": "1 Allee des thuyas - Cahors",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Cahors Terre-Rouge",
+    "address": "Avenue Edouard Herriot - Cahors",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - 1180 Rue de la Rivière - Cahors",
+    "address": "1180 Rue de la Rivière - Cahors",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Stade Lucien Desprat - Cahors",
+    "address": "23 Rue de la Guinguette - Cahors",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Cité Bessières - Rue Pierre Mendès France - Cahors",
+    "address": "Rue Pierre Mendès France - Cahors",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Révéo - Allée Johnny Winter - Cahors",
+    "address": "518 Allée Johnny Winter - Cahors",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Cahors - Netto",
+    "address": "Chemin de Mottecave - Cahors",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Hôtel du Département - Avenue de l'Europe - Cahors",
+    "address": "Avenue de l'Europe - Cahors",
+    "connectors": [
+      "x13"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel ibis Cahors (Tesla and others)",
+    "address": "888 Côte de Lapoujade - Cahors",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

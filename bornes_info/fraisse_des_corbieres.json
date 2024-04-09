@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Révéo - Durban-Corbières - Rue du Stade 2",
+    "address": "2 Rue du Stade - Durban-Corbières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Audois d’Énergies (SYADEN) - Cascastel-des-Corbières - Quai de la Berre",
+    "address": "Quai de la Berre - Cascastel-des-Corbières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - rue de la capelle",
+    "address": "4 Rue de la Capelle - Roquefort-des-Corbières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-Vadea - A9 Aire de la Palme-Ouest (direction Perpignan)",
+    "address": "A9 - La Palme",
+    "connectors": [
+      "x5",
+      "x2",
+      "x5",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A9 Aire de La Palme-Est (direction Narbonne)",
+    "address": "_ A9 Aire de la Palme Est - La Palme",
+    "connectors": [
+      "x2",
+      "x2",
+      "x11",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syaden (Révéo) - Rue de l'Eguille, 3 - Caves",
+    "address": "3 Traverse du Tilleul - Caves",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syaden (Révéo) - Rue des Palmiers - La Palme",
+    "address": "Rue des Palmiers - La Palme",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Reveo Portel Terra Vinea",
+    "address": "1 Chemin des Plâtrières - Portel-des-Corbières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo Portel Cave Coop",
+    "address": "Avenue des Corbières - Portel-des-Corbières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - place du vieux sigean",
+    "address": "Place du Vieux Sigean - Sigean",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  }
+]

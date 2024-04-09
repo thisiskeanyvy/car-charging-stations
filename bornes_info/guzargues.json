@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Puech Haut",
+    "address": "Puech Haut - Saint-Drézéry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Allée de la Liberté - Saint-Drézéry",
+    "address": "51 Allée de la Liberté - Saint-Drézéry",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Teyran - Lidl",
+    "address": "1550 Avenue De Montpellier - Teyran",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - Avenue du Campus Agropolis - Montferrier-sur-Lez",
+    "address": "Avenue du Campus Agropolis - Montferrier-sur-Lez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Domaine du Mas du Pont",
+    "address": "Chemin domaine du mas du pont - Le Crès",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Enerstock - Intermarché - Prades le lez",
+    "address": "- Intermarché - Route de montpellier - Prades le lez",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Agir à Domicile - Castries - 24kW DC",
+    "address": "180 Avenue de la Capelado - Castries",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking chemin de la Tuilerie - St -Jean-de-Cornies",
+    "address": "Chemin de la Tuilerie - st jean de cornies",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Garage Spaeth",
+    "address": "2 Rue du Pic Saint-Loup - Le Crès",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enerstock - Jacou - Centrakor",
+    "address": "- Centrakor - Rue du Clos de Viviers - Jacou",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

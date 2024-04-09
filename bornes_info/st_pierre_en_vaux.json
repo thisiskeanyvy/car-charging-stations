@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SYDESL - Place Charles de Gaulle - Epinac",
+    "address": "9 Place Charles de Gaulle - Épinac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de l'Arquebuse - Arnay-le-Duc",
+    "address": "4 Rue de l'Arquebuse - Arnay-le-Duc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Laiterie du haras haflinger de Bourgogne",
+    "address": "8 Rue du Haras - Magnien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SICECO - Bligny-sur-Ouche",
+    "address": "8 Place du 8 Mai 1945 - Bligny-sur-Ouche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking de la Poste - Nolay",
+    "address": "Rue de la Poste - Nolay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bourgogne Chic | Le Domaine des Prés Verts Spa (Tesla and others)",
+    "address": "10 Impasse des Prés Verts - Jouey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A6 Aire de La Forêt (direction Beaune)",
+    "address": "A6 - Bligny-sur-Ouche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A6 Aire du Creux Moreau (direction Paris)",
+    "address": "A6 - LYON PARIS - BLIGNY SUR OUCHE",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - A6 Aire de Creux Moreau (direction Paris)",
+    "address": "Aire de Creux Moreau, Bligny-sur-Ouche - Bligny-sur-Ouche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - route de chalon - Auxy",
+    "address": "route de chalon - Auxy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

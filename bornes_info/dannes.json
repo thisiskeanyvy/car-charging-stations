@@ -1,0 +1,130 @@
+[
+  {
+    "title": "TotalEnergies - A16 Aire des Falaises de Widehem (direction Amiens)",
+    "address": "A16 - AMIENS CALAIS - WIDEHEM",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Evancy Trésors d'Opale - Rue des Nations",
+    "address": "117 Rue des Nations - Camiers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A16 Aire des Falaises de Widehem Est (direction Calais)",
+    "address": "A16 - AMIENS CALAIS - WIDEHEM",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Vinci - Boulevard De Rocquigny - Camiers",
+    "address": "55 Boulevard De Rocquigny - Camiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pass Pass - Gendarmerie - Neufchâtel-Hardelot",
+    "address": "Rue des Allées - Neufchâtel-Hardelot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Avenue de la Manche - Neufchâtel-Hardelot",
+    "address": "64 Avenue de la Manche - Neufchâtel-Hardelot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel le Régina",
+    "address": "185 Avenue François 1er - Neufchâtel-Hardelot",
+    "connectors": [
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy - Hôtel du Parc",
+    "address": "111 Avenue François 1er - Neufchâtel-Hardelot",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "37 Lindbergh Hardelot (Privé)",
+    "address": "25 Rue des Anglais - Neufchâtel-Hardelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Avenue Charles Dickens - Neufchâtel-Hardelot",
+    "address": "13 Avenue Charles Dickens - Neufchâtel-Hardelot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

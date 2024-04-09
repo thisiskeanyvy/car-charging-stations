@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEIL - Place de Verdun - Loches",
+    "address": "6 Place de Verdun - Loches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SAOSIS Elec",
+    "address": "8 Rue Brulée - Beaulieu-lès-Loches",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Mail St Pierre - Beaulieu-lès-Loches",
+    "address": "27 Mail St Pierre - Beaulieu-lès-Loches",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ChargeGuru - Loches - 32 Rue de Corbery",
+    "address": "32 Rue de Corbery - Loches",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Loches",
+    "address": "35 Route de Vauzelles - Loches",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Loches",
+    "address": "2 rue Fontaine Charbonnelle - Loches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Perrusson - Route De Mauvières",
+    "address": "Route De Mauvières - Perrusson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - La Cloutiere - Perrusson",
+    "address": "La Cloutiere - Perrusson",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo/SIEIL - Impasse de la forge",
+    "address": "2 Impasse de la Forge - Perrusson",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne SIEIL - Le p'tit marmiton - St Jean-St germain",
+    "address": "Route de Coudray - Saint-Jean-Saint-Germain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

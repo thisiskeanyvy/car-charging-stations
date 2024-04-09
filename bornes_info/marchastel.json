@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Chateau de Marchastel",
+    "address": "Le Bourg - Marchastel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Place de la Poste - Nasbinals",
+    "address": "Place de la Poste - Nasbinals",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - parking chemin La Prugne D12 - Brion",
+    "address": "La Prugne - Brion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Place Centrale - RD 19 - Saint-Chely D'Aubrac",
+    "address": "D19 - Saint-Chély-d'Aubrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel Chez Camillou (pour Tesla and others)",
+    "address": "8 Route Du Languedoc - Javols",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Peyre en Aubrac - Logis Hotel chez Camillou",
+    "address": "10 Route du Languedoc - Peyre en Aubrac",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Place Du Foirail - Aumont-Aubrac",
+    "address": "2 Place du Foirail - Peyre en Aubrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Route de Laguiole - Laguiole",
+    "address": "Route de Laguiole  - Laguiole",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Suquet - Laguiole (Tesla and others)",
+    "address": "Le Suquet - Laguiole",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Le Pré de Suzon Marvejols",
+    "address": "20C Boulevard de Jabrun - Marvejols",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  }
+]

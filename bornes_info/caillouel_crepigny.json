@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Château de Quesmy (Tesla and others)",
+    "address": "78 Rue du Château - Quesmy",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue André Ternynck - Chauny",
+    "address": "122 Rue André Ternynck - Chauny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Bricomarché - Chauny",
+    "address": "Boulevard de l'europe - Chauny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Chauny",
+    "address": "6 Boulevard de l'Europe - Chauny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "USEDA - Rue des Remparts - Chauny",
+    "address": "Rue des Remparts - Chauny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place de Magny - Guiscard",
+    "address": "80 Place de Magny - Guiscard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Viry-Noureuil - Bricorama",
+    "address": "38 ZAC les Terrages - Viry-Noureuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Viry-Noureuil - Action",
+    "address": "ZAC les Terrages, 02300 Viry-Noureuil - Viry-Noureuil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZAC Les Terrages - Viry Noureuil",
+    "address": "ZAC Les Terrages - Viry-Noureuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mouv'Oise bornes Eco-Mobilites - 201 Grande Rue - Pontoise Les Noyons",
+    "address": "201 Grande Rue - Pontoise Les Noyons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

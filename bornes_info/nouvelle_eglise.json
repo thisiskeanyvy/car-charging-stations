@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Aire Covoiturage - Vieille-Église",
+    "address": "800 Rue du Pont d'Oye - Vieille-Église",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Cabinet de dentistes - Audruicq",
+    "address": "211 Rue Carnot - Audruicq",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Rue du Château d'Eau - Audruicq",
+    "address": "Rue du Château d'Eau - Audruicq",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - Oye-Plage - 300 Rue des Petits Moulins",
+    "address": "300 Rue des Petits Moulins - Oye-Plage",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Audruicq",
+    "address": "1000 Av. des Alliés, - Audruicq",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Greenspot - Audruicq - Carrefour Market",
+    "address": "1000 Avenue des Alliés - Audruicq",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Audruicq",
+    "address": "777 Avenue des allies - Audruicq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Avenue des Alliés - Audruicq",
+    "address": "770 Avenue des Alliés - Audruicq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Aire covoiturage Marck",
+    "address": "1051 Avenue François Mitterrand - Marck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'europe - Marck",
+    "address": "2 Place de l'Europe - Marck",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - Gare de Merxheim",
+    "address": "D3B - Merxheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lycée Agricole - Rouffach",
+    "address": "Rue de Bâle - Rouffach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "mobilygreen - Centre Hospitalier de Rouffach",
+    "address": "27 Rue du 4ème RSM - Rouffach",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rouffach - Rue Raymond Poincaré",
+    "address": "1 Rue Raymond Poincaré - Rouffach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château d'Isenbourg Hôtel Restaurant (Tesla)",
+    "address": "2 Rue du Château - Rouffach",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Salle des Fêtes - Ungersheim",
+    "address": "29 rue d'Ensisheim - UNGERSHEIM",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place de la mairie - Ungersheim",
+    "address": "5 Place de la Mairie - Ungersheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel du Bollenberg",
+    "address": "Domaine du Bollenberg - Westhalten",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Westhalten, Rue de Rouffach",
+    "address": "20 Rue De Rouffach - Westhalten",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine du Moulin Hôtel *** Spa (Tesla et autres)",
+    "address": "44 Rue de la 1ère Armee - Ensisheim",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

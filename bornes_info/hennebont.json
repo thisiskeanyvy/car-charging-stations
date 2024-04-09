@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Morbihan Énergies - Place Charles de Gaulle - Hennebont",
+    "address": "19 Place du Général de Gaulle - Hennebont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Intermarché - Hennebont",
+    "address": "7 Avenue François Mitterrand - Hennebont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "20 Rue Léonard de Vinci",
+    "address": "20 Rue Léonard de Vinci - Hennebont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lycée horticole - La boutique bio",
+    "address": "76 rue du Talhouët - Hennebont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - Rue du Blavet Inzinzac-Lochrist",
+    "address": "Rue du Blavet - Inzinzac-Lochrist",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de Locguénolé - Kervignac (Tesla and others)",
+    "address": "Locguenole - Kervignac",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "PÔLE D'ACTIVITÉS TECHNELLYS",
+    "address": "165 Route de Malachappe - Lanester",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Lorient Caudan",
+    "address": "1060 Rue Pierre Landais - Caudan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Hotel Ibis Caudan",
+    "address": "758 Rue Pierre Landais - Caudan",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Nissan - Lorient",
+    "address": "1269-1409 Rue Dominique Arago - Caudan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

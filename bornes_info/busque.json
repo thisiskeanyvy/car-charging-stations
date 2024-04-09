@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Révéo - Mairie de Busque",
+    "address": "Rue Paul Vabre - Busque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Graulhet",
+    "address": "Boulevard Georges Ravari - Graulhet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alize - Leclerc - Route de Lavaur - Graulhet",
+    "address": "Route de Lavaur - Graulhet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Baita sarl",
+    "address": "5 avenue du Marechal Juin - Graulhet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Graulhet - Intermarché",
+    "address": "Parking intermarché, Rte de Lavaur, 81300 Gr - Graulhet",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking MDI Constructions MALIÉ",
+    "address": "13 Boulevard Georges Ravari - Graulhet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place jean moulin 81300 Graulhet France",
+    "address": "Place Jean Moulin - Graulhet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Graulhet - Netto",
+    "address": "19 Av. Marcel Pagnol - Graulhet",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDET - parking place du Languedoc Graulhet",
+    "address": "Place du Languedoc - Graulhet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Cinema vertigo",
+    "address": "15 Rue de la Mégisserie - Graulhet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

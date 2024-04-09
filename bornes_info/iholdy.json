@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEPA - Mairie - Urcuit",
+    "address": "D257 - Urcuit",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Place du marché - Urt",
+    "address": "Place du Marché - Urt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA - Commerces Lahonce",
+    "address": "Place Louis Lafargue - Lahonce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEC - Rue de Gascogne Saint-Martin-de-Seignanx",
+    "address": "Rue de Gascogne - Saint-Martin-de-Seignanx",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA - Lotissement Mouguerre Village - Mouguerre",
+    "address": "Lotissement Mouguerre Village - Mouguerre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Route de la Côte - La Bastide-Clairence",
+    "address": "Route de la Côte - La Bastide-Clairence",
+    "connectors": [
+      "x4",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MobiVE) - Place des Arceaux - La Bastide-Clairence",
+    "address": "2 Place des Arceaux - La Bastide-Clairence",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IKEA - Ametzondo - Bayonne",
+    "address": "2-4 Avenue du Portou - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour - Avenue du Portou - Saint-Pierre-d'Irube",
+    "address": "2-3 Avenue du Portou - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electra - Saint-Pierre-d'Irube - CC Ametzondo Shopping",
+    "address": "3 avenue du Portou - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

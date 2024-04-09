@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Alize - Avenue de l'Oeuvre Louis Conlombant - Montsalvy",
+    "address": "6 Av De l'Oeuvre Louis Conlombant - Montsalvy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auberge de la Tour hotel (Tesla et autres)",
+    "address": "Place de la fontaine - Marcolès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes du Cayla",
+    "address": "5 Rue Du Cayla - Leynhac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auberge La Tomette - Vitrac",
+    "address": "D66 Le Bourg - Vitrac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Central Garage - Entraygues-sur-Truyère",
+    "address": "21 Avenue du Pont de Truyère - Entraygues-sur-Truyère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Parking du Boutigou",
+    "address": "2 Chemin de la Roussilhe - Entraygues-sur-Truyère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Place de la Mairie - Grand-Vabre",
+    "address": "Place de la Mairie - Grand-Vabre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Coteaux St. George’s 19 - Entraygues sur Truyère",
+    "address": "Coteaux St. George’s 19 - Entraygues sur Truyère",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Zone boulodrome",
+    "address": "11 Rue des Roses - Lacroix-Barrez",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Moulin de Chaules",
+    "address": "chaules - saint constant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

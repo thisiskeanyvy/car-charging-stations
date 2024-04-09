@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Freshmile - Rue de la Gare - Massiac",
+    "address": "2 place faura - Massiac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grand Hotel de la Poste",
+    "address": "26 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Agent Renault Tuffery - Massiac",
+    "address": "103 Avenue du Général de Gaulle - Massiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - D21 Route De La Scierie",
+    "address": "7 Route De La Scierie - Auriac-L'Eglise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE43 - Place Saint-Pierre - Blesle",
+    "address": "11 Rue Edouard Châtillon - Blesle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Volcan des sens",
+    "address": "- Brugeilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Volcan des Sens",
+    "address": "Brugeilles - Torsiac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SHELL - A75, Aire de Lafayette - Lorlanges",
+    "address": "A75, Aire de Lafayette - Lorlanges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "CN industrie (Tesla et autres)",
+    "address": "33 Rue Guynemer - Brioude",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - D23 - Anzat-le-Luguet",
+    "address": "- Anzat-le-Luguet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Syndicat de l'Énergie de l'Orne (SE61) - La Ferrière-aux-Étangs - Place Henri Buron",
+    "address": "Place Henri Buron - La Ferrière-aux-Étangs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - 626 Le Pont-Nord - La Ferrière-aux-Étangs",
+    "address": "626 Le Pont-Nord - La Ferrière-aux-Étangs",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du musée",
+    "address": "Place du Musée - Dompierre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Boulangerie - Messei",
+    "address": "8 Rue Surville - Messei",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - Rue Colonel André Lefèvre - Champsecret",
+    "address": "Rue Colonel André Lefèvre - Champsecret",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Route de sainte opportune",
+    "address": "9 Rue de la Glycine - Bellou-en-Houlme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gravelat Fleury Automobiles - Flers-de-l'orne",
+    "address": "25 Rue Principale - La Chapelle-au-Moine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Flers",
+    "address": "42 Rue René Prieur - Flers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue Ferdinand Lucas - Flers",
+    "address": "137 Rue Ferdinand Lucas - Flers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Domestique UE"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Renault Flers BodemerAuto",
+    "address": "Route de Domfront - Flers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

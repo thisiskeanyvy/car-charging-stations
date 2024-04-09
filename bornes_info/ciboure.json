@@ -1,0 +1,120 @@
+[
+  {
+    "title": "MobiVE - Avenue François Miterrand - Ciboure",
+    "address": "Avenue François Mitterrand - Ciboure",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA (MObiVE) - Saint-Jean-de-Luz - Avenue Pierre Larramendy",
+    "address": "Avenue Pierre Larramendy - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - Boulevard Victor Hugo - Saint-Jean-De-Luz",
+    "address": "31 Boulevard Victor Hugo - Saint-Jean-De-Luz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MObiVE - Parking des Pyrénées - Saint-Jean-de-Luz",
+    "address": "31 Boulevard du Commandant Passicot - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Indigo - 8 Rue Vincent Barjonnet - Saint-Jean-de-Luz",
+    "address": "8 Rue Vincent Barjonnet - Saint-Jean-de-Luz",
+    "connectors": [
+      "x15"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - D810 - Urrugne",
+    "address": "D810 - Urrugne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Location appartement Bellara",
+    "address": "boulevard Pierre Benoit - Ciboure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Parc Victoria (Tesla et autres)",
+    "address": "5 Rue Cepe - Saint-Jean-de-Luz",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour city, place du marché",
+    "address": "0 Rue de l'Untxin - Urrugne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Urrugne - 6 Avenue Kattalin Aguirre",
+    "address": "6 Avenue Kattalin Aguirre - Urrugne",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

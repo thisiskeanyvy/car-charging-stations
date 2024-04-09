@@ -1,0 +1,118 @@
+[
+  {
+    "title": "OuestCharge - Mairie de Sizun",
+    "address": "D764 - Sizun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Irvillac (Route de Daoulas)",
+    "address": "Route de Daoulas - Irvillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Hanvec (Place du Marché)",
+    "address": "7-9 Place du Marché - Hanvec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Daoulas",
+    "address": "Résidence de la Duchesse Anne, Vern Deredec Zone du, - Daoulas",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Rue des Écoles - La Roche-Maurice",
+    "address": "1 Rue des Écoles - La Roche-Maurice",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Dirinon (Place François-Marie Coatalem)",
+    "address": "Place Coatalem - Dirinon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Daoulas (Rue de la Rive)",
+    "address": "1 Rue de La Rive - Daoulas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue de la Tour d'Auvergne - Landerneau",
+    "address": "2 Rue de la Tour d'Auvergne - Landerneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Quai de Léon - Landerneau",
+    "address": "30 Quai de Léon - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Super U - Le Faou",
+    "address": "Route de Rumengol - Le Faou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

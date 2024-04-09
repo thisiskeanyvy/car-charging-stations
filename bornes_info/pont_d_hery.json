@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Lidl - Bracon",
+    "address": "3 Rue de Champtave - Bracon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zephyre - 18 Rue de la Cascade - Les PLANCHES EN ARBOIS",
+    "address": "18 Rue de la Cascade - Les PLANCHES EN ARBOIS",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Grand Hôtel des Bains (Tesla et autres)",
+    "address": "2 Place des Alliés et de la Résistance - Salins-les-Bains",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel des Messageries",
+    "address": "2 Rue de Courcelles - Arbois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les caudalies",
+    "address": "20 Avenue louis pasteur - Arbois",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Supermarché Bi1 - Route De Besançon",
+    "address": "13 Route De Besançon - Arbois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - Arbois - Domaine de Boichailles",
+    "address": "Domaine de Boichailles - Arbois",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Arbois",
+    "address": "2 Route de Dole - Arbois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Champagnole - Hyper U",
+    "address": "Rue du Village - Champagnole",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Maison Zugno (Porsche)",
+    "address": "Les Monts de Vaux - N5 - Barretaine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

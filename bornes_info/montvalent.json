@@ -1,0 +1,140 @@
+[
+  {
+    "title": "RÉVÉO - Rue Du Suquet - Meyronne",
+    "address": "49 Rue Du Suquet - Meyronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL (Révéo) - D43 - Floirac",
+    "address": "D43 - Floirac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Avenue de Souillac - Martel",
+    "address": "6049F Avenue de Nassogne - Martel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDEL (Révéo) - D23 - Lacave",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - ZEborne - Rue du Barri de Souillac - Martel",
+    "address": "Rue du Barri de Souillac - Martel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Le Bois d'Imbert - Rocamadour",
+    "address": "Route de Lacave - Rocamadour",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de le Treyne (Tesla et autres)",
+    "address": "D23 - Lacave",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - L'Hospitalet - Rocamadour",
+    "address": "160 Place de l'Europe - Rocamadour",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Hôtel Les Esclargies (Tesla and others)",
+    "address": "Les Esclargies l'Hospitalet - Rocamadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*WA3 - Saint-Denis-lès-Martel - Impasse des Termes",
+    "address": "Impasse des Termes - Saint-Denis-lès-Martel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

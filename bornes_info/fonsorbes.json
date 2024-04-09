@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEHG - Route de Tarbes Fonsorbes",
+    "address": "1782-1792 Route de Tarbes - Fonsorbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Fonsorbes",
+    "address": "Allée de Gascogne - Haute-Garonne",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mc Donalds - Fonsorbes",
+    "address": "4 Impasse de Bélesta - Fonsorbes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobilygreen - Plaisance-du-Touch - Golf Teoula",
+    "address": "71 Rue des Landes - Plaisance-du-Touch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Cassioppee service a la personne",
+    "address": "97 Route de lombez - Plaisance du touch",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Fontenilles, Saint-lys",
+    "address": "Impasse du Moulin - Fontenilles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Saint-Lys",
+    "address": "95 avenue du languedoc - Saint-Lys",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - 75 Route de Lamasquère - Seysses",
+    "address": "75 Route de Lamasquère - Seysses",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Leclerc - Saint-Lys",
+    "address": "615 Route de Toulouse - Saint-Lys",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Plaisance du Touch",
+    "address": "73 route de Lombez - Plaisance du Touch",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

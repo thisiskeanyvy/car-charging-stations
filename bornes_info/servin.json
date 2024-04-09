@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Allego - Servon - N19 Avenue Pierre Guérin",
+    "address": "Route Nationale, Av. Pierre Guérin - Servon",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Nature O - Servon",
+    "address": "6 Rue Georges Truffaut - Servon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Marché Frais Géant - Servon",
+    "address": "9 chemin du marquis - Servon",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Lidl- Santeny",
+    "address": "Avenue de la Butte Gayen - SANTENY",
+    "connectors": [
+      "x2",
+      "x6",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargeGuru - ZAC du Noyer aux Perdrix",
+    "address": "1 Rue d'Iverny ZAC du Noyer aux Perdrix - Servon",
+    "connectors": [
+      "x22",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - CC Eden Côté Cerf - Servon",
+    "address": "Route Nationale - Servon",
+    "connectors": [
+      "x23",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - Servon - Allée du Noyer aux Perdrix",
+    "address": "Allée du Noyer aux Perdrix - Servon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 101 Avenue des Érables - Santeny",
+    "address": "101 Avenue des Érables - Santeny",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell-Recharge (FR) - Rue de la Fontaine 1 - Santeny",
+    "address": "Rue de la Fontaine 1 - Santeny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Route de Marolles 1 - Santeny",
+    "address": "Route de Marolles 1 - Santeny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

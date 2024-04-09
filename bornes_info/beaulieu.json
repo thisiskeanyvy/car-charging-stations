@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SEYMABORNE - Villennes-sur-Seine - Avenue Foch",
+    "address": "12 Avenue Foch - Villennes-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Maison Médicale Madeleine Brès",
+    "address": "75 Rue du Pré aux Moutons - Villennes-sur-Seine",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "White Parc Villennes-sur-Seine",
+    "address": "3 Chemin aux Bœufs - Villennes-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Golf plus",
+    "address": "8 rue de Normandie - orgeval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue De Normandie - Orgeval",
+    "address": "2 Rue De Normandie - Orgeval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aramis auto - Orgeval",
+    "address": "1319 Route de Quarante Sous - Orgeval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Orgeval - Route De Quarante Sous (privé)",
+    "address": "Route De Quarante Sous - Orgeval",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orgeval, LS Group public",
+    "address": "1067 Route De Quarante Sous - Orgeval",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Orgeval - Chemin des guetes",
+    "address": "Chemin des guetes - Orgeval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Orgeval",
+    "address": "482 Route de Quarante Sous - Orgeval",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 3
+  }
+]

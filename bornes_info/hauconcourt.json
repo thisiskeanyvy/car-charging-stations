@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Iveco est",
+    "address": "- Maizieres les Metz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Leroy Merlin - ZI de Hauconcourt",
+    "address": "Zone Industrielle d'Hauconcourt - Hauconcourt",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Marques Avenue - Rue du Prè le Loop - Talange",
+    "address": "Rue du Prè le Loop - Talange",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - Rue de Maizières - Metz",
+    "address": "3 Rue de Maizières - Hauconcourt",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zephyre - Novotel Metz - Hauconcourt",
+    "address": "16 Route de Maizières - Hauconcourt",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "IONITY - Route de Mézière Centre E.Leclerc - Maizières-lès-Metz",
+    "address": "Route de Mézière Centre E.Leclerc - Hauconcourt",
+    "connectors": [
+      "x1",
+      "x18",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Hauconcourt",
+    "address": "5 Route de Maizières - Hauconcourt",
+    "connectors": [
+      "x2",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue louis blériot Argancy (Privé. Réservé à l'Entreprise).",
+    "address": "Rue Louis Blériot Zone Industrielle Jonquière - Argancy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Éric Tabarly - Talange",
+    "address": "Rue Éric Tabarly - Talange",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hotel Campanile - Talange",
+    "address": "Chemin de la Ponte - Talange",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

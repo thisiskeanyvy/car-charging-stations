@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lidl - Tarare",
+    "address": "1 Route De Feurs - Tarare",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Burnichon",
+    "address": "70 Avenue Edouard Herriot - Tarare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Leclerc Espace Culturel",
+    "address": "6 Boulevard de la Turdine - Tarare",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 427 Chemin De Chanzé - Vindry-sur-Turdine INEXISTANT",
+    "address": "427 Chemin De Chanzé - Vindry-sur-Turdine",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Saint-Loup",
+    "address": "248 Montée de Vindry - Saint-Loup",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "FR*EFL - Vindry sur Turdine - Chemin de Chanzé 427",
+    "address": "Chemin de Chanzé 427 - Vindry sur Turdine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lac des Sapins (Parking côté plage)",
+    "address": "Parking côté plage - Cublize",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lac des Sapins",
+    "address": "265 La Fécule - Cublize",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "hébergement (ferme)",
+    "address": "La Fécule - Cublize",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Lepine",
+    "address": "6 Route de Cublize - Amplepuis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

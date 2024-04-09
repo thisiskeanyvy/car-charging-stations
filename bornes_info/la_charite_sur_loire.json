@@ -1,0 +1,134 @@
+[
+  {
+    "title": "INTERMARCHE /FR*OTH*POTHR*470",
+    "address": "Rue des Plantes des Religieuses - La Charité-sur-Loire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue des Écoles - La Charité-sur-Loire",
+    "address": "21 Rue des Écoles - La Charité-sur-Loire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place de l'Europe - La Charité sur Loire",
+    "address": "10 Rue de Verdun - La Charité-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Modulo-Energies - N151 Route de Bourges - Sancergues",
+    "address": "59–404 Route de Bourges - Sancergues",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parking des Ecoles - Pouilly-sur-Loire",
+    "address": "1-3 Rue des Écoles - Pouilly-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "À côté de l'école - Marseilles-lès-Aubigny",
+    "address": "2 Rue du Port - Marseilles-lès-Aubigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEEEN - Parking Mairie Pougues-les-Eaux",
+    "address": "2 Rue de Bel air - Pougues-les-Eaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Rue des Écoles - Jouet-sur-l'Aubois",
+    "address": "Rue des Écoles - Jouet-sur-l'Aubois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energie - A77 Aire des Vignobles (double sens)",
+    "address": "A77 - Tracy sur loire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché - Guérigny",
+    "address": "5 Rue de Lanessan - Guérigny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  }
+]

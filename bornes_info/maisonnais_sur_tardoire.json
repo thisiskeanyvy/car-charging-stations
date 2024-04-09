@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking du bourg",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Car - Busserolles",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine des Etangs (Tesla and others)",
+    "address": "Les Étangs - Massignac",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Place du Champ Foire - Massignac",
+    "address": "Place du Champ Foire - Massignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Rouzède - 26 Domaine de la Haute Preze",
+    "address": "26 Domaine de la Haute Preze - Rouzède",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 (MObiVE) - Boulevard du Champ de Foire - Piégut-Pluviers",
+    "address": "599 Boulevard du Champ de Foire - Piégut-Pluviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Bricomarche, 30 Rue de Saint-Mathieu",
+    "address": "30 Rue de Saint-Mathieu - Cussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cussac centre - Rue du 8 Mai 1945",
+    "address": "17 Rue du 8 Mai 1945 - Cussac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Marval - D15 Salle polyvalente André Marcillaud",
+    "address": "D15 Salle polyvalente André Marcillaud - Marval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Rue Laugerias - Montembœuf",
+    "address": "Rue Laugerias - Montembœuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

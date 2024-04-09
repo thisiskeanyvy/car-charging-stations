@@ -1,0 +1,130 @@
+[
+  {
+    "title": "WAAT - Le Domaine du Moulin Neuf - Malansac",
+    "address": "Moulin Neuf - Malansac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Gîte de Kerviny - Questembert",
+    "address": "Kerviny - Questembert",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rie des Forges - Malansac",
+    "address": "Rue des Forges - Malansac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aire du Temps",
+    "address": "2 Rue de Bellevue - Malansac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Saint Gravé - LA VILLE GEHAN",
+    "address": "LA VILLE GEHAN - Saint Gravé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - Avenue de la Gare - Questembert",
+    "address": "6447 Avenue de la Gare - Questembert",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Morbihan énergie - Place de l'Eglise -Limerzel",
+    "address": "Place de l'Église - Limerzel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue pasteur - Pleucadeuc",
+    "address": "Rue Pasteur - Pleucadeuc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Route de Saint-Martin - Saint-Gravé",
+    "address": "7 Route de Saint-Martin - Saint-Gravé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue des Azalées - Questembert",
+    "address": "8094 Avenue des Azalées - Questembert",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

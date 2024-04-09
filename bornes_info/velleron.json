@@ -1,0 +1,130 @@
+[
+  {
+    "title": "PARKING PASCHER ROISSY",
+    "address": "1 Rue de la Sucrerie - Villeron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SHELL - A1 Aire de Vémars Est (Direction Senlis)",
+    "address": "Autoroute du Nord - Vémars",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A1 Aire de Vémars Est (direction Lille)",
+    "address": "A1 - Vémars",
+    "connectors": [
+      "x16",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Shell | Aire De Vemars Est",
+    "address": "A1 - Vémars",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - A1 Aire de Vémars Ouest (direction Paris)",
+    "address": "Aire de Vémars Ouest A1 - Vémars",
+    "connectors": [
+      "x2",
+      "x16",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Louvres",
+    "address": "4 Rue des Arpents - Louvres",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Louvres",
+    "address": "30 ave Charles de Gaulle - Louvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie de Puiseux",
+    "address": "1 Place jean moulin - Puiseux-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Puiseux-en-France - Avenue de Grafenberg",
+    "address": "3 Route de Marly - Puiseux-en-France",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gare de Louvres",
+    "address": "7 Place de la Gare - Louvres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

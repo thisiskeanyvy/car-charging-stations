@@ -1,0 +1,138 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Avenue Jean Estragnat - Grigny",
+    "address": "Avenue Jean Estragnat - Grigny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energie - A46 Aires de Service de Communay-Nord (direction Givors)",
+    "address": "A46 - Communay",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Grigny - Intermarché",
+    "address": "Rue Charles de Gaulle - Grigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A46 Aire de Communay Sud (direction Lyon)",
+    "address": "A 46 - AIRE DE COMMUNAY SUD - COMMUNAY",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - 12 chemin d‚partemental - SEREZIN DU RHONE",
+    "address": "12 chemin d‚partemental - SEREZIN DU RHONE",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de Ternay - Sérézin-du-Rhône",
+    "address": "3 Rue de Ternay - Sérézin-du-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDER - Sérézin-du-Rhône - 23 Avenue du Dauphiné",
+    "address": "23 Avenue du Dauphiné - Sérézin-du-Rhône",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Tesla Superchargers V2 - Hotel IBIS Lyon Sud Chasse sur Rhône",
+    "address": "115 Rue Pasteur - Ternay",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "LastMileSolutions - Chasse-sur-Rhône - 73 Rue Pasteur",
+    "address": "73 Rue Pasteur - Chasse-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - A7 - Aire de Sérézin du Rhône (direction Lyon)",
+    "address": "5 Rue Pierre Devaux - Sérézin-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

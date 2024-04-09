@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Vinci - 9 Quai Émile Benoît - Nomeny",
+    "address": "9 Quai Émile Benoît - Nomeny",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Gare TGV de Louvigny",
+    "address": "Route Départementale 910 - Louvigny",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "STATIONS-E - Tête de Saint-Euchamp - Lesménils",
+    "address": "Tête de Saint-Euchamp - Lesménils",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Fastned - A31 Aire de Loisy (direction Metz)",
+    "address": "A31 - Loisy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Vinci - D910/D428 - Lesménils",
+    "address": "Route nationale - Lesménils",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre Porsche Lorraine - Lesménils",
+    "address": "57 rue du Chêne Brulé - Lesménils",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fastned - A31 Aire de L'Obrion (direction Nancy)",
+    "address": "Aire de L'Obrion A31 - Loisy",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue Bazelaire - LOUVIGNY",
+    "address": "Rue Bazelaire - LOUVIGNY",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Avenue Des États-Unis - Pont-à-Mousson",
+    "address": "Avenue Des États-Unis - Pont-à-Mousson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pont-à-Mousson, Port",
+    "address": "2 Allée De L'espace Saint-Martin - Pont-à-Mousson",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

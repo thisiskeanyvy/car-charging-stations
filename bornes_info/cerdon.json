@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Place de l'Eglise villemurlin",
+    "address": "1 Place de l'Église - Villemurlin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Modulo Energies - Argent-sur-Sauldre - Place du marché",
+    "address": "Place du Marché\r\n - Argent-sur-Sauldre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Brinon sur Sauldre - Mairie",
+    "address": "8 Route de Chaon - Brinon-sur-Sauldre",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Borneco - Route De Cerdon - Sully-sur-Loire",
+    "address": "3 Route De Cerdon - Sully-sur-Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Club Vert Sully",
+    "address": "103 bis Route d'orleans - Sully-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Last Mile Solutions - Saint-Père-sur-Loire - 4 Rue de Paris",
+    "address": "4 Rue De Paris - Saint-Père-sur-Loire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - EDF - CNPE de Dampierre en Burly - Parking Est",
+    "address": "6 N Rte Nationale - Dampierre-en-Burly",
+    "connectors": [
+      "x8",
+      "x55",
+      "x55"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia | FR*OTH - Dampierre-en-Burly - D953",
+    "address": "D953 - Dampierre-en-Burly",
+    "connectors": [
+      "x125",
+      "x125"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Saint-Père-sur-Loire",
+    "address": "76 bis Rue de Paris - Saint-Père-sur-Loire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bornes Solutions - D126B FOREST CAMP - Pierrefitte-sur-Sauldre",
+    "address": "914 Les Alicourts - Pierrefitte-sur-Sauldre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Place Du Marché - Farébersviller",
+    "address": "Place Du Marché - Farébersviller",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Entreprise JECA",
+    "address": "11 Rue Laplace - Behren-lès-Forbach",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ionity - Farébersviller",
+    "address": "Centrz commercial B'EST - Farébersviller",
+    "connectors": [
+      "x1",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Mairie - Rue de Nancy",
+    "address": "35 Rue de Nancy - Woustviller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Sarreguemines - 1 Allée Du Golf",
+    "address": "1 Allée Du Golf - Sarreguemines",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place du Marché - Puttelange-aux-Lacs",
+    "address": "2 Rue Jean Moulin - Puttelange-aux-Lacs",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - B'Est - Farébersviller",
+    "address": "D29 - Farébersviller",
+    "connectors": [
+      "x34",
+      "x31",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Farébersviller - CC B'Est",
+    "address": "61 Avenue Saint-Jean - Farébersviller",
+    "connectors": [
+      "x34"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Mairie de Kerbach",
+    "address": "10 Rue De Forbach - Kerbach",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Mairie de Behren-lès-Forbach",
+    "address": "91 Rue de la Liberté - Behren-lès-Forbach",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

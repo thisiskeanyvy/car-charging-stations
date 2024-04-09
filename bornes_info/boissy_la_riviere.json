@@ -1,0 +1,124 @@
+[
+  {
+    "title": "CFDT Chateau de Bierville",
+    "address": "6 Route des Nations - Boissy-la-Rivière",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mazda - ZEborne -  Route de Pithiviers - ETAMPES",
+    "address": "24 Rue du Sablon - Étampes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Étampes",
+    "address": "Avenue de Bonnevaux - Étampes",
+    "connectors": [
+      "x7",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Avenue de la République - Méréville",
+    "address": "7 Avenue de la République - Méréville",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place de L Hôtel de ville Méréville",
+    "address": "1 Place de L Hôtel de ville - Méréville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Place Gaston Beau - Étampes",
+    "address": "Place Gaston Beau - Étampes",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue du 8 Mai 1945 - Etampes",
+    "address": "48 Avenue du 8 Mai 1945 - Étampes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Norauto - Etampes",
+    "address": "12 Rue des Épinants - Étampes",
+    "connectors": [
+      "x3",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Garage Floret - Monnerville",
+    "address": "20 Route Nationale 20 - Monnerville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Saint-Hilaire - Rue de la Louette",
+    "address": "Rue de la Louette - Saint-Hilaire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

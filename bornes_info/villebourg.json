@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sieil - Villebourg",
+    "address": "Place de la mairie - Villebourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - A28 Aire de Sarthe-Touraine (double-sens)",
+    "address": "A28, Aire de Sarthe-Touraine - Dissay-sous-Courcillon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "SIEIL - Saint-Christophe-sur-le-Nais",
+    "address": "Place Jehan d'Alluye - Saint-Christophe-sur-le-Nais",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Épeigné-sur-Dême",
+    "address": "10 Rue Jean de Bueil - Épeigné-sur-Dême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - 4 Place du Mail - Neuvy le Roi",
+    "address": "4 Place du Mail - Neuvy-le-Roi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Château-du-Loir",
+    "address": "47 Rue Nationale - Château-du-Loir",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Bricomarché",
+    "address": "15 Montval sur Loir - Montval sur Loir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Mairie de Chemillé-sur-Deme",
+    "address": "16 Rue de L'Averne - Chemillé-sur-Deme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Borne SIEIL Parking Salle des Fêtes",
+    "address": "2 Rue de la Dindassière - Louestault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - La Chartre-sur-le-Loir - 21 Avenue des Déportés",
+    "address": "21 Avenue des Déportés - La Chartre-sur-le-Loir",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

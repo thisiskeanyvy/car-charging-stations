@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Parking Scanauto Verquin",
+    "address": "Zac du beau pré - Verquin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Rue Nationale - Nœux-les-Mines",
+    "address": "138 Rue nationale - Nœux-les-Mines",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass Electrique - Rue de Béthune - Ruitz",
+    "address": "Rue de Béthune - Ruitz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Verquin - Intermarché",
+    "address": "Zone d'Aménagement Concerté du Beau Pré - Verquin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Atlante - CCV - Bruay-la-Buissière",
+    "address": "Rue Jean Joseph Étienne Lenoir - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - Verquin",
+    "address": "D937 Zone d'aménagement concerté du Beau Pré - Verquin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DBT - Rue Eric Tabarly - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Pass Pass - Piscine de Barlin",
+    "address": "72 Rue de Versailles - Barlin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Shell Recharge - Brico Dépôt - D188 - Bruay-la-Buissière",
+    "address": "D188 - Bruay-la-Buissière",
+    "connectors": [
+      "x3",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

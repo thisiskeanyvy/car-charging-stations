@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEEG33 - Place Michelet - Saint-Symphorien",
+    "address": "2 Place Michelet - Saint-Symphorien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place de l'Estonnac - Landiras",
+    "address": "Place de l'Église - Landiras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEEG33 - Sauternes - Place de la Mairie",
+    "address": "Place de la Mairie - Sauternes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Guiraud (Tesla et autres)",
+    "address": "Château Guiraud - Sauternes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau Lafaurie-Peyraguey",
+    "address": "- Bommes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chateau d'Yquem",
+    "address": "4–8 Château Yquem - Sauternes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château Doisy-Daëne",
+    "address": "5 Arnauton - Barsac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - 15 Gravas - Barsac",
+    "address": "15 Gravas - Barsac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SCEA DOMAINE DE MONTEILS",
+    "address": "3 voie communale n°11 de Fargues - Preignac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ulog Langon",
+    "address": "19 Dargette - Langon",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

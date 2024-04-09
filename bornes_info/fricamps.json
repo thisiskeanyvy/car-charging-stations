@@ -1,0 +1,132 @@
+[
+  {
+    "title": "ENGIE Vianeo - A29 Aire de Croixrault",
+    "address": "0 ZA de la mine d'or - Croixrault",
+    "connectors": [
+      "x1",
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parc Eolien d'Eplessier Thieulloy",
+    "address": "D901 D901 - Croixrault",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Communauté de commune Somme Sud Ouest - Poix-de-Picardie",
+    "address": "16 bis Rte d'Aumale - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x5",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 Gare - Hameau Saint-Pierre - Poix-de-Picardie",
+    "address": "24 Hameau Saint-Pierre - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - Poix-de-Picardie",
+    "address": "2 Rue de Menesvillers - Poix-de-Picardie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE 80 - Place de la République - Poix-de-Picardie",
+    "address": "21 Place de la République - Poix-de-Picardie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDE80 - Médiathèqeu Communautaire de Quevauvillers",
+    "address": "15 Rue Sainneville - Quevauvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 - Molliens-Dreuil",
+    "address": "2 Place de l'Église - Molliens-Dreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDE80 - La Poste - Hornoy-le-Bourg",
+    "address": "9 Rue Charles Dufour - Hornoy-le-Bourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue d'Amiens - Lœuilly",
+    "address": "16 Rue d'Amiens - Lœuilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

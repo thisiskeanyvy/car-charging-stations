@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MObiVE SDEER17 - Rue du Comté d'Hastrel - Rivedoux-Plage",
+    "address": "39 Rue du Comté d'Hastrel - Rivedoux-Plage",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZA 194 rue Gros Peux Rivedoux-Plage",
+    "address": "ZA 194 rue Gros Peux - Rivedoux-Plage",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison des algues (Tesla and others)",
+    "address": "147 Rue des Algues - Rivedoux-Plage",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Relais Thalasso Hotel Atalante (Tesla and others)",
+    "address": "Rue Port Notre Dame - Sainte-Marie-de-Ré",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Relais du Silence Les Vignes de la Chapelle (Tesla)",
+    "address": "5 Rue de la Manne - Sainte-Marie-de-Ré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Sainte-Marie-de-Ré - Chemin des Sables (espace culturel des Paradis)",
+    "address": "Chemin des Sables - Sainte-Marie-de-Ré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Camping Les Peupliers",
+    "address": "Chemin des Pouzereaux - La Flotte",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel le Richelieu (Tesla and others)",
+    "address": "44 Avenue de la Plage - Rivedoux-Plage",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT SAS - Sainte-Marie-de-Ré - Rue des Tamaris",
+    "address": "37 Cours des Jarrières - Sainte-Marie-de-Ré",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - La Rochelle - 5 Rue De Madagascar",
+    "address": "5 Rue De Madagascar - La Rochelle",
+    "connectors": [
+      "x2",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

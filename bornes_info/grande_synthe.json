@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SAS PFMV",
+    "address": "155 Avenue de Petite-Synthe - Grande-Synthe",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Supercharger Tesla V4 - Grande-Synthe",
+    "address": "95 Rue Nationale - Grande-Synthe",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Rue de l'Ancienne Route Nationale - Grande-Synthe",
+    "address": "40 Rue de l'Ancienne Route Nationale 40 - Grande-Synthe",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Dunkerque | Rue du Lapin Blanc 68",
+    "address": "68 Rue du Lapin Blanc Ateim SA - Dunkerque",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RossiniEnergy - Avenue de la Gironde - Dunkerque",
+    "address": "65a Avenue De La Gironde - Dunkerque",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Saint-Pol - Dunkerque",
+    "address": "1 Allee Jules Massenet - Dunkerque",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Première Classe Dunkerque St Pol",
+    "address": "14-16 Rue Antoine Lavoisier Première Classe - Dunkerque",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Hotel Campanile Dunkerque Est",
+    "address": "1T Rue du Lac Hôtel Restaurant Campanile - Armbouts-Cappel",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GORON/FR*SEV*P1M2120",
+    "address": "240 Rue de l'Albeck - Dunkerque",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best Western Hôtel du Lac - Restaurant La Terrasse du Lac",
+    "address": "2 Rue du Lac - Armbouts-Cappel",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

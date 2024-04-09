@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDEER (MobiVE) - Coux - Avenue de la République",
+    "address": "Avenue de la République - Coux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Avenue de la République - Montendre",
+    "address": "9 Avenue de la République - Montendre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - ZEborneMS - boulevard de saintonge - montendre",
+    "address": "6043 Boulevard de Saintonge - Montendre",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mysteria park",
+    "address": "29 Avenue de Onda - Montendre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Chevanceaux - Avenue de Paris",
+    "address": "Avenue de Paris - Chevanceaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "See You Sun - Le Terrier - Léoville",
+    "address": "Le Terrier - Léoville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Montlieu-la-Garde - Maison de la Forêt / RN10",
+    "address": "D730 - Montlieu-la-Garde",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEG16 - Rampe Saint-Nicolas - Baignes-Sainte-Radegonde",
+    "address": "Rampe Saint-Nicolas - Baignes-Sainte-Radegonde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Lieu-dit \"La Motte\" - Orignolles",
+    "address": "Lieu-dit \"La Motte\" - Orignolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IONITY - N10 Aire de Bedenac Ouest",
+    "address": "N10, Aire de Service de Bedenac Ouest - Bedenac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

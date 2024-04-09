@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Domaine La Garelle",
+    "address": "4803 Route de Menerbes - Ménerbes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DOMAINE LA GARELLE - Vins du Luberon",
+    "address": "4803 Route de Menerbes - Oppède",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Goult - RD900",
+    "address": "106 Jean Bernard - Goult",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Domaine Les Roullets",
+    "address": "305A chemin de Fontdrèche - Oppède",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DEMEURE D HOTES LA BADELLE",
+    "address": "984 Route de la BADELLE - Gordes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint - Super U - Maubec",
+    "address": "127 Avenue du Tourail - Maubec",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SAS LG Services Electricité - Cabrières-d'Avignon (Privé)",
+    "address": "1643 Route de Coustellet - Cabrières-d'Avignon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Maubec - Parking Rue du Grenache",
+    "address": "178 Rue du Grenache - Maubec",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel Le Jas de Gordes",
+    "address": "Route des Moines - Gordes",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vauclus'Elec (SEV84) - Chemin des Ecoliers - CABRIERES-D'AVIGNON",
+    "address": "159 Chemin Des Ecoliers - Cabrières-d'Avignon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

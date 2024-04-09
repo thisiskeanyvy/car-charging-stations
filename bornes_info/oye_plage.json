@@ -1,0 +1,128 @@
+[
+  {
+    "title": "WAAT - Oye-Plage - 300 Rue des Petits Moulins",
+    "address": "300 Rue des Petits Moulins - Oye-Plage",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Grand-Fort-Philippe",
+    "address": "12 Avenue Pierre Pleuvret - Grand-Fort-Philippe",
+    "connectors": [
+      "x4",
+      "x4",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aire Covoiturage - Vieille-Église",
+    "address": "800 Rue du Pont d'Oye - Vieille-Église",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GRAVELINES PORT DE PLAISANCE",
+    "address": "1 Quai Ouest - Gravelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking privé - Avenue de la Plage",
+    "address": "75 Avenue de la Plage - Marck",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - Marck - Camping de la Plage",
+    "address": "225 Avenue de la Plage - Marck",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Boulevard Léo Lagrange - Gravelines",
+    "address": "6 Boulevard Léo Lagrange - Gravelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint network - 6 Boulevard Salomé - Gravelines",
+    "address": "6 Boulevard Salomé - Gravelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LastMileSolutions - 19 Rue des Islandais - Gravelines",
+    "address": "19 Rue des Islandais - Gravelines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indelec - Musée Citadelle - Gravelines",
+    "address": "Rue Demarle-Fétel - Gravelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

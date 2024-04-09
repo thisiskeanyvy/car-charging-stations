@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Izivia - Villebois-Lavalette - Route de Sigalauds",
+    "address": "Route de Sigalauds - Villebois-Lavalette",
+    "connectors": [
+      "x4",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEG16 - 58 Grand Rue - Villebois-Lavalette",
+    "address": "58 Grand Rue - Villebois-Lavalette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEG16 - 9 Rue de la Clef d'Or - Dignac",
+    "address": "9 Rue de la Clef d'Or - Dignac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE24 - Route De Riberac - La Rochebeaucourt-et-Argentine",
+    "address": "64-68 Rue de Ribérac - La Rochebeaucourt-et-Argentine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Aire de co-voitureage - Rue de Bellevue",
+    "address": "1081 Rue de Bellevue - Garat",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 - Place de la Felibree Mareuil",
+    "address": "2 Place de la Felibree - Mareuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEG16 - Rue de Torsac - Vœuil-et-Giget",
+    "address": "Rue de Torsac - Vœuil-et-Giget",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le Clos saint Georges",
+    "address": "102 Rue bel air - Magnac sur Touvre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Champ de foire - Mouthiers-sur-Boëme",
+    "address": "Place du Champ de Foire - Mouthiers-sur-Boëme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Carrefour - Avenue du Général de Gaulle - Soyaux",
+    "address": "280 Avenue du Général de Gaulle - Soyaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

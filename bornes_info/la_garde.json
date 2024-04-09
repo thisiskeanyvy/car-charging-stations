@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Gérard Philipe - La Garde",
+    "address": "194 Avenue Charles Sandro - La Garde",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - La Poste Avenue Jean Jaurès - La Garde",
+    "address": "Parking de la Poste Avenue Jean Jaurès - La Garde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SymielecVar - Avenue Jean Jaurès - La Garde",
+    "address": "Avenue Jean Jaurès - La Garde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "eBorn - Parking des Bleuets Avenue Jules Ferry - La Garde",
+    "address": "Parking des Bleuets Avenue Jules Ferry - La Garde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E-Totem - La Garde - Intermarché Contact",
+    "address": "470 Avenue Jacques Duclos Quartier Romain Rolland - La Garde",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Parking Ecoquartier Entrevert - La Valette-du-Var",
+    "address": "111 Impasse Héra - La Valette-du-Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Basic Fit - La Valette-du-Var",
+    "address": "115 Avenue De l'Université - La Valette-du-Var",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Parking Collège Bosco Chemin du Buchet - La Valette-du-Var",
+    "address": "Avenue Germain Nouveau - La Valette-du-Var",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Darty - La Valette du Var",
+    "address": "23 avenue des Frères Lumiere - LA VALETTE DU VAR",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Nord - Université Toulon Var",
+    "address": "Campus de la Garde - La Garde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

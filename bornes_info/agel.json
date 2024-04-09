@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Belib - 19 Rue Dalayrac - Paris",
+    "address": "19 Rue Dalayrac - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Clem' - Paris 06 - Palais Brongniart",
+    "address": "10 rue du Quatre Septembre - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zipcar - Rue des pyramides",
+    "address": "16 Rue des Pyramides - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saemes (Souterrain) - Sainte Eustache",
+    "address": "44 Rue Coquillière - Paris",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belib - 52 rue Étienne Marcel 75002 Paris",
+    "address": "52 Rue Étienne Marcel - Paris",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking Saemes - Rue des Pyramides",
+    "address": "15 Rue des Pyramides - Paris",
+    "connectors": [
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Belib - 12-19 Rue des Pyramides - Paris",
+    "address": "12-19 Rue des Pyramides - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Uneeqo - 26 Rue du Quatre Septembre Paris",
+    "address": "26 rue du Quatre Septembre - Paris",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ubeeqo - 31 rue du Louvre Paris",
+    "address": "31 rue du Louvre - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Clem' - Paris 01 - Bourse de Commerce",
+    "address": "7 rue du Colonel Driant - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

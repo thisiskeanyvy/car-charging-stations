@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SIEML - La Tessoualle - Place De La Poste",
+    "address": "Place de la Poste - La Tessoualle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVBox - La Tessouale - 17 Rue Montevi",
+    "address": "17 Rue Montevi null - La Tessouale",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Centre Commercial Village - Cholet",
+    "address": "4 Rue Roger Hostein - Cholet",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Cholet - Leclerc",
+    "address": "1 Av. du Maréchal Koenig, 49300 Cholet, Fran - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - Hôtel Campanile Cholet",
+    "address": "Square de la Nouvelle France Campanile Cholet - Cholet",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Cholet",
+    "address": "1 Boulevard des Sorinières - Cholet",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Volvo - Cholet",
+    "address": "ZA du Cormier, 3 Bd Jean Rouyer, - Cholet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "DRIVECO - Hyundai - Cholet",
+    "address": "13 Rue Gustave Fouillaron - Cholet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Lav'Car - Cholet",
+    "address": "Rue Charles Tellier - Cholet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - CHOLET - Avenue de la Marne",
+    "address": "Avenue de la Marne - Cholet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

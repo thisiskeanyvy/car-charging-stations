@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Larecharge - Ecole La Destrousse Avenue du Mistral",
+    "address": "117 Lotissement le Panorama - La Destrousse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - La Destrousse - Société Générale",
+    "address": "Souque Nègre - La Destrousse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Intermarché - La Destrousse",
+    "address": "15 Avenue Souque Negre - La Destrousse",
+    "connectors": [
+      "x4",
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "larecharge - La Bouilladisse - Avenue de la Gare - Parking Boulodrome",
+    "address": "Avenue de la Gare - Parking Boulodrome - La Bouilladisse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "larecharge - Place Raymond Plumier - Auriol",
+    "address": "Place Raymond Plumier - Auriol",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "larecharge - Peypin - Avenue de Valdonne",
+    "address": "Avenue de Valdonne - Peypin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "larecharge - 23 Allée Alfred Rinn - Roquevaire",
+    "address": "23 Allée Alfred Rinn - Roquevaire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A52 Aire de Baume de Marron (direction Aix-en-Provence)",
+    "address": "A52, Aire de Baume de Marron - Peypin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ENGIE Vianeo - A52 Aire de Peypin (direction Auriol)",
+    "address": "A52, Aire de Peypin - Peypin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Château laroque forcade - Peypin",
+    "address": "Domaine la Doria - Peypin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

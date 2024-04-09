@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Freshmile - E.Leclerc - Biars-sur-Cère",
+    "address": "64 Avenue de la République - Biars-sur-Cère",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - D940 ZI - Gagnac-sur-Cère",
+    "address": "Zoning Industriel - Gagnac-sur-Cère",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - La Raufie (visiteurs R&D) - Altillac",
+    "address": "La Raufie - Altillac",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL - Prudhomat",
+    "address": "193 D43 - Prudhomat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Avenue des Généraux Marbot - Altillac",
+    "address": "39 Avenue des Généraux Marbot - Altillac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - 11 Place du Champ de Mars - Beaulieu-sur-Dordogne",
+    "address": "11 Place du Champ de Mars - Beaulieu-sur-Dordogne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Saint-Laurent-les-Tours",
+    "address": "1125 Avenue Charles de Gaulle - Saint-Laurent-les-Tours",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEL (Révéo) - D118 - Loubressac",
+    "address": "du Barry - Loubressac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 284 Avenue Robert Destic - Saint-Céré",
+    "address": "284 Avenue Robert Destic - Saint-Céré",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "FDEL - Place de la République - Saint-Céré",
+    "address": "2 Place de la République - Saint-Céré",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

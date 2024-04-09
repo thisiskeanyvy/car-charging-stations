@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Syane - Grande Rue - Saint-Julien-en-Genevois",
+    "address": "20 Grand Rue - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syane - Place du général de Gaulle, Saint-Julien-en-Genevois",
+    "address": "7 Place du Général de Gaulle - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint-Julien-en-Genevois",
+    "address": "24 Rue De l'Industrie - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-totem - GS Nelson Mandela",
+    "address": "60 Rue Nelson Mandela - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bio frais - Saint-Julien-en-Genevois",
+    "address": "6 Route de Lathoy - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Entrepot du bricolage",
+    "address": "4 Rue Hector Berlioz - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bricomarché - Saint julien en genevois",
+    "address": "Route des vignes - Saint julien en genevois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - D 1201 - Saint-Julien-en-Genevois",
+    "address": "D 1201 - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V3 - Saint-Julien-en-Genevois",
+    "address": "9000 Route d'Annecy - Saint-Julien-en-Genevois",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Green Motion SA - 20 Chemin de la Mairie - Perly",
+    "address": "20 Chemin de la Mairie - Perly",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 1"
+    ],
+    "reputation": 0
+  }
+]

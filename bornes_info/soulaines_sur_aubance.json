@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SIEML - Soulaines Sur Aubance - Parking Salle Cortequisse",
+    "address": "Rue de l'Aubance - Soulaines-sur-Aubance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Mairie de St Melaine Sur Aubance",
+    "address": "Rue Armand Brousse - Saint-Melaine-sur-Aubance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEML - MOZE SUR LOUET - Place De L'Eglise",
+    "address": "Place de l'Eglise - Mozé-sur-Louet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1 Zone Artisanale du Bocage ccdulayon",
+    "address": "1 Zone Artisanale du Bocage - Mozé-sur-Louet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Mûrs-Erigné",
+    "address": "Mail du Grand Clos - Mûrs-Erigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Mail de Grand Clos - Mûrs-Erigné",
+    "address": "Mail de Grand Clos - Mûrs-Erigné",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia Express - Super U - Mûrs-Erigné",
+    "address": "Rue Valentin des Ormeaux - Mûrs-Erigné",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Hyper U - Mûrs-Erigné",
+    "address": "Rue Valentin des Ormeaux - Mûrs-Erigné",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Aire Co Treillebois Route de Poitiers - Saint-Melaine-sur-Aubance",
+    "address": "30 Route de Poitiers - Saint-Melaine-sur-Aubance",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEML - Vauchretien - Parking Eglise",
+    "address": "D127 - Vauchrétien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

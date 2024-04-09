@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Freshmile - Les Hameaux de Lozère - Route de Chaudes Aigues - Fournels",
+    "address": "Route de Chaudes Aigues - Fournels",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Saint-Chély-d'Apcher",
+    "address": "13 Rue du Pontet - Saint-Chély-d'Apcher",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEE48 - Place du Foirail Saint-Chély-d'Apcher",
+    "address": "27 Place du Foirail - Saint-Chély-d'Apcher",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E55C - A75 Aire de la Lozère (Double sens)",
+    "address": "A75 La Méridienne - Albaret-Sainte-Marie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "IONITY - A75 - Aire de la Garde (Double sens)",
+    "address": "Aire de la Lozère - La Méridienne - Albaret-Sainte-Marie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2/V3 - A75 Aire de la garde",
+    "address": "150 D809 - Albaret-Sainte-Marie",
+    "connectors": [
+      "x8",
+      "x8",
+      "x12"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEE48 - Place Du Foirail - Aumont-Aubrac",
+    "address": "2 Place du Foirail - Peyre en Aubrac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - parking chemin La Prugne D12 - Brion",
+    "address": "La Prugne - Brion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Logis Hôtel Chez Camillou (pour Tesla and others)",
+    "address": "8 Route Du Languedoc - Javols",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Peyre en Aubrac - Logis Hotel chez Camillou",
+    "address": "10 Route du Languedoc - Peyre en Aubrac",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

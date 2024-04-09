@@ -1,0 +1,138 @@
+[
+  {
+    "title": "e-born - Mairie les deux alpes",
+    "address": "48 Avenue de la Muzelle - Les Deux Alpes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps - 76 Avenue de la Muzelle - Les Deux Alpes",
+    "address": "76 Avenue de la Muzelle - Les Deux Alpes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Sherpa - Avenue De La Muzelle",
+    "address": "80 Avenue De La Muzelle - Vénosc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place des Deux Alpes - Mont-de-Lans",
+    "address": "4 Place des Deux Alpes - Mont-de-Lans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Madame Ibiza",
+    "address": "18 Rue du Cairou - Vénosc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Télécabine de Vénosc",
+    "address": "354 D530 - Les Deux Alpes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place des Orgières - Auris",
+    "address": "16 Place des Orgières - Auris",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue Des Colporteurs - Bourg d'Oisans",
+    "address": "50 Rue Des Colporteurs - Le Bourg-d'Oisans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SPBR1 - Rue Capitaine Meunier - Le Bourg-d'Oisans",
+    "address": "Rue Capitaine Meunier - Le Bourg-d'Oisans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel de Milan - Rue du Général de Gaulle - Le Bourg-d'Oisans",
+    "address": "54 Rue du Général de Gaulle - Le Bourg-d'Oisans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

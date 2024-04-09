@@ -1,0 +1,130 @@
+[
+  {
+    "title": "MobiSDEC - Rue Victor Tesnière",
+    "address": "399-405 Rue Victor Tesnière - Bernières-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobiSDEC - Rue Montauban - Bernières-sur-Mer",
+    "address": "Rue Montauban - Bernières-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Rue de Verdun - Saint-Aubin-sur-Mer",
+    "address": "18 Rue de Verdun - Saint-Aubin-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Courseulles sur Mer (Place du 6 juin)",
+    "address": "1 Place du Six Juin - Courseulles-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MobiSDEC - Place de la Gare - St.-Aubin-sur-Mer",
+    "address": "354\r\n Place de la Gare\r\n - St.-Aubin-sur-Mer",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Chambres d'hôtes Château François d'O",
+    "address": "2 Avenue du Château - Courseulles-sur-Mer",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sevdec - Rue de la Marine - Courseulles-sur-Mer",
+    "address": "3 Rue de la Marine - Courseulles-sur-Mer",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Rue du Major Général James Moulton - Saint-Aubin-sur-Mer",
+    "address": "17 Rue du Major Général James Moulton - Saint-Aubin-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Voie des Français Libres - Courseulles-sur-Mer",
+    "address": "2 voie des français libre - Courseulles-sur-Mer",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Courseulles-sur-Mer",
+    "address": "3 Route de Reviers - Courseulles-sur-Mer",
+    "connectors": [
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

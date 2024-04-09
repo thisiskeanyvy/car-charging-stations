@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE82 - Avenue André Vidalot Dunes",
+    "address": "Avenue André Vidalot - Dunes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MObiVE - Gimbrede - Caudecoste",
+    "address": "Route de Gimbrede - Caudecoste",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Donzac",
+    "address": "1733 Avenue du Brulhois - Donzac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue du Bourrelier Lamagistère HORS-SERVICE",
+    "address": "2 Rue du Bourrelier - Lamagistère",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Route du Château d'Eau - Fals",
+    "address": "305 Route du Château d'Eau - Fals",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Avenue du Midi - Golfech",
+    "address": "5 Rue des Templiers - Golfech",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE32 - Place du Foirail - Miradoux",
+    "address": "11 Place du Foirail - Miradoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEE47 (MObiVE) - Place André Routier Astaffort",
+    "address": "30 Place André Routier - Astaffort",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RTM",
+    "address": "48 Avenue des Pyrénées - Layrac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 (MObiVE) - Rue du 19 Mars 1962 - Layrac",
+    "address": "Rue du 19 Mars 1962 - Layrac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

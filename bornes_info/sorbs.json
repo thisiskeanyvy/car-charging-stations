@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Tesla Supercharger V2 - Caylar",
+    "address": "Aire du Caylar - Le Caylar",
+    "connectors": [
+      "x8",
+      "x8",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Inconnu",
+      "Inconnu"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A75 Aire du Caylar (double sens)",
+    "address": "A75 - Le Caylar",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMEG30 - Route de Vissec Alzon",
+    "address": "Route de Vissec - Alzon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 - D713 - Blandas",
+    "address": "D713 - Blandas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - route de Ganges D25",
+    "address": "D25 - Saint-Maurice-Navacelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - D341 Route de Trève - Saint-Jean-du-Bruel",
+    "address": "D341, Route de Trèves - Saint-Jean-du-Bruel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - Allée Chaude, 5 - Nant",
+    "address": "5 Allée Chaude - Nant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - parking plaine de Cavaillac D999 - Molières-Cavaillac",
+    "address": "Plaine de Cavaillac - Molières-Cavaillac",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Quartier tuber (Privé)",
+    "address": "Quartier tuber - Avèze",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "REVEO Cornus - La Parro",
+    "address": "Rue Du Cimetière - Cornus",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

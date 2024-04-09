@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Z.I. 1 - Rixheim",
+    "address": "5 Rue de habsheim - Rixheim",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "garage Peugeot",
+    "address": "31 bis Rue de Mulhouse - Rixheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Riedisheim",
+    "address": "10 Rue du Général de Gaulle - Riedisheim",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Super U Riedisheim",
+    "address": "6 Rue du Stade - Riedisheim",
+    "connectors": [
+      "x1",
+      "x2",
+      "x5",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Stellantis Mulhouse - locaux syndicaux",
+    "address": "- sausheim",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Relais Île Napoléon - Illzach",
+    "address": "77 Avenue de Fribourg - Illzach",
+    "connectors": [
+      "x2",
+      "x7",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CGE Distribution - Illzach",
+    "address": "Rue de Berne - Illzach",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Illzach",
+    "address": "Rue des 3 Frontières - Illzach",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - Rue de Berne - Illzach",
+    "address": "7 Rue De Berne - Illzach",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Illzach",
+    "address": "14 Rue de Berne - Illzach",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

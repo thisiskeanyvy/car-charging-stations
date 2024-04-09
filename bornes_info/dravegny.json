@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Rossini Energy - 4 Rue Haute - Brouillet",
+    "address": "4 Rue Haute - Brouillet",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Champagne ASPASIE",
+    "address": "4 Grande Rue - Brouillet",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Fismes - Bricomarché",
+    "address": "Route de Soissons - Fismes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Fismes",
+    "address": "54 Route De Soissons - Fismes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "SIEM 51 - Rue du Docteur Genillon - Fismes",
+    "address": "Rue Docteur Genillon - Fismes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "pillaud materiau",
+    "address": "1 zac saponay - Saponay",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Champagne Rogge Cereser",
+    "address": "1 Impasse de Bergeries - Passy-Grigny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Rue Saint-Laurent - Ville-en-Tardenois",
+    "address": "4 Rue Saint-Laurent - Ville-en-Tardenois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Courcelles",
+    "address": "6 Rue du Château - Courcelles-sur-Vesle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Total Energies - A4 Aire De Tardenois Nord (Direction Paris)",
+    "address": "0 Autoroute de l'Est - Fresnes-en-Tardenois",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Révéo - Mairie d'Aubais",
+    "address": "Avenue Emile Léonard - Aubais",
+    "connectors": [
+      "x2",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "810 Chemin de Cardione",
+    "address": "810 Chemin de Cardione - Aubais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Cent Noyers",
+    "address": "De la cave - Congénies",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMEG30 - parking du Cimetière",
+    "address": "2 Impasse De La Planette - Gallargues-le-Montueux",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping du Domaine de Massereau (Tesla and others)",
+    "address": "1990 Route d'Aubais - Sommières",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FASTNED - A9 - Aire d'Ambrussum Nord (direction Montpellier)",
+    "address": "A9 Aire d'Ambrussum Nord - Villetelle",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Camping du domaine de massereau",
+    "address": "1990 Route d'aubais - Sommiere",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMEG30 (RÉVÉO) - Avenue du Puits Vieux - Mus",
+    "address": "Avenue du Puits Vieux - Mus",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A9 Aire Ambrussum Sud (direction Nîmes)",
+    "address": "830 Route de Villetelle - Villetelle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Intermarché Aujargues",
+    "address": "1370 Chemin Des Prairies - Aujargues",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

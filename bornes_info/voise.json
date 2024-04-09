@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE28 - Rue Pinceloup Béville-le-Comte",
+    "address": "1 Rue Pinceloup - Béville-le-Comte",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Ouarville",
+    "address": "Rue de la République - Ouarville",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gymnase - Auneau-Bleury-Saint-Symphorien",
+    "address": "57 Rue des Floralies - Auneau-Bleury-Saint-Symphorien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Boisville",
+    "address": "Rue de la République - Boisville-la-Saint-Père",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE28 - Sours - Rue du Docteur Bouclet",
+    "address": "1 Rue Du Docteur Bouclet - Sours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Du Marche- Auneau",
+    "address": "2 Place Du Marche - Auneau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Auneau (rue Pasteur) DOUBLON",
+    "address": "26 bis Rue Pasteur - Auneau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A11 - Aire de Chartres-Bois Paris (direction Paris)",
+    "address": "A11 - Gasville-Oisème",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ionity Charging Station DOUBLON",
+    "address": "L'Océane - Gasville-Oisème",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A11 - Aire de Chartres-Gasville (direction Chartres)",
+    "address": "A11 - Gasville-Oisème",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

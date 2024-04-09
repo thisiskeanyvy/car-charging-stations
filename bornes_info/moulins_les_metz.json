@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Lidl - Route de Paris - Sainte-Ruffine",
+    "address": "380B Route de Paris - Sainte-Ruffine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue De Crimée - Scy-Chazelles",
+    "address": "Rue De Crimée - Scy-Chazelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Carrefour - Scy-Chazelles",
+    "address": "63 Voie de la Liberté - Scy-Chazelles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Mairie de Scy-Chazelles",
+    "address": "1 Rue de l'Esplanade - Scy-Chazelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Du Saint-Quentin - Scy-Chazelles",
+    "address": "Rue Du Saint-Quentin - Scy-Chazelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Scy-Chazelles, rue de la Passerine",
+    "address": "Rue De La Passerine - Scy-Chazelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Cora - Moulins-lès-Metz",
+    "address": "Route de Jouy - Moulins-lès-Metz",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Chemin de la Pie Grièche",
+    "address": "Chemin de la Pie Grièche - Moulins-lès-Metz",
+    "connectors": [
+      "x7",
+      "x2",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2",
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - METZ-AUGNY - Zone Actisud Augny (Sortie 30)",
+    "address": "900 Rue Des Gravières - Augny",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto - Metz Augny",
+    "address": "Rue des Gravières - Augny",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

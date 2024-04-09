@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Rue du Presbytère - Axat",
+    "address": "Rue du Presbytère - Axat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Gare d'Axat",
+    "address": "Rue du 19 Mars 1962 - Axat",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syaden - Parking du Chateau - Puilaurens",
+    "address": "parking du chateau - Puilaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo - Puilaurens (Avenue du Languedoc)",
+    "address": "Avenue du Languedoc - Puilaurens",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syaden - Quillan",
+    "address": "1 Avenue Michel Bousquie - Quillan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden (Révéo) - Place de la Gare - Quillan",
+    "address": "45 Boulevard Charles de Gaulle - Quillan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Camping municipal La Sapinette",
+    "address": "21 Avenue René Delpech - Quillan",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Chambre d'hôtes - Le Chalet des Trois Quilles",
+    "address": "38 bis route de Foix - Quillan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lac de Quillan",
+    "address": "300 de laval - Quillan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RMEE Borne triple est - Avenue François Mitterrand (Privé)",
+    "address": "Avenue François Mitterrand - Quillan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

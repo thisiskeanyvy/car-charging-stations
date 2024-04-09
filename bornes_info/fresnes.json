@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sigeif - Place Pierre et Marie Curie - Fresnes",
+    "address": "10 Place Pierre et Marie Curie - Fresnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Gymnase Frédéric Mistral",
+    "address": "3 Rue Frédéric Mistral - Fresnes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 66 avenue Emile Zola - Fresnes",
+    "address": "66 Rue Emile Zola - Fresnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Parc commercial La Cerisaie (parking -1) - Rue de la Loge - Fresnes",
+    "address": "Parc commercial - Rue de la Loge - Fresnes",
+    "connectors": [
+      "x9",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Fresnes",
+    "address": "4 Avenue de Stalingrad - Fresnes",
+    "connectors": [
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 42 Avenue de la Paix - Fresnes",
+    "address": "42 Avenue de la paix - Fresnes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cémafroid",
+    "address": "13 Avenue Des Prés - Fresnes",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Fresnes - Euro Hôtel Orly Rungis",
+    "address": "63 avenue du Parc de Médicis - Fresnes",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 19 Avenue du Général de Gaulle - Antony",
+    "address": "19 Avenue du Général de Gaulle - Antony",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "129 Avenue Flouquet",
+    "address": "129 Avenue Flouquet - L'Haÿ-les-Roses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  }
+]

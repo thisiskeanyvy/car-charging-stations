@@ -1,0 +1,124 @@
+[
+  {
+    "title": "FR*LDL - Andilly - Rue des 4 Quartiers",
+    "address": "Rue des 4 Quartiers - Andilly",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Andilly",
+    "address": "Rue des 4 Quartiers - Andilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Lidl - Andilly",
+    "address": "Rue Des Quatre Quartiers - Andilly",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Marché Couvert - Dompierre-sur-Mer",
+    "address": "5 Rue du Centre - Dompierre-sur-Mer",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "A L'OMBRE DU FIGUIER",
+    "address": "43 Rue du Marais - Longèves",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de la Péraudière",
+    "address": "1 Impasse de la Peraudiere - Dompierre-sur-Mer",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Charron - Rue du Château (zone commerciale des Morines)",
+    "address": "Rue du Château - Charron",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Golf de la prée (Tesla et autres)",
+    "address": "D106 - Nieul-sur-Mer",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Puilboreau - 32 Rue de la Belle Étoile",
+    "address": "32 Rue de la Belle Étoile - Puilboreau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Puilboreau - Espace Michel Crépeau / Médiathèque",
+    "address": "Place Jean Filippi - Puilboreau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

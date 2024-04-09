@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - Leclerc - Vandœuvre-lès-Nancy",
+    "address": "2 Rue Bernard Palissy - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Castorama - Vandœuvre-lès-Nancy",
+    "address": "49 Rue Bernard Palissy - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x25"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Métropole du Grand Nancy - Piscine - Vandœuvre-lès-Nancy",
+    "address": "12 Rue de Norvège - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Vandœuvre-lès-Nancy - Léon",
+    "address": "7 Rue d'Albertville - Heillecourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mc Donald's - Vandœuvre",
+    "address": "1 Rue de Vandoeuvre - Heillecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Rue Louis Guingot - Vandœuvre-lès-Nancy",
+    "address": "1 Rue Louis Guingot - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*QPK - Vandœuvre-lès-Nancy - Rue du Bourbonnais",
+    "address": "Rue du Bourbonnais - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ruelle Mathieu de Dombasle - Vandœuvre-lès-Nancy",
+    "address": "2d Ruelle Mathieu de Dombasle - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole du Grand Nancy - Gare de Houdemont",
+    "address": "38 Rue de la Gare - Houdemont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "1 Rue du Morvan - Vandœuvre-lès-Nancy (Privé)",
+    "address": "1 Rue du Morvan - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

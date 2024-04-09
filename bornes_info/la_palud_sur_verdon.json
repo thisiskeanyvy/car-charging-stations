@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE04 - Le Vignaou - La Palud-sur-Verdon",
+    "address": "45 Route de Castellane - La Palud-sur-Verdon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel & Spa des Gorges du Verdon",
+    "address": "D23 - La Palud-sur-Verdon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lumi'in - Route de Moustiers - Rougon",
+    "address": "Route de Moustiers - Rougon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place de la Mairie - Aiguines",
+    "address": "Place de la Mairie - Aiguines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Trigance - Parking municipal",
+    "address": "D90 - Trigance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping gorges du Verdon",
+    "address": "Clos d'Arenus - Chasteuil - Castellane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine du petit lac",
+    "address": "D957 - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Born - Place Gleb Sivirine - Les Salles-sur-Verdon",
+    "address": "5 Place des Iscles - Les Salles-sur-Verdon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE04 - Parking Les Magnans - Moustiers-Sainte-Marie",
+    "address": "4200 Avenue de Lérins - Moustiers-Sainte-Marie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking rue du seigneur Berthet",
+    "address": "Rue du seigneur berthet de la clue - Moustiers sainte marie",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

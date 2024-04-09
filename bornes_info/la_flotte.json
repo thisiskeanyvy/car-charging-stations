@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SunXLium - 17 Rue Grand'maison - La Flotte",
+    "address": "17 Rue Grand'maison - La Flotte",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Intermarché - La Flotte",
+    "address": "7 Rue Des Caillotières - La Flotte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - La Flotte-en-Ré - Rue Jean Moulin (parking de la base nautique)",
+    "address": "Rue Jean Moulin - La Flotte",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel le Richelieu (Tesla and others)",
+    "address": "44 Avenue de la Plage - Rivedoux-Plage",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping Les Peupliers",
+    "address": "Chemin des Pouzereaux - La Flotte",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta Eve Double Stock",
+    "address": "Avenue Philippsburg - Saint-Martin-de-Ré",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Saint-Martin-de-Ré",
+    "address": "19 Rue des Salières - Saint-Martin-de-Ré",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Intermarche - Avenue des Corsaires - Saint-Martin-de-Ré",
+    "address": "4 Avenue des Corsaires - Saint-Martin-de-Ré",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Martin-de-Ré",
+    "address": "32-34 Avenue Général de Gaulle - Saint-Martin-de-Ré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6620005",
+    "address": "12 Route de la Flotte - Saint-Martin-de-Ré",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

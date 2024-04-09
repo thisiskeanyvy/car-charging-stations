@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Shell Recharge - 3 Boulevard de la Libération - Marignane",
+    "address": "3 Boulevard de la Libération - Marignane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Jean Mermoz - MARIGNANE",
+    "address": "Avenue Jean Mermoz - MARIGNANE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Métropole Aix-Marseille Provence - Place Alderic Chave - Marignane",
+    "address": "Place Alderic Chave - Marignane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Métropole Aix-Marseille Provence - Boulevard de la Libération - Marignane",
+    "address": "Boulevard de la Libération - Marignane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking du parc Camoin",
+    "address": "2-3 Rue Antoine de Saint-Exupéry - Marignane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Marignane - Rue Lamartine 38",
+    "address": "Rue Lamartine 38 - Marignane",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Marignane",
+    "address": "Chemin de Saint Pierre, Av. du 8 mai 1945 - Marignane",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Saint-Victoret",
+    "address": "8 avenue du mai 1945 - Saint Victoret",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue du Maréchal Juin - Saint-Victoret",
+    "address": "201 Avenue du Maréchal Juin - Saint-Victoret",
+    "connectors": [
+      "x9",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "DRIVECO - VOLKSWAGEN Utilitaires - Saint-Victoret",
+    "address": "8 Av. du 8 Mai 1945 - Saint-Victoret",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

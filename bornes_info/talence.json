@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Cours de la Libération - Talence",
+    "address": "281 Cours de la Libération - Talence",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Mairie - Talence",
+    "address": "15 Rue du Professeur Arnozan - Talence",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Relais Tramway Parc Relais Arts et Métiers",
+    "address": "0 Impasse des Pyrénées - Talence",
+    "connectors": [
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Avenue Roul",
+    "address": "42 Avenue Roul - Talence",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Arts et Métiers - Talence",
+    "address": "8 Avenue de l'Université - Talence",
+    "connectors": [
+      "x1",
+      "x5",
+      "x4"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Chemin Pomerol",
+    "address": "Chemin Pomerol - Bordeaux",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Talence - Place Aristide Briand",
+    "address": "Place Aristide Briand - Talence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electra - Talence - Intermarché",
+    "address": "235 route de Toulouse - Talence",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Boulevard George V - Bordeaux",
+    "address": "120 Boulevard George V - Bordeaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Dacia - Villenave-d'Ornon",
+    "address": "309 Route de Toulouse - Villenave-d'Ornon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

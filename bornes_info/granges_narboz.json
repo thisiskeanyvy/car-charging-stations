@@ -1,0 +1,128 @@
+[
+  {
+    "title": "DRIVECO - Hôtel Kyriad Pontarlier",
+    "address": "8 Rue Jean Petite, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - 12 rue Mervil - PONTARLIER NEXISTE PAS",
+    "address": "12 rue Mervil - PONTARLIER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Pontarlier",
+    "address": "2 Rue Eugène Thévenin, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDED - Salle des fêtes - Oye-et-Pallet",
+    "address": "7 Rue des Écoles - Oye-et-Pallet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hyundai - Rue Eugène Thévenin",
+    "address": "22 Rue Eugène Thévenin - Pontarlier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile Services SAS - 12 Rue Donnet Zedel - Pontarlier",
+    "address": "12 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Pontarlier",
+    "address": "8 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ALDI - Pontarlier",
+    "address": "29 Rocade Georges Pompidou - Pontarlier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDED - Cinéma - Rue Louis Pergaud - Pontarlier",
+    "address": "2 Rue Louis Pergaud - Pontarlier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "l'eau vive",
+    "address": "2 Place de l'Europe - Pontarlier",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  }
+]

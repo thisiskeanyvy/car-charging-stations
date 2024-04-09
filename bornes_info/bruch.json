@@ -1,0 +1,120 @@
+[
+  {
+    "title": "SDEE47 - Mairie - Port-Sainte-Marie",
+    "address": "24 Rue Pasteur - Port-Sainte-Marie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEE47 (MobiVE) - D930 - Feugarolles",
+    "address": "D930 - Feugarolles",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel le Prince Noir (Tesla et autres)",
+    "address": "6 menjoulan - Sérignac-sur-Garonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A62 Aire d'Agen Porte d'Aquitaine (double sens)",
+    "address": "A62 - AIRE AGEN PORTE DAQUITAINE - LAPLUME",
+    "connectors": [
+      "x10",
+      "x8",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEE47 - Mairie - Saint-Hilaire-de-Lusignan",
+    "address": "Place de la mairie - Saint-Hilaire-de-Lusignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Côté de l'Amandier - Sainte-Colombe-en-Bruilhois",
+    "address": "Côté de l Amandier - Sainte-Colombe-en-Bruilhois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Foirail - Lavardac",
+    "address": "Place du Foirail - Lavardac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Médiathèque (2ème borne) - Avenue de Lattre de Tassigny - Nérac",
+    "address": "Avenue de Lattre de Tassigny - Nérac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEE47 (MobiVE) - Chemin du Pin - Nérac",
+    "address": "Chemin du Pin - Nérac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Lavardac",
+    "address": "79 Zone Industrielle l’Hérisson - Lavardac",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

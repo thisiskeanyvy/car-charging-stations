@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Modulo-Energies - Le Bourg - La Celle-Condé",
+    "address": "Le Bourg - La Celle-Condé",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centre ville - Chezal-Benoît",
+    "address": "Place de la Poste - Chezal-Benoît",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Chateauneuf sur cher - Poste",
+    "address": "62 Rue de la Chaussée - Châteauneuf-sur-Cher",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Contact Chateauneuf sur Cher",
+    "address": "Route de Levet - Châteauneuf-sur-Cher",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Place Bascoulard",
+    "address": "1 Place Bascoulard - Vallenay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Aérodrome - Saint-Aubin (Aéroclub)",
+    "address": "Parking de l'Aérodrome - Saint-Aubin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Maisonnais - Parking bourg",
+    "address": "112-114 Le Bourg - Maisonnais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Départemental d'Energies de l'Indre (SDEI36) - La Berthenoux - Rue du Stade",
+    "address": "Rue du Stade - La Berthenoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Car - Le Chatelet",
+    "address": "Avenue de la Gare - Le Chatelet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Saint Aout",
+    "address": "29 Route du Champ de Foire - Saint-Août",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

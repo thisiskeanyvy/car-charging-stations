@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Pass pass electrique - rue du collège - Bailleuil",
+    "address": "4bis Rue du Collège - Bailleul",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Belle Hotel - rue de Lille",
+    "address": "19 rue de Lille - Bailleul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Bailleul - 65 Rue de Neuve Église",
+    "address": "65 Rue de Neuve Église - Bailleul",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rossini Energy/Canler",
+    "address": "103 Rue de Neuve Église - Bailleul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Gare de Baillleul",
+    "address": "156 Avenue de la Libération - Bailleul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Brico Dépôt - Shell Recharge - Bailleul",
+    "address": "253 Rue De Lille - Bailleul",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Bailleul",
+    "address": "248bis Rue de Lille - Bailleul",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy/Paysage_Flandres",
+    "address": "1600 Route de Locre - Bailleul",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Leclerc - Bailleul",
+    "address": "Avenue de l'Europe - Bailleul",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mc Donald's - Bailleul",
+    "address": "405 Avenue des Nations Unies - Bailleul",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "RossiniEnergy - Le Bas Chitray - Ménil",
+    "address": "Le Bas Chitray - Ménil",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château des Briottieres",
+    "address": "Grande Pièce des Briottie - Les Hauts-d'Anjou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de Saint-Aventin - Azé",
+    "address": "9 Rue de Saint-Aventin - Azé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Logis Parc Hôtel & Spa - Château-Gontier-sur-Mayenne",
+    "address": "44a Avenue Du Maréchal Joffre - Château-Gontier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue de Terre Rouge - Azé",
+    "address": "305 Rue de Terre Rouge - Azé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - CC Leclerc - Azé",
+    "address": "Rue de la Fougetterie - Azé",
+    "connectors": [
+      "x34",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc animaux - Route de Sablé",
+    "address": "30 Route de Sablé - Azé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Château-Gontier-sur-Mayenne - 08 Route De Sablé",
+    "address": "08 Route De Sablé - Château-Gontier-sur-Mayenne",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE53 - Promenade de Mahier, 1 - Château-Gontier",
+    "address": "1 Promenade de Mahier - Château-Gontier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Chateau-Gontier - Avenue René Cassin - Azé",
+    "address": "11 Avenue René Cassin - Azé",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

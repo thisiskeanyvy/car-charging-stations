@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Paris-Saclay mobiélectrique - Place de la Convention - Gif-sur-Yvette",
+    "address": "Place de la Convention - Gif-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Saint-Rémy-lès-Chevreuse - 102 Route de Limours",
+    "address": "102 Route de Limours - Saint-Rémy-lès-Chevreuse",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Paris Saclay - 11 Route du Val Courcelle - Gif-sur-Yvette",
+    "address": "11 Route du Val Courcelle - Gif-sur-Yvette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clem' - St-Remy-les-Chevreuse - Beausejour",
+    "address": "2 Rue de la Digue - Saint-Rémy-lès-Chevreuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Paris-Saclay-Mobielectrique - 10 Rue du Fromenteau - Gometz-le-Châtel",
+    "address": "10 Rue du Fromenteau - Gometz-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Gare RER B de Saint-Rémy-lès-Chevreuse",
+    "address": "5 Rue Ditte - Saint-Rémy-lès-Chevreuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Paris-Saclay mobiélectrique - Gometz le Châtel - Saint Nicolas",
+    "address": "63 Rue Saint-Nicolas - Gometz-le-Châtel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Driveco pour PSA - 20 Rue Thuilere - Gometz-le-Châtel",
+    "address": "20 Rue Thuilere - Gometz-le-Châtel",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - Kia - Rue Thuilere - Gometz-le-Châtel",
+    "address": "20 Rue Thuilere - Gometz-le-Châtel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Limours",
+    "address": "Avenue de la Gare - Limours",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

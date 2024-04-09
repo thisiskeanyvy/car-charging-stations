@@ -1,0 +1,142 @@
+[
+  {
+    "title": "NW IEcharge - Route De Béthune - Sainte Catherine",
+    "address": "97 Route De Béthune - Sainte-Catherine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place Raoul Briquet - Givenchy-en-Gohelle",
+    "address": "Place Raoul Briquet - Givenchy-en-Gohelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stade de foot - Anzin-Saint-Aubin",
+    "address": "535 Rue Des Filatiers - Anzin-Saint-Aubin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Best Western - Rue Briquet-Taillandier - Anzin-Saint-Aubin",
+    "address": "1000 Rue Briquet-Taillandier - Anzin-Saint-Aubin",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Rue Adam de la Halle - Anzin-Saint-Aubin",
+    "address": "18 Rue Adam de la Halle - Anzin-Saint-Aubin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Sainte-Catherine - 24 Route De Béthune",
+    "address": "24 Route De Béthune - Sainte-Catherine",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A26 Aire de Souchez (direction Arras)",
+    "address": "A26 - AIRE DE SOUCHEZ - SOUCHEZ",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A26 Aire d'Angres (direction Calais)",
+    "address": "A26 - REIMS CALAIS - ANGRES",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pass Pass - Ancien Parking de la Poste - Route de Lens",
+    "address": "78 Route Nationale Résidence Eaux Vives - Sainte-Catherine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - CCV - Duisans",
+    "address": "centre commercial - Duisans",
+    "connectors": [
+      "x16",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

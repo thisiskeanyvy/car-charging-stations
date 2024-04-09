@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Borne SIEIL - Souvigny de Touraine - Rue Ronsard",
+    "address": "21 Rue Pierre de Ronsard - Souvigny-de-Touraine",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Domaine des Thomeaux - Mosnes",
+    "address": "12 Rue Des Thomeaux - Mosnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Chargé - 293 rue de la Musse",
+    "address": "293 rue de la Musse - Chargé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison d'hôtes Villa Vino",
+    "address": "65 rue Nationale - Mosnes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Rue Michel Debré",
+    "address": "Rue Michel Debré - Chargé",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue André Huard - Amboise",
+    "address": "Rue André Huard - Amboise",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Rue Abel Gody",
+    "address": "296 Rue Abel Gody - Amboise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Avenue Léonard de Vinci - Amboise",
+    "address": "Avenue Léonard de Vinci  - Amboise",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Amboise",
+    "address": "Avenue Léonard de Vinci - Amboise",
+    "connectors": [
+      "x4",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Greenspot - Chargé - Château de Pray",
+    "address": "10 Rue Du Cèdre - Chargé",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

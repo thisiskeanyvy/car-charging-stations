@@ -1,0 +1,130 @@
+[
+  {
+    "title": "USEDA - DIRVE 02 - Rue des Roses Crécy-sur-Serre",
+    "address": "1 Rue des Roses - Crécy-sur-Serre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Place de l'Hôtel de Ville, 12 - Sains-Richaumont",
+    "address": "12 Place de l'Hôtel de Ville - Sains-Richaumont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "USEDA - Place Foch - Aulnois-sous-Laon",
+    "address": "Place Foch - Aulnois-sous-Laon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue de l'Église - Courbes",
+    "address": "Rue de l'Église - Courbes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Crédit agricole - Ribemont",
+    "address": "62 Rue Blondel - Ribemont",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Ribemont - Intermarché",
+    "address": "rue Blondel - Ribemont",
+    "connectors": [
+      "x2",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Leclerc - Rue Georges Sand Chambry",
+    "address": "7 Rue Georges Sand - Chambry",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "USEDA - Place du château - Ribemont",
+    "address": "Place du Château - Ribemont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - E Leclerc - Chambry",
+    "address": "1 Le Pré Robert - Laon",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Burger King - Rue Voltaire",
+    "address": "1 Rue Voltaire - Chambry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SunXLium - 2 Rue des Vieux Moulins - Cramchaban",
+    "address": "2 Rue des Vieux Moulins - Cramchaban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking La Tourterelle - Porte 90",
+    "address": "La Tourterelle - Saint-Georges-du-Bois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Surgeres",
+    "address": "Rue Jean-Philippe Rameau - Surgères",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Cyclad - Rue Julia et Maurice Marcou - Surgères",
+    "address": "1 Rue Julia et Maurice Marcou - Surgères",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE SDEER17 - Surgères - Place du Château",
+    "address": "1 Avenue Saint-Pierre - Surgères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Freshmile - Surgères - 24 Chemin De La Perche",
+    "address": "24 Chemin de la Perche - Surgères",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AlterBase Séolis - St Hilaire la Palud - La Poste",
+    "address": "6 Place de l'Église - Saint-Hilaire-la-Palud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes Les Grandes Chaumes Le Relais - Le Nid",
+    "address": "22 Route des Diligences - Surgères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gîtes Les Grandes Chaumes La Grange La Fermette",
+    "address": "10 Rue des Chênes - Chambon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Maison Flore",
+    "address": "25 Rue du Grand Port - Arçais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

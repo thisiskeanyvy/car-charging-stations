@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Freshmile - SCAME - La Grande-Verrière",
+    "address": "13 Route du Haut Folin - La Grande-Verrière",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - La Grande Verrière - Parking de la Mairie",
+    "address": "Rue De La Brile - La Grande-Verrière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zone commerciale de Bellevue",
+    "address": "1 Rue de Bellevue - Autun",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "3 Avenue Pierre Brossolette",
+    "address": "3 Avenue Pierre Brossolette - Autun",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Autun",
+    "address": "4 Rue Lt Cnl Gabriel de Sairigne - Autun",
+    "connectors": [
+      "x4",
+      "x5",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SYDESL - Rue Gabriel Bouthière - Étang-sur-Arroux",
+    "address": "9 Rue Gabriel Bouthière - Étang-sur-Arroux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Z.I. de Saint-Andoche - Boulevard Bernard Giberstein - Autun (Privé)",
+    "address": "18 Boulevard Bernard Giberstein - Autun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "mobily.green - Gare d'Autun",
+    "address": "1 Avenue de la République - Autun",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Rue Deguin - Autun",
+    "address": "9 Petite Rue Marchaux - Autun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Autun",
+    "address": "94 Avenue de la République - Autun",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

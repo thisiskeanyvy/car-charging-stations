@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDE04 - Saint-André les Alpes",
+    "address": "2 Place de Verdun - Saint-André-les-Alpes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE04 - Avenue du Foulon - Annot",
+    "address": "1904 Avenue du Foulon - Annot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Route de Grenoble - Barrême",
+    "address": "Route de Grenoble - Barrême",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Camping International",
+    "address": "Camping International 303 D602 - Castellane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Ancienne Route de Grasse - Castellane",
+    "address": "Ancienne Route de Grasse - Castellane",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gîte d'étape / chambres d'hôtes l'Oustaou",
+    "address": "Chemin des Hautes Listes - Castellane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - D952 - Castellane",
+    "address": "La Salaou - Castellane",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping gorges du Verdon",
+    "address": "Clos d'Arenus - Chasteuil - Castellane",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 2 Lieu-dit Cournillons Zone Artisanale Le Brec - Entrevaux",
+    "address": "2 Lieu-dit Cournillons Zone Artisanale Le Brec - Entrevaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SymielecVar - Le Bourguet - Parking entrée du Village",
+    "address": "D252 - Le Bourguet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Ubitricity - Gare de Montivilliers",
+    "address": "Rue des Grainetiers - Montivilliers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CODAH - Place Abbé Pierre - Montivilliers",
+    "address": "5 Place Abbé Pierre - Montivilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Résidence seniors Domitys - Rue des Quatre Saisons",
+    "address": "26 Rue des Quatre Saisons - Montivilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DESJARDINS - Rue des Quatre Saisons - Montivilliers",
+    "address": "16 Rue des Quatre Saisons - Montivilliers",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Intermarché - Montivilliers",
+    "address": "68 Avenue Président Wilson - Montivilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leroy merlin - Montivilliers",
+    "address": "7 Rue Pierre et Marie Curie - Montivilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Piscine Belle Etoile - Rue Henri Matisse - Montivilliers",
+    "address": "5 Rue Henri Matisse - Montivilliers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Action Montivilliers",
+    "address": "2–10 Rue des Gingko Biloba - Montivilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alinéa - epaville",
+    "address": "27 route de St Martin du manoir - Montivilliers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bureau Vallée - Route de Saint-Martin du Manoir",
+    "address": "25-23 Route de Saint-Martin du Manoir - Montivilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

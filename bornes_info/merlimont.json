@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Stations-E - Mairie de Merlimont",
+    "address": "Place de la Haye - Merlimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Stations-e - Rue Auguste Biblocq - Merlimont",
+    "address": "177 Rue Auguste Biblocq - Merlimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leroy Merlin - Merlimont",
+    "address": "408 Rue Auguste Biblocq - Merlimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LES JARDINS DE LA MER - MERLIMONT",
+    "address": "Rue Camille Delacroix - Merlimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electromaps S.L./6770 INEXISTANT",
+    "address": "Avenue de Merlimont - Merlimont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-E - Place du Marché - Merlimont",
+    "address": "4 Rue de la Station - Merlimont",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Chambres d'hotes \"COTÉ MER\"",
+    "address": "523 Rue de Douai - Cucq",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Parc Bagatelle - Rang-du-Fliers",
+    "address": "1427 Route de Bagatelle - Rang-du-Fliers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Cucq - 708 Avenue François Godin",
+    "address": "708 Avenue François Godin - Cucq",
+    "connectors": [
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Cucq - Place Jean Sapin",
+    "address": "Place Jean Sapin - Cucq",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

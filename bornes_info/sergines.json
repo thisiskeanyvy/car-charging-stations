@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEY - Rue de l'Hôtel de Ville",
+    "address": "8 Rue de l'Hôtel de Ville - Sergines",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue blanche, Montigny-le-Guesdier",
+    "address": "2-12 Rue Blanche - Montigny-le-Guesdier",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Bray-sur-Seine",
+    "address": "951 Albert einstein - Bray-sur-Seine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - 17 Grand Rue - LA CHAPELLE-SUR-OREUSE (89)",
+    "address": "17 Grand Rue - LA CHAPELLE-SUR-OREUSE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Place du Four - Courlon-sur-Yonne",
+    "address": "2 Rue des Préaux - Courlon-sur-Yonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour Market - Bray-sur-Seine",
+    "address": "257 Av. de la Libération, - Bray-sur-Seine",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEY - 15–29B Quai de la République",
+    "address": "15–29B Quai de la République - Pont-sur-Yonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Mousseaux-lès-Bray - Clinique Vétérinaire",
+    "address": "451 Rue de la Sucrerie - Mousseaux-lès-Bray",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'eglise - Bazoches-lès-Bray",
+    "address": "1 Place de l'Église - Bazoches-lès-Bray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Quai de Seine Bray-sur-Seine",
+    "address": "1 Quai de l'Île - Bray-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

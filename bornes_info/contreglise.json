@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIED70 - Atelier municipaux - Saint-Remy",
+    "address": "5-7 Rue Justin et Claude Perchot - Saint-Remy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking collège - Faverney",
+    "address": "4 Rue Victor Hugo - Faverney",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - Parking mairie - RESERVÉ A \"autopartage de la Saône\" (Privé)",
+    "address": "1 Rue Saint Maurice - Fleurey-lès-Faverney",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Place du Champ de foire - Jussey",
+    "address": "2 Place du Champ de Foire - Jussey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borne camping car - Jussey",
+    "address": "17 Rue de l'Hospice - Jussey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de la Presle - Tesla destination charger (and others)",
+    "address": "3 Rue Louis Pergaud - Breurey-les-Faverney",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED 70 - Place du Général de Gaulle - CORRE",
+    "address": "12 Place Du General De Gaulle - Corre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - rue de la Grande Fontaine - Vauvillers",
+    "address": "3 Rue de la Grande Fontaine - Vauvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Port-sur-Saône Autopartage - 75 rue François Mitterrand - Port-sur-Saône",
+    "address": "75 rue François Mitterrand - Port-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Clos Laveugle Port-sur-Saône",
+    "address": "31 Clos Laveugle - Port-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

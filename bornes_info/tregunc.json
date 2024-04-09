@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDEF - Place Georges Beaujean - Trégunc",
+    "address": "Place Georges Beaujean - Trégunc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Trégunc (Place Youenn Gwernig)",
+    "address": "Rue Youenn Gwernig - Trégunc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Trégunc",
+    "address": "1586 Rue de Concarneau - Trégunc",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Trégunc - Penanguer",
+    "address": "Penanguer - Trégunc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Trégunc - 20 Penn Ker Laé",
+    "address": "20 Penn Ker Laé - Trégunc",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Concarneau - Intermarché",
+    "address": "43 Rue de Lanriec, 29900 Concarneau, France - Concarneau",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Electromaps - 89 Avenue du Cabellou - Concarneau",
+    "address": "89 Avenue du Cabellou - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les vergers de trevignon",
+    "address": "Route de Tremeou - Trégunc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Concarneau (Place Duquesne)",
+    "address": "Place Duquesne - Concarneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Domaine de Kerlann - Pont-Aven",
+    "address": "Land Rosted, - Pont-Aven",
+    "connectors": [
+      "x2",
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

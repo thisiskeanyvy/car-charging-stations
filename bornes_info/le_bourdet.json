@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Metropolis Recharge - 14 Rue Anizan Cavillon - Le Bourget",
+    "address": "14 Rue Anizan Cavillon - Le Bourget",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Metropolis Recharge - 50 Avenue Jean Jaurès - Le Bourget",
+    "address": "50 Avenue Jean Jaurès - Le Bourget",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*WA5 - Le Bourget - 39 Rue du Commandant Rolland",
+    "address": "39 Rue du Commandant Rolland - Le Bourget",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 106 Avenue Marceau - Drancy",
+    "address": "106 Avenue Marceau - Drancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NewMotion FR - La Courneuve - 178-180 Avenue Paul Vaillant Couturier",
+    "address": "178-180 Avenue Paul Vaillant Couturier - La Courneuve",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "O'Marché Frais",
+    "address": "Impasse Bloch Praeger - La Courneuve",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Le Bourget - Hôtel Kyriad",
+    "address": "134-136 avenue de la Division Leclerc - Le Bourget",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "La Borne Bleue - 7 Rue Nouvelle - Drancy",
+    "address": "7 Rue Nouvelle - Drancy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Drancy - 82, rue Saint Stenay",
+    "address": "82, rue Saint Stenay - Drancy",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*E10 - Le Bourget - Carrefour Charles Lindbergh",
+    "address": "Carrefour Charles Lindbergh - Le Bourget",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

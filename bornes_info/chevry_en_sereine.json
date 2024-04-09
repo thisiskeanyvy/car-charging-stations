@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SDESM - Mairie de Voulx",
+    "address": "2 Grande Rue - Voulx",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie - DIANT",
+    "address": "Grande Rue  - Diant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDESM - Parking eglise",
+    "address": "11 Rue Maigrette - Flagy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Intermarché - Chéroy",
+    "address": "3 Rue de Vauredenne - Chéroy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Château de Vallery (Privé)",
+    "address": "1 Rue de Sade - Vallery",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eglise Noisy",
+    "address": "5 Rue de Dormelles - Noisy-Rudignon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Hotel de ville - Saint-Agnan",
+    "address": "2 Rue Paul Grappillard - Saint-Agnan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alize (Bouygues Energies et Services) - 30 Rue des Jacquins - Jouy",
+    "address": "30 Rue des Jacquins - Jouy",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place de l'eglise",
+    "address": "2 Place de l'Église - Ville-Saint-Jacques",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue de la Roche du Saut Villecerf",
+    "address": "2 Rue de la Roche du Saut - Villecerf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

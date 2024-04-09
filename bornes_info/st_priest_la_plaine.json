@@ -1,0 +1,118 @@
+[
+  {
+    "title": "LE GRAND BOURG - PLACE DU CHAMP DE FOIRE",
+    "address": "D4 - Le Grand-Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de la Cazine",
+    "address": "Domaine de la Fôt - Noth",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Bénévent-l'Abbaye - 10 Place de Villers",
+    "address": "10 Place de Villers - Bénévent-l'Abbaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Place de Villers - Bénévent-l'Abbaye",
+    "address": "10 Avenue de la Marche - Bénévent-l'Abbaye",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de la Jarrige - St.-Vaury",
+    "address": "5 La Jarrige - St.-Vaury",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Mairie de Saint-Étienne-de-Fursac",
+    "address": "1bis Grande Rue - Saint-Étienne-de-Fursac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Mairie de Saint Vaury",
+    "address": "1 Place de l'Église - Saint-Vaury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Etang du Cheix Camping Suisse Océan",
+    "address": "Avenue de la République - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - La Souterraine",
+    "address": "3-17 Boulevard Jean Moulin - La Souterraine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - La Souterraine - 1 Rue du Peu de Sedelle",
+    "address": "1 Rue du Peu de Sedelle - La Souterraine",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

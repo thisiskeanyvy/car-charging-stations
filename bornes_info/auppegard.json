@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Le Manoir de Tessy",
+    "address": "Les Bramares - Ouville-la-Rivière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Bacqueville-en-Caux",
+    "address": "3bis Place du Général de Gaulle - Bacqueville-en-Caux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Cabane dans les arbres - La Chaussée",
+    "address": "741 Rue du Duché - La Chaussée",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE 76 - Ouville-la-Rivière",
+    "address": "Allée de la Saâne - Ouville-la-Rivière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gare - Longueville-sur-Scie",
+    "address": "2bis Rue du Général de Gaulle - Longueville-sur-Scie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Arcaade",
+    "address": "18 Route de la Vienne - Saint Mards",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Saint-Aubin-sur-Scie",
+    "address": "1158 Rue de la Libération - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Luneray",
+    "address": "Rue de la République - Luneray",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE76 - Chemin des Hortensias - Luneray",
+    "address": "Chemin des Hortensias - Luneray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Electromaps S.L. - Saint-Aubin-sur-Scie - 300 Rue de la Providence",
+    "address": "300 Rue de la Providence - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

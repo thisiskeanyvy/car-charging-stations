@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Intermarche Super Carignan",
+    "address": "25 La Voie de Sachy - Carignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Lidl - Carignan",
+    "address": "37 Avenue Du Général De Gaulle - Carignan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Modulo Energies - Rue du Parc - Carignan",
+    "address": "7 Rue du Parc - Carignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Rue du Collège - Mouzon",
+    "address": "3 Bis Rue du Collège - Mouzon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Ardenne Métropole : AM 061 - Pouru Saint Remy - ruelle Bersin",
+    "address": "45 Petite Rue - Pouru-Saint-Remy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Modulo Energies - Place Verte - Douzy",
+    "address": "1 Place Verte - Douzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Ardenne Métropole : AM 060 - Pouru aux Bois - Rue de la Mairie",
+    "address": "Rue de la mairie - Pouru aux Bois",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEA 08 - Rue de Raucourt - Remilly Aillicourt",
+    "address": "7 Rue de Raucourt - Remilly-Aillicourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ardenne Métropole : AM 031 - Francheval - Pl de la Mairie",
+    "address": "21 Place de la mairie - Francheval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ardenne Métropole : AM 064 - Rubecourt Lamecourt - Mairie",
+    "address": "2 Rue de la Mairie - Rubécourt-et-Lamécourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

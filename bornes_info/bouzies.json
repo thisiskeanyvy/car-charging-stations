@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Parking Hôtel de Ville/route de Lacaune D32",
+    "address": "Route de Lacaune - Belmont-sur-Rance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Saint-Sernin-sur-Rance - Avenue de Saint-Affrique Parking Route de Saint Affrique",
+    "address": "Avenue de Saint-Affrique Parking Route de Saint Affrique - Saint-Sernin-sur-Rance",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de Saint-Michel",
+    "address": "Rue de la Balmette - Lacaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Rapide) - Lacaune 2 -, Avenue Georges Clemenceau",
+    "address": "5 Avenue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDET - Lacaune - Avenue Georges Clémenceau",
+    "address": "4 Rue Georges Clemenceau - Lacaune",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET - Parking de la Mairie - Viane",
+    "address": "Chemin de Septval - Viane",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Résidence du Rougier",
+    "address": "19 Avenue de Saint-Affrique - Camarès",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Camarès",
+    "address": "Place du Docteur Elisée Bousquet - Camarès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping d'Andabre",
+    "address": "Andabre - Andabre",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Plaisance - Chemin de l'Horte Parking de Covoiturage",
+    "address": "Chemin de l'Horte Parking de Covoiturage - Plaisance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

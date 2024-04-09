@@ -1,0 +1,136 @@
+[
+  {
+    "title": "CREA - Centre commercial des Coquets - Mont-Saint-Aignan",
+    "address": "11 Parc de Brotonne - Mont-Saint-Aignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Mont-Saint-Aignan - Rue du Tronquet Parking relais Maulevrier",
+    "address": "Rue du Tronquet Parking relais Maulevrier - Mont-Saint-Aignan",
+    "connectors": [
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA’VENIR - Rue du Renard - Rouen",
+    "address": "203 Rue du Renard - Rouen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Rue de Constantine",
+    "address": "186 Rue de Constantine - Rouen",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Retail Group Rouen",
+    "address": "Rue de Constantine - Rouen",
+    "connectors": [
+      "x3",
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Renault - Rouen",
+    "address": "184 Avenue Du Mont Riboudet - Rouen",
+    "connectors": [
+      "x5",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - Mont-Saint-Aignan - 16 Rue Boucicaut",
+    "address": "16 Rue Boucicaut - Mont-Saint-Aignan",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SRDA BMW",
+    "address": "122 Rue de Constantine - Rouen",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Audi - Rouen (Privé)",
+    "address": "114 Rue de Constantine - Rouen",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "CREA - Parking du Pôle d'échange du Mont Riboudet",
+    "address": "1 Rue Micheline Ostermeyer - Rouen",
+    "connectors": [
+      "x4",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

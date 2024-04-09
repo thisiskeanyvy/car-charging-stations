@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Atrium Hotel (Tesla and others)",
+    "address": "20 Pretzscher Straße - Osterfeld",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "A9 - Teuchern",
+    "address": "A9 - Teuchern",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - A9 AutobahnRaststätte Osterfeld West",
+    "address": "A9 - Stößen",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EON DE - A9 Raststätte Osterfeld Ost",
+    "address": "A9 - Burgenlandkreis",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Autohof - A9 Im Heidegrund Süd",
+    "address": "21b Im Heidegrund Süd - Heidegrund",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mer Germany GmbH - Goethestraße - Teuchern",
+    "address": "11 Goethestraße - Teuchern",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Digital Energy Solutions GmbH & Co. KG - Am Hohen Stein 1 - Naumburg",
+    "address": "Am Hohen Stein 1 - Naumburg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Euronics Naumburg (EnBW)",
+    "address": "5 Wilhelm-Franke-Straße - Naumburg (Saale)",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EWE Go - McDonalds - Naumburg",
+    "address": "1 Steinkreuzweg - Naumburg",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Steinkreuzweg - Naumburg (Saale)",
+    "address": "9 Steinkreuzweg - Naumburg (Saale)",
+    "connectors": [
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Domaine de la Caure (réservé aux clients) - Fressigne - Bussière-Dunoise",
+    "address": "7 Fressigne - Bussière-Dunoise",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - Place du Foirail - Bonnat",
+    "address": "1 Place du Foirail - Bonnat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "PowerDot - Intermarché - Bonnat",
+    "address": "13 Avenue de la Marché - Bonnat",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Powerdot - Inermarché - Avenue d'Auvergne - Dun-le-Palestel",
+    "address": "5 Avenue d'Auvergne - Dun-le-Palestel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Dun-le-Palestel - 2 Place du Champ de Foire",
+    "address": "2 Place du Champ de Foire - Dun-le-Palestel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEC - Mairie de Saint Vaury",
+    "address": "1 Place de l'Église - Saint-Vaury",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine de la Jarrige - St.-Vaury",
+    "address": "5 La Jarrige - St.-Vaury",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - N145 Aire des Monts de Gueret",
+    "address": "N145 - Saint-Sulpice-le-Guérétois",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "ChargePoint Network - 23 Rue Jean Bussière",
+    "address": "23 Rue Jean Bussière - Guéret",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Toyota - Guéret",
+    "address": "Rue Johannes Gutenberg - Guéret",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

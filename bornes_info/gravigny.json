@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Paris-Saclay mobiélectrique - Gare RER de Gravigny-Balizy - Longjumeau",
+    "address": "10 Rue des Templiers - Longjumeau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Avenue de l'Armée Leclerc - Savigny-sur-Orge",
+    "address": "102 Avenue de l'Armée Leclerc - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "WAAT - 2 Rue Daniel Mayer - Longjumeau",
+    "address": "2 Rue Daniel Mayer - Longjumeau",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - 43 Rue du Parc - Épinay-sur-Orge",
+    "address": "43 Rue du Parc - Épinay-sur-Orge",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Épinay-sur-Orge - Parking des Templiers",
+    "address": "1 Rue de la Croix Ronde - Épinay-sur-Orge",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sport 2000 - Avenue Evariste Gallois",
+    "address": "2 Avenue Evariste Gallois - Morangis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Avenue Aristide Briand - Morangis",
+    "address": "88 Avenue Aristide Briand - Morangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Total Energies - Rue Henri Dunant - Savigny-sur-Orge",
+    "address": "33 Rue Henri Dunant - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SMOYS - Rue Henri Barbusse - Savigny Sur Orge",
+    "address": "24 Rue Henri Barbusse - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Avenue Charles de Gaulle - Savigny-sur-Orge",
+    "address": "63 Avenue Charles de Gaulle - Savigny-sur-Orge",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ChargeHop - 10 Rue Sophie Germain - Hœrdt",
+    "address": "10 Rue Sophie Germain - Hœrdt",
+    "connectors": [
+      "x3",
+      "x7"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - Hœrdt - 10 Rue Sophie Germain",
+    "address": "10 Rue Sophie Germain - Hœrdt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - La Wantzenau - Route du Golf",
+    "address": "Route du Golf - La Wantzenau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Paris - Reichstett",
+    "address": "Rue de Paris - Reichstett",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue des Héros - La Wantzenau",
+    "address": "9 Rue des Héros - La Wantzenau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Monta - Au Moulin de La Wantzenau",
+    "address": "2 impasse du moulin - LA WANTZENAU",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - Route Nationale - Kilstett",
+    "address": "Route Nationale - Kilstett",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Monta - Hôtel Argos - Vendenheim",
+    "address": "2 Rue du Commerce - Vendenheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Satoriz - Vendenheim",
+    "address": "Rue du Commerce - Vendenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - A4/D263 Relais Herrenwald - Brumath",
+    "address": "209 Avenue de Strasbourg - Brumath",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Metropolis Recharge - 1 Rue Claude Terrasse - Le Blanc-Mesnil",
+    "address": "1 Rue Claude Terrasse - Le Blanc-Mesnil",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - ESAT des Mugets - Le Bourget",
+    "address": "53 Rue du Commandant Rolland - Le Bourget",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Le Blanc-Mesnil",
+    "address": "174 Avenue Charles Floquet - Le Blanc-Mesnil",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - Avenue Henri Barbusse - Drancy",
+    "address": "Avenue Henri Barbusse - Drancy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bump-Charge - Avenue Albert Einstein - Le Blanc-Mesnil",
+    "address": "19 Avenue Albert Einstein - Le Blanc-Mesnil",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 1 Avenue Albert Einstein - Le Blanc-Mesnil",
+    "address": "1 Avenue Albert Einstein - Le Blanc-Mesnil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "BUMP-CHARGE - Le Blanc-Mesnil - C Chez Vous",
+    "address": "5 Avenue Armand Esders - Le Blanc-Mesnil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 116 Rue Sadi Carnot - Drancy",
+    "address": "116 Rue Sadi Carnot - Drancy",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 24 Boulevard Paul Vaillant Couturier - Drancy",
+    "address": "24 Boulevard Paul Vaillant Couturier - Drancy",
+    "connectors": [
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - Rue Auguste Blanqui - Drancy",
+    "address": "22 Rue Auguste Blanqui - Drancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

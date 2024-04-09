@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Rue Karl Leitzgen 1 67600 SELESTAT (Privé)",
+    "address": "Rue Karl Leitzgen 1 - SELESTAT",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Westrich 27 67600 SELESTAT (Privé)",
+    "address": "Rue Westrich 27 - SELESTAT",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Westrich 20 67600 SELESTAT (Privé)",
+    "address": "Rue Westrich 20 - SELESTAT",
+    "connectors": [
+      "x16"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Sélestat",
+    "address": "3 Allée Westrich - Sélestat",
+    "connectors": [
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Sélestat - Norauto",
+    "address": "18 Rue de la Maison Rouge - Sélestat",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Renault - Sélestat",
+    "address": "2 rue Westrich - Sélestat",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue de Barr - Kogenheim",
+    "address": "46a Rue de Barr - Kogenheim",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de la Diligence - Sélestat",
+    "address": "Rue de la Diligence - Selestat",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Sélestat - Intermarché",
+    "address": "Route de Strasbourg, Carr Maison Rouge - Sélestat",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue Ehnwihr - Muttersholtz",
+    "address": "35 Rue Ehnwihr - Muttersholtz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

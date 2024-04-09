@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEML - CORZE - Rue Moulin De La Motte",
+    "address": "2 D192/ Rue Moulin De La Motte - Corzé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Soucelles - Chemin Des Vignes",
+    "address": "Chemin des Vignes - Soucelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Rue Saint Pierre - Villevêque",
+    "address": "22 Rue Saint-Pierre - Villevêque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEML - Super U - Corzé",
+    "address": "4 L'Aurore - Corzé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEML - SEICHES SUR LE LOIR - Parking Marcel Coudray",
+    "address": "Rue des Tanneries - Seiches-sur-le-Loir",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - PELLOUAILLES LES VIGNES - Impasse De La Chapelle",
+    "address": "Impasse de la Chapelle - Pellouailles-les-Vignes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Château de Noirieux (Tesla and others)",
+    "address": "Route du Moulin - Briollay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Sarrigne - Parking Mairie",
+    "address": "Rue Saint-Jean - Sarrigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "GROUPE COLISEE_FRANCE_ANDARD_5947_Pext_E",
+    "address": "Lieu dit La Roche Tinard - Loire-Authion",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - St Sylvain D'anjou - Rue De La Veillere",
+    "address": "Rue de la Veillère - Saint-Sylvain-d'Anjou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

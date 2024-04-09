@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Hôtel Les Violettes - Jungholtz",
+    "address": "Route de Thierenbach - Jungholtz",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ferme des Moines - Jungholtz",
+    "address": "route de thierenbach - jungholtz",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Powerdot - Bollwiller - 1 Rte de Guebwiller - Mr Bricolage",
+    "address": "1a Rue Saint-Jean - Bollwiller",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de la Marne - Soultz-Haut-Rhin",
+    "address": "22 Rue de la Marne - Soultz-Haut-Rhin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Jungholtz, Rte de Thierenbach DOUBLON",
+    "address": "Rue De Thierenbach - Jungholtz",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Domaine du Hirtz",
+    "address": "- Wattwiller",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Piscine de Guebwiller",
+    "address": "1 de la piscine - Guebwiller",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Guebwiller - Rue des Larrons",
+    "address": "2 Rue Des Larrons - Guebwiller",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Issenheim - Route De Soultz",
+    "address": "Route De Soultz - Issenheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Guebwiller",
+    "address": "2 Route d'Issenheim - Guebwiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

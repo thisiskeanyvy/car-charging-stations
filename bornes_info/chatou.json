@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Renault - Chatou",
+    "address": "40 Avenue du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - avenue du Maréchal Foch - Chatou",
+    "address": "11 Avenue du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking de la gare de Chatou",
+    "address": "Place Maurice Berteaux - Chatou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - LS Group - Chatou",
+    "address": "119 Avenue Du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sigeif - Place de la Gare - Chatou",
+    "address": "Place de la Gare - Chatou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EDF R&D Lab Chatou bâtiment I (Réservé aux employés)",
+    "address": "Quai Watier - Chatou",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci Autoroutes - Rueil-Malmaison (uniquement pour les employés)",
+    "address": "4 Rue des Frères Caudron - Rueil-Malmaison",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Relais des Tilleuls - Chatou",
+    "address": "133 Avenue du Maréchal Foch - Chatou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 4 Rue Auguste Perret - Rueil-Malmaison",
+    "address": "4 Rue Auguste Perret - Rueil-Malmaison",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Indigo - 7 Rue Guy de Maupassant - Rueil-Malmaison",
+    "address": "7 Rue Guy de Maupassant - Rueil-Malmaison",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

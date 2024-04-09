@@ -1,0 +1,122 @@
+[
+  {
+    "title": "VIRTA - Place du martroi - Puiseaux",
+    "address": "7–13 Place du Martroi - Puiseaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Virta - Puiseaux - Rue Nieder Roden",
+    "address": "Rue Nieder Roden - Puiseaux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Briarres-sur-Essonne - Place des Déportés",
+    "address": "Place des Déportés - Briarres-sur-Essonne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Augerville-la-Rivière - Place Du Château",
+    "address": "Place Du Château - Augerville-la-Rivière",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Allée des Marronniers Boulancourt",
+    "address": "2 Allée des Marronniers - Boulancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Parking Salle polyvalente - Beaumont-du-Gâtinais",
+    "address": "5 Rue du Mail Est - Beaumont-du-Gâtinais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Terrain Tennis - Amponville",
+    "address": "10 Chemin des Manneries - Amponville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue de la Mairie - Châtenoy",
+    "address": "3 Rue de la Mairie - Châtenoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue de la Cave de Châtenoy Larchant",
+    "address": "4 Rue de la Cave de Châtenoy - Larchant",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A19 Aire du Loiret (double sens)",
+    "address": "D 975 - Juranville",
+    "connectors": [
+      "x2",
+      "x2",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

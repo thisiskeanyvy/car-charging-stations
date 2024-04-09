@@ -1,0 +1,134 @@
+[
+  {
+    "title": "TotalEnergies - A68 Relais Portes du Tarn",
+    "address": "A68 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ALDI - Route de Roqueserière",
+    "address": "81 Route de Roqueserière - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Le jardin de l'esplanade",
+    "address": "Avenue du Mur de Ronde - Montastruc-la-Conseillère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Biocoop - Saint-Sulpice-la-Pointe",
+    "address": "VC15 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Saint-Sulpice-la-Pointe - 1436 Avenue Des Terres Noires",
+    "address": "1436 Avenue Des Terres Noires - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La ferme de l'évasion - Azas",
+    "address": "1520 de guarrigues - Azas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Route de Paulhac - Buzet-sur-Tarn",
+    "address": "Route de Paulhac - Buzet-sur-Tarn",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Buzet-sur-Tarn - Rue des Écoles",
+    "address": "35 Rue des Écoles - Buzet-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET - Place Jean Jaurès - Centre-ville",
+    "address": "10-12 Place Jean Jaurès - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDET - Office du Tourisme - Saint-Sulpice-la-Pointe",
+    "address": "2 Rue du 3 Mars 1930 - Saint-Sulpice-la-Pointe",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

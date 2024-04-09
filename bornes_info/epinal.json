@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Parking Q-Park - Epinal - Saint Nicolas",
+    "address": "25 Rue de la Chipotte - Épinal",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Ibis - Épinal",
+    "address": "21 Quai Marechal De Contades - Épinal",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Place Jeanne d'Arc",
+    "address": "10 Place Jeanne d'Arc - Epinal",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Parking Saint Michel - Épinal",
+    "address": "48 Rue Saint-Michel - Épinal",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEV - Parking de la Louvière - Épinal",
+    "address": "Rue de la Louvière - Épinal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hotel Mercure - Épinal (Tesla&autres)",
+    "address": "13 Place Emile Stein - Épinal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - Épinal - BMI Parking P2",
+    "address": "48 Rue Saint-Michel - Épinal",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare d'Épinal",
+    "address": "1 place du Général de Gaulle - Épinal",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking EFFIA Gare SNCF Epinal",
+    "address": "Rue Jean Jaurès - Epinal",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Parking Petit Champ de Mars - Épinal",
+    "address": "Avenue Gambetta - Épinal",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

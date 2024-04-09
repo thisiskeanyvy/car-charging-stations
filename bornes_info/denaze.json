@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Station Moisdon la Rivière - Rue d'Aval",
+    "address": "1B Rue d'Aval - Moisdon-la-Rivière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Mouette - Erbray",
+    "address": "Rue de la Mouette - Erbray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de la Gare - Issé",
+    "address": "2 Rue de la Gare - Issé",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eco Lav",
+    "address": "5 Rue du Président Kennedy - Châteaubriant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Châteaubriant",
+    "address": "Route de St Nazaire - Châteaubriant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Chateaubriant \r\nLe Général - ALDI",
+    "address": "ALDI - Chateaubriant \r\nLe Général",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Jardiland - Châteaubriant",
+    "address": "1 Rue du Général Patton - Châteaubriant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intersport - Z.I. Sud-Ouest",
+    "address": "39 Rue du Général Patton - Châteaubriant",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Easy Charge Services - Chateaubriant \r\nEmeraude - Stokomani",
+    "address": "Stokomani - Chateaubriant \r\nEmeraude",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Easy Charge Services - Chateaubriant \nBCM - Fournil du Castel",
+    "address": "Fournil du Castel - Chateaubriant \nBCM",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

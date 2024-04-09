@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Pass Pass - Rue Franklin - Bruay-la-Buissière",
+    "address": "80 Rue Franklin - Bruay-la-Buissière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Raoul Briquet - Bruay-la-Buissière",
+    "address": "23 Rue Raoul Briquet - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Rue Alfred Buquet - Divion",
+    "address": "8\r\n Rue Alfred Buquet\r\n - Divion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pass Pass - D301/D941 Aire de covoiturage de Divion",
+    "address": "Avenue Paul Plouvier - Divion",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Cora - Bruay-la-Buissière",
+    "address": "1115 Rue de la Libération - Bruay-la-Buissière",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Lourme",
+    "address": "rue Eric tabarly - Bruay la Buissière Cedex",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco pour PSA - Rue Eric Tabarly - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai Bruay - Parc de la Porte Nord, - Bruay-la-Buissière",
+    "address": "Parc de la Porte Nord, - Bruay-la-Buissière",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Bruay-la-Buissière",
+    "address": "Rue Eric Tabarly - BRUAY LA BUISSIERE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bruay-la-Buissière - 125 Rue Christophe Colomb",
+    "address": "125 Rue Christophe Colomb - Bruay-la-Buissière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

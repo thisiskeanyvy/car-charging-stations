@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SYDED - Gare de Frasne",
+    "address": "18 Rue de la Gare - Frasne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gare de Frasne",
+    "address": "21 Rue de la Gare - Frasne",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Route de Dijon - Houtaud",
+    "address": "9 Rue de la Champagne - Houtaud",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Houtaud",
+    "address": "16 Rue de la Champagne - Houtaud",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "DRIVECO - Hôtel Kyriad Pontarlier",
+    "address": "8 Rue Jean Petite, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - 12 rue Mervil - PONTARLIER NEXISTE PAS",
+    "address": "12 rue Mervil - PONTARLIER",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile Services SAS - 12 Rue Donnet Zedel - Pontarlier",
+    "address": "12 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - Pontarlier",
+    "address": "8 Rue Donnet Zedel - Pontarlier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - BMW - Pontarlier",
+    "address": "2 Rue Eugène Thévenin, - Pontarlier",
+    "connectors": [
+      "x2",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Renault - Pontarlier",
+    "address": "1 rue de la Fée Verte - Pontarlier",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

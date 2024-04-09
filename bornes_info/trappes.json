@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Alizé - Rue Jean Jaurès - Trappes",
+    "address": "Rue Jean Jaurès - Trappes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Renault - Avenue Roger Hennequin - Trappes",
+    "address": "2 Avenue Roger Hennequin - Trappes",
+    "connectors": [
+      "x4",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge (FR) - Avenue de l'Armée Leclerc 25 - Trappes (Privé)",
+    "address": "25 Route de Chartres - Trappes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Trappes, Geodis (Privé)",
+    "address": "Rue Albert Einstein - Trappes",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Trappes - Avenue du Mahatma Gandhi",
+    "address": "2 Rue Léo Lagrange - Trappes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "ChargeGuru - Trappes - Volvo Equipment France",
+    "address": "33 Avenue Georges Politzer - Trappes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - Avenue Hector Berlioz - Trappes",
+    "address": "Avenue Hector Berlioz - Trappes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EVBox - Circuit JP Beltoise - Trappes (Privé)",
+    "address": "26 Avenue des Frères Lumière - Trappes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alize- Élancourt - Avenue Paul Cézanne",
+    "address": "2241 Boulevard des Templiers - Élancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan Supermarché - Trappes",
+    "address": "3 Avenue le Verrier - Trappes",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

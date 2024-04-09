@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Izivia - Morlaas - Intermarché",
+    "address": "Rue Baratnau - Morlaas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA (MobiVE) - D943 - Morlaàs",
+    "address": "D943 - Morlaàs",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking place de la Tour",
+    "address": "Place de la Tour - Morlaas",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Bourg",
+    "address": "Place du Docteur Duboué - Saint-Castin",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat tourisme",
+    "address": "Place Marcadieu - Lembeye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEPA - Ecole - Navailles-Angos",
+    "address": "Rue du Bourg - Navailles-Angos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Parking - Chemin Lanots",
+    "address": "6 Allée des Églantiers - Montardon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Helpconfort Pau",
+    "address": "75 boulevard du Cami Salié - Pau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - 4 Rue des Frères Charles et Alcide d'Orbigny - Pau INEXISTANT",
+    "address": "4 Rue des Frères Charles et Alcide d'Orbigny - Pau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Cité Multimédia (Sortie 10) - Pau",
+    "address": "1bis Rue Thomas Edison - Pau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

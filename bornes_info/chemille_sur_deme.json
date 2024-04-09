@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Modulo Energies - Mairie de Chemillé-sur-Deme",
+    "address": "16 Rue de L'Averne - Chemillé-sur-Deme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEIL - Épeigné-sur-Dême",
+    "address": "10 Rue Jean de Bueil - Épeigné-sur-Dême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne SIEIL Parking Salle des Fêtes",
+    "address": "2 Rue de la Dindassière - Louestault",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - 4 Place du Mail - Neuvy le Roi",
+    "address": "4 Place du Mail - Neuvy-le-Roi",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL 37 - Rue de la fontaine - LES HERMITES",
+    "address": "4 Rue de la Fontaine - Les Hermites",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sieil - Villebourg",
+    "address": "Place de la mairie - Villebourg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Parking mairie Beaumont-la-Ronce",
+    "address": "1–1T Rue des Prés - Beaumont-la-Ronce",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - La Chartre-sur-le-Loir - 21 Avenue des Déportés",
+    "address": "21 Avenue des Déportés - La Chartre-sur-le-Loir",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Sidelc - Couture-sur-Loir",
+    "address": "6 Ruelle Des Petits Jardins - Couture-sur-Loir",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - A28 avant barrière de péage - Neuillé Pont Pierre",
+    "address": "A28 - Neuillé-Pont-Pierre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

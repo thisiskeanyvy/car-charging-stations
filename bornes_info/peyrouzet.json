@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Carrefour contact - Samatan",
+    "address": "Allée Jean Cahuzac - Samatan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Halles aux grains - 6 Place des Cordeliers - Samatan",
+    "address": "6 Place des Cordeliers - Samatan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps - Route de Vignolles La Grangette - Lombez",
+    "address": "Route de Vignolles La Grangette - Lombez",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE32 - Gendarmerie Nationale - Lombez",
+    "address": "7 Route de Toulouse - Lombez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Sainte-Foy-de-Peyrolières, Poste",
+    "address": "6 allée des Tilleuls - Sainte-Foy-de-Peyrolières",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Mairie de Saiguède",
+    "address": "5 Rue du 8 Mai 1945 - Saiguède",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE32 - D257 Route du Calvaire - Monferran Savès",
+    "address": "1909 D257 - Monferran-Savès",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Communauté de communes - Rieumes (Privé)",
+    "address": "12 Rue Notre Dame - Rieumes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Place de la Patte d'Oie - Rieumes",
+    "address": "Place de la Patte d'Oie - Rieumes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Brico Marché - Rue Colette Besson",
+    "address": "22 Rue Colette Besson - L'Isle-Jourdain",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Morbihan énergies - Place de la Gare - Guer",
+    "address": "Place de la Gare - Guer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morbihan énergies - Rue du Verger - Augan",
+    "address": "1 Rue du Presbytère - Augan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Avenue du Général Leclerc - Guer",
+    "address": "25 Avenue du Général Leclerc - Guer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Mobilité électrique 56/Ruffiac/Rue de la Poste/",
+    "address": "Rue de la Poste - Ruffiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue Abbé de la Vallière - Carentoir",
+    "address": "Rue Abbé de la Vallière - Carentoir",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Rue du Chêne Heleuc",
+    "address": "17 Rue du Chêne Heleuc - Carentoir",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Ploermel - RN24 - Aire de Brocéliande Sud",
+    "address": "RN 24 - AIRE SUD DE BROCELIANDE - PLOERMEL",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Z.A. la Croix des Archers (Privé)",
+    "address": "La Croix des Archers - La Gacilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan Energies - Mairie de La Gacilly",
+    "address": "8 Rue de L Hôtel de ville - La Gacilly",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Station multi-énergies - Ploërmel",
+    "address": "1466–1468 La Ville Ambois - Ploërmel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

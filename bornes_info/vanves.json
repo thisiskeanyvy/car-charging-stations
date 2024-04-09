@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sigeif - Rue René Sahors - Vanves",
+    "address": "9 Rue René Sahors - Vanves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - 34 Rue Antoine Fratacci - Vanves",
+    "address": "34 Rue Antoine Fratacci - Vanves",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Vanves",
+    "address": "71 Rue Jean Jaurès - Vanves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - 101 Rue Jean Jaurès - Vanves",
+    "address": "101 Rue Jean Jaurès - Vanves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sigeif - 7 Rue Pruvot - Vanves",
+    "address": "Rue Pruvot - Vanves",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Porte F",
+    "address": "Rue Marcel Yol - Vanves",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Mercure Porte de Vanves",
+    "address": "36-38 Rue du Moulin - Vanves",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parc des Expositions",
+    "address": "Rue de l'Agriculture - Vanves",
+    "connectors": [
+      "x1",
+      "x7"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Indigo - Boulevard Charles de Gaulle, 47 - Malakoff",
+    "address": "47 Boulevard Charles de Gaulle - Malakoff",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SONEPAR - Franco-Belge",
+    "address": "6 Avenue Jules Ferry - Malakoff",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

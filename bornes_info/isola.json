@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Isola - Puie",
+    "address": "Puie - Isola",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Prise de Nice - Lazisola - Isola village",
+    "address": "10 Lazisola - Isola",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Prise de Nice - La Vacherie - Isola",
+    "address": "La Vacherie - Isola",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Price de Nice - Parking station galerie - Isola 2000",
+    "address": "M97 - Isola 2000",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chalet Marano Hôtel Restaurant & Spa (Tesla)",
+    "address": "Le Hameau - Lieu-dit La Clairière - Isola",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Voie du Berger - Saint-Étienne-de-Tinée",
+    "address": "Voie du Berger - Saint-Étienne-de-Tinée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Boulevard Georges Pompidou - Saint-Étienne-de-Tinée",
+    "address": "Boulevard Georges Pompidou - Saint-Étienne-de-Tinée",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auron - Parking de Nabines Front de Niege",
+    "address": "Route de Nabines - Saint-Étienne-de-Tinée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CAMPING LE CIANS",
+    "address": "175 Route de la Couillole - Beuil",
+    "connectors": [
+      "x38",
+      "x38"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Parc National du Mercantour - Roure",
+    "address": "M 130 - Roure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

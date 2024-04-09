@@ -1,0 +1,136 @@
+[
+  {
+    "title": "FR*WA3 - Saint-Denis-lès-Martel - Impasse des Termes",
+    "address": "Impasse des Termes - Saint-Denis-lès-Martel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "1437 Route de Feneyrolles Chauffour-sur-velle",
+    "address": "1437 Route de Feneyrolles - Chauffour-sur-velle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Le Vignon-en-Quercy - Carrefour Contact",
+    "address": "Barrat - Le Vignon-en-Quercy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Curemonte - 360 Route de Branceilles",
+    "address": "360 Route de Branceilles - Curemonte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - D803 Bétaille",
+    "address": "D803 - Bétaille",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDEL (Révéo) - D43 - Floirac",
+    "address": "D43 - Floirac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEL - Avenue de Souillac - Martel",
+    "address": "6049F Avenue de Nassogne - Martel",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - ZEborne - Rue du Barri de Souillac - Martel",
+    "address": "Rue du Barri de Souillac - Martel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VVF VILLAGES_COLLOGES-LA-ROUGE_5858_Pext",
+    "address": "La Vignotte - Collonges-la-Rouge",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 - 514 Boulevard du Quercy - Meyssac",
+    "address": "514 Boulevard du Quercy - Meyssac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

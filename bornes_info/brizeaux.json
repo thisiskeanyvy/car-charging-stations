@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Modulo-Energies - Seuil d'Argonne",
+    "address": "Place Lucien Poincaré - Seuil-d'Argonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Verdun - 5 Avenue du Colonel Driant",
+    "address": "5 Avenue du Colonel Driant - Verdun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Vaubécourt",
+    "address": "13 Rue Ernest Chaudron - Vaubecourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Clermont en Argonne",
+    "address": "1 Place de la Malsenez - Clermont-en-Argonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-e - Clermont-en-Argonne - 22bis Rue Thiers",
+    "address": "22bis Rue Thiers - Clermont-en-Argonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo Energies - Rue du Général Leclerc - Givry en Argonne",
+    "address": "1 Les Etanchettes - Givry-en-Argonne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Powerdot - Super U & Drive - Sainte-Menehould",
+    "address": "Av. de la Gare - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SIEM51 - Place d'Austerlitz - Sainte Menehould",
+    "address": "23 Place d'Austerlitz - Sainte-Menehould",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo-Energies - Meuse-TGV",
+    "address": "D190 - Les Trois-Domaines",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Souilly",
+    "address": "77 Voie-Sacrée - Souilly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

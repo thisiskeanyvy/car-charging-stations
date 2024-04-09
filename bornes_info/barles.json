@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Belib - 8 Boulevard de la Madeleine - Paris",
+    "address": "8 Boulevard de la Madeleine - Paris",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 19 Rue Tronchet - Paris",
+    "address": "19 Rue Tronchet - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Saemes - Madeleine Tronchet",
+    "address": "29 Place de la Madeleine - Paris",
+    "connectors": [
+      "x512",
+      "x512"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Indigo - 16 Rue des Mathurins - Paris",
+    "address": "16 Rue des Mathurins - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Belib - 7 Boulevard Malesherbes - Paris",
+    "address": "7 Boulevard Malesherbes - Paris",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Saemes Madeleine-Tronchet (Tesla)",
+    "address": "21 Place de la Madeleine - Paris",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 20 - Haussmann",
+    "address": "61 boulevard Haussmann - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Clem' - Paris 16 - Madeleine",
+    "address": "422 rue Saint-Honoré - Paris",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Indigo - Parking Haussmann - Boulevard Haussmann - Paris",
+    "address": "31Bis Boulevard Haussmann - Paris",
+    "connectors": [
+      "x28",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Belib - 20-24 Rue de la Paix - Paris",
+    "address": "20-24 Rue de la Paix - Paris",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

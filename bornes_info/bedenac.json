@@ -1,0 +1,136 @@
+[
+  {
+    "title": "IONITY - N10 - Aire de Bédenac Est (direction Angoulême)",
+    "address": "N10 - Bedenac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - N10 Aire de Bedenac Ouest",
+    "address": "N10, Aire de Service de Bedenac Ouest - Bedenac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile Services SAS - Rue du Jeu de Quille - Clérac",
+    "address": "Rue du Jeu de Quille - Clérac",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château de Clérac (Tesla et autres)",
+    "address": "11 Route des Châteaux - Clérac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Ruchers de Rosanbo",
+    "address": "135 La Girauderie - Laruscade",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Mairie - Laruscade",
+    "address": "5 D22 - Laruscade",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Saint-Yzan-de-Soudiac",
+    "address": "4 Place Philippe Montangon - Saint-Yzan-de-Soudiac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "NW IECharge - Lieu-dit \"La Motte\" - Orignolles",
+    "address": "Lieu-dit \"La Motte\" - Orignolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Montlieu-la-Garde - Maison de la Forêt / RN10",
+    "address": "D730 - Montlieu-la-Garde",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Rue du Collège Saint-Yzan-de-Soudiac",
+    "address": "1 1 Rue du Collège - Saint-Yzan-de-Soudiac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Tesla Supercharger V2 - Macon",
+    "address": "1 Boulevard du Général de Gaulle - Sancé",
+    "connectors": [
+      "x20",
+      "x20",
+      "x20",
+      "x20"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electra - Sancé - Mercedes-Benz Macon",
+    "address": "3 Impasse de la Madone - Sancé",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - Mercedes - Sance",
+    "address": "5 Impasse de la Madone - Sancé",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Impasse de la Madone 7 - SANCE",
+    "address": "Impasse de la Madone 7 - SANCE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - BMW - Sancé",
+    "address": "16 Rue de la Madone - Sancé",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Corsin Volvo Sancé",
+    "address": "1 Rue de la Madone - Sancé",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan - Mâcon",
+    "address": "224 Avenue Charles de Gaulle - Mâcon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Replonges",
+    "address": "223 Route de Bourg - Replonges",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 484 Avenue Maréchal de Lattre de Tassigny",
+    "address": "484 Avenue Maréchal De Lattre De Tassigny - Mâcon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tour Kennedy",
+    "address": "211 Rue Président Kennedy - Mâcon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

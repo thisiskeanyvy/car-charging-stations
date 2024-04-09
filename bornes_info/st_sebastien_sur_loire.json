@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Izivia - 172 Boulevard des Passage Enchantés - Saint-Sébastien-sur-Loire",
+    "address": "172 Boulevard des Passage Enchantés - Saint-Sébastien-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Protheos Ouest - Saint Sébastien Sur Loire",
+    "address": "7 Avenue Jules Verne - Saint Sébastien Sur Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rue Pierre Mendès France - Saint-Sébastien-sur-Loire",
+    "address": "2 Rue Pierre Mendès France - Saint-Sébastien-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Izivia - Saint-Sébastien-sur-Loire - Auchan",
+    "address": "2 Rue Pierre Mendès France - Saint-Sébastien-sur-Loire",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vp Auto - Vertou",
+    "address": "3 Impasse du Frêne Rond - Vertou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Citroën MECASUD Agent",
+    "address": "113 Rue des Landes de la Plée - Basse-Goulaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel La Vertabelle",
+    "address": "14 Rue Nicolas Appert - Vertou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "parking relais vertou - Route de Nantes - Vertou",
+    "address": "135B Route de Nantes - Vertou",
+    "connectors": [
+      "x10",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Halle du Grignon - Basse-Goulaine",
+    "address": "1 Rue de la Poste - Basse-Goulaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - Parking gare sud 2 - Nantes",
+    "address": "24 Boulevard De Berlin - Nantes",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

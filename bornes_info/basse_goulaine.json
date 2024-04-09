@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Halle du Grignon - Basse-Goulaine",
+    "address": "1 Rue de la Poste - Basse-Goulaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Citroën MECASUD Agent",
+    "address": "113 Rue des Landes de la Plée - Basse-Goulaine",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Protheos Ouest - Saint Sébastien Sur Loire",
+    "address": "7 Avenue Jules Verne - Saint Sébastien Sur Loire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - 172 Boulevard des Passage Enchantés - Saint-Sébastien-sur-Loire",
+    "address": "172 Boulevard des Passage Enchantés - Saint-Sébastien-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SYDEGO - Place Beau Soleil Haute-Goulaine",
+    "address": "2 Place Beau Soleil - Haute-Goulaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "WAAT - Leclerc - Basse-Goulaine",
+    "address": "536 Route De Clisson - Basse-Goulaine",
+    "connectors": [
+      "x4",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDEGO - Hte Goulaine \"Loriots\"",
+    "address": "Rue de la Châtaigneraie - Haute-Goulaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Auchan - Rue Pierre Mendès France - Saint-Sébastien-sur-Loire",
+    "address": "2 Rue Pierre Mendès France - Saint-Sébastien-sur-Loire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SCI POLE SUD III",
+    "address": "7 Allée des Cinq Continents - Vertou",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MOBALPA - VERTOU - 22KW AC",
+    "address": "598 Route de Clisson - Vertou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

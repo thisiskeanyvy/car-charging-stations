@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Hotel de Milan - Rue du Général de Gaulle - Le Bourg-d'Oisans",
+    "address": "54 Rue du Général de Gaulle - Le Bourg-d'Oisans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SPBR1 - Rue Capitaine Meunier - Le Bourg-d'Oisans",
+    "address": "Rue Capitaine Meunier - Le Bourg-d'Oisans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "eborn - Rue Des Colporteurs - Bourg d'Oisans",
+    "address": "50 Rue Des Colporteurs - Le Bourg-d'Oisans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel de l'Oberland",
+    "address": "189 Rue Emilien Joly - Le Bourg-d'Oisans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Huez - Avenue du Moulin",
+    "address": "Avenue du Moulin - Huez",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place des Orgières - Auris",
+    "address": "16 Place des Orgières - Auris",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Quartier de l'Éclose Est - Huez",
+    "address": "Quartier de l'Éclose Est - Huez",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hotel Daria-I Nor - Alpe d'Huez (Porsche)",
+    "address": "Quartier de l'Éclose Est - Huez",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Office de Tourisme de l’Alpe d’Huez",
+    "address": "1261 Route d'Huez - Huez",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Avenue des Jeux - Huez",
+    "address": "115 Avenue des Jeux - Huez",
+    "connectors": [
+      "x3",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

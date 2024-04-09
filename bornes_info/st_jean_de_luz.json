@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MObiVE - Parking des Pyrénées - Saint-Jean-de-Luz",
+    "address": "31 Boulevard du Commandant Passicot - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Indigo - Boulevard Victor Hugo - Saint-Jean-De-Luz",
+    "address": "31 Boulevard Victor Hugo - Saint-Jean-De-Luz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEPA (MObiVE) - Saint-Jean-de-Luz - Avenue Pierre Larramendy",
+    "address": "Avenue Pierre Larramendy - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Indigo - 8 Rue Vincent Barjonnet - Saint-Jean-de-Luz",
+    "address": "8 Rue Vincent Barjonnet - Saint-Jean-de-Luz",
+    "connectors": [
+      "x15"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiVE - Avenue François Miterrand - Ciboure",
+    "address": "Avenue François Mitterrand - Ciboure",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Parc Victoria (Tesla et autres)",
+    "address": "5 Rue Cepe - Saint-Jean-de-Luz",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Réserve - Saint-Jean-de-Luz",
+    "address": "5 Rue Gaëtan de Bernoville - Saint-Jean-de-Luz",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel donibane",
+    "address": "4 Avenue de Layats - Saint-Jean-de-Luz",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue de Layats - Saint-Jean-de-Luz",
+    "address": "4 Avenue de Layats - Saint-Jean-de-Luz",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.Leclerc - D810 - Urrugne",
+    "address": "D810 - Urrugne",
+    "connectors": [
+      "x4",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

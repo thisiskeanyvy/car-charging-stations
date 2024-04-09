@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEDI - Parking Place Jean Vinay - L'Albenc",
+    "address": "1 Rue de la Gare - L'Albenc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "e-born - Avenue de la Gare - Vinay",
+    "address": "20 Avenue de la Gare - Vinay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "e-born - Place de l'Église - Cognin-les-Gorges",
+    "address": "Place de l'Église - Cognin-les-Gorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "eborn - Place Jean Jaurès - Tullins",
+    "address": "Place Jean Jaurès - Tullins",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Logis Hôtel le Vernay (Tesla and others)",
+    "address": "355 Route de Nave - Autrans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Parking Voie Du 6 Fevrier 1968 - Autrans",
+    "address": "D106 - Autrans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "eborn - Route du Sud - Saint-Quentin-sur-Isère",
+    "address": "Route du Sud - Saint-Quentin-sur-Isère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electromaps - AS Autos - Tullins",
+    "address": "Route de Grenoble - Tullins",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Place du Champ de Mars - Saint-Marcellin",
+    "address": "Place du Champ de Mars - Saint-Marcellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Saint-Marcellin - Avenue de la santé",
+    "address": "Avenue de la santé - Saint-Marcellin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

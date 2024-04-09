@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Freshmile - D215A - Valmeinier 1800",
+    "address": "D215A - Valmeinier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Place de la Roche Noire - Valmeinier",
+    "address": "7 Place de la Roche Noire - Valmeinier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Saint-Michel-de-Maurienne - Place De La Mairie",
+    "address": "Place De La Mairie - Saint-Michel-de-Maurienne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Pays de Maurienne - Saint-Michel-de-Maurienne",
+    "address": "36 Rue Général Ferrié - Saint-Michel-de-Maurienne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hameau de Valloire",
+    "address": "2 Chemin de la Curiaz - Valloire",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Be Charge - A43 Autoroute de la Maurienne",
+    "address": "298 Route de la SFTRF - Saint-Martin-d'Arc",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking telecabine - Rue des Grandes Alpes - Valloire",
+    "address": "Rue des Grandes Alpes - Valloire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Recharger mon auto - Orelle - Rue de la Télécabine d'Orelle Télécabine 3 Vallées Express",
+    "address": "Rue de la Télécabine d'Orelle Télécabine 3 Vallées Express - Orelle",
+    "connectors": [
+      "x14",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "LES VERNEYS - Rue du Pré Malin",
+    "address": "2171 Route du Galibier - Valloire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Les Karellis - Montricher-Albanne",
+    "address": "Les Karellis - Montricher-Albanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

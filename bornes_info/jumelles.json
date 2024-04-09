@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Gamm Vert - Saint-André-de-l'Eure",
+    "address": "33 Les Longuins - Saint-André-de-l'Eure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SIEGE27 - Saint-André-de-l'Eure",
+    "address": "Place Gambetta - Saint-André-de-l'Eure",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - RN 154 Route d'orléans - Angerville-la-Campagne",
+    "address": "RN 154 Route d'orléans - Angerville-la-Campagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - ROUTE D'ORLEANS - Angerville La Campagne",
+    "address": "6 Route d'Orleans - Angerville-la-Campagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Urssaf - Rue Henri Becquerel (Privé)",
+    "address": "193 Rue Henri Becquerel - Évreux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Le Brech Peinture (Tesla)",
+    "address": "16bis Rue d'Avrilly - Évreux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Evreux",
+    "address": "184 Route d'Orléans - Évreux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VW Evreux",
+    "address": "184 Route d'Orléans - Évreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Parking service public - Damville",
+    "address": "46 Route De Saint-andré - Mesnils-sur-Iton",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Evreux",
+    "address": "81 Route d'Orléans - Évreux",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

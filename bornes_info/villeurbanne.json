@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IZIVIA - Rue Branly - Villeurbanne",
+    "address": "12 Rue Branly - Villeurbanne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "IZIVIA Grand Lyon - 127 Rue Dedieu",
+    "address": "127 Rue Dedieu - Villeurbanne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Hôtel de ville Villeurbanne",
+    "address": "38 bis rue Michel Servet - Villeurbanne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour - Villeurbanne",
+    "address": "145 Rue Anatole France - Villeurbanne",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "RossiniEnergy - Cr Emile Zola - Villeurbanne",
+    "address": "297 Cr Emile Zola - Villeurbanne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Toyota - Villeurbanne - 22kW AC (Atelier)",
+    "address": "35 Rue Colin - Villeurbanne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA GRAND LYON - Rue Roger Lenoir",
+    "address": "17 Rue Roger Lenoir - Villeurbanne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia Grand Lyon - Avenue Marc Sangnier - Villeurbanne",
+    "address": "3 Avenue Marc Sangnier - Villeurbanne",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue de Château Gaillard - Villeurbanne",
+    "address": "100 Rue de Château Gaillard - Villeurbanne",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Avenue Piaton - Villeurbanne",
+    "address": "14 Avenue Piaton - Villeurbanne",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

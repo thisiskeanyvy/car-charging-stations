@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Pass Pass - Mairie de Gœulzin",
+    "address": "142 Rue Marteloy - Gœulzin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass Pass - Centre Hospitalier Douai - Férin",
+    "address": "732 Route nationale - Férin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - Bricodepot - Férin",
+    "address": "3 Route de Cambrai - Férin",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le Comptoir du Malt",
+    "address": "1911 Route de Dechy - Férin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - Rocade Est - Douai Sin-le-Noble",
+    "address": "D25 Route nationale - Sin-le-Noble",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "R3 - Norauto - Sin-le-Noble",
+    "address": "Route Nationale Zac Les Epis Cc Auchan Douai - Sin-le-Noble",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "BUMP-CHARGE - Dechy - Rue James Tobin",
+    "address": "Rue James Tobin - Dechy",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Face à Le temple de la fleur",
+    "address": "1 Rue James Tobin - Dechy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "E-Totem - Férin - Silver Wash Auto",
+    "address": "40 Route Nationale - Férin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Electra - Dechy - CC Le Parc du Luc",
+    "address": "Rue James Tobin - Dechy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

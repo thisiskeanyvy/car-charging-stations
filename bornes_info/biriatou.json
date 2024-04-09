@@ -1,0 +1,128 @@
+[
+  {
+    "title": "les jardins de Bakea",
+    "address": "1134 Rue Herri Alde - Biriatou",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Campanile - Hendaye",
+    "address": "102 Rue de Béhobie - Hendaye",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Hendaye - Mr Bricolage",
+    "address": "49 Rue de Hapetenia, 64700 Hendaye, France - Hendaye",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEPA (MobiVE) - Rue Lekueder - Hendaye",
+    "address": "Rue Lekueder - Hendaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Hendaye",
+    "address": "4 Rue de l'Industrie - Hendaye",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Intermarché - Hendaye",
+    "address": "9 Rue d'Irandatz - Hendaye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Santiago (clients uniquement)",
+    "address": "15 Rue de Santiago - Hendaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Iberdrola - IRUN - 9 ELIZATXO HIRIBIDEA",
+    "address": "9 ELIZATXO HIRIBIDEA - IRUN",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 175 Boulevard de l'Empereur - Hendaye",
+    "address": "175 Boulevard de l'Empereur - Hendaye",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking - Urrugne",
+    "address": "2385-2633 Route Nationale 10 - Urrugne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

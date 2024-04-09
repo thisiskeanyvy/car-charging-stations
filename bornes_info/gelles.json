@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Renault - Rochefort Montagne",
+    "address": "Route Ancienne Route Nationale 89 - Rochefort-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les Volca'lodges de Tournebise",
+    "address": "- Saint-Pierre-le-Chastel",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG63 - Avenue des Combrailles - Bromont-Lamothe",
+    "address": "58 Avenue des Combrailles - Bromont-Lamothe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mazaye - 18 Chemin De Fenerou",
+    "address": "18 Chemin De Fenerou - Mazaye",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Municipal - Pontgibaud",
+    "address": "La Palle - Pontgibaud",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 1 Rue de l'Église - Rochefort-Montagne",
+    "address": "1 Rue de l'Église - Rochefort-Montagne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Impasse Des Quatre Routes - Nébouzat",
+    "address": "Impasse Des Quatre Routes - Nébouzat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mathieu - Saint-Ours",
+    "address": "7 Chemin de Fougère - Saint-Ours",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEG 63 - 1446 Place de l'Église",
+    "address": "1446 Place de l'Église - Saint-Ours",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEG 63 - Gare de Laqueuille",
+    "address": "1936 Gare de Laqueuille - Saint-Julien-Puy-Lavèze",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

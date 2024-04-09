@@ -1,0 +1,114 @@
+[
+  {
+    "title": "SDE24 - Parking Issigeac",
+    "address": "D14 - Issigeac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiVE - Place Jasmin - Castillonnès",
+    "address": "2 Place Jasmin - Castillonnès",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - Impasse de la Source - Naussannes",
+    "address": "Impasse de la Source - Naussannes",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Parking Jeu de Boules",
+    "address": "9 Boulevard Alphonse de Poitiers - Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEE47 - Parking ancien restaurant",
+    "address": "15 Boulevard des Ducs de Biron - Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE24 (MobiVE) - Route de Lajasse - Faux",
+    "address": "Route de Lajasse - Faux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE24 (MobiVE) - N21 - Bouniagues",
+    "address": "N21 - Bouniagues",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "80A Fauquié Haut",
+    "address": "80A Fauquié Haut - Saint-Etienne-de-Villeréal",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 1"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Bignac - Saint-Nexans",
+    "address": "Le Bignac - Saint-Nexans",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Boulevard de la Résistance",
+    "address": "Boulevard de la Résistance - Beaumont-du-Périgord",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

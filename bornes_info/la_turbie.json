@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Freshmile - Avenue de la Victoire - La Turbie",
+    "address": "1 Avenue de la Victoire - La Turbie",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CARF - La Turbie, Place Neuve",
+    "address": "Place Neuve - La Turbie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Mont-Agel",
+    "address": "2 Route du Mont-Agel - La Turbie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CARF - La Turbie, Rue De L'Amendola",
+    "address": "Rue De L'Amendola - La Turbie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT/FRWATL2L69NXHS",
+    "address": "29 Route du Mont-Agel - La Turbie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "365 Chemin de St-Roch",
+    "address": "365 Chemin de St-Roch - La Turbie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A8 Aire Via Julia Augusta (direction Nice)",
+    "address": "1400bis Chemin De La Cruella - La Turbie",
+    "connectors": [
+      "x7",
+      "x10",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "CARF - Beausoleil, Boulevard Des Moneghetti",
+    "address": "9 Boulevard des Moneghetti - Beausoleil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Gare",
+    "address": "Pont Sainte-Dévote - Monaco",
+    "connectors": [
+      "x49"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Engelin",
+    "address": "Avenue Hector Otto - Monaco",
+    "connectors": [
+      "x17",
+      "x17"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  }
+]

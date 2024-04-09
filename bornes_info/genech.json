@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Parking de la gare SNCF de Templeuve",
+    "address": "Rue des Quatre Cornets - Templeuve",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - E.Leclerc - Templeuve-en-Pévèle",
+    "address": "46 Rue Du Maresquel - Templeuve-en-Pévèle",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Mairie de Cysoing",
+    "address": "128 Rue Gustave Delory - Cysoing",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage Dhainaut - Cappelle en Pévèle",
+    "address": "36 Rue du Général DE GAULLE - Cappelle en Pévèle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot France - CYSOING - 7 Residence Hippocrate, 59830 Cysoing, France",
+    "address": "7 Residence Hippocrate, 59830 Cysoing, France - CYSOING",
+    "connectors": [
+      "x1",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "6 Gaston Martensplein Zulte",
+    "address": "6 Gaston Martensplein - Zulte",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Nomain - Grand'place",
+    "address": "Grand'place - Nomain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Rossini Energy - Duriez Agencement - 98 Rue de Lille - Templeuve-en-Pévèle (Privé)",
+    "address": "98 Rue de Lille - Templeuve-en-Pévèle",
+    "connectors": [
+      "x20"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - 33 Route de Templeuve - Ennevelin",
+    "address": "33 Route de Templeuve - Ennevelin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco - Biocoop - Bouvines",
+    "address": "1424 Rue Félix Dehau - Bouvines",
+    "connectors": [
+      "x8",
+      "x16"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

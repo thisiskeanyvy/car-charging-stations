@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SEDI - Place du 8 Mai 1945 - Leyrieu",
+    "address": "Place du 8 Mai 1945 - Leyrieu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E2M électricité",
+    "address": "103 ZA DE LANCIN - Courtenay",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du 19 mars 1962 - Crémieu",
+    "address": "Rue du 19 Mars 1962 - Crémieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEDI - Trept",
+    "address": "13 Grande Rue - Trept",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "CNPE du Bugey (Parking Nord) (Privé)",
+    "address": "Route de Loyettes - Saint-Vulbas",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNPE du Bugey - Parking Centre (Privé)",
+    "address": "Route de Loyettes - Saint-Vulbas",
+    "connectors": [
+      "x23",
+      "x23"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - CNPE Bugey - Campus UFPI Remplacement - Saint-Vulbas",
+    "address": "400 Avenue Cotier - Saint-Vulbas",
+    "connectors": [
+      "x31",
+      "x31"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ABS INFORMATIQUE - Soleymieu",
+    "address": "5 Place de Lancienne Gare - Soleymieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Montalieu-Vercieu - Chemin d’Anclenoux",
+    "address": "Chemin d’Anclenoux - Montalieu-Vercieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Montalieu-Vercieu",
+    "address": "Chemin D'anclenoux - Montalieu-Vercieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

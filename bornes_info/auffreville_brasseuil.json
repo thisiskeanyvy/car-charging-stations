@@ -1,0 +1,124 @@
+[
+  {
+    "title": "FR*Y01 - Breuil-Bois-Robert - Rue de la Libération",
+    "address": "Rue de la Libération - Breuil-Bois-Robert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*Y01 - Vert - Rue de la Libération",
+    "address": "Rue de la Libération - Vert",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Mare Pasloue - Magnanville",
+    "address": "Rue de la Mare Pasloue - Magnanville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*Y01 - Mantes-la-Ville - Rue Paul Fort",
+    "address": "Rue Paul Fort - Mantes-la-Ville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*Y01 - Villette - Rue Saint-Martin",
+    "address": "Rue Saint-Martin - Villette",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEYMABORNE - Rue de la Libération - Guerville",
+    "address": "Rue de la Libération - Guerville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Magnanville | Rue des Graviers 53",
+    "address": "53 Rue des Graviers - Magnanville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Retail Group Mantes",
+    "address": "6 Rue De L'Ouest - Mantes-La-Ville",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Mantes-la-Ville - Rue de l'Ouest",
+    "address": "Rue de l'Ouest - Mantes-la-Ville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia - ZEborneMS -  6 Rue de Beynes - Magnanville (Privé)",
+    "address": "6 Rue de Beynes - Magnanville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

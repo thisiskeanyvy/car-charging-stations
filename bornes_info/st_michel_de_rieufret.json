@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Total Energies - A62 - Aire des Terres de Graves (direction Langon)",
+    "address": "10 Autoroute des Deux Mers - Saint-Michel-de-Rieufret",
+    "connectors": [
+      "x6",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell-Recharge - A62 Aire des Terres de Graves Nord (direction Bordeaux)",
+    "address": "A62 - Saint-Michel-de-Rieufret",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de l'Estonnac - Landiras",
+    "address": "Place de l'Église - Landiras",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Podensac",
+    "address": "Unnamed Road - Podensac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Rue Grand Rue - Saint-Selve",
+    "address": "Rue Grand Rue - Saint-Selve",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDEEG33 - Place Gambetta - Podensac",
+    "address": "15 Place Gambetta - Podensac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Mairie de Portets",
+    "address": "Rue du Maréchal Leclerc - Portets",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château Doisy-Daëne",
+    "address": "5 Arnauton - Barsac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge France - 15 Gravas - Barsac",
+    "address": "15 Gravas - Barsac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Restaurant du Château de la Tour (Porsche)",
+    "address": "2 Avenue de la Libération - Beguey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

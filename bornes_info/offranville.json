@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Lidl - Saint-Aubin-sur-Scie",
+    "address": "1158 Rue de la Libération - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps S.L. - Saint-Aubin-sur-Scie - 300 Rue de la Providence",
+    "address": "300 Rue de la Providence - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Saint-Aubin-sur-Scie - Hôtel Initial by Balladins Dieppe",
+    "address": "Impasse de la Maison Blanche 113 - Saint-Aubin-sur-Scie",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Le Manoir de Tessy",
+    "address": "Les Bramares - Ouville-la-Rivière",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Dieppe - Rue de la Vieille Grange",
+    "address": "Rue de la Vieille Grange - Dieppe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Dieppe - Auchan",
+    "address": "Avenue des Canadiens - Dieppe",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Auchan - Zone du Belvédère Dieppe",
+    "address": "Zone d'Aménagement Concerté du Belvédère - Dieppe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de l'usine Alpine (Privé) - Rue Marcel Gamot - Dieppe",
+    "address": "Rue Marcel Gamot - Dieppe",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6596925",
+    "address": "23 Rue des Prairies Voie F - Rouxmesnil-Bouteilles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hyundai - Rouxmesnil-Bouteilles",
+    "address": "Zone Industriel Verte Rue Louis Delaporte, - Rouxmesnil-Bouteilles",
+    "connectors": [
+      "x1",
+      "x5",
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

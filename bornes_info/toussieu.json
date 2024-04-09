@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Syder - Place de la Mairie - Toussieu",
+    "address": "4 Place de la Mairie - Toussieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Place Charles de Gaulle - Saint-Pierre-de-Chandieu",
+    "address": "Place Charles de Gaulle - Saint-Pierre-de-Chandieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Rue Lavoisier - Saint-Pierre-de-Chandieu",
+    "address": "Rue Lavoisier - Saint-Pierre-de-Chandieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue du 19 Mars 1962 - Mions",
+    "address": "2 Rue du 19 Mars 1962 - Mions",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - Rue Nicéphore Niepce 31 - St Priest",
+    "address": "Rue Nicéphore Niepce 31 - St Priest",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Rue des Albatros - Mions",
+    "address": "17 Rue des Albatros - Mions",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EXADYS - 11 Rue des Albatros - Mions",
+    "address": "11 Rue des Albatros - Mions",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Route de Lyon, Valencin",
+    "address": "Route de Lyon - Valencin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Chaponnay - ZA Chapotin",
+    "address": "250 Avenue du Professeur Marcel Dargent - Chaponnay",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Teramat",
+    "address": "730 Chemin de savoyan - Heyrieux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

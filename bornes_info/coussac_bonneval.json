@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEHV - Gare Saint Yrieix la Perche",
+    "address": "2 Avenue de la Gare - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEHV - Place de la Nation - Saint-Yrieix-la-Perche",
+    "address": "20 Place de la Nation - Saint-Yrieix-la-Perche",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Rue de l'Hôpital",
+    "address": "9 Rue de l'Hôpital - Lubersac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "FDEE19 (Mobive) - Rue du 11 Novembre - Lubersac",
+    "address": "Rue du 11 Novembre - Lubersac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Super U - Lubersac",
+    "address": "Avenue du 8 Mai 1945 - Lubersac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Station service Super U Lubersac",
+    "address": "11 D 902 - Lubersac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Renault Labrot- Avenue du Limousin - Arnac-Pompadour",
+    "address": "14 Avenue du Limousin - Arnac-Pompadour",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - 1 Place du Château",
+    "address": "1 Place du Château - Arnac-Pompadour",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "moulin de la jarousse",
+    "address": "231 Moulin de la Jarousse - Angoisse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A20 Aire de la Porte de Corrèze (double-sens)",
+    "address": "0 Autoroute A 20 - Masseret",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

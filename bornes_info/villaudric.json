@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Powerdot - Intermarché - Fronton",
+    "address": "800 Route de toulouse - Fronton",
+    "connectors": [
+      "x5",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEHG - Esplanade - Fronton",
+    "address": "6 Allée Jean Ferran - Fronton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché Bouloc",
+    "address": "19 Rue des Pellissiers - Bouloc",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BP - A62 Aire du Frontonnais (Direction Montauban)",
+    "address": "A62 - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A62 Aire de Frontonnais Nord (direction Montauban)",
+    "address": "A62/E72, Aire de Frontonnais Nord - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEHG - Place de la République - Bouloc",
+    "address": "1 Place de la République - Bouloc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AVIA - A62 - Aire de Frontonnais (direction Toulouse)",
+    "address": "A62 - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A62 Aire de Frontonnais Sud (direction Toulouse)",
+    "address": "A62/E72, Aire de Frontonnais Sud - Castelnau-d'Estrétefonds",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue de la République - Nohic",
+    "address": "51 Rue de la République - Nohic",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Place Charles Ourgaut - Villemur-sur-Tarn",
+    "address": "50 Rue des Huguenots - Villemur-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

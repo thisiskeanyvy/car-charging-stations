@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Carrefour Market - Condrieu",
+    "address": "Route Nationale 86, - Condrieu",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Le Beau Rivage (Tesla et autres)",
+    "address": "2 Rue Beau Rivage - Condrieu",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Route de Condrieu - Saint-Clair-du-Rhône",
+    "address": "10 Route de Condrieu - Saint-Clair-du-Rhône",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Leclerc - Chavanay",
+    "address": "49-51 Route Nationale 86 - Chavanay",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place Charles de Gaulle - Saint-Clair-du-Rhône",
+    "address": "Place Charles de Gaulle - Saint-Clair-du-Rhône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYDER - Rue de l'Industrie - Condrieu",
+    "address": "Rue de l'Industrie - Condrieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Chavanay - Zone D’Activite De Verlieu",
+    "address": "Zone D’Activite De Verlieu - Chavanay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "DRIVECO - 12 Chem. du Camping, - Condrieu",
+    "address": "12 Chem. du Camping, - Condrieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Rue de la Mairie - Tupin-et-Semons",
+    "address": "70 Rue de la Mairie - Tupin-et-Semons",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alizé - 3 Rue de l'Europe - Pélussin",
+    "address": "3 Rue de l'Europe - Pélussin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

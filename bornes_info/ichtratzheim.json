@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - Rue de Lyon - Fegersheim",
+    "address": "Rue de Lyon - Fegersheim",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Rue du Général de Gaulle - Lipsheim",
+    "address": "Rue du Général de Gaulle - Lipsheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Bosch - 1 Gaggenau Industrie SAS, Rue Baudelaire - Lipsheim",
+    "address": "1 Gaggenau Industrie SAS, Rue Baudelaire - Lipsheim",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Harley Davidson - Fegersheim",
+    "address": "6 Rue du Commerce - Fegersheim",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HINDSERHOF - La cour de Hindisheim - Restaurant",
+    "address": "249 Rue de l'Église - Hindisheim",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue des Merles - Eschau",
+    "address": "4 Rue des Merles - Eschau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cabinet de Kinésithérapie - Eschau",
+    "address": "31 a rue du couvent - Eschau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue du Moulin - Plobsheim",
+    "address": "Rue du Moulin - Plobsheim",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Super U - Eschau",
+    "address": "25 Rue du Tramway - Eschau",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Powerdot - Geispolsheim - Hôtel Holiday Inn Express",
+    "address": "5 Rue de l'Ill - Geispolsheim",
+    "connectors": [
+      "x2",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "ZEborne - Route de Flers - Sarceaux",
+    "address": "Route de Flers - Sarceaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zunder - A88 Aire du Pays d'Argentan (double sens)",
+    "address": "A88 - Argentan",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Shell Recharge - Intermarché - Argentan",
+    "address": "75 Avenue de la 2ème Db - Argentan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Maison des entreprises et du territoire",
+    "address": "12 Route de Sées - Argentan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Argentan BODEMERAUTO",
+    "address": "3 Boulevard Victor Hugo - Argentan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - 3 route du Faisan Doré - Fontenay-sur-Orne",
+    "address": "3 route du Faisan Doré - Fontenay-sur-Orne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre d’exploitation routier - avenue de 2ème division blindée - Argentan",
+    "address": "31 avenue de 2ème division blindée - Argentan",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Argentan - Boulevard Carnot",
+    "address": "23-25 Boulevard Carnot - Argentan",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SE61 - Rue de la Noe - Argentan",
+    "address": "Rue de la Noe - Argentan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SE61 - place robert aubin Argentan",
+    "address": "1 Rue Jean Siard - Argentan",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEHG - Pechbonnieu (DVAR)",
+    "address": "21 Route de Bessières - Pechbonnieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Route de Gratentour",
+    "address": "Route de Gratentour - Pechbonnieu",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEHG - Rue Marie GOUZE Montberon",
+    "address": "1 Rue Marie GOUZE - Montberon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Chemin de Buffebiau - Castelginest",
+    "address": "126 Chemin de Buffebiau - Castelginest",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Route de Bessières",
+    "address": "131 Route de Bessières - Fonbeauzard",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Fonbeauzard - Super U",
+    "address": "121 Rte de Bessières - Fonbeauzard",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Launaguet",
+    "address": "17 Avenue des Nobles - Launaguet",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Mairie de Castelginest",
+    "address": "Rue de l'Eglise - Castelginest",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Route de Barranquet - Lapeyrouse-Fossat",
+    "address": "28 Route de Barranquet - Lapeyrouse-Fossat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Avenue de Toulouse",
+    "address": "Avenue de Toulouse - Gratentour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MobiVE - Ussac - ZC LA CROIX DE PATAUD",
+    "address": "Avenue de Brive ZC La Croix de Pataud - Ussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Brive-la-Gaillarde",
+    "address": "7 Impasse Jean Kepler - Brive-la-Gaillarde",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V2/V3 - Brive-la-Gaillarde",
+    "address": "2 Impasse de l'Étang du Griffolet - Ussac",
+    "connectors": [
+      "x20",
+      "x8"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel Mercure Brive-la-Gaillarde",
+    "address": "Le Griffolet - Ussac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fédération Départementale d'Electrification et d'Energie de la Corrèze - Brive-la-Gaillarde - Boulevard Docteur Verlhac",
+    "address": "Boulevard Docteur Verlhac - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "MobIVE - Brive-la-Gaillarde - Rue Marcelin Roche",
+    "address": "Rue Marcelin Roche - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Restaurant Le dépot - Ussac",
+    "address": "25 Cana - Ussac",
+    "connectors": [
+      "x2",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiVE - Brive-la-Gaillarde - Rue François Villon",
+    "address": "Rue François Villon - Brive-la-Gaillarde",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Brive-la-Gaillarde - 2 Boulevard Paul Painlevé",
+    "address": "2 Boulevard Paul Painlevé - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Brive-la-Gaillarde - Rue Jules Ladoumegue",
+    "address": "Rue Jules Ladoumegue - Brive-la-Gaillarde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

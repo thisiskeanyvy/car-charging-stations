@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Le Manoir du Golf",
+    "address": "927 Rue du Chablais - Publier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Cora Amphion - D1005",
+    "address": "Tata Musy - Publier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "e-born - Route du Vieux Mottay - Publier",
+    "address": "456 Route Du Vieux Mottay - Publier",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "TotalEnergies - PUBLIER - Entrepôt du Bricolage",
+    "address": "Route des Vignes Rouges - PUBLIER",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Decathlon & Boulanger - Publier",
+    "address": "185 Impasse des Vignes Rouges - Publier",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Evian Resort Golf Club (Tesla + autres)",
+    "address": "2 Route du Golf - Évian-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Evian Resort Golf Club - Évian-les-Bains (Porsche)",
+    "address": "2 Rte Du Golf - Évian-les-Bains",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Usine Evian (employés)",
+    "address": "468 Rue du Vignoble Franc - Publier",
+    "connectors": [
+      "x8",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Gare d'Evian - Route De Bissinges - Évian-les-Bains",
+    "address": "983 Route de Bissinges - Évian-les-Bains",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Évian-les-Bains",
+    "address": "1 Impasse des cedres - Évian-les-Bains",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

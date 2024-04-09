@@ -1,0 +1,138 @@
+[
+  {
+    "title": "RAON AUX BOIS - ROUTE D'ARCHES - 162333 - CCS",
+    "address": "Route d'Arches - Raon-aux-Bois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Modulo Energies - Gare de Saint-Nabord",
+    "address": "Place de la Gare - Saint-Nabord",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "HADOL - PLACE VIVIN - 161845 - CCS",
+    "address": "Place Louis Vivin - Hadol",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Properphi - Saint-Nabord - Route de la Plaine d'Eloyes",
+    "address": "Route de la Plaine d'Eloyes - Saint-Nabord",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Remiremont - 18 Chemin Du Canal",
+    "address": "18 Chemin Du Canal - Remiremont",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Properphi - Mauffrey Academy - Avenue de Lattre de Tassigny - Éloyes",
+    "address": "3 La Jettée - Éloyes",
+    "connectors": [
+      "x1",
+      "x2",
+      "x16",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Aldi - Rue de la Gare - Pouxeux",
+    "address": "1324 Rue de la Gare - Pouxeux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Pouxeux - Super U",
+    "address": "Rue de la Moselle, Route de Remiremont ZA - Pouxeux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "AGACI - Remiremont",
+    "address": "28 Rue de la Joncherie - Remiremont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - St Etienne les Remiremont",
+    "address": "Parc économique des grands moulins - St Etienne Les Remiremont",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

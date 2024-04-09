@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FASTNED - A29 Aire de Villers-Bretonneux (double sens)",
+    "address": "A13 - Villers-Bretonneux",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Rue Léon Cure - Corbie",
+    "address": "14 Rue Léon Cure - Corbie",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDE80 - CORBIE rue du 11 Novembre",
+    "address": "3 Rue du 11 Novembre 1918 - CORBIE",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDE80 - Corbie Gare",
+    "address": "81 Rue Jean Jaurès - Corbie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôpital de Corbie",
+    "address": "35 Rue Gambetta - Corbie",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Restaurant La Grenouillère",
+    "address": "D934 - Boves",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - 17 rue de Moreuil - Sailly-Laurette",
+    "address": "17 rue de Moreuil - Sailly-Laurette",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Rue Neuve - Glisy",
+    "address": "3 Rue Neuve - Glisy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Glisy - 6 Allée De Maître Zaccharius",
+    "address": "6 Allée De Maître Zaccharius - Glisy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDE80 - Grande Rue THEZY GLIMONT",
+    "address": "2 Grande Rue - Thézy-Glimont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

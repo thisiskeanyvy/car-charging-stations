@@ -1,0 +1,138 @@
+[
+  {
+    "title": "YonneSolaire - Saint-Valérien",
+    "address": "4 Chemin du Gué des Archers - Saint-Valérien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENGIE Vianeo - A19 Aire de Villeroy (double sens)",
+    "address": "16 Rue Des Vignes - Fouchères",
+    "connectors": [
+      "x4",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Fouchères",
+    "address": "Rue du Bout du Monde - Fouchères",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Fouchères",
+    "address": "E511 - Subligny",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Mairie - Saint-Valérien",
+    "address": "1 Rue Georges Boully - Saint-Valérien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 24 Rue Champs du Cerf",
+    "address": "24 Rue Champs du Cerf - Subligny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEY - Saint Valérien - Parking d'Enfert",
+    "address": "Saint Valérien, Parking d'Enfert - Saint Valérien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 7bis Rue de l'Église",
+    "address": "7bis Rue de l'Église - Nailly",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place de l'Eglise - Villeneuve-la-Dondagre",
+    "address": "2 Rue des Vignes - Villeneuve-la-Dondagre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "A cotez de la mairie",
+    "address": "47 bis Grande Rue - Saint-Martin-du-Tertre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

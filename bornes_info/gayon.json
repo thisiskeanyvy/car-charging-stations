@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Mobilité électrique 56/Ruffiac/Rue de la Poste/",
+    "address": "Rue de la Poste - Ruffiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Place du Docteur Jean Queinnec - Malestroit",
+    "address": "5 Place du Docteur Jean Queinnec - Malestroit",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Morbihan énergies - 20 place du Docteur Jean Queinnec",
+    "address": "18 Place du Docteur Jean Quiennec - Malestroit",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Lidl - Malestroit",
+    "address": "6119 Rue de la Gare - Malestroit",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "PA Tirpen",
+    "address": "PA Tirpen La Paviotaie - Malestroit",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Rue du Verger - Augan",
+    "address": "1 Rue du Presbytère - Augan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - La Paviotaie ZA du Tirpen - Saint-Marcel",
+    "address": "- - - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Morbihan énergies - Cadic, 56 - La Chapelle-Caro",
+    "address": "2 Place De l'Eglise - La Chapelle-Caro",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Morbihan énergies - Rue de la Bouie - Saint-Marcel",
+    "address": "1 Rue de la bouie - Saint-Marcel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Total Energies - Ploermel - RN24 - Aire de Brocéliande Sud",
+    "address": "RN 24 - AIRE SUD DE BROCELIANDE - PLOERMEL",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

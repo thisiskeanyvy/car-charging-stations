@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SMOYS - Route de Grigny - Ris-Orangis",
+    "address": "29 Route de Grigny - Ris-Orangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Rue du Château d'Eau - Ris-Orangis",
+    "address": "Rue du Château d'Eau - Ris-Orangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sodetrel - Avenue auguste plat - Ris orangis",
+    "address": "17 Avenue auguste plat - Ris orangis",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Avenue du Maréchal de Turenne - Ris-Orangis",
+    "address": "Place jacques brel - Ris-Orangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Ris-Orangis",
+    "address": "3 Avenue Paul Langevin - Ris-Orangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Ris-Orangis",
+    "address": "4-19 Avenue Paul Langevin - Ris-Orangis",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Best Western",
+    "address": "8 rue du clos - Ris orangis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Rue Eugène Freyssinet - Ris-Orangis",
+    "address": "Rue Eugène Freyssinet - Ris-Orangis",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - Grigny - Norauto",
+    "address": "7 Rue Ferdinand de Lesseps - Grigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Rue Henri Rol-Tanguy",
+    "address": "4 Rue Henri Rol-Tanguy - Grigny",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Sydégo - Boulevard Gabriel Reliquet - Machecoul",
+    "address": "6B Boulevard Gabriel Reliquet - Machecoul",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Super U - Machecoul",
+    "address": "Impasse des Iris - Machecoul",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Garage De La Roche, Peugeot",
+    "address": "1 Rue Clément Ader - Machecoul",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDEGO - Rue de la ville en Bois - St Même le Tenu",
+    "address": "Rue de la ville en Bois - Saint-Même-le-Tenu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SYDEGO Station Paulx (Place de l'Ebergement)",
+    "address": "1 Place de l'Ebergement - Paulx",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sydego - St Étienne de Mer Morte",
+    "address": "Rue de Nantes - Saint-Étienne-de-Mer-Morte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place N-D du Châtelier - Station St Lumine de Coutais",
+    "address": "Place N-D du Châtelier - Saint-Lumine-de-Coutais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bourgneuf Automobiles",
+    "address": "5 Rue des Jaunins - Bourgneuf-en-Retz",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Mairie de La Garnache",
+    "address": "Place de la Mairie - La Garnache",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rossini Energy - La Garnache - 53 Rue du Faubourg Saint-Thomas",
+    "address": "53 Rue du Faubourg Saint-Thomas - La Garnache",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

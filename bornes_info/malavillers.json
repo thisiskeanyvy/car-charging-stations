@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Vinci - Gare d'Audun-le-Roman",
+    "address": "Place de la Gare Aire de covoiturage - Audun-le-Roman",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - 7a Place Du Général De Gaulle - Audun-le-Roman",
+    "address": "7a Place Du Général De Gaulle - Audun-le-Roman",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de la salle Aragon",
+    "address": "71 Route de Briey - Audun-le-Roman",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E. Leclerc Express-Drive - Audun-le-Roman",
+    "address": "35 Route De Briey - Audun-le-Roman",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mairie de Mont-Bonvillers",
+    "address": "5 D952 - Mont-Bonvillers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - 23 Rue Clemenceau - Tucquegnieux",
+    "address": "23 Rue Clemenceau - Tucquegnieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vinci - Mairie de Trieux",
+    "address": "Square des Tilleuls - Trieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "ZEborne - Netto - Trieux",
+    "address": "70 Avenue de la Libération - Trieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mairie de Landres",
+    "address": "2 Rue du 22 Aout 1914 - Landres",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Intermarché - D156 Chemin départemental - Landres",
+    "address": "143 D156 Chemin départemental - Landres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

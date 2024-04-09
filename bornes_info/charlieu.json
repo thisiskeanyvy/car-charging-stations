@@ -1,0 +1,130 @@
+[
+  {
+    "title": "e-borne - Place de la bouverie - Charlieu",
+    "address": "Place de la Bouverie - Charlieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Charlieu - Relais de l'Abbaye",
+    "address": "495 D4 - Charlieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - 538 Rue Magellan - Saint-Nizier-sous-Charlieu",
+    "address": "512 Rue Magellan - Saint-Nizier-sous-Charlieu",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Eborn - Vougy - Rue de verdun",
+    "address": "Rue de verdun - Vougy",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison d'hotes Clos Marie",
+    "address": "Rue du Four à Chaux - Iguerande",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Societe ALHENA - Châteauneuf",
+    "address": "Le Bourg - Châteauneuf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Iguerande | Le Colombier",
+    "address": "Le Colombier - Iguerande",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVMap - Vougy - Mercedes",
+    "address": "3760 Route de Roanne - Vougy",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEL (Mobiloire) - Route de Bonvert - Mably",
+    "address": "Route de Bonvert - Mably",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Salle des Sports - Mably",
+    "address": "Parking Salle des Sports - Mably",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

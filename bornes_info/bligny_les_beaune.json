@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Mairie de Bligny-lès-Beaune",
+    "address": "1 Grande Rue - Bligny-lès-Beaune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel le Clos - Montagny les beaune (Tesla)",
+    "address": "22 Rue des Gravieres - Montagny les beaune",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison Belles Pierres",
+    "address": "4 Rue des Gravières - Montagny-lès-Beaune",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Beaune - Hotel Première Classe",
+    "address": "Route de Montagny les Beaune - Beaune",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A6 Aire de Beaune-Tailly (direction Lyon)",
+    "address": "A6 - Merceuil",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E-Totem - Hotel Campanile de Beaune",
+    "address": "Route de Montagny les Beaune - Beaune",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Campanile - Route Montagny Les Beaune - 21200 Beaune",
+    "address": "Route Montagny Les Beaune - Beaune",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA - A6 - Aire de Beaune-Tailly (direction Chalon-sur-Saône) SUPPRIMÉ",
+    "address": "A6 - Merceuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - A6 Aire de Beaune Merceuil (direction Dijon)",
+    "address": "A6, Aire de Beaune - Merceuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Autogrill Aire de Beaune Tailly A6",
+    "address": "2 A6 - Merceuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

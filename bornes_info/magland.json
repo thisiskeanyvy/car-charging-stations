@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SYANE - Tabac-Presse - Magland",
+    "address": "D1205 - Magland",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Zephyre - Hôtel & Spa La Croix de Savoie - Arâches-la-Frasse",
+    "address": "768 Rte du Pernand - Arâches-la-Frasse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route des Moulins - Arâches-la-Frasse",
+    "address": "61 Route des Moulins - Arâches-la-Frasse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "hôtel le relais du mont blanc",
+    "address": "19 route de bellegarde - Magland",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Spar - Arâches-la-Frasse",
+    "address": "2301 Route de la Barliette - Arâches-la-Frasse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking du télécabine",
+    "address": "4 Impasse des Sablets - Arâches-la-Frasse",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Magland",
+    "address": "180 D1205 - Magland",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mercedes Benz - Cluses EMB74",
+    "address": "125 Avenue d'Italie - Cluses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BA USINAGE - Cluses",
+    "address": "185 Avenue d'Italie - Cluses",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE La Maladière - Autoport P+R (Sortie 19)",
+    "address": "620 Avenue d'Italie - Cluses",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  }
+]

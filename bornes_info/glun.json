@@ -1,0 +1,126 @@
+[
+  {
+    "title": "eborn - Grand Rue - La Roche-de-Glun",
+    "address": "Grand Rue - La Roche-de-Glun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "eborn - Chemin de Halage - Mauves",
+    "address": "Chemin de Halage - Mauves",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Pont-de-l'Isère - 55 Passage Marc Seguin",
+    "address": "55 Passage Marc Seguin - Pont-de-l'Isère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A7 Aire de Pont de l'Isère (Direction Valence)",
+    "address": "700 Rue Lavoisier - Pont-de-l'Isère",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "GCK Energy - A7 Aire de Pont de l'Isère (direction Valence)",
+    "address": "Aire de Pont de l'Isère - Pont-de-l'Isère",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel-Restaurant Michel Chabran - Avenue du 45ème Parallèle",
+    "address": "29 Avenue du 45ème Parallèle - Pont-de-l'Isère",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - A7 Aire Latitude 45 (direction Lyon)",
+    "address": "A7 - Aire Latitude 45 - Pont-de-l'Isère",
+    "connectors": [
+      "x2",
+      "x28",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Izivia - Esso | Aire de Latitude 45",
+    "address": "A7 - Pont-de-l'Isère",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Avenue du 45ème Parallèle - Pont-de-l'Isère",
+    "address": "Avenue du 45ème Parallèle - Pont-de-l'Isère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell-Recharge (FR) - Chemin de la Pichonnière 75 - Tournon-sur-Rhône",
+    "address": "Chemin de la Pichonnière 75 - Tournon-sur-Rhône",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

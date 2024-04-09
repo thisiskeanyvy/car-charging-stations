@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Intermarché - Douchy les Mines",
+    "address": "28 Rue D'Haspres - Douchy les Mines",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Chemin de Saint-Amand-les-Eaux - Denain",
+    "address": "Chemin de Saint-Amand-les-Eaux - Denain",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E-Totem - Denain - Car Wash",
+    "address": "Rue Louis Petit - Denain",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Carrefour - Denain",
+    "address": "0 Route sans nom - Denain",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Lourches",
+    "address": "32 Rue Jean Jaures - Lourches",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Thiant",
+    "address": "13 Rue du 19 Mars 1962 - Thiant",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RossiniEnergy - 998 Rue Pierre Neve - Denain",
+    "address": "998 Rue Pierre Neve - Denain",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Plateforme Decathlon - Rouvignies",
+    "address": "Rue Marc Jodot - Rouvignies",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Lieu-Saint-Amand (Planifié)",
+    "address": "50 Avenue De Bouchain - Lieu-Saint-Amand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Proviridis - Rouvignies - Rue Louis Dacquin",
+    "address": "Rue Louis Dacquin - Rouvignies",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  }
+]

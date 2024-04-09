@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE03 - Le Mayet-de-Montagne",
+    "address": "38 Place aux Foires - Le Mayet-de-Montagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché - Le Mayet-de-Montagne",
+    "address": "29 Rue de Ferrières - Le Mayet-de-Montagne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lieu-dit Précontent",
+    "address": "D25 - Arfeuilles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Domaine La Bourbonnaise",
+    "address": "D477 - Laprugne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Avenue de Bellevue - Saint-Yorre",
+    "address": "Avenue de Bellevue - Saint-Yorre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE03 - Abrest",
+    "address": "Place Jean Moulin - Abrest",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - 1 Avenue du Drapeau - Cusset",
+    "address": "1 Avenue du Drapeau - Cusset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Cor",
+    "address": "17 Rue Gambetta - Cusset",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE03 - Place du Centenaire - Cusset",
+    "address": "Place du Centenaire - Cusset",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - D52 - Ambierle",
+    "address": "D52 - Ambierle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

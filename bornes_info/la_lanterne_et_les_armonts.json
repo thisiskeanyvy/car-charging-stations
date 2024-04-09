@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Place des Chars",
+    "address": "Rue des Chars - Faucogney-et-la-Mer",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place du Champ de Foire - Faucogney-et-la-Mer",
+    "address": "1 Place du Champ de Foire - Faucogney-et-la-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIED70 - Melisey - Place de la gare",
+    "address": "4 Route de Lure - Mélisey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "borne maison France services",
+    "address": "8 Rue du Moulin - Mélisey",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Camping Car - Raddon-et-Chapendu",
+    "address": "Rue des Mélèzes - Raddon-et-Chapendu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Dacia Luxeuil Automobiles SAS",
+    "address": "Zone artisanale de la zouzette - Froideconche",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - McDonald's - Froideconche",
+    "address": "2 Rue du 19 Mars 1962 - Froideconche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Aldi Luxeuil",
+    "address": "2 Rue Marceau - Luxeuil-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Froideconche",
+    "address": "D6, Grand Pré du Relet - Froideconche",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Auchan - Luxeuil-les-Bains",
+    "address": "33 Rue des Martyrs de la Résistance - Luxeuil-les-Bains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  }
+]

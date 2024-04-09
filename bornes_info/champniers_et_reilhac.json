@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE24 (MObiVE) - Boulevard du Champ de Foire - Piégut-Pluviers",
+    "address": "599 Boulevard du Champ de Foire - Piégut-Pluviers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking du bourg",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Marval - D15 Salle polyvalente André Marcillaud",
+    "address": "D15 Salle polyvalente André Marcillaud - Marval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire de Camping Car - Busserolles",
+    "address": "D88 - Busserolles",
+    "connectors": [
+      "x1",
+      "x5",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Inconnu",
+      "Inconnu",
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Bricomarche, 30 Rue de Saint-Mathieu",
+    "address": "30 Rue de Saint-Mathieu - Cussac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cussac centre - Rue du 8 Mai 1945",
+    "address": "17 Rue du 8 Mai 1945 - Cussac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE24 - Saint-Estèphe - Route du Grand Étang",
+    "address": "Route du Grand Étang - Saint-Estèphe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE24 - Les Petits Moulins - Saint-Estèphe",
+    "address": "25 Les Petits Moulins - Saint-Estèphe",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Rouzède - 26 Domaine de la Haute Preze",
+    "address": "26 Domaine de la Haute Preze - Rouzède",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - U Express - Oradour-sur-Vayres",
+    "address": "1 Rue Jean Segurel - Oradour-sur-Vayres",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

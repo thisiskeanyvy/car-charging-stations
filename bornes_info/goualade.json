@@ -1,0 +1,134 @@
+[
+  {
+    "title": "IONITY - A65 - Aire du Cœur d'Aquitaine (double sens)",
+    "address": "A65 - Captieux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Place de l'Église - Captieux",
+    "address": "Place de l'Église - Captieux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 (MObiVE) - Rue du Château d'Eau - Grignols",
+    "address": "Rue du Château d'Eau - Grignols",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Moulin de Laboirie",
+    "address": "1 Laboirie - Saint-Côme",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Domaine de Fompeyre - Bazas",
+    "address": "Route de Mont de Marsan - Bazas",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Center parcs Domaine des Landes de Gascogne",
+    "address": "1295 route du pegean - Beauziac",
+    "connectors": [
+      "x5",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Lidl - Bazas",
+    "address": "35 Route de Langon - Bazas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Last Mile Solutions (FR) - Citroën - Bazas - 1 Matiton",
+    "address": "1 Matiton - Bazas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Lac de Clarens - Casteljaloux",
+    "address": "Lac de Clarens - Casteljaloux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hôtel du lac - Casteljaloux",
+    "address": "Unnamed Road - Casteljaloux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

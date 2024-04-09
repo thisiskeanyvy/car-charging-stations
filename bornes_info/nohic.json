@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE82 - Rue de la République - Nohic",
+    "address": "51 Rue de la République - Nohic",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Reynies",
+    "address": "2 Rue Albert de Reyniès - Reyniès",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Place Charles Ourgaut - Villemur-sur-Tarn",
+    "address": "50 Rue des Huguenots - Villemur-sur-Tarn",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue d'occitanie - Labastide-Saint-Pierre",
+    "address": "Rue d'occitanie - Labastide-Saint-Pierre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEHG - Esplanade - Fronton",
+    "address": "6 Allée Jean Ferran - Fronton",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Intermarché - Fronton",
+    "address": "800 Route de toulouse - Fronton",
+    "connectors": [
+      "x5",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE82 - Rue du Stade - Corbarieu",
+    "address": "Rue du Stade - Corbarieu",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - 495 Route d'Albi - Saint-Nauphary",
+    "address": "495 Route d'Albi - Saint-Nauphary",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Château de Vernhes - Bondigoux",
+    "address": "Château de Vernhes - Bondigoux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ad Quotidien 82 (privé)",
+    "address": "7 Rue des Chênes - Campsas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MobiVE - Rue de la Gare - Brossac",
+    "address": "Rue de la Gare - Brossac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Chevanceaux - Avenue de Paris",
+    "address": "Avenue de Paris - Chevanceaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEG16 - Rue Alfred de Vigny - Chalais",
+    "address": "Rue Alfred de Vigny - Chalais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat départemental de la Charente-Maritime - Montguyon - Place du Champ de Foire",
+    "address": "Place du Champ de Foire - Montguyon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDEG16 - Avenue de la Gare - Chalais",
+    "address": "Avenue de la Gare - Chalais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ets Gautier",
+    "address": "2 Rue de l'Abattoir - Montguyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Kiosque a pizza",
+    "address": "Route de Clairvent - Montguyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Rampe Saint-Nicolas - Baignes-Sainte-Radegonde",
+    "address": "Rampe Saint-Nicolas - Baignes-Sainte-Radegonde",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Lieu-dit \"La Motte\" - Orignolles",
+    "address": "Lieu-dit \"La Motte\" - Orignolles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MObiVE SDEER17 - Montlieu-la-Garde - Maison de la Forêt / RN10",
+    "address": "D730 - Montlieu-la-Garde",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

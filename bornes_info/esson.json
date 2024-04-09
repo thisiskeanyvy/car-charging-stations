@@ -1,0 +1,130 @@
+[
+  {
+    "title": "ChargePoint Network - 7 Rue Montespan",
+    "address": "7 Rue Montespan - Évry-Courcouronnes",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Maison de l'Avocat - Mazieres - EVRY",
+    "address": "11 Mazieres - EVRY",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking Sabatier - Desserte des Passages - Evry",
+    "address": "Desserte des Passages - Evry",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EFFIA - Place des Terrasses de l'Agora - Évry-Courcouronnes",
+    "address": "Place des Terrasses de l'Agora - Évry-Courcouronnes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Évry-Courcouronnes - CC Le Spot Evry",
+    "address": "2 boulevard de l'Europe - Évry-Courcouronnes",
+    "connectors": [
+      "x2",
+      "x8",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ibis Styles Evry Cathédrale",
+    "address": "52 Boulevard des Coquibus - Évry",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Cours Monseigneur Roméro - Évry",
+    "address": "11 Cours Monseigneur Roméro - Évry",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SMOYS - Courcouronnes",
+    "address": "10 Mail René Clair - Évry-Courcouronnes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Telecom sud - Évry (Privé)",
+    "address": "34 Rue Charles Fourier - Évry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Parc Élisabeth",
+    "address": "1 Parc Élisabeth - Évry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  }
+]

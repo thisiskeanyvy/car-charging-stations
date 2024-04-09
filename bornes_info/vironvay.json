@@ -1,0 +1,138 @@
+[
+  {
+    "title": "TotalEnergies - A13 - Aire de Vironvay Sud (Direction Paris)",
+    "address": "A13 - Aire de Vironvay Sud - Vironvay",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x12",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A13 Aire de Vironvay Nord (Direction Rouen)",
+    "address": "A13 - Vironvay",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x11",
+      "x3"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ecoparc satellite ZA2",
+    "address": "Ecoparc satellite ZA2 - Heudebouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SGA Automation - Allée des Chênes Ecoparc - Heudebouville",
+    "address": "Allée des Chênes Ecoparc - Heudebouville",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "NW IECharge - Vironvay - Les Foulonnières - Route de Pinterville",
+    "address": "Les Foulonnières - Route de Pinterville - Vironvay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Tech - Heudebouville",
+    "address": "19 Allée des Marronniers - Heudebouville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - Les Routiers Ecoparc - Heudebouville",
+    "address": "2 Route de Louviers Zone Ecoparc 2 - Heudebouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking AMI - Heudebouville",
+    "address": "580 Allee de la Fosse Moret Ecoparc - Heudebouville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEGE27 - St Pierre du vauvray",
+    "address": "2 Grande Rue - Saint-Pierre-du-Vauvray",
+    "connectors": [
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - ZEborneMS - Avenue des Peupliers - Louviers",
+    "address": "1 Avenue des Peupliers - Louviers",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

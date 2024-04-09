@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Marina Car Park",
+    "address": "Marina - St Leonards-on-Sea",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "GeniePoint - Park Lane Mews - St. Leonards-on-Sea",
+    "address": "Park Lane Mews - St. Leonards-on-Sea",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pelham Place Car Park",
+    "address": "Pelham Place Car Park - Hastings,East Sussex",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MFG EV Power - Hastings Road - Bexhill-On-Sea",
+    "address": "Hastings Road - Bexhill-On-Sea",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bannatyne Health Club & Spa",
+    "address": "East Lodge Approach - Hastings",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NewMotion GB - Bexhill-on-Sea - 57 London Road",
+    "address": "57 London Road - Bexhill-on-Sea",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "The Cooden Beach Hotel (Tesla)",
+    "address": "Cooden Sea Road - Bexhill-on-Sea",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Battle Brewery (Tesla)",
+    "address": "North Trade Road - Battle",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Magnolia House Rye",
+    "address": "15 Udimore Road - Rye",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Herstmonceux Integrative Health Centre",
+    "address": "Hailsham Road - Herstmonceux,East Sussex",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

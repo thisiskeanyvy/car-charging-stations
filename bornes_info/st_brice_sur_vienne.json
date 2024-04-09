@@ -1,0 +1,134 @@
+[
+  {
+    "title": "STATIONS-E - Saint-Junien - Avenue d’Oradour-sur-Glane",
+    "address": "Avenue d’Oradour-sur-Glane - Saint-Junien",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - Hyper U - Saint-Junien",
+    "address": "Avenue Nelson Mandela - Saint-Junien",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Saint-Junien",
+    "address": "Avenue D'oradour-Sur-Glane - Saint-Junien",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Leclerc - Avenue d'Oradour-sur-Glâne DOUBLON",
+    "address": "5 Rue Robert Doisneau - Saint-Junien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Saint Junien",
+    "address": "30 avenue d'Oradour sur Glane - Saint Junien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lidl - Saint-Junien",
+    "address": "Avenue Du Général De Gaulle - Saint-Junien",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking le Goth - Chemin Notre Dame au Goth",
+    "address": "12 Chemin Notre Dame au Goth - Saint-Junien",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking haut Champs de Foire (Privé)",
+    "address": "Avenue Henri Barbusse - Saint-Junien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Izivia - 2 Place Auguste Roche - Saint-Junien",
+    "address": "2 Place Auguste Roche - Saint-Junien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "39 Boulevard de la République Saint-Junien",
+    "address": "39 Boulevard de la République - Saint-Junien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

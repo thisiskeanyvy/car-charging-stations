@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Freshmile - 10 Allée Des Chênes - Vétraz-Monthoux",
+    "address": "10 Allée Des Chênes - Vétraz-Monthoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 99 Route de Taninges - Vétraz-Monthoux",
+    "address": "99 Route de Taninges - Vétraz-Monthoux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue du Sentier - Annemasse",
+    "address": "Rue du Sentier - Annemasse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Grand Casino d'Annemasse (Tesla and others)",
+    "address": "2 Avenue de l'Europe - Annemasse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Migros - Etrembières",
+    "address": "21 Rue de l'Industrie - Étrembières",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Driveco - Peugeot - 57 route de Thonon - Annemasse",
+    "address": "57 Route de Thonon - Annemasse",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route de Saint-Julien - Etrembières",
+    "address": "35 Route de Saint-Julien - Etrembières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E-Totem - 21 Rue de l'Industrie - Etrembières",
+    "address": "21 Rue de l'Industrie - Etrembières",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Tesla Supercharger V4 - Géant - Rue de la Résistance",
+    "address": "53 Route de Thonon - Annemasse",
+    "connectors": [
+      "x12"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Shell Recharge - Decathlon - Annemasse",
+    "address": "26 Rue de la Résistance - Annemasse",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE28 - Rue du Pont - Yèvres",
+    "address": "Rue du Pont - Yèvres",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Garage Buron",
+    "address": "5 Rue Emile Delavallee - Yèvres",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Dangeau",
+    "address": "Place du Docteur Bilbaut - Dangeau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Intermarché - Brou",
+    "address": "1175 Route de Chartres - Brou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE28 - Brou (Place de la Matrassière)",
+    "address": "Place de la Matrassière - Brou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Chatillon en Dunois",
+    "address": "4 Rue de Courtalain - Châtillon-en-Dunois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE28 - Brou (Place de l'Hôtel de ville)",
+    "address": "553 Place de L Hôtel de ville - Brou",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Moresville - Rue de Brou",
+    "address": "5 Rue de Brou - Flacey",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - D15 Route de Frazé",
+    "address": "4 Route de Frazé - Brou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE28 - Avenue Aristide Briand - Marboué",
+    "address": "8 Avenue Aristide Briand - Marboué",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

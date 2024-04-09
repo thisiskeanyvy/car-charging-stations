@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Izivia - Intermarché - Patay",
+    "address": "3 Rue des Beaumonts - Patay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE28 - Terminiers",
+    "address": "Rue de Charrette - Terminiers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Métropole d'Orléans - Chemin des Plantes - Ormes",
+    "address": "Chemin des Plantes - Ormes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "PARC ENTREPRISE - Avenue Charles de Gaulle",
+    "address": "2 Avenue Charles de Gaulle - Ormes",
+    "connectors": [
+      "x6",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Enedis",
+    "address": "1 Chemin de l'Allée - Ormes",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZE Watt - ZAE de Gidy - Gidy INEXISTANT",
+    "address": "ZAE de Gidy - Gidy",
+    "connectors": [
+      "x36",
+      "x26",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A10 Aire d'Orléans-Saran (Direction Orléans)",
+    "address": "A10 - AIRE D'ORLEANS SARAN - GIDY",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Séphora - Rue des Vergers",
+    "address": "Rue des Vergers - Saran",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - A10 Aire d'Orleans Gidy (direction Paris)",
+    "address": "A 10 - Gidy",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - A10 Aire d’Orléans Gidy (direction Paris)",
+    "address": "Aire d’Orléans Gidy - Gidy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

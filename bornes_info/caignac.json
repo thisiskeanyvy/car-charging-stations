@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Freshmile - 1134 Rue Herri Alde - Biriatou",
+    "address": "1134 Rue Herri Alde - Biriatou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place Marengo - Salles-sur-l'Hers",
+    "address": "Place Marengo - Salles-sur-l'Hers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Calmont, Rue du Stade",
+    "address": "Rue du Stade - Calmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Avignonet-Lauragais, République",
+    "address": "Rue de la République - Avignonet-Lauragais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEHG - Rue de la République - Gardouch",
+    "address": "Rue de la République - Gardouch",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Domaine de Garabaud - Mazères",
+    "address": "913 Garabaud - Mazères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - rue de la fountasso - Nailloux",
+    "address": "4 Rue de la Fountasso - Nailloux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Qovoltis - Hôtel du Lauragais - Villefranche-de-Lauragais",
+    "address": "15 Rue de la République Hôtel Restaurant du Lauragais - Villefranche-de-Lauragais",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE09 - Bvd des Comtes de Foix - Mazères",
+    "address": "Boulevard des Comtes de Foix - Mazères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Total Energies - A61 Aire du Port-Lauragais Sud (direction Carcassonne)",
+    "address": "18 La Gaillarde - Avignonet-Lauragais",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

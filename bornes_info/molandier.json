@@ -1,0 +1,138 @@
+[
+  {
+    "title": "SDE09 - Bvd des Comtes de Foix - Mazères",
+    "address": "Boulevard des Comtes de Foix - Mazères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE09 - Chemin de Couloumier Mazères",
+    "address": "6 Chemin de Couloumier - Mazères",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Domaine de Garabaud - Mazères",
+    "address": "913 Garabaud - Mazères",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place de l'Oratoire - Belpech",
+    "address": "Place de l'Oratoire - Belpech",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place Marengo - Salles-sur-l'Hers",
+    "address": "Place Marengo - Salles-sur-l'Hers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Calmont, Rue du Stade",
+    "address": "Rue du Stade - Calmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 1134 Rue Herri Alde - Biriatou",
+    "address": "1134 Rue Herri Alde - Biriatou",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Rue du Moulin - Saverdun",
+    "address": "1 Rue du Moulin - Saverdun",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SDE09 - Parking Rue Louis Pasteur - Saverdun",
+    "address": "Allée du Girbet - Saverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Révéo - Place du Balouard - Saverdun",
+    "address": "4 Allée du Balouard - Saverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

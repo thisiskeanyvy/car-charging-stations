@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Rossini Energy/Redeim_St_Leonard2",
+    "address": "2 Rue du Commerce - Cormontreuil",
+    "connectors": [
+      "x14"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy Merlin - Cormontreuil",
+    "address": "15 Rue des Rémouleurs - Cormontreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Taissy - 14 Rue Édouard Branly",
+    "address": "14 Rue Édouard Branly - Taissy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "R3 - Norauto - Cormontreuil",
+    "address": "Rue des Blancs Monts - Cormontreuil",
+    "connectors": [
+      "x1",
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "But - Reims",
+    "address": "Avenue des Goisses - Cormontreuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "18 Rue de la Sentelle - Cormontreuil",
+    "address": "18 Rue de la Sentelle - Cormontreuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM51 Cormontreuil",
+    "address": "1001 Rue Manoel Pinto - Cormontreuil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Chemin du Moulin de Vrilly - Reims",
+    "address": "1 Chemin du Moulin de Vrilly - Reims",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Times square - Rue des Laps - Cormontreuil",
+    "address": "1 Rue des Laps - Cormontreuil",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Agriliance - Rue Clément Ader - Reims (Privé)",
+    "address": "Rue Clément Ader - Reims",
+    "connectors": [
+      "x5",
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  }
+]

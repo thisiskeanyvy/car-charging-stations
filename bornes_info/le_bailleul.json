@@ -1,0 +1,138 @@
+[
+  {
+    "title": "IONITY - A11 - Aire de Parcé-sur-Sarthe (direction Le Mans)",
+    "address": "A11 - Parcé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A11 - Aire de Parcé-sur-Sarthe (direction Angers)",
+    "address": "A11 - Parcé-sur-Sarthe",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sarthe Irve - 2 Avenue du Poirier Rouge - La Chapelle-d'Aligné",
+    "address": "2 Avenue du Poirier Rouge - La Chapelle-d'Aligné",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Bricomarché - Avenue Rhin et Danube (Privé)",
+    "address": "1 Avenue Rhin et Danube - La Flèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault La Flèche",
+    "address": "Avenue Rhin et Danube - La Flèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SGA Automation - La Flèche - 875 Route d'Angers",
+    "address": "875 Route d'Angers - La Flèche",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Ford - La Flèche",
+    "address": "530 Route d'Angers - La Flèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sarthe IRVE - Boulevard Latouche - La Flèche",
+    "address": "7 avenue Charles de Gaulle - La Flèche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Sarthe IRVE - Stade Montréal - La Flêche",
+    "address": "15bis Boulevard De Montréal - La Flèche",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue Henri Dunant - La Flèche",
+    "address": "Rue Henri Dunant - La Flèche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

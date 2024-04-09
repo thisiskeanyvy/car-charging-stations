@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDEF - Irvillac (Route de Daoulas)",
+    "address": "Route de Daoulas - Irvillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Rue des Écoles - La Roche-Maurice",
+    "address": "1 Rue des Écoles - La Roche-Maurice",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Mairie de Sizun",
+    "address": "D764 - Sizun",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue de la Tour d'Auvergne - Landerneau",
+    "address": "2 Rue de la Tour d'Auvergne - Landerneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEF - Quai de Léon - Landerneau",
+    "address": "30 Quai de Léon - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEF - Landerneau (Le Calvaire St Ernel)",
+    "address": "4 Rue Saint-Ernel - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "OuestCharge - Gare de Landerneau",
+    "address": "Rue de la Fontaine Blanche - Landerneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEF - Dirinon (Place François-Marie Coatalem)",
+    "address": "Place Coatalem - Dirinon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Leclerc - Landerneau",
+    "address": "46 Route du Quinquis Leck - Landerneau",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Super U - Daoulas",
+    "address": "Résidence de la Duchesse Anne, Vern Deredec Zone du, - Daoulas",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

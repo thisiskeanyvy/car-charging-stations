@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Mairie de Gennevilliers",
+    "address": "19 Rue louis calmel - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Sigeif - avenue Gabriel Peri - Gennevilliers",
+    "address": "153 Avenue Gabriel-Péri - Gennevilliers",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 66 boulevard Camélinat - Gennevilliers",
+    "address": "66 Boulevard Camélinat - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - 18 avenue de la République - Gennevilliers",
+    "address": "18 Avenue de la République - Gennevilliers",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Gennevilliers - 9 Rue Clara Zetkin",
+    "address": "9 Rue Clara Zetkin - Gennevilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - 4 Rue Émile Zola - Asnières-sur-Seine",
+    "address": "4 Rue Émile Zola - Asnières-sur-Seine",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "La borne bleue - Rue Adolphe Briffault 20 - Asnières-sur-Seine",
+    "address": "20 Rue Adolphe Briffault - Asnières-sur-Seine",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Virta - 66 rue Edouard Pottier - Leulinghem",
+    "address": "66 rue Edouard Pottier - Leulinghem",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal pour le Gaz et l'Électricité en IDF (SIGEIF) - Gennevilliers - 55 Rue du Fossé Blanc",
+    "address": "55 Rue du Fossé Blanc - Gennevilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - Avenue Gabriel-Péri - Gennevilliers",
+    "address": "Avenue Gabriel-Péri - Gennevilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

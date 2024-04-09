@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE28 - Gallardon (résidence de la Tour)",
+    "address": "2 Résidence de la Tour - Gallardon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo-Energies - Rue Guy Pouillé - Gallardon",
+    "address": "Rue Guy Pouillé - Gallardon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auneau-Bleury-Saint-Symphorien | Rue Guy de la Vasselais",
+    "address": "Rue Guy de la Vasselais - Auneau-Bleury-Saint-Symphorien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Centrakor - Hanches",
+    "address": "Unnamed Road - Hanches",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Districenter - Hanches",
+    "address": "D28 - Hanches",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking station de lavage Speedwash",
+    "address": "360 Avenue de l'Europe - Épernon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - D996/D28 Hyper U - Epernon",
+    "address": "D 28 - Épernon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centre Commercial Hyper U - Le Loreau",
+    "address": "1 D28 - Hanches",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Bleury-Saint-Symphorien",
+    "address": "15 Rue Général Patton - Bleury-Saint-Symphorien",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE28 - Saint-Piat",
+    "address": "Place Vauvillier - Saint-Piat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

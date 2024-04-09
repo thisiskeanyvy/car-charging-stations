@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Aéroport Brive Vallée de la Dordogne",
+    "address": "Aéroport Brive – Vallée de la Dordogne - Nespouls",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - La Croix Blanche - Nespouls",
+    "address": "10 La Croix Blanche - Nespouls",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A20/D920 Relais de La Croix Blanche",
+    "address": "14 La Croix Blanche - Nespouls",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "RÉVÉO - Cressensac-Sarrazac",
+    "address": "D820 - Cressensac-Sarrazac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A20 Aire de Pech Montat Ouest (direction Cahors)",
+    "address": "A20, Aire de service de Pech Montat Ouest - Cressensac-Sarrazac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A20 Aire de Pech-Montat Est (direction Limoges)",
+    "address": "A20 L'Occitane - Cressensac-Sarrazac",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "FDEE19 - SAINT CERNIN DE LARCHE - Rue de l'Etang",
+    "address": "Rue de l'Etang - Saint-Cernin-de-Larche",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Fédération Départementale d'Electrification et d'Energie de la Corrèze - Lissac-sur-Couze - 580 Route de la Base Nautique",
+    "address": "580 Route de la Base Nautique - Lissac-sur-Couze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*E10 - Lissac-sur-Couze - Le Bourg",
+    "address": "Le Bourg - Lissac-sur-Couze",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FDEE19 (Mobive) - 1 Place Charles de Gaulle - Noailles",
+    "address": "1 Place Charles de Gaulle - Noailles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

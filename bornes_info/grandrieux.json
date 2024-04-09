@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Place de Mai 1940 Brunehamel",
+    "address": "Place de Mai 1940 - Brunehamel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rozoy-sur-Serre",
+    "address": "10 Rue Gérard Adolphe Martin - Rozoy-sur-Serre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Rue de Rozoy sur Serre - Chéry-lès-Rozoy",
+    "address": "2 Rue de Rozoy sur Serre - Chéry-lès-Rozoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Place de la Mairie - Liart",
+    "address": "9\r\n Place de la Mairie\r\n - Liart",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "USEDA - Rue Neuve / Rue de la Gare - Montcornet",
+    "address": "19 Rue de la Gare - Montcornet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "aire de dizy le gros",
+    "address": "19 Grande Rue - Dizy-le-Gros",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "8 Place Aristide Briand",
+    "address": "8 Place Aristide Briand - Signy-l'Abbaye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Place de l'Eglise - Signy le Petit",
+    "address": "Place de l'Eglise - Signy-le-Petit",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Driveco pour PSA - 1 Parc de L'Épinette - Hirson",
+    "address": "1 Parc de L'Épinette - Hirson",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Hirson",
+    "address": "162 Avenue des Champs Elysées - Hirson",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

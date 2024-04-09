@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SMOYS - 2 avenue Henri Charon - Vigneux-sur-Seine",
+    "address": "2 Avenue Henri Charon - Vigneux-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SMOYS - place Marx Dormoy - Vigneux-seine-Seine",
+    "address": "7 Place Marx Dormoy - Vigneux-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - Vigneux-sur-Seine PRIVE",
+    "address": "Avenue Henri Barbusse - Vigneux-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SMOYS - Gare de Vigneux-sur-Seine",
+    "address": "3 Av. du Président Robert Lakota - Vigneux-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 1 Rue Mercure - Montgeron",
+    "address": "1 Rue Mercure - Montgeron",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Corri-Door - Vigneux-sur-Seine - 4 Rue des Gaulois",
+    "address": "4 Rue des Gaulois - Vigneux-sur-Seine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SMOYS - Place des 4 saisons - Draveil",
+    "address": "places des quatre saisons - Draveil",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Draveil",
+    "address": "50 Rue Waldeck Rousseau - Draveil",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Vinci - Piscine de Montgeron",
+    "address": "2 Avenue de la République - Montgeron",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking de la place des Tilleuls",
+    "address": "14 Avenue de la republique - Montgeron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

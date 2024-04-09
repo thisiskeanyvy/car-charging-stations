@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Parking C-Park Arsenal",
+    "address": "Boulevard de la Tour d'Auvergne - Rennes",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "OuestCharge - Place Honoré Commeurec - Rennes",
+    "address": "13 Place Honoré Commeurec - Rennes",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking C-Park Les Lices",
+    "address": "Place des Lices - Rennes",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking C-Park Chézy-Dinan",
+    "address": "2 Rue du Louis d'Or - Rennes",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking C-Park De Gaulle-Gare - Rennes",
+    "address": "18 Rue d'Isly - Rennes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Rennes - Speedy",
+    "address": "12 Rue de Nantes - Rennes",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SunXLium - 28 Boulevard Saint-Conwoïon - Rennes",
+    "address": "28 Boulevard Saint-Conwoïon - Rennes",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Charles de Gaulle",
+    "address": "10 Rue Yvonne Jean-Haffen - Rennes",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "OuestCharge - Boulevard Magenta - Rennes",
+    "address": "1 Boulevard Magenta - Rennes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking C-Park Kléber",
+    "address": "rue Kléber - Rennes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

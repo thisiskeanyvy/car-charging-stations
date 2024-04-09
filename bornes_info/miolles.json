@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Révéo - Plaisance - Chemin de l'Horte Parking de Covoiturage",
+    "address": "Chemin de l'Horte Parking de Covoiturage - Plaisance",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Intercommunal d’Énergies du Département de l’Aveyron (SIEDA) - Saint-Sernin-sur-Rance - Avenue de Saint-Affrique Parking Route de Saint Affrique",
+    "address": "Avenue de Saint-Affrique Parking Route de Saint Affrique - Saint-Sernin-sur-Rance",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA (Révéo) - D555 - La Bastide-Solages",
+    "address": "D555 - La Bastide-Solages",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET - Place du Foirail Alban",
+    "address": "4 Place du Foirail - Alban",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Reveo - Coupiac",
+    "address": "Avenue Raymond Bel - Coupiac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Trébas les bains - Révéo Sdet",
+    "address": "L'Espital - Trébas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDET (Révéo) - 123 Rue Firmin Coutal - Le Fraysse",
+    "address": "123 Rue Firmin Coutal - Le Fraysse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDET (Révéo) - Rue Guillaume de Paulin - Paulinet",
+    "address": "Rue Guillaume de Paulin - Paulinet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDET (Révéo) - D59 - Rayssac",
+    "address": "D59 - Rayssac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - village - Brousse-le-Château",
+    "address": "village - Brousse-le-Château",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

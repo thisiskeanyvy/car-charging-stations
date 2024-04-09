@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Allego - E42 Aire de Spy (direction Mons)",
+    "address": "Rue de Spy - Jemeppe-sur-Sambre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Allego - E42 Aire de Spy Sud - Jemeppe-sur-Sambre",
+    "address": "A15 - Jemeppe-sur-Sambre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Mobiflow - Namur - Parc Scientifique Créalys, Rue Phocas Lejeune",
+    "address": "Parc Scientifique Créalys, Rue Phocas Lejeune - Namur",
+    "connectors": [
+      "x7"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue prahy 58 chargeur",
+    "address": "Rue de Prahy 58 - Sambreville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Smappee - Odontolia - Isnes",
+    "address": "Rue Camille Hubert 1 - Isnes",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Smappee - Isnes - Rue Camille Hubert, 3",
+    "address": "3 Rue Camille Hubert - Isnes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Certipower - Gembloux - Rue Guillaume Fouquet 17 (Privat)",
+    "address": "17 Rue Guillaume Fouquet - Gembloux",
+    "connectors": [
+      "x9",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Emyon - Jemeppe-sur-Sambre - 2a Avenue des Roses",
+    "address": "2a Avenue des Roses - Jemeppe-sur-Sambre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "D'Ieteren - Rue Herman Meganck",
+    "address": "7 Rue Herman Meganck - Gembloux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ENERSOL - IDTECH",
+    "address": "Rue Saucin 62 - Isnes",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

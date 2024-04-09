@@ -1,0 +1,132 @@
+[
+  {
+    "title": "IZIVIA Grand Lyon - Rue Jean Moulin - Caluire-et-Cuire",
+    "address": "5 Rue Jean Moulin - Caluire-et-Cuire",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Mc donald's caluire",
+    "address": "18 Avenue Pierre Terrasse - Caluire-et-Cuire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - Place Gutenberg - Caluire-et-Cuire",
+    "address": "Place Gutenberg - Caluire-et-Cuire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Chemin Jean Petit - Caluire-et-Cuire",
+    "address": "10 Chemin Jean Petit - Caluire-et-Cuire",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "EVBox - Citroën - Caluire",
+    "address": "34 rue pasteur - Caluire",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IZIVIA Grand Lyon - 111 Chemin de Wette Fays - Caluire-et-Cuire",
+    "address": "111 Chemin de Wette Fays - Caluire-et-Cuire",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Cité Internationale P2",
+    "address": "34 Quai Charles de Gaulle - Lyon",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia Grand Lyon - Caluire - Rue Coste",
+    "address": "66 Rue Coste - Caluire-et-Cuire",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Marriott Lyon Cité Internationale",
+    "address": "70 Quai Charles de Gaulle - Lyon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Cite Internationale P0",
+    "address": "Quai Charles De Gaulle - Lyon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

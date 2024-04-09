@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE28 - Sainte-Gemme-Moronval",
+    "address": "Route de Moronval - Sainte-Gemme-Moronval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE28 - Rue Emile Zola - LURAY",
+    "address": "Rue Emile Zola - LURAY",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE28 - Garage de la rocade - Renault",
+    "address": "4 Route de Nogent le Roi - Sainte-Gemme-Moronval",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Dreux",
+    "address": "120 Avenue du Général Leclerc - Dreux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "NW IECharge - Vernouillet - Chemin de Blainville",
+    "address": "Chemin de Blainville - Vernouillet",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Hyundai - Vernouillet",
+    "address": "84 Rue De Nuisement - Vernouillet",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Kia Vernouillet",
+    "address": "3 Rue de Strasbourg - Vernouillet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Mazda - Vernouillet",
+    "address": "11 Boulevard de l'Europe - Vernouillet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Dreux - Kia",
+    "address": "Rue de Strasbourg - Dreux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - BMW Berteaux - Vernouillet",
+    "address": "7 Boulevard de l'Europe - Vernouillet",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

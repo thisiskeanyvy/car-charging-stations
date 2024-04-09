@@ -1,0 +1,126 @@
+[
+  {
+    "title": "La Borne Bleue - Place de la Mairie - Sceaux",
+    "address": "2 Place de la Mairie - Sceaux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Toyota Lexus - Sceaux",
+    "address": "1bis Rue Maréchal Joffre - Sceaux",
+    "connectors": [
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Sceaux",
+    "address": "2 Rue de Fontenay - Sceaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Avenue camberwell - Sceaux",
+    "address": "Avenue camberwell - Sceaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Robinson - Sceaux",
+    "address": "2 Avenue de la Gare - Sceaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La borne bleue - 1 Avenue de la Gare - Sceaux",
+    "address": "1 Avenue de la Gare - Sceaux",
+    "connectors": [
+      "x3",
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - 60 Avenue du Président Franklin Roosevelt Sceaux",
+    "address": "60 face avenue du Président Franklin Roosevelt - Sceaux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Borne Bleue - Avenue Paul Langevin - Fontenay-aux-Roses",
+    "address": "3 Avenue Paul Langevin - Sceaux",
+    "connectors": [
+      "x3",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E55C - Avenue Paul Langevin - Fontenay-aux-Roses",
+    "address": "Avenue Paul Langevin - Fontenay-aux-Roses",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "E55C - Avenue Lombart - Fontenay-aux-Roses",
+    "address": "avenue Lombart - Fontenay-aux-Roses",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

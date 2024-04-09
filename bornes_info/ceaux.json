@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sanofi P9 (Privé)",
+    "address": "20 Raymond Aaron - Antony",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sanofi P2 (Privé)",
+    "address": "20 avenue Raymond Aaron - Antony",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sanofi P4 (Privé)",
+    "address": "20 avenue Raymond Aaron - Antony",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "129 Avenue Flouquet",
+    "address": "129 Avenue Flouquet - L'Haÿ-les-Roses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "Cémafroid",
+    "address": "13 Avenue Des Prés - Fresnes",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Metropolis Recharge - 19 Avenue du Général de Gaulle - Antony",
+    "address": "19 Avenue du Général de Gaulle - Antony",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Metropolis Recharge - 7 Rue André Theuriet - Bourg-la-Reine",
+    "address": "7 Rue André Theuriet - Bourg-la-Reine",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Metropolis Recharge - 40 Boulevard Carnot - Bourg-la-Reine",
+    "address": "40 Boulevard Carnot - Bourg-la-Reine",
+    "connectors": [
+      "x6",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "La Borne Bleue - 60 Avenue du Président Franklin Roosevelt Sceaux",
+    "address": "60 face avenue du Président Franklin Roosevelt - Sceaux",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "La Borne Bleue - 80 Rue de Chalais - L'Haÿ-les-Roses",
+    "address": "80 Rue de Chalais - L'Haÿ-les-Roses",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  }
+]

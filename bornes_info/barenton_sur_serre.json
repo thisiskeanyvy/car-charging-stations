@@ -1,0 +1,122 @@
+[
+  {
+    "title": "USEDA - DIRVE 02 - Rue des Roses Crécy-sur-Serre",
+    "address": "1 Rue des Roses - Crécy-sur-Serre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "USEDA - Place Foch - Aulnois-sous-Laon",
+    "address": "Place Foch - Aulnois-sous-Laon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - Rue Georges Sand Chambry",
+    "address": "7 Rue Georges Sand - Chambry",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - E Leclerc - Chambry",
+    "address": "1 Le Pré Robert - Laon",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Burger King - Rue Voltaire",
+    "address": "1 Rue Voltaire - Chambry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Mr Bricolage - Rue Jean Jaurès - Chambry",
+    "address": "1 Rue Jean Jaurès - Chambry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Laon",
+    "address": "Avenue Pierre Mendès France - Laon",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Laon",
+    "address": "167 avenue Pierre Mendes - Laon",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVBox - ZAC DU CHAMP DU ROY RUE TURGOT 15 - LAON",
+    "address": "ZAC DU CHAMP DU ROY RUE TURGOT 15 - LAON",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "groupe Colbeaux",
+    "address": "17 Turgot - laon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

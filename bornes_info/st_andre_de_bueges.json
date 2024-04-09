@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Au Château de Villarel",
+    "address": "Le Villarel - Brissac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Jardin aux Sources (Restaurant-Chambres) - Brissac",
+    "address": "30 Avenue du Parc - Brissac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "RÉVÉO - Causse-de-la-Selle - Route du Barrage",
+    "address": "Route du Barrage - Causse-de-la-Selle",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mas de Coulet",
+    "address": "D986 - Brissac",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Parking Des Ecoles - Route Du Pic St Loup - Saint-Martin-de-Londres",
+    "address": "Route du Pic Saint-Loup - Saint-Martin-de-Londres",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E-Totem - Super U - Ganges",
+    "address": "Rue des Calquières - Ganges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Mairie de Laroque",
+    "address": "22 Rue du Mazet - Laroque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Le Vigné - Laroque",
+    "address": "240 Rue du Mazet - Laroque",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - D99 Aire de covoiturage - Ganges",
+    "address": "98 Avenue du Mont Aigoual - Ganges",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Ganges - parking place Delattre de Tassigny",
+    "address": "31 Avenue Pasteur - Ganges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

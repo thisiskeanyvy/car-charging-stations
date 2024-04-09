@@ -1,0 +1,134 @@
+[
+  {
+    "title": "NW IECharge - Niévroz - Les Cabrunes",
+    "address": "Les Cabrunes - Niévroz",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking de covoiturage - Niévroz",
+    "address": "780 Route de Balan - La Boisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Communaute de commune 3CM - Chemin des Prés Seigneurs",
+    "address": "Chemin des Prés Seigneurs - Montluel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Recharger mon auto - Montluel - 432 Rue des Valets",
+    "address": "432 Rue des Valets - Montluel",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 85 Chemin de la Portelle - Montluel",
+    "address": "Chemin de la Portelle - Montluel",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Freshmile - Super U - Montluel",
+    "address": "16 Cours de la Portelle - Montluel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - Dagneux - Toyota",
+    "address": "1247 Rue des Chartinières - Dagneux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Appro Automobiles (Privé)",
+    "address": "214 Rue des Chartignières - Dagneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Beynost - Place de la Dombes",
+    "address": "3 Place de la Dombes - Beynost",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ENGIE Vianeo - A42 Aire de Lyon-Montluel (direction Lyon)",
+    "address": "A42 - Dagneux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x16"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

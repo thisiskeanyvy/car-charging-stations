@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Biesse",
+    "address": "8 Route de Clary - Montigny en Cambrésis",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Pass pass électrique - Rue Miroux",
+    "address": "3 Rue Miroux - Clary",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue de la Gare",
+    "address": "1 Rue de la Gare - Caudry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E.leclerc (Animaux) - Boulevard du 8 Mai 1945",
+    "address": "12 Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hypermarché E.Leclerc - Boulevard du 8 Mai 1945 - Caudry",
+    "address": "Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x10",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chargepoint Musée",
+    "address": "9 Rue de la République - Caudry",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Chargepoint Mairie",
+    "address": "4 Rue Auguste Marliot - Caudry",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "R3 - Norauto - Caudry",
+    "address": "0 Boulevard du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - E.Leclerc - Caudry",
+    "address": "Boulevard Du 8 Mai 1945 - Caudry",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Bd du 8 Mai 1945 - Caudry",
+    "address": "Bd du 8 Mai 1945, - Caudry",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "title": "e-Vadea - A31 Aire de Dijon Brognon (direction Dijon)",
+    "address": "A31, Aire de Dijon Brognon - Brognon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x11",
+      "x9",
+      "x9",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - A31 Aire de Dijon-Spoy (direction Dijon)",
+    "address": "Autoroute de Lorraine-Bourgogne - Brognon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - A31 Aire De Dijon-Spoy (direction Dijon)",
+    "address": "Bois du Bouloye - Brognon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Aire de Dijon Brognon (direction Nancy)",
+    "address": "A31 - Brognon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour market",
+    "address": "1 de la Petite Fin - Saint-Julien",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Powerdot - Super U - Arc Sur Tille",
+    "address": "1 Route nationale - Arc-sur-Tille",
+    "connectors": [
+      "x1",
+      "x7",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Hotel l'Arc de Tilles (Tesla et autres)",
+    "address": "6 Allée des Platanes - Arc-sur-Tille",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Arc-sur-Tille",
+    "address": "52 Rue des Chézeaux - Arc-sur-Tille",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place de Verdun - Bèze",
+    "address": "8 Place de Verdun - Bèze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rue des Écoles - Ruffey-lès-Echirey",
+    "address": "22 Rue des Écoles - Ruffey-lès-Echirey",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

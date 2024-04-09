@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDEPA (MobiVE) - Rue Marie Garay - Saint-Pierre-d'Irube",
+    "address": "Rue Marie Garay - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Clinique Belhara - Bayonne",
+    "address": "2 Allée Docteur Robert Lafon - Bayonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electra - Saint-Pierre-d'Irube - CC Ametzondo Shopping",
+    "address": "3 avenue du Portou - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour - Avenue du Portou - Saint-Pierre-d'Irube",
+    "address": "2-3 Avenue du Portou - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "IKEA - Ametzondo - Bayonne",
+    "address": "2-4 Avenue du Portou - Saint-Pierre-d'Irube",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Be Cable - Méga CGR - Bayonne",
+    "address": "1 Allée de Glain - Bayonne",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Avenue Du Grand Basque - Bayonne",
+    "address": "Avenue Du Grand Basque - Bayonne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - 1B Rue de Chalibardon - Bayonne",
+    "address": "1B Rue de Chalibardon - Bayonne",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Intermarché - Bayonne (Sortie 6)",
+    "address": "8 Chemin de hayet - Bayonne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking sainte Claire",
+    "address": "1 Rue du Bastion Sainte-Claire - Bayonne",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "La Borne Bleue - 2 Avenue Lamartine - Le Perreux-sur-Marne",
+    "address": "2 Avenue Lamartine - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Borne Bleue - 98 Rue de la paix - Le Perreux-sur-Marne",
+    "address": "98 Rue de la paix - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "La Borne Bleue - 4 Rue Gallieni - Le Perreux-sur-Marne",
+    "address": "4 Rue Gallieni - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "La Borne Bleue - Le Perreux-sur-Marne - Avenue du 11 Novembre",
+    "address": "1 Charles Ollier - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Societe Générale Les Dunes (Privé)",
+    "address": "31 Avenue du Maréchal - de - Lattre - de - Tassigny - Fontenay-sous-Bois",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nogent-sur-Marne | Boulevard de Strasbourg",
+    "address": "Boulevard de Strasbourg - Nogent-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La borne bleue - Rue de la Station - Le Perreux-sur-Marne",
+    "address": "4 Rue de la Station - Le Perreux-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Auchan - Fontenay-sous-Bois",
+    "address": "12 Rue de la Mare à Guillaume - Fontenay-sous-Bois",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre des bords de Marne",
+    "address": "2 Rue de la Prairie - Le Perreux-sur-Marne",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La borne bleue - Gare RER Nogent-Le Perreux",
+    "address": "255 Rue Jean Monnet - Nogent-sur-Marne",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

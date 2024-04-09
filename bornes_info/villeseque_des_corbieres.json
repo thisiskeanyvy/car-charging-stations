@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Révéo - Durban-Corbières - Rue du Stade 2",
+    "address": "2 Rue du Stade - Durban-Corbières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo Portel Terra Vinea",
+    "address": "1 Chemin des Plâtrières - Portel-des-Corbières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Reveo Portel Cave Coop",
+    "address": "Avenue des Corbières - Portel-des-Corbières",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syndicat Audois d’Énergies (SYADEN) - Cascastel-des-Corbières - Quai de la Berre",
+    "address": "Quai de la Berre - Cascastel-des-Corbières",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Syaden - rue de la capelle",
+    "address": "4 Rue de la Capelle - Roquefort-des-Corbières",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RESERVE AFRICAINE DE SIGEAN - SIGEAN - 19 chemin Hameau du Lac",
+    "address": "19 Hameau du Lac - Sigean",
+    "connectors": [
+      "x8",
+      "x8",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Syaden - place du vieux sigean",
+    "address": "Place du Vieux Sigean - Sigean",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Syaden - Place de l'Octroi - Sigean",
+    "address": "Chemin de la Palme - Sigean",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syaden (Révéo) - 10 Impasse Barbacane - Saint-André-de-Roquelongue",
+    "address": "10 Impasse Barbacane - Saint-André-de-Roquelongue",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'Hôtes du Domaine du Soleil Couchant",
+    "address": "14 rue Couchet - Saint-André de Roquelongue",
+    "connectors": [
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

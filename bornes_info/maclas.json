@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Pharmacie - Maclas",
+    "address": "124 Place de l'Église - Maclas",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Maclas - Lotissement Landy",
+    "address": "Lotissement Landy - Maclas",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le Berthoir - Pelussin",
+    "address": "4 lieu dit le berthoir - Pélussin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CNR - Avenue du Rhône Saint-Pierre-de-Bœuf",
+    "address": "Île Bugnon - Saint-Pierre-de-Boeuf",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - 3 Rue de l'Europe - Pélussin",
+    "address": "3 Rue de l'Europe - Pélussin",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hotel du lac - Savas (Tesla et autres)",
+    "address": "Le Ternay - Savas",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Espace Marcel Noyer Saint-Maurice-l'Exil",
+    "address": "Espace Marcel Noyer - Saint-Maurice-l'Exil",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE07 - quai Jules Roche Serrières",
+    "address": "56 Quai Jules Roche (Sud) - Serrières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Chavanay - Zone D’Activite De Verlieu",
+    "address": "Zone D’Activite De Verlieu - Chavanay",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEDI - Rue Gustave Toursier - Sablons",
+    "address": "Rue Gustave Toursier - Sablons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  }
+]

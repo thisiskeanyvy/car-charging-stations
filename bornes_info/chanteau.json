@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Orléans Métropole - Eglise de Chanteau",
+    "address": "Route d'orléans - Chanteau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pharmacie Hopital G Daumaizon",
+    "address": "Route de Chanteau - Fleury-les-Aubrais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Orléans Métropole - Mairie de Marigny-les-Usages",
+    "address": "Place de l'Église - Marigny-les-Usages",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Orléans Métropole - allée Pierre de Coubertin Semoy",
+    "address": "388 Rue Curembourg - Semoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Citeos - Fleury les Aubrais",
+    "address": "Rue des Foulons - Fleury les Aubrais",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Total Energies - WARNING - Orleans",
+    "address": "Rue Antonin Magn‚ - Orlean",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*CG0 - Marigny-les-Usages - 275 Allée du Ruet",
+    "address": "275 Allée du Ruet - Marigny-les-Usages",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre E.Leclerc - Rue de Montaran - Fleury-les-Aubrais",
+    "address": "10 Rue de Montaran - Fleury-les-Aubrais",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Fleury-les-Aubrais",
+    "address": "10 Rue de Montaran - Fleury-les-Aubrais",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Covea - Rue de montagan - Saran",
+    "address": "70 Rue de montagan - Saran",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Parking de covoiturage Vinci - D254. Barrière de péage autoroutier - Reignac",
+    "address": "D254. Barrière de péage autoroutier - Reignac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Vignerons de Tutiac",
+    "address": "1 La Cafourche - Marcillac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Saint-Aubin de blaye – ZAC Gironde Synergie",
+    "address": "297 Brasse Miseré - Saint-Aubin-de-Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A10 Aire des Terres de l'Estuaire (direction Poitiers)",
+    "address": "A10 - Aire des Terres de l'Estuaire - Saugon",
+    "connectors": [
+      "x6",
+      "x6",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "IONITY - A10 - Aire de Saugon (direction Bordeaux)",
+    "address": "A10 - Saugon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Etauliers – Place des halles",
+    "address": "1 Place des Halles - Etauliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Aire de Ferchaud Les Fermenteaux - Saint-Caprais de blaye",
+    "address": "168 Les Fermenteaux - Saint-Caprais-de-Blaye",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Air de camping-cars",
+    "address": "21 Rue du Stade - Cartelègue",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Le Pontet Nord-Est, 21 - Eyrans",
+    "address": "21 Le Pontet Nord-Est - Eyrans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Château du Pontet d'Eyrans",
+    "address": "33 route de Royan - Eyrans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

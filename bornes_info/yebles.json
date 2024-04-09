@@ -1,0 +1,118 @@
+[
+  {
+    "title": "SDESm - Avenue de la Gare - Yèbles",
+    "address": "15 Avenue de la Gare - Yèbles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rue de la Fraternité D619 - Yèbles",
+    "address": "1 Rue de la Fraternité - Yèbles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESM - Guignes - Place Charles Denis Cadas",
+    "address": "Place Charles Denis Cadas - Guignes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Ozouer-le-Voulgis - Rue Renard",
+    "address": "Rue Renard - Ozouer-le-Voulgis",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*CAR - Guignes - Rue Saint-Abdon ZA de l'Orée de Guignes",
+    "address": "Rue Saint-Abdon ZA de l'Orée de Guignes - Guignes",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Solers - Rue de la Tournelle",
+    "address": "15 Rue de la Tournelle - Solers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de l'Égalité Verneuil-l'Étang",
+    "address": "2 Rue de l'Égalité - Verneuil-l'Étang",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Rue de Champeaux\t- Soignolles en brie",
+    "address": "11 Rue de Champeaux - Soignolles-en-Brie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Place Roger Chauveau - Lissy",
+    "address": "9 Place Roger Chauveau - Lissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Rue Dumont - Chaumes en brie",
+    "address": "7 Rue Dumont - Chaumes-en-Brie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

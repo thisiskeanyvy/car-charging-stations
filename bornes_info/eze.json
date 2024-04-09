@@ -1,0 +1,126 @@
+[
+  {
+    "title": "EFFIA - Èze - 22 Place Charles de Gaulle",
+    "address": "22 Place Charles de Gaulle - Èze",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Château de La Chèvre d’Or - Eze (Porsche)",
+    "address": "2 Rue de l'Église - Èze",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking hotel les Terasses d'Eze",
+    "address": "1138 Route de La Turbie - Èze",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Parking Col d'Eze",
+    "address": "1951 Avenue des Diables Bleus - Èze",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Hôtel Cap-Estel (Tesla and others)",
+    "address": "1312 Avenue Raymond Poincaré - Èze",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Eze Hermitage",
+    "address": "1951 Avenue des Diables Bleus - Eze",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Avenue du Trois Septembre - Cap-d'Ail",
+    "address": "87 Avenue du Trois Septembre - Cap-d'Ail",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Port de Beaulieu sur mer",
+    "address": "2 Quai É Whitechurch - Beaulieu-sur-Mer",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "CARF - La Turbie, Rue De L'Amendola",
+    "address": "Rue De L'Amendola - La Turbie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Mairie - Quai Whitechurch",
+    "address": "Bd du Maréchale Lerclerc - Beaulieu-sur-Mer",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

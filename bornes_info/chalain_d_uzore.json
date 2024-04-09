@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Parking hotel - Marcilly le chatel",
+    "address": "2 Du pavé - Marcilly le chatel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IEcharge - Montverdun - L'Etang Brenot",
+    "address": "L'Etang Brenot - Montverdun",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Zephyre - Peugeot - Montbrison",
+    "address": "61 Avenue Charles de Gaulle - Montbrison",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - A72 Aire de Service de la Plaine du Forez Ouest (direction St Étienne)",
+    "address": "A72, Aires de Service de la Plaine du Forez Ouest - Magneux-Haute-Rive",
+    "connectors": [
+      "x4",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Fastned - A72 Aire de La Plaine du Forez Est (direction Clermont-Ferrand)",
+    "address": "A72 - Aire de la Plaine du Forez Est - Magneux-Haute-Rive",
+    "connectors": [
+      "x2",
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Montbrison",
+    "address": "2 Boulevard Duguet - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Burger King - Chemin de la Bruyère - Savigneux",
+    "address": "46 Chemin de la Bruyère - Savigneux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "E-Totem - Super U - Savigneux",
+    "address": "48 Rue de Lyon - Savigneux",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIEL - Place Bouvier Montbrison",
+    "address": "17-21 Avenue d'Allard - Montbrison",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEL - Mairie de Savigneux",
+    "address": "41\r\n Rue de Lyon\r\n - Savigneux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

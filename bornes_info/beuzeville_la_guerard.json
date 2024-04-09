@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE76 - Ourville-en-Caux",
+    "address": "Rue de la Halle aux Grains - Ourville-en-Caux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Serres Noé",
+    "address": "48 les basses eaux - Grainville-la-Teinturière",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Devant le garage precisium - Héricourt-en-Caux",
+    "address": "Rue Gaston de Beauvoir - Héricourt-en-Caux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Ypreville-Biville - au coin de la superette",
+    "address": "Lotissement la Hêtraie - Ypreville-Biville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Super U - Terres-de-Caux",
+    "address": "Rue de l'Europe - Terres-de-Caux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - Fauville-en-Caux",
+    "address": "56 Rue d'Amiot - Fauville-en-Caux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE76 - Valmont (Parking bureau de poste) - Rue d'Estouteville",
+    "address": "3 Rue d'Estouteville - Valmont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Pôe de Santé - Cany-Barville",
+    "address": "1 Rue du Chauffour - Cany-Barville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Parking salle Daniel pierre - Cany-Barville",
+    "address": "25 Rue Louis Bouilhet - Cany-Barville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE76 - D926 Aire de covoiturage de Bermonville - St.-Pierre-Lavis",
+    "address": "1 La Cayenne - St.-Pierre-Lavis",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

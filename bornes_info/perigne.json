@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Carrefour Contact Perigny",
+    "address": "2 Route de Brie-Comte-Robert - Périgny",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - Mandres-les-Roses - 1B Rue du Général Leclerc",
+    "address": "1B Rue du Général Leclerc - Mandres-les-Roses",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking La Ferme De Monsieur",
+    "address": "1 rue Pasteur - Mandres-les-Roses",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "rue paul doumer - Mandres les roses (Privé)",
+    "address": "18 rue paul doumer - Mandres les roses",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "société ALPTEC",
+    "address": "2 allée du pavillon - mandres les roses",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "stations-e - Mairie de Boussy-Saint-Antoine",
+    "address": "5 Place des Droits de l'Homme - Boussy-Saint-Antoine",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LastMileSolutions - Quincy-sous-Sénart - Hôpital Claude Galllien (parking arrière)",
+    "address": "20 Route de Boussy-Saint-Antoine - Quincy-sous-Sénart",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - CC Val d'Yerres 2 - Boussy-Saint-Antoine",
+    "address": "Centre commercial Val d'Yerres, 2 - Boussy-Saint-Antoine",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Stations-E - Piscine des Sénarts - Boussy-Saint-Antoine",
+    "address": "1 Rue de Rochopt - Boussy-Saint-Antoine",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "KOLLE SA",
+    "address": "26 Route de Mandres - Santeny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

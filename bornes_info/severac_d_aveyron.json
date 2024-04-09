@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Camping Les Calquières",
+    "address": "17 Avenue Jean Moulin - SEVERAC D'AVEYRON",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Parking de l'aire de covoiturage",
+    "address": "6161 Place Jean Jaurès - Sévérac-d'Aveyron",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A75 - Aire de l'Aveyron (Double sens)",
+    "address": "A75 - AIRE DE L' AVEYRON - SEVERAC LE CHATEAU",
+    "connectors": [
+      "x6",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "(Privée) Chambres d'Hôtes, chez Veronique & Patrick",
+    "address": "Auberoques - Sévérac-d'Aveyron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Car2Plug - Route de Laverhne - Sévérac-d'Aveyron",
+    "address": "Route de Laverhne - Sévérac-d'Aveyron",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Les passes, Recoules",
+    "address": "- Recoules",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE48 - Place du Calvaire - Le Massegros",
+    "address": "Le Village - Le Massegros",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Relais du Bois du Four",
+    "address": "D 28 - Saint-Léons",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mas de Clémany",
+    "address": "- Vézins-de-Lévézou",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEDA - Maison de la médecine Val d'Olt",
+    "address": "Rue de la Poste - Saint-Laurent-d'Olt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

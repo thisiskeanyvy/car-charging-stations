@@ -1,0 +1,136 @@
+[
+  {
+    "title": "CREA - Allée des Saules - La Bouille",
+    "address": "191 Allée des Saules - La Bouille",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Renault ILN GrandCouronne",
+    "address": "Boulevard du Grand Aulnay - Grand-Couronne",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Parking de la maredote - Moulineaux",
+    "address": "45–103 Rue Louis Moguen - Moulineaux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A13 Aire de Bosgouet Nord (direction Caen)",
+    "address": "AIRE DE BOSGOUET NORD - Bosgouet",
+    "connectors": [
+      "x6",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Fastned - A13 Aire Bosgouet Sud (direction Paris",
+    "address": "Autoroute de Normandie - Bosgouet",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Izivia - DBT - La Ferme du Manoir A13 - Sud SUPPRIMÉ",
+    "address": "1 La Ferme du Manoir - Bosgouet",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Chemin de la Garderie - Yville-sur-Seine",
+    "address": "Chemin de la Garderie - Yville-sur-Seine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RossiniEnergy - 117 Impasse du Bas de Flip - Bosgouet",
+    "address": "117 Impasse du Bas de Flip - Bosgouet",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie du Val-de-la-Haye",
+    "address": "33 Quai Cavelier de la Salle - Val-de-la-Haye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Place de la République - Grand-Couronne",
+    "address": "2B Place de la République - Grand-Couronne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

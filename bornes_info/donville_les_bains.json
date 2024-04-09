@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEM50 - Route de Coutances Donville-les-Bains",
+    "address": "97 Route de Coutances - Donville-les-Bains",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel de la baie",
+    "address": "Rue de l'Ermitage - Donville-les-Bains",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Brit Hotel - Granville",
+    "address": "57 Avenue des Matignon - Granville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEM50 - Place Pierre Semard, 13 - Granville",
+    "address": "13 Place Pierre Semard - Granville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEM50 - Mairie - Granville",
+    "address": "12 Cours Jonville - Granville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDEM50 - Granville - St Nicolas",
+    "address": "359 Rue Saint-Nicolas - Granville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "E-Totem - Biocoop - Granville",
+    "address": "118 Route de Villedieu - Granville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEM50 - Granville Les Amiraux",
+    "address": "11 Rue de la Fontaine Bedeau - Granville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking - Granville St Nicolas 2",
+    "address": "359 Rue Saint-Nicolas - Granville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Place des Corsaires - Granville",
+    "address": "35 Place des Corsaires - Granville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIED70 - Allée du Sainfoin Champlitte",
+    "address": "2 Allée du Sainfoin - Champlitte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIED70 - Dampierre-sur-Salon/Rue Georges Mongin",
+    "address": "1 Rue Georges Mongin - Dampierre-sur-Salon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDED52 - Grande Rue - Fayl-Billot",
+    "address": "34 Gr Grande Rue - Fayl-Billot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Place du 15 Juin - Combeaufontaine",
+    "address": "Place du 15 Juin 1940 - Combeaufontaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Taxi Jacquinot Jean - Montigny-lès-Cherlieu",
+    "address": "Grande Rue - Montigny-lès-Cherlieu",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Place de la Gare - COMBEAUFONTAINE",
+    "address": "1 Rue Des Vosges - Combeaufontaine",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SIRED70 - Carrefour contact - Fresne-Saint-Mamès",
+    "address": "52 Grande Rue - Fresne-Saint-Mamès",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Syndicat d'Energie et des Déchets de Haute Marne (SDED52) - Rue Diderot - Chalindrey",
+    "address": "Rue Diderot - Chalindrey",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "JNF CONCEPT",
+    "address": "39 Rue du Port - Arc-lès-Gray",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIED70 - Parking du Port Rouge - Arc-lès-Gray",
+    "address": "1 Chemin du Port Rouge - Arc-lès-Gray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

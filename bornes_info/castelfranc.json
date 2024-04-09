@@ -1,0 +1,130 @@
+[
+  {
+    "title": "KFC - Avenue de Scoraille",
+    "address": "36 Avenue de Scoraille - Villeneuve-sur-Lot",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Lidl - Villeneuve-sur-Lot",
+    "address": "115 avenue de fumel - Villeneuve-sur-Lot",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Leclerc - Villeneuve-sur-Lot",
+    "address": "Rue Henri Rol Tanguy, - Villeneuve-sur-Lot",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Powerdot - Ibis Styles - Villeneuve-sur-Lot",
+    "address": "x Zone Commerciale de Romas - Villeneuve-sur-Lot",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Chateau Le Stelsia",
+    "address": "Lalandette - Saint Sylvestre",
+    "connectors": [
+      "x3",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cabinet d'Ostéopathie de Parasol - Villeneuve sur Lot",
+    "address": "76 rue Marguerite et René Filhol - Villeneuve sur Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEE47 - Avenue Jean Moulin Saint-Sylvestre-sur-Lot",
+    "address": "12 Avenue Jean Moulin - Saint-Sylvestre-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Capitainerie - Rue Bergantine",
+    "address": "Rue Bergantine - Penne-d'Agenais",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "DRIVECO - Hotel Mercure Villeneuve sur Lot",
+    "address": "Rte Casseneuil, - Villeneuve-sur-Lot",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "MobiVE - Boulevard Georges Leygues - Villeneuve-sur-Lot",
+    "address": "47 Boulevard Georges Leygues - Villeneuve-sur-Lot",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

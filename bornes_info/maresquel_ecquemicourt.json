@@ -1,0 +1,140 @@
+[
+  {
+    "title": "STATIONS-E - Mairie de Beaurainville",
+    "address": "2 Place de la Mairie - Beaurainville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - 70 Place de la Gare - Beaurainville",
+    "address": "70 Place de la Gare - Beaurainville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ALDI - Route de Campagne - Beaurainville",
+    "address": "118 Route de Campagne - Beaurainville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leroy",
+    "address": "5 rue de saint remy - Gouy-Saint-André",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Partage Ma Borne - Campagne-lès-Hesdin - Rue de Buire",
+    "address": "Rue de Buire - Campagne-lès-Hesdin",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Hesdin",
+    "address": "Rte de Montreuil, - Hesdin",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "STATIONS-E - 15 Rue Fernand Lemercier - Huby-Saint-Leu",
+    "address": "15 Rue Fernand Lemercier - Huby-Saint-Leu",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "STATIONS-E - Rue du Docteur Pascal Mulliez - Marconne",
+    "address": "Rue du Docteur Pascal Mulliez - Marconne",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Stations-e - Gare de Hesdin",
+    "address": "5 Place de la Gare - Hesdin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Marconne",
+    "address": "Route de Mouriez - Marconne",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

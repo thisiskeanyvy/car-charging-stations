@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Rue de la Libération",
+    "address": "2 Rue de la Libération - Fère-Champenoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEM 51 - Rue de l'Eglise - Fere-Champenoise",
+    "address": "Rue de l'Eglise - Fere-Champenoise",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDEA 10/Villiers-Herbisse/Rue de la Crayère/1",
+    "address": "1 Rue de la Crayère - Villiers-Herbisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA 10/Herbisse/Rue de la Gare/3",
+    "address": "3 Rue de la Gare - Herbisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - Rue du general de Gaulle - Mailly",
+    "address": "36 Rue du Général de Gaulle - Mailly-le-Camp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo-Energies - Bussy-Lettrée - Rue Louis Blériot Aéroport Paris Vatry",
+    "address": "Rue Louis Blériot Aéroport Paris Vatry - Bussy-Lettrée",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEA - 66 General De Gaulle - Mailly-le-Camp",
+    "address": "66 Rue du Général de Gaulle - Mailly-le-Camp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Shell - A26/RN4 Aire de Sommesous (double sens)",
+    "address": "A26 - Sommesous",
+    "connectors": [
+      "x2",
+      "x12",
+      "x5",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEA- Plancy l'Abbaye",
+    "address": "3 Place Maréchal Foch - Plancy-l'Abbaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hostellerie du Mont Aimé",
+    "address": "6 Rue de Vertus - Bergères-lès-Vertus",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

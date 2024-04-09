@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FR*WA5 - Saint-Jean-de-Liversay - 40 Rue du Vanneau",
+    "address": "40 Rue du Vanneau - Saint-Jean-de-Liversay",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "HUHTAMAKI",
+    "address": "4 Rue des Ponts Neufs - L'Île-d'Elle",
+    "connectors": [
+      "x13",
+      "x11",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Greenspot - Carrefour Market - Ferrières",
+    "address": "Rue de la Juillerie - Ferrières",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZC de l'Aunis - Magasin \"Les fermiers du marais Poitevin\"",
+    "address": "119 Rue de la Juillerie - Ferrières",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "AlterBase Séolis - St Hilaire la Palud - La Poste",
+    "address": "6 Place de l'Église - Saint-Hilaire-la-Palud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Maison Flore",
+    "address": "25 Rue du Grand Port - Arçais",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia | FR*OTH - Marans - 1B Rue d'Aligre",
+    "address": "1B Rue d'Aligre - Marans",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SunXLium - 2 Rue des Vieux Moulins - Cramchaban",
+    "address": "2 Rue des Vieux Moulins - Cramchaban",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Andilly",
+    "address": "Rue des 4 Quartiers - Andilly",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Lidl - Andilly",
+    "address": "Rue Des Quatre Quartiers - Andilly",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  }
+]

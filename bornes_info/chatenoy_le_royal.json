@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Carrefour Market Estaires - Châtenoy-le-Royal - avenue Général De Gaulle Zac De Maupas,",
+    "address": "avenue Général De Gaulle Zac De Maupas, - Châtenoy-le-Royal",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Place Du Marché - Châtenoy-le-Royal",
+    "address": "Place Du Marché - Châtenoy-le-Royal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Garage Lanni - Châtenoy-le-Royal",
+    "address": "1 Rue Alfred Kastler - Châtenoy-le-Royal",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Châtenoy-le-Royal",
+    "address": "6359 Avenue Franchet d'Esperey - Châtenoy-le-Royal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Châtenoy-le-Royal - 4 Rue Des Varennes",
+    "address": "4 Rue Des Varennes - Châtenoy-le-Royal",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Mercier SAS - Châtenoy-le-Royal",
+    "address": "Rue des Varennes - Châtenoy-le-Royal",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Ibis Styles Chalon-sur-Saône",
+    "address": "Avenue de l'europe - Chalon-sur-Saône",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Tesla Supercharger V3 - Chalon-sur-Saône",
+    "address": "1 Rue François Protheau - Chalon-sur-Saône",
+    "connectors": [
+      "x28"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Hotel Ibis Chalon Nord",
+    "address": "Rue Paul Vachet - Chalon-sur-Saône",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Hôtel Ibis Chalon-Sur-Saône Europe",
+    "address": "2 Rue Georges Feydeau - Chalon-sur-Saône",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

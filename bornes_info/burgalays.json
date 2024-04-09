@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDEHG - Gare - Cierp-Gaud",
+    "address": "55 Avenue de la Gare - Cierp-Gaud",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Abri d'Arlos",
+    "address": "Route d'Espagne - Saint-Béat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Mairie de Frontignan-de-Comminges",
+    "address": "7-19 D33A - Frontignan-de-Comminges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Antichan-de-Frontignes, Mairie",
+    "address": "Route du Col des Ares - Antichan-de-Frontignes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Lidl - Rue Clément Ader - Bagnères-de-Luchon",
+    "address": "16A Rue Clément Ader - Bagnères-de-Luchon",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Iberdrola - Calle Era Carrera",
+    "address": "7D Carrer Pp la Baronia - Les",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEHG - Allée d'Etigny - Bagnères-de-Luchon",
+    "address": "18 Allée d'Etigny - Bagnères-de-Luchon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE65 (Révéo) - Rue Nationale - Loures-Barousse",
+    "address": "2 Chemin de la Devezere - Loures-Barousse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 (Révéo) - D925 - Sarp",
+    "address": "D925 - Sarp",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEHG - Valcabrère, Basilique",
+    "address": "Le Village - Valcabrère",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

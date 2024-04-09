@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Metropolis Recharge - 152 Rue de l'Avenir - Épinay-sur-Seine",
+    "address": "152 Rue de l'Avenir - Épinay-sur-Seine",
+    "connectors": [
+      "x1",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Sigeif - Route de Saint-Denis - Deuil-la-barre",
+    "address": "23 Route de Saint denis - Deuil-la-Barre",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Avenue Duquesne - Deuil-la-Barre",
+    "address": "8 Avenue Duquesne - Deuil-la-Barre",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - E. Leclerc - Epinay sur Seine",
+    "address": "165 Route de Saint-Leu - Epinay-sur-Seine",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - Stade (118 route de Saint-Denis) - Deuil-la-barre",
+    "address": "118 Route de saint-denis - Deuil-la-barre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Metropolis Recharge - 13 Rue Etienne Fajon - Villetaneuse",
+    "address": "13 Rue Etienne Fajon - Villetaneuse",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Metropolis Recharge - 54 Boulevard Foch - Épinay-sur-Seine",
+    "address": "54 Boulevard Foch - Épinay-sur-Seine",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Metropolis Recharge - 88 Avenue de la Division Leclerc - Villetaneuse",
+    "address": "88 Avenue de la Division Leclerc - Villetaneuse",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sigeif - 37 Rue de la Barre - Enghien-les-Bains",
+    "address": "37 Rue de la Barre - Enghien-les-Bains",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking Complexe Sportif Alain Mimoun - Rue de la Sourde - Deuil la barre",
+    "address": "4 Rue de la Sourde - Deuil la barre",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

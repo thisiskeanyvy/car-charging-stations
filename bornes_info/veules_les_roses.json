@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SDE76 - Mairie de Veules-les-Roses",
+    "address": "Parking de la Mairie - Veules-les-Roses",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "EVBox - Rue de la mer 11 - Quiberville",
+    "address": "Rue de la mer 11 - Quiberville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Wall Neville",
+    "address": "2 rue fu carrelet - Neville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE76 - Rue de la Saâne - Quiberville",
+    "address": "51 Rue de la Saâne - Quiberville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE76 - Chemin des Hortensias - Luneray",
+    "address": "Chemin des Hortensias - Luneray",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Luneray",
+    "address": "Rue de la République - Luneray",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE 76 - Ouville-la-Rivière",
+    "address": "Allée de la Saâne - Ouville-la-Rivière",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sport-e-bike",
+    "address": "2 Rue des Rosiers - Saint-Riquier-és-Plains",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - CNPE Paluel - Cany-Barville",
+    "address": "Hameau de Conteville - Cany-Barville",
+    "connectors": [
+      "x14",
+      "x5",
+      "x9"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Golf - Saint-Riquier-és-Plains",
+    "address": "85 Route du Golf - Saint-Riquier-és-Plains",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

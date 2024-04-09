@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Domaine des Bufflonnes",
+    "address": "Lieu dit Seigbuhl, Chemin De La Forêt - Uhrwiller",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - rue du 11 novembre - Ingwiller",
+    "address": "rue du 11 novembre - Ingwiller",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Rue de l'Église - Lichtenberg",
+    "address": "4 Rue de l'Église - Lichtenberg",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Monta - Ingwiller - Super U",
+    "address": "Rue du Wittholz 9 - Ingwiller",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Ingwiller",
+    "address": "1 Rue de l'Industrie - Ingwiller",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LOEFFEL PEUGEOT INGWILLER",
+    "address": "1 Rue de l'Artisanat - Ingwiller",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Peugeot PSA - Val-de-Moder",
+    "address": "1 Rue de Hanau - Val-de-Moder",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Rue de Saverne - Val-de-Moder",
+    "address": "Rue de Saverne - Val-de-Moder",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Izivia - Place De La Republique - Uberach",
+    "address": "1 Place De La Republique - val de moder",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Oberbronn, Place du Couvent",
+    "address": "Place Du Couvent - Oberbronn",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Syaden (Révéo) - Grand Rue - Roquefeuil",
+    "address": "Grand Rue - Roquefeuil",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Syndicat Départemental d'Énergies de l'Ariège (SDE09) - Ascou - D25",
+    "address": "D25 - Ascou",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Chambres d'hôtes Balcons de Sorgeat",
+    "address": "5000 La Molle - Sorgeat",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Révéo - Avenue Adolphe Authie - Ax-les-Thermes",
+    "address": "903 Avenue Adolphe Authie - Ax-les-Thermes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE09 - Ax-les-Thermes",
+    "address": "3 Place Saint-Jérôme - Ax-les-Thermes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SDE09 - Avenue de Lavelanet Belesta",
+    "address": "24 Avenue de Lavelanet - Belesta",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Menuiserie Falco",
+    "address": "179 Bereres - Perles-et-Castelet",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE09 - Place du Marché - Luzenac",
+    "address": "Rue Principale - Luzenac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RÉVÉO - Chemin de Manseille - Ax-les-Thermes",
+    "address": "Chemin de Manseille - Ax-les-Thermes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "RÉVÉO - D9 Montferrier",
+    "address": "D209 - Montferrier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

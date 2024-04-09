@@ -1,0 +1,164 @@
+[
+  {
+    "title": "SE61 - Damigny Pôle Universitaire",
+    "address": "Mont Foulon - Damigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Rue l'Abbé Loublier - Condé sur sarthe",
+    "address": "Rue l'Abbé Loublier - Condé-sur-Sarthe",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SE61 - Mairie de Damigny",
+    "address": "Allée du Stade - Damigny",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Carrefour - Condé-sur-Sarthe",
+    "address": "48 Rue d'Alençon - Condé-sur-Sarthe",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Centre technique matériels et équipements",
+    "address": "51 Rue Lazare Carnot - Damigny",
+    "connectors": [
+      "x1",
+      "x1",
+      "x3",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 151 Rue de Bretagne - Alençon",
+    "address": "151 Rue de Bretagne - Alençon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SE61 - Hôtel du Département - Boulevard de Strasbourg - Alençon",
+    "address": "25–31 Boulevard de Strasbourg - Alençon",
+    "connectors": [
+      "x6",
+      "x11",
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SE61 - Parking de la Prairie. Rue du général Leclerc",
+    "address": "19 Rue du Général Leclerc - Saint-Germain-du-Corbeïs",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - 79 place du Commandant Daniel Desmeules",
+    "address": "79 Place du Commandant Daniel Desmeulles - Alençon",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SE61 - Territoire d'Énergie - Valframbert",
+    "address": "8 Rue de Gatel - Valframbert",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  }
+]

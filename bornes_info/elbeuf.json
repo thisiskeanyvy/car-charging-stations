@@ -1,0 +1,132 @@
+[
+  {
+    "title": "CREA - Place de la libération - Elbeuf",
+    "address": "2148 Place de la Libération - Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Elbeuf (Place Aristide Briand)",
+    "address": "30 Rue Augustin Henry - Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "A2C Expertise - rue Raymond Dendeville",
+    "address": "4 rue Raymond Dendeville - Elbeuf",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA’VENIR - Rue Poussin - Elbeuf (Fabrique des Savoirs)",
+    "address": "28 Rue Poussin - Elbeuf",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Caudebec les Elbeuf",
+    "address": "1055 Rue Emile Zola - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Gare de Saint-Aubin-lès-Elbeuf",
+    "address": "5 Rue Pierre Saint-Georges - Saint-Aubin-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Rue de Strasbourg - Caudebec-lès-Elbeuf",
+    "address": "Rue de Strasbourg - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint Network/FRCPIL6612515",
+    "address": "427 Rue de la Chaussée - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Métropole Rouen-Normandie - Caudebec-lès-Elbeuf - Rue des Champs",
+    "address": "Rue des Champs - Caudebec-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Burger King - Saint-Pierre-lès-Elbeuf",
+    "address": "560 Avenue de Bonport - Saint-Pierre-lès-Elbeuf",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

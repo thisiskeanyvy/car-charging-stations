@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Prise de Nice - Place Jean Médecin",
+    "address": "30 Place Jean Médecin - Saint-Laurent-du-Var",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Prise de Nice Esplanade du levant",
+    "address": "326 Esplanade du Levant - Saint-Laurent-du-Var",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Prise de Nice - Square Benes",
+    "address": "940 - 990 av Gal de Gaulle - Saint Laurent Du Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Parking P+R Ligne d'Azur Parc des Sports",
+    "address": "Boulevard du Mercantour - Nice",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Prise de Nice - Saint-Laurent-du-Var - 349 Chemin des Rascas",
+    "address": "349 Chemin des Rascas - Saint-Laurent-du-Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Métropole Nice Côte d’Azur (MNCA) - Saint-Laurent-du-Var - Esplanade Edmond Jouhaud",
+    "address": "Esplanade Edmond Jouhaud - Saint-Laurent-du-Var",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Prise de Nice - Avenue des Orangers - Saint-Laurent-du-Var",
+    "address": "193 Avenue des Orangers - Saint-Laurent-du-Var",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - Complexe Sportif Nice Mercantour - 210 Route De Grenoble - Nice",
+    "address": "210 Route De Grenoble - Nice",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Prise de Nice - Parking du Jacquon - Saint-Laurent-du-Var",
+    "address": "214 Chemin du Jaquon - Saint-Laurent-du-Var",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Peugeot Azur",
+    "address": "155 Route de Grenoble - Nice",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "START SQY - Gare de Montigny-le-Bretonneux",
+    "address": "7 Avenue de la Gare - Montigny-le-Bretonneux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Espace Saint Quentin - parking Aqueduc",
+    "address": "8 Rue Germain Soufflot - Montigny-le-Bretonneux",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Siege Bouygues Energies & Services (Uniquement pour employés et visiteurs)",
+    "address": "19 Rue George Stephenson - Montigny-le-Bretonneux",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 1",
+      "Type 3C",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Rue Jacques Duclos - Guyancourt",
+    "address": "Rue Jacques Duclos - Guyancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - D10 (R+5) - Montigny-le-Bretonneux",
+    "address": "D10 - Montigny-le-Bretonneux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - CC Espace Saint Quentin - Montigny-le-Bretonneux",
+    "address": "1 Avenue de la Source de la Bièvre - Montigny-le-Bretonneux",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Siege EGIS - Guyancourt (Privé)",
+    "address": "15 Avenue du Centre - Guyancourt",
+    "connectors": [
+      "x9"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SQY SHARE - Avenue du Centre - Guyancourt (Privé)",
+    "address": "15bis Avenue du Centre - Guyancourt",
+    "connectors": [
+      "x5",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EFFIA - Avenue de Lunca - Montigny-le-Bretonneux",
+    "address": "Avenue de Lunca - Montigny-le-Bretonneux",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alizé - Rue de la Mare de Troux - Guyancourt",
+    "address": "38 Boulevard Paul Cézanne - Guyancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

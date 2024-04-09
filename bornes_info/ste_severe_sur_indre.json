@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDEI36 - Pouligny-Notre-Dame",
+    "address": "7 Allée de la Fontvieille - Pouligny-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - La Châtre",
+    "address": "ZA de Belleplace Route de Guéret - La Châtre",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Avenue d'Auvergne - La Châtre",
+    "address": "Avenue d'Auvergne - La Châtre",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEI36 - Place du marché - La Châtre",
+    "address": "31 Place du Marché - La Châtre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Bricomarché - Le Magny",
+    "address": "20 Rue des Ajoncs - Le Magny",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - La Châtre - Rue Ernest Nivet",
+    "address": "Rue Ernest Nivet - La Châtre",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Shell Recharge - 2 Avenue du Lion d'Argent - Montgivray",
+    "address": "2 Avenue du Lion d'Argent - Montgivray",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Intermarché Chateaumeillant",
+    "address": "2 Les Giverlais - Châteaumeillant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Etang Merlin",
+    "address": "L'Étang Merlin - Châteaumeillant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue de la Libération - Châteaumeillant",
+    "address": "69 Rue de la Libération - Châteaumeillant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

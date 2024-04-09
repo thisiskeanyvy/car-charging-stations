@@ -1,0 +1,132 @@
+[
+  {
+    "title": "e-born - Mairie de La Batie Neuve",
+    "address": "Place de la Mairie - La Bâtie-Neuve",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "FR*ETI - Saint-Étienne-le-Laus - 758 Grande Rue",
+    "address": "758 Grande Rue - Saint-Étienne-le-Laus",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Intermarché - Chorges",
+    "address": "Pré de la Gare - Chorges",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gîte les Sitelles",
+    "address": "113 Chemin de la Ferme - Chorges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Rue de l'École - Ancelle",
+    "address": "Rue de l'École - Ancelle",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "e-born - Place du Grand Logis - Chorges",
+    "address": "5 Place du Grand Logis - Chorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DRIVECO - Suzuki - Gap",
+    "address": "109 Route de Briançon - Gap",
+    "connectors": [
+      "x1",
+      "x4",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Syme05 - Parking ds Ecoles Chorges",
+    "address": "Route des Moilettes - Chorges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Gap | Route de la Justice 26",
+    "address": "26 Route de la Justice - Gap",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "DRIVECO - Ford - 105 Route de Briançon - Gap",
+    "address": "105 Route de Briançon - Gap",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

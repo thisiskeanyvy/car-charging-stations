@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MObiVE Bosdarros Route du Village 1011",
+    "address": "1011 Route du Village - Bosdarros",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Rue Louis Bidau - Gan",
+    "address": "Rue Louis Bidau - Gan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Gan - Gamm Vert",
+    "address": "920 Rte d'Oloron - Gan",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Le jardin d'Alice",
+    "address": "chemin de Udée - Gan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SafranHE",
+    "address": "Rue tuebomeca - Bordes",
+    "connectors": [
+      "x28",
+      "x30",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEPA - Route de Lourdes - Bordes",
+    "address": "19 Rue de Lourdes - Bordes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiVE - Avenue du Général de Gaulle - Mazères-Lezons",
+    "address": "39 Avenue du Général de Gaulle - Mazères-Lezons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cru Lamouroux",
+    "address": "1656 Route de la Chapelle de Rousse - Jurançon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Mazères-Lezons",
+    "address": "Rue du Général Leclerc - Mazères-Lezons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Clinique Aressy - Rue des Sources (privé)",
+    "address": "Rue des Sources - Aressy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

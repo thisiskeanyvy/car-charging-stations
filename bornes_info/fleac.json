@@ -1,0 +1,114 @@
+[
+  {
+    "title": "EHPAD du Haut Bois",
+    "address": "4 Avenue des Sports - Fléac",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue des Boisdons - Linars",
+    "address": "15 Rue des Boisdons - Linars",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Entreprise Dumas Pascal",
+    "address": "27 rue de l'Europe - Fléac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Atlante - Greet Hotel Angoulême Ouest",
+    "address": "114 Rue de Royan - Saint-Yrieix-sur-Charente",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Grande Garenne",
+    "address": "Rue Pierre Aumaitre - Angoulême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Rue de Saintes",
+    "address": "188 Rue de Saintes - Angoulême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - 403 Rue De Bordeaux - Angoulême",
+    "address": "403 Rue De Bordeaux - Angoulême",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Shell Recharge - Castorama - Rue de Bordeaux",
+    "address": "Rue de Bordeaux - St.-Michel",
+    "connectors": [
+      "x10",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "LastMile Solutions - AUTO SERVICE PLUS - Saint Michel",
+    "address": "2 Chemin du Grand Girac - Saint Michel",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parking Gesta - place Bouillaud - Angoulême",
+    "address": "27 Place Bouillaud - Angoulême",
+    "connectors": [
+      "x5",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

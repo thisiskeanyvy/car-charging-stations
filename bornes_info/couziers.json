@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDEG16 - 2 Rue Principale - Vars",
+    "address": "2 Rue Principale - Vars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Rue du Pilori - Vars",
+    "address": "Rue du Pilori - Vars",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - Route des Courrières - Montignac-Charente",
+    "address": "Route des Courrières - Montignac-Charente",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEG16 - 4 Route de Mansle - Saint-Amant-de-Boixe",
+    "address": "4 Route de Mansle - Saint-Amant-de-Boixe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Angoulême",
+    "address": "122 Rue des Meneaux - Champniers",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "NW IECharge - Rue de l'Auvent - Champniers",
+    "address": "62 Rue de l'Auvent - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - 122 Rue des Meneaux - Champniers",
+    "address": "122 Rue des Meneaux - Champniers",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allego - Géant Casino - Champniers",
+    "address": "Z.A.C. des Montagnes - Champniers",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Espace Commercial les Montagnes 2 \"Boutique Jules\" - Route de la Braconne - Champniers",
+    "address": "Route de la Braconne - Champniers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Centre Sportif des Montagnes - Champniers",
+    "address": "Rue de la Génoise - Champniers",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

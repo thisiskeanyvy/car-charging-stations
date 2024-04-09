@@ -1,0 +1,134 @@
+[
+  {
+    "title": "FR*LDL - Sévrier - Route d'Albertville",
+    "address": "Route d'Albertville - Sévrier",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Gîte Les Clottous - Chantepérier",
+    "address": "La Drayre - Chantepérier",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SPBR1 - Rue Capitaine Meunier - Le Bourg-d'Oisans",
+    "address": "Rue Capitaine Meunier - Le Bourg-d'Oisans",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Hotel de Milan - Rue du Général de Gaulle - Le Bourg-d'Oisans",
+    "address": "54 Rue du Général de Gaulle - Le Bourg-d'Oisans",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Rue Des Colporteurs - Bourg d'Oisans",
+    "address": "50 Rue Des Colporteurs - Le Bourg-d'Oisans",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Hôtel de l'Oberland",
+    "address": "189 Rue Emilien Joly - Le Bourg-d'Oisans",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Alpe du grand serre",
+    "address": "D114 - La Morte",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Rue Principale, 995 - Valbonnais",
+    "address": "995 Rue Principale - Valbonnais",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping de vallebonais",
+    "address": "15 Impasse du Lac - Valbonnais",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Inconnu",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Place des Orgières - Auris",
+    "address": "16 Place des Orgières - Auris",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

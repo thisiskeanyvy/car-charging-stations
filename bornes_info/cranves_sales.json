@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Syane - Route de Borly Cranves-Sales",
+    "address": "118 Route de Borly - Cranves-Sales",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ZEborne - 99 Route de Taninges - Vétraz-Monthoux",
+    "address": "99 Route de Taninges - Vétraz-Monthoux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 10 Allée Des Chênes - Vétraz-Monthoux",
+    "address": "10 Allée Des Chênes - Vétraz-Monthoux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Cap Bernard - Ville-la-Grand",
+    "address": "6 Rue de Montréal - Ville-la-Grand",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SYANE (e-born) - Place de la Vignule, 1 - Lucinges",
+    "address": "1 Place de la Vignule - Lucinges",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SoWatt - Audi Jean Lain - Ville-la-Grand",
+    "address": "21 Rue des Buchillons - Ville-la-Grand",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Renault Annemasse",
+    "address": "6 avenue des buchillons - Annemasse",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargeGuru - 8 Rue des Buchillons - Ville-La-Grand",
+    "address": "8 Rue des Buchillons - Ville-La-Grand",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SoWatt - Volkswagen - Annemasse",
+    "address": "36 Rue de la Résistance - Annemasse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Kia - Ville-la-Grand",
+    "address": "7 Rue Chantemerle - Ville-la-Grand",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 0
+  }
+]

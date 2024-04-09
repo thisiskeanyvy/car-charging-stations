@@ -1,0 +1,128 @@
+[
+  {
+    "title": "château d Island",
+    "address": "7 Rue du Château - Island",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - 30 Rue de La Mairie - SAINT-PERE (89)",
+    "address": "30 Rue de La Mairie - SAINT-PERE (89)",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Moulin des Ruats - Avallon",
+    "address": "23 rue des îles Labaumes - Avallon",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Place de l'église - Quarré-les-Tombes",
+    "address": "20 Place de l'Église - Quarré-les-Tombes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Parking - Avallon",
+    "address": "1 Rue Tour du Magasin - Avallon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de Vault-de-Lugny (Tesla)",
+    "address": "11 Rue du Château - Vault-de-Lugny",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEY - Parking D957 - Vézelay",
+    "address": "1 D957 - Vézelay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Zephyre - Hôtel Les Capucins - Avallon",
+    "address": "6 rue des prés - Avallon",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Freshmile - Rue des Portes - Lormes",
+    "address": "509 Rue des Portes - Lormes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Lidl - Avallon",
+    "address": "2 Rue des Biossons - Avallon",
+    "connectors": [
+      "x8",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

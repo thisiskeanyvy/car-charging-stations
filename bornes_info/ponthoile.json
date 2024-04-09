@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FDE80 - Noyelles-sur-Mer (Parking Gare)",
+    "address": "7 Route du Crotoy - Noyelles-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Favières - 1075 Rue Des Forges",
+    "address": "1075 Rue Des Forges - Favières",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FDE80 Parking Rue de la Mairie",
+    "address": "4 D111 - Nouvion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy - Le Crotoy - D940, Route de Rue Camping le Terteron",
+    "address": "D940, Route de Rue Camping le Terteron - Le Crotoy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - D32 Chemin des Joncs - Rue",
+    "address": "Chemin des Joncs - Rue",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile- Parking Rue Jules Verne - Le Crotoy",
+    "address": "Rue Jules Verne - Le Crotoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Quai Perrée - Saint-Valery-sur-Somme",
+    "address": "15 Quai Perrée - Saint-Valery-sur-Somme",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Camping-Car - Sailly-Flibeaucourt",
+    "address": "Unnamed Road - Sailly-Flibeaucourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bertrand Halbwachs - Rue Pierre Guerlain",
+    "address": "4 Rue Pierre Guerlain - Le Crotoy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Supercharger V2 - A16 Aire de la Baie de Somme",
+    "address": "A16 A16 - Aire de la Baie de Somme - Sailly-Flibeaucourt",
+    "connectors": [
+      "x10",
+      "x10",
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu",
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 5
+  }
+]

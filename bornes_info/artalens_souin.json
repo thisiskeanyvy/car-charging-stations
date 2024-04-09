@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE65 (Révéo) - Parking de la Gare - Pierrefitte-Nestalas",
+    "address": "1107 Rue de la Gare - Pierrefitte-Nestalas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDE65 (Révéo) - Rue Théophile Gautier, 16 - Pierrefitte-Nestalas",
+    "address": "16 Rue Théophile Gautier - Pierrefitte-Nestalas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel Restaurant Le Viscos (Tesla and others)",
+    "address": "1 Rue Lamarque - Saint-Savin",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Camping Le Lavedan - Lau-Balagnas",
+    "address": "44 Route des Vallées - Lau-Balagnas",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "FR*LDL - Saint-Gaudens - Rue Jean Suberville",
+    "address": "Rue Jean Suberville - Saint-Gaudens",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Netto - Argelès-Gazost",
+    "address": "Avenue Pierre de Coubertin 4 - Argelès-Gazost",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Parking de la Gare - Argelès-Gazost",
+    "address": "19 Avenue de la Marne - Argelès-Gazost",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Pere - Argelès-Gazost",
+    "address": "26 Rue du Barderou - Argelès-Gazost",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE65 - Rue Roquette Buisson - Argelès-Gazost",
+    "address": "38 Rue de Roquette Buisson - Argelès-Gazost",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Camping Sunelia les 3 Vallées - Ayzac-Ost",
+    "address": "D821A - Ayzac-Ost",
+    "connectors": [
+      "x8",
+      "x8",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

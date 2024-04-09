@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Hôtel-Restaurant Le Grand Turc - L'Oie (Tesla and others)",
+    "address": "33 Rue Nationale - L'Oie",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel-Restaurant Le Grand Turc (Schneider)",
+    "address": "33 Rue Nationale - L'Oie",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BATISMAC",
+    "address": "5 Le Cerisier - Essarts-en-Bocage",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SyDEV - Les Quatre Chemins - Sainte Florence",
+    "address": "9 Les Quatre Chemins - Sainte-Florence",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Rossini Energy - Vendrennes - 8 Route de l'Océan",
+    "address": "8 Route de l'Océan - Vendrennes",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "château de boistissandeau",
+    "address": "Unnamed Road - Les Herbiers",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Leclerc - Chantonnay",
+    "address": "2 Rue des Forêtis - Chantonnay",
+    "connectors": [
+      "x1",
+      "x2",
+      "x5",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Leclerc - Les Herbiers",
+    "address": "Unnamed Road - Les Herbiers",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SyDEV - Rue du Baron Pierre de Coubertin - Les Herbiers",
+    "address": "2 Rue Raymond Kopa - Les Herbiers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Le Grand Fief (Privé)",
+    "address": "Le Grand Fief - Les Herbiers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

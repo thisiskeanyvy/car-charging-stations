@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SDE03 - Domérat",
+    "address": "Boulevard Victor Hugo - Domérat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Leclerc - Rue de la Chevêche - Domérat",
+    "address": "Rue de la Chevêche - Domérat",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell-Recharge - Brico Dépôt - Domérat",
+    "address": "12 Rue Jean Moulin - Domérat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Shell Recharge - Rue de la Cheveche - Domérat",
+    "address": "Rue de la Cheveche - Domérat",
+    "connectors": [
+      "x11"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Auchan - route de Guéret - Montluçon Domerat",
+    "address": "Route de Gueret - Terre Neuve (D745) - Domérat",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Montluçon",
+    "address": "121 Avenue Jules Guesde - Montluçon",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parc des Sports de la Loue - Saint-Victor",
+    "address": "Rue Armand Peugeot - Saint-Victor",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route du Plan d'eau - Prémilhat",
+    "address": "Route du Plan d'eau - Prémilhat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Tesla Superchargeur V3 - Montluçon (Zone de la Loue) - RN 145 / E62",
+    "address": "Rue Louis Renault - Saint-Victor",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Montluçon - Barrat Automobiles",
+    "address": "32 Rue De Pasquis - Montluçon",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

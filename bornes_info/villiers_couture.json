@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIGEIF - Rue Gambetta - Villiers-le-Bel",
+    "address": "10 Rue Gambetta - Villiers-le-Bel",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Villiers-le-Bel - 1 Boulevard Carnot (privé)",
+    "address": "1 Boulevard Carnot - Villiers-le-Bel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Boulevard Salvador Allende",
+    "address": "14 Boulevard Salvador Allende - Villiers-le-Bel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Qovoltis - Ecouen - RN16, Rue de la Croix Baillet Kyriad Paris Nord",
+    "address": "RN16, Rue de la Croix Baillet Kyriad Paris Nord - Ecouen",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Villiers-le-Bel - Lidl",
+    "address": "6 Rue des Erables - Villiers-le-Bel",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Sigeif - place de la libération - Sarcelles",
+    "address": "10 Rue De l'Eglise - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigidurs - Rue de l'Escouvrie - Sarcelles",
+    "address": "20 Rue de l'Escouvrier - Sarcelles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - place André Gide - Sarcelles",
+    "address": "place andré Gide - Sarcelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIGEIF - Allée Pierre Corneille - Villiers-le-Bel",
+    "address": "4 Allée Pierre Corneille - Villiers-le-Bel",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Hôtel Première classe - Rue du Vignolle - Sarcelles",
+    "address": "1 Rue du Vignolle - Sarcelles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

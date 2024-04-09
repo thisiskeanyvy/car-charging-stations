@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SDE53 - Place de l'Eglise - Villiers-Charlemagne",
+    "address": "Place de l'Eglise - Villiers-Charlemagne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Super U - Meslay du Maine",
+    "address": "Rue de laval - Meslay du maine",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDE53 - Place de la Poste, 6 - Meslay-du-Maine",
+    "address": "6 Place de la Poste - Meslay-du-Maine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "SDE53 - Rue de Soulge - Bazougers",
+    "address": "Rue de Soulge - Bazougers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc - Laval",
+    "address": "60 Avenue De La Communauté Européenne - Laval",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE53 - le Palyndrome - Laval",
+    "address": "25 Rue Albert Einstein - Laval",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "ZEborne - 11 Rue de Bruxelles - Laval",
+    "address": "11 Rue de Bruxelles - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Hall au Sommeil - Laval",
+    "address": "64 Rue de Berlin - Laval",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue d'Anjou, 12 - Loigné-sur-Mayenne",
+    "address": "12 Rue d'Anjou - Loigné-sur-Mayenne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE53 - Rue du Maine - Bonchamp-lès-Laval",
+    "address": "Rue du Maine - Bonchamp-lès-Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

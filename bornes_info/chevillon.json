@@ -1,0 +1,134 @@
+[
+  {
+    "title": "USEDA - Place de l'Église - Neuilly-Saint-Front",
+    "address": "Place de l'Église - Neuilly-Saint-Front",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Gare de La Ferté-Milon",
+    "address": "Avenue de la Gare - La Ferté-Milon",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv’Oise - 39 Rue Louis Faussard - Neufchelles",
+    "address": "39 Rue Louis Faussard - Neufchelles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place du Champivert Crouy-sur-Ourcq",
+    "address": "2 Place du Champivert - Crouy-sur-Ourcq",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "USEDA - Avenue de Paris Montreuil-aux-Lions",
+    "address": "38 Avenue de Paris - Montreuil-aux-Lions",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue des Écoles - Vendrest",
+    "address": "4 Rue des Écoles - Vendrest",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Rue Potel - Oulchy-le-Château",
+    "address": "6 Rue Potel - Oulchy-le-Château",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "USEDA - Centre aquatique Citélium - Château-Thierry",
+    "address": "La Moiserie - Château-Thierry",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "METROPOLIS BOWLING LASER",
+    "address": "2 Rue françoise barré Sinoussi - Château-Thierry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Château-Thierry - 139 Avenue de Soissons Hôtel Campanile Château-Thierry",
+    "address": "139 Avenue de Soissons Hôtel Campanile Château-Thierry - Château-Thierry",
+    "connectors": [
+      "x1",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

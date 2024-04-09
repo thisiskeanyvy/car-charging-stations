@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SEDI - Route de Lyon, Valencin",
+    "address": "Route de Lyon - Valencin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Pl. Camille Gallon / Rue Gaston Perrier",
+    "address": "145 Rue Gaston Perrier - Saint-Just-Chaleyssin",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Place Charles de Gaulle - Saint-Pierre-de-Chandieu",
+    "address": "Place Charles de Gaulle - Saint-Pierre-de-Chandieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Teramat",
+    "address": "730 Chemin de savoyan - Heyrieux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "eborn - Avenue du Général de Gaulle - Heyrieux",
+    "address": "5 Avenue du Général de Gaulle - Heyrieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Syder - Place de la Mairie - Toussieu",
+    "address": "4 Place de la Mairie - Toussieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TotalEnergies - Rue Lavoisier - Saint-Pierre-de-Chandieu",
+    "address": "Rue Lavoisier - Saint-Pierre-de-Chandieu",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYDER - Place du 19 Mars 1962 - Chaponnay",
+    "address": "Place du 19 Mars 1962 - Chaponnay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SYDER - Chaponnay - 9 Rue de la Résistance",
+    "address": "9 Rue de la Résistance - Chaponnay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEDI - Septème - Parking salle polyvalente",
+    "address": "68-170 Route de la Pivollee - Septème",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  }
+]

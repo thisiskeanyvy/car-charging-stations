@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Mairie de Lormont",
+    "address": "2 Rue du Colonel Fabien - Lormont",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Lormont - 9 Rue Albert Camus",
+    "address": "9 Rue Albert Camus - Lormont",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Renault - Pont d'Aquitaine",
+    "address": "29 avenue de Paris - Lormont",
+    "connectors": [
+      "x5",
+      "x2",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Qovoltis - Lormont - Allée de l'Oiseau de France Kyriad Bordeaux Est",
+    "address": "Allée de l'Oiseau de France Kyriad Bordeaux Est - Lormont",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avenue de la Gardette - Carbon-Blanc",
+    "address": "7 Avenue De La Gardette - Carbon-Blanc",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rocade de Bordeaux (direction Sud)",
+    "address": "547 N230 - Lormont",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Total Energies - Relais Fontbelleau - Rocade exterieure (direction NORD)",
+    "address": "547 N230 - Lormont",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour - Lormont",
+    "address": "Centre commercial Les 4 Pavillons _BP 7 - Lormont",
+    "connectors": [
+      "x2",
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "edenauto Premium BMW Bordeaux",
+    "address": "28 Avenue du Président J F Kennedy - Lormont",
+    "connectors": [
+      "x3",
+      "x3"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parc-relais Buttinière - Lormont",
+    "address": "La Butinière - Lormont",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 5
+  }
+]

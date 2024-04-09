@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SIEML - CORNE - Place du Logis des Moines",
+    "address": "Rue Royale - Loire-Authion",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Maze - Rue Paul Richou",
+    "address": "Rue Paul Richou - Mazé-Milon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Sarrigne - Parking Mairie",
+    "address": "Rue Saint-Jean - Sarrigné",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "GROUPE COLISEE_FRANCE_ANDARD_5947_Pext_E",
+    "address": "Lieu dit La Roche Tinard - Loire-Authion",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - JARZE - Place Norbert d'Avignon",
+    "address": "Place Norbert Davignon - Jarzé Villages",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SIEML - Beaufort En Vallee - Parking Des Equisseaux",
+    "address": "6 Rue des Esquisseaux - Beaufort-en-Vallée",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Garage du stade",
+    "address": "11 Boulevard de la Prévoté - Beaufort-en-Vallée",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia - Super U - Andard",
+    "address": "55 grand rue - Andard",
+    "connectors": [
+      "x6",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - ANDARD - Rue Henri Poulain",
+    "address": "Rue Henri Poulain - Andard",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEML - Super U - Corzé",
+    "address": "4 L'Aurore - Corzé",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Super U et Drive",
+    "address": "180 Allée des Noyères - Magland",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "hôtel le relais du mont blanc",
+    "address": "19 route de bellegarde - Magland",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Zephyre - Hôtel & Spa La Croix de Savoie - Arâches-la-Frasse",
+    "address": "768 Rte du Pernand - Arâches-la-Frasse",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SYANE - Tabac-Presse - Magland",
+    "address": "D1205 - Magland",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - Vallée de L'Arve",
+    "address": "2374 Avenue de Genève - Sallanches",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Driveco pour Kia - 2061 Avenue André Lasquin - Sallanches",
+    "address": "2061 Avenue André Lasquin - Sallanches",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ford Sallanches - Avenue André Lasquin - Sallanches",
+    "address": "2061 Avenue André Lasquin - Sallanches",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Route des Moulins - Arâches-la-Frasse",
+    "address": "61 Route des Moulins - Arâches-la-Frasse",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Parking du télécabine",
+    "address": "4 Impasse des Sablets - Arâches-la-Frasse",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ibis Styles Sallanches Pays du Mont-Blanc",
+    "address": "90 Clos de la Paccoterie - Sallanches",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  }
+]

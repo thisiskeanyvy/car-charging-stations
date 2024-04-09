@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Carrefour - Limoges Boisseuil",
+    "address": "Rue de la Tour - Boisseuil",
+    "connectors": [
+      "x4",
+      "x4",
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "EVzen - Norauto - Le Vigen",
+    "address": "Rue de la Tour - Le Vigen",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Electromaps - Rue de la Tour - Boisseuil",
+    "address": "Rue de la Tour - Boisseuil",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "AUTOMOBILE GARAGE LEOBET SUD",
+    "address": "7 Allée Louis Breguet - Feytiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - Avenue du Président John Kennedy 34 - Limoges INEXISTANT",
+    "address": "Avenue du Président John Kennedy 34 - Limoges",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Qovoltis - Best Western Hotel - Limoges",
+    "address": "Rue de l'Essart - Feytiat",
+    "connectors": [
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Electromaps - Hôtel Black and Green - Limoges - 270 Rue de Toulouse",
+    "address": "270 Rue de Toulouse - Limoges",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Sure Hotel by best western - rue de l'essart",
+    "address": "rue de l'essart - Feytiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Avenue des Tilleuls - Saint-Jean-Ligoure",
+    "address": "5170J Avenue des Tilleuls - Saint-Jean-Ligoure",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Izivia-Express - Intermarché - Limoges",
+    "address": "Rue Bernart de Ventadour - Limoges",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

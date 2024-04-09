@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Boulevard Jean Jaurès - Boulogne-Billancourt",
+    "address": "61 Boulevard Jean Jaurès - Boulogne-Billancourt",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 114 rue Gallieni - Boulogne-Billancourt",
+    "address": "112 Rue Gallieni - Boulogne-Billancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking Monoprix - Boulogne-Billancourt",
+    "address": "110 Avenue Victor Hugo - Boulogne-Billancourt",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sigeif - 15 Avenue du Général Leclerc - Boulogne-Billancourt",
+    "address": "15 Avenue du Général Leclerc - Boulogne-Billancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Parking Marché - Rue Du Vieux Pont De Sèvres",
+    "address": "150 Rue Du Vieux Pont De Sèvres - Boulogne-Billancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "TotalEnergies - Boulogne Billancourt - 76 boulevard de la République",
+    "address": "76 boulevard de la République - Boulogne Billancourt",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "WAAT - Boulogne-Billancourt - Rent A Car",
+    "address": "53B Route de la Reine - Boulogne-Billancourt",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - 57 avenue du Général Leclerc - Boulogne-Billancourt",
+    "address": "57 avenue du Général Leclerc - Boulogne-Billancourt",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sigeif - 61 Boulevard Jean Jaurès Boulogne-Billancourt",
+    "address": "55–59 Boulevard Jean Jaurès - Boulogne-Billancourt",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  },
+  {
+    "title": "Tessi - Rue de Billancourt",
+    "address": "56 Rue de Billancourt - Boulogne-Billancourt",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

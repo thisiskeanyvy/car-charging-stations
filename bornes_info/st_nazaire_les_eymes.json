@@ -1,0 +1,136 @@
+[
+  {
+    "title": "FASTNED - A41 - Aire de Saint-Nazaire-les-Eymes (direction Chambery)",
+    "address": "A41 - Saint-Nazaire-les-Eymes",
+    "connectors": [
+      "x2",
+      "x8",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "ENGIE Vianeo - A41 Aire de Bois Claret (direction Grenoble)",
+    "address": "- Saint-Nazaire-les-Eymes",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "DOMOSOLARIS",
+    "address": "8 Rue Paul Héroult - Villard-Bonnot",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEDI - Route de Chambéry Saint Ismier",
+    "address": "289 Route de Chambéry - Saint-Ismier",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Tesla Supercharger V2 - Grenoble/Bernin",
+    "address": "140 Chemin des Fontaines - Isère",
+    "connectors": [
+      "x8",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Inconnu"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "SEDI - Chemin de la Proula - Bernin",
+    "address": "177 Chemin de la Proula - Bernin",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ChargePoint - Super U - Biviers",
+    "address": "60 Chemin des Evequaux - Biviers",
+    "connectors": [
+      "x6"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "SEDI - Espace Aragon - Villard-Bonnot",
+    "address": "Boulevard Jules Ferry - Villard-Bonnot",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Mairie du Versoud",
+    "address": "1 Lotissement les Tonnelles 1 - Le Versoud",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alizé - BOTANIC Montbonnot - Route de la Doux",
+    "address": "790 Rue Aristide Bergès - Montbonnot-Saint-Martin",
+    "connectors": [
+      "x1",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

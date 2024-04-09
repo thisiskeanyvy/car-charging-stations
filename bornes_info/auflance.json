@@ -1,0 +1,120 @@
+[
+  {
+    "title": "FDEA 08 - Rue de la Poste - Margut",
+    "address": "37 Rue de la Poste - Margut",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - 19 Les Hayons - Florenville",
+    "address": "19 Les Hayons - Florenville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Ford - Florenville",
+    "address": "68 Rue De France - Florenville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Florenville - Hotel le Florentin",
+    "address": "9 Rue du Miroir - Florenville",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Delhaize - Florenville",
+    "address": "46 Rue d'Arlon - Florenville",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Modulo Energies - Rue du Parc - Carignan",
+    "address": "7 Rue du Parc - Carignan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Freshmile - Lidl - Carignan",
+    "address": "37 Avenue Du Général De Gaulle - Carignan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1.5
+  },
+  {
+    "title": "DATS24 - FLORENVILLE - RUE DE LA STATION 77",
+    "address": "RUE DE LA STATION 77 - FLORENVILLE",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarche Super Carignan",
+    "address": "25 La Voie de Sachy - Carignan",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "TPAE jamoigne",
+    "address": "14 Rue du Faing, Jamoigne - Chiny",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

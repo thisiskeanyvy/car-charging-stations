@@ -1,0 +1,116 @@
+[
+  {
+    "title": "SDESM - Route de Mormant Saint-Méry",
+    "address": "1 Rue de Mormant - Saint-Méry",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Rue Grande Saint-Germain-Laxis",
+    "address": "36 Rue Grande - Saint-Germain-Laxis",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "FR*CAR - Guignes - Rue Saint-Abdon ZA de l'Orée de Guignes",
+    "address": "Rue Saint-Abdon ZA de l'Orée de Guignes - Guignes",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - Rue de la Fraternité D619 - Yèbles",
+    "address": "1 Rue de la Fraternité - Yèbles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDESm - Avenue de la Gare - Yèbles",
+    "address": "15 Avenue de la Gare - Yèbles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Guignes - Place Charles Denis Cadas",
+    "address": "Place Charles Denis Cadas - Guignes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sivry Courtry",
+    "address": "9 Domaine de la Belle Allée - Sivry-Courtry",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place du souvenir - Maincy",
+    "address": "2 Place du Souvenir - Maincy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDESM - Châtillon-la-Borde",
+    "address": "2 Rue de la Justice - Châtillon-la-Borde",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Place Roger Chauveau - Lissy",
+    "address": "9 Place Roger Chauveau - Lissy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  }
+]

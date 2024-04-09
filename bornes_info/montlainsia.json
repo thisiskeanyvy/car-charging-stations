@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Garage Guyot",
+    "address": "30 Route de Bourg - Saint-Julien",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Le Moulin Chopin",
+    "address": "210 Rue du Moulin - Montagna-le-Reconduit",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Grande Rue - Coligny",
+    "address": "1 rue des anciens combattants - Coligny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Aldi - Balanod",
+    "address": "1530 Route de Saint-Amour - Balanod",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "NW IECharge - Saint-Amour - D3 La Grange du Chêne",
+    "address": "La Grange du Chêne - Saint-Amour",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "HDC - Pimorin",
+    "address": "Rippes Roland - Pimorin",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aire Camping Car - Cuiseaux",
+    "address": "Avenue de la Madeleine - Cuiseaux",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Electromaps - Dortan - Carrosserie de la Bienne",
+    "address": "5 Rue du 21 Juillet 1944 - Dortan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Champ de foire - VAL-REVERMONT",
+    "address": "11 Champ de foire - Treffort-Cuisiat",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "stade treffort",
+    "address": "71 Chemin du Mas Tabouret - Val-Revermont",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

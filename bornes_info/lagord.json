@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Crédit Agricole - Lagord (privé)",
+    "address": "2 Rue Louis Tardy - Lagord",
+    "connectors": [
+      "x10"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Lagord",
+    "address": "Rue du Moulin de Vendôme - Lagord",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Leclerc - Avenue du Fief Rose - Lagord",
+    "address": "Avenue du Fief Rose - Lagord",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Super U - Nieul-sur-Mer",
+    "address": "Avenue du Grand Large - Nieul-sur-Mer",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Freshmile - Leclerc Auto - Lagord",
+    "address": "25 Rue Pierre Ruibet et Claude Gâtineau - Lagord",
+    "connectors": [
+      "x4",
+      "x8"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Leclerc - Avenue des Crapaudières",
+    "address": "33 Avenue des Crapaudières - La Rochelle",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Rue Chasseloup-Laubat - La Rochelle",
+    "address": "3 Rue Chasseloup-Laubat - La Rochelle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MObiVE SDEER17 - L'Houmeau - Place Gaby Coll (rue du Maréchal de Lattre de Tassigny)",
+    "address": "4 Place Gaby Coll - L'Houmeau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MObiVE SDEER17 - Puilboreau - Espace Michel Crépeau / Médiathèque",
+    "address": "Place Jean Filippi - Puilboreau",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "E-Totem - Place de Verdun (extérieur) - La Rochelle",
+    "address": "Place de Verdun - La Rochelle",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  }
+]

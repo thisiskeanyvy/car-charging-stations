@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Alterbase Sorégies - Route de Poitiers - Ayron",
+    "address": "5 Route de Poitiers - Ayron",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "LATILLE",
+    "address": "22 Résidence du Parc - Latillé",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "AlterBase - Sorégies - Route de Mirebeau, 14 - Vouzailles",
+    "address": "14 Route de Mirebeau - Vouzailles",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Parking mairie - Chalandray",
+    "address": "3 Place de la Mairie - Chalandray",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "AlterBase - Sorégies - Rue de la Croix - Villiers",
+    "address": "Rue de la Croix - Villiers",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Place Boulangerie",
+    "address": "16 Rue de Champ Doré - Le Rochereau",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Alterbase Sorégies - N 149 Parking co voiturage - Vouillé",
+    "address": "Route de Poitiers - Vouillé",
+    "connectors": [
+      "x1",
+      "x2",
+      "x3",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Alterbase Séolis - Hôtel de Ville de Thénezay",
+    "address": "Place de l'Hôtel de ville - Thénezay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVBox - 1 ZA DES GOUPILLERES - THENEZAY",
+    "address": "1 ZA DES GOUPILLERES - THENEZAY",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Alterbase Sorégies - Allée Des Thuyas - Benassay",
+    "address": "1ter Allée Des Thuyas - Benassay",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

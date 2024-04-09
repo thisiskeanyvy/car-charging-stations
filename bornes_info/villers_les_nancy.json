@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Vinci - 56 Esplanade Jacques Baudot - Nancy",
+    "address": "56 Esplanade Jacques Baudot \n - Nancy",
+    "connectors": [
+      "x12",
+      "x12"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Villa Thermae - Nancy",
+    "address": "Rue du Sergeant Blandan - Nancy",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Métropole du Grand Nancy - Piscine - Vandœuvre-lès-Nancy",
+    "address": "12 Rue de Norvège - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x4",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Parking Kennedy - Nancy",
+    "address": "Rue André Schock - Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Qovoltis - 9 Allée de Longchamp - Villers-lès-Nancy",
+    "address": "9 Allée de Longchamp - Villers-lès-Nancy",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BUMP-CHARGE - Hôtel Revotel Nancy Centre Gare",
+    "address": "43 Rue Raymond Poincaré - Nancy",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Freshmile - 10 Allée Pelletier Doisy - Villers-lès-Nancy",
+    "address": "10 Allée Pelletier Doisy - Villers-lès-Nancy",
+    "connectors": [
+      "x10",
+      "x10"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Cogelum Citeos - Nancy - 6 Rue de Rome",
+    "address": "6 Rue de Rome - Nancy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Total Energies - Avenue de Bourgogne - Vandœuvre-lès-Nancy",
+    "address": "2 Avenue de Bourgogne - Vandœuvre-lès-Nancy",
+    "connectors": [
+      "x2",
+      "x6",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ymanci - Allée d'Enghien",
+    "address": "3 Allée d'Enghien - Villers-lès-Nancy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "SDESM - Place de la Mairie Montceaux-lès-Meaux",
+    "address": "Place de la Mairie - Montceaux-lès-Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - Rue de Meaux",
+    "address": "31 Rue de Meaux - Sancy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDESM - 38 Rue du Général de Gaulle - Trilport",
+    "address": "38 Rue du Général de Gaulle - Trilport",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - 1 Avenue de La Gare - Trilport",
+    "address": "6 Rue d'Armentières - Trilport",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "EFFIA - Rue de la Mairie - Changis-sur-Marne",
+    "address": "Rue de la Mairie - Changis-sur-Marne",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-Totem - Meaux - SCI Victoire",
+    "address": "225 Avenue de la Victoire - Meaux",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Meaux",
+    "address": "Avenue de la Victoire - Meaux",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDESM - Place de la mairie - Pierre-Levée",
+    "address": "3 Rue de Verdun - Pierre-Levée",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "EFFIA - 10 Rue Marcel Neyrat - Changis-sur-Marne",
+    "address": "10 Rue Marcel Neyrat - Changis-sur-Marne",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "STATIONS-E - Meaux - 12 Rue Albert Camus",
+    "address": "12 Rue Albert Camus - Meaux",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

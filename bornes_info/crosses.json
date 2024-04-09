@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Zeborne - Intermarché - Avord",
+    "address": "2 Rue Agnès Sorel Les Alouettes - Avord",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar18 - Saint Just - Place de la Mairie",
+    "address": "2 Place de la Mairie - Saint-Just",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "place de la mairie",
+    "address": "1 Le Bourg - St.-Just",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar 18 - Avord - Alouettes",
+    "address": "4 Rue des Alouettes - Avord",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Ecar 18 - Rue d'Aindling",
+    "address": "Rue d'Aindling - Avord",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Ecar 18 - Farges en Septaine",
+    "address": "Rue des Epinettes - Farges-en-Septaine",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Ecar 18 - Raymond",
+    "address": "Route de Blet - Raymond",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Plaimpied-Givaudins - Poste",
+    "address": "2-6 Rue des Gobbiers - Plaimpied-Givaudins",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Modulo Energies - Saint Germain du Puy - Place de l'église",
+    "address": "14 Rue Joliot Curie - Saint-Germain-du-Puy",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Lidl - Dun-sur-Auron",
+    "address": "Route de Bourges - Dun-sur-Auron",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  }
+]

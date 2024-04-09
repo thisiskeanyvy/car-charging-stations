@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SEHV - Hôpital",
+    "address": "5 Avenue François de la Josnière - Le Dorat",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE - Mairie de Magnac-Laval",
+    "address": "1 Place De La République - Magnac-Laval",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SEHV - N145, Aérodrome de Bellac - Blanzac",
+    "address": "- Blanzac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SEHV - Lussac-les-Églises - Place de la Fontaine",
+    "address": "Place de la Fontaine - Lussac-les-Églises",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Bellac",
+    "address": "16 Avenue René Coty - Bellac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "le pont fish and chips",
+    "address": "33E Rue Pierre Merlin - Bellac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Mairie de Bellac",
+    "address": "12 Rue Denfert Rochereau - Bellac",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "Les Forges de Planechaud",
+    "address": "10 Planechaud - Saint-Sornin-Leulac",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MObiVE/FR*S87*PMB87*29",
+    "address": "2 Rue du Champ de Foire - Val-d'Oire-et-Gartempe",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SEHV - Saint-Sornin-Leulac - N145, Contre Allée",
+    "address": "N145, Contre Allée - Saint-Sornin-Leulac",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  }
+]

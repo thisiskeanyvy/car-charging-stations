@@ -1,0 +1,140 @@
+[
+  {
+    "title": "SDE82 - Avenue Hugues IV de Cardaillac - Bioules",
+    "address": "Avenue Hugues IV de Cardaillac - Bioules",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Rue Saint-Blaise - Negrepelisse",
+    "address": "1 Rue Saint-Blaise - Nègrepelisse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "La Poste - Negrepelisse",
+    "address": "2-3 Place de la Mairie - Nègrepelisse",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Avenue Jean Moulin Nègrepelisse",
+    "address": "2 Zone Artisanale Port Nord - Nègrepelisse",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Super U - Nègrepelisse",
+    "address": "310 Route de Revel - Nègrepelisse",
+    "connectors": [
+      "x5",
+      "x5"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "SDE82 - Promenade Raymond Laurent - Réalville",
+    "address": "Promenade Raymond Laurent - Réalville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE82 - Chemin de Ronde Montricoux",
+    "address": "27–115 Route de Bioule - Montricoux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Route De Negrepelisse - Caussade",
+    "address": "162 Route De Negrepelisse - Caussade",
+    "connectors": [
+      "x4",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDE82 - Rue du Village Vaïssac",
+    "address": "Rue du Village - Vaïssac",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Caussade - 69 Avenue Edouard Heriot",
+    "address": "69 Avenue Edouard Herriot - Caussade",
+    "connectors": [
+      "x1",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  }
+]

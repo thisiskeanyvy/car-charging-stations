@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Freshmile - Route De La Bâte - Rochefort-en-Yvelines",
+    "address": "Route De La Bâte - Rochefort-en-Yvelines",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "NW IECharge - Dourdan - D838 Route de Liphard",
+    "address": "33 D838 - Dourdan",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rambouillet Territoires - Maternelle de Longvilliers",
+    "address": "4 Route de Reculet - Longvilliers",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Parking péage Dourdan A10",
+    "address": "D149 - Longvilliers",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Parking Multimodale 2",
+    "address": "1 D149 - Longvilliers",
+    "connectors": [
+      "x4",
+      "x13",
+      "x2",
+      "x11",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE",
+      "Combo CSS",
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "IONITY - A10 Parc multimodal de Longvilliers",
+    "address": "1 D149 - Longvilliers",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x8"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Rue Guy Le Rouge - Rochefort en Yvelines",
+    "address": "53 Rue Guy le Rouge - Rochefort-en-Yvelines",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking hotel Le Barn",
+    "address": "1 Le Moulin de Brétigny - Bonnelles",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Rue du Général de Gaulle - Roinville",
+    "address": "30 Rue du Général de Gaulle - Roinville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Parkeren hotel best western - Dourdan",
+    "address": "39 Rue Pierre Ceccaldi - Dourdan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

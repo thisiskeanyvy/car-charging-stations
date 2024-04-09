@@ -1,0 +1,130 @@
+[
+  {
+    "title": "SIEEEN - Place du marché (Gambetta)",
+    "address": "12 Place Gambetta - Donzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Intermarché - Donzy",
+    "address": "7 D33 - Donzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Donzy - 1 Rue Guy De Jean",
+    "address": "1 Rue Guy De Jean - Donzy",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Carrefour Market - Prémery",
+    "address": "Le Briou, - Prémery",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SIEEEN - Avenue de la Charité - Parking Salle des Fetes",
+    "address": "5 Avenue de la Charité - Varzy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Place du Champ de Foire Prémery",
+    "address": "6 Impasse du Champ de Foire - Prémery",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Parking Menestreau",
+    "address": "- Menestreau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "INTERMARCHE /FR*OTH*POTHR*470",
+    "address": "Rue des Plantes des Religieuses - La Charité-sur-Loire",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Aldi - Rue des Écoles - La Charité-sur-Loire",
+    "address": "21 Rue des Écoles - La Charité-sur-Loire",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Place de l'Europe - La Charité sur Loire",
+    "address": "10 Rue de Verdun - La Charité-sur-Loire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2.5
+  }
+]

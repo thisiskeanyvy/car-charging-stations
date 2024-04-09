@@ -1,0 +1,132 @@
+[
+  {
+    "title": "SDE07 (e-born) - Rue du Centre, 209 - Vernosc-lès-Annonay",
+    "address": "209 Rue du Centre - Vernosc-lès-Annonay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Avenue de la Gare - Annonnay",
+    "address": "6 Avenue de la Gare - Annonnay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "e-born - Parking La Valette (RDC) - Annonay",
+    "address": "2 Rue de la Valette - Annonay",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "e-born - Rue des Jardins de Tartavel - Davézieux",
+    "address": "1 Impasse de la poste - Davézieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Parking hotel de ville - Annonay (Privé)",
+    "address": "2 Rue de l'Hôtel de ville - Annonay",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Davézieux",
+    "address": "12 Le Mas Ouest - Davézieux",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SILHOUETTE FITNESS",
+    "address": "368 Route du Forez - Davézieux",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Eborn - Annonay - Place du Champ de Mars",
+    "address": "Place du Champ de Mars - Annonay",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "E-born - Le Grand Chemin - Roiffieux",
+    "address": "229 Le Grand Chemin - Roiffieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ZEborne - Super U - Annonay",
+    "address": "50 Avenue De l'Europe - Annonay",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

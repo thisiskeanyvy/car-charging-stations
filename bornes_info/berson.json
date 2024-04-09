@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Maison Groleau",
+    "address": "49 Groleau-Ouest - Mombrier",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Leclerc - La gruppe cars",
+    "address": "La gruppe cars - Blaye",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Saint-Martin-Lacaussade",
+    "address": "9 Avenue Mercure - Saint-Martin-Lacaussade",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Blaye",
+    "address": "Lieudit Chardonnet - Blaye",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDEEG33 - Gare de Blaye",
+    "address": "Cours du Général de Gaulle - Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SDEEG33 - Cours de la république",
+    "address": "25 Cours de la République - Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Allée Marine - Blaye (le long de la voie ferrée)",
+    "address": "9–11 Cours Vauban - Blaye",
+    "connectors": [
+      "x36"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEEG33 - Place des cônes Blaye",
+    "address": "1 Place des Cônes - Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Mairie - Saint-Christoly-de-Blaye",
+    "address": "Le Bourg - Saint-Christoly-de-Blaye",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEEG33 - Place de l'arc - Bourg sur Gironde",
+    "address": "10 Rue du Château Vieux - Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  }
+]

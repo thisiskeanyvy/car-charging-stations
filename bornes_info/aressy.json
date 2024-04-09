@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Clinique Aressy - Rue des Sources (privé)",
+    "address": "Rue des Sources - Aressy",
+    "connectors": [
+      "x5"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiVE - Avenue du Général de Gaulle - Mazères-Lezons",
+    "address": "39 Avenue du Général de Gaulle - Mazères-Lezons",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mobive - Bizanos",
+    "address": "Avenue de l'Europe - Bizanos",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "EVzen - Norauto - Bizanos",
+    "address": "37 Boulevard du Commandant René Mouchotte - Bizanos",
+    "connectors": [
+      "x2",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Renault - PPDA",
+    "address": "Route de Tarbes - Pau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Leclerc - Mazères-Lezons",
+    "address": "Rue du Général Leclerc - Mazères-Lezons",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEPA - Stade nautique Pau",
+    "address": "1 Avenue Nitot - Pau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Auchan - Avenue du Général Leclerc -Pau",
+    "address": "1 Avenue du Général Leclerc - Pau",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "La Brasserie - Pau",
+    "address": "2 Avenue Alfred Nobel - Pau",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hôtel Parc Beaumont (Tesla)",
+    "address": "1 Avenue Edouard VII - Pau",
+    "connectors": [
+      "x3"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "LOUTREIN",
+    "address": "18 La Maisonneraie de Pinsoles - Saint Aubin de Médoc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Intermarché - Saint Medard en Jalles",
+    "address": "68 - Saint-Médard-en-Jalles",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Garage Renault Sainz",
+    "address": "Avenue Léon Blum - Saint-Médard-en-Jalles",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Stations-e - Plaine sportive - Saint-Aubin-de-Médoc",
+    "address": "01 Route de la Serpentine - Saint-Aubin-de-Médoc",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Route de Saint-Médard - Saint-Aubin-de-Médoc",
+    "address": "7 Route de Saint-Médard - Saint-Aubin-de-Médoc",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "WAAT - Saint-Aubin-de-Médoc - Allée des Châtaigniers",
+    "address": "Allée des Châtaigniers - Saint-Aubin-de-Médoc",
+    "connectors": [
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Freshmile - Chemin De Courmateau - Le Pian-Médoc",
+    "address": "Chemin De Courmateau - Le Pian-Médoc",
+    "connectors": [
+      "x4",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Golf du Médoc Hotel & Spa",
+    "address": "Chemin de Courmateau - Le Pian Medoc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Hotel d'Isle",
+    "address": "22 Rue de l'Isle - Castelnau-de-Médoc",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "19 Allée Dordins",
+    "address": "19 Allée Dordins - Saint-Médard-en-Jalles",
+    "connectors": [
+      "x48"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  }
+]

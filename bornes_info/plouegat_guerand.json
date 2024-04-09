@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SDEF - Plouégat Guérand (Place du Bourg)",
+    "address": "4 Place du Bourg - Plouégat-Guérand",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Powerdot - Lanmeur - Super U",
+    "address": "33 rue des quatre vents - Lanmeur",
+    "connectors": [
+      "x2",
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Lanmeur (Parking Pen Huella Guer)",
+    "address": "Rue de Morlaix - Lanmeur",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Office de tourisme - Plestin Les Greves",
+    "address": "Place du 19 mars 1962 - Plestin les Greves",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDE22 - Place du 19 mars 1962 - Plestin-les-Grèves",
+    "address": "Place du 19 mars 1962 - Plestin-les-Grèves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ChargePoint Network - Super U - Plestin-les-Grèves",
+    "address": "Rue des Clos - Plestin-les-Grèves",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Brico Dépot - Plouigneau",
+    "address": "190 Rue des Frênes - Plouigneau",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEF - Guimaëc (Hent Sant Fiek)",
+    "address": "Hent Sant Fiek - Guimaëc",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Lidl - Plestin-les-Grèves",
+    "address": "153–269 Route de Guergay - Plestin-les-Grèves",
+    "connectors": [
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "SDEF - Hôtel de Ville de Plouigneau",
+    "address": "Rue du 9 août - Plouigneau",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Z.A.E. du Frigoulet - Cournonsec",
+    "address": "170 Rue de la Billière - Cournonsec",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - Avenue Cynisca - Cournonterral",
+    "address": "9057F La Maire - Cournonterral",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "RÉVÉO - Chemin de Poussan - Montbazin",
+    "address": "Chemin de Poussan - Montbazin",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Révéo - Place de la République Gigean",
+    "address": "Place de la République - Gigean",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Izivia - Super U - Pignan",
+    "address": "Route de Montpellier - Pignan",
+    "connectors": [
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Montpellier Méditerranée Métropole - Murviel-lès-Montpellier - Rue Lucie et Raymond Aubrac",
+    "address": "Rue Lucie et Raymond Aubrac - Murviel-lès-Montpellier",
+    "connectors": [
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Borneco - Poussan - 7 Le Garel",
+    "address": "7 Le Garel - Poussan",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-Vadea - A9 Aire de Montpellier Fabregues Sud (direction Montpellier)",
+    "address": "A9 , Aire de Montpellier Fabregues Sud - Fabrègues",
+    "connectors": [
+      "x7",
+      "x9",
+      "x14",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "TotalEnergies - A9 - Aire de Montpellier-Fabrègues (direction Béziers)",
+    "address": "A9 - Fabrègues",
+    "connectors": [
+      "x7",
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Combo CSS",
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Révéo - Rue du Collège Poussan",
+    "address": "Rue du Collège - Poussan",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 2
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Rue des Écoles - Préveranges",
+    "address": "1 Rue des Écoles - Préveranges",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Château de Poinsouze",
+    "address": "3 Poinsouze - Boussac-Bourg",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Route De Bétête - Malleret-Boussac",
+    "address": "Route De Bétête - Malleret-Boussac",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sdec - 8 Impasse du Collège - Boussac",
+    "address": "8 Impasse du Collège - Boussac",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Intermarché Chateaumeillant",
+    "address": "2 Les Giverlais - Châteaumeillant",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Modulo Energies - Rue de la Libération - Châteaumeillant",
+    "address": "69 Rue de la Libération - Châteaumeillant",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping Etang Merlin",
+    "address": "L'Étang Merlin - Châteaumeillant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Inconnu"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "ITM - JURAYSSE-22kW AC INEXISTANT",
+    "address": "50 Avenue Emile Chenon - Châteaumeillant",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEI36 - Pouligny-Notre-Dame",
+    "address": "7 Allée de la Fontvieille - Pouligny-Notre-Dame",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "Sdec - Toulx-Sainte-Croix - Les Pierres Jaumatres Parking",
+    "address": "Les Pierres Jaumatres Parking - Toulx-Sainte-Croix",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Izivia - Intermarché - Dannemarie",
+    "address": "42 Rue de Belfort - Dannemarie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault - Dannemarie",
+    "address": "18a rue belfort - Dannemarie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "BRAYE Cuisine -mobilier -literie",
+    "address": "13 Rue de Bâle - Dannemarie",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - A36 Aire de Porte d'Alsace Sud (direction Mulhouse)",
+    "address": "Aire de Porte d'Alsace Sud, Burnhaupt-le-Bas - Burnhaupt-le-Bas",
+    "connectors": [],
+    "types": [],
+    "reputation": 0
+  },
+  {
+    "title": "Mairie - Manspach (privé)",
+    "address": "3 Rue de la Vallée - Manspach",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "TotalEnergies - A36 Aire de la Porte d'Alsace Sud (direction Mulhouse)",
+    "address": "A36 - Burnhaupt-le-Bas",
+    "connectors": [
+      "x2",
+      "x2",
+      "x2",
+      "x6"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "TotalEnergies - A36 Aire de la Porte d'Alsace Nord (direction Besançon)",
+    "address": "A36 - Burnhaupt-le-Bas",
+    "connectors": [
+      "x2",
+      "x4",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Gîte \"Les Sabots de Paille\"",
+    "address": "4 Rue des prés - Ballersdorf",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Freshmile - Pont d'Aspach - Burnhaupt-le-Haut",
+    "address": "1 Pont d'Aspach - Burnhaupt-le-Haut",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "IONITY - Burnhaupt-le-Haut",
+    "address": "2a Rue Du Pont d'Aspach - Burnhaupt-le-Haut",
+    "connectors": [
+      "x6",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 4
+  }
+]

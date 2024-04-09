@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SDEM50 - D974-Aire de covoiturage- Guilberville",
+    "address": "14 Le Petit Parc - Torigny-les-Villes",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - Campagnolles",
+    "address": "rue des Drudes - Campagnolles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue du Saussey, 2 - Guilberville",
+    "address": "2 Rue du Saussey - Guilberville",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDEM50 - Rue des Anciennes Halles - Tessy-sur-Vire",
+    "address": "1 Rue des Anciennes Halles - Tessy-sur-Vire",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - LA GRAVERIE (Place de la Gare)",
+    "address": "2 Ruelle de la Gare - La Graverie",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - COULONCES (Parking de la Mairie)",
+    "address": "5 Le Bourg - Coulonces",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "IONITY - A84 - Aire de la Vallée de la Vire Gouvets (double sens)",
+    "address": "A84 - Gouvets",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x4"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Rue du Chanoine Cochard - Le Bény-Bocage",
+    "address": "9 Rue du Chanoine Cochard - Le Bény-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Renault Vire BodemerAuto",
+    "address": "ZI La Papillonnière - Vire",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 3C",
+      "Type 3C"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Nissan - Vire",
+    "address": "Zone Artisanale Les Neuvillières - Vire",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 3C"
+    ],
+    "reputation": 0
+  }
+]

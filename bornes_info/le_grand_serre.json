@@ -1,0 +1,136 @@
+[
+  {
+    "title": "SDED - Place des Tilleuls Lens-Lestang",
+    "address": "Le Village - Lens-Lestang",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Sded - Parking du Palais Hauterives",
+    "address": "4 Rue André Malraux - Hauterives",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Electromaps - Hôtel L'emblème - 18 Avenue des Terreaux - Beaurepaire",
+    "address": "18 Avenue des Terreaux - Beaurepaire",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place du Jeu de Paume - Beaurepaire",
+    "address": "5 Place du Jeu de Paume - Beaurepaire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint Barthélémy",
+    "address": "92 Chemin de la Barrière - Saint-Barthelemy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "SDED - Place du lavoir",
+    "address": "Place du lavoir - Saint Bonnet de Valclerieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SDED - Saint-Bonnet-de-Valclérieux",
+    "address": "35 Route du Chalon - Saint-Bonnet-de-Valclérieux",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "e-born - Place Justin Achard - Moras-en-Valloire",
+    "address": "Place Justin Achard - Moras-en-Valloire",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Carrefour Market - Beaurepaire",
+    "address": "170 Av. d'Auenwald, - Beaurepaire",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Eborn - Viriville - Rue De La Gare",
+    "address": "Rue De La Gare - Viriville",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "CHAdeMO",
+      "Combo CSS",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

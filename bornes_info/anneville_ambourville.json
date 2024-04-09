@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Parking Duclair bord de Seine",
+    "address": "Avenue du President Coty - Duclair",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Duclair - Avenue du Président Coty",
+    "address": "Avenue du Président Coty - Duclair",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Combo CSS"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Carrefour Market - Rue Paul Ducros",
+    "address": "107–117 Rue Paul Ducrocq - Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "CREA - Chemin Du Catel - Duclair",
+    "address": "51 Chemin Du Catel - Duclair",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 2
+  },
+  {
+    "title": "Métropole Rouen Normandie (CREA) - Rue Théophile Pourhomme - Yainville",
+    "address": "Rue Théophile Pourhomme - Yainville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "CREA’VENIR - Saint-Pierre-de-Varengeville (Chemin de la Messé)",
+    "address": "Chemin de la Messé - Saint-Pierre-de-Varengeville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Camping de la forêt - Jumieges",
+    "address": "582 Rue Mainberte - Jumièges",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Powerdot - Le Trait - Leader Price",
+    "address": "11 Rue de Godshorn, 76580 Le Trait, France - Le Trait",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "Combo CSS",
+      "CHAdeMO",
+      "Combo CSS"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "CREA - Rue du Stade - Hénouville",
+    "address": "4 Rue du Stade - Hénouville",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "VBI-IRVE",
+    "address": "17 Rue Raymond Breteche - Le Trait",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

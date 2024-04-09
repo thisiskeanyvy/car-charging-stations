@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Mouv' Oise - Hermes",
+    "address": "52 Rue du 11 Novembre - Hermes",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Bailleul sur Thérain",
+    "address": "5 Place Maurice Segonds - Bailleul-sur-Thérain",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Noailles",
+    "address": "11 Rue de Paris - Noailles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Châteauform' Le Château de Fillerval",
+    "address": "Rue du Lavoir - Thury-Sous-Clermont",
+    "connectors": [
+      "x3",
+      "x6"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Mouv' Oise - Rue Condorcet Bresles",
+    "address": "Rue Condorcet - Bresles",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "Intermarché - route nationale 31",
+    "address": "route nationale 31 - Bresles",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv' Oise - Mouy",
+    "address": "Place Pierre Semard - Mouy",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Mouv’Oise - 126 Rue du Général de Gaulle - La Neuville en Hez",
+    "address": "126 Rue du Général de Gaulle - La Neuville en Hez",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - ZA \"Le Bois Noir Nord\" - Bury",
+    "address": "6 Rue du Grand Pre - Bury",
+    "connectors": [
+      "x8"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4.5
+  },
+  {
+    "title": "Freshmile - Super U - Sainte-Geneviève",
+    "address": "116 Route Nationale 1 - Sainte-Geneviève",
+    "connectors": [
+      "x9",
+      "x1",
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Type 2",
+      "CHAdeMO",
+      "Combo CSS",
+      "Combo CSS",
+      "Combo CSS"
+    ],
+    "reputation": 2
+  }
+]

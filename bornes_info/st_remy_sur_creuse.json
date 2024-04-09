@@ -1,0 +1,124 @@
+[
+  {
+    "title": "SIEIL - Place Milo Fression",
+    "address": "1 Place Milo Freslon - Descartes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "ZEborne - Descartes - Intermarché",
+    "address": "Avenue Jean Monnet - Descartes",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Sorégies - Dangé saint romain",
+    "address": "82 Avenue de l'Europe - Dangé-Saint-Romain",
+    "connectors": [
+      "x1",
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "Modulo/SIEIL - Parking Espace de loisir Jean Vimenet",
+    "address": "D342 - Neuilly-le-Brignon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Bornes Solutions - 10 Route de Vaux - Dangé-Saint-Romain",
+    "address": "10 Route de Vaux - Dangé-Saint-Romain",
+    "connectors": [
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Antogny-le-Tillac",
+    "address": "16 Route de Richelieu - Antogny-le-Tillac",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Place Savoie-Villars - Le Grand-Pressigny",
+    "address": "Rue du Presbytère - Le Grand-Pressigny",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "SIEIL - Cité de l'Hermitage - La Celle-Saint-Avant",
+    "address": "14-16 Cité de l'Hermitage - La Celle-Saint-Avant",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 3
+  },
+  {
+    "title": "SIEIL - Rue Jean Michaud, 2 - Cussay",
+    "address": "2 Rue Jean Michaud - Cussay",
+    "connectors": [
+      "x1",
+      "x3"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Borne SIEIL - Salle socioculturelle - Draché",
+    "address": "Rue du Breuil - Draché",
+    "connectors": [
+      "x2",
+      "x4"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]

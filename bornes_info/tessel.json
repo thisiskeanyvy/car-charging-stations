@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Ferme de la Cordière",
+    "address": "Beljambe - Noyers-Bocage",
+    "connectors": [
+      "x1"
+    ],
+    "types": [
+      "Domestique UE"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Noyers-Bocage (Place de l'Église)",
+    "address": "Place de l'Église - Noyers-Bocage",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Grainville-sur-Odon",
+    "address": "21 Rue de la Libération - Grainville-sur-Odon",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 1
+  },
+  {
+    "title": "MobiSDEC - Rue de la Varende - Tilly-sur-Seulles",
+    "address": "25 Rue de la Varende - Tilly-sur-Seulles",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 3C",
+      "Type 2"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "MobiSDEC - Mairie de Tilly-sur-Seulles",
+    "address": "2 Rue de Bayeux - Tilly-sur-Seulles",
+    "connectors": [
+      "x1",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Combo CSS",
+      "CHAdeMO",
+      "Type 2"
+    ],
+    "reputation": 3.5
+  },
+  {
+    "title": "MobiSDEC - LE MESNIL PATRY (Rue de Brouay)",
+    "address": "Rue de Brouay - Le Mesnil-Patry",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "Château d'Audrieu",
+    "address": "3 Impasse des Écureuils - Audrieu",
+    "connectors": [
+      "x2"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 0
+  },
+  {
+    "title": "MobiSDEC - Saint-Manvieu-Norrey",
+    "address": "1 Rue de l'Église - Saint-Manvieu-Norrey",
+    "connectors": [
+      "x2",
+      "x1",
+      "x1"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2",
+      "Type 3C"
+    ],
+    "reputation": 5
+  },
+  {
+    "title": "Lidl - Saint-Manvieu-Norrey",
+    "address": "2 Route de Caen - Saint-Manvieu-Norrey",
+    "connectors": [
+      "x4"
+    ],
+    "types": [
+      "Type 2"
+    ],
+    "reputation": 4
+  },
+  {
+    "title": "MobiSDEC - Rue de la Gare - Bretteville l'Orgueilleuse",
+    "address": "Rue de la Gare - Bretteville-l'Orgueilleuse",
+    "connectors": [
+      "x2",
+      "x2"
+    ],
+    "types": [
+      "Domestique UE",
+      "Type 2"
+    ],
+    "reputation": 0
+  }
+]
