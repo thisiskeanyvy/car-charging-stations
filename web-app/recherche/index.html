@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Liste des bornes de recharge pour voiture électrique | Ma Recharge</title>
+    <meta name="title" content="Liste des bornes de recharge pour voiture électrique | Ma Recharge" />
+    <meta name="description" content="Explorez notre liste exhaustive des bornes de recharge pour voiture électrique avec Ma Recharge. Nous vous offrons une vue complète des stations de recharge à travers la France. Trouvez facilement les emplacements les plus adaptés, consultez les tarifs actualisés et découvrez les avis des utilisateurs. Ma Recharge simplifie la recherche de bornes de recharge, vous permettant de planifier vos trajets électriques en toute confiance." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ma-recharge.fr/recherche/" />
+    <meta property="og:title" content="Liste des bornes de recharge pour voiture électrique | Ma Recharge" />
+    <meta property="og:description" content="Explorez notre liste exhaustive des bornes de recharge pour voiture électrique avec Ma Recharge. Nous vous offrons une vue complète des stations de recharge à travers la France. Trouvez facilement les emplacements les plus adaptés, consultez les tarifs actualisés et découvrez les avis des utilisateurs. Ma Recharge simplifie la recherche de bornes de recharge, vous permettant de planifier vos trajets électriques en toute confiance." />
+    <meta property="og:image" content="https://ma-recharge.fr/assets/img/banner-seo.png" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://ma-recharge.fr/recherche/" />
+    <meta property="twitter:title" content="Liste des bornes de recharge pour voiture électrique | Ma Recharge" />
+    <meta property="twitter:description" content="Explorez notre liste exhaustive des bornes de recharge pour voiture électrique avec Ma Recharge. Nous vous offrons une vue complète des stations de recharge à travers la France. Trouvez facilement les emplacements les plus adaptés, consultez les tarifs actualisés et découvrez les avis des utilisateurs. Ma Recharge simplifie la recherche de bornes de recharge, vous permettant de planifier vos trajets électriques en toute confiance." />
+    <meta property="twitter:image" content="https://ma-recharge.fr/assets/img/banner-seo.png" />
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#0099ff">
+    <meta name="msapplication-TileColor" content="#0099ff">
+    <meta name="theme-color" content="#2cabff">
+    <!-- Css -->
+    <link href="/assets/css/bootstrap-theme.css" rel="stylesheet" media="all" />
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="all" />
+    <link href="/assets/css/style.css" rel="stylesheet" media="all" />
+    <script type="text/javascript" src="/assets/js/jquery-2-1-4-min.js"></script>
+    <link href="/assets/css/rwd-table.css" rel="stylesheet" />
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+  </head>
+  <body class="home">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="logo_container">
+            <a href="/" title="Ma Recharge, le premier comparateur de prix pour les bornes de recharge pour voiture électrique">
+              <img src="/assets/img/banner-dark.png" />
+            </a>
+          </div>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+              <a title="Téléchargez Ma Recharge sur iOS et Android" href="index.html#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                <strong>TÉLÉCHARGEZ L'APP</strong>
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a title="Téléchargez Ma Recharge sur Android" href="/disponible">Ma Recharge sur Android</a>
+                </li>
+                <li>
+                  <a title="Téléchargez Ma Recharge sur iOS" href="/disponible">Ma Recharge sur iOS</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a title="Trouvez la borne la moins chère avec Ma Recharge" href="/disponible">
+                <strong>LA MEILLEURE BORNE</strong>
+              </a>
+            </li>
+            <li>
+              <a title="Les actualités relatives au prix des bornes électrique" href="/disponible">
+                <strong>ACTUS</strong>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="result">
+      <div class="banner">
+        <h1 class="home__secundary-title" style="margin-top: 9px;">Trouvez la meilleure borne de recharge autour de vous</h1>
+        <div class="form clearFix">
+          <form action="/recherche/" method="get" class="searchResults rounded" style="margin-top: 9px;">
+            <div class="form">
+              <div id="suggest__container"></div>
+            </div>
+            <input type="hidden" name="gas_type" value="gasoil" />
+            <input type="hidden" name="gtf" value="go" />
+          </form>
+        </div>
+      </div>
+      <div id="fuelsListContainer" class="table-responsive" data-pattern="priority-columns">
+        <div class="home__pub__display pub__display__mobile" style="margin-top: 10px;">
+          <div class="pub__display pub__display--dynamic">
+            <!-- Ads potentielles -->
+          </div>
+          <style>
+            @media (min-width: 350px) {
+              .infeed {
+                height: 180px;
+              }
+            }
+
+            @media (min-width: 500px) {
+              .infeed {
+                height: 130px;
+              }
+            }
+
+            @media (min-width: 800px) {
+              .infeed {
+                height: 200px;
+              }
+            }
+          </style>
+        </div>
+        <h1 class="titleResults">Bornes autour de : <span itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <span id="villeRecherche" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"></span>
+          </span>
+        </h1>
+        <table id="result__table" class="table table-small-font hidden-xs">
+          <thead>
+            <tr>
+              <th class="hiddenTh logoStation">Marque</th>
+              <th class="hiddenTh adress">Adresse</th>
+              <th class="highlighted">
+                <a href="/disponible">Tout</a>
+              </th>
+              <th class="">
+                <a href="/disponible">Type 2</a>
+              </th>
+              <th class="">
+                <a href="/disponible">Combo CSS</a>
+              </th>
+              <th class="">
+                <a href="/disponible">CHAdeMO</a>
+              </th>
+              <th class="">
+                <a href="/disponible">Type 3C</a>
+              </th>
+              <th class="">
+                <a href="/disponible">Type 1</a>
+              </th>
+              <th class="">
+                <a href="/disponible">Réputation</a>
+              </th>
+            </tr>
+          </thead>
+          <tbody id="bornesInfo-desktop"></tbody>
+        </table>
+      </div>
+      <div id="mobileGas" class="hidden-sm hidden-lg hidden-md">
+              <div class="highlighted">
+                <a href="/disponible">Tout</a>
+              </div>
+              <div class="">
+                <a href="/disponible">Type 2</a>
+              </div>
+              <div class="">
+                <a href="/disponible">Combo CSS</a>
+              </div>
+              <div class="">
+                <a href="/disponible">CHAdeMO</a>
+              </div>
+              <div class="">
+                <a href="/disponible">Type 3C</a>
+              </div>
+              <div class="">
+                <a href="/disponible">Type 1</a>
+              </div>
+      </div>
+      <div id="bornesInfo-mobile"></div>
+    </div>
+    <script>
+      var url = window.location.href;
+      var urlObj = new URL(url);
+      var recherche = urlObj.searchParams.get("q");
+      if(recherche != "") {
+        window.searchInput = recherche;
+      }
+    </script>
+    <script type="text/javascript" src="/assets/js/app.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery-2-1-4-min.js"></script>
+    <script type="text/javascript" src="/assets/js/rwd-table.js"></script>
+    <footer>
+      <div class="container">
+        <img class="footer__petrol-logo" alt="Ma Recharge, le premier comparateur de prix pour les bornes de recharge pour voiture électrique" src="/assets/img/banner-light.png" />
+        <div class="footer__content">
+          <div class="footer__content__slogan">
+            <p> Rejoignez les 2 millions de conducteurs de voitures électriques qui réalisent chaque jour des économies sur leur budget de recharge !</p>
+            <div class="footer-badges">
+              <a href="https://www.linkedin.com/">
+                <img alt="LinkedIn" src="/assets/img/linkedin.png" />
+              </a>
+              <a href="https://twitter.com/">
+                <img alt="Twitter" src="/assets/img/twitter.png" />
+              </a>
+              <a href="https://www.facebook.com/">
+                <img alt="Facebook" src="/assets/img/facebook.png" />
+              </a>
+              <a href="https://www.youtube.com/">
+                <img alt="Youtube" src="/assets/img/youtube.png" />
+              </a>
+            </div>
+            <div class="downloadBadge">
+              <a href="/disponible" class="">
+                <img alt="sur l'app store" src="/assets/img/appstore.svg" height="40px" />
+              </a>
+              <a href="/disponible" class="">
+                <img alt="sur le play store" src="/assets/img/googleplay.png" height="40px" />
+              </a>
+            </div>
+          </div>
+          <div class="footer__columns">
+            <div class="footer__content__apropos">
+              <h4 class="">À propos</h4>
+              <a href="/disponible">Actualités</a>
+              <br />
+              <a href="/disponible">FAQ</a>
+              <br />
+              <a href="/disponible">Contact</a>
+              <br />
+              <a href="/disponible">Presse</a>
+            </div>
+            <div class="footer__content__legal">
+              <h4 class="">Mentions légales</h4>
+              <a href="/conditions-generales">Conditions générales</a>
+              <br />
+              <a href="/politique-confidentialite">Politique confidentialité</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <span>ma-recharge.fr</span>
+    </footer>
+    <!-- Javascript -->
+    <script></script>
+    <a href="/disponible">
+      <div id="shop-button">
+        <div style="border:3px solid #337ab7;background:#FFF; overflow:hidden;width:fit-content;" class="shop-button-style">
+          <img src="/assets/img/recharge.gif" alt="Téléchargez Ma Recharge sur iOS et Android">
+        </div>
+        <center>
+          <strong>Téléchargez <br /> Ma Recharge </strong>
+        </center>
+      </div>
+      </div>
+    </a>
+  <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/assets/js/main.js"></script>
+  <script type="text/javascript" src="/assets/js/geolocation.js"></script>
+  </body>
+</html>

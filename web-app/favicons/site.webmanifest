@@ -1,0 +1,19 @@
+{
+    "name": "Ma Recharge",
+    "short_name": "Ma Recharge",
+    "icons": [
+        {
+            "src": "/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#2cabff",
+    "background_color": "#2cabff",
+    "display": "standalone"
+}
