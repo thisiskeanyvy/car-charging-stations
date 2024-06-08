@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         //call api
         const controller = new AbortController()
         const timeoutId = setTimeout(() => controller.abort(), 50000)
-        const response = await fetch('https://api.ma-recharge.fr/v1/app?ville='+encodeURIComponent(recherche),{ signal: controller.signal });
+        const response = await fetch('https://web-api.marechargeapp.workers.dev/v1/app?ville='+encodeURIComponent(recherche),{ signal: controller.signal });
         const dataBornes = await response.json();
         dataBornes.sort(function(a, b) {
           return b.reputation - a.reputation;

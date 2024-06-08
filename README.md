@@ -1,6 +1,12 @@
 # Car Charging Stations 🚗⚡
 
+Demo : https://car-charging-stations.pages.dev/
+
+![demo](https://raw.githubusercontent.com/thisiskeanyvy/car-charging-stations/main/demo.png)
+
 Car Charging Stations est un projet open-source visant à distribuer des informations sur la localisation des bornes de recharge pour les véhicules électriques en France. De plus, il fournit des détails sur les types de connecteurs disponibles à chaque station et les évaluations des utilisateurs.
+
+Les données qui alimentent l'application ont été récupérées sur différentes sources internet dont du scrapping et d'autres techniques.
 
 ## Table des matières
 
@@ -32,3 +38,5 @@ Avec l'augmentation de l'adoption des véhicules électriques, le besoin de stat
 ```bash
 git clone https://github.com/thisiskeanyvy/car-charging-stations
 ```
+
+2. Contribuez au développement open-source de l'application
